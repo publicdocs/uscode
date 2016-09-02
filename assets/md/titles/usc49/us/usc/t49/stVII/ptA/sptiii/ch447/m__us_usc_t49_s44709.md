@@ -15,11 +15,11 @@
 
 ## § 44709. Amendments, modifications, suspensions, and revocations of certificates
 
-    (a) __Reinspection and Reexamination.—__ 
+    (a)  __Reinspection and Reexamination__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under [section 44703 of this title][/us/usc/t49/s44703].
 
-    (b) __Actions of the Administrator.—__ 
+    (b)  __Actions of the Administrator__  __.—__ 
 
     The Administrator may issue an order amending, modifying, suspending, or revoking—
 
@@ -33,11 +33,11 @@
 
         (2) an airman certificate when the holder of the certificate is convicted of violating section 13(a) of the Fish and Wildlife Act of 1956 ([16 U.S.C. 742j–1(a)][/us/usc/t16/s742j–1/a]).
 
-    (c) __Advice to Certificate Holders and Opportunity To Answer.—__ 
+    (c)  __Advice to Certificate Holders and Opportunity To Answer__  __.—__ 
 
     Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
 
-    (d) __Appeals.—__ 
+    (d)  __Appeals__  __.—__ 
 
         (1)
 
@@ -59,23 +59,23 @@
 
     (e) __Effectiveness of Orders Pending Appeal.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         When a person files an appeal with the Board under subsection (d), the order of the Administrator is stayed.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Notwithstanding paragraph (1), the order of the Administrator is effective immediately if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately.
 
-        (3) __Review of emergency order.—__ 
+        (3)  __Review of emergency order__  __.—__ 
 
         A person affected by the immediate effectiveness of the Administrator’s order under paragraph (2) may petition for a review by the Board, under procedures promulgated by the Board, of the Administrator’s determination that an emergency exists. Any such review shall be requested not later than 48 hours after the order is received by the person. If the Board finds that an emergency does not exist that requires the immediate application of the order in the interest of safety in air commerce or air transportation, the order shall be stayed, notwithstanding paragraph (2). The Board shall dispose of a review request under this paragraph not later than 5 days after the date on which the request is filed.
 
-        (4) __Final disposition.—__ 
+        (4)  __Final disposition__  __.—__ 
 
         The Board shall make a final disposition of an appeal under subsection (d) not later than 60 days after the date on which the appeal is filed.
 
-    (f) __Judicial Review.—__ 
+    (f)  __Judicial Review__  __.—__ 
 
     A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 

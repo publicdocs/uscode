@@ -15,7 +15,7 @@
 
 ## § 30147. Responsibility for defects and noncompliance
 
-    (a) __Deeming Defect or Noncompliance to Certain Vehicles and Importer as Manufacturer.—__ 
+    (a)  __Deeming Defect or Noncompliance to Certain Vehicles and Importer as Manufacturer__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The Secretary shall publish in the Federal Register notice of any defect or noncompliance under paragraph (1)(A) of this subsection.
 
-    (b) __Financial Responsibility Requirement.—__ 
+    (b)  __Financial Responsibility Requirement__  __.—__ 
 
     The Secretary shall require by regulation each registered importer (including any successor in interest) to provide and maintain evidence, satisfactory to the Secretary, of sufficient financial responsibility to meet its obligations under sections 30117(b), 30118–30121, and 30166(f) of this title.
 

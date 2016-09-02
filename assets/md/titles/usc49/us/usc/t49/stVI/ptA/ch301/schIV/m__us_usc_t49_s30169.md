@@ -15,7 +15,7 @@
 
 ## § 30169. Annual reports
 
-    (a) __General Report.—__ 
+    (a)  __General Report__  __.—__ 
 
     The Secretary of Transportation shall submit to the President to submit to Congress on July 1 of each year a report on the administration of this chapter for the prior calendar year. The report shall include—
 
@@ -35,7 +35,7 @@
 
         (8) recommendations for legislation needed to promote cooperation among the States in improving traffic safety and strengthening the national traffic safety program.
 
-    (b) __Report on Importing Motor Vehicles.—__ 
+    (b)  __Report on Importing Motor Vehicles__  __.—__ 
 
     Not later than 18 months after regulations are first prescribed under section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, the Secretary shall submit to Congress a report of the actions taken to carry out subchapter III of this chapter and the effectiveness of those actions, including any testing by the Secretary under [section 30146(c)(2) of this title][/us/usc/t49/s30146/c/2]. After the first report, the Secretary shall submit a report to Congress under this subsection not later than July 31 of each year.
 

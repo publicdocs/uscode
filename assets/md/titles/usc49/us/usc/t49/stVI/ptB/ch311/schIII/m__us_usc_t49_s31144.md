@@ -15,7 +15,7 @@
 
 ## § 31144. Safety fitness of owners and operators
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall—
 
@@ -33,7 +33,7 @@
 
         (4) prescribe by regulation penalties for violations of this section consistent with section 521.
 
-    (b) __Procedure.—__ 
+    (b)  __Procedure__  __.—__ 
 
     The Secretary shall maintain by regulation a procedure for determining the safety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
 
@@ -45,77 +45,77 @@
 
     (c) __Prohibited Transportation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in section 521(b)(5)(A) and this subsection, an owner or operator who the Secretary determines is not fit may not operate commercial motor vehicles in interstate commerce beginning on the 61st day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
 
-        (2) __Owners or operators transporting passengers.—__ 
+        (2)  __Owners or operators transporting passengers__  __.—__ 
 
         With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
 
-        (3) __Owners or operators transporting hazardous material.—__ 
+        (3)  __Owners or operators transporting hazardous material__  __.—__ 
 
         With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
 
-        (4) __Secretary’s discretion.—__ 
+        (4)  __Secretary’s discretion__  __.—__ 
 
         Except for owners or operators described in paragraphs (2) and (3), the Secretary may allow an owner or operator who is not fit to continue operating for an additional 60 days after the 61st day after the date of the Secretary’s fitness determination, if the Secretary determines that such owner or operator is making a good faith effort to become fit.
 
-        (5) __Transportation affecting interstate commerce.—__ 
+        (5)  __Transportation affecting interstate commerce__  __.—__ 
 
         Owners or operators of commercial motor vehicles prohibited from operating in interstate commerce pursuant to paragraphs (1) through (3) of this section may not operate any commercial motor vehicle that affects interstate commerce until the Secretary determines that such owner or operator is fit.
 
-    (d) __Determination of Unfitness by State.—__ 
+    (d)  __Determination of Unfitness by State__  __.—__ 
 
     If a State that receives motor carrier safety assistance program funds under section 31102 determines, by applying the standards prescribed by the Secretary under subsection (b), that an owner or operator of a commercial motor vehicle that has its principal place of business in that State and operates in intrastate commerce is unfit under such standards and prohibits the owner or operator from operating such vehicle in the State, the Secretary shall prohibit the owner or operator from operating such vehicle in interstate commerce until the State determines that the owner or operator is fit.
 
     (e) __Review of Fitness Determinations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner’s or operator’s compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
-        (2) __Owners or operators transporting passengers.—__ 
+        (2)  __Owners or operators transporting passengers__  __.—__ 
 
         Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport passengers requests a review, the Secretary shall review such owner’s or operator’s compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
-        (3) __Owners or operators transporting hazardous material.—__ 
+        (3)  __Owners or operators transporting hazardous material__  __.—__ 
 
         Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner’s or operator’s compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
-    (f) __Prohibited Government Use.—__ 
+    (f)  __Prohibited Government Use__  __.—__ 
 
     A department, agency, or instrumentality of the United States Government may not use to provide any transportation service an owner or operator who the Secretary has determined is not fit until the Secretary determines such owner or operator is fit.
 
     (g) __Safety Reviews of New Operators.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.
 
-        (2) __Elements.—__ 
+        (2)  __Elements__  __.—__ 
 
         In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
-        (3) __Phase-in of requirement.—__ 
+        (3)  __Phase-in of requirement__  __.—__ 
 
         The Secretary shall phase in the requirements of paragraph (1) in a manner that takes into account the availability of certified motor carrier safety auditors.
 
-        (4) __New entrant authority.—__ 
+        (4)  __New entrant authority__  __.—__ 
 
         Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
 
         (5) __New entrant audits.—__ 
 
-            (A) __Grants.—__ 
+            (A)  __Grants__  __.—__ 
 
             The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
 
-            (B) __Set aside.—__ 
+            (B)  __Set aside__  __.—__ 
 
             The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
-            (C) __Determination.—__ 
+            (C)  __Determination__  __.—__ 
 
             If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
 
@@ -129,7 +129,7 @@
 
         (1) __Safety review.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall—
 
@@ -137,7 +137,7 @@
 
                 (ii) assign a safety fitness rating to each such motor carrier.
 
-            (B) __Applicability.—__ 
+            (B)  __Applicability__  __.—__ 
 
             Subparagraph (A) shall apply—
 
@@ -145,15 +145,15 @@
 
                 (ii) to any provider of motorcoach services registered with the Administration on or before the date of enactment of that Act beginning not later than 3 years after the date of enactment of that Act.
 
-        (2) __Periodic review.—__ 
+        (2)  __Periodic review__  __.—__ 
 
         The Secretary shall establish, by regulation, a process for monitoring the safety performance of each motor carrier of passengers on a regular basis following the assignment of a safety fitness rating, including progressive intervention to correct unsafe practices.
 
-        (3) __Enforcement strike forces.—__ 
+        (3)  __Enforcement strike forces__  __.—__ 
 
         In addition to the enhanced monitoring and enforcement actions required under paragraph (2), the Secretary may organize special enforcement strike forces targeting motor carriers of passengers.
 
-        (4) __Periodic update of safety fitness rating.—__ 
+        (4)  __Periodic update of safety fitness rating__  __.—__ 
 
         In conducting the safety reviews required under this subsection, the Secretary shall—
 

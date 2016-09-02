@@ -15,11 +15,11 @@
 
 ## § 45105. Rehabilitation
 
-    (a) __Program for Employees of Air Carriers and Foreign Air Carriers.—__ 
+    (a)  __Program for Employees of Air Carriers and Foreign Air Carriers__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall prescribe regulations establishing requirements for rehabilitation programs that at least provide for the identification and opportunity for treatment of employees of air carriers and foreign air carriers referred to in [section 45102(a)(1) of this title][/us/usc/t49/s45102/a/1] who need assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a United States Government regulation. Each air carrier and foreign air carrier is encouraged to make such a program available to all its employees in addition to the employees referred to in section 45102(a)(1). The Administrator shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent an air carrier or foreign air carrier from establishing a program under this subsection in cooperation with another air carrier or foreign air carrier.
 
-    (b) __Program for Employees of the Federal Aviation Administration.—__ 
+    (b)  __Program for Employees of the Federal Aviation Administration__  __.—__ 
 
     The Administrator shall establish and maintain a rehabilitation program that at least provides for the identification and opportunity for treatment of employees of the Administration whose duties include responsibility for safety-sensitive functions who need assistance in resolving problems with the use of alcohol or a controlled substance.
 

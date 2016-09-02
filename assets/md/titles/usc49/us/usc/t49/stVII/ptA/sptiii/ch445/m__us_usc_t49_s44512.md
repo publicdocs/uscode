@@ -15,7 +15,7 @@
 
 ## § 44512. Catastrophic failure prevention research grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations—
 
@@ -23,7 +23,7 @@
 
         (2) to establish centers of excellence for continuing the research.
 
-    (b) __Solicitation, Application, Review, and Evaluation Process.—__ 
+    (b)  __Solicitation, Application, Review, and Evaluation Process__  __.—__ 
 
     The Administrator shall establish a solicitation, application, review, and evaluation process that ensures providing grants under this section for proposals having adequate merit and relevancy to the research described in subsection (a) of this section.
 

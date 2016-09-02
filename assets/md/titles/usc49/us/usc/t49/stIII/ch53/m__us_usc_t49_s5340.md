@@ -15,11 +15,11 @@
 
 ## § 5340. Apportionments based on growing States and high density States formula factors
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “State” shall mean each of the 50 States of the United States.
 
-    (b) __Allocation.—__ 
+    (b)  __Allocation__  __.—__ 
 
     Of the amounts made available for each fiscal year under section 5338(b)(2)(M), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary shall apportion—
 
@@ -29,33 +29,33 @@
 
     (c) __Growing State Apportionments.—__ 
 
-        (1) __Apportionment among states.—__ 
+        (1)  __Apportionment among states__  __.—__ 
 
         The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
 
         (2) __Apportionments between urbanized areas and other than urbanized areas in each state.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in that State divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
 
-            (B) __Remaining amounts.—__ 
+            (B)  __Remaining amounts__  __.—__ 
 
             Amounts remaining for each State after apportionment under subparagraph (A) shall be apportioned to that State and added to the amount made available for grants under section 5311.
 
-        (3) __Apportionments among urbanized areas in each state.—__ 
+        (3)  __Apportionments among urbanized areas in each state__  __.—__ 
 
         The Secretary shall apportion amounts made available to urbanized areas in each State under paragraph (2)(A) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (2)(A) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
-    (d) __High Density State Apportionments.—__ 
+    (d)  __High Density State Apportionments__  __.—__ 
 
     Amounts to be apportioned under subsection (b)(2) shall be apportioned as follows:
 
-        (1) __Eligible states.—__ 
+        (1)  __Eligible states__  __.—__ 
 
         The Secretary shall designate as eligible for an apportionment under this subsection all States with a population density in excess of 370 persons per square mile.
 
-        (2) __State urbanized land factor.—__ 
+        (2)  __State urbanized land factor__  __.—__ 
 
         For each State qualifying for an apportionment under paragraph (1), the Secretary shall calculate an amount equal to—
 
@@ -69,15 +69,15 @@
 
                 (ii) the total population of the State.
 
-        (3) __State apportionment factor.—__ 
+        (3)  __State apportionment factor__  __.—__ 
 
         For each State qualifying for an apportionment under paragraph (1), the Secretary shall calculate an amount equal to the difference between the total population of the State less the amount calculated in paragraph (2).
 
-        (4) __State apportionment.—__ 
+        (4)  __State apportionment__  __.—__ 
 
         Each State qualifying for an apportionment under paragraph (1) shall receive an amount equal to the amount to be apportioned under this subsection multiplied by the amount calculated for the State under paragraph (3) divided by the sum of the amounts calculated under paragraph (3) for all States qualifying for an apportionment under paragraph (1).
 
-        (5) __Apportionments among urbanized areas in each state.—__ 
+        (5)  __Apportionments among urbanized areas in each state__  __.—__ 
 
         The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 

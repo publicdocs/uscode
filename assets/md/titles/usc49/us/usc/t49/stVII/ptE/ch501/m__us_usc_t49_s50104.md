@@ -15,7 +15,7 @@
 
 ## § 50104. Restriction on airport projects using products or services of foreign countries denying fair market opportunities
 
-    (a) __Definition and Rules for Construing Section.—__ 
+    (a)  __Definition and Rules for Construing Section__  __.—__ 
 
     In this section—
 
@@ -27,7 +27,7 @@
 
         (4) a service provided by a person that is a national of a foreign country or that is controlled by a national of a foreign country is a service of the country.
 
-    (b) __Limitation on Use of Available Amounts.—__ 
+    (b)  __Limitation on Use of Available Amounts__  __.—__ 
 
         (1) An amount made available under subchapter I of chapter 471 of this title (except section 47127) may not be used for a project that uses a product or service of a foreign country during any period the country is on the list maintained by the United States Trade Representative under subsection (d)(1) of this section.
 
@@ -41,11 +41,11 @@
 
             (C) the project cost will increase by more than 20 percent if the product or service is excluded.
 
-    (c) __Decisions on Denial of Fair Market Opportunities.—__ 
+    (c)  __Decisions on Denial of Fair Market Opportunities__  __.—__ 
 
     Not later than 30 days after a report is submitted to Congress under section 181(b) of the Trade Act of 1974 ([19 U.S.C. 2241(b)][/us/usc/t19/s2241/b]), the Trade Representative, for a construction project of more than $500,000 for which the government of a foreign country supplies any part of the amount, shall decide whether the foreign country denies fair market opportunities for products and suppliers of the United States in procurement or for United States bidders. In making the decision, the Trade Representative shall consider information obtained in preparing the report and other information the Trade Representative considers relevant.
 
-    (d) __List of Countries Denying Fair Market Opportunities.—__ 
+    (d)  __List of Countries Denying Fair Market Opportunities__  __.—__ 
 
         (1) The Trade Representative shall maintain a list of each foreign country the Trade Representative finds under subsection (c) of this section is denying fair market opportunities. The country shall remain on the list until the Trade Representative decides the country provides fair market opportunities.
 

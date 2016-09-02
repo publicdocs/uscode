@@ -15,11 +15,11 @@
 
 ## § 32917. Standards for executive agency automobiles
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “executive agency” has the same meaning given that term in [section 105 of title 5][/us/usc/t5/s105].
 
-    (b) __Fleet Average Fuel Economy.—__ 
+    (b)  __Fleet Average Fuel Economy__  __.—__ 
 
         (1)
 

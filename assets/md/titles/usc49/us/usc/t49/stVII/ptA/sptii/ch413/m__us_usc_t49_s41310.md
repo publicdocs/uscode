@@ -15,17 +15,17 @@
 
 ## § 41310. Discriminatory practices
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     An air carrier or foreign air carrier may not subject a person, place, port, or type of traffic in foreign air transportation to unreasonable discrimination.
 
-    (b) __Review and Negotiation of Discriminatory Foreign Charges.—__ 
+    (b)  __Review and Negotiation of Discriminatory Foreign Charges__  __.—__ 
 
         (1) The Secretary of Transportation shall survey charges imposed on an air carrier by the government of a foreign country or another foreign entity for the use of airport property or airway property in foreign air transportation. If the Secretary of Transportation decides that a charge is discriminatory, the Secretary promptly shall report the decision to the Secretary of State. The Secretaries of State and Transportation promptly shall begin negotiations with the appropriate government to end the discrimination. If the discrimination is not ended in a reasonable time through negotiation, the Secretary of Transportation shall establish a compensating charge equal to the discriminatory charge. With the approval of the Secretary of State, the Secretary of the Treasury shall impose the compensating charge on a foreign air carrier of that country as a condition to accepting the general declaration of the aircraft of the foreign air carrier when it lands or takes off.
 
         (2) The Secretary of the Treasury shall maintain an account to credit money collected under paragraph (1) of this subsection. An air carrier shall be paid from the account an amount certified by the Secretary of Transportation to compensate the air carrier for the discriminatory charge paid to the government.
 
-    (c) __Actions Against Discriminatory Activity.—__ 
+    (c)  __Actions Against Discriminatory Activity__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) The Secretary of Transportation may deny, amend, modify, suspend, revoke, or transfer under paragraph (1) of this subsection a foreign air carrier permit or tariff under section 41302, 41303, 41304(a), 41504(c), 41507, or 41509 of this title.
 
-    (d) __Filing of, and Acting on, Complaints.—__ 
+    (d)  __Filing of, and Acting on, Complaints__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
             (C) submit to the President under section 41307 or 41509(f) of this title actions proposed by the Secretary of Transportation.
 
-    (e) __Review.—__ 
+    (e)  __Review__  __.—__ 
 
         (1)
 
@@ -71,11 +71,11 @@
 
         (2) The Secretary of Transportation shall report to Congress annually on each action taken under paragraph (1) of this subsection and on the continuing program to eliminate discrimination and unfair competitive practices. The Secretaries of State and the Treasury each shall give the Secretary of Transportation information necessary to prepare the report.
 
-    (f) __Reports.—__ 
+    (f)  __Reports__  __.—__ 
 
     Not later than 30 days after acting on a complaint under this section, the Secretary of Transportation shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on action taken under this section on the complaint.
 
-    (g) __Actions Against Discriminatory Activity by Foreign CRS Systems.—__ 
+    (g)  __Actions Against Discriminatory Activity by Foreign CRS Systems__  __.—__ 
 
     The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations system firm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
 

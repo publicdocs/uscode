@@ -15,15 +15,15 @@
 
 ## § 41505. Uniform methods for establishing joint prices, and divisions of joint prices, applicable to commuter air carriers
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “commuter air carrier” means an air carrier providing transportation under [section 40109(f) of this title][/us/usc/t49/s40109/f] that provides at least 5 scheduled roundtrips a week between the same 2 places.
 
-    (b) __General.—__ 
+    (b)  __General__  __.—__ 
 
     Except as provided in subsection (c) of this section, when the Secretary of Transportation prescribes under section 41508 or 41509 of this title a uniform method generally applicable to establishing joint prices and divisions of joint prices for and between air carriers holding certificates issued under [section 41102 of this title][/us/usc/t49/s41102], the Secretary shall make that uniform method apply to establishing joint prices and divisions of joint prices for and between air carriers and commuter air carriers.
 
-    (c) __Notice Required Before Modifying, Suspending, or Ending Transportation.—__ 
+    (c)  __Notice Required Before Modifying, Suspending, or Ending Transportation__  __.—__ 
 
     A commuter air carrier that has an agreement with an air carrier to provide transportation for passengers and property that includes through service by the commuter air carrier over the commuter air carrier’s routes and air transportation provided by the air carrier shall give the air carrier and the Secretary at least 90 days’ notice before modifying, suspending, or ending the transportation. If the commuter air carrier does not give that notice, the uniform method of establishing joint prices and divisions of joint prices referred to in subsection (b) of this section does not apply to the commuter air carrier.
 

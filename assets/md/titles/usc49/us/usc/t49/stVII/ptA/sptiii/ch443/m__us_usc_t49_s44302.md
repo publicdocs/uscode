@@ -15,7 +15,7 @@
 
 ## § 44302. General authority
 
-    (a) __Insurance and Reinsurance.—__ 
+    (a)  __Insurance and Reinsurance__  __.—__ 
 
         (1) Subject to subsection (c) of this section and [section 44305(a) of this title][/us/usc/t49/s44305/a], the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft.
 
@@ -23,41 +23,41 @@
 
     (b) __Reimbursement of Insurance Cost Increases.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may reimburse an air carrier for the increase in the cost of insurance, with respect to a premium for coverage ending before October 1, 2002, against loss or damage arising out of any risk from the operation of an American aircraft over the insurance premium that was in effect for a comparable operation during the period beginning September 4, 2001, and ending September 10, 2001, as the Secretary may determine. Such reimbursement is subject to subsections (a)(2), (c), and (d) of this section and to section 44303.
 
-        (2) __Payment from revolving fund.—__ 
+        (2)  __Payment from revolving fund__  __.—__ 
 
         A reimbursement under this subsection shall be paid from the revolving fund established by section 44307.
 
-        (3) __Further conditions.—__ 
+        (3)  __Further conditions__  __.—__ 
 
         The Secretary may impose such further conditions on insurance for which the increase in premium is subject to reimbursement under this subsection as the Secretary may deem appropriate in the interest of air commerce.
 
-        (4) __Termination of authority.—__ 
+        (4)  __Termination of authority__  __.—__ 
 
         The authority to reimburse air carriers under this subsection shall expire 180 days after the date of enactment of this paragraph.
 
-    (c) __Presidential Approval.—__ 
+    (c)  __Presidential Approval__  __.—__ 
 
     The Secretary may provide insurance or reinsurance under subsection (a) of this section, or reimburse an air carrier under subsection (b) of this section, only with the approval of the President. The President may approve the insurance or reinsurance or the reimbursement only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
-    (d) __Consultation.—__ 
+    (d)  __Consultation__  __.—__ 
 
     The President may require the Secretary to consult with interested departments, agencies, and instrumentalities of the Government before providing insurance or reinsurance or reimbursing an air carrier under this chapter.
 
-    (e) __Additional Insurance.—__ 
+    (e)  __Additional Insurance__  __.—__ 
 
     With the approval of the Secretary, a person having an insurable interest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
 
     (f) __Extension of Policies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
-        The Secretary shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+        The Secretary shall extend through the date specified in section 106(3) of the Continuing Appropriations Act, 2014, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
-        (2) __Special rules.—__ 
+        (2)  __Special rules__  __.—__ 
 
         Notwithstanding paragraph (1)—
 
@@ -67,19 +67,19 @@
 
     (g) __Aircraft Manufacturers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may provide to an aircraft manufacturer insurance for loss or damage resulting from operation of an aircraft by an air carrier and involving war or terrorism.
 
-        (2) __Amount.—__ 
+        (2)  __Amount__  __.—__ 
 
         Insurance provided by the Secretary under this subsection shall be for loss or damage in excess of the greater of the amount of available primary insurance or $50,000,000.
 
-        (3) __Terms and conditions.—__ 
+        (3)  __Terms and conditions__  __.—__ 
 
         Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1168][/us/stat/108/1168]; [Pub. L. 105–137, § 2(a)][/us/pl/105/137/s2/a], Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II, § 201(a)][/us/pl/107/42/s201/a], Sept. 22, 2001, [115 Stat. 234][/us/stat/115/234]; [Pub. L. 107–296, title XII, § 1202][/us/pl/107/296/s1202], Nov. 25, 2002, [116 Stat. 2286][/us/stat/116/2286]; [Pub. L. 108–11, title IV, § 4001(a)][/us/pl/108/11/s4001/a], Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I, § 106(a)(1)][/us/pl/108/176/s106/a/1], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 108–447, div. H, title I, § 106(a)][/us/pl/108/447/s106/a], Dec. 8, 2004, [118 Stat. 3204][/us/stat/118/3204]; [Pub. L. 109–115, div. A, title I, § 108(a)][/us/pl/109/115/s108/a], Nov. 30, 2005, [119 Stat. 2402][/us/stat/119/2402]; [Pub. L. 110–161, div. K, title I, § 114(a)][/us/pl/110/161/s114/a], Dec. 26, 2007, [121 Stat. 2381][/us/stat/121/2381]; [Pub. L. 110–253, § 3(c)(6)][/us/pl/110/253/s3/c/6], June 30, 2008, [122 Stat. 2418][/us/stat/122/2418]; [Pub. L. 110–330, § 5(c)][/us/pl/110/330/s5/c], Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12, § 5(b)][/us/pl/111/12/s5/b], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 5(c)][/us/pl/111/69/s5/c], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 5(b)][/us/pl/111/116/s5/b], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–117, div. A, title I, § 114(a)][/us/pl/111/117/s114/a], Dec. 16, 2009, [123 Stat. 3042][/us/stat/123/3042]; [Pub. L. 111–153, § 5(b)][/us/pl/111/153/s5/b], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 5(b)][/us/pl/111/161/s5/b], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 5(b)][/us/pl/111/197/s5/b], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 104(b)][/us/pl/111/216/s104/b], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 5(c)][/us/pl/111/249/s5/c], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329, § 5(b)][/us/pl/111/329/s5/b], Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7, § 5(b)][/us/pl/112/7/s5/b], Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16, § 5(b)][/us/pl/112/16/s5/b], May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21, § 5(b)][/us/pl/112/21/s5/b], June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27, § 5(b)][/us/pl/112/27/s5/b], Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II, § 205(c)][/us/pl/112/30/s205/c], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(c)][/us/pl/112/91/s5/c], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title VII, § 701][/us/pl/112/95/s701], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1168][/us/stat/108/1168]; [Pub. L. 105–137, § 2(a)][/us/pl/105/137/s2/a], Dec. 2, 1997, [111 Stat. 2640][/us/stat/111/2640]; [Pub. L. 107–42, title II, § 201(a)][/us/pl/107/42/s201/a], Sept. 22, 2001, [115 Stat. 234][/us/stat/115/234]; [Pub. L. 107–296, title XII, § 1202][/us/pl/107/296/s1202], Nov. 25, 2002, [116 Stat. 2286][/us/stat/116/2286]; [Pub. L. 108–11, title IV, § 4001(a)][/us/pl/108/11/s4001/a], Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I, § 106(a)(1)][/us/pl/108/176/s106/a/1], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 108–447, div. H, title I, § 106(a)][/us/pl/108/447/s106/a], Dec. 8, 2004, [118 Stat. 3204][/us/stat/118/3204]; [Pub. L. 109–115, div. A, title I, § 108(a)][/us/pl/109/115/s108/a], Nov. 30, 2005, [119 Stat. 2402][/us/stat/119/2402]; [Pub. L. 110–161, div. K, title I, § 114(a)][/us/pl/110/161/s114/a], Dec. 26, 2007, [121 Stat. 2381][/us/stat/121/2381]; [Pub. L. 110–253, § 3(c)(6)][/us/pl/110/253/s3/c/6], June 30, 2008, [122 Stat. 2418][/us/stat/122/2418]; [Pub. L. 110–330, § 5(c)][/us/pl/110/330/s5/c], Sept. 30, 2008, [122 Stat. 3718][/us/stat/122/3718]; [Pub. L. 111–12, § 5(b)][/us/pl/111/12/s5/b], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 5(c)][/us/pl/111/69/s5/c], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 5(b)][/us/pl/111/116/s5/b], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–117, div. A, title I, § 114(a)][/us/pl/111/117/s114/a], Dec. 16, 2009, [123 Stat. 3042][/us/stat/123/3042]; [Pub. L. 111–153, § 5(b)][/us/pl/111/153/s5/b], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 5(b)][/us/pl/111/161/s5/b], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 5(b)][/us/pl/111/197/s5/b], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 104(b)][/us/pl/111/216/s104/b], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 5(c)][/us/pl/111/249/s5/c], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 111–329, § 5(b)][/us/pl/111/329/s5/b], Dec. 22, 2010, [124 Stat. 3567][/us/stat/124/3567]; [Pub. L. 112–7, § 5(b)][/us/pl/112/7/s5/b], Mar. 31, 2011, [125 Stat. 32][/us/stat/125/32]; [Pub. L. 112–16, § 5(b)][/us/pl/112/16/s5/b], May 31, 2011, [125 Stat. 219][/us/stat/125/219]; [Pub. L. 112–21, § 5(b)][/us/pl/112/21/s5/b], June 29, 2011, [125 Stat. 234][/us/stat/125/234]; [Pub. L. 112–27, § 5(b)][/us/pl/112/27/s5/b], Aug. 5, 2011, [125 Stat. 271][/us/stat/125/271]; [Pub. L. 112–30, title II, § 205(c)][/us/pl/112/30/s205/c], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(c)][/us/pl/112/91/s5/c], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title VII, § 701][/us/pl/112/95/s701], Feb. 14, 2012, [126 Stat. 118][/us/stat/126/118]; [Pub. L. 113–46, div. A, § 152][/us/pl/113/46/s152], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565].)
 
 <table>
 
@@ -201,9 +201,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1311, 72 Stat. 806.  </td>
 
     The date of enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of [Pub. L. 107–42][/us/pl/107/42], which was approved Sept. 22, 2001.
 
+    The date specified in section 106(3) of the Continuing Appropriations Act, 2014, referred to in subsec. (f)(1), is the date specified in [section 106(3) of div. A of Pub. L. 113–46][/us/pl/113/46/s106/3], Oct. 17, 2013, [127 Stat. 559][/us/stat/127/559], which is Jan. 15, 2014.
+
     The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of [Pub. L. 107–296][/us/pl/107/296], which was approved Nov. 25, 2002.
 
  __Amendments__ 
+
+    2013—Subsec. (f)(1). [Pub. L. 113–46][/us/pl/113/46] substituted “the date specified in section 106(3) of the Continuing Appropriations Act, 2014” for “September 30, 2013, and may extend through December 31, 2013”.
 
     2012—Subsec. (f)(1). [Pub. L. 112–95][/us/pl/112/95] substituted “shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date” for “shall extend through February 17, 2012, and may extend through May 17, 2012, the termination date”.
 
@@ -441,8 +445,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1311, 72 Stat. 806.  </td>
 [/us/stat/126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4
 [/us/pl/112/95/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs701
 [/us/stat/126/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F118
+[/us/pl/113/46/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs152
+[/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
+[/us/pl/113/46/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs106%2F3
+[/us/stat/127/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F559
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30

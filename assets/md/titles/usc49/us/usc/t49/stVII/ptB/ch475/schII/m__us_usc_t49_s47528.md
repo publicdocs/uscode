@@ -15,11 +15,11 @@
 
 ## § 47528. Prohibition on operating certain aircraft not complying with stage 3 noise levels
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     Except as provided in subsection (b) or (f) of this section and [section 47530 of this title][/us/usc/t49/s47530], a person may operate after December 31, 1999, a civil subsonic turbojet (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
 
-    (b) __Waivers.—__ 
+    (b)  __Waivers__  __.—__ 
 
         (1) If, not later than July 1, 1999, at least 85 percent of the aircraft used by an air carrier or foreign air carrier to provide air transportation comply with the stage 3 noise levels, the carrier may apply for a waiver of subsection (a) of this section for the remaining aircraft used by the carrier to provide air transportation. The application must be filed with the Secretary not later than January 1, 1999, or, in the case of a foreign air carrier, the 15th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century and must include a plan with firm orders for making all aircraft used by the carrier to provide air transportation comply with the noise levels not later than December 31, 2003.
 
@@ -27,7 +27,7 @@
 
         (3) A waiver granted under this subsection may not permit the operation of stage 2 aircraft in the United States after December 31, 2003.
 
-    (c) __Schedule for Phased-In Compliance.—__ 
+    (c)  __Schedule for Phased-In Compliance__  __.—__ 
 
     The Secretary shall establish by regulation a schedule for phased-in compliance with subsection (a) of this section. The phase-in period shall begin on November 5, 1990, and end before December 31, 1999. The regulations shall establish interim compliance dates. The schedule for phased-in compliance shall be based on—
 
@@ -45,7 +45,7 @@
 
         (2) an analysis of the impact of aircraft noise on individuals residing near airports.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Beginning with calendar year 1992—
 
@@ -53,7 +53,7 @@
 
         (2) the Secretary shall submit to Congress an annual report on the progress being made toward that compliance.
 
-    (e) __Hawaiian Operations.—__ 
+    (e)  __Hawaiian Operations__  __.—__ 
 
         (1) In this subsection, “turnaround service” means a flight between places only in Hawaii.
 
@@ -75,7 +75,7 @@
 
     (f) __Aircraft Modification, Disposal, Scheduled Heavy Maintenance, or Leasing.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall permit a person to operate after December 31, 1999, a stage 2 aircraft in nonrevenue service through the airspace of the United States or to or from an airport in the contiguous 48 States in order to—
 
@@ -93,11 +93,11 @@
 
             (G) divert the aircraft to an alternative airport in the contiguous 48 States on account of weather, mechanical, fuel, air traffic control, or other safety reasons while conducting a flight in order to perform any of the activities described in subparagraphs (A) through (F).
 
-        (2) __Procedure To Be Published.—__ 
+        (2)  __Procedure To Be Published__  __.—__ 
 
         Not later than 30 days after the date of the enactment of this subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
 
-    (g) __Statutory Construction.—__ 
+    (g)  __Statutory Construction__  __.—__ 
 
     Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
 

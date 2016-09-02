@@ -15,11 +15,11 @@
 
 ## § 20105. State participation
 
-    (a) __Investigative and Surveillance Activities.—__ 
+    (a)  __Investigative and Surveillance Activities__  __.—__ 
 
     The Secretary concerned may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Secretary concerned”. </sup></sup>  that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary concerned an annual certification as provided in subsection (b) of this section.
 
-    (b) __Annual Certification.—__ 
+    (b)  __Annual Certification__  __.—__ 
 
         (1)
 
@@ -51,25 +51,25 @@
 
         (3) If, after receipt of an annual certification, the Secretary concerned decides the State authority is not complying satisfactorily with the investigative and surveillance activities prescribed under subsection (a) of this section, the Secretary concerned may reject any part of the certification or take other appropriate action to achieve adequate enforcement. The Secretary concerned must give the authority notice and an opportunity for a hearing before taking action under this paragraph. When the Secretary concerned gives notice, the burden of proof is on the authority to show that it is complying satisfactorily with the investigative and surveillance activities prescribed by the Secretary concerned.
 
-    (c) __Agreement When Certification Not Received.—__ 
+    (c)  __Agreement When Certification Not Received__  __.—__ 
 
         (1) If the Secretary concerned does not receive an annual certification under subsection (a) of this section related to any railroad equipment, facility, rolling stock, or operation, the Secretary concerned may make an agreement with a State authority for the authority to provide any part of the investigative and surveillance activities prescribed by the Secretary concerned as necessary to enforce the safety regulations and orders applicable to the equipment, facility, rolling stock, or operation.
 
         (2) The Secretary concerned may terminate any part of an agreement made under this subsection on finding that the authority has not provided every part of the investigative and surveillance activities to which the agreement relates. The Secretary concerned must give the authority notice and an opportunity for a hearing before making such a finding. The finding and termination shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.
 
-    (d) __Agreement for Investigative and Surveillance Activities.—__ 
+    (d)  __Agreement for Investigative and Surveillance Activities__  __.—__ 
 
     In addition to providing for State participation under this section, the Secretary concerned may make an agreement with a State to provide investigative and surveillance activities related to the duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security).
 
-    (e) __Payment.—__ 
+    (e)  __Payment__  __.—__ 
 
     On application by a State authority that has submitted a certification under subsections (a) and (b) of this section or made an agreement under subsection (c) or (d) of this section, the Secretary concerned shall pay not more than 50 percent of the cost of the personnel, equipment, and activities of the authority needed, during the next fiscal year, to carry out a safety program under the certification or agreement. However, the Secretary concerned may pay an authority only when the authority assures the Secretary concerned that it will provide the remaining cost of the safety program and that the total State money expended for the safety program, excluding grants of the United States Government, will be at least as much as the average amount expended for the fiscal years that ended June 30, 1969, and June 30, 1970.
 
-    (f) __Monitoring.—__ 
+    (f)  __Monitoring__  __.—__ 
 
     The Secretary concerned may monitor State investigative and surveillance practices and carry out other inspections and investigations necessary to help enforce this chapter (in the case of the Secretary of Transportation) and duties under [section 114 of this title][/us/usc/t49/s114] (in the case of the Secretary of Homeland Security).
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section—
 

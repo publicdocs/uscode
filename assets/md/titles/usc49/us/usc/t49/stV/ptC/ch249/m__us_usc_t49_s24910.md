@@ -15,7 +15,7 @@
 
 ## § 24910. Rail cooperative research program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall establish and carry out a rail cooperative research program. The program shall—
 
@@ -27,7 +27,7 @@
 
         (4) give consideration to regional concerns regarding rail passenger and freight transportation, including meeting research needs common to designated high-speed corridors, long-distance rail services, and regional intercity rail corridors, projects, and entities.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     The program to be carried out under this section shall include research designed—
 
@@ -59,11 +59,11 @@
 
     (c) __Advisory Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         In consultation with the heads of appropriate Federal departments and agencies, the Secretary shall establish an advisory board to recommend research, technology, and technology transfer activities related to rail passenger and freight transportation.
 
-        (2) __Membership.—__ 
+        (2)  __Membership__  __.—__ 
 
         The advisory board shall include—
 
@@ -73,11 +73,11 @@
 
             (C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
 
-    (d) __National Academy of Sciences.—__ 
+    (d)  __National Academy of Sciences__  __.—__ 
 
     The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out such activities relating to the research, technology, and technology transfer activities described in subsection (b) as the Secretary deems appropriate.
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.
 

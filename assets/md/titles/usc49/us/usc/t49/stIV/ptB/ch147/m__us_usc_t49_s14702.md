@@ -15,7 +15,7 @@
 
 ## § 14702. Enforcement by the regulatory authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary or the Board, as applicable, may bring a civil action—
 
@@ -23,7 +23,7 @@
 
         (2) to enforce this part, or a regulation or order of the Secretary or Board, as applicable, when violated by a carrier or broker providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 of this title or by a foreign motor carrier or foreign motor private carrier providing transportation registered under [section 13902 of this title][/us/usc/t49/s13902].
 
-    (b) __Venue.—__ 
+    (b)  __Venue__  __.—__ 
 
     In a civil action under subsection (a)(2) of this section—
 
@@ -33,7 +33,7 @@
 
         (3) a person participating with a carrier or broker in a violation may be joined in the civil action without regard to the residence of the person.
 
-    (c) __Standing.—__ 
+    (c)  __Standing__  __.—__ 
 
     The Board, through its own attorneys, may bring or participate in any civil action involving motor carrier undercharges.
 

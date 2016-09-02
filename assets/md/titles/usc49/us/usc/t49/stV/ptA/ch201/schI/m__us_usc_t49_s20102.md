@@ -225,7 +225,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 
 > “In this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\]:
 
->     “(1) __Crossing.—__ 
+>     “(1)  __Crossing__  __.—__ 
 
 >     The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade\[,\] where—
 
@@ -233,23 +233,23 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 
 >         “(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated.
 
->     “(2) __Department.—__ 
+>     “(2)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of Transportation.
 
->     “(3) __Railroad.—__ 
+>     “(3)  __Railroad__  __.—__ 
 
 >     The term ‘railroad’ has the meaning given that term by [section 20102 of title 49][/us/usc/t49/s20102], United States Code.
 
->     “(4) __Railroad carrier.—__ 
+>     “(4)  __Railroad carrier__  __.—__ 
 
 >     The term ‘railroad carrier’ has the meaning given that term by [section 20102 of title 49][/us/usc/t49/s20102], United States Code.
 
->     “(5) __Secretary.—__ 
+>     “(5)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.
 
->     “(6) __State.—__ 
+>     “(6)  __State__  __.—__ 
 
 >     The term ‘State’ means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.”
 

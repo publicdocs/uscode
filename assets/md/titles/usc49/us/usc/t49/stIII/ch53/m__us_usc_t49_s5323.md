@@ -17,7 +17,7 @@
 
     (a) __Interests in Property.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Financial assistance provided under this chapter to a State or a local governmental authority may be used to acquire an interest in, or to buy property of, a private company engaged in public transportation, for a capital project for property acquired from a private company engaged in public transportation after July 9, 1964, or to operate a public transportation facility or equipment in competition with, or in addition to, transportation service provided by an existing public transportation company, only if—
 
@@ -27,61 +27,61 @@
 
             (C) just compensation under State or local law will be paid to the company for its franchise or property.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         A governmental authority may not use financial assistance of the United States Government to acquire land, equipment, or a facility used in public transportation from another governmental authority in the same geographic area.
 
-    (b) __Relocation and Real Property Requirements.—__ 
+    (b)  __Relocation and Real Property Requirements__  __.—__ 
 
     The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601][/us/usc/t42/s4601] et seq.) shall apply to financial assistance for capital projects under this chapter.
 
     (c) __Consideration of Economic, Social, and Environmental Interests.—__ 
 
-        (1) __Cooperation and consultation.—__ 
+        (1)  __Cooperation and consultation__  __.—__ 
 
         The Secretary shall cooperate and consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency on each project that may have a substantial impact on the environment.
 
-        (2) __Compliance with nepa.—__ 
+        (2)  __Compliance with nepa__  __.—__ 
 
         The National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) shall apply to financial assistance for capital projects under this chapter.
 
     (d) __Condition on Charter Bus Transportation Service.—__ 
 
-        (1) __Agreements.—__ 
+        (1)  __Agreements__  __.—__ 
 
         Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of public transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled public transportation service. An agreement shall provide for a fair arrangement the Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
 
         (2) __Violations.—__ 
 
-            (A) __Investigations.—__ 
+            (A)  __Investigations__  __.—__ 
 
             On receiving a complaint about a violation of the agreement required under paragraph (1), the Secretary shall investigate and decide whether a violation has occurred.
 
-            (B) __Enforcement of agreements.—__ 
+            (B)  __Enforcement of agreements__  __.—__ 
 
             If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement.
 
-            (C) __Additional remedies.—__ 
+            (C)  __Additional remedies__  __.—__ 
 
             In addition to any remedy specified in the agreement, the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate if the Secretary finds a pattern of violations of the agreement.
 
     (e) __Bond Proceeds Eligible for Local Share.—__ 
 
-        (1) __Use as local matching funds.—__ 
+        (1)  __Use as local matching funds__  __.—__ 
 
         Notwithstanding any other provision of law, a recipient of assistance under section 5307, 5309, or 5337 may use the proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project.
 
-        (2) __Maintenance of effort.—__ 
+        (2)  __Maintenance of effort__  __.—__ 
 
         The Secretary shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost only if the Secretary finds that the aggregate amount of financial support for public transportation in the urbanized area provided by the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State transportation improvement program under section 5304, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
 
-        (3) __Debt service reserve.—__ 
+        (3)  __Debt service reserve__  __.—__ 
 
         The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(3)(J) from amounts made available to the recipient under section 5309.
 
     (f) __Schoolbus Transportation.—__ 
 
-        (1) __Agreements.—__ 
+        (1)  __Agreements__  __.—__ 
 
         Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
 
@@ -89,15 +89,15 @@
 
             (B) unless a private schoolbus operator can provide adequate transportation that complies with applicable safety standards at reasonable rates.
 
-        (2) __Violations.—__ 
+        (2)  __Violations__  __.—__ 
 
         If the Secretary finds that an applicant, governmental authority, or publicly owned operator has violated the agreement required under paragraph (1), the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate.
 
-    (g) __Buying Buses Under Other Laws.—__ 
+    (g)  __Buying Buses Under Other Laws__  __.—__ 
 
     Subsections (d) and (f) of this section apply to financial assistance to buy a bus under sections 133 and 142 of title 23.
 
-    (h) __Grant and Loan Prohibitions.—__ 
+    (h)  __Grant and Loan Prohibitions__  __.—__ 
 
     A grant or loan may not be used to—
 
@@ -109,33 +109,33 @@
 
         (1) __Acquiring vehicles and vehicle-related equipment or facilities.—__ 
 
-            (A) __Vehicles.—__ 
+            (A)  __Vehicles__  __.—__ 
 
             A grant for a project to be assisted under this chapter that involves acquiring vehicles for purposes of complying with or maintaining compliance with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) or the Clean Air Act is for 85 percent of the net project cost.
 
-            (B) __Vehicle-related equipment or facilities.—__ 
+            (B)  __Vehicle-related equipment or facilities__  __.—__ 
 
             A grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment or facilities required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) or vehicle-related equipment or facilities (including clean fuel or alternative fuel vehicle-related equipment or facilities) for purposes of complying with or maintaining compliance with the Clean Air Act, is for 90 percent of the net project cost of such equipment or facilities attributable to compliance with those Acts. The Secretary shall have discretion to determine, through practicable administrative procedures, the costs of such equipment or facilities attributable to compliance with those Acts.
 
         (2) __Costs incurred by providers of public transportation by vanpool.—__ 
 
-            (A) __Local matching share.—__ 
+            (A)  __Local matching share__  __.—__ 
 
             The local matching share provided by a recipient of assistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient’s service area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
 
-            (B) __Use of revenues.—__ 
+            (B)  __Use of revenues__  __.—__ 
 
             A private provider of public transportation by vanpool may use revenues it receives in the provision of public transportation service in the service area of a recipient of assistance under this chapter that are in excess of the provider’s operating costs for the purpose of acquiring rolling stock, if the private provider enters into a legally binding agreement with the recipient that requires the provider to use the rolling stock in the recipient’s service area.
 
-            (C) __Definitions.—__ 
+            (C)  __Definitions__  __.—__ 
 
             In this paragraph, the following definitions apply:
 
-                (i) __Private provider of public transportation by vanpool.—__ 
+                (i)  __Private provider of public transportation by vanpool__  __.—__ 
 
                 The term “private provider of public transportation by vanpool” means a private entity providing vanpool services in the service area of a recipient of assistance under this chapter using a commuter highway vehicle or vanpool vehicle.
 
-                (ii) __Commuter highway vehicle; vanpool vehicle.—__ 
+                (ii)  __Commuter highway vehicle; vanpool vehicle__  __.—__ 
 
                 The term “commuter highway vehicle or vanpool vehicle” means any vehicle—
 
@@ -145,11 +145,11 @@
 
     (j) __Buy America.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may obligate an amount that may be appropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
 
-        (2) __Waiver.—__ 
+        (2)  __Waiver__  __.—__ 
 
         The Secretary may waive paragraph (1) of this subsection if the Secretary finds that—
 
@@ -169,7 +169,7 @@
 
         (3) __Written waiver determination and annual report.—__ 
 
-            (A) __Written determination.—__ 
+            (A)  __Written determination__  __.—__ 
 
             Before issuing a waiver under paragraph (2), the Secretary shall—
 
@@ -177,15 +177,15 @@
 
                 (ii) provide the public with a reasonable period of time for notice and comment.
 
-            (B) __Annual report.—__ 
+            (B)  __Annual report__  __.—__ 
 
             Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listing any waiver issued under paragraph (2) during the preceding year.
 
-        (4) __Labor costs for final assembly.—__ 
+        (4)  __Labor costs for final assembly__  __.—__ 
 
         In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
 
-        (5) __Waiver prohibited.—__ 
+        (5)  __Waiver prohibited__  __.—__ 
 
         The Secretary may not make a waiver under paragraph (2) of this subsection for goods produced in a foreign country if the Secretary, in consultation with the United States Trade Representative, decides that the government of that foreign country—
 
@@ -193,7 +193,7 @@
 
             (B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
-        (6) __Penalty for mislabeling and misrepresentation.—__ 
+        (6)  __Penalty for mislabeling and misrepresentation__  __.—__ 
 
         A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2012 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
@@ -201,19 +201,19 @@
 
             (B) represented that goods described in subparagraph (A) of this paragraph were produced in the United States.
 
-        (7) __State requirements.—__ 
+        (7)  __State requirements__  __.—__ 
 
         The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
-        (8) __Opportunity to correct inadvertent error.—__ 
+        (8)  __Opportunity to correct inadvertent error__  __.—__ 
 
         The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
-        (9) __Administrative review.—__ 
+        (9)  __Administrative review__  __.—__ 
 
         A party adversely affected by an agency action under this subsection shall have the right to seek review under [section 702 of title 5][/us/usc/t5/s702].
 
-    (k) __Participation of Governmental Agencies in Design and Delivery of Transportation Services.—__ 
+    (k)  __Participation of Governmental Agencies in Design and Delivery of Transportation Services__  __.—__ 
 
     Governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
 
@@ -223,27 +223,27 @@
 
     (l) __Relationship to Other Laws.—__ 
 
-        (1) __Fraud and false statements.—__ 
+        (1)  __Fraud and false statements__  __.—__ 
 
         [Section 1001 of title 18][/us/usc/t18/s1001] applies to a certificate, submission, or statement provided under this chapter. The Secretary may terminate financial assistance under this chapter and seek reimbursement directly, or by offsetting amounts, available under this chapter if the Secretary determines that a recipient of such financial assistance has made a false or fraudulent statement or related act in connection with a Federal public transportation program.
 
-        (2) __Political activities of nonsupervisory employees.—__ 
+        (2)  __Political activities of nonsupervisory employees__  __.—__ 
 
         The provision of assistance under this chapter shall not be construed to require the application of chapter 15 of title 5 to any nonsupervisory employee of a public transportation system (or any other agency or entity performing related functions) to whom such chapter does not otherwise apply.
 
-    (m) __Preaward and Postdelivery Review of Rolling Stock Purchases.—__ 
+    (m)  __Preaward and Postdelivery Review of Rolling Stock Purchases__  __.—__ 
 
     The Secretary shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser’s requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
 
-    (n) __Submission of Certifications.—__ 
+    (n)  __Submission of Certifications__  __.—__ 
 
     A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(d)(2).
 
-    (o) __Grant Requirements.—__ 
+    (o)  __Grant Requirements__  __.—__ 
 
     The grant requirements under sections 5307, 5309, and 5337 apply to any project under this chapter that receives any assistance or other financing under chapter 6 (other than section 609) of title 23.
 
-    (p) __Alternative Fueling Facilities.—__ 
+    (p)  __Alternative Fueling Facilities__  __.—__ 
 
     A recipient of assistance under this chapter may allow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
 
@@ -257,15 +257,15 @@
 
     (q) __Corridor Preservation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law. The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.
 
-        (2) __Environmental reviews.—__ 
+        (2)  __Environmental reviews__  __.—__ 
 
         Right-of-way acquired under this subsection may not be developed in anticipation of the project until all required environmental reviews for the project have been completed.
 
-    (r) __Reasonable Access to Public Transportation Facilities.—__ 
+    (r)  __Reasonable Access to Public Transportation Facilities__  __.—__ 
 
     A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
 

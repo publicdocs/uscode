@@ -41,11 +41,11 @@
 
     (e) __Bonding Assistance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary, acting through the Minority Resource Center established under subsection (b), shall provide assistance in obtaining bid, payment, and performance bonds by disadvantaged business enterprises pursuant to subsection (b)(4).
 
-        (2) __Authorization of appropriation.—__ 
+        (2)  __Authorization of appropriation__  __.—__ 
 
         There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2005 through 2009 to carry out activities under this subsection.
 

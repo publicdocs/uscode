@@ -15,7 +15,7 @@
 
 ## § 41106. Airlift service
 
-    (a) __Interstate Transportation.—__ 
+    (a)  __Interstate Transportation__  __.—__ 
 
         (1)
 
@@ -27,19 +27,19 @@
 
         (2) The Secretary of Transportation shall act as expeditiously as possible on an application for a certificate under [section 41102 of this title][/us/usc/t49/s41102] to provide airlift service.
 
-    (b) __Transportation Between the United States and Foreign Locations.—__ 
+    (b)  __Transportation Between the United States and Foreign Locations__  __.—__ 
 
     Except as provided in subsection (d), the transportation of passengers or property by CRAF-eligible aircraft between a place in the United States and a place outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a).
 
-    (c) __Transportation Between Foreign Locations.—__ 
+    (c)  __Transportation Between Foreign Locations__  __.—__ 
 
     The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
 
-    (d) __Exception.—__ 
+    (d)  __Exception__  __.—__ 
 
     When the Secretary of Defense decides that no air carrier holding a certificate under section 41102 is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
-    (e) __CRAF-eligible Aircraft Defined.—__ 
+    (e)  __CRAF-eligible Aircraft Defined__  __.—__ 
 
     In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
 

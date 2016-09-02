@@ -15,19 +15,19 @@
 
 ## § 41103. All-cargo air transportation certificates of air carriers
 
-    (a) __Applications.—__ 
+    (a)  __Applications__  __.—__ 
 
     A citizen of the United States may apply to the Secretary of Transportation for a certificate authorizing the citizen to provide all-cargo air transportation. The application must contain information and be in the form the Secretary by regulation requires.
 
-    (b) __Issuance.—__ 
+    (b)  __Issuance__  __.—__ 
 
     Not later than 180 days after an application for a certificate is filed under this section, the Secretary shall issue the certificate to a citizen of the United States authorizing the citizen, as an air carrier, to provide any part of the all-cargo air transportation applied for unless the Secretary finds that the citizen is not fit, willing, and able to provide the all-cargo air transportation to be authorized by the certificate and to comply with regulations of the Secretary.
 
-    (c) __Terms.—__ 
+    (c)  __Terms__  __.—__ 
 
     The Secretary may impose terms the Secretary considers necessary when issuing a certificate under this section. However, the Secretary may not impose terms that restrict the places served or prices charged by the holder of the certificate.
 
-    (d) __Exemptions and Status.—__ 
+    (d)  __Exemptions and Status__  __.—__ 
 
     A citizen issued a certificate under this section—
 

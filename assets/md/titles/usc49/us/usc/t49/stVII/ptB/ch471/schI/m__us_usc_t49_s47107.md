@@ -15,7 +15,7 @@
 
 ## § 47107. Project grant application approval conditioned on assurances about airport operations
 
-    (a) __General Written Assurances.—__ 
+    (a)  __General Written Assurances__  __.—__ 
 
     The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that—
 
@@ -107,7 +107,7 @@
 
         (21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner’s expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose.
 
-    (b) __Written Assurances on Use of Revenue.—__ 
+    (b)  __Written Assurances on Use of Revenue__  __.—__ 
 
         (1)
 
@@ -123,7 +123,7 @@
 
         (3) This subsection does not prevent the use of a State tax on aviation fuel to support a State aviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
 
-    (c) __Written Assurances on Acquiring Land.—__ 
+    (c)  __Written Assurances on Acquiring Land__  __.—__ 
 
         (1)
 
@@ -187,11 +187,11 @@
 
             (D) The provisions of this paragraph apply to all land acquired before, on, or after the date of enactment of this paragraph.
 
-    (d) __Assurances of Continuation as Public-Use Airport.—__ 
+    (d)  __Assurances of Continuation as Public-Use Airport__  __.—__ 
 
     The Secretary of Transportation may approve an application under this subchapter for an airport development project grant for a privately owned public-use airport only if the Secretary receives appropriate assurances that the airport will continue to function as a public-use airport during the economic life (that must be at least 10 years) of any facility at the airport that was developed with Government financial assistance under this subchapter.
 
-    (e) __Written Assurances of Opportunities for Small Business Concerns.—__ 
+    (e)  __Written Assurances of Opportunities for Small Business Concerns__  __.—__ 
 
         (1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in [section 47113(a) of this title][/us/usc/t49/s47113/a]) or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act).
 
@@ -221,7 +221,7 @@
 
         (8) Not later than April 29, 1993, the Secretary of Transportation shall prescribe regulations to carry out this subsection.
 
-    (f) __Availability of Amounts.—__ 
+    (f)  __Availability of Amounts__  __.—__ 
 
     An amount deposited in the Airport and Airway Trust Fund under—
 
@@ -237,7 +237,7 @@
 
         (3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available to the Secretary under [section 48103 of this title][/us/usc/t49/s48103] and not subject to apportionment under [section 47114 of this title][/us/usc/t49/s47114].
 
-    (g) __Ensuring Compliance.—__ 
+    (g)  __Ensuring Compliance__  __.—__ 
 
         (1)
 
@@ -251,7 +251,7 @@
 
     (h) __Modifying Assurances and Requiring Compliance With Additional Assurances.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), before modifying an assurance required of a person receiving a grant under this subchapter and in effect after December 29, 1987, or to require compliance with an additional assurance from the person, the Secretary of Transportation must—
 
@@ -259,15 +259,15 @@
 
             (B) provide an opportunity for comment on the proposal.
 
-        (2) __Public notice before waiver of aeronautical land-use assurance.—__ 
+        (2)  __Public notice before waiver of aeronautical land-use assurance__  __.—__ 
 
         Before modifying an assurance under subsection (c)(2)(B) that requires any property to be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before making such modification.
 
-    (i) __Relief From Obligation To Provide Free Space.—__ 
+    (i)  __Relief From Obligation To Provide Free Space__  __.—__ 
 
     When a sponsor provides a property interest in a land or water area or a building that the Secretary of Transportation uses to construct a facility at Government expense, the Secretary may relieve the sponsor from an obligation in a contract made under this chapter, the Airport and Airway Development Act of 1970, or the Federal Airport Act to provide free space to the Government in an airport building, to the extent the Secretary finds that the free space no longer is needed to carry out activities related to air traffic control or navigation.
 
-    (j) __Use of Revenue in Hawaii.—__ 
+    (j)  __Use of Revenue in Hawaii__  __.—__ 
 
         (1)
 
@@ -297,17 +297,17 @@
 
             (B) Revenue from sales referred to in paragraph (2) of this subsection from May 5, 1990, through December 30, 1994, may be used under paragraph (2) in any Hawaiian fiscal year, including a Hawaiian fiscal year beginning after December 31, 1994.
 
-    (k) __Annual Summaries of Financial Reports.—__ 
+    (k)  __Annual Summaries of Financial Reports__  __.—__ 
 
     The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.
 
     (l) __Policies and Procedures To Ensure Enforcement Against Illegal Diversion of Airport Revenue.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 90 days after August 23, 1994, the Secretary of Transportation shall establish policies and procedures that will assure the prompt and effective enforcement of subsections (a)(13) and (b) of this section and grant assurances made under such subsections. Such policies and procedures shall recognize the exemption provision in subsection (b)(2) of this section and shall respond to the information contained in the reports of the Inspector General of the Department of Transportation on airport revenue diversion and such other relevant information as the Secretary may by law consider.
 
-        (2) __Revenue diversion.—__ 
+        (2)  __Revenue diversion__  __.—__ 
 
         Policies and procedures to be established pursuant to paragraph (1) of this subsection shall prohibit, at a minimum, the diversion of airport revenues (except as authorized under subsection (b) of this section) through—
 
@@ -319,15 +319,15 @@
 
             (D) payments to compensate nonsponsoring governmental bodies for lost tax revenues exceeding stated tax rates.
 
-        (3) __Efforts to be self-sustaining.—__ 
+        (3)  __Efforts to be self-sustaining__  __.—__ 
 
         With respect to subsection (a)(13) of this section, policies and procedures to be established pursuant to paragraph (1) of this subsection shall take into account, at a minimum, whether owners and operators of airports, when entering into new or revised agreements or otherwise establishing rates, charges, and fees, have undertaken reasonable efforts to make their particular airports as self-sustaining as possible under the circumstances existing at such airports.
 
-        (4) __Administrative safeguards.—__ 
+        (4)  __Administrative safeguards__  __.—__ 
 
         Policies and procedures to be established pursuant to paragraph (1) shall mandate internal controls, auditing requirements, and increased levels of Department of Transportation personnel sufficient to respond fully and promptly to complaints received regarding possible violations of subsections (a)(13) and (b) of this section and grant assurances made under such subsections and to alert the Secretary to such possible violations.
 
-        (5) __Statute of limitations.—__ 
+        (5)  __Statute of limitations__  __.—__ 
 
         In addition to the statute of limitations specified in subsection (n)(7), with respect to project grants made under this chapter—
 
@@ -337,17 +337,17 @@
 
     (m) __Audit Certification.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration, shall include a provision in the compliance supplement provisions to require a recipient of a project grant (or any other recipient of Federal financial assistance that is provided for an airport) to include as part of an annual audit conducted under sections 7501 through 7505 of title 31, a review concerning the funding activities with respect to an airport that is the subject of the project grant (or other Federal financial assistance) and the sponsors, owners, or operators (or other recipients) involved.
 
-        (2) __Content of review.—__ 
+        (2)  __Content of review__  __.—__ 
 
         A review conducted under paragraph (1) shall provide reasonable assurances that funds paid or transferred to sponsors are paid or transferred in a manner consistent with the applicable requirements of this chapter and any other applicable provision of law (including regulations promulgated by the Secretary or the Administrator).
 
     (n) __Recovery of Illegally Diverted Funds.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 180 days after the issuance of an audit or any other report that identifies an illegal diversion of airport revenues (as determined under subsections (b) and (l) and section 47133), the Secretary, acting through the Administrator, shall—
 
@@ -357,7 +357,7 @@
 
             (C) conduct a hearing and render a final determination concerning whether the illegal diversion of airport revenues asserted in the audit or report occurred.
 
-        (2) __Notification.—__ 
+        (2)  __Notification__  __.—__ 
 
         Upon making such a finding, the Secretary, acting through the Administrator, shall provide written notification to the sponsor and the airport of—
 
@@ -365,7 +365,7 @@
 
             (B) the obligations of the sponsor to reimburse the airport involved under this paragraph.
 
-        (3) __Administrative action.—__ 
+        (3)  __Administrative action__  __.—__ 
 
         The Secretary may withhold any amount from funds that would otherwise be made available to the sponsor, including funds that would otherwise be made available to a State, municipality, or political subdivision thereof (including any multimodal transportation agency or transit authority of which the sponsor is a member entity) as part of an apportionment or grant made available pursuant to this title, if the sponsor—
 
@@ -373,43 +373,43 @@
 
             (B) has had an opportunity to reimburse the airport, but has failed to do so.
 
-        (4) __Civil action.—__ 
+        (4)  __Civil action__  __.—__ 
 
         If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to the illegal diversion in question plus interest (as determined under subsection (o)).
 
         (5) __Disposition of penalties.—__ 
 
-            (A) __Amounts withheld.—__ 
+            (A)  __Amounts withheld__  __.—__ 
 
             The Secretary or the Administrator shall transfer any amounts withheld under paragraph (3) to the Airport and Airway Trust Fund.
 
-            (B) __Civil penalties.—__ 
+            (B)  __Civil penalties__  __.—__ 
 
             With respect to any amount collected by a court in a civil action under paragraph (4), the court shall cause to be transferred to the Airport and Airway Trust Fund any amount collected as a civil penalty under paragraph (4).
 
-        (6) __Reimbursement.—__ 
+        (6)  __Reimbursement__  __.—__ 
 
         The Secretary, acting through the Administrator, shall, as soon as practicable after any amount is collected from a sponsor under paragraph (4), cause to be transferred from the Airport and Airway Trust Fund to an airport affected by a diversion that is the subject of a civil action under paragraph (4), reimbursement in an amount equal to the amount that has been collected from the sponsor under paragraph (4) (including any amount of interest calculated under subsection (o)).
 
-        (7) __Statute of limitations.—__ 
+        (7)  __Statute of limitations__  __.—__ 
 
         No person may bring an action for the recovery of funds illegally diverted in violation of this section (as determined under subsections (b) and (l)) or section 47133 after the date that is 6 years after the date on which the diversion occurred.
 
     (o) __Interest.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (n) in an amount equal to the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
 
-        (2) __Adjustment of interest rates.—__ 
+        (2)  __Adjustment of interest rates__  __.—__ 
 
         If, with respect to a calendar quarter, the average investment interest rate for tax and loan accounts of the Department of the Treasury exceeds the average investment interest rate for the immediately preceding calendar quarter, rounded to the nearest whole percentage point, the Secretary of the Treasury may adjust the interest rate charged under this subsection in a manner that reflects that change.
 
-        (3) __Accrual.—__ 
+        (3)  __Accrual__  __.—__ 
 
         Interest assessed under subsection (n) shall accrue from the date of the actual illegal diversion of revenues referred to in subsection (n).
 
-        (4) __Determination of applicable rate.—__ 
+        (4)  __Determination of applicable rate__  __.—__ 
 
         The applicable rate of interest charged under paragraph (1) shall—
 
@@ -417,7 +417,7 @@
 
             (B) remain at a rate fixed under subparagraph (A) during the duration of the indebtedness.
 
-    (p) __Payment by Airport to Sponsor.—__ 
+    (p)  __Payment by Airport to Sponsor__  __.—__ 
 
     If, in the course of an audit or other review conducted under this section, the Secretary or the Administrator determines that an airport owes a sponsor funds as a result of activities conducted by the sponsor or expenditures by the sponsor for the benefit of the airport, interest on that amount shall be determined in the same manner as provided in paragraphs (1) through (4) of subsection (o), except that the amount of any interest assessed under this subsection shall be determined from the date on which the Secretary or the Administrator makes that determination.
 
@@ -435,11 +435,11 @@
 
     (s) __Competition Disclosure Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation may approve an application under this subchapter for an airport development project grant for a large hub airport or a medium hub airport only if the Secretary receives assurances that the airport sponsor will provide the information required by paragraph (2) at such time and in such form as the Secretary may require.
 
-        (2) __Competitive access.—__ 
+        (2)  __Competitive access__  __.—__ 
 
         On February 1 and August 1 of each year, an airport that during the previous 6-month period has been unable to accommodate one or more requests by an air carrier for access to gates or other facilities at that airport in order to provide service to the airport or to expand service at the airport shall transmit a report to the Secretary that—
 
@@ -449,13 +449,13 @@
 
             (C) provides a time frame within which, if any, the airport will be able to accommodate the requests.
 
-        (3) __Sunset provision.—__ 
+        (3)  __Sunset provision__  __.—__ 
 
         This subsection shall cease to be effective beginning October 1, 2015.
 
     (t) __Agreements Granting Through-The-Fence Access to General Aviation Airports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), a sponsor of a general aviation airport shall not be considered to be in violation of this subtitle, or to be in violation of a grant assurance made under this section or under any other provision of law as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor enters into an agreement that grants to a person that owns residential real property adjacent to or near the airport access to the airfield of the airport for the following:
 
@@ -465,11 +465,11 @@
 
         (2) __Through-the-fence agreements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An agreement described in paragraph (1) between an airport sponsor and a property owner (or an association representing such property owner) shall be a written agreement that prescribes the rights, responsibilities, charges, duration, and other terms the airport sponsor determines are necessary to establish and manage the airport sponsor’s relationship with the property owner.
 
-            (B) __Terms and conditions.—__ 
+            (B)  __Terms and conditions__  __.—__ 
 
             An agreement described in paragraph (1) between an airport sponsor and a property owner (or an association representing such property owner) shall require the property owner, at minimum—
 
@@ -1301,7 +1301,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 [Pub. L. 105–66, title III, § 340][/us/pl/105/66/s340], Oct. 27, 1997, [111 Stat. 1448][/us/stat/111/1448], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -1323,15 +1323,15 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 >         “(9) because of the special circumstances surrounding such past diversions of airport revenues for the betterment of Native Americans, Native Hawaiians, or Alaska Natives, it is in the national interest that amounts from airport revenues previously received by any entity for the betterment of Native Americans, Native Hawaiians, or Alaska Natives, as specified in subsection (b) of this section, should not be subject to repayment.
 
->     “(b) __Termination of Repayment Responsibility.—__ 
+>     “(b)  __Termination of Repayment Responsibility__  __.—__ 
 
 >     Notwithstanding the provisions of \[section\] 47107 of title 49, United States Code, or any other provision of law, monies paid for claims related to ceded lands and diverted from airport revenues and received prior to April 1, 1996, by any entity for the betterment of Native Americans, Native Hawaiians, or Alaska Natives, shall not be subject to repayment.
 
->     “(c) __Prohibition on Further Diversion.—__ 
+>     “(c)  __Prohibition on Further Diversion__  __.—__ 
 
 >     There shall be no further payment of airport revenues for claims related to ceded lands, whether characterized as operating expenses, rent, or otherwise, and whether related to claims for periods of time prior to or after the date of enactment of this Act \[Oct. 27, 1997\].
 
->     “(d) __Clarification.—__ 
+>     “(d)  __Clarification__  __.—__ 
 
 >     Nothing in this Act \[see Tables for classification\] shall be construed to affect any existing Federal statutes, enactments, or trust obligations created thereunder, or any statute of the several States that define the obligations of such States to Native Americans, Native Hawaiians, or Alaska Natives in connection with ceded lands, except to make clear that airport revenues may not be used to satisfy such obligations.”
 
@@ -1339,7 +1339,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 [Pub. L. 104–264, title VIII, § 802][/us/pl/104/264/s802], Oct. 9, 1996, [110 Stat. 3270][/us/stat/110/3270], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Congress finds that—
 
@@ -1359,7 +1359,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 >             “(B) must be encouraged to do so.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[see Short Title of 1996 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\] is to ensure that airport users are not burdened with hidden taxation for unrelated municipal services and activities by—
 
@@ -1379,23 +1379,23 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 511(g); added May 4, 1990, P
 
 > “For purposes of this title \[see Short Title of 1996 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\], the following definitions apply:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
 
->     “(2) __Airport.—__ 
+>     “(2)  __Airport__  __.—__ 
 
 >     The term ‘airport’ has the meaning provided that term in [section 47102(2) of title 49][/us/usc/t49/s47102/2], United States Code.
 
->     “(3) __Project grant.—__ 
+>     “(3)  __Project grant__  __.—__ 
 
 >     The term ‘project grant’ has the meaning provided that term in section 47102(14) \[now section 47102(19)\] of title 49, United States Code.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.
 
->     “(5) __Sponsor.—__ 
+>     “(5)  __Sponsor__  __.—__ 
 
 >     The term ‘sponsor’ has the meaning provided that term in section 47102(19) \[now section 47102(26)\] of title 49, United States Code.”
 

@@ -15,11 +15,11 @@
 
 ## § 41105. Transfers of certificates
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A certificate issued under [section 41102 of this title][/us/usc/t49/s41102] may be transferred only when the Secretary of Transportation approves the transfer as being consistent with the public interest.
 
-    (b) __Certification to Congress.—__ 
+    (b)  __Certification to Congress__  __.—__ 
 
     When a certificate is transferred, the Secretary shall certify to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that the transfer is consistent with the public interest. The Secretary shall include with the certification a report analyzing the effects of the transfer on—
 

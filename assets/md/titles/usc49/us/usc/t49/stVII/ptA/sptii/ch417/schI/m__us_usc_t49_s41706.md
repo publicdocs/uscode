@@ -15,7 +15,7 @@
 
 ## § 41706. Prohibitions against smoking on passenger flights
 
-    (a) __Smoking Prohibition in Interstate and Intrastate Air Transportation.—__ 
+    (a)  __Smoking Prohibition in Interstate and Intrastate Air Transportation__  __.—__ 
 
     An individual may not smoke—
 
@@ -23,7 +23,7 @@
 
         (2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if a flight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
 
-    (b) __Smoking Prohibition in Foreign Air Transportation.—__ 
+    (b)  __Smoking Prohibition in Foreign Air Transportation__  __.—__ 
 
     The Secretary of Transportation shall require all air carriers and foreign air carriers to prohibit smoking—
 
@@ -33,15 +33,15 @@
 
     (c) __Limitation on Applicability.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If a foreign government objects to the application of subsection (b) on the basis that subsection (b) provides for an extraterritorial application of the laws of the United States, the Secretary shall waive the application of subsection (b) to a foreign air carrier licensed by that foreign government at such time as an alternative prohibition negotiated under paragraph (2) becomes effective and is enforced by the Secretary.
 
-        (2) __Alternative prohibition.—__ 
+        (2)  __Alternative prohibition__  __.—__ 
 
         If, pursuant to paragraph (1), a foreign government objects to the prohibition under subsection (b), the Secretary shall enter into bilateral negotiations with the objecting foreign government to provide for an alternative smoking prohibition.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe such regulations as are necessary to carry out this section.
 

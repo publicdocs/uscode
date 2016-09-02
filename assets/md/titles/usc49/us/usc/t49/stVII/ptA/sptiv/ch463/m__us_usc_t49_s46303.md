@@ -15,17 +15,17 @@
 
 ## § 46303. Carrying a weapon
 
-    (a) __Civil Penalty.—__ 
+    (a)  __Civil Penalty__  __.—__ 
 
     An individual who, when on, or attempting to board, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individual a concealed dangerous weapon that is or would be accessible to the individual in flight is liable to the United States Government for a civil penalty of not more than $10,000 for each violation.
 
-    (b) __Compromise and Setoff.—__ 
+    (b)  __Compromise and Setoff__  __.—__ 
 
         (1) The Secretary of Homeland Security may compromise the amount of a civil penalty imposed under subsection (a) of this section.
 
         (2) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the individual liable for the penalty.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     This section does not apply to—
 

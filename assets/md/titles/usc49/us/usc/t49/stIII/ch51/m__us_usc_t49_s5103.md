@@ -15,11 +15,11 @@
 
 ## § 5103. General regulatory authority
 
-    (a) __Designating Material as Hazardous.—__ 
+    (a)  __Designating Material as Hazardous__  __.—__ 
 
     The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount and form may pose an unreasonable risk to health and safety or property.
 
-    (b) __Regulations for Safe Transportation.—__ 
+    (b)  __Regulations for Safe Transportation__  __.—__ 
 
         (1)
 
@@ -47,11 +47,11 @@
 
         (2) A proceeding to prescribe the regulations must be conducted under [section 553 of title 5][/us/usc/t5/s553], including an opportunity for informal oral presentation.
 
-    (c) __Consultation.—__ 
+    (c)  __Consultation__  __.—__ 
 
     When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 
-    (d) __Biennial Report.—__ 
+    (d)  __Biennial Report__  __.—__ 
 
     The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
@@ -177,7 +177,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 [Pub. L. 110–432, div. A, title IV, § 411][/us/pl/110/432/s411], Oct. 16, 2008, [122 Stat. 4888][/us/stat/122/4888], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Transportation shall, in consultation with the Secretary of Energy, the Secretary of Labor, the Administrator of the Environmental Protection Agency, and the Chairman of the Nuclear Regulatory Commission, as appropriate, conduct a study of the potential hazards to which employees of railroad carriers and railroad contractors or subcontractors are exposed during the transportation of high-level radioactive waste and spent nuclear fuel (as defined in section 5101(a) \[probably means section 5105(a)\] of title 49, United States Code), supplementing the report submitted under section 5101(b) \[probably means section 5105(b)\] of that title, which may include—
 
@@ -189,11 +189,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 >         “(4) a review of the effectiveness of the Department’s packaging requirements for radioactive materials.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
->     “(c) __Regulatory Authority.—__ 
+>     “(c)  __Regulatory Authority__  __.—__ 
 
 >     The Secretary of Transportation may issue regulations that the Secretary determines appropriate, pursuant to the report required by subsection (b), to protect railroad employees from unsafe exposure to radiation during the transportation of radioactive materials.”
 
@@ -209,7 +209,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 [Pub. L. 104–88, title IV, § 406][/us/pl/104/88/s406], Dec. 29, 1995, [109 Stat. 957][/us/stat/109/957], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the administration of chapter 51 of title 49, United States Code, the Secretary of Transportation shall issue a final rule within 60 days after the date of the enactment of this Act \[Dec. 29, 1995\] authorizing the continued use of fiber drum packaging with a removable head for the transportation of liquid hazardous materials with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991, if—
 
@@ -217,13 +217,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 >         “(2) the packaging will not be used for the transportation of hazardous materials that include materials which are poisonous by inhalation or materials in Packing Groups I and II.
 
->     “(b) __Expiration.—__ 
+>     “(b)  __Expiration__  __.—__ 
 
 >     The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardous materials), for fiscal years beginning after September 30, 1997.
 
 >     “(c) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Within 90 days after the date of the enactment of this Act \[Dec. 29, 1995\], the Secretary shall contract with the National Academy of Sciences to conduct a study—
 
@@ -231,25 +231,25 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
 >             “(B) to determine whether a packaging standard (including such fiber drum industry standards), other than such performance-oriented packaging standards, will provide an equal or greater level of safety for the transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect.
 
->         “(2) __Completion.—__ 
+>         “(2)  __Completion__  __.—__ 
 
 >         The study shall be completed before March 1, 1997 and shall be transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
 
->     “(d) __Secretarial Action.—__ 
+>     “(d)  __Secretarial Action__  __.—__ 
 
 >     By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
 [Pub. L. 103–311, title I, § 122][/us/pl/103/311/s122], Aug. 26, 1994, [108 Stat. 1681][/us/stat/108/1681], provided that:
 
->     “(a) __Initiation of Rulemaking Proceeding.—__ 
+>     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
 >     Not later than the 60th day following the date of enactment of this Act \[Aug. 26, 1994\], the Secretary of Transportation shall initiate a rulemaking proceeding to determine whether the requirements of [section 5103(b) of title 49][/us/usc/t49/s5103/b], United States Code (relating to regulations for safe transportation), as they pertain to open head fiber drum packaging can be met for the domestic transportation of liquid hazardous materials (with respect to those classifications of liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) with standards other than the performance-oriented packaging standards adopted under docket number HM–181 contained in part 178 of title 49, Code of Federal Regulations.
 
->     “(b) __Issuance of Standards.—__ 
+>     “(b)  __Issuance of Standards__  __.—__ 
 
 >     If the Secretary of Transportation determines, as a result of the rulemaking proceeding initiated under subsection (a), that a packaging standard other than the performance-oriented packaging standards referred to in subsection (a) will provide an equal or greater level of safety for the domestic transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect, the Secretary shall issue regulations which implement such other standard and which take effect before October 1, 1996.
 
->     “(c) __Completion of Rulemaking Proceeding.—__ 
+>     “(c)  __Completion of Rulemaking Proceeding__  __.—__ 
 
 >     The rulemaking proceeding initiated under subsection (a) shall be completed before October 1, 1995.
 

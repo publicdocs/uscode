@@ -15,7 +15,7 @@
 
 ## § 13908. Registration and other reforms
 
-    (a) __Establishment of Unified Carrier Registration System.—__ 
+    (a)  __Establishment of Unified Carrier Registration System__  __.—__ 
 
     The Secretary, in cooperation with the States, representatives of the motor carrier, motor private carrier, freight forwarder, and broker industries and after notice and opportunity for public comment, shall issue within 1 year after the date of enactment of the Unified Carrier Registration Act of 2005 regulations to establish an online Federal registration system, to be named the “Unified Carrier Registration System”, to replace—
 
@@ -25,33 +25,33 @@
 
         (3) the service of process agent systems under sections 503 and 13304.
 
-    (b) __Role as Clearinghouse and Depository of Information.—__ 
+    (b)  __Role as Clearinghouse and Depository of Information__  __.—__ 
 
     The Unified Carrier Registration System shall serve as a clearinghouse and depository of information on, and identification of, all foreign and domestic motor carriers, motor private carriers, brokers, freight forwarders, and others required to register with the Department of Transportation, including information with respect to a carrier’s safety rating, compliance with required levels of financial responsibility, and compliance with the provisions of section 14504a. The Secretary shall ensure that Federal agencies, States, representatives of the motor carrier industry, and the public have access to the Unified Carrier Registration System, including the records and information contained in the System.
 
-    (c) __Procedures for Correcting Information.—__ 
+    (c)  __Procedures for Correcting Information__  __.—__ 
 
     Not later than 60 days after the effective date of this section, the Secretary shall prescribe regulations establishing procedures that enable a motor carrier to correct erroneous information contained in any part of the Unified Carrier Registration System.
 
-    (d) __Fee System.—__ 
+    (d)  __Fee System__  __.—__ 
 
     The Secretary shall establish, under [section 9701 of title 31][/us/usc/t31/s9701], a fee system for the Unified Carrier Registration System according to the following guidelines:
 
-        (1) __Registration and filing evidence of financial responsibility.—__ 
+        (1)  __Registration and filing evidence of financial responsibility__  __.—__ 
 
         The fee for new registrants shall as nearly as possible cover the costs of processing the registration.
 
-        (2) __Evidence of financial responsibility.—__ 
+        (2)  __Evidence of financial responsibility__  __.—__ 
 
         The fee for filing evidence of financial responsibility pursuant to this section shall not exceed $10 per filing. No fee shall be charged for a filing for purposes of designating an agent for service of process or the filing of other information relating to financial responsibility.
 
         (3) __Access and retrieval fees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the fee system shall include a nominal fee for the access to or retrieval of information from the Unified Carrier Registration System to cover the costs of operating and upgrading the System, including the personnel costs incurred by the Department and the costs of administration of the unified carrier registration agreement.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             There shall be no fee charged under this paragraph—
 
@@ -59,11 +59,11 @@
 
                 (ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as each is defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 
-    (e) __Use of Fees for Unified Carrier Registration System.—__ 
+    (e)  __Use of Fees for Unified Carrier Registration System__  __.—__ 
 
     Fees collected under this section may be credited to the Department of Transportation appropriations account for purposes for which such fees are collected and shall be available for expenditure for such purposes until expended.
 
-    (f) __Application to Certain Intrastate Operations.—__ 
+    (f)  __Application to Certain Intrastate Operations__  __.—__ 
 
     Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 

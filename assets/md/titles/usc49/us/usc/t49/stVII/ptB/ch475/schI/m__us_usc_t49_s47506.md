@@ -15,7 +15,7 @@
 
 ## § 47506. Limitations on recovering damages for noise
 
-    (a) __General Limitations.—__ 
+    (a)  __General Limitations__  __.—__ 
 
     A person acquiring an interest in property after February 18, 1980, in an area surrounding an airport for which a noise exposure map has been submitted under [section 47503 of this title][/us/usc/t49/s47503] and having actual or constructive knowledge of the existence of the map may recover damages for noise attributable to the airport only if, in addition to any other elements for recovery of damages, the person shows that—
 
@@ -33,7 +33,7 @@
 
         (2) the damages resulted from the change or increase.
 
-    (b) __Constructive Knowledge.—__ 
+    (b)  __Constructive Knowledge__  __.—__ 
 
     Constructive knowledge of the existence of a map under subsection (a) of this section shall be imputed, at a minimum, to a person if—
 

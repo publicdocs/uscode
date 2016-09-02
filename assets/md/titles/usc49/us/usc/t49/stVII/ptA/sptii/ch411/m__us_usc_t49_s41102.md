@@ -15,7 +15,7 @@
 
 ## § 41102. General, temporary, and charter air transportation certificates of air carriers
 
-    (a) __Issuance.—__ 
+    (a)  __Issuance__  __.—__ 
 
     The Secretary of Transportation may issue a certificate of public convenience and necessity to a citizen of the United States authorizing the citizen to provide any part of the following air transportation the citizen has applied for under [section 41108 of this title][/us/usc/t49/s41108]:
 
@@ -25,13 +25,13 @@
 
         (3) charter air transportation as a charter air carrier.
 
-    (b) __Findings Required for Issuance.—__ 
+    (b)  __Findings Required for Issuance__  __.—__ 
 
         (1) Before issuing a certificate under subsection (a) of this section, the Secretary must find that the citizen is fit, willing, and able to provide the transportation to be authorized by the certificate and to comply with this part and regulations of the Secretary.
 
         (2) In addition to the findings under paragraph (1) of this subsection, the Secretary, before issuing a certificate under subsection (a) of this section for foreign air transportation, must find that the transportation is consistent with the public convenience and necessity.
 
-    (c) __Temporary Certificates.—__ 
+    (c)  __Temporary Certificates__  __.—__ 
 
     The Secretary may issue a certificate under subsection (a) of this section for interstate air transportation (except the transportation of passengers) or foreign air transportation for a temporary period of time (whether the application is for permanent or temporary authority) when the Secretary decides that a test period is desirable—
 
@@ -39,7 +39,7 @@
 
         (2) to evaluate the new transportation.
 
-    (d) __Foreign Air Transportation.—__ 
+    (d)  __Foreign Air Transportation__  __.—__ 
 
     The Secretary shall submit each decision authorizing the provision of foreign air transportation to the President under [section 41307 of this title][/us/usc/t49/s41307].
 

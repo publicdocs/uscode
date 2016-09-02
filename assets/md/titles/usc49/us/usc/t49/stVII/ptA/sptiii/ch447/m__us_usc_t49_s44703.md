@@ -15,11 +15,11 @@
 
 ## § 44703. Airman certificates
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall issue an airman certificate to an individual when the Administrator finds, after investigation, that the individual is qualified for, and physically able to perform the duties related to, the position to be authorized by the certificate.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
         (1)
 
@@ -39,19 +39,19 @@
 
     (c) __Public Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman’s name, address, and ratings held shall be made available to the public after the 120th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
 
-        (2) __Opportunity to withhold information.—__ 
+        (2)  __Opportunity to withhold information__  __.—__ 
 
         Before making any information concerning an airman available to the public under paragraph (1), the airman shall be given an opportunity to elect that the information not be made available to the public.
 
-        (3) __Development and implementation of program.—__ 
+        (3)  __Development and implementation of program__  __.—__ 
 
         Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
 
-    (d) __Appeals.—__ 
+    (d)  __Appeals__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (3) A person who is substantially affected by an order of the Board under this subsection, or the Administrator if the Administrator decides that an order of the Board will have a significant adverse impact on carrying out this subtitle, may seek judicial review of the order under section 46110. The Administrator shall be made a party to the judicial review proceedings. The findings of fact of the Board in any such case are conclusive if supported by substantial evidence.
 
-    (e) __Restrictions and Prohibitions.—__ 
+    (e)  __Restrictions and Prohibitions__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may—
 
@@ -73,7 +73,7 @@
 
         (2) make issuing the certificate to an alien dependent on a reciprocal agreement with the government of a foreign country.
 
-    (f) __Controlled Substance Violations.—__ 
+    (f)  __Controlled Substance Violations__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may not issue an airman certificate to an individual whose certificate is revoked under [section 44710 of this title][/us/usc/t49/s44710] except—
 
@@ -81,7 +81,7 @@
 
         (2) as provided in [section 44710(e)(2) of this title][/us/usc/t49/s44710/e/2].
 
-    (g) __Modifications in System.—__ 
+    (g)  __Modifications in System__  __.—__ 
 
         (1)
 
@@ -105,11 +105,11 @@
 
     (h) __Records of Employment of Pilot Applicants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (14), before allowing an individual to begin service as a pilot, an air carrier shall request and receive the following information:
 
-            (A) __FAA records.—__ 
+            (A)  __FAA records__  __.—__ 
 
             From the Administrator of the Federal Aviation Administration, records pertaining to the individual that are maintained by the Administrator concerning—
 
@@ -117,7 +117,7 @@
 
                 (ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
 
-            (B) __Air carrier and other records.—__ 
+            (B)  __Air carrier and other records__  __.—__ 
 
             From any air carrier or other person (except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces) that has employed the individual as a pilot of a civil or public aircraft at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person—
 
@@ -145,11 +145,11 @@
 
                     (III) any release from employment or resignation, termination, or disqualification with respect to employment.
 
-            (C) __National driver register records.—__ 
+            (C)  __National driver register records__  __.—__ 
 
             In accordance with [section 30305(b)(8) of this title][/us/usc/t49/s30305/b/8], from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
 
-        (2) __Written consent; release from liability.—__ 
+        (2)  __Written consent; release from liability__  __.—__ 
 
         An air carrier making a request for records under paragraph (1)—
 
@@ -157,19 +157,19 @@
 
             (B) may, notwithstanding any other provision of law or agreement to the contrary, require the individual who is the subject of the records to request to execute a release from liability for any claim arising from the furnishing of such records to or the use of such records by such air carrier (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
 
-        (3) __5-year reporting period.—__ 
+        (3) __5-__  __year reporting period__  __.—__ 
 
         A person shall not furnish a record in response to a request made under paragraph (1) if the record was entered more than 5 years before the date of the request, unless the information concerns a revocation or suspension of an airman certificate or motor vehicle license that is in effect on the date of the request.
 
-        (4) __Requirement to maintain records.—__ 
+        (4)  __Requirement to maintain records__  __.—__ 
 
         The Administrator and air carriers shall maintain pilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
 
-        (5) __Receipt of consent; provision of information.—__ 
+        (5)  __Receipt of consent; provision of information__  __.—__ 
 
         A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
 
-        (6) __Right to receive notice and copy of any record furnished.—__ 
+        (6)  __Right to receive notice and copy of any record furnished__  __.—__ 
 
         A person who receives a request for records under paragraph (1) shall provide to the individual who is the subject of the records—
 
@@ -177,11 +177,11 @@
 
             (B) in accordance with paragraph (10), a copy of such records, if requested by the individual.
 
-        (7) __Reasonable charges for processing requests and furnishing copies.—__ 
+        (7)  __Reasonable charges for processing requests and furnishing copies__  __.—__ 
 
         A person who receives a request under paragraph (1) or (6) may establish a reasonable charge for the cost of processing the request and furnishing copies of the requested records.
 
-        (8) __Standard forms.—__ 
+        (8)  __Standard forms__  __.—__ 
 
         The Administrator shall promulgate—
 
@@ -201,19 +201,19 @@
 
                     (II) the individual right of that individual to receive a copy of any records furnished in response to the request.
 
-        (9) __Right to correct inaccuracies.—__ 
+        (9)  __Right to correct inaccuracies__  __.—__ 
 
         An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
 
-        (10) __Right of pilot to review certain records.—__ 
+        (10)  __Right of pilot to review certain records__  __.—__ 
 
         Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is or has been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
 
-        (11) __Privacy protections.—__ 
+        (11)  __Privacy protections__  __.—__ 
 
         An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
-        (12) __Periodic review.—__ 
+        (12)  __Periodic review__  __.—__ 
 
         Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
@@ -221,7 +221,7 @@
 
             (B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
-        (13) __Regulations.—__ 
+        (13)  __Regulations__  __.—__ 
 
         The Administrator shall prescribe such regulations as may be necessary—
 
@@ -239,33 +239,33 @@
 
         (14) __Special rules with respect to certain pilots.—__ 
 
-            (A) __Pilots of certain small aircraft.—__ 
+            (A)  __Pilots of certain small aircraft__  __.—__ 
 
             Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual’s employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
 
-            (B) __Good faith exception.—__ 
+            (B)  __Good faith exception__  __.—__ 
 
             Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employed the individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
 
-        (15) __Electronic access to faa records.—__ 
+        (15)  __Electronic access to faa records__  __.—__ 
 
         For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
 
-        (16) __Applicability.—__ 
+        (16)  __Applicability__  __.—__ 
 
         This subsection shall cease to be effective on the date specified in regulations issued under subsection (i).
 
     (i) __FAA Pilot Records Database.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Before allowing an individual to begin service as a pilot, an air carrier shall access and evaluate, in accordance with the requirements of this subsection, information pertaining to the individual from the pilot records database established under paragraph (2).
 
-        (2) __Pilot records database.—__ 
+        (2)  __Pilot records database__  __.—__ 
 
         The Administrator shall establish an electronic database (in this subsection referred to as the “database”) containing the following records:
 
-            (A) __FAA records.—__ 
+            (A) __FAA__  __records__  __.—__ 
 
             From the Administrator—
 
@@ -275,7 +275,7 @@
 
                 (iii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
 
-            (B) __Air carrier and other records.—__ 
+            (B)  __Air carrier and other records__  __.—__ 
 
             From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for the air carrier or person—
 
@@ -303,11 +303,11 @@
 
                     (III) any release from employment or resignation, termination, or disqualification with respect to employment.
 
-            (C) __National driver register records.—__ 
+            (C)  __National driver register records__  __.—__ 
 
             In accordance with [section 30305(b)(8) of this title][/us/usc/t49/s30305/b/8], from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
 
-        (3) __Written consent; release from liability.—__ 
+        (3)  __Written consent; release from liability__  __.—__ 
 
         An air carrier—
 
@@ -317,17 +317,17 @@
 
         (4) __Reporting.—__ 
 
-            (A) __Reporting by administrator.—__ 
+            (A)  __Reporting by administrator__  __.—__ 
 
             The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual’s records are current.
 
             (B) __Reporting by air carriers and other persons.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Air carriers and other persons shall report data described in paragraphs (2)(B) and (2)(C) to the Administrator promptly for entry into the database.
 
-                (ii) __Data to be reported.—__ 
+                (ii)  __Data to be reported__  __.—__ 
 
                 Air carriers and other persons shall report, at a minimum, under clause (i) the following data described in paragraph (2)(B):
 
@@ -335,7 +335,7 @@
 
                     (II) Records that the air carrier or other person is maintaining, on such date of enactment, pursuant to subsection (h)(4).
 
-        (5) __Requirement to maintain records.—__ 
+        (5)  __Requirement to maintain records__  __.—__ 
 
         The Administrator—
 
@@ -343,11 +343,11 @@
 
             (B) may remove the individual’s records from the database after that date.
 
-        (6) __Receipt of consent.—__ 
+        (6)  __Receipt of consent__  __.—__ 
 
         The Administrator shall not permit an air carrier to access records pertaining to an individual from the database under paragraph (1) without the air carrier first demonstrating to the satisfaction of the Administrator that the air carrier has obtained the written consent of the individual.
 
-        (7) __Right of pilot to review certain records and correct inaccuracies.—__ 
+        (7)  __Right of pilot to review certain records and correct inaccuracies__  __.—__ 
 
         Notwithstanding any other provision of law or agreement, the Administrator, upon receipt of written request from an individual—
 
@@ -357,11 +357,11 @@
 
         (8) __Reasonable charges for processing requests and furnishing copies.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator may establish a reasonable charge for the cost of processing a request under paragraph (1) or (7) and for the cost of furnishing copies of requested records under paragraph (7).
 
-            (B) __Crediting appropriations.—__ 
+            (B)  __Crediting appropriations__  __.—__ 
 
             Funds received by the Administrator pursuant to this paragraph shall—
 
@@ -373,17 +373,17 @@
 
         (9) __Privacy protections.—__ 
 
-            (A) __Use of records.—__ 
+            (A)  __Use of records__  __.—__ 
 
             An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
             (B) __Disclosure of information.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of [section 552(b)(3)(B) of title 5][/us/usc/t5/s552/b/3/B].
 
-                (ii) __Exceptions.—__ 
+                (ii)  __Exceptions__  __.—__ 
 
                 Clause (i) shall not apply to—
 
@@ -397,7 +397,7 @@
 
                     (V) such information as the Administrator determines necessary, if withholding the information would not be consistent with the safety responsibilities of the Federal Aviation Administration.
 
-        (10) __Periodic review.—__ 
+        (10)  __Periodic review__  __.—__ 
 
         Not later than 18 months after the date of enactment of this paragraph, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
@@ -405,7 +405,7 @@
 
             (B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
-        (11) __Regulations for protection and security of records.—__ 
+        (11)  __Regulations for protection and security of records__  __.—__ 
 
         The Administrator shall prescribe such regulations as may be necessary—
 
@@ -419,7 +419,7 @@
 
             (B) to preclude the further dissemination of records received under paragraph (1) by the person who accessed the records.
 
-        (12) __Good faith exception.—__ 
+        (12)  __Good faith exception__  __.—__ 
 
         Notwithstanding paragraph (1), an air carrier may allow an individual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
 
@@ -429,11 +429,11 @@
 
         (13) __Limitations on electronic access to records.—__ 
 
-            (A) __Access by individuals designated by air carriers.—__ 
+            (A)  __Access by individuals designated by air carriers__  __.—__ 
 
             For the purpose of increasing timely and efficient access to records described in paragraph (2), the Administrator may allow, under terms established by the Administrator, an individual designated by an air carrier to have electronic access to the database.
 
-            (B) __Terms.—__ 
+            (B)  __Terms__  __.—__ 
 
             The terms established by the Administrator under subparagraph (A) for allowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
 
@@ -441,21 +441,21 @@
 
                 (ii) information obtained using such access will not be used for any purpose other than making the hiring decision.
 
-        (14) __Authorized expenditures.—__ 
+        (14)  __Authorized expenditures__  __.—__ 
 
         Of amounts appropriated under section 106(k)(1), a total of $6,000,000 for fiscal years 2010 through 2013 may be used to carry out this subsection.
 
         (15) __Regulations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator shall issue regulations to carry out this subsection.
 
-            (B) __Effective date.—__ 
+            (B)  __Effective date__  __.—__ 
 
             The regulations shall specify the date on which the requirements of this subsection take effect and the date on which the requirements of subsection (h) cease to be effective.
 
-            (C) __Exceptions.—__ 
+            (C)  __Exceptions__  __.—__ 
 
             Notwithstanding subparagraph (B)—
 
@@ -465,13 +465,13 @@
 
                 (iii) air carriers and other persons shall maintain records to be reported to the database under paragraph (4)(B) in the period beginning on such date of enactment and ending on the date that is 5 years after the requirements of subsection (h) cease to be effective pursuant to subparagraph (B).
 
-        (16) __Special rule.—__ 
+        (16)  __Special rule__  __.—__ 
 
         During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting “45 days” for “30 days”.
 
     (j) __Limitations on Liability; Preemption of State Law.—__ 
 
-        (1) __Limitation on liability.—__ 
+        (1)  __Limitation on liability__  __.—__ 
 
         No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under subsection (h)(2) or (i)(3), against—
 
@@ -485,11 +485,11 @@
 
             in the nature of an action for defamation, invasion of privacy, negligence, interference with contract, or otherwise, or under any Federal or State law with respect to the furnishing or use of such records in accordance with subsection (h) or (i).
 
-        (2) __Preemption.—__ 
+        (2)  __Preemption__  __.—__ 
 
         No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
 
-        (3) __Provision of knowingly false information.—__ 
+        (3)  __Provision of knowingly false information__  __.—__ 
 
         Paragraphs (1) and (2) shall not apply with respect to a person who furnishes information in response to a request made under subsection (h)(1) or who furnished information to the database established under subsection (i)(2), that—
 
@@ -499,15 +499,15 @@
 
         (4) __Prohibition on actions and proceedings against air carriers.—__ 
 
-            (A) __Hiring decisions.—__ 
+            (A)  __Hiring decisions__  __.—__ 
 
             An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 
-            (B) __Actions and proceedings.—__ 
+            (B)  __Actions and proceedings__  __.—__ 
 
             No action or proceeding may be brought against an air carrier by or on behalf of an individual who has applied for or is seeking a position as a pilot with the air carrier if the air carrier refused to hire the individual after the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute a release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 
-    (k) __Limitation on Statutory Construction.—__ 
+    (k)  __Limitation on Statutory Construction__  __.—__ 
 
     Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
@@ -825,17 +825,17 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 [Pub. L. 112–153, § 2][/us/pl/112/153/s2], Aug. 3, 2012, [126 Stat. 1159][/us/stat/126/1159], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any proceeding conducted under subpart C, D, or F of part 821 of title 49, Code of Federal Regulations, relating to denial, amendment, modification, suspension, or revocation of an airman certificate, shall be conducted, to the extent practicable, in accordance with the Federal Rules of Civil Procedure \[28 U.S.C. App.\] and the Federal Rules of Evidence \[28 U.S.C. App.\].
 
 >     “(b) __Access to Information.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided under paragraph (3), the Administrator of the Federal Aviation Administration (referred to in this section as the ‘Administrator’) shall provide timely, written notification to an individual who is the subject of an investigation relating to the approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code.
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         The notification required under paragraph (1) shall inform the individual—
 
@@ -851,17 +851,17 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >             “(F) that the individual is entitled to access or otherwise obtain air traffic data described in paragraph (4).
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         The Administrator may delay timely notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
 
 >         “(4) __Access to air traffic data.—__ 
 
->             “(A) __FAA air traffic data.—__ 
+>             “(A)  __FAA air traffic data__  __.—__ 
 
 >             The Administrator shall provide an individual described in paragraph (1) with timely access to any air traffic data in the possession of the Federal Aviation Administration that would facilitate the individual’s ability to productively participate in a proceeding relating to an investigation described in such paragraph.
 
->             “(B) __Air traffic data defined.—__ 
+>             “(B)  __Air traffic data defined__  __.—__ 
 
 >             As used in subparagraph (A), the term ‘air traffic data’ includes—
 
@@ -879,11 +879,11 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >             “(C) __Government contractor air traffic data.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Any individual described in paragraph (1) is entitled to obtain any air traffic data that would facilitate the individual’s ability to productively participate in a proceeding relating to an investigation described in such paragraph from a government contractor that provides operational services to the Federal Aviation Administration, including control towers and flight service stations.
 
->                 “(ii) __Required information from individual.—__ 
+>                 “(ii)  __Required information from individual__  __.—__ 
 
 >                 The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—
 
@@ -891,7 +891,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >                          “(II) identifies the date on which such information was generated.
 
->                 “(iii) __Provision of information to individual.—__ 
+>                 “(iii)  __Provision of information to individual__  __.—__ 
 
 >                 If the Administrator receives a request under this subparagraph, the Administrator shall—
 
@@ -899,41 +899,41 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >                          “(II) upon receiving such information, transmitting the information to the requesting individual in a timely manner.
 
->         “(5) __Timing.—__ 
+>         “(5)  __Timing__  __.—__ 
 
 >         Except when the Administrator determines that an emergency exists under section 44709(c)(2) \[probably should be 44709(e)(2)\] or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 
 >     “(c) __Amendments to Title 49.—__ 
 
->         “(1) __Airman certificates.—__ 
+>         “(1)  __Airman certificates__  __.—__ 
 
 >         \[Amended this section.\]
 
->         “(2) __Amendments, modifications, suspensions, and revocations of certificates.—__ 
+>         “(2)  __Amendments, modifications, suspensions, and revocations of certificates__  __.—__ 
 
 >         \[Amended [section 44709 of this title][/us/usc/t49/s44709].\]
 
->         “(3) __Revocation of airman certificates for controlled substance violations.—__ 
+>         “(3)  __Revocation of airman certificates for controlled substance violations__  __.—__ 
 
 >         \[Amended [section 44710 of this title][/us/usc/t49/s44710].\]
 
 >     “(d) __Appeal From Certificate Actions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under [section 44703(d) of title 49][/us/usc/t49/s44703/d], United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual’s election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
 
->         “(2) __Emergency order pending judicial review.—__ 
+>         “(2)  __Emergency order pending judicial review__  __.—__ 
 
 >         Subsequent to a decision by the Board to uphold an Administrator’s emergency order under [section 44709(e)(2) of title 49][/us/usc/t49/s44709/e/2], United States Code, and absent a stay of the enforcement of that order by the Board, the emergency order of amendment, modification, suspension, or revocation of a certificate shall remain in effect, pending the exhaustion of an appeal to a Federal district court as provided in this Act \[amending this section and sections 44709 and 44710 of this title and enacting provisions set out as notes under this section and sections 40101 and 44701 of this title\].
 
 >     “(e) __Standard of Review.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In an appeal filed under subsection (d) in a United States district court, the district court shall give full independent review of a denial, suspension, or revocation ordered by the Administrator, including substantive independent and expedited review of any decision by the Administrator to make such order effective immediately.
 
->         “(2) __Evidence.—__ 
+>         “(2)  __Evidence__  __.—__ 
 
 >         A United States district court’s review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties.”
 
@@ -943,11 +943,11 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >     “(a) __Assessment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2012\], the Comptroller General of the United States shall initiate an assessment of the Federal Aviation Administration’s medical certification process and the associated medical standards and forms.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Comptroller General shall submit a report to Congress based on the assessment required under paragraph (1) that examines—
 
@@ -957,7 +957,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >             “(C) steps that could be taken to promote the public’s understanding of the medical requirements that determine an airman’s medical certificate eligibility.
 
->     “(b) __Goals of the Federal Aviation Administration’s Medical Certification Process.—__ 
+>     “(b)  __Goals of the Federal Aviation Administration’s Medical Certification Process__  __.—__ 
 
 >     The goals of the Federal Aviation Administration’s medical certification process are—
 
@@ -985,11 +985,11 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >             “(B) the individual understands the basis for determining medical qualifications.
 
->     “(c) __Advice From Private Sector Groups.—__ 
+>     “(c)  __Advice From Private Sector Groups__  __.—__ 
 
 >     The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
 
->     “(d) __Federal Aviation Administration Response.—__ 
+>     “(d)  __Federal Aviation Administration Response__  __.—__ 
 
 >     Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report.”
 
@@ -997,11 +997,11 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 [Pub. L. 112–95, title III, § 321][/us/pl/112/95/s321], Feb. 14, 2012, [126 Stat. 71][/us/stat/126/71], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall issue improved pilot licenses consistent with requirements under this section.
 
->     “(b) __Timing.—__ 
+>     “(b)  __Timing__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall—
 
@@ -1015,7 +1015,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >         “(2) begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     Improved pilot licenses issued under this section shall—
 
@@ -1031,31 +1031,31 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >             “(B) are compliant with Federal Information Processing Standards-201 (FIPS–201) or Personal Identity Verification-Interoperability Standards (PIV–I) for processing through security checkpoints into airport sterile areas.
 
->     “(d) __Tampering.—__ 
+>     “(d)  __Tampering__  __.—__ 
 
 >     To the extent practicable, the Administrator shall develop methods to determine or reveal whether any component or security feature of an improved pilot license issued under this section has been tampered with, altered, or counterfeited.
 
->     “(e) __Use of Designees.—__ 
+>     “(e)  __Use of Designees__  __.—__ 
 
 >     The Administrator may use designees to carry out subsection (a) to the extent practicable in order to minimize the burdens on pilots.
 
 >     “(f) __Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
 
->         “(2) __Expiration.—__ 
+>         “(2)  __Expiration__  __.—__ 
 
 >         The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots.”
 
 [Pub. L. 108–458, title IV, § 4022][/us/pl/108/458/s4022], Dec. 17, 2004, [118 Stat. 3723][/us/stat/118/3723], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Administrator of the Federal Aviation Administration shall begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     Improved pilots licenses issued under subsection (a) shall—
 
@@ -1065,11 +1065,11 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >         “(3) be capable of accommodating a digital photograph, a biometric identifier, or any other unique identifier that the Administrator considers necessary.
 
->     “(c) __Tampering.—__ 
+>     “(c)  __Tampering__  __.—__ 
 
 >     To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a license issued under subsection (a) has been tampered, altered, or counterfeited.
 
->     “(d) __Use of Designees.—__ 
+>     “(d)  __Use of Designees__  __.—__ 
 
 >     The Administrator may use designees to carry out subsection (a) to the extent feasible in order to minimize the burdens on pilots.”
 

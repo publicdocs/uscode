@@ -15,7 +15,7 @@
 
 ## § 41735. Enhanced essential air service
 
-    (a) __Proposals.—__ 
+    (a)  __Proposals__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
             (B) reducing the amount of compensation provided by the Secretary under this subchapter for that service.
 
-    (b) __Decisions.—__ 
+    (b)  __Decisions__  __.—__ 
 
     Not later than 90 days after receiving a proposal under subsection (a) of this section, the Secretary shall—
 
@@ -53,7 +53,7 @@
 
         (2) if the Secretary decides the proposal is not reasonable, disapprove the proposal and notify the State or local government of the disapproval and the reasons for the disapproval.
 
-    (c) __Compensation Payments.—__ 
+    (c)  __Compensation Payments__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
         (2) The Secretary may require the State or local government or person agreeing to pay compensation under this section to make advance payments or provide other security to ensure that timely payments are made.
 
-    (d) __Review.—__ 
+    (d)  __Review__  __.—__ 
 
         (1) The Secretary shall review periodically the enhanced essential air service provided to each eligible place under this section.
 
@@ -75,7 +75,7 @@
 
         (3) For service for which the Government pays 100 percent of the compensation, based on the review and consultation with the State or local government submitting the proposal, the Secretary shall decide whether the service has succeeded for at least a 2-year period under the criteria prescribed under subsection (a)(3) of this section. If unsuccessful, the place is not eligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
 
-    (e) __Ending, Suspending, and Reducing Air Transportation.—__ 
+    (e)  __Ending, Suspending, and Reducing Air Transportation__  __.—__ 
 
     An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of enhanced essential air service established for that place by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation for that service at least 30 days’ notice before ending, suspending, or reducing the service. This subsection does not relieve the carrier of an obligation under [section 41734 of this title][/us/usc/t49/s41734].
 

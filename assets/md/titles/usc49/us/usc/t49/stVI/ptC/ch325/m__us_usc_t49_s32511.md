@@ -15,11 +15,11 @@
 
 ## § 32511. Relationship to other motor vehicle standards
 
-    (a) __Preemption.—__ 
+    (a)  __Preemption__  __.—__ 
 
     Except as provided in this section, a State or a political subdivision of a State may prescribe or enforce a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment only if the standard is identical to a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502].
 
-    (b) __Enforcement.—__ 
+    (b)  __Enforcement__  __.—__ 
 
     This chapter and chapter 301 of this title do not affect the authority of a State to enforce a bumper standard about an aspect of performance of a passenger motor vehicle or passenger motor vehicle equipment not covered by a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502] if the State bumper standard—
 
@@ -27,7 +27,7 @@
 
         (2) was in effect or prescribed by the State on October 20, 1972.
 
-    (c) __Additional and Higher Standards of Performance.—__ 
+    (c)  __Additional and Higher Standards of Performance__  __.—__ 
 
     The United States Government, a State, or a political subdivision of a State may prescribe a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment obtained for its own use that imposes additional or higher standards of performance than a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502].
 

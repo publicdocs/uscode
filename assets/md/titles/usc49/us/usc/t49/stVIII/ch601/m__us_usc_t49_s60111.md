@@ -15,15 +15,15 @@
 
 ## § 60111. Financial responsibility for liquefied natural gas facilities
 
-    (a) __Notice.—__ 
+    (a)  __Notice__  __.—__ 
 
     When the Secretary of Transportation believes that an operator of a liquefied natural gas facility does not have adequate financial responsibility for the facility, the Secretary may issue a notice to the operator about the inadequacy and the amount of financial responsibility the Secretary considers adequate.
 
-    (b) __Hearings.—__ 
+    (b)  __Hearings__  __.—__ 
 
     An operator receiving a notice under subsection (a) of this section may have a hearing on the record not later than 30 days after receiving the notice. The operator may show why the Secretary should not issue an order requiring the operator to demonstrate and maintain financial responsibility in at least the amount the Secretary considers adequate.
 
-    (c) __Orders.—__ 
+    (c)  __Orders__  __.—__ 
 
     After an opportunity for a hearing on the record, the Secretary may issue the order if the Secretary decides it is justified in the public interest.
 

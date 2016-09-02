@@ -15,7 +15,7 @@
 
 ## § 60119. Judicial review
 
-    (a) __Review of Regulations, Orders, and Other Final Agency Actions.—__ 
+    (a)  __Review of Regulations, Orders, and Other Final Agency Actions__  __.—__ 
 
         (1) Except as provided in subsection (b) of this section, a person adversely affected by a regulation prescribed under this chapter or an order issued under this chapter may apply for review of the regulation or order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 89 days after the regulation is prescribed or order is issued. The clerk of the court immediately shall send a copy of the petition to the Secretary of Transportation.
 
@@ -23,7 +23,7 @@
 
         (3) A judicial review of agency action under this section shall apply the standards of review established in [section 706 of title 5][/us/usc/t5/s706].
 
-    (b) __Review of Financial Responsibility Orders.—__ 
+    (b)  __Review of Financial Responsibility Orders__  __.—__ 
 
         (1) A person adversely affected by an order issued under [section 60111 of this title][/us/usc/t49/s60111] may apply for review of the order by filing a petition for review in the appropriate court of appeals of the United States. The petition must be filed not later than 60 days after the order is issued. Findings of fact the Secretary makes are conclusive if supported by substantial evidence.
 

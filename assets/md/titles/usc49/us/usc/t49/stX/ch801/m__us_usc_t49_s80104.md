@@ -15,7 +15,7 @@
 
 ## § 80104. Form and requirements for negotiation
 
-    (a) __General Rules.—__ 
+    (a)  __General Rules__  __.—__ 
 
         (1) A negotiable bill of lading may be negotiated by indorsement. An indorsement may be made in blank or to a specified person. If the goods are deliverable to the order of a specified person, then the bill must be indorsed by that person.
 
@@ -29,11 +29,11 @@
 
             (B) when the bill is negotiated, it is in a form that allows it to be negotiated by delivery.
 
-    (b) __Validity Not Affected.—__ 
+    (b)  __Validity Not Affected__  __.—__ 
 
     The validity of a negotiation of a bill of lading is not affected by the negotiation having been a breach of duty by the person making the negotiation, or by the owner of the bill having been deprived of possession by fraud, accident, mistake, duress, loss, theft, or conversion, if the person to whom the bill is negotiated, or a person to whom the bill is subsequently negotiated, gives value for the bill in good faith and without notice of the breach of duty, fraud, accident, mistake, duress, loss, theft, or conversion.
 
-    (c) __Negotiation by Seller, Mortgagor, or Pledgor to Person Without Notice.—__ 
+    (c)  __Negotiation by Seller, Mortgagor, or Pledgor to Person Without Notice__  __.—__ 
 
     When goods for which a negotiable bill of lading has been issued are in a common carrier’s possession, and the person to whom the bill has been issued retains possession of the bill after selling, mortgaging, or pledging the goods or bill, the subsequent negotiation of the bill by that person to another person receiving the bill for value, in good faith, and without notice of the prior sale, mortgage, or pledge has the same effect as if the first purchaser of the goods or bill had expressly authorized the subsequent negotiation.
 

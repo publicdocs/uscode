@@ -15,7 +15,7 @@
 
 ## § 31305. General driver fitness, testing, and training
 
-    (a) __Minimum Standards for Testing and Fitness.—__ 
+    (a)  __Minimum Standards for Testing and Fitness__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations on minimum standards for testing and ensuring the fitness of an individual operating a commercial motor vehicle. The regulations—
 
@@ -65,7 +65,7 @@
 
             (B) the individual to have a copy of the certification in the individual’s possession when the individual is operating a commercial motor vehicle.
 
-    (b) __Requirements for Operating Vehicles.—__ 
+    (b)  __Requirements for Operating Vehicles__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, an individual may operate a commercial motor vehicle only if the individual has passed written and driving tests that meet the minimum standards prescribed by the Secretary under subsection (a) of this section to operate the vehicle and has a commercial driver’s license to operate the vehicle.
 
@@ -77,7 +77,7 @@
 
             (B) has a driver’s license that is not suspended, revoked, or canceled.
 
-    (c) __Standards for Training.—__ 
+    (c)  __Standards for Training__  __.—__ 
 
     Not later than 1 year after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the Secretary shall issue final regulations establishing minimum entry-level training requirements for an individual operating a commercial motor vehicle—
 
@@ -187,15 +187,15 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 [Pub. L. 113–45, § 1][/us/pl/113/45/s1], Oct. 15, 2013, [127 Stat. 557][/us/stat/127/557], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation may implement or enforce a requirement providing for the screening, testing, or treatment (including consideration of all possible treatment alternatives) of individuals operating commercial motor vehicles for sleep disorders only if the requirement is adopted pursuant to a rulemaking proceeding.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall not apply to a requirement that was in force before September 1, 2013.
 
->     “(c) __Sleep Disorders Defined.—__ 
+>     “(c)  __Sleep Disorders Defined__  __.—__ 
 
 >     In this section, the term ‘sleep disorders’ includes obstructive sleep apnea.”
 
@@ -203,19 +203,19 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 [Pub. L. 109–59, title IV, § 4129][/us/pl/109/59/s4129], Aug. 10, 2005, [119 Stat. 1742][/us/stat/119/1742], provided that:
 
->     “(a) __Revision of Final Rule.—__ 
+>     “(a)  __Revision of Final Rule__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall begin revising the final rule published in the Federal Register on September 3, 2003, relating to persons with diabetes, to allow individuals who use insulin to treat their diabetes to operate commercial motor vehicles in interstate commerce. The revised final rule shall provide for the individual assessment of applicants who use insulin to treat their diabetes and who are, except for their use of insulin, otherwise qualified under the Federal motor carrier safety regulations. The revised final rule shall be consistent with the criteria described in section 4018 of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([49 U.S.C. 31305][/us/usc/t49/s31305] note) and shall conclude the rulemaking process in the Federal Motor Carrier Safety Administration docket relating to qualifications of drivers with diabetes.
 
->     “(b) __No Period of Commercial Driving While Using Insulin Required for Qualification.—__ 
+>     “(b)  __No Period of Commercial Driving While Using Insulin Required for Qualification__  __.—__ 
 
 >     After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the date of enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
 
->     “(c) __Minimum Period of Insulin Use.—__ 
+>     “(c)  __Minimum Period of Insulin Use__  __.—__ 
 
 >     Subject to subsection (b), the Secretary shall require individuals with insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in ‘A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century’. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
 
->     “(d) __Limitations.—__ 
+>     “(d)  __Limitations__  __.—__ 
 
 >     Insulin-treated individuals may not be held by the Secretary to a higher standard of physical qualification in order to operate a commercial motor vehicle in interstate commerce than other individuals applying to operate, or operating, a commercial motor vehicle in interstate commerce; except to the extent that limited operating, monitoring, and medical requirements are deemed medically necessary under regulations issued by the Secretary.”
 
@@ -247,11 +247,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 [Pub. L. 105–178, title IV, § 4018][/us/pl/105/178/s4018], June 9, 1998, [112 Stat. 413][/us/stat/112/413], provided that:
 
->     “(a) __Determination.—__ 
+>     “(a)  __Determination__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstate commerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
 
->     “(b) __Compilation and Evaluation.—__ 
+>     “(b)  __Compilation and Evaluation__  __.—__ 
 
 >     Prior to making the determination in subsection (a), the Secretary shall compile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
 
@@ -267,11 +267,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 >         “(6) consult with interested groups knowledgeable about diabetes and related issues.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     If the Secretary determines that no protocol described in subsection (a) could likely be developed, the Secretary shall report to Congress the basis for such determination.
 
->     “(d) __Initiation of Rulemaking.—__ 
+>     “(d)  __Initiation of Rulemaking__  __.—__ 
 
 >     If the Secretary determines that a protocol described in subsection (a) could likely be developed, the Secretary shall report to Congress a description of the elements of such protocol and shall promptly initiate a rulemaking proceeding to implement such protocol.”
 
@@ -279,11 +279,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 [Pub. L. 105–178, title IV, § 4019][/us/pl/105/178/s4019], June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall complete a review of the procedures established and implemented by States under [section 31305 of title 49][/us/usc/t49/s31305], United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual’s knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary may issue regulations under [section 31305 of title 49][/us/usc/t49/s31305], United States Code, reflecting the results of the review.”
 
@@ -293,11 +293,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 >     “(a) __Technologies To Reduce Fatigue of Commercial Motor Vehicle Operators.—__ 
 
->         “(1) __Development of technologies.—__ 
+>         “(1)  __Development of technologies__  __.—__ 
 
 >         As part of the activities of the Secretary \[of Transportation\] relating to the fatigue of commercial motor vehicle operators, the Secretary shall encourage the research, development, and demonstration of technologies that may aid in reducing such fatigue.
 
->         “(2) __Matters to be taken into account.—__ 
+>         “(2)  __Matters to be taken into account__  __.—__ 
 
 >         In carrying out paragraph (1), the Secretary shall take into account—
 
@@ -307,11 +307,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
 >             “(C) the degree to which the application of the technology will further emissions reductions, energy conservation, and other transportation goals.
 
->         “(3) __Funding.—__ 
+>         “(3)  __Funding__  __.—__ 
 
 >         The Secretary may use amounts made available under section 5001(a)(2) of this Act \[[112 Stat. 419][/us/stat/112/419]\].
 
->     “(b) __Nonsedating Medications.—__ 
+>     “(b)  __Nonsedating Medications__  __.—__ 
 
 >     The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as a means of reducing the adverse effects of the use of other medications by drivers.”
 

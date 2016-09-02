@@ -15,11 +15,11 @@
 
 ## § 5301. Policies and purposes
 
-    (a) __Declaration of Policy.—__ 
+    (a)  __Declaration of Policy__  __.—__ 
 
     It is in the interest of the United States, including the economic interest of the United States, to foster the development and revitalization of public transportation systems with the cooperation of both public transportation companies and private companies engaged in public transportation.
 
-    (b) __General Purposes.—__ 
+    (b)  __General Purposes__  __.—__ 
 
     The purposes of this chapter are to—
 
@@ -251,7 +251,7 @@ In subsection (b)(6), the words “were . . . in the early 1970’s” are s
 
 [Pub. L. 102–240, title VIII, § 8004][/us/pl/102/240/s8004], Dec. 18, 1991, [105 Stat. 2206][/us/stat/105/2206], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -269,7 +269,7 @@ In subsection (b)(6), the words “were . . . in the early 1970’s” are s
 
 >         “(7) legislation to provide equitable treatment of employer-provided commuter transit benefits has been introduced with bipartisan support in both the Senate and House of Representatives.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     The Congress strongly supports Federal policy that promotes increased use of employer-provided commuter transit benefits. Such a policy ‘levels the playing field’ between transportation modes and is consistent with important national objectives of energy conservation, reduced reliance on energy imports, lessened congestion, and clean air.”
 

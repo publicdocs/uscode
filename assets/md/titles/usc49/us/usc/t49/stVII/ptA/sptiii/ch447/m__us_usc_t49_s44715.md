@@ -15,7 +15,7 @@
 
 ## § 44715. Controlling aircraft noise and sonic boom
 
-    (a) __Standards and Regulations.—__ 
+    (a)  __Standards and Regulations__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
         (3) An original type certificate may be issued under [section 44704(a) of this title][/us/usc/t49/s44704/a] for an aircraft for which substantial noise abatement can be achieved only after the Administrator of the Federal Aviation Administration prescribes standards and regulations under this section that apply to that aircraft.
 
-    (b) __Considerations and Consultation.—__ 
+    (b)  __Considerations and Consultation__  __.—__ 
 
     When prescribing a standard or regulation under this section, the Administrator of the Federal Aviation Administration shall—
 
@@ -47,7 +47,7 @@
 
         (5) consider the extent to which the standard or regulation will carry out the purposes of this section.
 
-    (c) __Proposed Regulations of Administrator of Environmental Protection Agency.—__ 
+    (c)  __Proposed Regulations of Administrator of Environmental Protection Agency__  __.—__ 
 
     The Administrator of the Environmental Protection Agency shall submit to the Administrator of the Federal Aviation Administration proposed regulations to control and abate aircraft noise and sonic boom (including control and abatement through the use of the authority of the Administrator of the Federal Aviation Administration) that the Administrator of the Environmental Protection Agency considers necessary to protect the public health and welfare. The Administrator of the Federal Aviation Administration shall consider those proposed regulations and shall publish them in a notice of proposed regulations not later than 30 days after they are received. Not later than 60 days after publication, the Administrator of the Federal Aviation Administration shall begin a hearing at which interested persons are given an opportunity for oral and written presentations. Not later than 90 days after the hearing is completed and after consulting with the Administrator of the Environmental Protection Agency, the Administrator of the Federal Aviation Administration shall—
 
@@ -69,7 +69,7 @@
 
             (C) a detailed explanation of why no regulation is being prescribed.
 
-    (d) __Consultation and Reports.—__ 
+    (d)  __Consultation and Reports__  __.—__ 
 
         (1) If the Administrator of the Environmental Protection Agency believes that the action of the Administrator of the Federal Aviation Administration under subsection (c)(1)(B) or (2) of this section does not protect the public health and welfare from aircraft noise or sonic boom, consistent with the considerations in subsection (b) of this section, the Administrator of the Environmental Protection Agency shall consult with the Administrator of the Federal Aviation Administration and may request a report on the advisability of prescribing the regulation as originally proposed. The request, including a detailed statement of the information on which the request is based, shall be published in the Federal Register.
 
@@ -85,11 +85,11 @@
 
             (D) be published in the Federal Register unless the request proposes specific action by the Administrator of the Federal Aviation Administration and the report indicates that action will be taken.
 
-    (e) __Supplemental Reports.—__ 
+    (e)  __Supplemental Reports__  __.—__ 
 
     The Administrator of the Environmental Protection Agency may request the Administrator of the Federal Aviation Administration to file a supplemental report if the report under subsection (d) of this section indicates that the proposed regulations under subsection (c) of this section, for which a statement under section 102(2)(C) of the Act ([42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]) is not required, should not be prescribed. The supplemental report shall be published in the Federal Register within the time the Administrator of the Environmental Protection Agency specifies. However, the time specified must be at least 90 days after the date of the request. The supplemental report shall contain a comparison of the environmental effects, including those that cannot be avoided, of the action of the Administrator of the Federal Aviation Administration and the proposed regulations of the Administrator of the Environmental Protection Agency.
 
-    (f) __Exemptions.—__ 
+    (f)  __Exemptions__  __.—__ 
 
     An exemption from a standard or regulation prescribed under this section may be granted only if, before granting the exemption, the Administrator of the Federal Aviation Administration consults with the Administrator of the Environmental Protection Agency. However, if the Administrator of the Federal Aviation Administration finds that safety in air transportation or air commerce requires an exemption before the Administrator of the Environmental Protection Agency can be consulted, the exemption may be granted. The Administrator of the Federal Aviation Administration shall consult with the Administrator of the Environmental Protection Agency as soon as practicable after the exemption is granted.
 

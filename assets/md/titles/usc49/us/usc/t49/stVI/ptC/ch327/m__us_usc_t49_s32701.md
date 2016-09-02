@@ -15,7 +15,7 @@
 
 ## § 32701. Findings and purposes
 
-    (a) __Findings.—__ 
+    (a)  __Findings__  __.—__ 
 
     Congress finds that—
 
@@ -27,7 +27,7 @@
 
         (4) motor vehicles move in, or affect, interstate and foreign commerce.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of this chapter are—
 

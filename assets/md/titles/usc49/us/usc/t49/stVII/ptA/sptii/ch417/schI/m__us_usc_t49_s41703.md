@@ -15,7 +15,7 @@
 
 ## § 41703. Navigation of foreign civil aircraft
 
-    (a) __Permitted Navigation.—__ 
+    (a)  __Permitted Navigation__  __.—__ 
 
     A foreign aircraft, not part of the armed forces of a foreign country, may be navigated in the United States only—
 
@@ -27,7 +27,7 @@
 
         (4) if the navigation is consistent with terms the Secretary may prescribe.
 
-    (b) __Requirements for Authorizing Navigation.—__ 
+    (b)  __Requirements for Authorizing Navigation__  __.—__ 
 
     The Secretary may authorize navigation under this section only if the Secretary decides the authorization is—
 
@@ -35,7 +35,7 @@
 
         (2) consistent with any agreement between the Government and the government of a foreign country.
 
-    (c) __Providing Air Commerce.—__ 
+    (c)  __Providing Air Commerce__  __.—__ 
 
     The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation, at a place in the United States, passengers or cargo destined for another place in the United States only if—
 
@@ -43,17 +43,17 @@
 
         (2) under regulations the Secretary prescribes authorizing air carriers to provide otherwise authorized air transportation with foreign registered aircraft under lease or charter to them without crew.
 
-    (d) __Permit Requirements Not Affected.—__ 
+    (d)  __Permit Requirements Not Affected__  __.—__ 
 
     This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
 
     (e) __Cargo in Alaska.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For the purposes of subsection (c), eligible cargo taken on or off any aircraft at a place in Alaska in the course of transportation of that cargo by any combination of 2 or more air carriers or foreign air carriers in either direction between a place in the United States and a place outside the United States shall not be deemed to have broken its international journey in, be taken on in, or be destined for Alaska.
 
-        (2) __Eligible cargo.—__ 
+        (2)  __Eligible cargo__  __.—__ 
 
         For purposes of paragraph (1), the term “eligible cargo” means cargo transported between Alaska and any other place in the United States on a foreign air carrier (having been transported from, or thereafter being transported to, a place outside the United States on a different air carrier or foreign air carrier) that is carried—
 

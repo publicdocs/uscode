@@ -15,7 +15,7 @@
 
 ## § 41504. Tariffs for foreign air transportation
 
-    (a) __Filing and Contents.—__ 
+    (a)  __Filing and Contents__  __.—__ 
 
     In the way prescribed by regulation by the Secretary of Transportation, every air carrier and foreign air carrier shall file with the Secretary, publish, and keep open to public inspection, tariffs showing the prices for the foreign air transportation provided between places served by the carrier and provided between places served by the carrier and places served by another air carrier or foreign air carrier with which through service and joint prices have been established. A tariff—
 
@@ -37,13 +37,13 @@
 
             (B) information that is required under the laws of a foreign country in or to which the air carrier or foreign air carrier is authorized to operate.
 
-    (b) __Changes.—__ 
+    (b)  __Changes__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, an air carrier or foreign air carrier may change a price or a classification, rule, or practice affecting that price or the value of the transportation provided under that price, specified in a tariff of the carrier for foreign air transportation only after 30 days after the carrier has filed, published, and posted notice of the proposed change in the same way as required for a tariff under subsection (a) of this section. However, the Secretary may prescribe an alternative notice requirement, of at least 25 days, to allow an air carrier or foreign air carrier to match a proposed change in a passenger fare or a charge of another air carrier or foreign air carrier. A notice under this paragraph must state plainly the change proposed and when the change will take effect.
 
         (2) If the effect of a proposed change would be to begin a passenger fare that is outside of, or not covered by, the range of passenger fares specified under section 41509(e)(2) and (3) of this title, the proposed change may be put into effect only on the expiration of 60 days after the notice is filed under regulations prescribed by the Secretary.
 
-    (c) __Rejection of Changes.—__ 
+    (c)  __Rejection of Changes__  __.—__ 
 
     The Secretary may reject a tariff or tariff change that is not consistent with this section and regulations prescribed by the Secretary. A tariff or change that is rejected is void.
 

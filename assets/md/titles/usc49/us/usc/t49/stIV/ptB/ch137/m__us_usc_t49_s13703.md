@@ -17,7 +17,7 @@
 
     (a) __Agreements.—__ 
 
-        (1) __Authority to enter.—__ 
+        (1)  __Authority to enter__  __.—__ 
 
         A motor carrier providing transportation or service subject to jurisdiction under chapter 135 may enter into an agreement with one or more such carriers to establish—
 
@@ -37,39 +37,39 @@
 
             (H) procedures for joint consideration, initiation, or establishment of matters described in subparagraphs (A) through (G).
 
-        (2) __Submission of agreement to board; approval.—__ 
+        (2)  __Submission of agreement to board; approval__  __.—__ 
 
         An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
 
-        (3) __Conditions.—__ 
+        (3)  __Conditions__  __.—__ 
 
         The Board may require compliance with reasonable conditions consistent with this part to assure that the agreement furthers the transportation policy set forth in section 13101.
 
-        (4) __Independently established rates.—__ 
+        (4)  __Independently established rates__  __.—__ 
 
         Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precluded from independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
 
         (5) __Investigations.—__ 
 
-            (A) __Reasonableness.—__ 
+            (A)  __Reasonableness__  __.—__ 
 
             The Board may suspend and investigate the reasonableness of any rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
 
-            (B) __Actions not in the public interest.—__ 
+            (B)  __Actions not in the public interest__  __.—__ 
 
             The Board may investigate any action taken pursuant to an agreement approved under this section. If the Board finds that the action is not in the public interest, the Board may take such measures as may be necessary to protect the public interest with regard to the action, including issuing an order directing the parties to cease and desist or modify the action.
 
-        (6) __Effect of approval.—__ 
+        (6)  __Effect of approval__  __.—__ 
 
         If the Board approves the agreement or renews approval of the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws, as defined in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]), do not apply to parties and other persons with respect to making or carrying out the agreement.
 
-    (b) __Records.—__ 
+    (b)  __Records__  __.—__ 
 
     The Board may require an organization established or continued under an agreement approved under this section to maintain records and submit reports. The Board, or its delegate, may inspect a record maintained under this section, or monitor any organization’s compliance with this section.
 
     (c) __Review.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
 
@@ -83,49 +83,49 @@
 
             has effect only as related to application of the antitrust laws referred to in subsection (a).
 
-        (2) __Periodic review of approvals.—__ 
+        (2)  __Periodic review of approvals__  __.—__ 
 
         Subject to this section, in the 5-year period beginning on the date of the enactment of this paragraph and in each 5-year period thereafter, the Board shall initiate a proceeding to review any agreement approved pursuant to this section. Any such agreement shall be continued unless the Board determines otherwise.
 
     (d) __Existing Agreements.—__ 
 
-        (1) __Agreements existing as of__  __December 31, 1995__  __.—__ 
+        (1)  __Agreements existing as of __  __December 31, 1995__  __.—__ 
 
         Agreements approved under former section 10706(b) and in effect on December 31, 1995, shall be treated for purposes of this section as approved by the Board under this section beginning on January 1, 1996.
 
-        (2) __Cases pending as of date of the enactment.—__ 
+        (2)  __Cases pending as of date of the enactment__  __.—__ 
 
         Nothing in section 227 (other than subsection (b)) of the Motor Carrier Safety Improvement Act of 1999, including the amendments made by such section, shall be construed to affect any case brought under this section that is pending before the Board as of the date of the enactment of this paragraph.
 
     (e) __Limitations on Statutory Construction.—__ 
 
-        (1) __Undercharge claims.—__ 
+        (1)  __Undercharge claims__  __.—__ 
 
         Nothing in this section shall serve as a basis for any undercharge claim.
 
-        (2) __Obligation of shipper.—__ 
+        (2)  __Obligation of shipper__  __.—__ 
 
         Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
 
     (f) __Industry Standard Guides.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
-            (A) __Public availability.—__ 
+            (A)  __Public availability__  __.—__ 
 
             Routes, rates, classifications, mileage guides, and rules established under agreements approved under this section shall be published and made available for public inspection upon request.
 
-            (B) __Participation of carriers.—__ 
+            (B)  __Participation of carriers__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approved under this section must participate in the determining or governing publication for such provisions to apply.
 
-                (ii) __Power of attorney.—__ 
+                (ii)  __Power of attorney__  __.—__ 
 
                 The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
 
-        (2) __Mileage limitation.—__ 
+        (2)  __Mileage limitation__  __.—__ 
 
         No carrier subject to jurisdiction under subchapter I or III of chapter 135 may enforce collection of its mileage rates unless such carrier—
 
@@ -133,7 +133,7 @@
 
             (B) uses a publication of mileage (other than a publication described in subparagraph (A)) that can be examined by any interested person upon reasonable request.
 
-    (g) __Single Line Rate Defined.—__ 
+    (g)  __Single Line Rate Defined__  __.—__ 
 
     In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 

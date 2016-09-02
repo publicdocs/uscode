@@ -15,11 +15,11 @@
 
 ## § 41311. Gambling restrictions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An air carrier or foreign air carrier may not install, transport, or operate, or permit the use of, any gambling device on board an aircraft in foreign air transportation.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “gambling device” means any machine or mechanical device (including gambling applications on electronic interactive video systems installed on board aircraft for passenger use)—
 

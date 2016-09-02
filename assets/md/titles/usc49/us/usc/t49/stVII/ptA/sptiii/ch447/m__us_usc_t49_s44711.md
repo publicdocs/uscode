@@ -15,7 +15,7 @@
 
 ## § 44711. Prohibitions and exemption
 
-    (a) __Prohibitions.—__ 
+    (a)  __Prohibitions__  __.—__ 
 
     A person may not—
 
@@ -45,17 +45,17 @@
 
         (10) violate section 44732 or any regulation issued thereunder.
 
-    (b) __Exemption.—__ 
+    (b)  __Exemption__  __.—__ 
 
     On terms the Administrator of the Federal Aviation Administration prescribes as being in the public interest, the Administrator may exempt a foreign aircraft and airmen serving on the aircraft from subsection (a) of this section. However, an exemption from observing air traffic regulations may not be granted.
 
-    (c) __Prohibition on Employment of Convicted Counterfeit Part Traffickers.—__ 
+    (c)  __Prohibition on Employment of Convicted Counterfeit Part Traffickers__  __.—__ 
 
     No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 
     (d) __Postemployment Restrictions for Flight Standards Inspectors.—__ 
 
-        (1) __Prohibition.—__ 
+        (1)  __Prohibition__  __.—__ 
 
         A person holding an operating certificate issued under title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2-year period—
 
@@ -63,7 +63,7 @@
 
             (B) had responsibility to inspect, or oversee inspection of, the operations of the certificate holder.
 
-        (2) __Written and oral communications.—__ 
+        (2)  __Written and oral communications__  __.—__ 
 
         For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
 

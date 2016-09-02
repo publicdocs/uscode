@@ -15,11 +15,11 @@
 
 ## § 5110. Shipping papers and disclosure
 
-    (a) __Providing Shipping Papers.—__ 
+    (a)  __Providing Shipping Papers__  __.—__ 
 
     Each person offering for transportation in commerce hazardous material to which the shipping paper requirements of the Secretary apply shall provide to the carrier providing the transportation a shipping paper that makes the disclosures the Secretary prescribes in regulations.
 
-    (b) __Keeping Shipping Papers on the Vehicle.—__ 
+    (b)  __Keeping Shipping Papers on the Vehicle__  __.—__ 
 
         (1) A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
 
@@ -31,21 +31,21 @@
 
             (B) the documents are made available to a representative of a department, agency, or instrumentality of the United States Government or a State or local authority responding to an accident or incident involving the motor vehicle, train, vessel, aircraft, or facility.
 
-    (c) __Disclosure to Emergency Response Authorities.—__ 
+    (c)  __Disclosure to Emergency Response Authorities__  __.—__ 
 
     When an incident involving hazardous material being transported in commerce occurs, the person transporting the material, immediately on request of appropriate emergency response authorities, shall disclose to the authorities information about the material.
 
     (d) __Retention of Papers.—__ 
 
-        (1) __Offerors.—__ 
+        (1)  __Offerors__  __.—__ 
 
         The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror’s principal place of business.
 
-        (2) __Carriers.—__ 
+        (2)  __Carriers__  __.—__ 
 
         The carrier required to keep the shipping paper under this section, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Comma probably should not appear. </sup></sup>  shall retain the paper, or an electronic format of it, for a period of 1 year after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the carrier’s principal place of business.
 
-        (3) __Availability to government agencies.—__ 
+        (3)  __Availability to government agencies__  __.—__ 
 
         Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.
 
@@ -167,11 +167,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
 >     “(a) __Rulemaking Proceeding.—__ 
 
->         “(1) __Initiation.—__ 
+>         “(1)  __Initiation__  __.—__ 
 
 >         In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary of Transportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
 
->         “(2) __Primary purposes.—__ 
+>         “(2)  __Primary purposes__  __.—__ 
 
 >         The primary purposes of the rulemaking proceeding initiated under this subsection are—
 
@@ -179,25 +179,25 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
 >             “(B) to determine methods for establishing and operating a central reporting system and computerized telecommunications data center described in subsection (b)(1).
 
->         “(3) __Methods of improving placarding system.—__ 
+>         “(3)  __Methods of improving placarding system__  __.—__ 
 
 >         The methods of improving the current system of placarding to be considered under the rulemaking proceeding initiated under this subsection shall include methods to make such placards more visible, methods to reduce the number of improper and missing placards, alternative methods of marking vehicles for the purpose of identifying the hazardous materials being transported, methods of modifying the composition of placards in order to ensure their resistance to flammability, methods of improving the coding system used with respect to such placards, identification of appropriate emergency response procedures through symbols on placards, and whether or not telephone numbers of any continually monitored telephone systems which are established under the Hazardous Materials Transportation Act \[see [49 U.S.C. 5101][/us/usc/t49/s5101] et seq.\] are displayed on vehicles transporting hazardous materials.
 
->         “(4) __Completion of rulemaking proceeding with respect to reporting system and data center.—__ 
+>         “(4)  __Completion of rulemaking proceeding with respect to reporting system and data center__  __.—__ 
 
 >         Not later than 19 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall complete the rulemaking proceeding initiated with respect to the central reporting system and computerized telecommunications data center described in subsection (b).
 
->         “(5) __Final rule with respect to placarding.—__ 
+>         “(5)  __Final rule with respect to placarding__  __.—__ 
 
 >         Not later than 30 months after the date of the enactment of this Act, the Secretary of Transportation shall issue a final rule relating to improving the current system for placarding vehicles transporting hazardous materials.
 
 >     “(b) __Central Reporting System and Computerized Telecommunications Data Center Study.—__ 
 
->         “(1) __Arrangements with national academy of sciences.—__ 
+>         “(1)  __Arrangements with national academy of sciences__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall undertake to enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the feasibility and necessity of establishing and operating a central reporting system and computerized telecommunications data center that is capable of receiving, storing, and retrieving data concerning all daily shipments of hazardous materials, that can identify hazardous materials being transported by any mode of transportation, and that can provide information to facilitate responses to accidents and incidents involving the transportation of hazardous materials.
 
->         “(2) __Consultation and report.—__ 
+>         “(2)  __Consultation and report__  __.—__ 
 
 >         In entering into any arrangements with the National Academy of Sciences for conducting the study under this section, the Secretary of Transportation shall request the National Academy of Sciences—
 
@@ -207,11 +207,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
 >             Such report shall include recommendations of the National Academy of Sciences with respect to establishment and operation of a central reporting system and computerized telecommunications data center described in paragraph (1).
 
->         “(3) __Authorization of appropriation.—__ 
+>         “(3)  __Authorization of appropriation__  __.—__ 
 
 >         In addition to amounts authorized under section 115 of the Hazardous Materials Transportation Act \[see [49 U.S.C. 5127(a)][/us/usc/t49/s5127/a]\], there is authorized to be appropriated to the Secretary of Transportation to carry out this subsection $350,000.
 
->     “(c) __Additional Purposes of Rulemaking Proceeding and Study.—__ 
+>     “(c)  __Additional Purposes of Rulemaking Proceeding and Study__  __.—__ 
 
 >     Additional purposes of the rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
 
@@ -239,15 +239,15 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
 >     “(d) __Review and Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 25 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall review the report of the National Academy of Sciences submitted under subsection (b) and the results of rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center and shall prepare and submit to Congress a report summarizing the report of the National Academy of Sciences and the results of such rulemaking proceeding, together with the Secretary’s recommendations concerning the establishment and operation of such a system and center and the Secretary’s recommendations concerning implementation of the recommendations contained in the report of the National Academy of Sciences.
 
->         “(2) __Weight to be given to recommendations of nas.—__ 
+>         “(2)  __Weight to be given to recommendations of nas__  __.—__ 
 
 >         In conducting the review and preparing the report under this subsection, the Secretary shall give substantial weight to the recommendations contained in the report of the National Academy of Sciences submitted under subsection (b).
 
->         “(3) __Inclusion of reasons for not following recommendations.—__ 
+>         “(3)  __Inclusion of reasons for not following recommendations__  __.—__ 
 
 >         If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary’s reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
 
@@ -255,11 +255,11 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 105(g); added Nov. 16, 1990,
 
 [Pub. L. 101–615, § 26][/us/pl/101/615/s26], Nov. 16, 1990, [104 Stat. 3273][/us/stat/104/3273], provided that:
 
->     “(a) __Rulemaking Proceeding.—__ 
+>     “(a)  __Rulemaking Proceeding__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall initiate a rulemaking proceeding on the feasibility, necessity, and safety benefits of requiring carriers involved in the hazardous materials transportation industry to establish continually monitored telephone systems equipped to provide emergency response information and assistance with respect to accidents and incidents involving hazardous materials. Additional objectives of such proceeding shall be to determine which hazardous materials, if any, should be covered by such a requirement and which segments of such industry (including persons who own and operate motor vehicles, trains, vessels, aircraft, and in-transit storage facilities) should be covered by such a requirement.
 
->     “(b) __Completion of Proceeding.—__ 
+>     “(b)  __Completion of Proceeding__  __.—__ 
 
 >     Not later than 30 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall complete the proceeding under this section and may issue a final rule relating to establishment of continually monitored telephone systems described in subsection (a).”
 

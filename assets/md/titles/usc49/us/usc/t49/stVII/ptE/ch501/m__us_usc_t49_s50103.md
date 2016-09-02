@@ -15,7 +15,7 @@
 
 ## § 50103. Contract preference for domestic firms
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,7 +23,7 @@
 
         (2) “foreign firm” means a business entity not described in clause (1) of this subsection.
 
-    (b) __Preference.—__ 
+    (b)  __Preference__  __.—__ 
 
     Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 of this title that, under competitive procedures, would be made with a foreign firm, if—
 
@@ -35,7 +35,7 @@
 
         (4) at least 51 percent of the final product of the domestic firm will be produced in the United States.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     Subsection (b) of this section does not apply if—
 
@@ -43,7 +43,7 @@
 
         (2) the Trade Representative decides that making the contract would violate the multilateral trade agreements (as defined in [section 3501(4) of title 19][/us/usc/t19/s3501/4]) or an international agreement to which the United States is a party.
 
-    (d) __Application to Certain Grants.—__ 
+    (d)  __Application to Certain Grants__  __.—__ 
 
     This section applies only to a contract related to a grant made under section 44511, 44512, or 44513 of this title for which—
 
@@ -51,7 +51,7 @@
 
         (2) a solicitation for bid is issued after November 5, 1990.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     The Administrator shall submit a report to Congress on—
 

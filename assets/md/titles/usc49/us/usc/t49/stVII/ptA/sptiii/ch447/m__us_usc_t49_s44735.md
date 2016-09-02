@@ -15,11 +15,11 @@
 
 ## § 44735. Limitation on disclosure of safety information
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to [section 552(b)(3)(B) of title 5][/us/usc/t5/s552/b/3/B] if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law.
 
-    (b) __Applicability.—__ 
+    (b)  __Applicability__  __.—__ 
 
     The limitation established by subsection (a) shall apply to the following:
 
@@ -35,11 +35,11 @@
 
     (c) __Exception for De-identified Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The limitation established by subsection (a) shall not apply to a report, data, or other information if the information contained in the report, data, or other information has been de-identified.
 
-        (2) __De-identified defined.—__ 
+        (2)  __De-identified defined__  __.—__ 
 
         In this subsection, the term “de-identified” means the process by which all information that is likely to establish the identity of the specific persons or entities submitting reports, data, or other information is removed from the reports, data, or other information.
 

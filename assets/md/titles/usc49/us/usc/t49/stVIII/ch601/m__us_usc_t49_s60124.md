@@ -15,7 +15,7 @@
 
 ## § 60124. Biennial reports
 
-    (a) __Submission and Contents.—__ 
+    (a)  __Submission and Contents__  __.—__ 
 
     Not later than August 15, 1997, and every 2 years thereafter, the Secretary of Transportation shall submit to Congress a report on carrying out this chapter for the 2 immediately preceding calendar years for gas and a report on carrying out this chapter for such period for hazardous liquid. Each report shall include the following information about the prior year for gas or hazardous liquid, as appropriate:
 
@@ -73,7 +73,7 @@
 
             (B) to strengthen the national gas pipeline safety program.
 
-    (b) __Submission of One Report.—__ 
+    (b)  __Submission of One Report__  __.—__ 
 
     The Secretary may submit one report to carry out subsection (a) of this section.
 

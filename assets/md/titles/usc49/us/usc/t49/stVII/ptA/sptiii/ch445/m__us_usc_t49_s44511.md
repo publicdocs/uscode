@@ -15,15 +15,15 @@
 
 ## § 44511. Aviation research grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administrator considers necessary for the long-term growth of civil aviation.
 
-    (b) __Applications.—__ 
+    (b)  __Applications__  __.—__ 
 
     An institution of higher education or nonprofit research organization interested in receiving a grant under this section may submit an application to the Administrator. The application must be in the form and contain the information the Administrator requires.
 
-    (c) __Solicitation, Review, and Evaluation Process.—__ 
+    (c)  __Solicitation, Review, and Evaluation Process__  __.—__ 
 
     The Administrator shall establish a solicitation, review, and evaluation process that ensures—
 
@@ -33,17 +33,17 @@
 
         (3) the inclusion of historically black institutions of higher education and other minority nonprofit research organizations for grant consideration under this section.
 
-    (d) __Records.—__ 
+    (d)  __Records__  __.—__ 
 
     Each person receiving a grant under this section shall maintain records that the Administrator requires as being necessary to facilitate an effective audit and evaluation of the use of money provided under the grant.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     The Administrator shall submit an annual report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on carrying out this section.
 
     (f) __Airport Cooperative Research Program.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Secretary of Transportation shall maintain an airport cooperative research program to—
 
@@ -51,15 +51,15 @@
 
             (B) fund research to address those problems.
 
-        (2) __Governance.—__ 
+        (2)  __Governance__  __.—__ 
 
         The Secretary of Transportation shall appoint an independent governing board for the research program established under this subsection. The governing board shall be appointed from candidates nominated by national associations representing public airport operating agencies, airport executives, State aviation officials, and the scheduled airlines, and shall include representatives of appropriate Federal agencies. Section 14 of the Federal Advisory Committee Act shall not apply to the governing board.
 
-        (3) __Implementation.—__ 
+        (3)  __Implementation__  __.—__ 
 
         The Secretary of Transportation shall enter into an arrangement with the National Academy of Sciences to provide staff support to the governing board established under paragraph (2) and to carry out projects proposed by the governing board that the Secretary considers appropriate.
 
-        (4) __Report.—__ 
+        (4)  __Report__  __.—__ 
 
         Not later than September 30, 2012, the Secretary shall transmit to the Congress a report on the program.
 

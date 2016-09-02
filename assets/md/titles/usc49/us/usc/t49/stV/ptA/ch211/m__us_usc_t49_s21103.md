@@ -15,7 +15,7 @@
 
 ## § 21103. Limitations on duty hours of train employees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (d) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to—
 
@@ -57,7 +57,7 @@
 
         The Secretary may waive paragraph (4), consistent with the procedural requirements of section 20103, if a collective bargaining agreement provides a different arrangement and such an arrangement is in the public interest and consistent with railroad safety.
 
-    (b) __Determining Time on Duty.—__ 
+    (b)  __Determining Time on Duty__  __.—__ 
 
     In determining under subsection (a) of this section the time a train employee is on or off duty, the following rules apply:
 
@@ -139,11 +139,11 @@
 
             exceeds 12 consecutive hours, the railroad carrier and its officers and agents shall provide the employee with additional time off duty equal to the number of hours by which such sum exceeds 12 hours.
 
-    (d) __Emergencies.—__ 
+    (d)  __Emergencies__  __.—__ 
 
     A train employee on the crew of a wreck or relief train may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of the crew is related to the emergency. In this subsection, an emergency ends when the track is cleared and the railroad line is open for traffic.
 
-    (e) __Communication During Time Off Duty.—__ 
+    (e)  __Communication During Time Off Duty__  __.—__ 
 
     During a train employee’s minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee’s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads’ efficient operations and on-time performance of its trains.
 

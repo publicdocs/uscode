@@ -15,23 +15,23 @@
 
 ## § 47117. Use of apportioned amounts
 
-    (a) __Grant Purpose.—__ 
+    (a)  __Grant Purpose__  __.—__ 
 
     Except as provided in this section, an amount apportioned under section 47114(c)(1) or (d)(2) of this title is available for making grants for any purpose for which amounts are made available under [section 48103 of this title][/us/usc/t49/s48103].
 
-    (b) __Period of Availability.—__ 
+    (b)  __Period of Availability__  __.—__ 
 
     An amount apportioned under [section 47114 of this title][/us/usc/t49/s47114] is available to be obligated for grants under the apportionment only during the fiscal year for which the amount was apportioned and the 2 fiscal years immediately after that year or the 3 fiscal years immediately following that year in the case of a nonhub airport or any airport that is not a commercial service airport. If the amount is not obligated under the apportionment within that time, it shall be added to the discretionary fund.
 
-    (c) __Primary Airports.—__ 
+    (c)  __Primary Airports__  __.—__ 
 
         (1) An amount apportioned to a sponsor of a primary airport under [section 47114(c)(1) of this title][/us/usc/t49/s47114/c/1] is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
 
-        (2) __Waiver.—__ 
+        (2)  __Waiver__  __.—__ 
 
         A sponsor of an airport may make an agreement with the Secretary of Transportation waiving the sponsor’s claim to any part of the amount apportioned for the airport under sections 47114(c) and 47114(d)(3)(A) if the Secretary agrees to make the waived amount available for a grant for another public-use airport in the same State or geographical area as the airport, as determined by the Secretary.
 
-    (d) __State Use.—__ 
+    (d)  __State Use__  __.—__ 
 
     An amount apportioned to a State under—
 
@@ -39,7 +39,7 @@
 
         (2) section 47114(d)(2)(B) or (C) of this title is available for grants for airports described in section 47114(d)(2)(B) or (C) and located in the State.
 
-    (e) __Special Apportionment Categories.—__ 
+    (e)  __Special Apportionment Categories__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualified grant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under [section 48103 of this title][/us/usc/t49/s48103].
 
-        (3) __Priority.—__ 
+        (3)  __Priority__  __.—__ 
 
         The Secretary shall give priority in making grants under paragraph (1)(A) to applications for airport noise compatibility planning and programs at and around—
 
@@ -79,35 +79,35 @@
 
     (f) __Discretionary Use of Apportionments.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), if the Secretary finds that all or part of an amount of an apportionment under section 47114 is not required during a fiscal year to fund a grant for which the apportionment may be used, the Secretary may use during such fiscal year the amount not so required to make grants for any purpose for which grants may be made under section 48103. The finding may be based on the notifications that the Secretary receives under section 47105(f) or on other information received from airport sponsors.
 
         (2) __Restoration of apportionments.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the fiscal year for which a finding is made under paragraph (1) with respect to an apportionment is not the last fiscal year of availability of the apportionment under subsection (b), the Secretary shall restore to the apportionment an amount equal to the amount of the apportionment used under paragraph (1) for a discretionary grant whenever a sufficient amount is made available under section 48103.
 
-            (B) __Period of availability.—__ 
+            (B)  __Period of availability__  __.—__ 
 
             If restoration under this paragraph is made in the fiscal year for which the finding is made or the succeeding fiscal year, the amount restored shall be subject to the original period of availability of the apportionment under subsection (b). If the restoration is made thereafter, the amount restored shall remain available in accordance with subsection (b) for the original period of availability of the apportionment plus the number of fiscal years during which a sufficient amount was not available for the restoration.
 
         (3) __Newly available amounts.—__ 
 
-            (A) __Restored amounts to be unavailable for discretionary grants.—__ 
+            (A)  __Restored amounts to be unavailable for discretionary grants__  __.—__ 
 
             Of an amount newly available under [section 48103 of this title][/us/usc/t49/s48103], an amount equal to the amounts restored under paragraph (2) shall not be available for discretionary grant obligations under section 47115.
 
-            (B) __Use of remaining amounts.—__ 
+            (B)  __Use of remaining amounts__  __.—__ 
 
             Subparagraph (A) does not impair the Secretary’s authority under paragraph (1), after a restoration under paragraph (2), to apply all or part of a restored amount that is not required to fund a grant under an apportionment to fund discretionary grants.
 
-        (4) __Limitations on obligations apply.—__ 
+        (4)  __Limitations on obligations apply__  __.—__ 
 
         Nothing in this subsection shall be construed to authorize the Secretary to incur grant obligations under section 47104 for a fiscal year in an amount greater than the amount made available under section 48103 for such obligations for such fiscal year.
 
-    (g) __Limiting Authority of Secretary.—__ 
+    (g)  __Limiting Authority of Secretary__  __.—__ 
 
     The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 

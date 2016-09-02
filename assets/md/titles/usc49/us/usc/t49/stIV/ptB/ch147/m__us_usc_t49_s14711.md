@@ -15,17 +15,17 @@
 
 ## § 14711. Enforcement by State attorneys general
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, and are related to the delivery and transportation of household goods by a household goods motor carrier subject to jurisdiction under subchapter I of chapter 135 or regulations or orders of the Secretary or the Board issued under such provisions or to impose the civil penalties authorized by this part or such regulations or orders, whenever the attorney general of the State has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a carrier or broker providing transportation subject to jurisdiction under subchapter I or III of chapter 135 or a foreign motor carrier providing transportation that is registered under section 13902 and is engaged in household goods transportation that violates this part or a regulation or order of the Secretary or Board, as applicable, issued under this part.
 
     (b) __Notice and Consent.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action.
 
-        (2) __Conditions.—__ 
+        (2)  __Conditions__  __.—__ 
 
         The Secretary or the Board—
 
@@ -43,15 +43,15 @@
 
             (B) may review if the carrier or broker fails to meet criteria developed by the Secretary that are consistent with this section.
 
-        (3) __Congressional notification.—__ 
+        (3)  __Congressional notification__  __.—__ 
 
         The Secretary shall notify the Committee on Commerce, Science, and Transportation, of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of any criteria developed by the Secretary under paragraph (2)(B).
 
-        (4) __60-day deadline.—__ 
+        (4) __60__  __-day deadline__  __.—__ 
 
         The Secretary or the Board shall be considered to have consented to any civil action of a State under this section if the Secretary or the Board has taken no action with respect to the notice within 60 calendar days after the date on which the Secretary or the Board received notice under paragraph (1).
 
-    (c) __Authority to Intervene.—__ 
+    (c)  __Authority to Intervene__  __.—__ 
 
     Upon receiving the notice required by subsection (b), the Secretary or board may intervene in a civil action of a State under this section and upon intervening—
 
@@ -59,7 +59,7 @@
 
         (2) file petitions for appeal of a decision in such civil actions.
 
-    (d) __Construction.—__ 
+    (d)  __Construction__  __.—__ 
 
     For purposes of bringing any civil action under subsection (a), nothing in this section shall—
 
@@ -67,7 +67,7 @@
 
         (2) prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-    (e) __Venue; Service of Process.—__ 
+    (e)  __Venue; Service of Process__  __.—__ 
 
     In a civil action brought under subsection (a)—
 
@@ -85,7 +85,7 @@
 
         (3) a person who participated with a carrier or broker in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
 
-    (f) __Enforcement of State Law.—__ 
+    (f)  __Enforcement of State Law__  __.—__ 
 
     Nothing contained in this section shall prohibit an authorized State official from proceeding in State court to enforce a criminal statute of such State.
 

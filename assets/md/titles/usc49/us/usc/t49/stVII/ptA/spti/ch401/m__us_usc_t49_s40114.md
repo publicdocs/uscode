@@ -15,13 +15,13 @@
 
 ## § 40114. Reports and records
 
-    (a) __Written Reports.—__ 
+    (a)  __Written Reports__  __.—__ 
 
         (1) Except as provided in this part, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall make a written report of each proceeding and investigation under this part in which a formal hearing was held and shall provide a copy to each party to the proceeding or investigation. The report shall include the decision, conclusions, order, and requirements of the Secretary or Administrator as appropriate.
 
         (2) The Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall have all reports, orders, decisions, and regulations the Secretary or Administrator, as appropriate, issues or prescribes published in the form and way best adapted for public use. A publication of the Secretary or Administrator is competent evidence of its contents.
 
-    (b) __Public Records.—__ 
+    (b)  __Public Records__  __.—__ 
 
     Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
 
@@ -215,7 +215,7 @@ In subsection (b), the words “otherwise”, “all contracts, agreements, unde
 
 [Pub. L. 112–95, title VIII, § 806][/us/pl/112/95/s806], Feb. 14, 2012, [126 Stat. 121][/us/stat/126/121], provided that:
 
->     “(a) __Consolidation or Elimination of Reports.—__ 
+>     “(a)  __Consolidation or Elimination of Reports__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Feb. 14, 2012\], and every 2 years thereafter, the Administrator of the Federal Aviation Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing—
 
@@ -225,7 +225,7 @@ In subsection (b), the words “otherwise”, “all contracts, agreements, unde
 
 >     “(b) __Use of Electronic Media for Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Administration—
 
@@ -233,7 +233,7 @@ In subsection (b), the words “otherwise”, “all contracts, agreements, unde
 
 >             “(B) shall publish any such report by posting it on the Administration’s Internet Web site in an easily accessible and downloadable electronic format.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) does not apply to any report with respect to which the Administrator determines that—
 

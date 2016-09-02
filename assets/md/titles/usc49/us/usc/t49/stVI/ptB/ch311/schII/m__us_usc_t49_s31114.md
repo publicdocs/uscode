@@ -15,7 +15,7 @@
 
 ## § 31114. Access to the Interstate System
 
-    (a) __Prohibition on Denying Access.—__ 
+    (a)  __Prohibition on Denying Access__  __.—__ 
 
     A State may not enact or enforce a law denying to a commercial motor vehicle subject to this subchapter or subchapter I of this chapter reasonable access between—
 
@@ -23,7 +23,7 @@
 
         (2) terminals, facilities for food, fuel, repairs, and rest, and points of loading and unloading for household goods carriers, motor carriers of passengers, or any truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title][/us/usc/t49/s31111/c].
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     This section does not prevent a State or local government from imposing reasonable restrictions, based on safety considerations, on a truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title][/us/usc/t49/s31111/c].
 

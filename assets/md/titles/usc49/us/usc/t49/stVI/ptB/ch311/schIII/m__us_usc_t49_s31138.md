@@ -17,7 +17,7 @@
 
     (a) __General Requirement.—__ 
 
-        (1) __Transportation of passengers for compensation.—__ 
+        (1)  __Transportation of passengers for compensation__  __.—__ 
 
         The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
 
@@ -27,7 +27,7 @@
 
             (C) a place outside the United States.
 
-        (2) __Transportation of passengers not for compensation.—__ 
+        (2)  __Transportation of passengers not for compensation__  __.—__ 
 
         The Secretary may prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for commercial purposes, but not for compensation, by motor vehicle in the United States between a place in a State and—
 
@@ -37,7 +37,7 @@
 
             (C) a place outside the United States.
 
-    (b) __Minimum Amounts.—__ 
+    (b)  __Minimum Amounts__  __.—__ 
 
     The level of financial responsibility established under subsection (a) of this section for a motor vehicle with a seating capacity of—
 
@@ -45,7 +45,7 @@
 
         (2) not more than 15 passengers shall be at least $1,500,000.
 
-    (c) __Evidence of Financial Responsibility.—__ 
+    (c)  __Evidence of Financial Responsibility__  __.—__ 
 
         (1)
 
@@ -61,11 +61,11 @@
 
         (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
-        (4) __Other persons.—__ 
+        (4)  __Other persons__  __.—__ 
 
         The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required by subsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
-    (d) __Civil Penalty.—__ 
+    (d)  __Civil Penalty__  __.—__ 
 
         (1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
@@ -85,7 +85,7 @@
 
         (5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
-    (e) __Nonapplication.—__ 
+    (e)  __Nonapplication__  __.—__ 
 
     This section does not apply to a motor vehicle—
 

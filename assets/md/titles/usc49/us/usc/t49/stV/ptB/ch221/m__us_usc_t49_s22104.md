@@ -15,7 +15,7 @@
 
 ## § 22104. State rail plan financing
 
-    (a) __Entitlement and Uses.—__ 
+    (a)  __Entitlement and Uses__  __.—__ 
 
     On the first day of each fiscal year, each State is entitled to $36,000 of the amounts made available under [section 22108 of this title][/us/usc/t49/s22108] during that fiscal year to be used—
 
@@ -23,11 +23,11 @@
 
         (2) to carry out projects described in section 22101(a)(1), (2), or (3) of this title, as designated by the State, if those projects meet the requirements of [section 22101(c)(1)(B) of this title][/us/usc/t49/s22101/c/1/B].
 
-    (b) __Applications.—__ 
+    (b)  __Applications__  __.—__ 
 
     Each State must apply for amounts under this section not later than the first day of the fiscal year for which the amounts are available. However, for any fiscal year for which the authorization of appropriations for financial assistance under this chapter has not been enacted by the first day of the fiscal year, the State must apply for amounts under this section not later than 60 days after the date of enactment of a law authorizing the appropriations for that fiscal year. Not later than 60 days after receiving an application, the Secretary of Transportation shall consider the application and notify the State of the approval or disapproval of the application.
 
-    (c) __Availability of Amounts.—__ 
+    (c)  __Availability of Amounts__  __.—__ 
 
     Amounts provided under this section remain available to a State for obligation for the first 3 months after the end of the fiscal year for which the amounts were made available. Amounts not applied for under this section or that remain unobligated after the first 3 months after the end of the fiscal year for which the amounts were made available are available to the Secretary for projects meeting the requirements of this chapter.
 

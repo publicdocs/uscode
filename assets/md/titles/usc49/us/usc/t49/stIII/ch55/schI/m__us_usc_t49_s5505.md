@@ -17,11 +17,11 @@
 
     (a) __University Transportation Centers Program.—__ 
 
-        (1) __Establishment and operation.—__ 
+        (1)  __Establishment and operation__  __.—__ 
 
         The Secretary shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
 
-        (2) __Role of centers.—__ 
+        (2)  __Role of centers__  __.—__ 
 
         The role of each university transportation center referred to in paragraph (1) shall be—
 
@@ -33,25 +33,25 @@
 
     (b) __Competitive Selection Process.—__ 
 
-        (1) __Applications.—__ 
+        (1)  __Applications__  __.—__ 
 
         To receive a grant under this section, a nonprofit institution of higher education shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
 
-        (2) __Restriction.—__ 
+        (2)  __Restriction__  __.—__ 
 
         A nonprofit institution of higher education or the lead institution of a consortium of nonprofit institutions of higher education, as applicable, that receives a grant for a national transportation center or a regional transportation center in a fiscal year shall not be eligible to receive as a lead institution or member of a consortium an additional grant in that fiscal year for a national transportation center or a regional transportation center.
 
-        (3) __Coordination.—__ 
+        (3)  __Coordination__  __.—__ 
 
         The Secretary shall solicit grant applications for national transportation centers, regional transportation centers, and Tier 1 university transportation centers with identical advertisement schedules and deadlines.
 
         (4) __General selection criteria.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in [section 503 of title 23][/us/usc/t23/s503].
 
-            (B) __Criteria.—__ 
+            (B)  __Criteria__  __.—__ 
 
             The Secretary, in consultation as appropriate with the Administrators of the Federal Highway Administration and the Federal Transit Administration, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
 
@@ -81,11 +81,11 @@
 
         (5) __Transparency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall provide to each applicant, upon request, any materials, including copies of reviews (with any information that would identify a reviewer redacted), used in the evaluation process of the proposal of the applicant.
 
-            (B) __Reports.—__ 
+            (B)  __Reports__  __.—__ 
 
             The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (3) that includes—
 
@@ -95,49 +95,49 @@
 
                 (iii) explanations of the selected awards.
 
-        (6) __Outside stakeholders.—__ 
+        (6)  __Outside stakeholders__  __.—__ 
 
         The Secretary shall, to the maximum extent practicable, consult external stakeholders such as the Transportation Research Board of the National Academy of Sciences to evaluate and competitively review all proposals.
 
     (c) __Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary, in consultation as appropriate with the Administrators of the Federal Highway Administration and the Federal Transit Administration, shall select grant recipients under subsection (b) and make grant amounts available to the selected recipients.
 
         (2) __National transportation centers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the Secretary shall provide grants to 5 recipients that the Secretary determines best meet the criteria described in subsection (b)(3).
 
             (B) __Restrictions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For each fiscal year, a grant made available under this paragraph shall be $3,000,000 per recipient.
 
-                (ii) __Focused research.—__ 
+                (ii)  __Focused research__  __.—__ 
 
                 The grant recipients under this paragraph shall focus research on national transportation issues, as determined by the Secretary.
 
             (C) __Matching requirement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 As a condition of receiving a grant under this paragraph, a grant recipient shall match 100 percent of the amounts made available under the grant.
 
-                (ii) __Sources.—__ 
+                (ii)  __Sources__  __.—__ 
 
                 The matching amounts referred to in clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
 
         (3) __Regional university transportation centers.—__ 
 
-            (A) __Location of regional centers.—__ 
+            (A)  __Location of regional centers__  __.—__ 
 
             One regional university transportation center shall be located in each of the 10 Federal regions that comprise the Standard Federal Regions established by the Office of Management and Budget in the document entitled “Standard Federal Regions” and dated April, 1974 (circular A-105).
 
-            (B) __Selection criteria.—__ 
+            (B)  __Selection criteria__  __.—__ 
 
             In conducting a competition under subsection (b), the Secretary shall provide grants to 10 recipients on the basis of—
 
@@ -155,55 +155,55 @@
 
                     (III) an experienced faculty who specialize in professional fields closely related to highways and public transportation.
 
-            (C) __Restrictions.—__ 
+            (C)  __Restrictions__  __.—__ 
 
             For each fiscal year, a grant made available under this paragraph shall be $2,750,000 for each recipient.
 
             (D) __Matching requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 As a condition of receiving a grant under this paragraph, a grant recipient shall match 100 percent of the amounts made available under the grant.
 
-                (ii) __Sources.—__ 
+                (ii)  __Sources__  __.—__ 
 
                 The matching amounts referred to in the clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
 
-            (E) __Focused research.—__ 
+            (E)  __Focused research__  __.—__ 
 
             The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety.
 
         (4) __Tier 1 university transportation centers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall provide grants of $1,500,000 each to not more than 20 recipients to carry out this paragraph.
 
-            (B) __Restriction.—__ 
+            (B)  __Restriction__  __.—__ 
 
             A lead institution of a consortium that receives a grant under paragraph (2) or (3) shall not be eligible to receive a grant under this paragraph.
 
             (C) __Matching requirement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (iii), as a condition of receiving a grant under this paragraph, a grant recipient shall match 50 percent of the amounts made available under the grant.
 
-                (ii) __Sources.—__ 
+                (ii)  __Sources__  __.—__ 
 
                 The matching amounts referred to in clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
 
-                (iii) __Exemption.—__ 
+                (iii)  __Exemption__  __.—__ 
 
                 This subparagraph shall not apply on a demonstration of financial hardship by the applicant institution.
 
-            (D) __Focused research.—__ 
+            (D)  __Focused research__  __.—__ 
 
             In awarding grants under this paragraph, consideration shall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 ([20 U.S.C. 1067k][/us/usc/t20/s1067k]), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
 
     (d) __Program Coordination.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall—
 
@@ -211,7 +211,7 @@
 
             (B) disseminate the results of that research through the establishment and operation of an information clearinghouse.
 
-        (2) __Annual review and evaluation.—__ 
+        (2)  __Annual review and evaluation__  __.—__ 
 
         Not less frequently than annually, and consistent with the plan developed under [section 508 of title 23][/us/usc/t23/s508], the Secretary shall—
 
@@ -219,15 +219,15 @@
 
             (B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
 
-        (3) __Program evaluation and oversight.—__ 
+        (3)  __Program evaluation and oversight__  __.—__ 
 
         For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1 ½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
-    (e) __Limitation on Availability of Amounts.—__ 
+    (e)  __Limitation on Availability of Amounts__  __.—__ 
 
     Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are appropriated.
 
-    (f) __Information Collection.—__ 
+    (f)  __Information Collection__  __.—__ 
 
     Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
 

@@ -15,15 +15,15 @@
 
 ## § 5114. Air transportation of ionizing radiation material
 
-    (a) __Transporting in Air Commerce.—__ 
+    (a)  __Transporting in Air Commerce__  __.—__ 
 
     Material that emits ionizing radiation spontaneously may be transported on a passenger-carrying aircraft in air commerce (as defined in [section 40102(a) of this title][/us/usc/t49/s40102/a]) only if the material is intended for a use in, or incident to, research or medical diagnosis or treatment and does not present an unreasonable hazard to health and safety when being prepared for, and during, transportation.
 
-    (b) __Procedures.—__ 
+    (b)  __Procedures__  __.—__ 
 
     The Secretary shall prescribe procedures for monitoring and enforcing regulations prescribed under this section.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     This section does not apply to material the Secretary decides does not pose a significant hazard to health or safety when transported because of its low order of radioactivity.
 

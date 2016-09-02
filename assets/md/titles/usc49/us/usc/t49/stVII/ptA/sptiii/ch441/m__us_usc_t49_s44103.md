@@ -15,7 +15,7 @@
 
 ## § 44103. Registration of aircraft
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The Administrator may prescribe the extent to which an aircraft owned by the holder of a dealer’s certificate of registration issued under [section 44104(2) of this title][/us/usc/t49/s44104/2] also is registered under this section.
 
-    (b) __Controlled Substance Violations.—__ 
+    (b)  __Controlled Substance Violations__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
         (2) A decision of the Administrator under paragraph (1)(B)(i) or (ii) of this subsection is within the discretion of the Administrator. That decision or failure to make a decision is not subject to administrative or judicial review.
 
-    (c) __Certificates as Evidence.—__ 
+    (c)  __Certificates as Evidence__  __.—__ 
 
     A certificate of registration issued under this section is—
 
@@ -53,7 +53,7 @@
 
         (2) not evidence of ownership of an aircraft in a proceeding in which ownership is or may be in issue.
 
-    (d) __Certificates Available for Inspection.—__ 
+    (d)  __Certificates Available for Inspection__  __.—__ 
 
     An operator of an aircraft shall make available for inspection a certificate of registration for the aircraft when requested by a United States Government, State, or local law enforcement officer.
 
@@ -205,7 +205,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 501(g); added Oct. 27, 1986,
 
 [Pub. L. 106–181, title VII, § 729][/us/pl/106/181/s729], Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     A memorandum of agreement between the Administrator \[of the Federal Aviation Administration\] and any person that directly obtains aircraft situational display data from the Federal Aviation Administration shall require that—
 
@@ -213,7 +213,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 501(g); added Oct. 27, 1986,
 
 >         “(2) the person agree to block selectively the aircraft registration numbers of any aircraft owner or operator upon the Administration’s request.
 
->     “(b) __Existing Memoranda To Be Conformed.—__ 
+>     “(b)  __Existing Memoranda To Be Conformed__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a).”
 

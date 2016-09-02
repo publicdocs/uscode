@@ -15,7 +15,7 @@
 
 ## § 48104. Operations and maintenance
 
-    (a) __Authorization of Appropriations.—__ 
+    (a)  __Authorization of Appropriations__  __.—__ 
 
     the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) may be appropriated to the Secretary of Transportation out of the Fund for—
 

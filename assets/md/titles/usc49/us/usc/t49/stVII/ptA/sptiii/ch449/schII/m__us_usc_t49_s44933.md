@@ -15,11 +15,11 @@
 
 ## § 44933. Federal Security Managers
 
-    (a) __Establishment, Designation, and Stationing.—__ 
+    (a)  __Establishment, Designation, and Stationing__  __.—__ 
 
     The Under Secretary of Transportation for Security shall establish the position of Federal Security Manager at each airport in the United States described in section 44903(c). The Under Secretary shall designate individuals as Managers for, and station those Managers at, those airports.
 
-    (b) __Duties and Powers.—__ 
+    (b)  __Duties and Powers__  __.—__ 
 
     The Manager at each airport shall—
 

@@ -15,7 +15,7 @@
 
 ## § 5339. Bus and bus facilities formula grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary may make grants under this section to assist eligible recipients described in subsection (c)(1) in financing capital projects—
 
@@ -23,49 +23,49 @@
 
         (2) to construct bus-related facilities.
 
-    (b) __Grant Requirements.—__ 
+    (b)  __Grant Requirements__  __.—__ 
 
     The requirements of section 5307 apply to recipients of grants made under this section.
 
     (c) __Eligible Recipients and Subrecipients.—__ 
 
-        (1) __Recipients.—__ 
+        (1)  __Recipients__  __.—__ 
 
         Eligible recipients under this section are designated recipients that operate fixed route bus service or that allocate funding to fixed route bus operators.
 
-        (2) __Subrecipients.—__ 
+        (2)  __Subrecipients__  __.—__ 
 
         A designated recipient that receives a grant under this section may allocate amounts of the grant to subrecipients that are public agencies or private nonprofit organizations engaged in public transportation.
 
-    (d) __Distribution of Grant Funds.—__ 
+    (d)  __Distribution of Grant Funds__  __.—__ 
 
     Funds allocated under section 5338(a)(2)(J) shall be distributed as follows:
 
-        (1) __National distribution.—__ 
+        (1)  __National distribution__  __.—__ 
 
         $65,500,000 shall be allocated to all States and territories, with each State receiving $1,250,000 and each territory receiving $500,000.
 
-        (2) __Distribution using population and service factors.—__ 
+        (2)  __Distribution using population and service factors__  __.—__ 
 
         The remainder of the funds not otherwise distributed under paragraph (1) shall be allocated pursuant to the formula set forth in section 5336 other than subsection (b).
 
     (e) __Transfers of Apportionments.—__ 
 
-        (1) __Transfer flexibility for national distribution funds.—__ 
+        (1)  __Transfer flexibility for national distribution funds__  __.—__ 
 
         The Governor of a State may transfer any part of the State’s apportionment under subsection (d)(1) to supplement amounts apportioned to the State under [section 5311(c) of this title][/us/usc/t49/s5311/c] or amounts apportioned to urbanized areas under subsections (a) and (c) of [section 5336 of this title][/us/usc/t49/s5336].
 
-        (2) __Transfer flexibility for population and service factors funds.—__ 
+        (2)  __Transfer flexibility for population and service factors funds__  __.—__ 
 
         The Governor of a State may expend in an urbanized area with a population of less than 200,000 any amounts apportioned under subsection (d)(2) that are not allocated to designated recipients in urbanized areas with a population of 200,000 or more.
 
     (f) __Government’s Share of Costs.—__ 
 
-        (1) __Capital projects.—__ 
+        (1)  __Capital projects__  __.—__ 
 
         A grant for a capital project under this section shall be for 80 percent of the net capital costs of the project. A recipient of a grant under this section may provide additional local matching amounts.
 
-        (2) __Remaining costs.—__ 
+        (2)  __Remaining costs__  __.—__ 
 
         The remainder of the net project cost shall be provided—
 
@@ -77,11 +77,11 @@
 
             (D) from amounts received under a service agreement with a State or local social service agency or private social service organization.
 
-    (g) __Period of Availability to Recipients.—__ 
+    (g)  __Period of Availability to Recipients__  __.—__ 
 
     Amounts made available under this section may be obligated by a recipient for 3 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 3-year period described in the preceding sentence, any amount that is not obligated on the last day of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     For purposes of this section:
 

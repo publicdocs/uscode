@@ -15,7 +15,7 @@
 
 ## § 33115. Civil penalties and enforcement
 
-    (a) __General Penalty and Civil Actions To Collect.—__ 
+    (a)  __General Penalty and Civil Actions To Collect__  __.—__ 
 
         (1) A person that violates section 33114(a)(1)–(4) of this title is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. The failure of more than one part of a single motor vehicle to conform to an applicable standard under section 33102 or 33103 of this title is only a single violation. The maximum penalty under this subsection for a related series of violations is $250,000.
 
@@ -27,7 +27,7 @@
 
         (5) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
 
-    (b) __Chop Shop Penalty and Enforcement.—__ 
+    (b)  __Chop Shop Penalty and Enforcement__  __.—__ 
 
         (1) A person that violates [section 33114(a)(5) of this title][/us/usc/t49/s33114/a/5] is liable to the Government for a civil penalty of not more than $100,000 a day for each violation.
 
@@ -41,7 +41,7 @@
 
             (C) take both the actions described in clauses (A) and (B) of this paragraph.
 
-    (c) __Civil Actions To Enforce.—__ 
+    (c)  __Civil Actions To Enforce__  __.—__ 
 
         (1) The Attorney General may bring a civil action in a United States district court to enjoin a violation of this chapter or the sale, offer for sale, introduction or delivery for introduction in interstate commerce, or importation into the United States, of a passenger motor vehicle containing a major part, or of a major replacement part, that is subject to the standard and is determined before the sale of the vehicle or part to a first purchaser not to conform to the standard.
 
@@ -59,11 +59,11 @@
 
             (B) The failure of the Secretary to comply with subparagraph (A) of this paragraph does not prevent a court from granting appropriate relief.
 
-    (d) __Jury Trial Demand.—__ 
+    (d)  __Jury Trial Demand__  __.—__ 
 
     In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (c) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
-    (e) __Venue.—__ 
+    (e)  __Venue__  __.—__ 
 
     A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant resides, is found, or transacts business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 

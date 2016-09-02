@@ -15,47 +15,47 @@
 
 ## § 47136. Inherently low-emission airport vehicle pilot program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding any other provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
 
     (b) __Location in Air Quality Nonattainment Areas.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A public-use airport shall be eligible for participation in the pilot program only if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act ([42 U.S.C. 7501(2)][/us/usc/t42/s7501/2]).
 
-        (2) __Shortage of candidates.—__ 
+        (2)  __Shortage of candidates__  __.—__ 
 
         If the Secretary receives an insufficient number of applications from public-use airports located in such areas, then the Secretary may consider applications from public-use airports that are not located in such areas.
 
-    (c) __Selection Criteria.—__ 
+    (c)  __Selection Criteria__  __.—__ 
 
     In selecting from among applicants for participation in the pilot program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the pilot program.
 
-    (d) __United States Government’s Share.—__ 
+    (d)  __United States Government’s Share__  __.—__ 
 
     Notwithstanding any other provision of this subchapter, the United States Government’s share of the costs of a project carried out under the pilot program shall be 50 percent.
 
-    (e) __Maximum Amount.—__ 
+    (e)  __Maximum Amount__  __.—__ 
 
     Not more than $2,000,000 may be expended under the pilot program at any single public-use airport.
 
     (f) __Technical Assistance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program may use not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
 
-        (2) __University transportation center.—__ 
+        (2)  __University transportation center__  __.—__ 
 
         To the maximum extent practicable, participants in the pilot program shall use a university transportation center (as defined in section 5506  <sup>\[1\]</sup>  <sup><sup> 1 See References in text note below. </sup></sup>  of this title) in the region of the airport to receive technical assistance described in paragraph (1).
 
-    (g) __Materials Identifying Best Practices.—__ 
+    (g)  __Materials Identifying Best Practices__  __.—__ 
 
     The Administrator may develop and make available materials identifying best practices for carrying out low-emission vehicle activities based on the projects carried out under the pilot program and other sources.
 
-    (h) __Report to Congress.—__ 
+    (h)  __Report to Congress__  __.—__ 
 
     Not later than 18 months after the date of the enactment of this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
@@ -65,7 +65,7 @@
 
         (3) a description of the mechanisms used by the Secretary to ensure that the information and know-how gained by participants in the pilot program is transferred among the participants and to other interested parties, including other public-use airports.
 
-    (i) __Inherently Low-Emission Vehicle Activity Defined.—__ 
+    (i)  __Inherently Low-Emission Vehicle Activity Defined__  __.—__ 
 
     In this section, the term “inherently low-emission vehicle activity” means—
 

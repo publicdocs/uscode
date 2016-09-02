@@ -17,7 +17,7 @@
 
     (a) __Commercial Driver’s License Program Improvement Grants.—__ 
 
-        (1) __Program goal.—__ 
+        (1)  __Program goal__  __.—__ 
 
         The Secretary of Transportation may make a grant to a State in a fiscal year—
 
@@ -35,25 +35,25 @@
 
                 (iv) to implement or maintain a system to notify an employer of an operator of a commercial motor vehicle of the suspension or revocation of the operator’s commercial driver’s license consistent with the standards developed under section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012.
 
-        (2) __Prohibitions.—__ 
+        (2)  __Prohibitions__  __.—__ 
 
         A State may not use grant funds under this subsection to rent, lease, or buy land or buildings.
 
     (b) __High-Priority Activities.—__ 
 
-        (1) __Grants for national concerns.—__ 
+        (1)  __Grants for national concerns__  __.—__ 
 
         The Secretary may make a grant to a State agency, local government, or other person for 100 percent of the costs of research, development, demonstration projects, public education, and other special activities and projects relating to commercial driver licensing and motor vehicle safety that are of benefit to all jurisdictions of the United States or are designed to address national safety concerns and circumstances.
 
-        (2) __Funding.—__ 
+        (2)  __Funding__  __.—__ 
 
         The Secretary may deduct up to 10 percent of the amounts made available to carry out this section for a fiscal year to make grants under this subsection.
 
-    (c) __Emerging Issues.—__ 
+    (c)  __Emerging Issues__  __.—__ 
 
     The Secretary may designate up to 10 percent of the amounts made available to carry out this section for a fiscal year for allocation to a State agency, local government, or other person at the discretion of the Secretary to address emerging issues relating to commercial driver’s license improvements.
 
-    (d) __Apportionment.—__ 
+    (d)  __Apportionment__  __.—__ 
 
     Except as otherwise provided in subsection (c), all amounts made available to carry out this section for a fiscal year shall be apportioned to States according to criteria prescribed by the Secretary.
 

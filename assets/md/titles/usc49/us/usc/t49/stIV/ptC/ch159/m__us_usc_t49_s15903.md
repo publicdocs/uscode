@@ -15,11 +15,11 @@
 
 ## § 15903. Enforcement by the Attorney General
 
-    (a) __On Behalf of Board.—__ 
+    (a)  __On Behalf of Board__  __.—__ 
 
     The Attorney General may, and on request of the Board shall, bring court proceedings to enforce this part or a regulation or order of the Board and to prosecute a person violating this part or a regulation or order of the Board issued under this part.
 
-    (b) __On Behalf of Others.—__ 
+    (b)  __On Behalf of Others__  __.—__ 
 
     The United States Government may bring a civil action on behalf of a person to compel a pipeline carrier providing transportation or service subject to this part to provide that transportation or service to that person in compliance with this part at the same rate charged, or on conditions as favorable as those given by the carrier, for like traffic under similar conditions to another person.
 

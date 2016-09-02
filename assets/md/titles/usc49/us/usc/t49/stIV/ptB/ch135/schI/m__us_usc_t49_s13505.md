@@ -15,7 +15,7 @@
 
 ## § 13505. Transportation furthering a primary business
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Neither the Secretary nor the Board has jurisdiction under this part over the transportation of property by motor vehicle when—
 
@@ -25,11 +25,11 @@
 
     (b) __Corporate Families.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Neither the Secretary nor the Board has jurisdiction under this part over transportation of property by motor vehicle for compensation provided by a person who is a member of a corporate family for other members of such corporate family.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this section, “corporate family” means a group of corporations consisting of a parent corporation and all subsidiaries in which the parent corporation owns directly or indirectly a 100 percent interest.
 

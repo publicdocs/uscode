@@ -91,7 +91,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974
 
 [Pub. L. 110–432, div. B, title IV, § 406][/us/pl/110/432/s406], Oct. 16, 2008, [122 Stat. 4958][/us/stat/122/4958], provided that:
 
->     “(a) __Plan.—__ 
+>     “(a)  __Plan__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], Amtrak shall, in consultation with the Secretary \[of Transportation\], the Secretary of Homeland Security, the Washington State Department of Transportation, and the owners of the relevant railroad infrastructure—
 
@@ -101,7 +101,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974
 
 >         “(3) submit to Congress a report containing the strategic plan described in paragraph (1) and the recommendations described in paragraph (2).
 
->     “(b) __Travel Facilitation.—__ 
+>     “(b)  __Travel Facilitation__  __.—__ 
 
 >     Using existing authority or agreements, or upon reaching additional agreements with Canada, the Secretary \[of Transportation\] and other Federal agencies, as appropriate, are authorized to establish facilities and procedures to conduct preclearance of passengers traveling on Amtrak trains from Canada to the United States. The Secretary shall seek to establish such facilities and procedures—
 

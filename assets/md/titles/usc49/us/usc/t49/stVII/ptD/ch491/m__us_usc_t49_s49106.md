@@ -15,7 +15,7 @@
 
 ## § 49106. Metropolitan Washington Airports Authority
 
-    (a) __Status.—__ 
+    (a)  __Status__  __.—__ 
 
     The Metropolitan Washington Airports Authority shall be—
 
@@ -31,7 +31,7 @@
 
         (3) a political subdivision constituted only to operate and improve the Metropolitan Washington Airports as primary airports serving the Metropolitan Washington area.
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
             (B) may be secured by the Airports Authority’s revenues generally, or exclusively from the income and revenues of certain designated projects whether or not any part of the projects are financed from the proceeds of the bonds.
 
-    (c) __Board of Directors.—__ 
+    (c)  __Board of Directors__  __.—__ 
 
         (1)
 
@@ -97,19 +97,19 @@
 
         (7) Ten votes are required to approve bond issues and the annual budget.
 
-    (d) __Conflicts of Interest.—__ 
+    (d)  __Conflicts of Interest__  __.—__ 
 
     Members of the board and their immediate families may not be employed by or otherwise hold a substantial financial interest in any enterprise that has or is seeking a contract or agreement with the Airports Authority or is an aeronautical, aviation services, or airport services enterprise that otherwise has interests that can be directly affected by the Airports Authority. The official appointing a member may make an exception if the financial interest is completely disclosed when the member is appointed and the member does not participate in board decisions that directly affect the interest.
 
-    (e) __Certain Actions To Be Taken by Regulation.—__ 
+    (e)  __Certain Actions To Be Taken by Regulation__  __.—__ 
 
     An action of the Airports Authority changing, or having the effect of changing, the hours of operation of, or the type of aircraft serving, either of the Metropolitan Washington Airports may be taken only by regulation of the Airports Authority.
 
-    (f) __Administrative.—__ 
+    (f)  __Administrative__  __.—__ 
 
     To assist the Secretary in carrying out this chapter, the Secretary may hire 2 staff individuals to be paid by the Airports Authority. The Airports Authority shall provide clerical and support staff that the Secretary may require.
 
-    (g) __Review of Contracting Procedures.—__ 
+    (g)  __Review of Contracting Procedures__  __.—__ 
 
     The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with [section 49104(a)(4) of this title][/us/usc/t49/s49104/a/4]. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 

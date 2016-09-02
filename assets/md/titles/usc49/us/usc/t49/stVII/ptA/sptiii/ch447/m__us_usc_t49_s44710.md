@@ -15,11 +15,11 @@
 
 ## § 44710. Revocations of airman certificates for controlled substance violations
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802][/us/usc/t21/s802]).
 
-    (b) __Revocation.—__ 
+    (b)  __Revocation__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) The Administrator has no authority under paragraph (1) of this subsection to review whether an airman violated a law of the United States or a State related to a controlled substance.
 
-    (c) __Advice to Holders and Opportunity To Answer.—__ 
+    (c)  __Advice to Holders and Opportunity To Answer__  __.—__ 
 
     Before the Administrator revokes a certificate under subsection (b) of this section, the Administrator must—
 
@@ -49,7 +49,7 @@
 
         (2) provide the holder of the certificate an opportunity to answer the charges and be heard why the certificate should not be revoked.
 
-    (d) __Appeals.—__ 
+    (d)  __Appeals__  __.—__ 
 
         (1) An individual whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and an opportunity for a hearing on the record. When conducting the hearing, the Board is not bound by findings of fact of the Administrator.
 
@@ -63,7 +63,7 @@
 
         (3) An individual substantially affected by an order of the Board under this subsection, or the Administrator when the Administrator decides that an order of the Board will have a significant adverse effect on carrying out this part, may obtain judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-    (e) __Acquittal.—__ 
+    (e)  __Acquittal__  __.—__ 
 
         (1) The Administrator may not revoke, and the Board may not affirm a revocation of, an airman certificate under subsection (b)(2) of this section on the basis of an activity described in subsection (b)(2)(A) if the holder of the certificate is acquitted of all charges related to a controlled substance in an indictment or information arising from the activity.
 
@@ -79,7 +79,7 @@
 
                 (ii) the conviction on which a revocation under subsection (b)(1) of this section is based is reversed.
 
-    (f) __Waivers.—__ 
+    (f)  __Waivers__  __.—__ 
 
     The Administrator may waive the requirement of subsection (b) of this section that an airman certificate of an individual be revoked if—
 

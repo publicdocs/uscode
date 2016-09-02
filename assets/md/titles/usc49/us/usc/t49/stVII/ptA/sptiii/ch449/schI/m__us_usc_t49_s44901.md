@@ -15,21 +15,21 @@
 
 ## § 44901. Screening passengers and property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Under Secretary of Transportation for Security shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in [section 2105 of title 5][/us/usc/t5/s2105], United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
-    (b) __Supervision of Screening.—__ 
+    (b)  __Supervision of Screening__  __.—__ 
 
     All screening of passengers and property at airports in the United States where screening is required under this section shall be supervised by uniformed Federal personnel of the Transportation Security Administration who shall have the power to order the dismissal of any individual performing such screening.
 
-    (c) __Checked Baggage.—__ 
+    (c)  __Checked Baggage__  __.—__ 
 
     A system must be in operation to screen all checked baggage at all airports in the United States as soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act.
 
     (d) __Explosives Detection Systems.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary of Transportation for Security shall take all necessary action to ensure that—
 
@@ -41,7 +41,7 @@
 
         (2) __Deadline.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosives detection systems required to be deployed under paragraph (1) at all airports where explosives detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
 
@@ -49,7 +49,7 @@
 
                 (ii) the Under Secretary shall take all necessary action to ensure that alternative means of screening all checked baggage is implemented until the requirements of paragraph (1) have been met.
 
-            (B) __Criteria for determination.—__ 
+            (B)  __Criteria for determination__  __.—__ 
 
             In making a determination under subparagraph (A), the Under Secretary shall take into account—
 
@@ -59,11 +59,11 @@
 
                 (iii) the feasibility and cost-effectiveness of deploying explosives detection systems in the baggage sorting area or other non-public area rather than the lobby of an airport terminal building.
 
-            (C) __Response.—__ 
+            (C)  __Response__  __.—__ 
 
             The Under Secretary shall respond to the request of an airport under subparagraph (A) within 14 days of receiving the request. A denial of request shall create no right of appeal or judicial review.
 
-            (D) __Airport effort required.—__ 
+            (D)  __Airport effort required__  __.—__ 
 
             Each airport with respect to which the Under Secretary makes a determination under subparagraph (A) shall—
 
@@ -71,21 +71,21 @@
 
                 (ii) make security projects a priority for the obligation or expenditure of funds made available under chapter 417 or 471 until explosives detection systems required to be deployed under paragraph (1) have been deployed at that airport.
 
-        (3) __Reports.—__ 
+        (3)  __Reports__  __.—__ 
 
         Until the Transportation Security Administration has met the requirements of paragraph (1), the Under Secretary shall submit a classified report every 30 days after the date of enactment of this Act to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure describing the progress made toward meeting such requirements at each airport.
 
         (4) __Preclearance airports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
 
-            (B) __Aviation security preclearance agreement defined.—__ 
+            (B)  __Aviation security preclearance agreement defined__  __.—__ 
 
             In this paragraph, the term “aviation security preclearance agreement” means an agreement that delineates and implements security standards and protocols that are determined by the Assistant Secretary, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
 
-            (C) __Report.—__ 
+            (C)  __Report__  __.—__ 
 
             The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
@@ -93,7 +93,7 @@
 
                 (ii) The amount of Federal savings generated from the exercise of such authority.
 
-    (e) __Mandatory Screening Where EDS Not Yet Available.—__ 
+    (e)  __Mandatory Screening Where EDS Not Yet Available__  __.—__ 
 
     As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
 
@@ -105,17 +105,17 @@
 
         (4) Other means or technology approved by the Under Secretary.
 
-    (f) __Cargo Deadline.—__ 
+    (f)  __Cargo Deadline__  __.—__ 
 
     A system must be in operation to screen, inspect, or otherwise ensure the security of all cargo that is to be transported in all-cargo aircraft in air transportation and intrastate air transportation as soon as practicable after the date of enactment of the Aviation and Transportation Security Act.
 
     (g) __Air Cargo on Passenger Aircraft.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 3 years after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security shall establish a system to screen 100 percent of cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation to ensure the security of all such passenger aircraft carrying cargo.
 
-        (2) __Minimum standards.—__ 
+        (2)  __Minimum standards__  __.—__ 
 
         The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security for the screening of passenger checked baggage as follows:
 
@@ -125,43 +125,43 @@
 
         (3) __Regulations.—__ 
 
-            (A) __Interim final rule.—__ 
+            (A)  __Interim final rule__  __.—__ 
 
             The Secretary of Homeland Security may issue an interim final rule as a temporary regulation to implement this subsection without regard to the provisions of chapter 5 of title 5.
 
             (B) __Final rule.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If the Secretary issues an interim final rule under subparagraph (A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
 
-                (ii) __Failure to act.—__ 
+                (ii)  __Failure to act__  __.—__ 
 
                 If the Secretary does not issue a final rule in accordance with clause (i) on or before the last day of the one-year period referred to in clause (i), the Secretary shall submit to the Committee on Homeland Security of the House of Representatives, Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on which the final rule will be issued. The Secretary shall submit the first such report within 10 days after such last day and submit a report to the Committees containing updated information every 30 days thereafter until the final rule is issued.
 
-                (iii) __Superceding__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __of interim final rule.—__ 
+                (iii)  __Superceding __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __ of interim final rule__  __.—__ 
 
                 The final rule issued in accordance with this subparagraph shall supersede the interim final rule issued under subparagraph (A).
 
-        (4) __Report.—__ 
+        (4)  __Report__  __.—__ 
 
         Not later than 1 year after the date of establishment of the system under paragraph (1), the Secretary shall submit to the Committees referred to in paragraph (3)(B)(ii) a report that describes the system.
 
-        (5) __Screening defined.—__ 
+        (5)  __Screening defined__  __.—__ 
 
         In this subsection the term “screening” means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shall not include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
     (h) __Deployment of Armed Personnel.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary shall order the deployment of law enforcement personnel authorized to carry firearms at each airport security screening location to ensure passenger safety and national security.
 
-        (2) __Minimum requirements.—__ 
+        (2)  __Minimum requirements__  __.—__ 
 
         Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
-    (i) __Exemptions and Advising Congress on Regulations.—__ 
+    (i)  __Exemptions and Advising Congress on Regulations__  __.—__ 
 
     The Under Secretary—
 
@@ -171,7 +171,7 @@
 
     (j) __Blast-Resistant Cargo Containers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Before January 1, 2008, the Administrator of the Transportation Security Administration shall—
 
@@ -179,7 +179,7 @@
 
             (B) prepare and distribute through the Aviation Security Advisory Committee to the appropriate Committees of Congress and air carriers a report on that evaluation which may contain nonclassified and classified sections.
 
-        (2) __Acquisition, maintenance, and replacement.—__ 
+        (2)  __Acquisition, maintenance, and replacement__  __.—__ 
 
         Upon completion and consistent with the results of the evaluation that paragraph (1)(A) requires, the Administrator shall—
 
@@ -189,13 +189,13 @@
 
             (C) make available blast-resistant cargo containers to air carriers pursuant to paragraph (3).
 
-        (3) __Distribution to air carriers.—__ 
+        (3)  __Distribution to air carriers__  __.—__ 
 
         The Administrator shall make available, beginning not later than July 1, 2008, blast-resistant cargo containers to air carriers for use on a risk managed basis as determined by the Administrator.
 
     (k) __General Aviation Airport Security Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than one year after the date of enactment of this subsection, the Administrator of the Transportation Security Administration shall—
 
@@ -203,11 +203,11 @@
 
             (B) implement a program to perform such assessments on a risk-managed basis at general aviation airports.
 
-        (2) __Grant program.—__ 
+        (2)  __Grant program__  __.—__ 
 
         Not later than 6 months after the date of enactment of this subsection, the Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
 
-        (3) __Application to general aviation aircraft.—__ 
+        (3)  __Application to general aviation aircraft__  __.—__ 
 
         Not later than 180 days after the date of enactment of this subsection, the Administrator shall develop a risk-based system under which—
 
@@ -215,17 +215,17 @@
 
             (B) such information is checked against appropriate databases.
 
-        (4) __Authorization of appropriations.—__ 
+        (4)  __Authorization of appropriations__  __.—__ 
 
         There are authorized to be appropriated to the Administrator of the Transportation Security Administration such sums as may be necessary to carry out paragraphs (2) and (3).
 
     (l) __Limitations on Use of Advanced Imaging Technology for Screening Passengers.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Advanced imaging technology.—__ 
+            (A)  __Advanced imaging technology__  __.—__ 
 
             The term “advanced imaging technology”—
 
@@ -233,7 +233,7 @@
 
                 (ii) may include devices using backscatter x-rays or millimeter waves and devices referred to as “whole-body imaging technology” or “body scanning machines”.
 
-            (B) __Appropriate congressional committees.—__ 
+            (B)  __Appropriate congressional committees__  __.—__ 
 
             The term “appropriate congressional committees” means—
 
@@ -241,11 +241,11 @@
 
                 (ii) the Committee on Homeland Security of the House of Representatives.
 
-            (C) __Automatic target recognition software.—__ 
+            (C)  __Automatic target recognition software__  __.—__ 
 
             The term “automatic target recognition software” means software installed on an advanced imaging technology that produces a generic image of the individual being screened that is the same as the images produced for all other screened individuals.
 
-        (2) __Use of advanced imaging technology.—__ 
+        (2)  __Use of advanced imaging technology__  __.—__ 
 
         Beginning June 1, 2012, the Assistant Secretary of Homeland Security (Transportation Security Administration) shall ensure that any advanced imaging technology used for the screening of passengers under this section—
 
@@ -255,7 +255,7 @@
 
         (3) __Extension.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Assistant Secretary may extend the deadline specified in paragraph (2), if the Assistant Secretary determines that—
 
@@ -263,17 +263,17 @@
 
                 (ii) additional testing of such software is necessary.
 
-            (B) __Duration of extensions.—__ 
+            (B)  __Duration of extensions__  __.—__ 
 
             The Assistant Secretary may issue one or more extensions under subparagraph (A). The duration of each extension may not exceed one year.
 
         (4) __Reports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 60 days after the deadline specified in paragraph (2), and not later than 60 days after the date on which the Assistant Secretary issues any extension under paragraph (3), the Assistant Secretary shall submit to the appropriate congressional committees a report on the implementation of this subsection.
 
-            (B) __Elements.—__ 
+            (B)  __Elements__  __.—__ 
 
             A report submitted under subparagraph (A) shall include the following:
 
@@ -289,7 +289,7 @@
 
                     (II) a timeline depicting when the Assistant Secretary expects the Administration to achieve full compliance.
 
-            (C) __Security classification.—__ 
+            (C)  __Security classification__  __.—__ 
 
             To the greatest extent practicable, a report prepared under subparagraph (A) shall be submitted in an unclassified format. If necessary, the report may include a classified annex.
 
@@ -441,11 +441,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 107–71, title I, § 141][/us/pl/107/71/s141], Nov. 19, 2001, [115 Stat. 643][/us/stat/115/643], provided that:
 
->     “(a) __Transfer of Assets and Personnel.—__ 
+>     “(a)  __Transfer of Assets and Personnel__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Tables for classification\], those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Transportation Security Administration by this Act shall be transferred to the Transportation Security Administration for use in connection with the functions transferred. Unexpended balances of appropriations, allocations, and other funds made available to the Federal Aviation Administration to carry out such functions shall also be transferred to the Transportation Security Administration for use in connection with the functions transferred.
 
->     “(b) __Legal Documents.—__ 
+>     “(b)  __Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
 
@@ -455,41 +455,41 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >     “(c) __Proceedings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The provisions of this Act shall not affect any proceedings or any application for any license pending before the Federal Aviation Administration at the time this Act takes effect \[Nov. 19, 2001\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
->         “(2) __Statutory construction.—__ 
+>         “(2)  __Statutory construction__  __.—__ 
 
 >         Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any proceeding described in paragraph (1) under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
->         “(3) __Orderly transfer.—__ 
+>         “(3)  __Orderly transfer__  __.—__ 
 
 >         The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings from the Federal Aviation Administration.
 
 >     “(d) __Suits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This Act shall not affect suits commenced before the date of the enactment of this Act \[Nov. 19, 2001\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
->         “(2) __Suits by or against faa.—__ 
+>         “(2)  __Suits by or against faa__  __.—__ 
 
 >         Any suit by or against the Federal Aviation Administration begun before the date of the enactment of this Act shall be continued, insofar as it involves a function retained and transferred under this Act, with the Transportation Security Administration (to the extent the suit involves functions transferred to the Transportation Security Administration under this Act) substituted for the Federal Aviation Administration.
 
->         “(3) __Remanded cases.—__ 
+>         “(3)  __Remanded cases__  __.—__ 
 
 >         If the court in a suit described in paragraph (1) remands a case to the Transportation Security Administration, subsequent proceedings related to such case shall proceed in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
->     “(e) __Continuance of Actions Against Officers.—__ 
+>     “(e)  __Continuance of Actions Against Officers__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Federal Aviation Administration shall abate by reason of the enactment of this Act. No cause of action by or against the Federal Aviation Administration, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
 
->     “(f) __Exercise of Authorities.—__ 
+>     “(f)  __Exercise of Authorities__  __.—__ 
 
 >     Except as otherwise provided by law, an officer or employee of the Transportation Security Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act.
 
->     “(g) __Act Defined.—__ 
+>     “(g)  __Act Defined__  __.—__ 
 
 >     In this section, the term ‘Act’ includes the amendments made by this Act.”
 
@@ -501,29 +501,29 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 107–71, title I, § 101(g)][/us/pl/107/71/s101/g], Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], provided that:
 
->     “(1) __Schedule for assumption of civil aviation security functions.—__ 
+>     “(1)  __Schedule for assumption of civil aviation security functions__  __.—__ 
 
 >     Not later than 3 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall assume civil aviation security functions and responsibilities under chapter 449 of title 49, United States Code, as amended by this Act, in accordance with a schedule to be developed by the Secretary of Transportation, in consultation with air carriers, foreign air carriers, and the Administrator of the Federal Aviation Administration. The Under Secretary shall publish an appropriate notice of the transfer of such security functions and responsibilities before assuming the functions and responsibilities.
 
->     “(2) __Assumption of contracts.—__ 
+>     “(2)  __Assumption of contracts__  __.—__ 
 
 >     As of the date specified in paragraph (1), the Under Secretary may assume the rights and responsibilities of an air carrier or foreign air carrier contract for provision of passenger screening services at airports in the United States described in section 44903(c), subject to payment of adequate compensation to parties to the contract, if any.
 
 >     “(3) __Assignment of contracts.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Upon request of the Under Secretary, an air carrier or foreign air carrier carrying out a screening or security function under chapter 449 of title 49, United States Code, may enter into an agreement with the Under Secretary to transfer any contract the carrier has entered into with respect to carrying out the function, before the Under Secretary assumes responsibility for the function.
 
->         “(B) __Schedule.—__ 
+>         “(B)  __Schedule__  __.—__ 
 
 >         The Under Secretary may enter into an agreement under subparagraph (A) as soon as possible, but not later than 90 days after the date of enactment of this Act \[Nov. 19, 2001\]. The Under Secretary may enter into such an agreement for one 180-day period and may extend such agreement for one 90-day period if the Under Secretary determines it necessary.
 
->     “(4) __Transfer of ownership.—__ 
+>     “(4)  __Transfer of ownership__  __.—__ 
 
 >     In recognition of the assumption of the financial costs of security screening of passengers and property at airports, and as soon as practical after the date of enactment of this Act \[Nov. 19, 2001\], air carriers may enter into agreements with the Under Secretary to transfer the ownership, at no cost to the United States Government, of any personal property, equipment, supplies, or other material associated with such screening, regardless of the source of funds used to acquire the property, that the Secretary determines to be useful for the performance of security screening of passengers and property at airports.
 
->     “(5) __Performance of under secretary’s functions during interim period.—__ 
+>     “(5)  __Performance of under secretary’s functions during interim period__  __.—__ 
 
 >     Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary’s designee.”
 
@@ -533,11 +533,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >     “(a) __Technology Research and Pilot Projects.—__ 
 
->         “(1) __Research and development.—__ 
+>         “(1)  __Research and development__  __.—__ 
 
 >         The Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall expedite research and development programs for technologies that can disrupt or prevent an explosive device from being introduced onto a passenger plane or from damaging a passenger plane while in flight or on the ground. The research shall be used in support of implementation of [section 44901 of title 49][/us/usc/t49/s44901], United States Code.
 
->         “(2) __Pilot projects.—__ 
+>         “(2)  __Pilot projects__  __.—__ 
 
 >         The Secretary, in conjunction with the Secretary of Transportation, shall establish a grant program to fund pilot projects—
 
@@ -545,7 +545,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >             “(B) to test technologies to expedite the recovery, development, and analysis of information from aircraft accidents to determine the cause of the accident, including deployable flight deck and voice recorders and remote location recording devices.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary of Homeland Security for fiscal year 2008 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.”
 
@@ -569,11 +569,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 108–458, title IV, § 4019(a)][/us/pl/108/458/s4019/a], (b), Dec. 17, 2004, [118 Stat. 3721][/us/stat/118/3721], provided that:
 
->     “(a) __In-Line Baggage Screening Equipment.—__ 
+>     “(a)  __In-Line Baggage Screening Equipment__  __.—__ 
 
 >     The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation and use of in-line baggage screening equipment at airports at which screening is required by [section 44901 of title 49][/us/usc/t49/s44901], United States Code.
 
->     “(b) __Schedule.—__ 
+>     “(b)  __Schedule__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary shall submit to the appropriate congressional committees a schedule to expedite the installation and use of in-line baggage screening equipment at such airports, with an estimate of the impact that such equipment, facility modification, and baggage conveyor placement will have on staffing needs and levels related to aviation security.”
 
@@ -581,11 +581,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 108–458, title IV, § 4020][/us/pl/108/458/s4020], Dec. 17, 2004, [118 Stat. 3722][/us/stat/118/3722], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall provide, subject to the availability of funds, assistance to airports at which screening is required by [section 44901 of title 49][/us/usc/t49/s44901], United States Code, and that have checked baggage screening areas that are not open to public view in the acquisition and installation of security monitoring cameras for surveillance of such areas in order to deter theft from checked baggage and to aid in the speedy resolution of liability claims against the Transportation Security Administration.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Homeland Security for fiscal year 2005 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.”
 
@@ -597,11 +597,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 108–458, title IV, § 4052][/us/pl/108/458/s4052], Dec. 17, 2004, [118 Stat. 3728][/us/stat/118/3728], provided that:
 
->     “(a) __Air Cargo Screening Technology.—__ 
+>     “(a)  __Air Cargo Screening Technology__  __.—__ 
 
 >     The Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop technology to better identify, track, and screen air cargo.
 
->     “(b) __Improved Air Cargo and Airport Security.—__ 
+>     “(b)  __Improved Air Cargo and Airport Security__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration, in addition to any amounts otherwise authorized by law, for the purpose of improving aviation security related to the transportation of cargo on both passenger aircraft and all-cargo aircraft—
 
@@ -613,7 +613,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >         Such sums shall remain available until expended.
 
->     “(c) __Research, Development, and Deployment.—__ 
+>     “(c)  __Research, Development, and Deployment__  __.—__ 
 
 >     To carry out subsection (a), there is authorized to be appropriated to the Secretary, in addition to any amounts otherwise authorized by law, for research and development related to enhanced air cargo security technology as well as for deployment and installation of enhanced air cargo security technology—
 
@@ -627,11 +627,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >     “(d) __Advanced Cargo Security Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall establish and carry out a program to issue competitive grants to encourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
 
->         “(2) __Eligibility criteria, etc.—__ 
+>         “(2)  __Eligibility criteria, etc__  __.—__ 
 
 >         The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
 
@@ -641,7 +641,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >     “(a) __Proposed Standards.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Homeland Security—
 
@@ -649,17 +649,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >             “(B) may, from time to time, propose minimum standards amending or replacing standards previously proposed and transmitted to Congress and approved under this section.
 
->         “(2) __Submission to congress.—__ 
+>         “(2)  __Submission to congress__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary shall submit the standards under paragraph (1)(A) to the Senate and the House of Representatives on the same day while each House is in session.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         Any proposed standards submitted to Congress under this subsection shall take effect when an approval resolution is passed by the House and the Senate under the procedures described in subsection (b) and becomes law.
 
 >     “(b) __Congressional Approval Procedures.—__ 
 
->         “(1) __Rulemaking power.—__ 
+>         “(1)  __Rulemaking power__  __.—__ 
 
 >         This subsection is enacted by Congress—
 
@@ -667,11 +667,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >             “(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
->         “(2) __Approval resolution.—__ 
+>         “(2)  __Approval resolution__  __.—__ 
 
 >         For the purpose of this subsection, the term ‘approval resolution’ means a joint resolution of Congress, the matter after the resolving clause of which is as follows: ‘That the Congress approves the proposed standards issued under section 7220 of the 9/11 Commission Implementation Act of 2004, transmitted by the President to the Congress on \_\_\_\_\_\_’, the blank space being filled in with the appropriate date.
 
->         “(3) __Introduction.—__ 
+>         “(3)  __Introduction__  __.—__ 
 
 >         Not later than the first day of session following the day on which proposed standards are transmitted to the House of Representatives and the Senate under subsection (a), an approval resolution—
 
@@ -681,75 +681,75 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >         “(4) __Prohibitions.—__ 
 
->             “(A) __Amendments.—__ 
+>             “(A)  __Amendments__  __.—__ 
 
 >             No amendment to an approval resolution shall be in order in either the House of Representatives or the Senate.
 
->             “(B) __Motions to suspend.—__ 
+>             “(B)  __Motions to suspend__  __.—__ 
 
 >             No motion to suspend the application of this paragraph shall be in order in either House, nor shall it be in order in either House for the Presiding Officer to entertain a request to suspend the application of this paragraph by unanimous consent.
 
 >         “(5) __Referral.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An approval resolution shall be referred to the committees of the House of Representatives and of the Senate with jurisdiction. Each committee shall make its recommendations to the House of Representatives or the Senate, as the case may be, within 45 days after its introduction. Except as provided in subparagraph (B), if a committee to which an approval resolution has been referred has not reported it at the close of the 45th day after its introduction, such committee shall be automatically discharged from further consideration of the resolution and it shall be placed on the appropriate calendar.
 
->             “(B) __Final passage.—__ 
+>             “(B)  __Final passage__  __.—__ 
 
 >             A vote on final passage of the resolution shall be taken in each House on or before the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
 
->             “(C) __Computation of days.—__ 
+>             “(C)  __Computation of days__  __.—__ 
 
 >             For purposes of this paragraph, in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
 
->         “(6) __Coordination with action of other house.—__ 
+>         “(6)  __Coordination with action of other house__  __.—__ 
 
 >         If prior to the passage by one House of an approval resolution of that House, that House receives the same approval resolution from the other House, then the procedure in that House shall be the same as if no approval resolution has been received from the other House, but the vote on final passage shall be on the approval resolution of the other House.
 
 >         “(7) __Floor consideration in the house of representatives.—__ 
 
->             “(A) __Motion to proceed.—__ 
+>             “(A)  __Motion to proceed__  __.—__ 
 
 >             A motion in the House of Representatives to proceed to the consideration of an approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, not shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
->             “(B) __Debate.—__ 
+>             “(B)  __Debate__  __.—__ 
 
 >             Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 4 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion to further limit debate shall not be debatable. It shall not be in order to move to recommit an approval resolution or to move to reconsider the vote by which an approval resolution is agreed to or disagreed to.
 
->             “(C) __Motion to postpone.—__ 
+>             “(C)  __Motion to postpone__  __.—__ 
 
 >             Motions to postpone made in the House of Representatives with respect to the consideration of an approval resolution and motions to proceed to the consideration of other business shall be decided without debate.
 
->             “(D) __Appeals.—__ 
+>             “(D)  __Appeals__  __.—__ 
 
 >             All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to an approval resolution shall be decided without debate.
 
->             “(E) __Rules of the house of representatives.—__ 
+>             “(E)  __Rules of the house of representatives__  __.—__ 
 
 >             Except to the extent specifically provided in subparagraphs (A) through (D), consideration of an approval resolution shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
 
 >         “(8) __Floor consideration in the Senate.—__ 
 
->             “(A) __Motion to proceed.—__ 
+>             “(A)  __Motion to proceed__  __.—__ 
 
 >             A motion in the Senate to proceed to the consideration of an approval resolution shall be privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
->             “(B) __Debate on resolution.—__ 
+>             “(B)  __Debate on resolution__  __.—__ 
 
 >             Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
->             “(C) __Debate on motions and appeals.—__ 
+>             “(C)  __Debate on motions and appeals__  __.—__ 
 
 >             Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
->             “(D) __Limit on debate.—__ 
+>             “(D)  __Limit on debate__  __.—__ 
 
 >             A motion in the Senate to further limit debate is not debatable. A motion to recommit an approval resolution is not in order.
 
 >     “(c) __Default Standards.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the standards proposed under subsection (a)(1)(A) are not approved pursuant to the procedures described in subsection (b), then not later than 1 year after rejection by a vote of either House of Congress, domestic commercial airline passengers seeking to board an aircraft shall present, for identification purposes—
 
@@ -761,7 +761,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >             “(D) a document issued by the country of nationality of any alien not required to possess a passport for admission to the United States that the Secretary designates as reliable for identifications purposes
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The documentary requirements described in paragraph (1)—
 
@@ -769,7 +769,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >             “(B) may be waived by the Secretary of Homeland Security in the case of an unforeseen medical emergency.
 
->     “(d) __Recommendation to Congress.—__ 
+>     “(d)  __Recommendation to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall recommend to Congress—
 
@@ -781,11 +781,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 107–71, title I, § 110(c)][/us/pl/107/71/s110/c], Nov. 19, 2001, [115 Stat. 616][/us/stat/115/616], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall deploy at all airports in the United States where screening is required under [section 44901 of title 49][/us/usc/t49/s44901], United States Code, a sufficient number of Federal screeners, Federal Security Managers, Federal security personnel, and Federal law enforcement officers to conduct the screening of all passengers and property under section 44901 of such title at such airports.
 
->     “(2) __Certification to congress.—__ 
+>     “(2)  __Certification to congress__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Under Secretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met.”
 
@@ -793,7 +793,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 [Pub. L. 107–71, title I, § 110(d)][/us/pl/107/71/s110/d], Nov. 19, 2001, [115 Stat. 616][/us/stat/115/616], provided that:
 
->     “(1) __Deployment.—__ 
+>     “(1)  __Deployment__  __.—__ 
 
 >     Within 6 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall report to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives on the deployment of the systems required by [section 44901(c) of title 49][/us/usc/t49/s44901/c], United States Code. The Under Secretary shall include in the report—
 
@@ -803,7 +803,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 >         “(C) the date on which each system installed is operational.
 
->     “(2) __Screening of small aircraft.—__ 
+>     “(2)  __Screening of small aircraft__  __.—__ 
 
 >     Within 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives on the screening requirements applicable to passengers boarding, and property being carried aboard, aircraft with 60 seats or less used in scheduled passenger service with recommendations for any necessary changes in those requirements.”
 
@@ -841,15 +841,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
 > “In this title \[enacting [section 44925 of this title][/us/usc/t49/s44925], amending sections 114, 44903, 44904, 44909, 44917, 44923, 46301 to 46303, and 48301 of this title and sections 70102 and 70103 of Title 46, Shipping, and enacting provisions set out as notes under this section, sections 114, 44703, 44913, 44917, 44923, 44925, and 44935 of this title, [section 2751 of Title 22][/us/usc/t22/s2751], Foreign Relations and Intercourse, and [section 70101 of Title 46][/us/usc/t46/s70101]\] (other than in sections 4001 and 4026 \[amending sections 114 and 44904 of this title and enacting provisions set out as a note under [section 2751 of Title 22][/us/usc/t22/s2751]\]), the following definitions apply:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(2) __Aviation definitions.—__ 
+>     “(2)  __Aviation definitions__  __.—__ 
 
 >     The terms ‘air carrier’, ‘air transportation’, ‘aircraft’, ‘airport’, ‘cargo’, ‘foreign air carrier’, and ‘intrastate air transportation’ have the meanings given such terms in [section 40102 of title 49][/us/usc/t49/s40102], United States Code.
 
->     “(3) __Secure area of an airport.—__ 
+>     “(3)  __Secure area of an airport__  __.—__ 
 
 >     The term ‘secure area of an airport’ means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulations).”
 

@@ -15,15 +15,15 @@
 
 ## § 5326. Transit asset management
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section the following definitions shall apply:
 
-        (1) __Capital asset.—__ 
+        (1)  __Capital asset__  __.—__ 
 
         The term “capital asset” includes equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient or subrecipient of Federal financial assistance under this chapter.
 
-        (2) __Transit asset management plan.—__ 
+        (2)  __Transit asset management plan__  __.—__ 
 
         The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
 
@@ -31,11 +31,11 @@
 
             (B) the recipient certifies complies with the rule issued under this section.
 
-        (3) __Transit asset management system.—__ 
+        (3)  __Transit asset management system__  __.—__ 
 
         The term “transit asset management system” means a strategic and systematic process of operating, maintaining, and improving public transportation capital assets effectively throughout the life cycle of such assets.
 
-    (b) __Transit Asset Management System.—__ 
+    (b)  __Transit Asset Management System__  __.—__ 
 
     The Secretary shall establish and implement a national transit asset management system, which shall include—
 
@@ -57,15 +57,15 @@
 
     (c) __Performance Measures and Targets.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to establish performance measures based on the state of good repair standards established under subsection (b)(1).
 
-        (2) __Targets.—__ 
+        (2)  __Targets__  __.—__ 
 
         Not later than 3 months after the date on which the Secretary issues a final rule under paragraph (1), and each fiscal year thereafter, each recipient of Federal financial assistance under this chapter shall establish performance targets in relation to the performance measures established by the Secretary.
 
-        (3) __Reports.—__ 
+        (3)  __Reports__  __.—__ 
 
         Each designated recipient of Federal financial assistance under this chapter shall submit to the Secretary an annual report that describes—
 
@@ -73,7 +73,7 @@
 
             (B) the performance targets established by the recipient for the subsequent fiscal year.
 
-    (d) __Rulemaking.—__ 
+    (d)  __Rulemaking__  __.—__ 
 
     Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to implement the transit asset management system described in subsection (b).
 

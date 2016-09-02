@@ -15,11 +15,11 @@
 
 ## § 45106. Relationship to other laws, regulations, standards, and orders
 
-    (a) __Effect on State and Local Government Laws, Regulations, Standards, or Orders.—__ 
+    (a)  __Effect on State and Local Government Laws, Regulations, Standards, or Orders__  __.—__ 
 
     A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this chapter. However, a regulation prescribed under this chapter does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
-    (b) __International Obligations and Foreign Laws.—__ 
+    (b)  __International Obligations and Foreign Laws__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The Secretaries of State and Transportation jointly shall request the governments of foreign countries that are members of the International Civil Aviation Organization to strengthen and enforce existing standards to prohibit crewmembers in international civil aviation from using alcohol or a controlled substance in violation of law or a United States Government regulation.
 
-    (c) __Other Regulations Allowed.—__ 
+    (c)  __Other Regulations Allowed__  __.—__ 
 
     This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
 

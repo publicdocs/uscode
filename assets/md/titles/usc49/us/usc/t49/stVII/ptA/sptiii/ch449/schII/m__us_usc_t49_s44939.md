@@ -15,7 +15,7 @@
 
 ## § 44939. Training to operate certain aircraft
 
-    (a) __Waiting Period.—__ 
+    (a)  __Waiting Period__  __.—__ 
 
     A person operating as a flight instructor, pilot school, or aviation training center or subject to regulation under this part may provide training in the operation of any aircraft having a maximum certificated takeoff weight of more than 12,500 pounds to an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(3)][/us/usc/t8/s1101/a/3])) or to any other individual specified by the Secretary of Homeland Security only if—
 
@@ -37,15 +37,15 @@
 
         (2) the Secretary has not directed, within 30 days after being notified under paragraph (1), that person not to provide the requested training because the Secretary has determined that the individual presents a risk to aviation or national security.
 
-    (b) __Interruption of Training.—__ 
+    (b)  __Interruption of Training__  __.—__ 
 
     If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
 
-    (c) __Notification.—__ 
+    (c)  __Notification__  __.—__ 
 
     A person operating as a flight instructor, pilot school, or aviation training center or subject to regulation under this part may provide training in the operation of any aircraft having a maximum certificated takeoff weight of 12,500 pounds or less to an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(3)][/us/usc/t8/s1101/a/3])) or to any other individual specified by the Secretary of Homeland Security only if that person has notified the Secretary that the individual has requested such training and furnished the Secretary with that individual’s identification in such form as the Secretary may require.
 
-    (d) __Expedited Processing.—__ 
+    (d)  __Expedited Processing__  __.—__ 
 
     Not later than 60 days after the date of enactment of this section, the Secretary shall establish a process to ensure that the waiting period under subsection (a) shall not exceed 5 days for an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(3)][/us/usc/t8/s1101/a/3])) who—
 
@@ -57,21 +57,21 @@
 
         (4) is an individual that is part of a class of individuals that the Secretary has determined that providing aviation training to presents minimal risk to aviation or national security because of the aviation training already possessed by such class of individuals.
 
-    (e) __Training.—__ 
+    (e)  __Training__  __.—__ 
 
     In subsection (a), the term “training” means training received from an instructor in an aircraft or aircraft simulator and does not include recurrent training, ground training, or demonstration flights for marketing purposes.
 
-    (f) __Nonapplicability to Certain Foreign Military Pilots.—__ 
+    (f)  __Nonapplicability to Certain Foreign Military Pilots__  __.—__ 
 
     The procedures and processes required by subsections (a) through (d) shall not apply to a foreign military pilot endorsed by the Department of Defense for flight training in the United States and seeking training described in subsection (e) in the United States.
 
     (g) __Fee.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Homeland Security may assess a fee for an investigation under this section, which may not exceed $100 per individual (exclusive of the cost of transmitting fingerprints collected at overseas facilities) during fiscal years 2003 and 2004. For fiscal year 2005 and thereafter, the Secretary may adjust the maximum amount of the fee to reflect the costs of such an investigation.
 
-        (2) __Offset.—__ 
+        (2)  __Offset__  __.—__ 
 
         Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any fee collected under this section—
 
@@ -79,11 +79,11 @@
 
             (B) shall remain available until expended.
 
-    (h) __Interagency Cooperation.—__ 
+    (h)  __Interagency Cooperation__  __.—__ 
 
     The Attorney General, the Director of Central Intelligence, and the Administrator of the Federal Aviation Administration shall cooperate with the Secretary in implementing this section.
 
-    (i) __Security Awareness Training for Employees.—__ 
+    (i)  __Security Awareness Training for Employees__  __.—__ 
 
     The Secretary shall require flight schools to conduct a security awareness program for flight school employees to increase their awareness of suspicious circumstances and activities of individuals enrolling in or attending flight school.
 
@@ -113,15 +113,15 @@
 
 [Pub. L. 108–176, title VI, § 612(b)][/us/pl/108/176/s612/b], Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Dec. 12, 2003\], the Secretary of Homeland Security shall promulgate an interim final rule to implement [section 44939 of title 49][/us/usc/t49/s44939], United States Code, as amended by subsection (a).
 
->     “(2) __Use of overseas facilities.—__ 
+>     “(2)  __Use of overseas facilities__  __.—__ 
 
 >     In order to implement [section 44939 of title 49][/us/usc/t49/s44939], United States Code, as amended by subsection (a), United States Embassies and Consulates that possess appropriate fingerprint collection equipment and personnel certified to capture fingerprints shall provide fingerprint services to aliens covered by that section if the Secretary requires fingerprints in the administration of that section, and shall transmit the fingerprints to the Secretary or other agency designated by the Secretary. The Attorney General and the Secretary of State shall cooperate with the Secretary of Homeland Security in carrying out this paragraph.
 
->     “(3) __Use of united states facilities.—__ 
+>     “(3)  __Use of united states facilities__  __.—__ 
 
 >     If the Secretary of Homeland Security requires fingerprinting in the administration of [section 44939 of title 49][/us/usc/t49/s44939], United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section.”
 

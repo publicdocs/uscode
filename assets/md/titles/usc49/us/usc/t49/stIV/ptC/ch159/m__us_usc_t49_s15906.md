@@ -15,19 +15,19 @@
 
 ## § 15906. Liability of pipeline carriers under receipts and bills of lading
 
-    (a) __General Liability.—__ 
+    (a)  __General Liability__  __.—__ 
 
     A pipeline carrier providing transportation or service subject to this part shall issue a receipt or bill of lading for property it receives for transportation under this part. That carrier and any other carrier that delivers the property and is providing transportation or service subject to jurisdiction under this part are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this subsection is for the actual loss or injury to the property caused by the carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading. Failure to issue a receipt or bill of lading does not affect the liability of a carrier.
 
-    (b) __Apportionment.—__ 
+    (b)  __Apportionment__  __.—__ 
 
     The carrier issuing the receipt or bill of lading under subsection (a) or delivering the property for which the receipt or bill of lading was issued is entitled to recover from the carrier over whose line or route the loss or injury occurred the amount required to be paid to the owners of the property, as evidenced by a receipt, judgment, or transcript, and the amount of its expenses reasonably incurred in defending a civil action brought by that person.
 
-    (c) __Civil Actions.—__ 
+    (c)  __Civil Actions__  __.—__ 
 
     A civil action under this section may be brought against a delivering carrier in a district court of the United States or in a State court. Trial, if the action is brought in a district court of the United States is in a judicial district, and if in a State court, is in a State, through which the defendant carrier operates a line or route.
 
-    (d) __Minimum Period for Filing Claims.—__ 
+    (d)  __Minimum Period for Filing Claims__  __.—__ 
 
     A pipeline carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2 years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice. For the purposes of this subsection—
 

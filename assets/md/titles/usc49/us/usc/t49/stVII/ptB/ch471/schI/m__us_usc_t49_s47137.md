@@ -15,11 +15,11 @@
 
 ## § 47137. Airport security program
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To improve security at public airports in the United States, the Secretary of Transportation shall carry out not less than one project to test and evaluate innovative aviation security systems and related technology.
 
-    (b) __Priority.—__ 
+    (b)  __Priority__  __.—__ 
 
     In carrying out this section, the Secretary shall give the highest priority to a request from an eligible sponsor for a grant to undertake a project that—
 
@@ -27,23 +27,23 @@
 
         (2) provides testing and evaluation of airport security systems and technology in an operational, testbed environment.
 
-    (c) __Matching Share.—__ 
+    (c)  __Matching Share__  __.—__ 
 
     Notwithstanding section 47109, the United States Government’s share of allowable project costs for a project under this section shall be 100 percent.
 
-    (d) __Terms and Conditions.—__ 
+    (d)  __Terms and Conditions__  __.—__ 
 
     The Secretary may establish such terms and conditions as the Secretary determines appropriate for carrying out a project under this section, including terms and conditions relating to the form and content of a proposal for a project, project assurances, and schedule of payments.
 
-    (e) __Administration.—__ 
+    (e)  __Administration__  __.—__ 
 
     The Secretary, in cooperation with the Secretary of Homeland Security, shall administer the program authorized by this section.
 
-    (f) __Eligible Sponsor Defined.—__ 
+    (f)  __Eligible Sponsor Defined__  __.—__ 
 
     In this section, the term “eligible sponsor” means a nonprofit corporation composed of a consortium of public and private persons, including a sponsor of a primary airport, with the necessary engineering and technical expertise to successfully conduct the testing and evaluation of airport and aircraft related security systems.
 
-    (g) __Authorization of Appropriations.—__ 
+    (g)  __Authorization of Appropriations__  __.—__ 
 
     Of the amounts made available to the Secretary under section 47115 in a fiscal year, the Secretary shall make available not less than $5,000,000 for the purpose of carrying out this section.
 

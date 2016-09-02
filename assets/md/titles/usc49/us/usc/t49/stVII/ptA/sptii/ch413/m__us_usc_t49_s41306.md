@@ -15,7 +15,7 @@
 
 ## § 41306. Simplified procedure to apply for, amend, modify, and suspend permits
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations that simplify the procedure for—
 
@@ -23,7 +23,7 @@
 
         (2) amending, modifying, or suspending any part of that permit under section 41304(a) or (b) of this title.
 
-    (b) __Notice and Opportunity To Respond.—__ 
+    (b)  __Notice and Opportunity To Respond__  __.—__ 
 
     Regulations under this section shall provide for notice and an opportunity for each interested person to file appropriate written evidence and argument. An oral evidentiary hearing is not required to be provided under this section.
 

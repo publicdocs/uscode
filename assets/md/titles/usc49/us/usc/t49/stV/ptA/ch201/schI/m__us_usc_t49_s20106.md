@@ -15,7 +15,7 @@
 
 ## § 20106. Preemption
 
-    (a) __National Uniformity of Regulation.—__ 
+    (a)  __National Uniformity of Regulation__  __.—__ 
 
         (1) Laws, regulations, and orders related to railroad safety and laws, regulations, and orders related to railroad security shall be nationally uniform to the extent practicable.
 
@@ -29,7 +29,7 @@
 
             (C) does not unreasonably burden interstate commerce.
 
-    (b) __Clarification Regarding State Law Causes of Action.—__ 
+    (b)  __Clarification Regarding State Law Causes of Action__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (2) This subsection shall apply to all pending State law causes of action arising from events or activities occurring on or after January 18, 2002.
 
-    (c) __Jurisdiction.—__ 
+    (c)  __Jurisdiction__  __.—__ 
 
     Nothing in this section creates a Federal cause of action on behalf of an injured party or confers Federal question jurisdiction for such State law causes of action.
 

@@ -15,19 +15,19 @@
 
 ## § 47111. Payments under project grant agreements
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     After making a project grant agreement under this subchapter and consulting with the sponsor, the Secretary of Transportation may decide when and in what amounts payments under the agreement will be made. Payments totaling not more than 90 percent of the United States Government’s share of the project’s estimated allowable costs may be made before the project is completed if the sponsor certifies to the Secretary that the total amount expended from the advance payments at any time will not be more than the cost of the airport development work completed on the project at that time.
 
-    (b) __Recovering Payments.—__ 
+    (b)  __Recovering Payments__  __.—__ 
 
     If the Secretary determines that the total amount of payments made under a grant agreement under this subchapter is more than the Government’s share of the total allowable project costs, the Government may recover the excess amount. If the Secretary finds that a project for which an advance payment was made has not been completed within a reasonable time, the Government may recover any part of the advance payment for which the Government received no benefit.
 
-    (c) __Payment Deposits.—__ 
+    (c)  __Payment Deposits__  __.—__ 
 
     A payment under a project grant agreement under this subchapter may be made only to an official or depository designated by the sponsor and authorized by law to receive public money.
 
-    (d) __Withholding Payments.—__ 
+    (d)  __Withholding Payments__  __.—__ 
 
         (1)
 
@@ -47,11 +47,11 @@
 
         (3) A person adversely affected by an order of the Secretary withholding a payment may apply for review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The petition must be filed not later than 60 days after the order is served on the petitioner.
 
-    (e) __Action on Grant Assurances Concerning Airport Revenues.—__ 
+    (e)  __Action on Grant Assurances Concerning Airport Revenues__  __.—__ 
 
     If, after notice and opportunity for a hearing, the Secretary finds a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], as further defined by the Secretary under section 47107(l) of this title, or a violation of an assurance made under [section 47107(b) of this title][/us/usc/t49/s47107/b], and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “charge”. </sup></sup>  under [section 40117 of this title][/us/usc/t49/s40117]. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
 
-    (f) __Judicial Enforcement.—__ 
+    (f)  __Judicial Enforcement__  __.—__ 
 
     For any violation of this chapter or any grant assurance made under this chapter, the Secretary may apply to the district court of the United States for any district in which the violation occurred for enforcement. Such court shall have jurisdiction to enforce obedience thereto by a writ of injunction or other process, mandatory or otherwise, restraining any person from further violation.
 

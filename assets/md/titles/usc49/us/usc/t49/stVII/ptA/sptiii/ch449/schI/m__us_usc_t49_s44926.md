@@ -15,21 +15,21 @@
 
 ## § 44926. Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Homeland Security shall establish a timely and fair process for individuals who believe they have been delayed or prohibited from boarding a commercial aircraft because they were wrongly identified as a threat under the regimes utilized by the Transportation Security Administration, United States Customs and Border Protection, or any other office or component of the Department of Homeland Security.
 
     (b) __Office of Appeals and Redress.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Secretary shall establish in the Department an Office of Appeals and Redress to implement, coordinate, and execute the process established by the Secretary pursuant to subsection (a). The Office shall include representatives from the Transportation Security Administration, United States Customs and Border Protection, and such other offices and components of the Department as the Secretary determines appropriate.
 
-        (2) __Records.—__ 
+        (2)  __Records__  __.—__ 
 
         The process established by the Secretary pursuant to subsection (a) shall include the establishment of a method by which the Office, under the direction of the Secretary, will be able to maintain a record of air carrier passengers and other individuals who have been misidentified and have corrected erroneous information.
 
-        (3) __Information.—__ 
+        (3)  __Information__  __.—__ 
 
         To prevent repeated delays of an  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  misidentified passenger or other individual, the Office shall—
 
@@ -39,7 +39,7 @@
 
             (C) require air carriers and foreign air carriers take action to identify passengers determined, under the process established under subsection (a), to have been wrongly identified.
 
-        (4) __Handling of personally identifiable information.—__ 
+        (4)  __Handling of personally identifiable information__  __.—__ 
 
         The Secretary, in conjunction with the Chief Privacy Officer of the Department shall—
 
@@ -57,7 +57,7 @@
 
             (G) conduct and publish a privacy impact assessment of the process described within this subsection and transmit the assessment to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Homeland Security and Governmental Affairs of the Senate.
 
-        (5) __Initiation of redress process at airports.—__ 
+        (5)  __Initiation of redress process at airports__  __.—__ 
 
         The Office shall establish at each airport at which the Department has a significant presence a process to provide information to air carrier passengers to begin the redress process established pursuant to subsection (a).
 

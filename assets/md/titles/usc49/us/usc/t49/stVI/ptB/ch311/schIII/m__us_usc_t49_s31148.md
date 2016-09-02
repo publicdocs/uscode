@@ -15,11 +15,11 @@
 
 ## § 31148. Certified motor carrier safety auditors
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 1 year after the date of the enactment of this section, the Secretary of Transportation shall complete a rulemaking to improve training and provide for the certification of motor carrier safety auditors, including private contractors, to conduct safety inspection audits and reviews described in subsection (b).
 
-    (b) __Certified Inspection Audit Requirement.—__ 
+    (b)  __Certified Inspection Audit Requirement__  __.—__ 
 
     Not later than 1 year after completion of the rulemaking required by subsection (a), any safety inspection audit or review required by, or based on the authority of, this chapter or chapter 5, 313, or 315 of this title and performed after December 31, 2002, shall be conducted by—
 
@@ -27,15 +27,15 @@
 
         (2) a Federal or State employee who, on the date of the enactment of this section, was qualified to perform such an audit or review.
 
-    (c) __Extension.—__ 
+    (c)  __Extension__  __.—__ 
 
     If the Secretary determines that subsection (b) cannot be implemented within the 1-year period established by that subsection and notifies the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination and the reasons therefor, the Secretary may extend the deadline for compliance with subsection (b) by not more than 12 months.
 
-    (d) __Application With Other Authority.—__ 
+    (d)  __Application With Other Authority__  __.—__ 
 
     The Secretary may not delegate the Secretary’s authority to private contractors to issue ratings or operating authority, and nothing in this section authorizes any private contractor to issue ratings or operating authority.
 
-    (e) __Oversight Responsibility.—__ 
+    (e)  __Oversight Responsibility__  __.—__ 
 
     The Secretary shall have authority over any motor carrier safety auditor certified under subsection (a), including the authority to decertify a motor carrier safety auditor.
 

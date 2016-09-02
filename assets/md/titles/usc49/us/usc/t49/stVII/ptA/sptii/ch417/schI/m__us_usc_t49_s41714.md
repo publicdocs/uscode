@@ -17,47 +17,47 @@
 
     (a) __Making Slots Available for Essential Air Service.—__ 
 
-        (1) __Operational authority.—__ 
+        (1)  __Operational authority__  __.—__ 
 
         If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
-        (2) __Exemptions.—__ 
+        (2)  __Exemptions__  __.—__ 
 
         If necessary to carry out the objectives of paragraph (1), the Secretary shall by order grant exemptions from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to air carriers using Stage 3 aircraft or to commuter air carriers, unless such an exemption would significantly increase operational delays.
 
-        (3) __Assurance of access.—__ 
+        (3)  __Assurance of access__  __.—__ 
 
         If the Secretary finds that an exemption under paragraph (2) would significantly increase operational delays, the Secretary shall take such action as may be necessary to ensure that an air carrier providing or selected to provide basic essential air service is able to obtain access to a high density airport.
 
-        (4) __Action by the secretary.—__ 
+        (4)  __Action by the secretary__  __.—__ 
 
         The Secretary shall issue a final order under this subsection on or before the 60th day after receiving a request from an air carrier for operational authority under this subsection.
 
     (b) __Slots for Foreign Air Transportation.—__ 
 
-        (1) __Exemptions.—__ 
+        (1)  __Exemptions__  __.—__ 
 
         If the Secretary finds it to be in the public interest at a high density airport (other than Ronald Reagan Washington National Airport), the Secretary may grant by order exemptions from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable air carriers and foreign air carriers to provide foreign air transportation using Stage 3 aircraft.
 
-        (2) __Slot withdrawals.—__ 
+        (2)  __Slot withdrawals__  __.—__ 
 
         The Secretary may not withdraw a slot at Chicago O’Hare International Airport from an air carrier in order to allocate that slot to a carrier to provide foreign air transportation.
 
-        (3) __Equivalent rights of access.—__ 
+        (3)  __Equivalent rights of access__  __.—__ 
 
         The Secretary shall not take a slot at a high density airport from an air carrier and award such slot to a foreign air carrier if the Secretary determines that air carriers are not provided equivalent rights of access to airports in the country of which such foreign air carrier is a citizen.
 
-        (4) __Conversions of slots.—__ 
+        (4)  __Conversions of slots__  __.—__ 
 
         Effective May 1, 2000, slots at Chicago O’Hare International Airport allocated to an air carrier as of November 1, 1999, to provide foreign air transportation shall be made available to such carrier to provide interstate or intrastate air transportation.
 
-    (c) __Slots for New Entrants.—__ 
+    (c)  __Slots for New Entrants__  __.—__ 
 
     If the Secretary finds it to be in the public interest, the Secretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
 
     (d) __Special Rules for Ronald Reagan Washington National Airport.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding sections 49104(a)(5) and 49111(e) of this title, or any provision of this section, the Secretary may, only under circumstances determined by the Secretary to be exceptional, grant by order to an air carrier currently holding or operating a slot at Ronald Reagan Washington National Airport an exemption from requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at Ronald Reagan Washington National Airport), to enable that carrier to provide air transportation with Stage 3 aircraft at Ronald Reagan Washington National Airport; except that such exemption shall not—
 
@@ -73,13 +73,13 @@
 
             (F) continue in effect on or after the date on which the final rules issued under subsection (f) become effective.
 
-        (2) __Limitation on applicability.—__ 
+        (2)  __Limitation on applicability__  __.—__ 
 
         Nothing in this subsection shall adversely affect Exemption No. 5133, as from time-to-time amended and extended.
 
     (e) __Study.—__ 
 
-        (1) __Matters to be considered.—__ 
+        (1)  __Matters to be considered__  __.—__ 
 
         The Secretary shall continue the Secretary’s current examination of slot regulations and shall ensure that the examination includes consideration of—
 
@@ -111,39 +111,39 @@
 
             (H) the impact of the prohibition on slot withdrawals in subsections (b)(2) and (b)(3) of this section on the aviation relationship between the United States Government and foreign governments, including whether the prohibition in such subsections will require the withdrawal of slots from general and military aviation in order to meet the needs of air carriers and foreign air carriers providing foreign air transportation (and the impact of such withdrawal on general aviation and military aviation) and whether slots will become available to meet the needs of air carriers and foreign air carriers to provide foreign air transportation as a result of the planned relocation of Air Force Reserve units and the Air National Guard at O’Hare International Airport.
 
-        (2) __Report.—__ 
+        (2)  __Report__  __.—__ 
 
         Not later than January 31, 1995, the Secretary shall complete the current examination of slot regulations and shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of such examination.
 
-    (f) __Rulemaking.—__ 
+    (f)  __Rulemaking__  __.—__ 
 
     The Secretary shall conduct a rulemaking proceeding based on the results of the study described in subsection (e). In the course of such proceeding, the Secretary shall issue a notice of proposed rulemaking not later than August 1, 1995, and shall issue a final rule not later than 90 days after public comments are due on the notice of proposed rulemaking.
 
-    (g) __Weekend Operations.—__ 
+    (g)  __Weekend Operations__  __.—__ 
 
     The Secretary shall consider the advisability of revising section 93.227 of title 14, Code of Federal Regulations, so as to eliminate weekend schedules from the determination of whether the 80 percent standard of subsection (a)(1) of that section has been met.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section and sections 41715–41718 and 41734(h), the following definitions apply:
 
-        (1) __Commuter air carrier.—__ 
+        (1)  __Commuter air carrier__  __.—__ 
 
         The term “commuter air carrier” means a commuter operator as defined or applied in subpart K or S of part 93 of title 14, Code of Federal Regulations.
 
-        (2) __High density airport.—__ 
+        (2)  __High density airport__  __.—__ 
 
         The term “high density airport” means an airport at which the Administrator limits the number of instrument flight rule takeoffs and landings of aircraft.
 
-        (3) __New entrant air carrier.—__ 
+        (3)  __New entrant air carrier__  __.—__ 
 
         The term “new entrant air carrier” means an air carrier that does not hold a slot at the airport concerned and has never sold or given up a slot at that airport after December 16, 1985, and a limited incumbent carrier.
 
-        (4) __Slot.—__ 
+        (4)  __Slot__  __.—__ 
 
         The term “slot” means a reservation for an instrument flight rule takeoff or landing by an air carrier of an aircraft in air transportation.
 
-        (5) __Limited incumbent air carrier.—__ 
+        (5)  __Limited incumbent air carrier__  __.—__ 
 
         The term “limited incumbent air carrier” has the meaning given that term in subpart S of part 93 of title 14, Code of Federal Regulations; except that—
 
@@ -161,25 +161,25 @@
 
             (C) for Ronald Reagan Washington National Airport, the Administrator shall not count, for the purposes of section 93.213(a)(5), slots currently held by an air carrier but leased out on a long-term basis by that carrier for use in foreign air transportation and renounced by the carrier for return to the Department of Transportation or the Federal Aviation Administration.
 
-        (6) __Regional jet.—__ 
+        (6)  __Regional jet__  __.—__ 
 
         The term “regional jet” means a passenger, turbofan-powered aircraft with a certificated maximum passenger seating capacity of less than 71.
 
-        (7) __Nonhub airport.—__ 
+        (7)  __Nonhub airport__  __.—__ 
 
         The term “nonhub airport” means an airport that had less than .05 percent of the total annual boardings in the United States as determined under the Federal Aviation Administration’s Primary Airport Enplanement Activity Summary for Calendar Year 1997.
 
-        (8) __Small hub airport.—__ 
+        (8)  __Small hub airport__  __.—__ 
 
         The term “small hub airport” means an airport that had at least .05 percent, but less than .25 percent, of the total annual boardings in the United States as determined under the summary referred to in paragraph (7).
 
-        (9) __Medium hub airport.—__ 
+        (9)  __Medium hub airport__  __.—__ 
 
         The term “medium hub airport” means an airport that each year has at least .25 percent, but less than 1.0 percent, of the total annual boardings in the United States as determined under the summary referred to in paragraph (7).
 
     (i) __60-Day Application Process.—__ 
 
-        (1) __Request for slot exemptions.—__ 
+        (1)  __Request for slot exemptions__  __.—__ 
 
         Any slot exemption request filed with the Secretary under this section or section 41716 or 41717 (other than subsection (c)) shall include—
 
@@ -189,7 +189,7 @@
 
             (C) such additional information as the Secretary may require.
 
-        (2) __Action on request; failure to act.—__ 
+        (2)  __Action on request; failure to act__  __.—__ 
 
         Within 60 days after a slot exemption request under this section or section 41716 or 41717 (other than subsection (c)) is received by the Secretary, the Secretary shall—
 
@@ -199,19 +199,19 @@
 
             (C) deny the request and state the reasons for its denial.
 
-        (3) __60-day period tolled for timely request for more information.—__ 
+        (3) __60-__  __day period tolled for timely request for more information__  __.—__ 
 
         If the Secretary returns under paragraph (2)(B) the request for additional information during the first 20 days after the request is filed, then the 60-day period under paragraph (2) shall be tolled until the date on which the additional information is filed with the Secretary.
 
-        (4) __Failure to determine deemed approval.—__ 
+        (4)  __Failure to determine deemed approval__  __.—__ 
 
         If the Secretary neither approves the request under paragraph (2)(A) nor denies the request under paragraph (2)(C) within the 60-day period beginning on the date the request is received, excepting any days during which the 60-day period is tolled under paragraph (3), then the request is deemed to have been approved on the 61st day, after the request was filed with the Secretary.
 
-    (j) __Exemptions May Not Be Transferred.—__ 
+    (j)  __Exemptions May Not Be Transferred__  __.—__ 
 
     No exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations, granted under this section or section 41716, 41717, or 41718 may be bought, sold, leased, or otherwise transferred by the carrier to which it is granted, except through an air carrier merger or acquisition.
 
-    (k) __Affiliated Carriers.—__ 
+    (k)  __Affiliated Carriers__  __.—__ 
 
     For purposes of this section and sections 41716, 41717, and 41718, an air carrier that operates under the same designator code, or has or enters into a code-share agreement, with any other air carrier shall not qualify for a new slot or slot exemption as a new entrant or limited incumbent air carrier at an airport if the total number of slots and slot exemptions held by the two carriers at the airport exceed 20 slots and slot exemptions.
 

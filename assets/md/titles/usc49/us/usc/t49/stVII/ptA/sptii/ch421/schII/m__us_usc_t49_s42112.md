@@ -15,7 +15,7 @@
 
 ## § 42112. Labor requirements of air carriers
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -29,7 +29,7 @@
 
             (B) qualified to serve as, and has in effect an airman certificate authorizing the employee to serve as, a pilot.
 
-    (b) __Duties of Air Carriers.—__ 
+    (b)  __Duties of Air Carriers__  __.—__ 
 
     An air carrier shall—
 
@@ -39,11 +39,11 @@
 
         (3) comply with title II of the Railway Labor Act ([45 U.S.C. 181][/us/usc/t45/s181] et seq.) as long as it holds its certificate.
 
-    (c) __Minimum Annual Rate of Compensation.—__ 
+    (c)  __Minimum Annual Rate of Compensation__  __.—__ 
 
     A minimum annual rate under subsection (b)(2) of this section may not be less than the annual rate required to be paid for comparable service to a pilot or copilot under subsection (b)(1) of this section.
 
-    (d) __Collective Bargaining.—__ 
+    (d)  __Collective Bargaining__  __.—__ 
 
     This section does not prevent pilots or copilots of an air carrier from obtaining by collective bargaining higher rates of compensation or more favorable working conditions or relations.
 
@@ -139,7 +139,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 
 [Pub. L. 110–161, div. K, title I, § 117][/us/pl/110/161/s117], Dec. 26, 2007, [121 Stat. 2382][/us/stat/121/2382], provided that:
 
->     “(a) __Labor Integration.—__ 
+>     “(a)  __Labor Integration__  __.—__ 
 
 >     With respect to any covered transaction involving two or more covered air carriers that results in the combination of crafts or classes that are subject to the Railway Labor Act ([45 U.S.C. 151][/us/usc/t45/s151] et seq.), sections 3 and 13 of the labor protective provisions imposed by the Civil Aeronautics Board in the Allegheny-Mohawk merger (as published at 59 C.A.B. 45) shall apply to the integration of covered employees of the covered air carriers; except that—
 
@@ -147,19 +147,19 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 
 >         “(2) the requirements of any collective bargaining agreement that may be applicable to the terms of integration involving covered employees of a covered air carrier shall not be affected by the requirements of this section as to the employees covered by that agreement, so long as those provisions allow for the protections afforded by sections 3 and 13 of the Allegheny-Mohawk provisions.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Air carrier.—__ 
+>         “(1)  __Air carrier__  __.—__ 
 
 >         The term ‘air carrier’ means an air carrier that holds a certificate issued under chapter 411 of title 49, United States Code.
 
->         “(2) __Covered air carrier.—__ 
+>         “(2)  __Covered air carrier__  __.—__ 
 
 >         The term ‘covered air carrier’ means an air carrier that is involved in a covered transaction.
 
->         “(3) __Covered employee.—__ 
+>         “(3)  __Covered employee__  __.—__ 
 
 >         The term ‘covered employee’ means an employee who—
 
@@ -167,7 +167,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 
 >             “(B) is a member of a craft or class that is subject to the Railway Labor Act ([45 U.S.C. 151][/us/usc/t45/s151] et seq.).
 
->         “(4) __Covered transaction.—__ 
+>         “(4)  __Covered transaction__  __.—__ 
 
 >         The term ‘covered transaction’ means—
 
@@ -181,11 +181,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 401(k), 72 Stat. 756.  </td>
 
 >                 “(ii) 50 percent or more (by value) of the assets of the air carrier.
 
->     “(c) __Application.—__ 
+>     “(c)  __Application__  __.—__ 
 
 >     This section shall not apply to any covered transaction involving a covered air carrier that took place before the date of enactment of this Act \[Dec. 26, 2007\].
 
->     “(d) __Effectiveness of Provision.—__ 
+>     “(d)  __Effectiveness of Provision__  __.—__ 
 
 >     This section shall become effective on the date of enactment of this Act and shall continue in effect in fiscal years after fiscal year 2008.”
 

@@ -15,7 +15,7 @@
 
 ## § 13903. Registration of freight forwarders
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder if the Secretary determines that the person—
 
@@ -23,11 +23,11 @@
 
         (2) is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary.
 
-    (b) __Duration.—__ 
+    (b)  __Duration__  __.—__ 
 
     A registration issued under subsection (a) shall only remain in effect while the freight forwarder is in compliance with section 13906(c).
 
-    (c) __Experience or Training Requirement.—__ 
+    (c)  __Experience or Training Requirement__  __.—__ 
 
     Each freight forwarder shall employ, as an officer, an individual who—
 
@@ -37,11 +37,11 @@
 
     (d) __Registration as Motor Carrier Required.—__ 
 
-        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __In general.—__ 
+        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __In general__  __.—__ 
 
         A freight forwarder may not provide transportation as a motor carrier unless the freight forwarder has registered separately under this chapter to provide transportation as a motor carrier.
 
-    (e) __Update of Registration.—__ 
+    (e)  __Update of Registration__  __.—__ 
 
     The Secretary shall require a freight forwarder to update its registration under this section not later than 30 days after a change in the freight forwarder’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 

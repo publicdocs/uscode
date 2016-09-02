@@ -15,7 +15,7 @@
 
 ## § 5331. Alcohol and controlled substances testing
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -25,7 +25,7 @@
 
         (3) “public transportation” means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
 
-    (b) __Testing Program for Public Transportation Employees.—__ 
+    (b)  __Testing Program for Public Transportation Employees__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
             (B) may require that post-accident testing of such a public transportation employee be conducted when bodily injury or significant property damage occurs in any other serious accident involving public transportation.
 
-    (c) __Disqualifications for Use.—__ 
+    (c)  __Disqualifications for Use__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (2) This section does not supersede any penalty applicable to a public transportation employee under another law.
 
-    (d) __Testing and Laboratory Requirements.—__ 
+    (d)  __Testing and Laboratory Requirements__  __.—__ 
 
     In carrying out subsection (b) of this section, the Secretary shall develop requirements that shall—
 
@@ -81,11 +81,11 @@
 
         (8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
-    (e) __Rehabilitation.—__ 
+    (e)  __Rehabilitation__  __.—__ 
 
     The Secretary shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
 
-    (f) __Relationship to Other Laws, Regulations, Standards, and Orders.—__ 
+    (f)  __Relationship to Other Laws, Regulations, Standards, and Orders__  __.—__ 
 
         (1) A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
@@ -99,11 +99,11 @@
 
     (g) __Conditions on Federal Assistance.—__ 
 
-        (1) __Ineligibility for assistance.—__ 
+        (1)  __Ineligibility for assistance__  __.—__ 
 
         A person that receives funds under this chapter is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program in accordance with this section.
 
-        (2) __Additional remedies.—__ 
+        (2)  __Additional remedies__  __.—__ 
 
         If the Secretary determines that a person that receives funds under this chapter is not in compliance with regulations prescribed under this section, the Secretary may bar the person from receiving Federal transit assistance in an amount the Secretary considers appropriate.
 

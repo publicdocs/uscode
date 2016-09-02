@@ -15,11 +15,11 @@
 
 ## § 721. Powers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Board shall carry out this chapter and subtitle IV. Enumeration of a power of the Board in this chapter or subtitle IV does not exclude another power the Board may have in carrying out this chapter or subtitle IV. The Board may prescribe regulations in carrying out this chapter and subtitle IV.
 
-    (b) __Inquiries, Reports, and Orders.—__ 
+    (b)  __Inquiries, Reports, and Orders__  __.—__ 
 
     The Board may—
 
@@ -31,13 +31,13 @@
 
         (4) when necessary to prevent irreparable harm, issue an appropriate order without regard to subchapter II of chapter 5 of title 5.
 
-    (c) __Subpoena Witnesses.—__ 
+    (c)  __Subpoena Witnesses__  __.—__ 
 
         (1) The Board may subpoena witnesses and records related to a proceeding of the Board from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena, the Board, or a party to a proceeding before the Board, may petition a court of the United States to enforce that subpoena.
 
         (2) The district courts of the United States have jurisdiction to enforce a subpoena issued under this section. Trial is in the district in which the proceeding is conducted. The court may punish a refusal to obey a subpoena as a contempt of court.
 
-    (d) __Depositions.—__ 
+    (d)  __Depositions__  __.—__ 
 
         (1) In a proceeding, the Board may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending before the Board may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
 
@@ -51,7 +51,7 @@
 
         (6) The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Board or agreed on by the parties by written stipulation filed with the Board. A deposition shall be filed with the Board promptly.
 
-    (e) __Witness Fees.—__ 
+    (e)  __Witness Fees__  __.—__ 
 
     Each witness summoned before the Board or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 

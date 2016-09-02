@@ -15,11 +15,11 @@
 
 ## § 30118. Notification of defects and noncompliance
 
-    (a) __Notification by Secretary.—__ 
+    (a)  __Notification by Secretary__  __.—__ 
 
     The Secretary of Transportation shall notify the manufacturer of a motor vehicle or replacement equipment immediately after making an initial decision (through testing, inspection, investigation, or research carried out under this chapter, examining communications under [section 30166(f) of this title][/us/usc/t49/s30166/f], or otherwise) that the vehicle or equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter. The notification shall include the information on which the decision is based. The Secretary shall publish a notice of each decision under this subsection in the Federal Register. Subject to [section 30167(a) of this title][/us/usc/t49/s30167/a], the notification and information are available to any interested person.
 
-    (b) __Defect and Noncompliance Proceedings and Orders.—__ 
+    (b)  __Defect and Noncompliance Proceedings and Orders__  __.—__ 
 
         (1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that the defect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
 
@@ -31,7 +31,7 @@
 
             (B) remedy the defect or noncompliance under [section 30120 of this title][/us/usc/t49/s30120].
 
-    (c) __Notification by Manufacturer.—__ 
+    (c)  __Notification by Manufacturer__  __.—__ 
 
     A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
 
@@ -39,11 +39,11 @@
 
         (2) decides in good faith that the vehicle or equipment does not comply with an applicable motor vehicle safety standard prescribed under this chapter.
 
-    (d) __Exemptions.—__ 
+    (d)  __Exemptions__  __.—__ 
 
     On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 
-    (e) __Hearings About Meeting Notification Requirements.—__ 
+    (e)  __Hearings About Meeting Notification Requirements__  __.—__ 
 
     On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 

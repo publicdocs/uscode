@@ -15,7 +15,7 @@
 
 ## § 60110. Excess flow valves
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to—
 
@@ -23,7 +23,7 @@
 
         (2) any other natural gas distribution system when repair to the system requires replacing a part to accommodate installing excess flow valves.
 
-    (b) __Installation Requirements and Considerations.—__ 
+    (b)  __Installation Requirements and Considerations__  __.—__ 
 
     Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—
 
@@ -41,7 +41,7 @@
 
         (7) other factors the Secretary considers relevant.
 
-    (c) __Notification of Availability.—__ 
+    (c)  __Notification of Availability__  __.—__ 
 
         (1)
 
@@ -55,11 +55,11 @@
 
         (2) The standards shall provide that, except when installation is required under subsection (b) of this section, excess flow valves shall be installed at the request of the customer if the customer will pay all costs associated with installation.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     If the Secretary decides under subsection (b) of this section that there are no circumstances under which an operator must install excess flow valves, the Secretary shall submit to Congress a report on the reasons for the decision not later than 30 days after the decision is made.
 
-    (e) __Performance Standards.—__ 
+    (e)  __Performance Standards__  __.—__ 
 
     Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
 

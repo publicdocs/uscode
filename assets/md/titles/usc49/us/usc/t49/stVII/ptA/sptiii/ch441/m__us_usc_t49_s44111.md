@@ -15,11 +15,11 @@
 
 ## § 44111. Modifications in registration and recordation system for aircraft not providing air transportation
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to aircraft not used to provide air transportation.
 
-    (b) __Authority To Make Modifications.—__ 
+    (b)  __Authority To Make Modifications__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall make modifications in the system for registering and recording aircraft necessary to make the system more effective in serving the needs of—
 
@@ -29,7 +29,7 @@
 
         (3) other users of the system.
 
-    (c) __Nature of Modifications.—__ 
+    (c)  __Nature of Modifications__  __.—__ 
 
     Modifications made under subsection (b) of this section—
 
@@ -63,7 +63,7 @@
 
             (K) the practice of allowing temporary operation and navigation of aircraft without the issuance of a certificate of registration.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
         (1) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out this section and provide a written explanation of how the regulations address each of the deficiencies and abuses described in subsection (c) of this section. In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
@@ -181,7 +181,7 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 
 [Pub. L. 100–690, title VII, § 7207(d)][/us/pl/100/690/s7207/d], (e), Nov. 18, 1988, [102 Stat. 4428][/us/stat/102/4428], provided that:
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 5-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
@@ -193,15 +193,15 @@ Nov. 18, 1988, Pub. L. 100–690, § 7207(a), (b), 102 Stat. 4427.  </td>
 
 >         “(4) The status of establishing and collecting fees under section 313(f) of the Federal Aviation Act \[see [section 45302(b) of this title][/us/usc/t49/s45302/b]\].
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this subtitle \[subtitle E (§§ 7201–7214) of title VII of [Pub. L. 100–690][/us/pl/100/690], see Tables for classification\]—
 
->         “(1) __Administrator.—__ 
+>         “(1)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
 
->         “(2) __Aircraft.—__ 
+>         “(2)  __Aircraft__  __.—__ 
 
 >         The term ‘aircraft’ has the meaning such term has under section 101 of the Federal Aviation Act of 1958 \[see [section 40102 of this title][/us/usc/t49/s40102]\].”
 

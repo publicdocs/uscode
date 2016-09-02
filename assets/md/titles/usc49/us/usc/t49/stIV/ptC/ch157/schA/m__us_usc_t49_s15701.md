@@ -15,11 +15,11 @@
 
 ## § 15701. Providing transportation and service
 
-    (a) __Service on Reasonable Request.—__ 
+    (a)  __Service on Reasonable Request__  __.—__ 
 
     A pipeline carrier providing transportation or service under this part shall provide the transportation or service on reasonable request.
 
-    (b) __Rates and Other Terms.—__ 
+    (b)  __Rates and Other Terms__  __.—__ 
 
     A pipeline carrier shall also provide to any person, on request, the carrier’s rates and other service terms. The response by a pipeline carrier to a request for the carrier’s rates and other service terms shall be—
 
@@ -27,7 +27,7 @@
 
         (2) promptly made available in electronic form.
 
-    (c) __Limitation on Rate Increases and Changes to Service Terms.—__ 
+    (c)  __Limitation on Rate Increases and Changes to Service Terms__  __.—__ 
 
     A pipeline carrier may not increase any common carrier rates or change any common carrier service terms unless 20 days have expired after written or electronic notice is provided to any person who, within the previous 12 months—
 
@@ -35,11 +35,11 @@
 
         (2) has made arrangements with the carrier for a shipment that would be subject to such increased rates or changed terms.
 
-    (d) __Provision of Service.—__ 
+    (d)  __Provision of Service__  __.—__ 
 
     A pipeline carrier shall provide transportation or service in accordance with the rates and service terms, and any changes thereto, as published or otherwise made available under subsection (b) or (c).
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. The regulations may modify the 20-day period specified in subsection (c). Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996.
 

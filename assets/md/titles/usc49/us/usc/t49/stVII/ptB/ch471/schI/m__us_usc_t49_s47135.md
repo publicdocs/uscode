@@ -15,21 +15,21 @@
 
 ## § 47135. Innovative financing techniques
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation may approve, after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, applications for not more than 20 airport development projects for which grants received under this subchapter may be used for innovative financing techniques. Such projects shall be located at airports that each year have less than .25 percent of the total number of passenger boardings each year at all commercial service airports in the most recent calendar year for which data is available.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of grants made under this section shall be to provide information on the benefits and difficulties of using innovative financing techniques for airport development projects.
 
     (c) __Limitations.—__ 
 
-        (1) __No guarantees.—__ 
+        (1)  __No guarantees__  __.—__ 
 
         In no case shall the implementation of an innovative financing technique under this section be used in a manner giving rise to a direct or indirect guarantee of any airport debt instrument by the United States Government.
 
-        (2) __Types of techniques.—__ 
+        (2)  __Types of techniques__  __.—__ 
 
         In this section, innovative financing techniques are limited to—
 

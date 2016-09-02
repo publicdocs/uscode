@@ -15,11 +15,11 @@
 
 ## § 33110. Verifications involving junk and salvage motor vehicles
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “vehicle identification number” means a unique identification number (or derivative of that number) assigned to a passenger motor vehicle by a manufacturer in compliance with applicable regulations.
 
-    (b) __General Requirements.—__ 
+    (b)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
             (B) When a carrier transfers a motor vehicle for which the carrier has not established whether the vehicle has been reported as stolen, the carrier shall provide written certification to the transferee that the carrier has not established whether the vehicle has been reported as stolen.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     In consultation with the Secretary, the Attorney General shall prescribe regulations necessary to ensure that verification performed and provided by an insurance carrier under subsection (b)(1)(B) of this section is uniform, effective, and resistant to fraudulent use.
 

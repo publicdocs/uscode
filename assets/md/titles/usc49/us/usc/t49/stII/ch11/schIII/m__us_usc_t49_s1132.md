@@ -15,7 +15,7 @@
 
 ## § 1132. Civil aircraft accident investigations
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -27,15 +27,15 @@
 
         (2) A person employed under [section 1113(b)(1) of this title][/us/usc/t49/s1113/b/1] that is conducting an investigation or hearing about an aircraft accident has the same authority to conduct the investigation or hearing as the Board.
 
-    (b) __Notification and Reporting.—__ 
+    (b)  __Notification and Reporting__  __.—__ 
 
     The Board shall prescribe regulations governing the notification and reporting of accidents involving civil aircraft.
 
-    (c) __Participation of Secretary.—__ 
+    (c)  __Participation of Secretary__  __.—__ 
 
     The Board shall provide for the participation of the Secretary of Transportation in the investigation of an aircraft accident under this chapter when participation is necessary to carry out the duties and powers of the Secretary. However, the Secretary may not participate in establishing probable cause.
 
-    (d) __Accidents Involving Only Military Aircraft.—__ 
+    (d)  __Accidents Involving Only Military Aircraft__  __.—__ 
 
     If an accident involves only military aircraft and a duty of the Secretary is or may be involved, the military authorities shall provide for the participation of the Secretary. In any other accident involving only military aircraft, the military authorities shall give the Board or Secretary information the military authorities decide would contribute to the promotion of air safety.
 

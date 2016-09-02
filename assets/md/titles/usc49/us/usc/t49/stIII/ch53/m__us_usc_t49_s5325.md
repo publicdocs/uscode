@@ -15,43 +15,43 @@
 
 ## § 5325. Contract requirements
 
-    (a) __Competition.—__ 
+    (a)  __Competition__  __.—__ 
 
     Recipients of assistance under this chapter shall conduct all procurement transactions in a manner that provides full and open competition as determined by the Secretary.
 
     (b) __Architectural, Engineering, and Design Contracts.—__ 
 
-        (1) __Procedures for awarding contract.—__ 
+        (1)  __Procedures for awarding contract__  __.—__ 
 
         A contract or requirement for program management, architectural engineering, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which Federal assistance is provided under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement of a State adopted before August 10, 2005.
 
-        (2) __Additional requirements.—__ 
+        (2)  __Additional requirements__  __.—__ 
 
         When awarding a contract described in paragraph (1), recipients of assistance under this chapter shall comply with the following requirements:
 
-            (A) __Performance of audits.—__ 
+            (A)  __Performance of audits__  __.—__ 
 
             Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of the Federal Acquisition Regulation, or any successor thereto.
 
-            (B) __Indirect cost rates.—__ 
+            (B)  __Indirect cost rates__  __.—__ 
 
             A recipient of funds under a contract or subcontract awarded under this chapter shall accept indirect cost rates established in accordance with the Federal Acquisition Regulation for 1-year applicable accounting periods by a cognizant Federal or State government agency, if such rates are not currently under dispute.
 
-            (C) __Application of rates.—__ 
+            (C)  __Application of rates__  __.—__ 
 
             After a firm’s indirect cost rates are accepted under subparagraph (B), the recipient of the funds shall apply such rates for the purposes of contract estimation, negotiation, administration, reporting, and contract payment, and shall not be limited by administrative or de facto ceilings.
 
-            (D) __Prenotification; confidentiality of data.—__ 
+            (D)  __Prenotification; confidentiality of data__  __.—__ 
 
             A recipient requesting or using the cost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
-    (c) __Efficient Procurement.—__ 
+    (c)  __Efficient Procurement__  __.—__ 
 
     A recipient may award a procurement contract under this chapter to other than the lowest bidder if the award furthers an objective consistent with the purposes of this chapter, including improved long-term operating efficiency and lower long-term costs.
 
     (d) __Design-Build Projects.—__ 
 
-        (1) __Term defined.—__ 
+        (1)  __Term defined__  __.—__ 
 
         In this subsection, the term “design-build project”—
 
@@ -59,13 +59,13 @@
 
             (B) may include an option to finance, or operate for a period of time, the system or segment or any combination of designing, building, operating, or maintaining such system or segment.
 
-        (2) __Financial assistance for capital costs.—__ 
+        (2)  __Financial assistance for capital costs__  __.—__ 
 
         Federal financial assistance under this chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
 
     (e) __Multiyear Rolling Stock.—__ 
 
-        (1) __Contracts.—__ 
+        (1)  __Contracts__  __.—__ 
 
         A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for—
 
@@ -73,11 +73,11 @@
 
             (B) not more than 7 years after the date of the original contract for rail procurements, provided that such option does not allow for significant changes or alterations to the rolling stock.
 
-        (2) __Cooperation among recipients.—__ 
+        (2)  __Cooperation among recipients__  __.—__ 
 
         The Secretary shall allow at least two recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
 
-    (f) __Acquiring Rolling Stock.—__ 
+    (f)  __Acquiring Rolling Stock__  __.—__ 
 
     A recipient of financial assistance under this chapter may enter into a contract to expend that assistance to acquire rolling stock—
 
@@ -91,25 +91,25 @@
 
         (2) with a party selected through a competitive procurement process.
 
-    (g) __Examination of Records.—__ 
+    (g)  __Examination of Records__  __.—__ 
 
     Upon request, the Secretary and the Comptroller General, or any of their representatives, shall have access to and the right to examine and inspect all records, documents, and papers, including contracts, related to a project for which a grant is made under this chapter.
 
-    (h) __Grant Prohibition.—__ 
+    (h)  __Grant Prohibition__  __.—__ 
 
     A grant awarded under this chapter or the Federal Public Transportation Act of 2012 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
 
-    (i) __Bus Dealer Requirements.—__ 
+    (i)  __Bus Dealer Requirements__  __.—__ 
 
     No State law requiring buses to be purchased through in-State dealers shall apply to vehicles purchased with a grant under this chapter.
 
     (j) __Awards to Responsible Contractors.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under the terms and conditions of a proposed procurement.
 
-        (2) __Criteria.—__ 
+        (2)  __Criteria__  __.—__ 
 
         Before making an award to a contractor under paragraph (1), a recipient shall consider—
 
@@ -121,7 +121,7 @@
 
             (D) the contractor’s financial and technical resources.
 
-    (k) __Veterans Employment.—__ 
+    (k)  __Veterans Employment__  __.—__ 
 
     Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in [section 2108 of title 5][/us/usc/t5/s2108]) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
 

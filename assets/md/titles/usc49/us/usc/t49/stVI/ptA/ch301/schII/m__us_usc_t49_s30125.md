@@ -15,7 +15,7 @@
 
 ## § 30125. Schoolbuses and schoolbus equipment
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,7 +23,7 @@
 
         (2) “schoolbus equipment” means equipment designed primarily for a schoolbus or manufactured or sold to replace or improve a system, part, or component of a schoolbus or as an accessory or addition to a schoolbus.
 
-    (b) __Standards.—__ 
+    (b)  __Standards__  __.—__ 
 
     The Secretary shall prescribe motor vehicle safety standards for schoolbuses and schoolbus equipment manufactured in, or imported into, the United States. Standards shall include minimum performance requirements for—
 
@@ -43,7 +43,7 @@
 
         (8) fuel systems.
 
-    (c) __Test Driving by Manufacturers.—__ 
+    (c)  __Test Driving by Manufacturers__  __.—__ 
 
     The Secretary may require by regulation a schoolbus to be test-driven by a manufacturer before introduction in commerce.
 

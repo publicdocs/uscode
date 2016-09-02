@@ -15,15 +15,15 @@
 
 ## § 5335. National transit database
 
-    (a) __National Transit Database.—__ 
+    (a)  __National Transit Database__  __.—__ 
 
     To help meet the needs of individual public transportation systems, the United States Government, State and local governments, and the public for information on which to base public transportation service planning, the Secretary shall maintain a reporting system, using uniform categories to accumulate public transportation financial, operating, and asset condition information and using a uniform system of accounts. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
 
-    (b) __Reporting and Uniform Systems.—__ 
+    (b)  __Reporting and Uniform Systems__  __.—__ 
 
     The Secretary may award a grant under section 5307 or 5311 only if the applicant, and any person that will receive benefits directly from the grant, are subject to the reporting and uniform systems.
 
-    (c) __Data Required to Be Reported.—__ 
+    (c)  __Data Required to Be Reported__  __.—__ 
 
     The recipient of a grant under this chapter shall report to the Secretary, for inclusion in the National Transit Database, any information relating to a transit asset inventory or condition assessment conducted by the recipient.
 

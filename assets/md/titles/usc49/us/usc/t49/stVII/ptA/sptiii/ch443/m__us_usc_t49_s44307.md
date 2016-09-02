@@ -15,21 +15,21 @@
 
 ## § 44307. Revolving fund
 
-    (a) __Existence, Disbursements, Appropriations, and Deposits.—__ 
+    (a)  __Existence, Disbursements, Appropriations, and Deposits__  __.—__ 
 
         (1) There is a revolving fund in the Treasury. The Secretary of the Treasury shall disburse from the fund payments to carry out this chapter.
 
         (2) Necessary amounts to carry out this chapter may be appropriated to the fund. The amounts appropriated and other amounts received in carrying out this chapter shall be deposited in the fund.
 
-    (b) __Investment.—__ 
+    (b)  __Investment__  __.—__ 
 
     On request of the Secretary of Transportation, the Secretary of the Treasury may invest any part of the amounts in the revolving fund in interest-bearing securities of the United States Government. The interest on, and the proceeds from the sale or redemption of, the securities shall be deposited in the fund.
 
-    (c) __Excess Amounts.—__ 
+    (c)  __Excess Amounts__  __.—__ 
 
     The balance in the revolving fund in excess of an amount the Secretary of Transportation determines is necessary for the requirements of the fund and for reasonable reserves to maintain the solvency of the fund shall be deposited at least annually in the Treasury as miscellaneous receipts.
 
-    (d) __Expenses.—__ 
+    (d)  __Expenses__  __.—__ 
 
     The Secretary of Transportation shall deposit annually an amount in the Treasury as miscellaneous receipts to cover the expenses the Government incurs when the Secretary of Transportation uses appropriated amounts in carrying out this chapter. The deposited amount shall equal an amount determined by multiplying the average monthly balance of appropriated amounts retained in the revolving fund by a percentage that is at least the current average rate payable on marketable obligations of the Government. The Secretary of the Treasury shall determine annually in advance the percentage applied.
 

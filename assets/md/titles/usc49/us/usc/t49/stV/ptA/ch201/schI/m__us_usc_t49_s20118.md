@@ -15,7 +15,7 @@
 
 ## § 20118. Prohibition on public disclosure of railroad safety analysis records
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as necessary for the Secretary of Transportation or another Federal agency to enforce or carry out any provision of Federal law, any part of any record (including, but not limited to, a railroad carrier’s analysis of its safety risks and its statement of the mitigation measures it has identified with which to address those risks) that the Secretary has obtained pursuant to a provision of, or regulation or order under, this chapter related to the establishment, implementation, or modification of a railroad safety risk reduction program or pilot program is exempt from the requirements of [section 552 of title 5][/us/usc/t5/s552] if the record is—
 
@@ -23,11 +23,11 @@
 
         (2) made available for inspection and copying by an officer, employee, or agent of the Secretary pursuant to that safety risk reduction program or pilot program.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Notwithstanding subsection (a), the Secretary may disclose any part of any record comprised of facts otherwise available to the public if, in the Secretary’s sole discretion, the Secretary determines that disclosure would be consistent with the confidentiality needed for that safety risk reduction program or pilot program.
 
-    (c) __Discretionary Prohibition of Disclosure.—__ 
+    (c)  __Discretionary Prohibition of Disclosure__  __.—__ 
 
     The Secretary may prohibit the public disclosure of risk analyses or risk mitigation analyses that the Secretary has obtained under other provisions of, or regulations or orders under, this chapter if the Secretary determines that the prohibition of public disclosure is necessary to promote railroad safety.
 

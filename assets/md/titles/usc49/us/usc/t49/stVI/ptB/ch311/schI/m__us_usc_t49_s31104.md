@@ -15,7 +15,7 @@
 
 ## § 31104. Availability of amounts
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsection (f), there are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out section 31102—
 
@@ -37,37 +37,37 @@
 
         (9) $218,000,000 for fiscal year 2014.
 
-    (b) __Availability and Reallocation of Amounts.—__ 
+    (b)  __Availability and Reallocation of Amounts__  __.—__ 
 
     Amounts made available under subsection (a) of this section remain available until expended. Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are released to the Secretary for reallocation.
 
-    (c) __Reimbursement for Government’s Share of Costs.—__ 
+    (c)  __Reimbursement for Government’s Share of Costs__  __.—__ 
 
     Amounts made available under subsection (a) of this section shall be used to reimburse States proportionately for the United States Government’s share of costs incurred.
 
-    (d) __Grants as Contractual Obligations.—__ 
+    (d)  __Grants as Contractual Obligations__  __.—__ 
 
     Approval by the Secretary of a grant to a State under [section 31102 of this title][/us/usc/t49/s31102] is a contractual obligation of the Government for payment of the Government’s share of costs incurred by the State in developing, implementing, or developing and implementing programs to enforce commercial motor vehicle regulations, standards, and orders.
 
-    (e) __Deduction for Administrative Expenses.—__ 
+    (e)  __Deduction for Administrative Expenses__  __.—__ 
 
     On October 1 of each fiscal year or as soon after that date as practicable, the Secretary may deduct, from amounts made available under subsection (a) of this section for that fiscal year, not more than 1.25 percent of those amounts for administrative expenses incurred in carrying out [section 31102 of this title][/us/usc/t49/s31102] in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Government employees and to develop related training materials in carrying out section 31102.
 
-    (f) __Allocation Criteria and Eligibility.—__ 
+    (f)  __Allocation Criteria and Eligibility__  __.—__ 
 
     On October 1 of each fiscal year or as soon after that date as practicable and after making the deduction under subsection (e), the Secretary shall allocate amounts made available to carry out section 31102 for such fiscal year among the States with plans approved under section 31102. Such allocation shall be made under such criteria as the Secretary prescribes by regulation.
 
-    (g) __Payment to States for Costs.—__ 
+    (g)  __Payment to States for Costs__  __.—__ 
 
     Each State shall submit vouchers for costs the State incurs under this section and [section 31102 of this title][/us/usc/t49/s31102]. The Secretary shall pay the State an amount not more than the Government share of costs incurred as of the date of the vouchers.
 
-    (h) __Intrastate Compatibility.—__ 
+    (h)  __Intrastate Compatibility__  __.—__ 
 
     The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under [section 31102(a) of this title][/us/usc/t49/s31102/a]. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under [section 153 of title 23][/us/usc/t23/s153], the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
     (i) __Administrative Expenses.—__ 
 
-        (1) __Authorization of appropriations.—__ 
+        (1)  __Authorization of appropriations__  __.—__ 
 
         There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
 
@@ -89,39 +89,39 @@
 
             (I) $259,000,000 for fiscal year 2014.
 
-        (2) __Use of funds.—__ 
+        (2)  __Use of funds__  __.—__ 
 
         The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
 
     (j) __Availability of Funds; Contract Authority.—__ 
 
-        (1) __Period of availability.—__ 
+        (1)  __Period of availability__  __.—__ 
 
         The amounts made available under this section shall remain available until expended.
 
-        (2) __Initial date of availability.—__ 
+        (2)  __Initial date of availability__  __.—__ 
 
         Authorizations from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
-        (3) __Contract authority.—__ 
+        (3)  __Contract authority__  __.—__ 
 
         Approval by the Secretary of a grant with funds made available under this section imposes upon the United States a contractual obligation for payment of the Government’s share of costs incurred in carrying out the objectives of the grant.
 
     (k) __High-Priority Activities.—__ 
 
-        (1) __Criteria.—__ 
+        (1)  __Criteria__  __.—__ 
 
         The Secretary shall establish safety performance criteria to be used to distribute high priority program funds under this subsection.
 
-        (2) __Set aside.—__ 
+        (2)  __Set aside__  __.—__ 
 
         The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2014 for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
 
-        (3) __Description of recipients.—__ 
+        (3)  __Description of recipients__  __.—__ 
 
         Amounts set aside under this subsection shall be allocated by the Secretary only to State agencies, local governments, and organizations representing government agencies or officials that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
 
-        (4) __Limitation.—__ 
+        (4)  __Limitation__  __.—__ 
 
         At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 

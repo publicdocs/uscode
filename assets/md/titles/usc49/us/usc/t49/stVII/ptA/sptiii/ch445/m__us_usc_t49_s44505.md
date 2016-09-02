@@ -15,7 +15,7 @@
 
 ## § 44505. Systems, procedures, facilities, and devices
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (3) When a substantial question exists under paragraph (1) of this subsection about whether a matter is of primary concern to the armed forces, the Administrator shall decide whether the Administrator or the Secretary of the appropriate military department has responsibility. The Administrator shall be given technical information related to each research and development project of the armed forces that potentially applies to, or potentially conflicts with, the common system to ensure that potential application to the common system is considered properly and that potential conflicts with the system are eliminated.
 
-    (b) __Research on Human Factors and Simulation Models.—__ 
+    (b)  __Research on Human Factors and Simulation Models__  __.—__ 
 
     The Administrator shall conduct or supervise research—
 
@@ -55,7 +55,7 @@
 
         (7) to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
 
-    (c) __Research on Developing and Maintaining a Safe and Efficient System.—__ 
+    (c)  __Research on Developing and Maintaining a Safe and Efficient System__  __.—__ 
 
     The Administrator shall conduct or supervise research on—
 
@@ -73,19 +73,19 @@
 
     (d) __Research on Design for Certification.—__ 
 
-        (1) __Research.—__ 
+        (1)  __Research__  __.—__ 
 
         Not later than 1 year after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall conduct research on methods and procedures to improve both confidence in and the timeliness of certification of new technologies for their introduction into the national airspace system.
 
-        (2) __Research plan.—__ 
+        (2)  __Research plan__  __.—__ 
 
         Not later than 6 months after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall develop a plan for the research under paragraph (1) that contains objectives, proposed tasks, milestones, and a 5-year budgetary profile.
 
-        (3) __Review.—__ 
+        (3)  __Review__  __.—__ 
 
         The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2) and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
 
-    (e) __Cooperative Agreements.—__ 
+    (e)  __Cooperative Agreements__  __.—__ 
 
     The Administrator may enter into cooperative agreements on a cost-shared basis with Federal and non-Federal entities that the Administrator may select in order to conduct, encourage, and promote aviation research, engineering, and development, including the development of prototypes and demonstration models.
 
@@ -263,15 +263,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 112–95, title V, § 507][/us/pl/112/95/s507], Feb. 14, 2012, [126 Stat. 106][/us/stat/126/106], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) \[probably means [section 48101(a) of title 49][/us/usc/t49/s48101/a], United States Code\] to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft.
 
->     “(b) __Selection Criteria.—__ 
+>     “(b)  __Selection Criteria__  __.—__ 
 
 >     In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
 
->     “(c) __Maximum Amount.—__ 
+>     “(c)  __Maximum Amount__  __.—__ 
 
 >     Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport.”
 
@@ -315,11 +315,11 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 108–176, title VII, § 705][/us/pl/108/176/s705], Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall review and determine whether the Federal Aviation Administration’s standards used to determine the appropriate thickness for asphalt and concrete airfield pavements are in accordance with the Federal Aviation Administration’s standard 20-year-life requirement using the most up-to-date available information on the life of airfield pavements. If the Administrator determines that such standards are not in accordance with that requirement, the Administrator shall make appropriate adjustments to the Federal Aviation Administration’s standards for airfield pavements.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science, Space, and Technology\].”
 
@@ -327,19 +327,19 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title I, § 157][/us/pl/106/181/s157], Apr. 5, 2000, [114 Stat. 89][/us/stat/114/89], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use of recycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
 
->     “(b) __Contracting.—__ 
+>     “(b)  __Contracting__  __.—__ 
 
 >     The Administrator may carry out the study by entering into a contract with a university of higher education with expertise necessary to carry out the study.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study, together with recommendations concerning the use of recycled materials in aviation pavement.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Of the amounts appropriated pursuant to [section 106(k) of title 49][/us/usc/t49/s106/k], United States Code, not to exceed $1,500,000 may be used to carry out this section.”
 
@@ -347,7 +347,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title I, § 160][/us/pl/106/181/s160], Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that:
 
->     “(a) __Evaluation of Options.—__ 
+>     “(a)  __Evaluation of Options__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] shall evaluate options for improving the quality of information available to the Federal Aviation Administration on airfield pavement conditions for airports that are part of the national air transportation system, including—
 
@@ -357,7 +357,7 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 >         “(3) requiring all such airports to submit pavement condition index information on a regular basis and using this information to create a pavement condition database that could be used in evaluating the cost-effectiveness of project applications and forecasting anticipated pavement needs.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit a report containing an evaluation of the options described in subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
 
@@ -365,31 +365,31 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title III, § 304][/us/pl/106/181/s304], Apr. 5, 2000, [114 Stat. 122][/us/stat/114/122], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to improve aviation safety and enhance mobility of the Nation’s air transportation system by encouraging non-Federal investment on a pilot program basis in critical air traffic control facilities and equipment.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     Subject to the requirements of this section, the Secretary \[of Transportation\] shall carry out a pilot program under which the Secretary may make grants to project sponsors for not more than 10 eligible projects.
 
->     “(c) __Federal Share.—__ 
+>     “(c)  __Federal Share__  __.—__ 
 
 >     The Federal share of the cost of an eligible project carried out under the program shall not exceed 33 percent. The non-Federal share of the cost of an eligible project shall be provided from non-Federal sources, including revenues collected pursuant to [section 40117 of title 49][/us/usc/t49/s40117], United States Code.
 
->     “(d) __Limitation on Grant Amounts.—__ 
+>     “(d)  __Limitation on Grant Amounts__  __.—__ 
 
 >     No eligible project may receive more than $15,000,000 under the program.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     The Secretary shall use amounts appropriated under [section 48101(a) of title 49][/us/usc/t49/s48101/a], United States Code, for fiscal years 2001 through 2003 to carry out the program.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Eligible project.—__ 
+>         “(1)  __Eligible project__  __.—__ 
 
 >         The term ‘eligible project’ means a project relating to the Nation’s air traffic control system that is certified or approved by the Administrator \[of the Federal Aviation Administration\] and that promotes safety, efficiency, or mobility. Such projects may include—
 
@@ -399,15 +399,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 >             “(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, or assist in en route surveillance, including oceanic and offshore flight tracking.
 
->         “(2) __Project sponsor.—__ 
+>         “(2)  __Project sponsor__  __.—__ 
 
 >         The term ‘project sponsor’ means a public-use airport or a joint venture between a public-use airport and one or more air carriers.
 
->     “(g) __Transfers of Equipment.—__ 
+>     “(g)  __Transfers of Equipment__  __.—__ 
 
 >     Notwithstanding any other provision of law, project sponsors may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
 
->     “(h) __Guidelines.—__ 
+>     “(h)  __Guidelines__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall issue advisory guidelines on the implementation of the program.”
 
@@ -415,15 +415,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title V, § 516][/us/pl/106/181/s516], Apr. 5, 2000, [114 Stat. 145][/us/stat/114/145], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the role of aircraft dispatchers in enhancing aviation safety.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The study shall include an assessment of whether or not aircraft dispatchers should be required for those operations not presently requiring aircraft dispatcher assistance, operational control issues related to the aircraft dispatching functions, and whether or not designation of positions within the Federal Aviation Administration for oversight of dispatchers would enhance aviation safety.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section.”
 
@@ -431,11 +431,11 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title V, § 520][/us/pl/106/181/s520], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] shall conduct a study to determine the number of persons working at airports who are injured or killed as a result of being struck by a moving vehicle while on an airport tarmac, the seriousness of the injuries to such persons, and whether or not reflective safety vests or other actions should be required to enhance the safety of such workers.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study conducted under this section.”
 
@@ -443,15 +443,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 106–181, title VII, § 743][/us/pl/106/181/s743], Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] may conduct a study on the impact of alkali silica reactivity distress on airport runways and taxiways and the use of lithium salts and other alternatives for mitigation and prevention of such distress. The study shall include a determination based on in-the-field inspections followed by petrographic analysis or other similar techniques.
 
->     “(b) __Authority To Make Grants.—__ 
+>     “(b)  __Authority To Make Grants__  __.—__ 
 
 >     The Administrator may carry out the study by making a grant to, or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of initiation of the study under subsection (a), the Administrator shall transmit to Congress a report on the results of the study.”
 
@@ -459,15 +459,15 @@ In this section, the word “Administrator” in section 312(c) of the Federal A
 
 [Pub. L. 108–176, title VII, § 704][/us/pl/108/176/s704], Dec. 12, 2003, [117 Stat. 2581][/us/stat/117/2581], provided that:
 
->     “(a) __Continuation of Program.—__ 
+>     “(a)  __Continuation of Program__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall continue the program to consider awards to nonprofit concrete and asphalt pavement research foundations to improve the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements.
 
->     “(b) __Use of Grants or Cooperative Agreements.—__ 
+>     “(b)  __Use of Grants or Cooperative Agreements__  __.—__ 
 
 >     The Administrator may use grants or cooperative agreements in carrying out this section.
 
->     “(c) __Statutory Construction.—__ 
+>     “(c)  __Statutory Construction__  __.—__ 
 
 >     Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 

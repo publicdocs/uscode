@@ -127,7 +127,7 @@ Mar. 4, 1907, ch. 2939, § 1(b)(2), 34 Stat. 1415; restated Dec. 26, 1969, Pub
 
 [Pub. L. 110–432, div. A, title I, § 108(f)][/us/pl/110/432/s108/f], Oct. 16, 2008, [122 Stat. 4866][/us/stat/122/4866], provided that:
 
->     “(1) __Regulations.—__ 
+>     “(1)  __Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall prescribe a regulation revising the requirements for recordkeeping and reporting for Hours of Service of Railroad Employees contained in part 228 of title 49, Code of Federal Regulations—
 
@@ -137,7 +137,7 @@ Mar. 4, 1907, ch. 2939, § 1(b)(2), 34 Stat. 1415; restated Dec. 26, 1969, Pub
 
 >         “(C) to require training of affected employees and supervisors, including training of employees in the entry of hours of service data.
 
->     “(2) __Procedure.—__ 
+>     “(2)  __Procedure__  __.—__ 
 
 >     In lieu of issuing a notice of proposed rulemaking as contemplated by [section 553 of title 5][/us/usc/t5/s553], United States Code, the Secretary may utilize the Railroad Safety Advisory Committee to assist in development of the regulation. The Secretary may propose and adopt amendments to the revised regulations thereafter as may be necessary in light of experience under the revised requirements.”
 

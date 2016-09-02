@@ -15,19 +15,19 @@
 
 ## § 60301. User fees
 
-    (a) __Schedule of Fees.—__ 
+    (a)  __Schedule of Fees__  __.—__ 
 
     The Secretary of Transportation shall prescribe a schedule of fees for all natural gas and hazardous liquids transported by pipelines subject to chapter 601 of this title. The fees shall be based on usage (in reasonable relationship to volume-miles, miles, revenues, or a combination of volume-miles, miles, and revenues) of the pipelines. The Secretary shall consider the allocation of resources of the Department of Transportation when establishing the schedule.
 
-    (b) __Imposition and Time of Collection.—__ 
+    (b)  __Imposition and Time of Collection__  __.—__ 
 
     A fee shall be imposed on each person operating a gas pipeline transmission facility, a liquefied natural gas pipeline facility, or a hazardous liquid pipeline facility to which chapter 601 of this title applies. The fee shall be collected before the end of the fiscal year to which it applies.
 
-    (c) __Means of Collection.—__ 
+    (c)  __Means of Collection__  __.—__ 
 
     The Secretary shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
 
-    (d) __Use of Fees.—__ 
+    (d)  __Use of Fees__  __.—__ 
 
     A fee collected under this section—
 
@@ -39,7 +39,7 @@
 
         (2) may be used only to the extent provided in advance in an appropriation law.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
     Fees prescribed under subsection (a) of this section shall be sufficient to pay for the costs of activities described in subsection (d) of this section. However, the total amount collected for a fiscal year may not be more than 105 percent of the total amount of the appropriations made for the fiscal year for activities to be financed by the fees.
 
@@ -165,7 +165,7 @@ Apr. 7, 1986, Pub. L. 99–272, § 7005, 100 Stat. 140.  </td>
 
 [Pub. L. 104–304, § 17][/us/pl/104/304/s17], Oct. 12, 1996, [110 Stat. 3803][/us/stat/110/3803], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary of Transportation shall transmit to the Congress a report analyzing the present assessment of pipeline safety user fees solely on the basis of mileage to determine whether—
 
@@ -173,7 +173,7 @@ Apr. 7, 1986, Pub. L. 99–272, § 7005, 100 Stat. 140.  </td>
 
 >         “(2) another basis of assessment would be a more appropriate measure of those resources.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In making the report, the Secretary shall consider a wide range of assessment factors and suggestions and comments from the public.”
 

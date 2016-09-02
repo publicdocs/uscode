@@ -15,15 +15,15 @@
 
 ## § 6303. Intermodal transportation database
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In consultation with the Under Secretary Transportation for Policy, the Assistant Secretaries of the Department, and the heads of the operating administrations of the Department, the Director shall establish and maintain a transportation database for all modes of transportation.
 
-    (b) __Use.—__ 
+    (b)  __Use__  __.—__ 
 
     The database established under this section shall be suitable for analyses carried out by the Federal Government, the States, and metropolitan planning organizations.
 
-    (c) __Contents.—__ 
+    (c)  __Contents__  __.—__ 
 
     The database established under this section shall include—
 

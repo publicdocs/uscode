@@ -17,25 +17,25 @@
 
     (a) __Limitation.—__ 
 
-        (1) __Issuance of licenses.—__ 
+        (1)  __Issuance of licenses__  __.—__ 
 
         A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Homeland Security has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
 
-        (2) __Renewals included.—__ 
+        (2)  __Renewals included__  __.—__ 
 
         For the purposes of this section, the term “issue”, with respect to a license, includes renewal of the license.
 
-    (b) __Hazardous Materials Described.—__ 
+    (b)  __Hazardous Materials Described__  __.—__ 
 
     The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary of Transportation for which the Secretary of Transportation requires placarding of a commercial motor vehicle transporting that material in commerce.
 
-    (c) __Recommendations on Chemical and Biological Materials.—__ 
+    (c)  __Recommendations on Chemical and Biological Materials__  __.—__ 
 
     The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as a hazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
 
     (d) __Background Records Check.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
 
@@ -43,7 +43,7 @@
 
             (B) upon completing the background records check, shall notify the Secretary of Homeland Security of the completion and results of the background records check.
 
-        (2) __Scope.—__ 
+        (2)  __Scope__  __.—__ 
 
         A background records check regarding an individual under this subsection shall consist of the following:
 
@@ -53,7 +53,7 @@
 
             (C) As appropriate, a check of the relevant international data bases through Interpol–U.S. National Central Bureau or other appropriate means.
 
-    (e) __Reporting Requirement.—__ 
+    (e)  __Reporting Requirement__  __.—__ 
 
     Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other information as the Secretary of Homeland Security may require, concerning—
 
@@ -61,7 +61,7 @@
 
         (2) each other individual to whom such a license is issued, as the Secretary of Homeland Security may require.
 
-    (f) __Alien Defined.—__ 
+    (f)  __Alien Defined__  __.—__ 
 
     In this section, the term “alien” has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
 
@@ -69,7 +69,7 @@
 
         (1) __In general.—__ 
 
-            (A) __Employer notification.—__ 
+            (A)  __Employer notification__  __.—__ 
 
             Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant’s background record check, if—
 
@@ -79,7 +79,7 @@
 
             (B) __Relationship to other background records checks.—__ 
 
-                (i) __Elimination of redundant checks.—__ 
+                (i)  __Elimination of redundant checks__  __.—__ 
 
                 An individual with respect to whom the Transportation Security Administration—
 
@@ -89,15 +89,15 @@
 
                  is deemed to have met the requirements of any other background check that is required for purposes of any Federal law applicable to transportation workers if that background check is equivalent to, or less stringent than, the background check required under this section.
 
-                (ii) __Determination by director.—__ 
+                (ii)  __Determination by director__  __.—__ 
 
                 Not later than 60 days after the date of issuance of the report under paragraph (5), but no later than 120 days after the date of enactment of this subsection, the Director shall initiate a rulemaking proceeding, including notice and opportunity for comment, to determine which background checks required for purposes of Federal laws applicable to transportation workers are equivalent to, or less stringent than, those required under this section.
 
-                (iii) __Future rulemakings.—__ 
+                (iii)  __Future rulemakings__  __.—__ 
 
                 The Director shall make a determination under the criteria established under clause (ii) with respect to any rulemaking proceeding to establish or modify required background checks for transportation workers initiated after the date of enactment of this subsection.
 
-        (2) __Appeals process for more stringent state procedures.—__ 
+        (2)  __Appeals process for more stringent state procedures__  __.—__ 
 
         If a State establishes its own standards for applicants for a hazardous materials endorsement to a commercial driver’s license, the State shall also provide—
 
@@ -105,21 +105,21 @@
 
             (B) a waiver process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver’s license by that State may apply for a waiver.
 
-        (3) __Clarification of term defined in regulations.—__ 
+        (3)  __Clarification of term defined in regulations__  __.—__ 
 
         The term “transportation security incident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
 
-        (4) __Background check capacity.—__ 
+        (4)  __Background check capacity__  __.—__ 
 
         Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver’s licenses who are applying to renew hazardous materials endorsements.
 
         (5) __Report.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 60 days after the date of enactment of this subsection, the Director shall transmit to the committees referred to in paragraph (4) a report on the Director’s plans to reduce or eliminate redundant background checks for holders of hazardous materials endorsements performed under this section.
 
-            (B) __Contents.—__ 
+            (B)  __Contents__  __.—__ 
 
             The report shall—
 
@@ -129,15 +129,15 @@
 
     (h) __Commercial Motor Vehicle Operators Registered to Operate in Mexico or Canada.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canada shall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
 
-        (2) __Extension.—__ 
+        (2)  __Extension__  __.—__ 
 
         The Director of the Transportation Security Administration may extend the deadline established by paragraph (1) for a period not to exceed 6 months if the Director determines that such an extension is necessary.
 
-        (3) __Commercial motor vehicle defined.—__ 
+        (3)  __Commercial motor vehicle defined__  __.—__ 
 
         In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
 

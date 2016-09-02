@@ -15,7 +15,7 @@
 
 ## § 32903. Credits for exceeding average fuel economy standards
 
-    (a) __Earning and Period for Applying Credits.—__ 
+    (a)  __Earning and Period for Applying Credits__  __.—__ 
 
     When the average fuel economy of passenger automobiles manufactured by a manufacturer in a particular model year exceeds an applicable average fuel economy standard under subsections (a) through (d) of section 32902 (determined by the Secretary of Transportation without regard to credits under this section), the manufacturer earns credits. The credits may be applied to—
 
@@ -23,7 +23,7 @@
 
         (2) to the extent not used under paragraph (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  any of the 5 consecutive model years immediately after the model year for which the credits are earned.
 
-    (b) __Period of Availability and Plan for Future Credits.—__ 
+    (b)  __Period of Availability and Plan for Future Credits__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, credits under this section are available to a manufacturer at the end of the model year in which earned.
 
@@ -39,7 +39,7 @@
 
             (B) If the average fuel economy of a manufacturer is less than the applicable standard under subsections (a) through (d) of section 32902 after applying credits under subsection (a)(1) of this section, the Secretary of Transportation shall notify the manufacturer and give the manufacturer a reasonable time (of at least 60 days) to submit a plan.
 
-    (c) __Determining Number of Credits.—__ 
+    (c)  __Determining Number of Credits__  __.—__ 
 
     The number of credits a manufacturer earns under this section equals the product of—
 
@@ -47,35 +47,35 @@
 
         (2) the number of passenger automobiles manufactured by the manufacturer during that model year.
 
-    (d) __Applying Credits for Passenger Automobiles.—__ 
+    (d)  __Applying Credits for Passenger Automobiles__  __.—__ 
 
     The Secretary of Transportation shall apply credits to a model year on the basis of the number of tenths of a mile a gallon by which the manufacturer involved was below the applicable average fuel economy standard for that model year and the number of passenger automobiles manufactured that model year by the manufacturer. Credits applied to a model year are no longer available for another model year. Before applying credits, the Secretary shall give the manufacturer written notice and reasonable opportunity to comment.
 
-    (e) __Applying Credits for Non-Passenger Automobiles.—__ 
+    (e)  __Applying Credits for Non-Passenger Automobiles__  __.—__ 
 
     Credits for a manufacturer of automobiles that are not passenger automobiles are earned and applied to a model year in which the average fuel economy of that class of automobiles is below the applicable average fuel economy standard under [section 32902(a) of this title][/us/usc/t49/s32902/a], to the same extent and in the same way as provided in this section for passenger automobiles.
 
     (f) __Credit Trading Among Manufacturers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation may establish, by regulation, a fuel economy credit trading program to allow manufacturers whose automobiles exceed the average fuel economy standards prescribed under section 32902 to earn credits to be sold to manufacturers whose automobiles fail to achieve the prescribed standards such that the total oil savings associated with manufacturers that exceed the prescribed standards are preserved when trading credits to manufacturers that fail to achieve the prescribed standards.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         The trading of credits by a manufacturer to the category of passenger automobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements of section 32902(b)(4), without regard to any trading of credits from other manufacturers.
 
     (g) __Credit Transferring Within a Manufacturer’s Fleet.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation shall establish by regulation a fuel economy credit transferring program to allow any manufacturer whose automobiles exceed any of the average fuel economy standards prescribed under section 32902 to transfer the credits earned under this section and to apply such credits within that manufacturer’s fleet to a compliance category of automobiles that fails to achieve the prescribed standards.
 
-        (2) __Years for which used.—__ 
+        (2)  __Years for which used__  __.—__ 
 
         Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such credits under subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
 
-        (3) __Maximum increase.—__ 
+        (3)  __Maximum increase__  __.—__ 
 
         The maximum increase in any compliance category attributable to transferred credits is—
 
@@ -85,23 +85,23 @@
 
             (C) for model year 2018 and subsequent model years, 2.0 miles per gallon.
 
-        (4) __Limitation.—__ 
+        (4)  __Limitation__  __.—__ 
 
         The transfer of credits by a manufacturer to the category of passenger automobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements under section 32904(b)(4), without regard to any transfer of credits from other categories of automobiles described in paragraph (6)(B).
 
-        (5) __Years available.—__ 
+        (5)  __Years available__  __.—__ 
 
         A credit may be transferred under this subsection only if it is earned after model year 2010.
 
-        (6) __Definitions.—__ 
+        (6)  __Definitions__  __.—__ 
 
         In this subsection:
 
-            (A) __Fleet.—__ 
+            (A)  __Fleet__  __.—__ 
 
             The term “fleet” means all automobiles manufactured by a manufacturer in a particular model year.
 
-            (B) __Compliance category of automobiles.—__ 
+            (B)  __Compliance category of automobiles__  __.—__ 
 
             The term “compliance category of automobiles” means any of the following 3 categories of automobiles for which compliance is separately calculated under this chapter:
 
@@ -111,7 +111,7 @@
 
                 (iii) Non-passenger automobiles.
 
-    (h) __Refund of Collected Penalty.—__ 
+    (h)  __Refund of Collected Penalty__  __.—__ 
 
     When a civil penalty has been collected under this chapter from a manufacturer that has earned credits under this section, the Secretary of the Treasury shall refund to the manufacturer the amount of the penalty to the extent the penalty is attributable to credits available under this section.
 

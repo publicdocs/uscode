@@ -121,11 +121,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 [Pub. L. 109–59, title X, § 10302][/us/pl/109/59/s10302], Aug. 10, 2005, [119 Stat. 1940][/us/stat/119/1940], provided that:
 
->     “(a) __Rulemaking.—__ 
+>     “(a)  __Rulemaking__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall complete a rulemaking proceeding under chapter 301 of title 49, United States Code, to establish a standard designed to enhance passenger motor vehicle occupant protection, in all seating positions, in side impact crashes. The Secretary shall issue a final rule by July 1, 2008.
 
->     “(b) __Deadlines.—__ 
+>     “(b)  __Deadlines__  __.—__ 
 
 >     If the Secretary determines that the deadline for a final rule under this section cannot be met, the Secretary shall—
 
@@ -139,11 +139,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 > “SEC. 10304. __VEHICLE BACKOVER AVOIDANCE TECHNOLOGY STUDY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the National Highway Traffic Safety Administration shall conduct a study of effective methods for reducing the incidence of injury and death outside of parked passenger motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds attributable to movement of such vehicles. The Administrator shall complete the study within 1 year after the date of enactment of this Act \[Aug. 10, 2005\] and report its findings to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce not later than 15 months after the date of enactment of this Act.
 
->     “(b) __Specific Issues To Be Covered.—__ 
+>     “(b)  __Specific Issues To Be Covered__  __.—__ 
 
 >     The study required by subsection (a) shall—
 
@@ -161,11 +161,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 > “SEC. 10305. __NONTRAFFIC INCIDENT DATA COLLECTION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In conjunction with the study required in section 10304, the National Highway Traffic Safety Administration shall establish a method to collect and maintain data on the number and types of injuries and deaths involving motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds in non-traffic incidents.
 
->     “(b) __Data Collection and Publication.—__ 
+>     “(b)  __Data Collection and Publication__  __.—__ 
 
 >     The Secretary of Transportation shall publish the data collected under subsection (a) no less frequently than biennially.”
 
@@ -185,7 +185,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 > “SEC. 2502. __GENERAL PROVISIONS.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     As used in this part—
 
@@ -201,37 +201,37 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 >     “(b) __Procedure.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), any action taken under section 2503 shall be taken in accordance with the applicable provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] [15 U.S.C. 1381][/us/usc/t15/s1381] et seq.).
 
 >         “(2) __Specific procedure.—__ 
 
->             “(A) __Initiation.—__ 
+>             “(A)  __Initiation__  __.—__ 
 
 >             To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] [15 U.S.C. 1381][/us/usc/t15/s1381] et seq.), including the provisions of section 103 of such Act (\[formerly\] [15 U.S.C. 1392][/us/usc/t15/s1392]), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 >             “(B) __Completion.—__ 
 
->                 “(i) __Period.—__ 
+>                 “(i)  __Period__  __.—__ 
 
 >                 Action under paragraphs (1) through (4) of section 2503 which was begun under subparagraph (A) shall be completed within 26 months of the date of publication of an advance notice of proposed rulemaking or 18 months of the date of publication of a notice of proposed rulemaking. The Secretary may extend for any reason the period for completion of a rulemaking initiated by the issuance of a notice of proposed rulemaking for not more than 6 months if the Secretary publishes the reasons for such extension. The extension of such period shall not be considered agency action subject to judicial review.
 
->                 “(ii) __Action.—__ 
+>                 “(ii)  __Action__  __.—__ 
 
 >                 A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly [15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\].
 
 >                 “(iii) __Special rule.—__ 
 
->                          “(I) __Period.—__ 
+>                          “(I)  __Period__  __.—__ 
 
 >                     Action under paragraph (5) of section 2503 which was begun under subparagraph (A) shall be completed within 24 months of the date of publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking. If the Secretary determines that there is a need for delay and if the public comment period is closed, the Secretary may extend the date for completion for not more than 6 months and shall publish in the Federal Register a notice stating the reasons for the extension and setting a date certain for completion of the action. The extension of the completion date shall not be considered agency action subject to judicial review.
 
->                          “(II) __Action.—__ 
+>                          “(II)  __Action__  __.—__ 
 
 >                     A rulemaking under paragraph (5) of section 2503 shall be considered completed when the Secretary promulgates a final rule with standards on improved head injury protection.
 
->             “(C) __Standard.—__ 
+>             “(C)  __Standard__  __.—__ 
 
 >             The Secretary may, as part of any action taken under section 2503, amend any motor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] [15 U.S.C. 1381][/us/usc/t15/s1381] et seq.).
 
@@ -267,11 +267,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
 [Pub. L. 93–492, title I, § 108][/us/pl/93/492/s108], Oct. 27, 1974, [88 Stat. 1482][/us/stat/88/1482], provided that:
 
->     “(a) __Ratification of Standard.—__ 
+>     “(a)  __Ratification of Standard__  __.—__ 
 
 >     Federal Motor Vehicle Safety Standard Number 301 (49 CFR 571.301–75; Docket No. 73–20, Notice 2) as published on March 21, 1974 (39 F.R. 10588–10590) shall take effect on the dates prescribed in such standard (as so published).
 
->     “(b) __Amendment or Repeal of Standard.—__ 
+>     “(b)  __Amendment or Repeal of Standard__  __.—__ 
 
 >     The Secretary may amend the standard described in subsection (a) in order to correct technical errors in the standard, and may amend or repeal such standard if he determines such amendment or repeal will not diminish the level of motor vehicle safety.”
 

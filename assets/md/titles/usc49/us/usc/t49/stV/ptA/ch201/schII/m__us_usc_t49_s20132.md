@@ -15,7 +15,7 @@
 
 ## § 20132. Visible markers for rear cars
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations and issue orders that may be necessary to require that—
 
@@ -23,7 +23,7 @@
 
         (2) the rear car of each freight train has highly visible markers during darkness and when weather conditions restrict clear visibility.
 
-    (b) __Preemption.—__ 
+    (b)  __Preemption__  __.—__ 
 
     Notwithstanding [section 20106 of this title][/us/usc/t49/s20106], subsection (a) of this section does not prohibit a State from continuing in force a law, regulation, or order in effect on July 8, 1976, related to lighted markers on the rear car of a freight train except to the extent it would cause the car to be in violation of this section.
 

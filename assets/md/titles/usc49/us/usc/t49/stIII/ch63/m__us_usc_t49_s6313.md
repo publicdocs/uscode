@@ -17,7 +17,7 @@
 
     (a) __Freight Data Collection.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An owner, official, agent, person in charge, or assistant to the person in charge of a freight corporation, company, business, institution, establishment, or organization described in paragraph (2) shall be fined in accordance with subsection (b) if that individual neglects or refuses, when requested by the Director or other authorized officer, employee, or contractor of the Bureau to submit data under section 6302(b)(3)(B)—
 
@@ -25,7 +25,7 @@
 
             (B) to make available records or statistics in the official custody of the individual.
 
-        (2) __Description of entities.—__ 
+        (2)  __Description of entities__  __.—__ 
 
         A freight corporation, company, business, institution, establishment, or organization referred to in paragraph (1) is a corporation, company, business, institution, establishment, or organization that—
 
@@ -41,11 +41,11 @@
 
     (b) __Fines.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), an individual described in subsection (a) shall be fined not more than $500.
 
-        (2) __Willful actions.—__ 
+        (2)  __Willful actions__  __.—__ 
 
         If an individual willfully gives a false answer to a question described in subsection (a)(1), the individual shall be fined not more than $10,000.
 

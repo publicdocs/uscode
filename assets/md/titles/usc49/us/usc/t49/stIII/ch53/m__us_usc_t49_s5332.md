@@ -15,21 +15,21 @@
 
 ## § 5332. Nondiscrimination
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “person” includes a governmental authority, political subdivision, authority, legal representative, trust, unincorporated organization, trustee, trustee in bankruptcy, and receiver.
 
-    (b) __Prohibitions.—__ 
+    (b)  __Prohibitions__  __.—__ 
 
     A person may not be excluded from participating in, denied a benefit of, or discriminated against under, a project, program, or activity receiving financial assistance under this chapter because of race, color, religion, national origin, sex, disability, or age.
 
-    (c) __Compliance.—__ 
+    (c)  __Compliance__  __.—__ 
 
         (1) The Secretary shall take affirmative action to ensure compliance with subsection (b) of this section.
 
         (2) When the Secretary decides that a person receiving financial assistance under this chapter is not complying with subsection (b) of this section, a civil rights law of the United States, or a regulation or order under that law, the Secretary shall notify the person of the decision and require action be taken to ensure compliance with subsection (b).
 
-    (d) __Authority of Secretary for Noncompliance.—__ 
+    (d)  __Authority of Secretary for Noncompliance__  __.—__ 
 
     If a person does not comply with subsection (b) of this section within a reasonable time after receiving notice, the Secretary shall—
 
@@ -41,7 +41,7 @@
 
         (4) take any other action provided by law.
 
-    (e) __Civil Actions by Attorney General.—__ 
+    (e)  __Civil Actions by Attorney General__  __.—__ 
 
     The Attorney General may bring a civil action for appropriate relief when—
 
@@ -49,7 +49,7 @@
 
         (2) the Attorney General believes a person is engaged in a pattern or practice in violation of this section.
 
-    (f) __Application and Relationship to Other Laws.—__ 
+    (f)  __Application and Relationship to Other Laws__  __.—__ 
 
     This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.).
 

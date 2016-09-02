@@ -15,11 +15,11 @@
 
 ## § 1151. Aviation enforcement
 
-    (a) __Civil Actions by Board.—__ 
+    (a)  __Civil Actions by Board__  __.—__ 
 
     The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
 
-    (b) __Civil Actions by Attorney General.—__ 
+    (b)  __Civil Actions by Attorney General__  __.—__ 
 
     On request of the Board, the Attorney General may bring a civil action in an appropriate court—
 
@@ -27,7 +27,7 @@
 
         (2) to prosecute a person violating those sections or a regulation prescribed or order issued under any of those sections.
 
-    (c) __Participation of Board.—__ 
+    (c)  __Participation of Board__  __.—__ 
 
     On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
 

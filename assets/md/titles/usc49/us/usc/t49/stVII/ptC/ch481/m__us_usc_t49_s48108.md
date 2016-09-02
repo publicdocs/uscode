@@ -15,17 +15,17 @@
 
 ## § 48108. Availability and uses of amounts
 
-    (a) __Availability of Amounts.—__ 
+    (a)  __Availability of Amounts__  __.—__ 
 
     Amounts equal to the amounts authorized under sections 48101–48105 of this title remain in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) until appropriated for the purposes of sections 48101–48105.
 
-    (b) __Limitations on Uses.—__ 
+    (b)  __Limitations on Uses__  __.—__ 
 
         (1) Amounts in the Fund may be appropriated only to carry out a program or activity referred to in this chapter.
 
         (2) Amounts in the Fund may be appropriated for administrative expenses of the Department of Transportation or a component of the Department only to the extent authorized by [section 48104 of this title][/us/usc/t49/s48104].
 
-    (c) __Limitation on Obligating or Expending Amounts.—__ 
+    (c)  __Limitation on Obligating or Expending Amounts__  __.—__ 
 
     In a fiscal year beginning after September 30, 1998, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under [section 48104 of this title][/us/usc/t49/s48104] only if a law expressly amends section 48104.
 

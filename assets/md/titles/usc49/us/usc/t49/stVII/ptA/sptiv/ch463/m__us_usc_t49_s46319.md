@@ -15,15 +15,15 @@
 
 ## § 46319. Permanent closure of an airport without providing sufficient notice
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A public agency (as defined in section 47102) may not permanently close an airport listed in the national plan of integrated airport systems under section 47103 without providing written notice to the Administrator of the Federal Aviation Administration at least 30 days before the date of the closure.
 
-    (b) __Publication of Notice.—__ 
+    (b)  __Publication of Notice__  __.—__ 
 
     The Administrator shall publish each notice received under subsection (a) in the Federal Register.
 
-    (c) __Civil Penalty.—__ 
+    (c)  __Civil Penalty__  __.—__ 
 
     A public agency violating subsection (a) shall be liable for a civil penalty of $10,000 for each day that the airport remains closed without having given the notice required by this section.
 

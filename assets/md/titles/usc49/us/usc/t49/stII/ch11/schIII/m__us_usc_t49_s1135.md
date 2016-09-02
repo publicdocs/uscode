@@ -15,7 +15,7 @@
 
 ## § 1135. Secretary of Transportation’s responses to safety recommendations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give to the Board a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
 
@@ -25,21 +25,21 @@
 
         (3) to refuse to carry out procedures to adopt the recommendation.
 
-    (b) __Timetable for Completing Procedures and Reasons for Refusals.—__ 
+    (b)  __Timetable for Completing Procedures and Reasons for Refusals__  __.—__ 
 
     A response under subsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
 
-    (c) __Public Availability.—__ 
+    (c)  __Public Availability__  __.—__ 
 
     The Board shall make a copy of each recommendation and response available to the public at reasonable cost.
 
     (d) __Annual Report on Air Carrier Safety Recommendations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
 
-        (2) __Recommendations to be covered.—__ 
+        (2)  __Recommendations to be covered__  __.—__ 
 
         The report shall cover—
 
@@ -49,7 +49,7 @@
 
         (3) __Contents.—__ 
 
-            (A) __Plans to adopt recommendations.—__ 
+            (A)  __Plans to adopt recommendations__  __.—__ 
 
             For each recommendation of the Board described in paragraph (2)(A), the report shall contain—
 
@@ -61,7 +61,7 @@
 
                 (iv) if the Secretary has not met a deadline contained in a proposed timeline developed in connection with the recommendation under subsection (b), an explanation for not meeting the deadline.
 
-            (B) __Refusals to adopt recommendations.—__ 
+            (B)  __Refusals to adopt recommendations__  __.—__ 
 
             For each recommendation of the Board described in paragraph (2)(B), the report shall contain—
 
@@ -71,15 +71,15 @@
 
     (e) __Reporting Requirements.—__ 
 
-        (1) __Annual secretarial regulatory status reports.—__ 
+        (1)  __Annual secretarial regulatory status reports__  __.—__ 
 
         On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board’s “most wanted list”. The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
 
-        (2) __Failure to report.—__ 
+        (2)  __Failure to report__  __.—__ 
 
         If on March 1 of each year the Board has not received the Secretary’s report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary’s failure to submit the required report.
 
-        (3) __Compliance report with recommendations.—__ 
+        (3)  __Compliance report with recommendations__  __.—__ 
 
         Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary’s report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
@@ -183,7 +183,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
 [Pub. L. 108–168, § 9][/us/pl/108/168/s9], Dec. 6, 2003, [117 Stat. 2035][/us/stat/117/2035], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Within 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the Secretary of Transportation shall submit a report to Congress and the National Transportation Safety Board containing the regulatory status of each open safety recommendation made by the Board to the Secretary concerning—
 
@@ -193,7 +193,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
 >         “(3) medical certifications for a commercial driver’s license.
 
->     “(b) __Biennial Updates.—__ 
+>     “(b)  __Biennial Updates__  __.—__ 
 
 >     The Secretary shall continue to report on the regulatory status of each such recommendation (and any subsequent recommendation made by the Board to the Secretary concerning a matter described in paragraph (1), (2), or (3) of subsection (a)) at 2-year intervals until—
 
@@ -203,7 +203,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
 >         “(3) the report, if any, required to be submitted in 2008 is submitted.
 
->     “(c) __Failure To Report.—__ 
+>     “(c)  __Failure To Report__  __.—__ 
 
 >     If the Board has not received a report required to be submitted under subsection (a) or (b) within 30 days after the date on which that report is required to be submitted, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
@@ -211,15 +211,15 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 307(b); added Nov. 3, 1981, 
 
 [Pub. L. 107–355, § 19][/us/pl/107/355/s19], Dec. 17, 2002, [116 Stat. 3009][/us/stat/116/3009], as amended by [Pub. L. 108–426, § 2(c)(3)][/us/pl/108/426/s2/c/3], Nov. 30, 2004, [118 Stat. 2424][/us/stat/118/2424], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, the Administrator of Pipeline and Hazardous Materials Safety Administration, and the Director of the Office of Pipeline Safety shall fully comply with [section 1135 of title 49][/us/usc/t49/s1135], United States Code, to ensure timely responsiveness to National Transportation Safety Board recommendations about pipeline safety.
 
->     “(b) __Public Availability.—__ 
+>     “(b)  __Public Availability__  __.—__ 
 
 >     The Secretary, Administrator, or Director, respectively, shall make a copy of each recommendation on pipeline safety and response, as described in subsections (a) and (b) of section 1135, title 49, United States Code.
 
->     “(c) __Reports to Congress.—__ 
+>     “(c)  __Reports to Congress__  __.—__ 
 
 >     The Secretary, Administrator, or Director, respectively, shall submit to Congress by January 1 of each year a report containing each recommendation on pipeline safety made by the Board during the prior year and a copy of the response to each such recommendation.”
 

@@ -15,11 +15,11 @@
 
 ## § 32707. Administrative warrants
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “probable cause” means a valid public interest in the effective enforcement of this chapter or a regulation prescribed under this chapter sufficient to justify the inspection or impoundment in the circumstances stated in an application for a warrant under this section.
 
-    (b) __Warrant Requirement and Issuance.—__ 
+    (b)  __Warrant Requirement and Issuance__  __.—__ 
 
         (1) Except as provided in paragraph (4) of this subsection, an inspection or impoundment under [section 32706 of this title][/us/usc/t49/s32706] may be carried out only after a warrant is obtained.
 
@@ -59,7 +59,7 @@
 
             (E) a warrant is not constitutionally required.
 
-    (c) __Service and Impoundment of Property.—__ 
+    (c)  __Service and Impoundment of Property__  __.—__ 
 
         (1) A warrant issued under this section must be served and proof of service filed not later than 10 days after its issuance date. The judge or magistrate may allow additional time in the warrant if the Secretary of Transportation demonstrates a need for additional time. Proof of service must be filed promptly with a written inventory of the property impounded under the warrant. The inventory shall be made in the presence of the individual serving the warrant and the individual from whose possession or premises the property was impounded, or if that individual is not present, a credible individual except the individual making the inventory. The individual serving the warrant shall verify the inventory. On request, the judge or magistrate shall send a copy of the inventory to the individual from whose possession or premises the property was impounded and to the applicant for the warrant.
 

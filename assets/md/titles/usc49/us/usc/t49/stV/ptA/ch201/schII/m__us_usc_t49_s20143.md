@@ -15,19 +15,19 @@
 
 ## § 20143. Locomotive visibility
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “locomotive visibility” means the enhancement of day and night visibility of the front end unit of a train, considering in particular the visibility and perspective of a driver of a motor vehicle at a grade crossing.
 
-    (b) __Interim Regulations.—__ 
+    (b)  __Interim Regulations__  __.—__ 
 
     Not later than December 31, 1992, the Secretary of Transportation shall prescribe temporary regulations identifying ditch, crossing, strobe, and oscillating lights as temporary locomotive visibility measures and authorizing and encouraging the installation and use of those lights. Subchapter II of chapter 5 of title 5 does not apply to a temporary regulation or to an amendment to a temporary regulation.
 
-    (c) __Review of Regulations.—__ 
+    (c)  __Review of Regulations__  __.—__ 
 
     The Secretary shall review the Secretary’s regulations on locomotive visibility. Not later than December 31, 1993, the Secretary shall complete the current research of the Department of Transportation on locomotive visibility. In conducting the review, the Secretary shall collect relevant information from operational experience by rail carriers using enhanced visibility measures.
 
-    (d) __Regulatory Proceeding.—__ 
+    (d)  __Regulatory Proceeding__  __.—__ 
 
     Not later than June 30, 1994, the Secretary shall begin a regulatory proceeding to prescribe final regulations requiring substantially enhanced locomotive visibility measures. In the proceeding, the Secretary shall consider at least—
 
@@ -43,7 +43,7 @@
 
         (6) separate standards for self-propelled, push-pull, and multi-unit passenger operations without a dedicated head end locomotive.
 
-    (e) __Final Regulations.—__ 
+    (e)  __Final Regulations__  __.—__ 
 
         (1) Not later than June 30, 1995, the Secretary shall prescribe final regulations requiring enhanced locomotive visibility measures. The Secretary shall require that not later than December 31, 1997, a locomotive not excluded from the regulations be equipped with temporary visibility measures under subsection (b) of this section or the visibility measures the final regulations require.
 

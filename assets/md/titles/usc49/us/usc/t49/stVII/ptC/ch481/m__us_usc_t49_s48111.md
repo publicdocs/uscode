@@ -15,27 +15,27 @@
 
 ## § 48111. Funding proposals
 
-    (a) __Introduction in the Senate.—__ 
+    (a)  __Introduction in the Senate__  __.—__ 
 
     Within 15 days (not counting any day on which the Senate is not in session) after a funding proposal is submitted to the Senate by the Secretary of Transportation under section 274(c) of the Air Traffic Management System Performance Improvement Act of 1996, an implementing bill with respect to such funding proposal shall be introduced in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate.
 
-    (b) __Consideration in the Senate.—__ 
+    (b)  __Consideration in the Senate__  __.—__ 
 
     An implementing bill introduced in the Senate under subsection (a) shall be referred to the Committee on Commerce, Science, and Transportation. The Committee on Commerce, Science, and Transportation shall report the bill with its recommendations within 60 days following the date of introduction of the bill. Upon the reporting of the bill by the Committee on Commerce, Science, and Transportation, the reported bill shall be referred sequentially to the Committee on Finance for a period of 60 legislative days.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section, the following definitions apply:
 
-        (1) __Implementing bill.—__ 
+        (1)  __Implementing bill__  __.—__ 
 
         The term “implementing bill” means only a bill of the Senate which is introduced as provided in subsection (a) with respect to one or more Federal Aviation Administration funding proposals which contain changes in existing laws or new statutory authority required to implement such funding proposal or proposals.
 
-        (2) __Funding proposal.—__ 
+        (2)  __Funding proposal__  __.—__ 
 
         The term “funding proposal” means a proposal to provide interim or permanent funding for operations of the Federal Aviation Administration.
 
-    (d) __Rules of the Senate.—__ 
+    (d)  __Rules of the Senate__  __.—__ 
 
     The provisions of this section are enacted—
 

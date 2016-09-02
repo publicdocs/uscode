@@ -15,11 +15,11 @@
 
 ## § 42303. Use of insecticides in passenger aircraft
 
-    (a) __Information To Be Provided on the Internet.—__ 
+    (a)  __Information To Be Provided on the Internet__  __.—__ 
 
     The Secretary of Transportation shall establish, and make available to the general public, an Internet Web site that contains a listing of countries that may require an air carrier or foreign air carrier to treat an aircraft passenger cabin with insecticides prior to a flight in foreign air transportation to that country or to apply an aerosol insecticide in an aircraft cabin used for such a flight when the cabin is occupied with passengers.
 
-    (b) __Required Disclosures.—__ 
+    (b)  __Required Disclosures__  __.—__ 
 
     An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
 

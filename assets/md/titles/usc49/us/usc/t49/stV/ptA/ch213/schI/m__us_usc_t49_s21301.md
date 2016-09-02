@@ -15,7 +15,7 @@
 
 ## § 21301. Chapter 201 general violations
 
-    (a) __Penalty.—__ 
+    (a)  __Penalty__  __.—__ 
 
         (1) A person may not fail to comply with section 20160 or with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title. Subject to [section 21304 of this title][/us/usc/t49/s21304], a person violating [section 20160 of this title][/us/usc/t49/s20160] or a regulation prescribed or order issued by the Secretary under chapter 201 is liable to the United States Government for a civil penalty. The Secretary shall impose the penalty applicable under paragraph (2) of this subsection. A separate violation occurs for each day the violation continues.
 
@@ -31,11 +31,11 @@
 
             (C) other matters that justice requires.
 
-    (b) __Setoff.—__ 
+    (b)  __Setoff__  __.—__ 
 
     The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-    (c) __Deposit in Treasury.—__ 
+    (c)  __Deposit in Treasury__  __.—__ 
 
     A civil penalty collected under this section or [section 20113(b) of this title][/us/usc/t49/s20113/b] shall be deposited in the Treasury as miscellaneous receipts.
 

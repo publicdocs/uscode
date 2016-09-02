@@ -15,11 +15,11 @@
 
 ## § 20148. Railroad car visibility
 
-    (a) __Review of Rules.—__ 
+    (a)  __Review of Rules__  __.—__ 
 
     The Secretary of Transportation shall conduct a review of the Department of Transportation’s rules with respect to railroad car visibility. As part of this review, the Secretary shall collect relevant data from operational experience by railroads having enhanced visibility measures in service.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     If the review conducted under subsection (a) establishes that enhanced railroad car visibility would likely improve safety in a cost-effective manner, the Secretary shall initiate a rulemaking proceeding to prescribe regulations requiring enhanced visibility standards for newly manufactured and remanufactured railroad cars. In such proceeding the Secretary shall consider, at a minimum—
 
@@ -35,7 +35,7 @@
 
         (6) the cost/benefit ratio of any new regulations.
 
-    (c) __Exclusions.—__ 
+    (c)  __Exclusions__  __.—__ 
 
     In prescribing regulations under subsection (b), the Secretary may exclude from any specific visibility requirement any category of trains or railroad operations if the Secretary determines that such an exclusion is in the public interest and is consistent with railroad safety.
 

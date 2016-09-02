@@ -139,11 +139,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [Pub. L. 106–181, title VII, § 745][/us/pl/106/181/s745], Apr. 5, 2000, [114 Stat. 178][/us/stat/114/178], as amended by [Pub. L. 106–528, § 7(a)][/us/pl/106/528/s7/a], Nov. 22, 2000, [114 Stat. 2521][/us/stat/114/2521], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall enter into an agreement with the National Academy of Sciences to conduct a study on airport noise in the United States.
 
->     “(b) __Contents of Study.—__ 
+>     “(b)  __Contents of Study__  __.—__ 
 
 >     In conducting the study, the National Academy of Sciences shall examine—
 
@@ -155,11 +155,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 >         “(4) the noise assessment practices of the Federal Aviation Administration and whether such practices fairly and accurately reflect the burden of noise on communities.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the agreement entered into under subsection (a), the National Academy of Sciences shall transmit to the Secretary a report on the results of the study. Upon receipt of the report, the Secretary shall transmit a copy of the report to the appropriate committees of Congress.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out this section.”
 
@@ -167,7 +167,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 [Pub. L. 106–181, title VII, § 747][/us/pl/106/181/s747], Apr. 5, 2000, [114 Stat. 179][/us/stat/114/179], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall conduct a study—
 
@@ -175,15 +175,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4,
 
 >         “(2) to develop recommendations for the reduction of the effects of nonmilitary helicopter noise.
 
->     “(b) __Focus.—__ 
+>     “(b)  __Focus__  __.—__ 
 
 >     In conducting the study, the Secretary shall focus on air traffic control procedures to address helicopter noise problems and shall take into account the needs of law enforcement.
 
->     “(c) __Consideration of Views.—__ 
+>     “(c)  __Consideration of Views__  __.—__ 
 
 >     In conducting the study, the Secretary shall consider the views of representatives of the helicopter industry and organizations with an interest in reducing nonmilitary helicopter noise.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to Congress a report on the results of the study conducted under this section.”
 

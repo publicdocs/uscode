@@ -15,27 +15,27 @@
 
 ## § 108. Pipeline and Hazardous Materials Safety Administration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Pipeline and Hazardous Materials Safety Administration shall be an administration in the Department of Transportation.
 
-    (b) __Safety as Highest Priority.—__ 
+    (b)  __Safety as Highest Priority__  __.—__ 
 
     In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in pipeline transportation and hazardous materials transportation.
 
-    (c) __Administrator.—__ 
+    (c)  __Administrator__  __.—__ 
 
     The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in pipeline safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
 
-    (d) __Deputy Administrator.—__ 
+    (d)  __Deputy Administrator__  __.—__ 
 
     The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
-    (e) __Chief Safety Officer.—__ 
+    (e)  __Chief Safety Officer__  __.—__ 
 
     The Administration shall have an Assistant Administrator for Pipeline and Hazardous Materials Safety appointed in the competitive service by the Secretary. The Assistant Administrator shall be the Chief Safety Officer of the Administration. The Assistant Administrator shall carry out the duties and powers prescribed by the Administrator.
 
-    (f) __Duties and Powers of the Administrator.—__ 
+    (f)  __Duties and Powers of the Administrator__  __.—__ 
 
     The Administrator shall carry out—
 
@@ -43,7 +43,7 @@
 
         (2) other duties and powers prescribed by the Secretary.
 
-    (g) __Limitation.—__ 
+    (g)  __Limitation__  __.—__ 
 
     A duty or power specified in subsection (f)(1) may be transferred to another part of the Department of Transportation or another government entity only if specifically provided by law.
 
@@ -137,11 +137,11 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 [Pub. L. 108–426, § 5][/us/pl/108/426/s5], Nov. 30, 2004, [118 Stat. 2426][/us/stat/118/2426], as amended by [Pub. L. 110–244, title III, § 302(h)][/us/pl/110/244/s302/h], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618], provided that:
 
->     “(a) __Transfer of Assets and Personnel.—__ 
+>     “(a)  __Transfer of Assets and Personnel__  __.—__ 
 
 >     Personnel, property, and records employed, used, held, available, or to be made available in connection with functions transferred within the Department of Transportation by this Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t49/s101]\] shall be transferred for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds (including funds of any predecessor entity) shall also be transferred accordingly.
 
->     “(b) __Legal Documents.—__ 
+>     “(b)  __Legal Documents__  __.—__ 
 
 >     All orders (including delegations by the Secretary of Transportation), determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
 
@@ -151,37 +151,37 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 >         shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any other authorized official, a court of competent jurisdiction, or operation of law.
 
->     “(c) __Proceedings.—__ 
+>     “(c)  __Proceedings__  __.—__ 
 
 >     The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could have been concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings.
 
 >     “(d) __Suits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This Act shall not affect suits commenced before the date of enactment of this Act \[Nov. 30, 2004\], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
->         “(2) __Suits by or against department.—__ 
+>         “(2)  __Suits by or against department__  __.—__ 
 
 >         Any suit by or against the Department begun before the date of enactment of this Act, shall proceed in accordance with applicable law and regulations, insofar as it involves a function retained and transferred under this Act.
 
->         “(3) __Procedures for remanded cases.—__ 
+>         “(3)  __Procedures for remanded cases__  __.—__ 
 
 >         If the court in a suit described in paragraph (1) remands a case, subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
->     “(e) __Continuance of Actions Against Officers.—__ 
+>     “(e)  __Continuance of Actions Against Officers__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against any officer in his or her official capacity shall abate by reason of the enactment of this Act.
 
->     “(f) __Exercise of Authorities.—__ 
+>     “(f)  __Exercise of Authorities__  __.—__ 
 
 >     An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act.
 
->     “(g) __References.—__ 
+>     “(g)  __References__  __.—__ 
 
 >     A reference relating to an agency, officer, or employee affected by this Act in any Federal law, Executive order, rule, regulation, or delegation of authority, or in any document pertaining to an officer or employee, is deemed to refer, as appropriate, to the agency, officer, or employee who succeeds to the functions transferred by this Act.
 
->     “(h) __Definition.—__ 
+>     “(h)  __Definition__  __.—__ 
 
 >     In this section, the term ‘this Act’ includes the amendments made by this Act.”
 
@@ -201,7 +201,7 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 [Pub. L. 108–426, § 6][/us/pl/108/426/s6], Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that:
 
->     “(a) __Reports by the Inspector General.—__ 
+>     “(a)  __Reports by the Inspector General__  __.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[Nov. 30, 2004\], the Inspector General of the Department of Transportation shall submit to the Secretary of Transportation and the Administrator of the Pipeline and Hazardous Materials Safety Administration a report containing the following:
 
@@ -211,11 +211,11 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 >     “(b) __Reports by the Secretary.—__ 
 
->         “(1) __Statutory mandates.—__ 
+>         “(1)  __Statutory mandates__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter until each of the mandates referred to in subsection (a)(1) has been implemented, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the specific actions taken to implement such mandates.
 
->         “(2) __NTSB and inspector general recommendations.—__ 
+>         “(2) __NTSB__  __and inspector general recommendations__  __.—__ 
 
 >         Not later than January 1st of each year, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing each recommendation referred to in subsection (a)(2) and a copy of the Department of Transportation response to each such recommendation.”
 

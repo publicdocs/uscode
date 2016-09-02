@@ -15,13 +15,13 @@
 
 ## § 1114. Disclosure, availability, and use of information
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1) Except as provided in subsections (b), (c), (d), and (f) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by [section 552(b) of title 5][/us/usc/t5/s552/b] or protected from disclosure by another law of the United States.
 
         (2) The Board shall deposit in the Treasury amounts received under paragraph (1) to be credited to the appropriation of the Board as offsetting collections.
 
-    (b) __Trade Secrets.—__ 
+    (b)  __Trade Secrets__  __.—__ 
 
         (1)
 
@@ -37,11 +37,11 @@
 
         (2) Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
 
-        (3) __Protection of Voluntary Submission of Information.—__ 
+        (3)  __Protection of Voluntary Submission of Information__  __.—__ 
 
         Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose voluntarily provided safety-related information if that information is not related to the exercise of the Board’s accident or incident investigation authority under this chapter and if the Board finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 
-    (c) __Cockpit Recordings and Transcripts.—__ 
+    (c)  __Cockpit Recordings and Transcripts__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
     (d) __Surface Vehicle Recordings and Transcripts.—__ 
 
-        (1) __Confidentiality of recordings.—__ 
+        (1)  __Confidentiality of recordings__  __.—__ 
 
         The Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
 
@@ -63,11 +63,11 @@
 
             (B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
 
-        (2) __References to information in making safety recommendations.—__ 
+        (2)  __References to information in making safety recommendations__  __.—__ 
 
         This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
 
-    (e) __Drug Tests.—__ 
+    (e)  __Drug Tests__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
     (f) __Foreign Investigations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose records or information relating to its participation in foreign aircraft accident investigations; except that—
 
@@ -103,7 +103,7 @@
 
             (B) the Board may disclose records and information when authorized to do so by the country conducting the investigation.
 
-        (2) __Safety recommendations.—__ 
+        (2)  __Safety recommendations__  __.—__ 
 
         Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 

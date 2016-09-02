@@ -29,7 +29,7 @@
 
         (3) If an applicant has not selected the proposed operator of its service competitively, the applicant shall provide written justification to the Secretary showing why the proposed operator is the best, taking into account price and other factors, and that use of the proposed operator will not unnecessarily increase the cost of the project.
 
-    (c) __Project Selection Criteria.—__ 
+    (c)  __Project Selection Criteria__  __.—__ 
 
     The Secretary, in selecting the recipients of financial assistance to be provided under subsection (a), shall—
 
@@ -117,11 +117,11 @@
 
                 (iii) financial commitments from host railroads, non-Federal governmental entities, nongovernmental entities, and others.
 
-    (d) __State Rail Plans.—__ 
+    (d)  __State Rail Plans__  __.—__ 
 
     State rail plans completed before the date of enactment of the Passenger Rail Investment and Improvement Act of 2008 that substantially meet the requirements of chapter 227 of this title, as determined by the Secretary pursuant to section 22506 3 of this title, shall be deemed by the Secretary to have met the requirements of subsection (c)(1)(A) of this section.
 
-    (e) __Amtrak Eligibility.—__ 
+    (e)  __Amtrak Eligibility__  __.—__ 
 
     To receive a grant under this section, Amtrak may enter into a cooperative agreement with 1 or more States to carry out 1 or more projects on a State rail plan’s ranked list of rail capital projects developed under section 22504(a)(5) 3 of this title. For such a grant, Amtrak may not use Federal funds authorized under section 101(a) or (c) of the Passenger Rail Investment and Improvement Act of 2008 to fulfill the non-Federal share requirements under subsection (g) of this section.
 
@@ -163,17 +163,17 @@
 
         (4) The Federal share of expenditures for capital improvements under this chapter may not exceed 100 percent.
 
-    (h) __2-Year Availability.—__ 
+    (h) __2-__  __Year Availability__  __.—__ 
 
     Funds appropriated under this section shall remain available until expended. If any amount provided as a grant under this section is not obligated or expended for the purposes described in subsection (a) within 2 years after the date on which the State received the grant, such sums shall be returned to the Secretary for other intercity passenger rail development projects under this section at the discretion of the Secretary.
 
     (i) __Cooperative Agreements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A metropolitan planning organization, State transportation department, or other project sponsor may enter into an agreement with any public, private, or nonprofit entity to cooperatively implement any project funded with a grant under this chapter.
 
-        (2) __Forms of participation.—__ 
+        (2)  __Forms of participation__  __.—__ 
 
         Participation by an entity under paragraph (1) may consist of—
 
@@ -185,11 +185,11 @@
 
             (D) any other form of participation approved by the Secretary.
 
-        (3) __Suballocation.—__ 
+        (3)  __Suballocation__  __.—__ 
 
         A State may allocate funds under this section to any entity described in paragraph (1).
 
-    (j) __Special Transportation Circumstances.—__ 
+    (j)  __Special Transportation Circumstances__  __.—__ 
 
     In carrying out this section, the Secretary shall allocate an appropriate portion of the amounts available under this section to provide grants to States—
 
@@ -197,11 +197,11 @@
 
         (2) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant under this section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
 
-    (k) __Small Capital Projects.—__ 
+    (k)  __Small Capital Projects__  __.—__ 
 
     The Secretary shall make not less than 5 percent annually available from the amounts authorized under section 101(c) of the Passenger Rail Investment and Improvement Act of 2008 beginning in fiscal year 2009 for grants for capital projects eligible under this section not exceeding $2,000,000, including costs eligible under section 209(d) of that Act. For grants awarded under this subsection, the Secretary may waive requirements of this section, including state  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be capitalized. </sup></sup>  rail plan requirements, as appropriate.
 
-    (l) __Nonmotorized Transportation Access and Storage.—__ 
+    (l)  __Nonmotorized Transportation Access and Storage__  __.—__ 
 
     Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
 

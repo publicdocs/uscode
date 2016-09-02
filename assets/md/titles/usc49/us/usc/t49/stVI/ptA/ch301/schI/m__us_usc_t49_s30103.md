@@ -15,17 +15,17 @@
 
 ## § 30103. Relationship to other laws
 
-    (a) __Uniformity of Regulations.—__ 
+    (a)  __Uniformity of Regulations__  __.—__ 
 
     The Secretary of Transportation may not prescribe a safety regulation related to a motor vehicle subject to subchapter I of chapter 135 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter I of chapter 135, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
 
-    (b) __Preemption.—__ 
+    (b)  __Preemption__  __.—__ 
 
         (1) When a motor vehicle safety standard is in effect under this chapter, a State or a political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter. However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle or motor vehicle equipment obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
 
         (2) A State may enforce a standard that is identical to a standard prescribed under this chapter.
 
-    (c) __Antitrust Laws.—__ 
+    (c)  __Antitrust Laws__  __.—__ 
 
     This chapter does not—
 
@@ -33,11 +33,11 @@
 
         (2) prohibit under the antitrust laws conduct that is lawful under those laws.
 
-    (d) __Warranty Obligations and Additional Legal Rights and Remedies.—__ 
+    (d)  __Warranty Obligations and Additional Legal Rights and Remedies__  __.—__ 
 
     Sections 30117(b), 30118–30121, 30166(f), and 30167(a) and (b) of this title do not establish or affect a warranty obligation under a law of the United States or a State. A remedy under those sections and sections 30161 and 30162 of this title is in addition to other rights and remedies under other laws of the United States or a State.
 
-    (e) __Common Law Liability.—__ 
+    (e)  __Common Law Liability__  __.—__ 
 
     Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
 

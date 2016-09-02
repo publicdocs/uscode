@@ -15,7 +15,7 @@
 
 ## § 40123. Protection of voluntarily submitted information
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding any other provision of law, neither the Administrator of the Federal Aviation Administration, nor any agency receiving information from the Administrator, shall disclose voluntarily-provided safety or security related information if the Administrator finds that—
 
@@ -23,7 +23,7 @@
 
         (2) withholding such information from disclosure would be consistent with the Administrator’s safety and security responsibilities.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Administrator shall issue regulations to carry out this section.
 
@@ -37,11 +37,11 @@
 
 [Pub. L. 112–95, title III, § 344][/us/pl/112/95/s344], Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
 
->     “(a) __Voluntary Disclosure Reporting Program Defined.—__ 
+>     “(a)  __Voluntary Disclosure Reporting Program Defined__  __.—__ 
 
 >     In this section, the term ‘Voluntary Disclosure Reporting Program’ means the program established by the Federal Aviation Administration through Advisory Circular 00–58A, dated September 8, 2006, including any subsequent revisions thereto.
 
->     “(b) __Verification.—__ 
+>     “(b)  __Verification__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall modify the Voluntary Disclosure Reporting Program to require inspectors to—
 
@@ -49,17 +49,17 @@
 
 >         “(2) confirm, before approving a final report of a violation, that a violation with the same root causes, has not been previously discovered by an inspector or self-disclosed by the air carrier.
 
->     “(c) __Supervisory Review of Voluntary Self-Disclosures.—__ 
+>     “(c)  __Supervisory Review of Voluntary Self-Disclosures__  __.—__ 
 
 >     The Administrator shall establish a process by which voluntary self-disclosures received from air carriers are reviewed and approved by a supervisor after the initial review by an inspector.
 
 >     “(d) __Inspector General Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Inspector General of the Department of Transportation shall conduct a study of the Voluntary Disclosure Reporting Program.
 
->         “(2) __Review.—__ 
+>         “(2)  __Review__  __.—__ 
 
 >         In conducting the study, the Inspector General shall examine, at a minimum, if the Administration—
 
@@ -69,7 +69,7 @@
 
 >             “(C) effectively prevents abuse of the voluntary disclosure reporting program through its secondary review of self-disclosures before they are accepted and closed by the Administration.
 
->         “(3) __Report to congress.—__ 
+>         “(3)  __Report to congress__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Inspector General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study conducted under this section.”
 

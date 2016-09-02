@@ -17,7 +17,7 @@
 
     (a) __Inspection Procedures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation, in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture, shall establish procedures for transportation safety inspections for the purpose of identifying suspected incidents of contamination or adulteration of—
 
@@ -29,23 +29,23 @@
 
         (2) __Training.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of Transportation shall develop and carry out a training program to conduct enforcement of this chapter and regulations prescribed under this chapter or compatible State laws and regulations.
 
-            (B) __Conduct.—__ 
+            (B)  __Conduct__  __.—__ 
 
             In carrying out this paragraph, the Secretary of Transportation shall train inspectors, including Department of Transportation personnel, State employees described under subsection (c), or personnel paid with funds authorized under sections 31102 and 31104, in the recognition of adulteration problems associated with the transportation of cosmetics, devices, drugs, food, and food additives and in the procedures for obtaining assistance of the appropriate departments, agencies, and instrumentalities of the Government and State authorities to support the enforcement.
 
-        (3) __Applicability.—__ 
+        (3)  __Applicability__  __.—__ 
 
         The procedures established under paragraph (1) shall apply, at a minimum, to Department of Transportation personnel that perform commercial motor vehicle or railroad safety inspections.
 
-    (b) __Notification of Secretary of Health and Human Services or Secretary of Agriculture.—__ 
+    (b)  __Notification of Secretary of Health and Human Services or Secretary of Agriculture__  __.—__ 
 
     The Secretary of Transportation shall promptly notify the Secretary of Health and Human Services or the Secretary of Agriculture, as applicable, of any instances of potential food contamination or adulteration of a food identified during transportation safety inspections.
 
-    (c) __Use of State Employees.—__ 
+    (c)  __Use of State Employees__  __.—__ 
 
     The means by which the Secretary of Transportation carries out subsection (b) may include inspections conducted by State employees using funds authorized to be appropriated under sections 31102 through 31104.
 

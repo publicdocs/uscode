@@ -15,7 +15,7 @@
 
 ## § 24311. Acquiring interests in property by eminent domain
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) agree with the owner on the purchase price for the interest.
 
-    (b) __Civil Actions.—__ 
+    (b)  __Civil Actions__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (4) On application of a party, the court may order immediate payment of any part of the amount deposited in the court for the compensation to be awarded. If the award is more than the amount received, the court shall enter judgment against Amtrak for the deficiency.
 
-    (c) __Authority To Condemn Rail Carrier Property Interests.—__ 
+    (c)  __Authority To Condemn Rail Carrier Property Interests__  __.—__ 
 
         (1)
 

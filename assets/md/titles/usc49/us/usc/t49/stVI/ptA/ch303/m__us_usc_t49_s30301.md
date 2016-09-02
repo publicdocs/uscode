@@ -109,11 +109,11 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >     “(a) __Minimum Document Requirements.—__ 
 
->         “(1) __Minimum requirements.—__ 
+>         “(1)  __Minimum requirements__  __.—__ 
 
 >         For purposes of section 202(b)(6) of the REAL ID Act of 2005 \[div. B of [Pub. L. 109–13][/us/pl/109/13]\] ([49 U.S.C. 30301][/us/usc/t49/s30301] note), a State may, in the case of an individual described in subparagraph (A) or (B) of paragraph (2), include in a driver’s license or other identification card issued to that individual by the State, the address specified in that subparagraph in lieu of the individual’s address of principle residence.
 
->         “(2) __Individuals and information.—__ 
+>         “(2)  __Individuals and information__  __.—__ 
 
 >         The individuals and addresses referred to in paragraph (1) are the following:
 
@@ -121,7 +121,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >             “(B) In the case of a judge of a Federal court, the address of the courthouse.
 
->     “(b) __Verification of Information.—__ 
+>     “(b)  __Verification of Information__  __.—__ 
 
 >     For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 ([49 U.S.C. 30301][/us/usc/t49/s30301] note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual’s driver’s license or other identification card issued by that State to the individual.”
 
@@ -131,23 +131,23 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 > “In this title, the following definitions apply:
 
->     “(1) __Driver’s license.—__ 
+>     “(1)  __Driver’s license__  __.—__ 
 
 >     The term ‘driver’s license’ means a motor vehicle operator’s license, as defined in [section 30301 of title 49][/us/usc/t49/s30301], United States Code.
 
->     “(2) __Identification card.—__ 
+>     “(2)  __Identification card__  __.—__ 
 
 >     The term ‘identification card’ means a personal identification card, as defined in [section 1028(d) of title 18][/us/usc/t18/s1028/d], United States Code, issued by a State.
 
->     “(3) __Official purpose.—__ 
+>     “(3)  __Official purpose__  __.—__ 
 
 >     The term ‘official purpose’ includes but is not limited to accessing Federal facilities, boarding federally regulated commercial aircraft, entering nuclear power plants, and any other purposes that the Secretary shall determine.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Homeland Security.
 
->     “(5) __State.—__ 
+>     “(5)  __State__  __.—__ 
 
 >     The term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
@@ -155,15 +155,15 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >     “(a) __Minimum Standards for Federal Use.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver’s license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
 
->         “(2) __State certifications.—__ 
+>         “(2)  __State certifications__  __.—__ 
 
 >         The Secretary shall determine whether a State is meeting the requirements of this section based on certifications made by the State to the Secretary. Such certifications shall be made at such times and in such manner as the Secretary, in consultation with the Secretary of Transportation, may prescribe by regulation.
 
->     “(b) __Minimum Document Requirements.—__ 
+>     “(b)  __Minimum Document Requirements__  __.—__ 
 
 >     To meet the requirements of this section, a State shall include, at a minimum, the following information and features on each driver’s license and identification card issued to a person by the State:
 
@@ -187,7 +187,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >     “(c) __Minimum Issuance Standards.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To meet the requirements of this section, a State shall require, at a minimum, presentation and verification of the following information before issuing a driver’s license or identification card to a person:
 
@@ -201,11 +201,11 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >         “(2) __Special requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             To meet the requirements of this section, a State shall comply with the minimum standards of this paragraph.
 
->             “(B) __Evidence of lawful status.—__ 
+>             “(B)  __Evidence of lawful status__  __.—__ 
 
 >             A State shall require, before issuing a driver’s license or identification card to a person, valid documentary evidence that the person—
 
@@ -229,23 +229,23 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >             “(C) __Temporary drivers’ licenses and identification cards.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 If a person presents evidence under any of clauses (v) through (ix) of subparagraph (B), the State may only issue a temporary driver’s license or temporary identification card to the person.
 
->                 “(ii) __Expiration date.—__ 
+>                 “(ii)  __Expiration date__  __.—__ 
 
 >                 A temporary driver’s license or temporary identification card issued pursuant to this subparagraph shall be valid only during the period of time of the applicant’s authorized stay in the United States or, if there is no definite end to the period of authorized stay, a period of one year.
 
->                 “(iii) __Display of expiration date.—__ 
+>                 “(iii)  __Display of expiration date__  __.—__ 
 
 >                 A temporary driver’s license or temporary identification card issued pursuant to this subparagraph shall clearly indicate that it is temporary and shall state the date on which it expires.
 
->                 “(iv) __Renewal.—__ 
+>                 “(iv)  __Renewal__  __.—__ 
 
 >                 A temporary driver’s license or temporary identification card issued pursuant to this subparagraph may be renewed only upon presentation of valid documentary evidence that the status by which the applicant qualified for the temporary driver’s license or temporary identification card has been extended by the Secretary of Homeland Security.
 
->         “(3) __Verification of documents.—__ 
+>         “(3)  __Verification of documents__  __.—__ 
 
 >         To meet the requirements of this section, a State shall implement the following procedures:
 
@@ -255,7 +255,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 >             “(C) Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208, div. C][/us/pl/104/208], [8 U.S.C. 1324a][/us/usc/t8/s1324a] note\] ([110 Stat. 3009–664][/us/stat/110/3009-664]), to verify the legal presence status of a person, other than a United States citizen, applying for a driver’s license or identification card.
 
->     “(d) __Other Requirements.—__ 
+>     “(d)  __Other Requirements__  __.—__ 
 
 >     To meet the requirements of this section, a State shall adopt the following practices in the issuance of drivers’ licenses and identification cards:
 
@@ -299,37 +299,37 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 > “SEC. 203. __TRAFFICKING IN AUTHENTICATION FEATURES FOR USE IN FALSE IDENTIFICATION DOCUMENTS.__ 
 
->     “(a) __Criminal Penalty.—__ 
+>     “(a)  __Criminal Penalty__  __.—__ 
 
 >     \[Amended [section 1028 of Title 18][/us/usc/t18/s1028], Crimes and Criminal Procedure.\]
 
 >     “(b) __Use of False Driver’s License at Airports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall enter, into the appropriate aviation security screening database, appropriate information regarding any person convicted of using a false driver’s license at an airport (as such term is defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code).
 
->         “(2) __False defined.—__ 
+>         “(2)  __False defined__  __.—__ 
 
 >         In this subsection, the term ‘false’ has the same meaning such term has under [section 1028(d) of title 18][/us/usc/t18/s1028/d], United States Code.
 
 > “SEC. 204. __GRANTS TO STATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may make grants to a State to assist the State in conforming to the minimum standards set forth in this title.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this title.
 
 > “SEC. 205. __AUTHORITY.__ 
 
->     “(a) __Participation of Secretary of Transportation and States.—__ 
+>     “(a)  __Participation of Secretary of Transportation and States__  __.—__ 
 
 >     All authority to issue regulations, set standards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
 
->     “(b) __Extensions of Deadlines.—__ 
+>     “(b)  __Extensions of Deadlines__  __.—__ 
 
 >     The Secretary may grant to a State an extension of time to meet the requirements of section 202(a)(1) if the State provides adequate justification for noncompliance.
 
@@ -347,19 +347,19 @@ Oct. 25, 1982, Pub. L. 97–364, § 202, 96 Stat. 1740.  </td>
 
 [Pub. L. 105–178, title II, § 2006(c)][/us/pl/105/178/s2006/c], June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
 
->     “(1) __Evaluation.—__ 
+>     “(1)  __Evaluation__  __.—__ 
 
 >     The Secretary shall evaluate the implementation of chapter 303 of title 49, United States Code, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
 
->     “(2) __Technology assessment.—__ 
+>     “(2)  __Technology assessment__  __.—__ 
 
 >     The Secretary, in conjunction with the American Association of Motor Vehicle Administrators, shall conduct an assessment of available electronic technologies to improve access to and exchange of motor vehicle driving records. The assessment may consider alternative unique motor vehicle driver identifiers that would facilitate accurate matching of drivers and their records.
 
->     “(3) __Report to congress.—__ 
+>     “(3)  __Report to congress__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the evaluation and technology assessment, together with any recommendations for appropriate administrative and legislative actions.
 
->     “(4) __Authorization of Appropriations.—__ 
+>     “(4)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out paragraph (2) $250,000 in the aggregate for fiscal years beginning after September 30, 1998.”
 

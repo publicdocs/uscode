@@ -15,7 +15,7 @@
 
 ## § 44102. Registration requirements
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     An aircraft may be registered under [section 44103 of this title][/us/usc/t49/s44103] only when the aircraft is—
 
@@ -37,7 +37,7 @@
 
             (B) a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of a State, territory, or possession.
 
-    (b) __Duty To Define Certain Term.—__ 
+    (b)  __Duty To Define Certain Term__  __.—__ 
 
     In carrying out subsection (a)(1)(C) of this section, the Secretary of Transportation shall define “based and primarily used in the United States”.
 

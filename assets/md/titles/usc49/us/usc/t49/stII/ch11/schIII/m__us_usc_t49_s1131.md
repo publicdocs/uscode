@@ -15,7 +15,7 @@
 
 ## § 1131. General authority
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -51,13 +51,13 @@
 
         (3) This section and sections 1113, 1116(b), 1133, and 1134(a) and (c)–(e) of this title do not affect the authority of another department, agency, or instrumentality of the Government to investigate an accident under applicable law or to obtain information directly from the parties involved in, and witnesses to, the accident. The Board and other departments, agencies, and instrumentalities shall ensure that appropriate information developed about the accident is exchanged in a timely manner.
 
-    (b) __Accidents Involving Public Vessels.—__ 
+    (b)  __Accidents Involving Public Vessels__  __.—__ 
 
         (1) The Board or the head of the department in which the Coast Guard is operating shall investigate and establish the facts, circumstances, and cause or probable cause of a marine accident involving a public vessel and any other vessel. The results of the investigation shall be made available to the public.
 
         (2) Paragraph (1) of this subsection and subsection (a)(1)(E) of this section do not affect the responsibility, under another law of the United States, of the head of the department in which the Coast Guard is operating.
 
-    (c) __Accidents Not Involving Government Misfeasance or Nonfeasance.—__ 
+    (c)  __Accidents Not Involving Government Misfeasance or Nonfeasance__  __.—__ 
 
         (1)
 
@@ -69,11 +69,11 @@
 
         (2) The Board shall use the report in establishing cause or probable cause of an accident described under subsection (a) or (b) of this section.
 
-    (d) __Accidents Involving Public Aircraft.—__ 
+    (d)  __Accidents Involving Public Aircraft__  __.—__ 
 
     The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
 
-    (e) __Accident Reports.—__ 
+    (e)  __Accident Reports__  __.—__ 
 
     The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 

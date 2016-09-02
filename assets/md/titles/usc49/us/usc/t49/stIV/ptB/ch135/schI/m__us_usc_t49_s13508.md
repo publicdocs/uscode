@@ -15,7 +15,7 @@
 
 ## § 13508. Limited authority over cooperative associations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Notwithstanding section 13506(a)(5), any cooperative association (as defined by section 15(a) of the Agricultural Marketing Act ([12 U.S.C. 1141j(a)][/us/usc/t12/s1141j/a])) or a federation of cooperative associations shall prepare and maintain such records relating to transportation provided by such association or federation, in such form as the Secretary or the Board may require by regulation to carry out the provisions of such section 13506(a)(5). The Secretary or the Board, or an employee designated by the Secretary or the Board, may on demand and display of proper credentials—
 
@@ -23,17 +23,17 @@
 
         (2) inspect and copy any record of such association or federation.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
     Notwithstanding section 13506(a)(5), the Secretary or the Board may require a cooperative association or federation of cooperative associations described in subsection (a) of this section to file reports with the Secretary or the Board containing answers to questions about transportation provided by such association or federation.
 
-    (c) __Enforcement.—__ 
+    (c)  __Enforcement__  __.—__ 
 
     The Secretary or the Board may bring a civil action to enforce subsections (a) and (b) of this section or a regulation or order of the Secretary or the Board issued under this section, when violated by a cooperative association or federation of cooperative associations described in subsection (a).
 
     (d) __Reporting Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person required to make a report to the Secretary or the Board, answer a question, or maintain a record under this section, or an officer, agent, or employee of that person, that—
 
@@ -45,7 +45,7 @@
 
             is liable to the United States for a civil penalty of not more than $500 for each violation and for not more than $250 for each additional day the violation continues.
 
-        (2) __Venue.—__ 
+        (2)  __Venue__  __.—__ 
 
         Trial in a civil action under paragraph (1) shall be in the judicial district in which—
 
@@ -57,11 +57,11 @@
 
             Process in the action may be served in the judicial district of which the offender is an inhabitant or in which the offender may be found.
 
-    (e) __Evasion Penalties.—__ 
+    (e)  __Evasion Penalties__  __.—__ 
 
     A person, or an officer, employee, or agent of that person, that by any means knowingly and willfully tries to evade compliance with the provisions of this section shall be fined at least $200 but not more than $500 for the first violation and at least $250 but not more than $2,000 for a subsequent violation.
 
-    (f) __Recordkeeping Penalties.—__ 
+    (f)  __Recordkeeping Penalties__  __.—__ 
 
     A person required to make a report, answer a question, or maintain a record under this section, or an officer, agent, or employee of that person, that—
 

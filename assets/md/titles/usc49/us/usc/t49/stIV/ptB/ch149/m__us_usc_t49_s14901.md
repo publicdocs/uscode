@@ -15,7 +15,7 @@
 
 ## § 14901. General civil penalties
 
-    (a) __Reporting and Recordkeeping.—__ 
+    (a)  __Reporting and Recordkeeping__  __.—__ 
 
     A person required to make a report to the Secretary or the Board, answer a question, or make, prepare, or preserve a record under this part concerning transportation subject to jurisdiction under subchapter I or III of chapter 135 or transportation by a foreign carrier registered under section 13902, or an officer, agent, or employee of that person that—
 
@@ -31,29 +31,29 @@
 
         is liable to the United States for a civil penalty of not less than $1,000 for each violation and for each additional day the violation continues; except that, in the case of a person or an officer, agent, or employee of such person, that does not comply with section 13901 or [section 13902(c) of this title][/us/usc/t49/s13902/c], the amount of the civil penalty shall not be less than $10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers.
 
-    (b) __Transportation of Hazardous Wastes.—__ 
+    (b)  __Transportation of Hazardous Wastes__  __.—__ 
 
     A person subject to jurisdiction under subchapter I of chapter 135, or an officer, agent, or employee of that person, and who is required to comply with [section 13901 of this title][/us/usc/t49/s13901] but does not so comply with respect to the transportation of hazardous wastes as defined by the Environmental Protection Agency pursuant to section 3001 of the Solid Waste Disposal Act (but not including any waste the regulation of which under the Solid Waste Disposal Act has been suspended by Congress) shall be liable to the United States for a civil penalty not less than $20,000, but not to exceed $40,000 for each violation.
 
-    (c) __Factors To Consider in Determining Amount.—__ 
+    (c)  __Factors To Consider in Determining Amount__  __.—__ 
 
     In determining and negotiating the amount of a civil penalty under subsection (a) or (d) concerning transportation of household goods, the degree of culpability, any history of prior such conduct, the degree of harm to shipper or shippers, ability to pay, the effect on ability to do business, whether the shipper has been adequately compensated before institution of the proceeding, and such other matters as fairness may require shall be taken into account.
 
-    (d) __Protection of Household Goods Shippers.—__ 
+    (d)  __Protection of Household Goods Shippers__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 or a receiver or trustee of such carrier fails or refuses to comply with any regulation issued by the Secretary or the Board relating to protection of individual shippers, such carrier, receiver, or trustee is liable to the United States for a civil penalty of not less than $1,000 for each violation and for each additional day during which the violation continues.
 
-        (2) __Estimate of broker without carrier agreement.—__ 
+        (2)  __Estimate of broker without carrier agreement__  __.—__ 
 
         If a broker for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
 
-        (3) __Unauthorized transportation.—__ 
+        (3)  __Unauthorized transportation__  __.—__ 
 
         If a person provides transportation of household goods subject to jurisdiction under subchapter I of chapter 135 or provides broker services for such transportation without being registered under chapter 139 to provide such transportation or services as a motor carrier or broker, as the case may be, such person is liable to the United States for a civil penalty of not less than $25,000 for each violation.
 
-    (e) __Violation Relating to Transportation of Household Goods.—__ 
+    (e)  __Violation Relating to Transportation of Household Goods__  __.—__ 
 
     Any person that knowingly engages in or knowingly authorizes an agent or other person—
 
@@ -63,7 +63,7 @@
 
         is liable to the United States for a civil penalty of not less than $2,000 for each violation and of not less than $5,000 for each subsequent violation. Any State may bring a civil action in the United States district courts to compel a person to pay a civil penalty assessed under this subsection.
 
-    (f) __Venue.—__ 
+    (f)  __Venue__  __.—__ 
 
     Trial in a civil action under subsections (a) through (e) of this section is in the judicial district in which—
 
@@ -79,15 +79,15 @@
 
     (g) __Business Entertainment Expenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any business entertainment expense incurred by a water carrier providing transportation subject to this part shall not constitute a violation of this part if that expense would not be unlawful if incurred by a person not subject to this part.
 
-        (2) __Cost of service.—__ 
+        (2)  __Cost of service__  __.—__ 
 
         Any business entertainment expense subject to paragraph (1) that is paid or incurred by a water carrier providing transportation subject to this part shall not be taken into account in determining the cost of service or the rate base for purposes of section 13702.
 
-    (h) __Settlement of Household Goods Civil Penalties.—__ 
+    (h)  __Settlement of Household Goods Civil Penalties__  __.—__ 
 
     Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 
@@ -125,27 +125,27 @@
 
 [Pub. L. 106–159, title II, § 219][/us/pl/106/159/s219], Dec. 9, 1999, [113 Stat. 1768][/us/stat/113/1768], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Subject to subsections (b) and (c), a foreign motor carrier or foreign motor private carrier (as such terms are defined under [section 13102 of title 49][/us/usc/t49/s13102], United States Code) that operates without authority, before the implementation of the land transportation provisions of the North American Free Trade Agreement, outside the boundaries of a commercial zone along the United States-Mexico border shall be liable to the United States for a civil penalty and shall be disqualified from operating a commercial motor vehicle anywhere within the United States as provided in subsections (b) and (c).
 
->     “(b) __Penalty for Intentional Violation.—__ 
+>     “(b)  __Penalty for Intentional Violation__  __.—__ 
 
 >     The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
 
->     “(c) __Penalty for Pattern of Intentional Violations.—__ 
+>     “(c)  __Penalty for Pattern of Intentional Violations__  __.—__ 
 
 >     The civil penalty for a pattern of intentional violations of subsection (a) by a carrier shall not be more than $25,000 and the carrier shall be disqualified from operating a commercial motor vehicle anywhere within the United States and the disqualification may be permanent.
 
->     “(d) __Leasing.—__ 
+>     “(d)  __Leasing__  __.—__ 
 
 >     Before the implementation of the land transportation provisions of the North American Free Trade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under [section 13902(c) of title 49][/us/usc/t49/s13902/c], United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States.
 
->     “(e) __Savings Clause.—__ 
+>     “(e)  __Savings Clause__  __.—__ 
 
 >     No provision of this section may be enforced if it is inconsistent with any international agreement of the United States.
 
->     “(f) __Acts of Employees.—__ 
+>     “(f)  __Acts of Employees__  __.—__ 
 
 >     The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section.”
 

@@ -15,15 +15,15 @@
 
 ## § 44515. Advanced training facilities for maintenance technicians for air carrier aircraft
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may make grants to not more than 4 vocational technical educational institutions to acquire or construct facilities to be used for the advanced training of maintenance technicians for air carrier aircraft.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
     The Administrator may make a grant under this section to a vocational technical educational institution only if the institution has a training curriculum that prepares aircraft maintenance technicians who hold airframe and power plant certificates under subpart D of part 65 of title 14, Code of Federal Regulations, to maintain, without direct supervision, air carrier aircraft.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     A vocational technical educational institution may not receive more than a total of $5,000,000 in grants under this section.
 
@@ -81,23 +81,23 @@ Oct., 31, 1992, Pub. L. 102–581, § 119(a)–(c), 106 Stat. 4883.  </td>
 
 [Pub. L. 108–176, title V, § 504][/us/pl/108/176/s504], Dec. 12, 2003, [117 Stat. 2559][/us/stat/117/2559], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall ensure that the training standards for airframe and powerplant mechanics under part 65 of title 14, Code of Federal Regulations, are updated and revised in accordance with this section. The Administrator may update and revise the training standards through the initiation of a formal rulemaking or by issuing an advisory circular or other agency guidance.
 
->     “(b) __Elements for Consideration.—__ 
+>     “(b)  __Elements for Consideration__  __.—__ 
 
 >     The updated and revised standards required under subsection (a) shall include those curriculum adjustments that are necessary to more accurately reflect current technology and maintenance practices.
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     Any adjustment or modification of current curriculum standards made pursuant to this section shall be reflected in the certification examinations of airframe and powerplant mechanics.
 
->     “(d) __Completion.—__ 
+>     “(d)  __Completion__  __.—__ 
 
 >     The revised and updated training standards required by subsection (a) shall be completed not later than 12 months after the date of enactment of this Act \[Dec. 12, 2003\].
 
->     “(e) __Periodic Reviews and Updates.—__ 
+>     “(e)  __Periodic Reviews and Updates__  __.—__ 
 
 >     The Administrator shall review the content of the curriculum standards for training airframe and powerplant mechanics referred to in subsection (a) every 3 years after completion of the revised and updated training standards required under subsection (a) as necessary to reflect current technology and maintenance practices.”
 

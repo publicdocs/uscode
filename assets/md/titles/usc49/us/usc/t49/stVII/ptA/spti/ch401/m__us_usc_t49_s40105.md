@@ -15,11 +15,11 @@
 
 ## § 40105. International negotiations, agreements, and obligations
 
-    (a) __Advice and Consultation.—__ 
+    (a)  __Advice and Consultation__  __.—__ 
 
     The Secretary of State shall advise the Administrator of the Federal Aviation Administration and the Secretaries of Transportation and Commerce, and consult with them as appropriate, about negotiations for an agreement with a government of a foreign country to establish or develop air navigation, including air routes and services. The Secretary of Transportation shall consult with the Secretary of State in carrying out this part to the extent this part is related to foreign air transportation.
 
-    (b) __Actions of Secretary and Administrator.—__ 
+    (b)  __Actions of Secretary and Administrator__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
         (2) This subsection does not apply to an agreement between an air carrier or an officer or representative of an air carrier and the government of a foreign country, if the Secretary of Transportation disapproves the agreement because it is not in the public interest. [Section 40106(b)(2) of this title][/us/usc/t49/s40106/b/2] applies to this subsection.
 
-    (c) __Consultation on International Air Transportation Policy.—__ 
+    (c)  __Consultation on International Air Transportation Policy__  __.—__ 
 
     In carrying out [section 40101(e) of this title][/us/usc/t49/s40101/e], the Secretaries of State and Transportation, to the maximum extent practicable, shall consult on broad policy goals and individual negotiations with—
 
@@ -53,7 +53,7 @@
 
         (8) other groups, institutions, and governmental authorities affected by international aviation policy.
 
-    (d) __Congressional Observers at International Aviation Negotiations.—__ 
+    (d)  __Congressional Observers at International Aviation Negotiations__  __.—__ 
 
     The President shall grant to at least one representative of each House of Congress the privilege of attending international aviation negotiations as an observer if the privilege is requested in advance in writing.
 
@@ -239,11 +239,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1102(c), (d); added Feb. 15,
 
 [Pub. L. 108–176, title VIII, § 812][/us/pl/108/176/s812], Dec. 12, 2003, [117 Stat. 2590][/us/stat/117/2590], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     As part of their bilateral negotiations with foreign nations and their civil aviation counterparts, the Secretary of State and the Administrator of the Federal Aviation Administration shall facilitate the reciprocal airworthiness certification of aviation products.
 
->     “(b) __Reciprocal Airworthiness Defined.—__ 
+>     “(b)  __Reciprocal Airworthiness Defined__  __.—__ 
 
 >     In this section, the term ‘reciprocal airworthiness certification of aviation products’ means that the regulatory authorities of each nation perform a similar review in certifying or validating the certification of aircraft and aircraft components of other nations.”
 

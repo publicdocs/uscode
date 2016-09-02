@@ -15,19 +15,19 @@
 
 ## § 33107. Voluntary vehicle identification standards
 
-    (a) __Election To Inscribe or Affix Identifying Marks.—__ 
+    (a)  __Election To Inscribe or Affix Identifying Marks__  __.—__ 
 
     The Secretary of Transportation by regulation may prescribe a vehicle theft prevention standard under which a person may elect to inscribe or affix an identifying number or symbol on major parts of a motor vehicle manufactured or owned by the person for purposes of [section 511 of title 18][/us/usc/t18/s511] and related provisions. The standard may include provisions for registration of the identification with the Secretary or a person designated by the Secretary.
 
-    (b) __Standard Requirements.—__ 
+    (b)  __Standard Requirements__  __.—__ 
 
     The standard under this section shall be practicable and provide relevant objective criteria.
 
-    (c) __Voluntary Compliance.—__ 
+    (c)  __Voluntary Compliance__  __.—__ 
 
     Compliance with the standard under this section is voluntary. Failure to comply does not subject a person to a penalty or enforcement under this chapter.
 
-    (d) __Compliance With Other Standards.—__ 
+    (d)  __Compliance With Other Standards__  __.—__ 
 
     Compliance with the standard under this section does not relieve a manufacturer from a requirement of a standard prescribed under section 33102 or 33103 of this title.
 

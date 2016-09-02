@@ -15,7 +15,7 @@
 
 ## § 30106. Rented or leased motor vehicle safety and responsibility
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An owner of a motor vehicle that rents or leases the vehicle to a person (or an affiliate of the owner) shall not be liable under the law of any State or political subdivision thereof, by reason of being the owner of the vehicle (or an affiliate of the owner), for harm to persons or property that results or arises out of the use, operation, or possession of the vehicle during the period of the rental or lease, if—
 
@@ -23,7 +23,7 @@
 
         (2) there is no negligence or criminal wrongdoing on the part of the owner (or an affiliate of the owner).
 
-    (b) __Financial Responsibility Laws.—__ 
+    (b)  __Financial Responsibility Laws__  __.—__ 
 
     Nothing in this section supersedes the law of any State or political subdivision thereof—
 
@@ -31,19 +31,19 @@
 
         (2) imposing liability on business entities engaged in the trade or business of renting or leasing motor vehicles for failure to meet the financial responsibility or liability insurance requirements under State law.
 
-    (c) __Applicability and Effective Date.—__ 
+    (c)  __Applicability and Effective Date__  __.—__ 
 
     Notwithstanding any other provision of law, this section shall apply with respect to any action commenced on or after the date of enactment of this section without regard to whether the harm that is the subject of the action, or the conduct that caused the harm, occurred before such date of enactment.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Affiliate.—__ 
+        (1)  __Affiliate__  __.—__ 
 
         The term “affiliate” means a person other than the owner that directly or indirectly controls, is controlled by, or is under common control with the owner. In the preceding sentence, the term “control” means the power to direct the management and policies of a person whether through ownership of voting securities or otherwise.
 
-        (2) __Owner.—__ 
+        (2)  __Owner__  __.—__ 
 
         The term “owner” means a person who is—
 
@@ -53,7 +53,7 @@
 
             (C) a lessor, lessee, or a bailee of a motor vehicle, in the trade or business of renting or leasing motor vehicles, having the use or possession thereof, under a lease, bailment, or otherwise.
 
-        (3) __Person.—__ 
+        (3)  __Person__  __.—__ 
 
         The term “person” means any individual, corporation, company, limited liability company, trust, association, firm, partnership, society, joint stock company, or any other entity.
 

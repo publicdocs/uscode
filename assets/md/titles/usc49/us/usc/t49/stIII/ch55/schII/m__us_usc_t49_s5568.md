@@ -15,7 +15,7 @@
 
 ## § 5568. Authorization of appropriations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The following amounts may be appropriated to the Secretary of Transportation:
 
@@ -25,7 +25,7 @@
 
         (3) not more than $2,500,000 to carry out [section 5562(a)(4) of this title][/us/usc/t49/s5562/a/4].
 
-    (b) __Availability of Amounts.—__ 
+    (b)  __Availability of Amounts__  __.—__ 
 
     Amounts appropriated to carry out this chapter remain available until expended.
 

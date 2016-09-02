@@ -15,19 +15,19 @@
 
 ## § 41720. Joint venture agreements
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Joint venture agreement.—__ 
+        (1)  __Joint venture agreement__  __.—__ 
 
         The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998, with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations) of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
 
-        (2) __Major air carrier.—__ 
+        (2)  __Major air carrier__  __.—__ 
 
         The term “major air carrier” means a passenger air carrier that is certificated under chapter 411 of this title and included in Carrier Group III under criteria contained in section 04 of part 241 of title 14, Code of Federal Regulations.
 
-    (b) __Submission of Joint Venture Agreement.—__ 
+    (b)  __Submission of Joint Venture Agreement__  __.—__ 
 
     At least 30 days before a joint venture agreement may take effect, each of the major air carriers that entered into the agreement shall submit to the Secretary—
 
@@ -37,7 +37,7 @@
 
     (c) __Extension of Waiting Period.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may extend the 30-day period referred to in subsection (b) until—
 
@@ -45,23 +45,23 @@
 
             (B) in the case of any other joint venture agreement, the 60th day following the last day of such period.
 
-        (2) __Publication of reasons for extension.—__ 
+        (2)  __Publication of reasons for extension__  __.—__ 
 
         If the Secretary extends the 30-day period referred to in subsection (b), the Secretary shall publish in the Federal Register the Secretary’s reasons for making the extension.
 
-    (d) __Termination of Waiting Period.—__ 
+    (d)  __Termination of Waiting Period__  __.—__ 
 
     At any time after the date of submission of a joint venture agreement under subsection (b), the Secretary may terminate the waiting periods referred to in subsections (b) and (c) with respect to the agreement.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The effectiveness of a joint venture agreement may not be delayed due to any failure of the Secretary to issue regulations to carry out this section.
 
-    (f) __Memorandum To Prevent Duplicative Reviews.—__ 
+    (f)  __Memorandum To Prevent Duplicative Reviews__  __.—__ 
 
     Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
 
-    (g) __Prior Agreements.—__ 
+    (g)  __Prior Agreements__  __.—__ 
 
     With respect to a joint venture agreement entered into before the date of enactment of this section as to which the Secretary finds that—
 
@@ -71,7 +71,7 @@
 
         the waiting period described in paragraphs (2) and (3) shall begin on the date, as determined by the Secretary, on which all such information was submitted and end on the last day to which the period could be extended under this section.
 
-    (h) __Limitation on Statutory Construction.—__ 
+    (h)  __Limitation on Statutory Construction__  __.—__ 
 
     The authority granted to the Secretary under this section shall not in any way limit the authority of the Attorney General to enforce the antitrust laws as defined in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]).
 

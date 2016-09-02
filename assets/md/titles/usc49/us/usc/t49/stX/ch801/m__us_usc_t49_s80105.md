@@ -15,7 +15,7 @@
 
 ## § 80105. Title and rights affected by negotiation
 
-    (a) __Title.—__ 
+    (a)  __Title__  __.—__ 
 
     When a negotiable bill of lading is negotiated—
 
@@ -29,11 +29,11 @@
 
         (2) the common carrier issuing the bill becomes obligated directly to the person to whom the bill is negotiated to hold possession of the goods under the terms of the bill the same as if the carrier had issued the bill to that person.
 
-    (b) __Superiority of Rights.—__ 
+    (b)  __Superiority of Rights__  __.—__ 
 
     When a negotiable bill of lading is negotiated to a person for value in good faith, that person’s right to the goods for which the bill was issued is superior to a seller’s lien or to a right to stop the transportation of the goods. This subsection applies whether the negotiation is made before or after the common carrier issuing the bill receives notice of the seller’s claim. The carrier may deliver the goods to an unpaid seller only if the bill first is surrendered for cancellation.
 
-    (c) __Mortgagee and Lien Holder Rights Not Affected.—__ 
+    (c)  __Mortgagee and Lien Holder Rights Not Affected__  __.—__ 
 
     Except as provided in subsection (b) of this section, this chapter does not limit a right of a mortgagee or lien holder having a mortgage or lien on goods against a person that purchased for value in good faith from the owner, and got possession of the goods immediately before delivery to the common carrier.
 

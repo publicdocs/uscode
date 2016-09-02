@@ -15,27 +15,27 @@
 
 ## § 47140. Airport ground support equipment emissions retrofit pilot program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall carry out a pilot program at not more than 10 commercial service airports under which the sponsors of such airports may use an amount made available under section 48103 to retrofit existing eligible airport ground support equipment that burns conventional fuels to achieve lower emissions utilizing emission control technologies certified or verified by the Environmental Protection Agency.
 
-    (b) __Location in Air Quality Nonattainment or Maintenance Areas.—__ 
+    (b)  __Location in Air Quality Nonattainment or Maintenance Areas__  __.—__ 
 
     A commercial service airport shall be eligible for participation in the pilot program only if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act ([42 U.S.C. 7501(2)][/us/usc/t42/s7501/2])) or a maintenance area referred to in section 175A of such Act ([42 U.S.C. 7505a][/us/usc/t42/s7505a]).
 
-    (c) __Selection Criteria.—__ 
+    (c)  __Selection Criteria__  __.—__ 
 
     In selecting from among applicants for participation in the pilot program, the Secretary shall give priority consideration to applicants that will achieve the greatest air quality benefits measured by the amount of emissions reduced per dollar of funds expended under the pilot program.
 
-    (d) __Maximum Amount.—__ 
+    (d)  __Maximum Amount__  __.—__ 
 
     Not more than $500,000 may be expended under the pilot program at any single commercial service airport.
 
-    (e) __Guidelines.—__ 
+    (e)  __Guidelines__  __.—__ 
 
     The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish guidelines regarding the types of retrofit projects eligible under the pilot program by considering remaining equipment useful life, amounts of emission reduction in relation to the cost of projects, and other factors necessary to carry out this section. The Secretary may give priority to ground support equipment owned by the airport and used for airport purposes.
 
-    (f) __Eligible Equipment Defined.—__ 
+    (f)  __Eligible Equipment Defined__  __.—__ 
 
     In this section, the term “eligible equipment” means ground service or maintenance equipment that is located at the airport, is used to support aeronautical and related activities at the airport, and will remain in operation at the airport for the life or useful life of the equipment, whichever is earlier.
 

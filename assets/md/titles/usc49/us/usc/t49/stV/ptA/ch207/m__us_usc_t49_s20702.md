@@ -15,7 +15,7 @@
 
 ## § 20702. Inspections, repairs, and inspection and repair reports
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall—
 
@@ -25,7 +25,7 @@
 
         (3) ensure that every railroad carrier makes inspections of locomotives and tenders and their parts and appurtenances as required by regulations prescribed by the Secretary and repairs every defect that is disclosed by an inspection before a defective locomotive, tender, part, or appurtenance is used again.
 
-    (b) __Noncomplying Locomotives, Tenders, and Parts.—__ 
+    (b)  __Noncomplying Locomotives, Tenders, and Parts__  __.—__ 
 
         (1) When the Secretary finds that a locomotive, tender, or locomotive or tender part or appurtenance owned or operated by a railroad carrier does not comply with this chapter or a regulation prescribed under this chapter, the Secretary shall give the carrier written notice describing any defect resulting in noncompliance. Not later than 5 days after receiving the notice of noncompliance, the carrier may submit a written request for a reinspection. On receiving the request, the Secretary shall provide for the reinspection by an officer or employee of the Department of Transportation who did not make the original inspection. The reinspection shall be made not later than 15 days after the date the Secretary gives the notice of noncompliance.
 
@@ -39,7 +39,7 @@
 
             (B) found on reinspection or appeal to be in compliance.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
     A railroad carrier shall make and keep, in the way the Secretary prescribes by regulation, a report of every—
 
@@ -47,7 +47,7 @@
 
         (2) repair made of a defect disclosed by such an inspection.
 
-    (d) __Changes in Inspection Procedures.—__ 
+    (d)  __Changes in Inspection Procedures__  __.—__ 
 
     A railroad carrier may change a rule or instruction of the carrier governing the inspection by the carrier of the locomotives and tenders and locomotive and tender parts and appurtenances of the carrier when the Secretary approves a request filed by the carrier to make the change.
 

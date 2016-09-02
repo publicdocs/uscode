@@ -15,7 +15,7 @@
 
 ## § 30302. National Driver Register
 
-    (a) __Establishment and Contents.—__ 
+    (a)  __Establishment and Contents__  __.—__ 
 
     The Secretary of Transportation shall establish as soon as practicable and maintain a National Driver Register to assist chief driver licensing officials of participating States in exchanging information about the motor vehicle driving records of individuals. The Register shall contain an index of the information reported to the Secretary under [section 30304 of this title][/us/usc/t49/s30304]. The Register shall enable the Secretary (electronically or, until all States can participate electronically, by United States mail)—
 
@@ -27,11 +27,11 @@
 
         (4) in response to the request, to relay information provided by a chief driver licensing official of a State of record to the chief driver licensing official of a participating State, without interception of the information.
 
-    (b) __Accuracy of Information.—__ 
+    (b)  __Accuracy of Information__  __.—__ 
 
     The Secretary is not responsible for the accuracy of information relayed to the chief driver licensing official of a participating State. However, the Secretary shall maintain the Register in a way that ensures against inadvertent alteration of information during a relay. The Secretary shall make continual improvements to modernize the Register’s data processing system.
 
-    (c) __Transition From Prior Register.—__ 
+    (c)  __Transition From Prior Register__  __.—__ 
 
         (1) The Secretary shall provide by regulation for the orderly transition from the register maintained under the Act of July 14, 1960 ([Public Law 86–660][/us/pl/86/660], [74 Stat. 526][/us/stat/74/526]), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 ([Public Law 89–563][/us/pl/89/563], [80 Stat. 730][/us/stat/80/730]), to the Register maintained under this chapter.
 
@@ -51,29 +51,29 @@
 
         (3) If the chief driver licensing official of a participating State finds that information provided for inclusion in the Register is erroneous or is related to a conviction of a traffic offense that subsequently is reversed, the official immediately shall notify the Secretary. The Secretary shall provide for the immediate deletion of the information from the Register.
 
-    (d) __Assignment of Personnel.—__ 
+    (d)  __Assignment of Personnel__  __.—__ 
 
     In carrying out this chapter, the Secretary shall assign personnel necessary to ensure the effective operation of the Register.
 
     (e) __Transfer of Selected Functions to Non-Federal Management.—__ 
 
-        (1) __Agreement.—__ 
+        (1)  __Agreement__  __.—__ 
 
         The Secretary may enter into an agreement with an organization that represents the interests of the States to manage, administer, and operate the National Driver Register’s computer timeshare and user assistance functions. If the Secretary decides to enter into such an agreement, the Secretary shall ensure that the management of these functions is compatible with this chapter and the regulations issued to implement this chapter.
 
-        (2) __Required demonstration.—__ 
+        (2)  __Required demonstration__  __.—__ 
 
         Any transfer of the National Driver Register’s computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register’s “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
-        (3) __Transition period.—__ 
+        (3)  __Transition period__  __.—__ 
 
         Any agreement entered into under this subsection shall include a provision for a transition period sufficient to allow the States to make the budgetary and legislative changes the States may need to pay fees charged by the organization representing their interests for their use of the National Driver Register’s computer timeshare and user assistance functions. During this transition period, the Secretary shall continue to fund these transferred functions.
 
-        (4) __Fees.—__ 
+        (4)  __Fees__  __.—__ 
 
         The total of the fees charged by the organization representing the interests of the States in any fiscal year for the use of the National Driver Register’s computer timeshare and user assistance functions shall not exceed the total cost to the organization of performing these functions in such fiscal year.
 
-        (5) __Limitation on statutory construction.—__ 
+        (5)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this subsection may be construed to diminish, limit, or otherwise affect the authority of the Secretary to carry out this chapter.
 

@@ -15,7 +15,7 @@
 
 ## § 31315. Waivers, exemptions, and pilot programs
 
-    (a) __Waivers.—__ 
+    (a)  __Waivers__  __.—__ 
 
     The Secretary may grant a waiver that relieves a person from compliance in whole or in part with a regulation issued under this chapter or section 31136 if the Secretary determines that it is in the public interest to grant the waiver and that the waiver is likely to achieve a level of safety that is equivalent to, or greater than, the level of safety that would be obtained in the absence of the waiver—
 
@@ -29,11 +29,11 @@
 
     (b) __Exemptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Upon receipt of a request pursuant to paragraph (3), the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.
 
-        (2) __Authority to revoke exemption.—__ 
+        (2)  __Authority to revoke exemption__  __.—__ 
 
         The Secretary shall immediately revoke an exemption if—
 
@@ -43,7 +43,7 @@
 
             (C) continuation of the exemption would not be consistent with the goals and objectives of this chapter or section 31136, as the case may be.
 
-        (3) __Requests for exemption.—__ 
+        (3)  __Requests for exemption__  __.—__ 
 
         Not later than 180 days after the date of enactment of this section and after notice and an opportunity for public comment, the Secretary shall specify by regulation the procedures by which a person may request an exemption. Such regulations shall, at a minimum, require the person to provide the following information for each exemption request:
 
@@ -57,37 +57,37 @@
 
         (4) __Notice and comment.—__ 
 
-            (A) __Upon receipt of a request.—__ 
+            (A)  __Upon receipt of a request__  __.—__ 
 
             Upon receipt of an exemption request, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) a notice explaining the request that has been filed and shall give the public an opportunity to inspect the safety analysis and any other relevant information known to the Secretary and to comment on the request. This subparagraph does not require the release of information protected by law from public disclosure.
 
-            (B) __Upon granting a request.—__ 
+            (B)  __Upon granting a request__  __.—__ 
 
             Upon granting a request and before the effective date of the exemption, the Secretary shall publish in the Federal Register (or, in the case of an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) the name of the person granted the exemption, the provisions from which the person is exempt, the effective period, and the terms and conditions of the exemption.
 
-            (C) __After denying a request.—__ 
+            (C)  __After denying a request__  __.—__ 
 
             After denying a request for exemption, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) the name of the person denied the exemption and the reasons for such denial. The Secretary may meet the requirement of this subparagraph by periodically publishing in the Federal Register the names of persons denied exemptions and the reasons for such denials.
 
-        (5) __Applications to be dealt with promptly.—__ 
+        (5)  __Applications to be dealt with promptly__  __.—__ 
 
         The Secretary shall grant or deny an exemption request after a thorough review of its safety implications, but in no case later than 180 days after the filing date of such request.
 
-        (6) __Terms and conditions.—__ 
+        (6)  __Terms and conditions__  __.—__ 
 
         The Secretary shall establish terms and conditions for each exemption to ensure that it will likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. The Secretary shall monitor the implementation of the exemption to ensure compliance with its terms and conditions.
 
-        (7) __Notification of state compliance and enforcement personnel.—__ 
+        (7)  __Notification of state compliance and enforcement personnel__  __.—__ 
 
         Before the effective date of an exemption, the Secretary shall notify a State safety compliance and enforcement agency, and require the agency to notify the State’s roadside inspectors, that a person will be operating pursuant to an exemption and the terms and conditions that apply to the exemption.
 
     (c) __Pilot Programs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may conduct pilot programs to evaluate alternatives to regulations relating to, or innovative approaches to, motor carrier, commercial motor vehicle, and driver safety. Such pilot programs may include exemptions from a regulation prescribed under this chapter or section 31136 if the pilot program contains, at a minimum, the elements described in paragraph (2). The Secretary shall publish a detailed description of each pilot program, including the exemptions to be considered, and provide notice and an opportunity for public comment before the effective date of the program.
 
-        (2) __Program elements.—__ 
+        (2)  __Program elements__  __.—__ 
 
         In proposing a pilot program and before granting exemptions for purposes of a pilot program, the Secretary shall require, as a condition of approval of the project, that the safety measures in the project are designed to achieve a level of safety that is equivalent to, or greater than, the level of safety that would otherwise be achieved through compliance with the regulations prescribed under this chapter or section 31136. The Secretary shall include, at a minimum, the following elements in each pilot program plan:
 
@@ -103,27 +103,27 @@
 
             (F) A plan to inform State partners and the public about the pilot program and to identify approved participants to safety compliance and enforcement personnel and to the public.
 
-        (3) __Authority to revoke participation.—__ 
+        (3)  __Authority to revoke participation__  __.—__ 
 
         The Secretary shall immediately revoke participation in a pilot program of a motor carrier, commercial motor vehicle, or driver for failure to comply with the terms and conditions of the pilot program or if continued participation would not be consistent with the goals and objectives of this chapter or section 31136, as the case may be.
 
-        (4) __Authority to terminate program.—__ 
+        (4)  __Authority to terminate program__  __.—__ 
 
         The Secretary shall immediately terminate a pilot program if its continuation would not be consistent with the goals and objectives of this chapter or section 31136, as the case may be.
 
-        (5) __Report to congress.—__ 
+        (5)  __Report to congress__  __.—__ 
 
         At the conclusion of each pilot program, the Secretary shall report to Congress the findings, conclusions, and recommendations of the program, including suggested amendments to laws and regulations that would enhance motor carrier, commercial motor vehicle, and driver safety and improve compliance with national safety standards.
 
-    (d) __Preemption of State Rules.—__ 
+    (d)  __Preemption of State Rules__  __.—__ 
 
     During the time period that a waiver, exemption, or pilot program is in effect under this chapter or section 31136, no State shall enforce any law or regulation that conflicts with or is inconsistent with the waiver, exemption, or pilot program with respect to a person operating under the waiver or exemption or participating in the pilot program.
 
-    (e) __Report to Congress.—__ 
+    (e)  __Report to Congress__  __.—__ 
 
     The Secretary shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives listing the waivers, exemptions, and pilot programs granted under this section, and any impacts on safety.
 
-    (f) __Web Site.—__ 
+    (f)  __Web Site__  __.—__ 
 
     The Secretary shall ensure that the Federal Motor Carrier Safety Administration web site includes a link to the web site established by the Secretary to implement the requirements under sections 31149 and 31315. The link shall be in a clear and conspicuous location on the home page of the Federal Motor Carrier Safety Administration web site and be easily accessible to the public.
 

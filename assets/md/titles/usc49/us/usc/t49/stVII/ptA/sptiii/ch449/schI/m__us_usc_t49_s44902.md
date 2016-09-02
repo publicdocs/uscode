@@ -15,7 +15,7 @@
 
 ## § 44902. Refusal to transport passengers and property
 
-    (a) __Mandatory Refusal.—__ 
+    (a)  __Mandatory Refusal__  __.—__ 
 
     The Under Secretary of Transportation for Security shall prescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
 
@@ -23,11 +23,11 @@
 
         (2) property of a passenger who does not consent to a search of the property establishing whether the property unlawfully contains a dangerous weapon, explosive, or other destructive substance.
 
-    (b) __Permissive Refusal.—__ 
+    (b)  __Permissive Refusal__  __.—__ 
 
     Subject to regulations of the Under Secretary, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
 
-    (c) __Agreeing to Consent to Search.—__ 
+    (c)  __Agreeing to Consent to Search__  __.—__ 
 
     An agreement to carry passengers or property in air transportation or intrastate air transportation by an air carrier, intrastate air carrier, or foreign air carrier is deemed to include an agreement that the passenger or property will not be carried if consent to search the passenger or property for a purpose referred to in this section is not given.
 

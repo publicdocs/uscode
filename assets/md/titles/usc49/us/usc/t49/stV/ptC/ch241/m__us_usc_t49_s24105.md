@@ -15,11 +15,11 @@
 
 ## § 24105. Congestion grants
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Transportation may make grants to States, or to Amtrak in cooperation with States, for financing the capital costs of facilities, infrastructure, and equipment for high priority rail corridor projects necessary to reduce congestion or facilitate ridership growth in intercity rail passenger transportation.
 
-    (b) __Eligible Projects.—__ 
+    (b)  __Eligible Projects__  __.—__ 
 
     Projects eligible for grants under this section include projects—
 
@@ -29,15 +29,15 @@
 
         (3) designated by the Secretary as being sufficiently advanced in development to be capable of serving the purposes described in subsection (a) on an expedited schedule.
 
-    (c) __Federal Share.—__ 
+    (c)  __Federal Share__  __.—__ 
 
     The Federal share of the cost of a project financed under this section shall not exceed 80 percent.
 
-    (d) __Grant Conditions.—__ 
+    (d)  __Grant Conditions__  __.—__ 
 
     The Secretary of Transportation shall require each recipient of a grant under this section to comply with the grant requirements of [section 24405 of this title][/us/usc/t49/s24405].
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated, from amounts made available under section 301 of the Passenger Rail Investment and Improvement Act of 2008, to the Secretary to carry out this section—
 

@@ -17,11 +17,11 @@
 
     (a) __Purpose and Minimum Safety Standards.—__ 
 
-        (1) __Purpose.—__ 
+        (1)  __Purpose__  __.—__ 
 
         The purpose of this chapter is to provide adequate protection against risks to life and property posed by pipeline transportation and pipeline facilities by improving the regulatory and enforcement authority of the Secretary of Transportation.
 
-        (2) __Minimum safety standards.—__ 
+        (2)  __Minimum safety standards__  __.—__ 
 
         The Secretary shall prescribe minimum safety standards for pipeline transportation and for pipeline facilities. The standards—
 
@@ -31,13 +31,13 @@
 
             (C) shall include a requirement that all individuals who operate and maintain pipeline facilities shall be qualified to operate and maintain the pipeline facilities.
 
-        (3) __Qualifications of pipeline operators.—__ 
+        (3)  __Qualifications of pipeline operators__  __.—__ 
 
         The qualifications applicable to an individual who operates and maintains a pipeline facility shall address the ability to recognize and react appropriately to abnormal operating conditions that may indicate a dangerous situation or a condition exceeding design limits. The operator of a pipeline facility shall ensure that employees who operate and maintain the facility are qualified to operate and maintain the pipeline facilities.
 
     (b) __Practicability and Safety Needs Standards.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A standard prescribed under subsection (a) shall be—
 
@@ -51,7 +51,7 @@
 
                 (ii) protecting the environment.
 
-        (2) __Factors for consideration.—__ 
+        (2)  __Factors for consideration__  __.—__ 
 
         When prescribing any standard under this section or section 60101(b), 60103, 60108, 60109, 60110, or 60113, the Secretary shall consider—
 
@@ -77,7 +77,7 @@
 
             (G) the comments and recommendations of the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as appropriate.
 
-        (3) __Risk assessment.—__ 
+        (3)  __Risk assessment__  __.—__ 
 
         In conducting a risk assessment referred to in subparagraphs (D) and (E) of paragraph (2), the Secretary shall—
 
@@ -97,7 +97,7 @@
 
         (4) __Review.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall—
 
@@ -105,7 +105,7 @@
 
                 (ii) make that risk assessment information available to the general public.
 
-            (B) __Peer review panels.—__ 
+            (B)  __Peer review panels__  __.—__ 
 
             The committees referred to in subparagraph (A) shall serve as peer review panels to review risk assessment information prepared under this section. Not later than 90 days after receiving risk assessment information for review pursuant to subparagraph (A), each committee that receives that risk assessment information shall prepare and submit to the Secretary a report that includes—
 
@@ -113,7 +113,7 @@
 
                 (ii) any recommended options relating to that risk assessment information and the associated standard that the committee determines to be appropriate.
 
-            (C) __Review by secretary.—__ 
+            (C)  __Review by secretary__  __.—__ 
 
             Not later than 90 days after receiving a report submitted by a committee under subparagraph (B), the Secretary—
 
@@ -123,11 +123,11 @@
 
                 (iii) may revise the risk assessment and the proposed standard before promulgating the final standard.
 
-        (5) __Secretarial decisionmaking.—__ 
+        (5)  __Secretarial decisionmaking__  __.—__ 
 
         Except where otherwise required by statute, the Secretary shall propose or issue a standard under this Chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  only upon a reasoned determination that the benefits of the intended standard justify its costs.
 
-        (6) __Exceptions from application.—__ 
+        (6)  __Exceptions from application__  __.—__ 
 
         The requirements of subparagraphs (D) and (E) of paragraph (2) do not apply when—
 
@@ -137,7 +137,7 @@
 
             (C) the Secretary finds, pursuant to [section 553(b)(3)(B) of title 5][/us/usc/t5/s553/b/3/B], United States Code, that notice and public procedure are not required.
 
-        (7) __Report.—__ 
+        (7)  __Report__  __.—__ 
 
         Not later than March 31, 2000, the Secretary shall transmit to the Congress a report that—
 
@@ -145,7 +145,7 @@
 
             (B) includes any recommendations that the Secretary determines would make the risk assessment process conducted pursuant to the requirements under this chapter a more effective means of assessing the benefits and costs associated with alternative regulatory and nonregulatory options in prescribing standards under the Federal pipeline safety regulatory program under this chapter.
 
-    (c) __Public Safety Program Requirements.—__ 
+    (c)  __Public Safety Program Requirements__  __.—__ 
 
         (1)
 
@@ -171,7 +171,7 @@
 
                 (ii) Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretary shall report to Congress the reasons for that finding.
 
-    (d) __Facility Operation Information Standards.—__ 
+    (d)  __Facility Operation Information Standards__  __.—__ 
 
     The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain, to the extent practicable, information related to operating the facility as required by the standards prescribed under this chapter and, when requested, to make the information available to the Secretary and an appropriate State official as determined by the Secretary. The information shall include—
 
@@ -207,7 +207,7 @@
 
         (6) other information the Secretary considers useful to inform a State of the presence of pipeline facilities and operations in the State.
 
-    (e) __Pipe Inventory Standards.—__ 
+    (e)  __Pipe Inventory Standards__  __.—__ 
 
     The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain for the Secretary, to the extent practicable, an inventory with appropriate information about the types of pipe used for the transportation of gas or hazardous liquid, as appropriate, in the operator’s system and additional information, including the material’s history and the leak history of the pipe. The inventory—
 
@@ -215,9 +215,9 @@
 
         (2) for a hazardous liquid pipeline facility, shall include an identification of each facility and gathering line passing through an area described in regulations prescribed under [section 60109 of this title][/us/usc/t49/s60109], whether the facility or gathering line otherwise is subject to this chapter, but shall exclude equipment associated only with the pipeline pumps or storage facilities.
 
-    (f) __Standards as Accommodating “Smart Pigs”.—__ 
+    (f)  __Standards as Accommodating “Smart Pigs”__  __.—__ 
 
-        (1) __Minimum safety standards.—__ 
+        (1)  __Minimum safety standards__  __.—__ 
 
         The Secretary shall prescribe minimum safety standards requiring that—
 
@@ -225,15 +225,15 @@
 
             (B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as “smart pigs”). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
 
-        (2) __Periodic inspections.—__ 
+        (2)  __Periodic inspections__  __.—__ 
 
         Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under [section 60109 of this title][/us/usc/t49/s60109]. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
 
-    (g) __Effective Dates.—__ 
+    (g)  __Effective Dates__  __.—__ 
 
     A standard prescribed under this section and [section 60110 of this title][/us/usc/t49/s60110] is effective on the 30th day after the Secretary prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 
-    (h) __Safety Condition Reports.—__ 
+    (h)  __Safety Condition Reports__  __.—__ 
 
         (1)
 
@@ -245,27 +245,27 @@
 
         (2) The Secretary must receive the report not later than 5 working days after a representative of a person to which this section applies first establishes that the condition exists. Notice of the condition shall be given concurrently to appropriate State authorities.
 
-    (i) __Carbon Dioxide Regulation.—__ 
+    (i)  __Carbon Dioxide Regulation__  __.—__ 
 
-        (1) __Transportation in liquid state.—__ 
+        (1)  __Transportation in liquid state__  __.—__ 
 
         The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
 
         (2) __Transportation in gaseous state.—__ 
 
-            (A) __Minimum safety standards.—__ 
+            (A)  __Minimum safety standards__  __.—__ 
 
             The Secretary shall prescribe minimum safety standards for the transportation of carbon dioxide by pipeline in a gaseous state.
 
-            (B) __Considerations.—__ 
+            (B)  __Considerations__  __.—__ 
 
             In establishing the standards, the Secretary shall consider whether applying the minimum safety standards in part 195 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this paragraph, for the transportation of carbon dioxide in a liquid state to the transportation of carbon dioxide in a gaseous state would ensure safety.
 
-        (3) __Limitation on statutory construction.—__ 
+        (3)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this subsection authorizes the Secretary to regulate piping or equipment used in the production, extraction, recovery, lifting, stabilization, separation, or treatment of carbon dioxide or the preparation of carbon dioxide for transportation by pipeline at production, refining, or manufacturing facilities.
 
-    (j) __Emergency Flow Restricting Devices.—__ 
+    (j)  __Emergency Flow Restricting Devices__  __.—__ 
 
         (1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
@@ -273,15 +273,15 @@
 
     (k) __Low-Stress Hazardous Liquid Pipelines.—__ 
 
-        (1) __Minimum standards.—__ 
+        (1)  __Minimum standards__  __.—__ 
 
         Not later than December 31, 2007, the Secretary shall issue regulations subjecting low-stress hazardous liquid pipelines to the same standards and regulations as other hazardous liquid pipelines, except as provided in paragraph (3). The implementation of the applicable standards and regulatory requirements may be phased in. The regulations issued under this paragraph shall not apply to gathering lines.
 
-        (2) __General prohibition against low internal stress exception.—__ 
+        (2)  __General prohibition against low internal stress exception__  __.—__ 
 
         Except as provided in paragraph (3), the Secretary may not provide an exception to the requirements of this chapter for a hazardous liquid pipeline because the pipeline operates at low internal stress.
 
-        (3) __Limited exceptions.—__ 
+        (3)  __Limited exceptions__  __.—__ 
 
         The Secretary shall provide or continue in force exceptions to this subsection for low-stress hazardous liquid pipelines that—
 
@@ -291,61 +291,61 @@
 
             until regulations issued under paragraph (1) become effective. After such regulations become effective, the Secretary may retain or remove those exceptions as appropriate.
 
-        (4) __Relationship to other laws.—__ 
+        (4)  __Relationship to other laws__  __.—__ 
 
         Nothing in this subsection shall be construed to prohibit or otherwise affect the applicability of any other statutory or regulatory exemption to any hazardous liquid pipeline.
 
-        (5) __Definition.—__ 
+        (5)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “low-stress hazardous liquid pipeline” means a hazardous liquid pipeline that is operated in its entirety at a stress level of 20 percent or less of the specified minimum yield strength of the line pipe.
 
-        (6) __Effective date.—__ 
+        (6)  __Effective date__  __.—__ 
 
         The requirements of this subsection shall not take effect as to low-stress hazardous liquid pipeline operators before the effective date of the rules promulgated by the Secretary under this subsection.
 
-    (l) __Updating Standards.—__ 
+    (l)  __Updating Standards__  __.—__ 
 
     The Secretary shall, to the extent appropriate and practicable, update incorporated industry standards that have been adopted as part of the Federal pipeline safety regulatory program under this chapter.
 
-    (m) __Inspections by Direct Assessment.—__ 
+    (m)  __Inspections by Direct Assessment__  __.—__ 
 
     Not later than 1 year after the date of the enactment of this subsection, the Secretary shall issue regulations prescribing standards for inspection of a pipeline facility by direct assessment.
 
     (n) __Automatic and Remote-Controlled Shut-off Valves for New Transmission Pipelines.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 2 years after the date of enactment of this subsection, and after considering the factors specified in subsection (b)(2), the Secretary, if appropriate, shall require by regulation the use of automatic or remote-controlled shut-off valves, or equivalent technology, where economically, technically, and operationally feasible on transmission pipeline facilities constructed or entirely replaced after the date on which the Secretary issues the final rule containing such requirement.
 
         (2) __High-consequence area study.—__ 
 
-            (A) __Study.—__ 
+            (A)  __Study__  __.—__ 
 
             The Comptroller General of the United States shall conduct a study on the ability of transmission pipeline facility operators to respond to a hazardous liquid or gas release from a pipeline segment located in a high-consequence area.
 
-            (B) __Considerations.—__ 
+            (B)  __Considerations__  __.—__ 
 
             In conducting the study, the Comptroller General shall consider the swiftness of leak detection and pipeline shutdown capabilities, the location of the nearest response personnel, and the costs, risks, and benefits of installing automatic and remote-controlled shut-off valves.
 
-            (C) __Report.—__ 
+            (C)  __Report__  __.—__ 
 
             Not later than 1 year after the date of enactment of this subsection, the Comptroller General shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
     (o) __Transportation-Related Oil Flow Lines.—__ 
 
-        (1) __Data collection.—__ 
+        (1)  __Data collection__  __.—__ 
 
         The Secretary may collect geospatial or technical data on transportation-related oil flow lines, including unregulated transportation-related oil flow lines.
 
-        (2) __Transportation-related oil flow line defined.—__ 
+        (2)  __Transportation-related oil flow line defined__  __.—__ 
 
         In this subsection, the term “transportation-related oil flow line” means a pipeline transporting oil off of the grounds of the well where it originated and across areas not owned by the producer, regardless of the extent to which the oil has been processed, if at all.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         Nothing in this subsection authorizes the Secretary to prescribe standards for the movement of oil through production, refining, or manufacturing facilities or through oil production flow lines located on the grounds of wells.
 
-    (p) __Limitation on Incorporation of Documents by Reference.—__ 
+    (p)  __Limitation on Incorporation of Documents by Reference__  __.—__ 
 
     Beginning 3 years after the date of enactment of this subsection, the Secretary may not issue a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge.
 

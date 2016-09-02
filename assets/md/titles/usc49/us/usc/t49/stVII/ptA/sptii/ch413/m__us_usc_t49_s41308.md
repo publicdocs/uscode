@@ -15,15 +15,15 @@
 
 ## § 41308. Exemption from the antitrust laws
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “antitrust laws” has the same meaning given that term in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]).
 
-    (b) __Exemption Authorized.—__ 
+    (b)  __Exemption Authorized__  __.—__ 
 
     When the Secretary of Transportation decides it is required by the public interest, the Secretary, as part of an order under section 41309 or 42111 of this title, may exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with any transaction necessarily contemplated by the order.
 
-    (c) __Exemption Required.—__ 
+    (c)  __Exemption Required__  __.—__ 
 
     In an order under [section 41309 of this title][/us/usc/t49/s41309] approving an agreement, request, modification, or cancellation, the Secretary, on the basis of the findings required under section 41309(b)(1), shall exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with any transaction necessarily contemplated by the order.
 

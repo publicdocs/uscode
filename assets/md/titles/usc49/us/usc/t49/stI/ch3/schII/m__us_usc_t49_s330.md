@@ -131,21 +131,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(q)(1)–(3), 80 Stat. 947.  </td>
 
 [Pub. L. 106–159, title I, § 101(g)][/us/pl/106/159/s101/g], Dec. 9, 1999, [113 Stat. 1752][/us/stat/113/1752], provided that:
 
->     “(1) __Compliance with regulation.—__ 
+>     “(1)  __Compliance with regulation__  __.—__ 
 
 >     In awarding any contract for research, the Secretary shall comply with section 1252.209–70 of title 48, Code of Federal Regulations, as in effect on the date of the enactment of this section \[Dec. 9, 1999\]. The Secretary shall require that the text of such section be included in any request for proposal and contract for research made by the Secretary.
 
 >     “(2) __Study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary shall conduct a study to determine whether or not compliance with the section referred to in paragraph (1) is sufficient to avoid conflicts of interest in contracts for research awarded by the Secretary and to evaluate whether or not compliance with such section unreasonably delays or burdens the awarding of such contracts.
 
->         “(B) __Consultation.—__ 
+>         “(B)  __Consultation__  __.—__ 
 
 >         In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Department of Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities.
 
->         “(C) __Report.—__ 
+>         “(C)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
 

@@ -79,11 +79,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 24; added Apr. 2, 1987, Pub. 
 
 [Pub. L. 109–59, title III, § 3028(b)][/us/pl/109/59/s3028/b], Aug. 10, 2005, [119 Stat. 1624][/us/stat/119/1624], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 45 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall execute an annex to the memorandum of understanding between the Secretary and the Secretary of Homeland Security, dated September 28, 2004, to define and clarify the respective roles and responsibilities of the Department of Transportation and the Department of Homeland Security relating to public transportation security.
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     The annex to be executed under paragraph (1) shall—
 

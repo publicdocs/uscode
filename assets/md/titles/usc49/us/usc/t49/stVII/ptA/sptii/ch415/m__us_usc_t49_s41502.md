@@ -15,11 +15,11 @@
 
 ## § 41502. Establishing joint prices for through routes with other carriers
 
-    (a) __Joint Prices.—__ 
+    (a)  __Joint Prices__  __.—__ 
 
     An air carrier may establish reasonable joint prices and through service with another carrier. However, an air carrier not directly operating aircraft in air transportation (except an air express company) may not establish under this section a joint price for the transportation of property with a carrier subject to subtitle IV of this title.
 
-    (b) __Prices, Classifications, Rules, and Practices and Divisions of Joint Prices.—__ 
+    (b)  __Prices, Classifications, Rules, and Practices and Divisions of Joint Prices__  __.—__ 
 
     For through service by an air carrier and a carrier subject to subtitle IV of this title, the participating carriers shall establish—
 
@@ -27,7 +27,7 @@
 
         (2) for joint prices established for the through service, reasonable divisions of those joint prices among the participating carriers.
 
-    (c) __Statements Included in Tariffs.—__ 
+    (c)  __Statements Included in Tariffs__  __.—__ 
 
     An air carrier and a carrier subject to subtitle IV of this title that are participating in through service and joint prices shall include in their tariffs, filed with the Secretary of Transportation, a statement showing the through service and joint prices.
 

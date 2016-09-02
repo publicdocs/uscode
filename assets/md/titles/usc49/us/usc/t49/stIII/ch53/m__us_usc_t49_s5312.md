@@ -17,11 +17,11 @@
 
     (a) __Research, Development, Demonstration, and Deployment Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make grants and enter into contracts, cooperative agreements, and other agreements for research, development, demonstration, and deployment projects, and evaluation of research and technology of national significance to public transportation, that the Secretary determines will improve public transportation.
 
-        (2) __Agreements.—__ 
+        (2)  __Agreements__  __.—__ 
 
         In order to carry out paragraph (1), the Secretary may make grants to and enter into contracts, cooperative agreements, and other agreements with—
 
@@ -39,11 +39,11 @@
 
         (3) __Application.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             To receive a grant, contract, cooperative agreement, or other agreement under this section, an entity described in paragraph (2) shall submit an application to the Secretary.
 
-            (B) __Form and contents.—__ 
+            (B)  __Form and contents__  __.—__ 
 
             An application under subparagraph (A) shall be in such form and contain such information as the Secretary may require, including—
 
@@ -55,11 +55,11 @@
 
     (b) __Research.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (a)(2) to carry out a public transportation research project that has as its ultimate goal the development and deployment of new and innovative ideas, practices, and approaches.
 
-        (2) __Project eligibility.—__ 
+        (2)  __Project eligibility__  __.—__ 
 
         A public transportation research project that receives assistance under paragraph (1) shall focus on—
 
@@ -109,11 +109,11 @@
 
     (c) __Innovation and Development.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (a)(2) to carry out a public transportation innovation and development project that seeks to improve public transportation systems nationwide in order to provide more efficient and effective delivery of public transportation services, including through technology and technological capacity improvements.
 
-        (2) __Project eligibility.—__ 
+        (2)  __Project eligibility__  __.—__ 
 
         A public transportation innovation and development project that receives assistance under paragraph (1) shall focus on—
 
@@ -135,11 +135,11 @@
 
     (d) __Demonstration, Deployment, and Evaluation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may, under terms and conditions that the Secretary prescribes, make a grant to or enter into a contract, cooperative agreement, or other agreement with an entity described in paragraph (2) to promote the early deployment and demonstration of innovation in public transportation that has broad applicability.
 
-        (2) __Participants.—__ 
+        (2)  __Participants__  __.—__ 
 
         An entity described in this paragraph is—
 
@@ -147,7 +147,7 @@
 
             (B) a consortium of entities described in subsection (a)(2), including a provider of public transportation, that will share the costs, risks, and rewards of early deployment and demonstration of innovation.
 
-        (3) __Project eligibility.—__ 
+        (3)  __Project eligibility__  __.—__ 
 
         A project that receives assistance under paragraph (1) shall seek to build on successful research, innovation, and development efforts to facilitate—
 
@@ -155,17 +155,17 @@
 
             (B) the implementation of research and technology development to advance the interests of public transportation.
 
-        (4) __Evaluation.—__ 
+        (4)  __Evaluation__  __.—__ 
 
         Not later than 2 years after the date on which a project receives assistance under paragraph (1), the Secretary shall conduct a comprehensive evaluation of the success or failure of the projects funded under this subsection and any plan for broad-based implementation of the innovation promoted by successful projects.
 
         (5) __Low or no emission vehicle deployment.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph, the following definitions shall apply:
 
-                (i) __Eligible area.—__ 
+                (i)  __Eligible area__  __.—__ 
 
                 The term “eligible area” means an area that is—
 
@@ -173,7 +173,7 @@
 
                     (II) a maintenance area, as defined in section 5303, for ozone or carbon monoxide.
 
-                “(ii) __Eligible project.—__ 
+                “(ii)  __Eligible project__  __.—__ 
 
                 The term “eligible project” means a project or program of projects in an eligible area for—
 
@@ -185,15 +185,15 @@
 
                     (IV) rehabilitating or improving existing public transportation facilities to accommodate low or no emission vehicles.
 
-                (iii) __Direct carbon emissions.—__ 
+                (iii)  __Direct carbon emissions__  __.—__ 
 
                 The term “direct carbon emissions” means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency.
 
-                (iv) __Low or no emission bus.—__ 
+                (iv)  __Low or no emission bus__  __.—__ 
 
                 The term “low or no emission bus” means a bus that is a low or no emission vehicle.
 
-                (v) __Low or no emission vehicle.—__ 
+                (v)  __Low or no emission vehicle__  __.—__ 
 
                 The term “low or no emission vehicle” means—
 
@@ -201,7 +201,7 @@
 
                     (II) a zero emission bus used to provide public transportation.
 
-                (vi) __Recipient.—__ 
+                (vi)  __Recipient__  __.—__ 
 
                 The term “recipient” means—
 
@@ -209,35 +209,35 @@
 
                     (II) for an eligible area not described in subparagraph (A), the designated recipient for the eligible area.
 
-                (vii) __Zero emission bus.—__ 
+                (vii)  __Zero emission bus__  __.—__ 
 
                 The term “zero emission bus” means a low or no emission bus that produces no carbon or particulate matter.
 
-            (B) __Authority.—__ 
+            (B)  __Authority__  __.—__ 
 
             The Secretary may make grants to recipients to finance eligible projects under this paragraph.
 
             (C) __Grant requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A grant under this paragraph shall be subject to the requirements of section 5307.
 
-                (ii) __Government share of costs for certain projects.—__ 
+                (ii)  __Government share of costs for certain projects__  __.—__ 
 
                 Section 5323(j) applies to projects carried out under this paragraph, unless the grant recipient requests a lower grant percentage.
 
                 (iii) __Combination of funding sources.—__ 
 
-                    (I) __Combination permitted.—__ 
+                    (I)  __Combination permitted__  __.—__ 
 
                     A project carried out under this paragraph may receive funding under section 5307, or any other provision of law.
 
-                    (II) __Government share.—__ 
+                    (II)  __Government share__  __.—__ 
 
                     Nothing in this clause may be construed to alter the Government share required under this section, section 5307, or any other provision of law.
 
-            (D) __Minimum amounts.—__ 
+            (D)  __Minimum amounts__  __.—__ 
 
             Of amounts made available by or appropriated under section 5338(b) in each fiscal year to carry out this paragraph—
 
@@ -245,15 +245,15 @@
 
                 (ii) not less than 10 percent shall be made available for eligible projects relating to facilities and related equipment for low or no emission buses.
 
-            (E) __Competitive process.—__ 
+            (E)  __Competitive process__  __.—__ 
 
             The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
 
-            (F) __Priority consideration.—__ 
+            (F)  __Priority consideration__  __.—__ 
 
             In making grants under this paragraph, the Secretary shall give priority to projects relating to low or no emission buses that make greater reductions in energy consumption and harmful emissions, including direct carbon emissions, than comparable standard buses or other low or no emission buses.
 
-            (G) __Availability of funds.—__ 
+            (G)  __Availability of funds__  __.—__ 
 
             Any amounts made available or appropriated to carry out this paragraph—
 
@@ -261,7 +261,7 @@
 
                 (ii) that remain unobligated at the end of the period described in clause (i) shall be added to the amount made available to an eligible project in the following fiscal year.
 
-    (e) __Annual Report on Research.—__ 
+    (e)  __Annual Report on Research__  __.—__ 
 
     Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—
 
@@ -273,15 +273,15 @@
 
     (f) __Government Share of Costs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Government share of the cost of a project carried out under this section shall not exceed 80 percent.
 
-        (2) __Non-government share.—__ 
+        (2)  __Non-government share__  __.—__ 
 
         The non-Government share of the cost of a project carried out under this section may be derived from in-kind contributions.
 
-        (3) __Financial benefit.—__ 
+        (3)  __Financial benefit__  __.—__ 
 
         If the Secretary determines that there would be a clear and direct financial benefit to an entity under a grant, contract, cooperative agreement, or other agreement under this section, the Secretary shall establish a Government share of the costs of the project to be carried out under the grant, contract, cooperative agreement, or other agreement that is consistent with the benefit.
 

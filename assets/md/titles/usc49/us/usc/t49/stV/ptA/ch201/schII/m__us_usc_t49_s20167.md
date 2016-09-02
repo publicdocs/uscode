@@ -15,15 +15,15 @@
 
 ## § 20167. Railroad safety infrastructure improvement grants
 
-    (a) __Grant Program.—__ 
+    (a)  __Grant Program__  __.—__ 
 
     The Secretary of Transportation shall establish a grant program for safety improvements to railroad infrastructure, including the acquisition, improvement, or rehabilitation of intermodal or rail equipment or facilities, including track, bridges, tunnels, yards, buildings, passenger stations, facilities, and maintenance and repair shops.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
     Grants shall be made under this section to eligible passenger and freight railroad carriers, and State and local governments for projects described in subsection (a). Grants shall also be made available to assist a State or political subdivision thereof in establishing a quiet zone pursuant to part 222 of title 49, Code of Federal Regulations.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     In awarding grants, the Secretary shall consider, at a minimum—
 
@@ -37,11 +37,11 @@
 
         (5) whether the railroad carrier has submitted a railroad safety risk reduction program, as required by section 20156.
 
-    (d) __Matching Requirements.—__ 
+    (d)  __Matching Requirements__  __.—__ 
 
     Federal funds for any eligible project under this section shall not exceed 50 percent of the total cost of such project.
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available until expended.
 

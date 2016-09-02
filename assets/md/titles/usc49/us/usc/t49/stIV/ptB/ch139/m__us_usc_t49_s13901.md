@@ -15,21 +15,21 @@
 
 ## § 13901. Requirements for registration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person may provide transportation as a motor carrier subject to jurisdiction under subchapter I of chapter 135 or service as a freight forwarder subject to jurisdiction under subchapter III of such chapter, or service as a broker for transportation subject to jurisdiction under subchapter I of such chapter only if the person is registered under this chapter to provide such transportation or service.
 
     (b) __Registration Numbers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Secretary registers a person under this chapter to provide transportation or service, including as a motor carrier, freight forwarder, or broker, the Secretary shall issue a distinctive registration number to the person for each such authority to provide transportation or service for which the person is registered.
 
-        (2) __Transportation or service type indicator.—__ 
+        (2)  __Transportation or service type indicator__  __.—__ 
 
         A number issued under paragraph (1) shall include an indicator of the type of transportation or service for which the registration number is issued, including whether the registration number is issued for registration of a motor carrier, freight forwarder, or broker.
 
-    (c) __Specification of Authority.—__ 
+    (c)  __Specification of Authority__  __.—__ 
 
     For each agreement to provide transportation or service for which registration is required under this chapter, the registrant shall specify, in writing, the authority under which the person is providing such transportation or service.
 

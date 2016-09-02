@@ -15,11 +15,11 @@
 
 ## § 44725. Life-limited aircraft parts
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require the safe disposition of life-limited parts removed from an aircraft. The rulemaking proceeding shall ensure that the disposition deter installation on an aircraft of a life-limited part that has reached or exceeded its life limits.
 
-    (b) __Safe Disposition.—__ 
+    (b)  __Safe Disposition__  __.—__ 
 
     For the purposes of this section, safe disposition includes any of the following methods:
 
@@ -33,7 +33,7 @@
 
         (5) Any other method approved by the Administrator.
 
-    (c) __Deadlines.—__ 
+    (c)  __Deadlines__  __.—__ 
 
     In conducting the rulemaking proceeding under subsection (a), the Administrator shall—
 
@@ -41,7 +41,7 @@
 
         (2) not later than 180 days after the close of the comment period on the proposed rule, issue a final rule.
 
-    (d) __Prior-Removed Life-Limited Parts.—__ 
+    (d)  __Prior-Removed Life-Limited Parts__  __.—__ 
 
     No rule issued under subsection (a) shall require the marking of parts removed from aircraft before the effective date of the rules issued under subsection (a), nor shall any such rule forbid the installation of an otherwise airworthy life-limited part.
 

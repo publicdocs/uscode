@@ -15,11 +15,11 @@
 
 ## § 44713. Inspection and maintenance
 
-    (a) __General Equipment Requirements.—__ 
+    (a)  __General Equipment Requirements__  __.—__ 
 
     An air carrier shall make, or cause to be made, any inspection, repair, or maintenance of equipment used in air transportation as required by this part or regulations prescribed or orders issued by the Administrator of the Federal Aviation Administration under this part. A person operating, inspecting, repairing, or maintaining the equipment shall comply with those requirements, regulations, and orders.
 
-    (b) __Duties of Inspectors.—__ 
+    (b)  __Duties of Inspectors__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall employ inspectors who shall—
 
@@ -27,11 +27,11 @@
 
         (2) advise and cooperate with the air carrier during that inspection and maintenance.
 
-    (c) __Unsafe Aircraft, Engines, Propellers, and Appliances.—__ 
+    (c)  __Unsafe Aircraft, Engines, Propellers, and Appliances__  __.—__ 
 
     When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator or the inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
 
-    (d) __Modifications in System.—__ 
+    (d)  __Modifications in System__  __.—__ 
 
         (1)
 
@@ -49,21 +49,21 @@
 
     (e) __Automated Surveillance Targeting Systems.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator shall give high priority to developing and deploying a fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
 
         (2) __Deadlines for deployment.—__ 
 
-            (A) __Initial phase.—__ 
+            (A)  __Initial phase__  __.—__ 
 
             The initial phase of the operational deployment of the system developed under this subsection shall begin not later than December 31, 1997.
 
-            (B) __Final phase.—__ 
+            (B)  __Final phase__  __.—__ 
 
             The final phase of field deployment of the system developed under this subsection shall begin not later than December 31, 1999. By that date, all principal operations and maintenance inspectors of the Administration, and appropriate supervisors and analysts of the Administration shall have been provided access to the necessary information and resources to carry out the system.
 
-        (3) __Integration of information.—__ 
+        (3)  __Integration of information__  __.—__ 
 
         In developing the system under this section, the Administration shall consider the near-term integration of accident and incident data into the safety performance analysis system under this subsection.
 
@@ -263,11 +263,11 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
 [Pub. L. 112–95, title III, § 319][/us/pl/112/95/s319], Feb. 14, 2012, [126 Stat. 69][/us/stat/126/69], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall issue regulations requiring that covered work on an aircraft used to provide air transportation under part 121 of title 14, Code of Federal Regulations, be performed by persons in accordance with subsection (b).
 
->     “(b) __Persons Authorized To Perform Certain Work.—__ 
+>     “(b)  __Persons Authorized To Perform Certain Work__  __.—__ 
 
 >     A person may perform covered work on aircraft used to provide air transportation under part 121 of title 14, Code of Federal Regulations, only if the person is employed by—
 
@@ -283,7 +283,7 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
 >             “(B) meets the requirements of the part 121 air carrier or the part 145 repair station, as appropriate.
 
->     “(c) __Terms and Conditions.—__ 
+>     “(c)  __Terms and Conditions__  __.—__ 
 
 >     Covered work performed by a person who is employed by a person described in subsection (b)(3) shall be subject to the following terms and conditions:
 
@@ -293,11 +293,11 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
 >         “(3) The person shall carry out the covered work under the supervision and control of the part 121 air carrier directly in charge of the covered work being performed on its aircraft.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Covered work.—__ 
+>         “(1)  __Covered work__  __.—__ 
 
 >         The term ‘covered work’ means any of the following:
 
@@ -307,15 +307,15 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
 >             “(C) A required inspection item (as defined by the Administrator).
 
->         “(2) __Part 121 air carrier.—__ 
+>         “(2)  __Part 121 air carrier__  __.—__ 
 
 >         The term ‘part 121 air carrier’ means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
 
->         “(3) __Part 145 repair station.—__ 
+>         “(3)  __Part 145 repair station__  __.—__ 
 
 >         The term ‘part 145 repair station’ means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
 
->         “(4) __Person.—__ 
+>         “(4)  __Person__  __.—__ 
 
 >         The term ‘person’ means an individual, firm, partnership, corporation, company, or association that performs maintenance, preventative maintenance, or alterations.”
 

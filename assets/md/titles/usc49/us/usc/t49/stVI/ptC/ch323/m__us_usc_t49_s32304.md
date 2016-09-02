@@ -15,7 +15,7 @@
 
 ## § 32304. Passenger motor vehicle country of origin labeling
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -105,7 +105,7 @@
 
             (B) transmissions of the same type produced at the same plant.
 
-    (b) __Manufacturer Requirement.—__ 
+    (b)  __Manufacturer Requirement__  __.—__ 
 
         (1)
 
@@ -123,11 +123,11 @@
 
         (3) A manufacturer complying with the requirement of paragraph (1)(B) of this subsection satisfies the disclosure requirement of section 3(b) of the Automobile Information Disclosure Act ([15 U.S.C. 1232(b)][/us/usc/t15/s1232/b]).
 
-    (c) __Vehicle Content Percentage by Assembly Plant.—__ 
+    (c)  __Vehicle Content Percentage by Assembly Plant__  __.—__ 
 
     A manufacturer may display separately on the label required by subsection (b) the domestic content of a vehicle based on the assembly plant. Such display shall occur after the matter required to be in the label by subsection (b)(1)(A).
 
-    (d) __Value Added Determination.—__ 
+    (d)  __Value Added Determination__  __.—__ 
 
     If a manufacturer or allied supplier requests information in a timely manner from one or more of its outside suppliers concerning the United States/Canadian content of particular equipment, but does not receive that information despite a good faith effort to obtain it, the manufacturer or allied supplier may make its own good faith value added determinations, subject to the following:
 
@@ -143,23 +143,23 @@
 
         (6) This provision does not affect the obligation of outside suppliers to provide the requested information.
 
-    (e) __Small Parts.—__ 
+    (e)  __Small Parts__  __.—__ 
 
     The country of origin of nuts, bolts, clips, screws, pins, braces, gasoline, oil, blackout, phosphate rinse, windshield washer fluid, fasteners, tire assembly fluid, rivets, adhesives, and grommets, of any system, subassembly, or component installed in a vehicle shall be considered to be the country in which such parts were included in the final assembly of such vehicle.
 
-    (f) __Dealer Requirement.—__ 
+    (f)  __Dealer Requirement__  __.—__ 
 
     Each dealer engaged in the sale or distribution of a new passenger motor vehicle manufactured after September 30, 1994, shall cause to be maintained on that vehicle the label required to be attached to that vehicle under subsection (b) of this section.
 
-    (g) __Form and Content of Label.—__ 
+    (g)  __Form and Content of Label__  __.—__ 
 
     The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act ([15 U.S.C. 1232][/us/usc/t15/s1232]), on the label required by [section 32908 of this title][/us/usc/t49/s32908], or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
 
-    (i) __Preemption.—__ 
+    (i)  __Preemption__  __.—__ 
 
         (1) When a label content requirement prescribed under this section is in effect, a State or a political subdivision of a State may not adopt or enforce a law or regulation related to the content of vehicles covered by a requirement under this section.
 

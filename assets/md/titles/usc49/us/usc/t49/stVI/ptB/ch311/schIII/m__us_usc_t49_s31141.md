@@ -15,17 +15,17 @@
 
 ## § 31141. Review and preemption of State laws and regulations
 
-    (a) __Preemption After Decision.—__ 
+    (a)  __Preemption After Decision__  __.—__ 
 
     A State may not enforce a State law or regulation on commercial motor vehicle safety that the Secretary of Transportation decides under this section may not be enforced.
 
-    (b) __Submission of Regulation.—__ 
+    (b)  __Submission of Regulation__  __.—__ 
 
     A State receiving funds made available under section 31104 that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
 
     (c) __Review and Decisions by Secretary.—__ 
 
-        (1) __Review.—__ 
+        (1)  __Review__  __.—__ 
 
         The Secretary shall review State laws and regulations on commercial motor vehicle safety. The Secretary shall decide whether the State law or regulation—
 
@@ -35,15 +35,15 @@
 
             (C) is additional to or more stringent than such regulation.
 
-        (2) __Regulations with same effect.—__ 
+        (2)  __Regulations with same effect__  __.—__ 
 
         If the Secretary decides a State law or regulation has the same effect as a regulation prescribed by the Secretary under [section 31136 of this title][/us/usc/t49/s31136], the State law or regulation may be enforced.
 
-        (3) __Less stringent regulations.—__ 
+        (3)  __Less stringent regulations__  __.—__ 
 
         If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under [section 31136 of this title][/us/usc/t49/s31136], the State law or regulation may not be enforced.
 
-        (4) __Additional or more stringent regulations.—__ 
+        (4)  __Additional or more stringent regulations__  __.—__ 
 
         If the Secretary decides a State law or regulation is additional to or more stringent than a regulation prescribed by the Secretary under [section 31136 of this title][/us/usc/t49/s31136], the State law or regulation may be enforced unless the Secretary also decides that—
 
@@ -53,21 +53,21 @@
 
             (C) enforcement of the State law or regulation would cause an unreasonable burden on interstate commerce.
 
-        (5) __Consideration of effect on interstate commerce.—__ 
+        (5)  __Consideration of effect on interstate commerce__  __.—__ 
 
         In deciding under paragraph (4) whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
 
-    (d) __Waivers.—__ 
+    (d)  __Waivers__  __.—__ 
 
         (1) A person (including a State) may petition the Secretary for a waiver of a decision of the Secretary that a State law or regulation may not be enforced under this section. The Secretary shall grant the waiver, as expeditiously as possible, if the person demonstrates to the satisfaction of the Secretary that the waiver is consistent with the public interest and the safe operation of commercial motor vehicles.
 
         (2) Before deciding whether to grant or deny a petition for a waiver under this subsection, the Secretary shall give the petitioner an opportunity for a hearing on the record.
 
-    (e) __Written Notice of Decisions.—__ 
+    (e)  __Written Notice of Decisions__  __.—__ 
 
     Not later than 10 days after making a decision under subsection (c) of this section that a State law or regulation may not be enforced, the Secretary shall give written notice to the State of that decision.
 
-    (f) __Judicial Review and Venue.—__ 
+    (f)  __Judicial Review and Venue__  __.—__ 
 
         (1) Not later than 60 days after the Secretary makes a decision under subsection (c) of this section, or grants or denies a petition for a waiver under subsection (d) of this section, a person (including a State) adversely affected by the decision, grant, or denial may file a petition for judicial review. The petition may be filed in the court of appeals of the United States for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business.
 
@@ -77,7 +77,7 @@
 
         (4) The remedies provided for in this subsection are in addition to other remedies provided by law.
 
-    (g) __Initiating Review Proceedings.—__ 
+    (g)  __Initiating Review Proceedings__  __.—__ 
 
     To review a State law or regulation on commercial motor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary’s own initiative or on petition of an interested person (including a State).
 

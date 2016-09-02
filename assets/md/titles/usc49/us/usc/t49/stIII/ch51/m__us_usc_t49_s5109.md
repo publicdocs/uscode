@@ -15,7 +15,7 @@
 
 ## § 5109. Motor carrier safety permits
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     A motor carrier may transport or cause to be transported by motor vehicle in commerce hazardous material only if the carrier holds a safety permit the Secretary issues under this section authorizing the transportation and keeps a copy of the permit, or other proof of its existence, in the vehicle. The Secretary shall issue a permit if the Secretary finds the carrier is fit, willing, and able—
 
@@ -25,7 +25,7 @@
 
         (3) to comply with applicable United States motor carrier safety laws and regulations and applicable minimum financial responsibility laws and regulations.
 
-    (b) __Applicable Transportation.—__ 
+    (b)  __Applicable Transportation__  __.—__ 
 
     The Secretary shall prescribe by regulation the hazardous material and amounts of hazardous material to which this section applies. However, this section shall apply at least to transportation by a motor carrier, in amounts the Secretary establishes, of—
 
@@ -37,17 +37,17 @@
 
         (4) a highway-route-controlled quantity of radioactive material, as defined by the Secretary.
 
-    (c) __Applications.—__ 
+    (c)  __Applications__  __.—__ 
 
     A motor carrier shall file an application with the Secretary for a safety permit to provide transportation under this section. The Secretary may approve any part of the application or deny the application. The application shall be under oath and contain information the Secretary requires by regulation.
 
-    (d) __Amendments, Suspensions, and Revocations.—__ 
+    (d)  __Amendments, Suspensions, and Revocations__  __.—__ 
 
         (1) After notice and an opportunity for a hearing, the Secretary may amend, suspend, or revoke a safety permit, as provided by procedures prescribed under subsection (e) of this section, when the Secretary decides the motor carrier is not complying with a requirement of this chapter, a regulation prescribed under this chapter, or an applicable United States motor carrier safety law or regulation or minimum financial responsibility law or regulation.
 
         (2) If the Secretary decides an imminent hazard exists, the Secretary may amend, suspend, or revoke a permit before scheduling a hearing.
 
-    (e) __Procedures.—__ 
+    (e)  __Procedures__  __.—__ 
 
     The Secretary shall prescribe by regulation—
 
@@ -59,15 +59,15 @@
 
         (4) other procedures the Secretary considers appropriate to carry out this section.
 
-    (f) __Shipper Responsibility.—__ 
+    (f)  __Shipper Responsibility__  __.—__ 
 
     A person offering hazardous material for motor vehicle transportation in commerce may offer the material to a motor carrier only if the carrier has a safety permit issued under this section authorizing the transportation.
 
-    (g) __Conditions.—__ 
+    (g)  __Conditions__  __.—__ 
 
     A motor carrier may provide transportation under a safety permit issued under this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.
 
@@ -235,7 +235,7 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 
 [Pub. L. 112–141, div. C, title III, § 33014][/us/pl/112/141/s33014], July 6, 2012, [126 Stat. 840][/us/stat/126/840], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on, the implementation of the hazardous material safety permit program under [section 5109 of title 49][/us/usc/t49/s5109], United States Code. In conducting the study, the Secretary shall review, at a minimum—
 
@@ -249,7 +249,7 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 
 >         “(5) actions the Secretary could implement to improve the program, including whether to provide opportunities for an additional level of fitness review prior to the denial, revocation, or suspension of a safety permit.
 
->     “(b) __Actions Taken.—__ 
+>     “(b)  __Actions Taken__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act, based on the study conducted under subsection (a), the Secretary shall either institute a rulemaking to make any necessary improvements to the hazardous materials safety permit program under [section 5109 of title 49][/us/usc/t49/s5109], United States Code or publish in the Federal Register the Secretary’s justification for why a rulemaking is not necessary.”
 

@@ -15,7 +15,7 @@
 
 ## § 5334. Administrative provisions
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     In carrying out this chapter, the Secretary of Transportation may—
 
@@ -43,15 +43,15 @@
 
     (b) __Prohibitions Against Regulating Operations and Charges.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except for purposes of national defense or in the event of a national or regional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
 
-        (2) __Limitation on statutory construction.—__ 
+        (2)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this subsection shall be construed to prevent the Secretary from requiring a recipient of funds under this chapter to comply with the terms and conditions of its Federal assistance agreement.
 
-    (c) __Procedures for Prescribing Regulations.—__ 
+    (c)  __Procedures for Prescribing Regulations__  __.—__ 
 
         (1) The Secretary shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary’s semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives on the day the agenda is published.
 
@@ -61,7 +61,7 @@
 
         (4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
 
-    (d) __Budget Program and Set of Accounts.—__ 
+    (d)  __Budget Program and Set of Accounts__  __.—__ 
 
     The Secretary shall—
 
@@ -69,15 +69,15 @@
 
         (2) maintain a set of accounts for audit under chapter 35 of title 31.
 
-    (e) __Depository and Availability of Amounts.—__ 
+    (e)  __Depository and Availability of Amounts__  __.—__ 
 
     The Secretary shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
 
-    (f) __Binding Effect of Financial Transaction.—__ 
+    (f)  __Binding Effect of Financial Transaction__  __.—__ 
 
     A financial transaction of the Secretary under this chapter and a related voucher are binding on all officers and employees of the United States Government.
 
-    (g) __Dealing With Acquired Property.—__ 
+    (g)  __Dealing With Acquired Property__  __.—__ 
 
     Notwithstanding another law related to the Government acquiring, using, or disposing of real property, the Secretary may deal with property acquired under paragraph (3) or (4) of subsection (a) in any way. However, this subsection does not—
 
@@ -85,7 +85,7 @@
 
         (2) impair the civil rights, under the laws of a State or political subdivision of a State, of an inhabitant of the property.
 
-    (h) __Transfer of Assets No Longer Needed.—__ 
+    (h)  __Transfer of Assets No Longer Needed__  __.—__ 
 
         (1)
 
@@ -105,35 +105,35 @@
 
         (4) __Proceeds from the sale of transit assets.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             When real property, equipment, or supplies acquired with assistance under this chapter are no longer needed for public transportation purposes as determined under the applicable assistance agreement, the Secretary may authorize the sale, transfer, or lease of the assets under conditions determined by the Secretary and subject to the requirements of this subsection.
 
-            (B) __Use.—__ 
+            (B)  __Use__  __.—__ 
 
             The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
 
-            (C) __Relationship to other authority.—__ 
+            (C)  __Relationship to other authority__  __.—__ 
 
             The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
 
-    (i) __Transfer of Amounts and Non-Government Share.—__ 
+    (i)  __Transfer of Amounts and Non-Government Share__  __.—__ 
 
         (1) Amounts made available for a public transportation project under title 23 may be transferred to and administered by the Secretary under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
 
         (2) The provisions of title 23 related to the non-Government share apply to amounts under title 23 used for public transportation projects. The provisions of this chapter related to the non-Government share apply to amounts under this chapter used for highway projects.
 
-    (j) __Notification of Pending Discretionary Grants.—__ 
+    (j)  __Notification of Pending Discretionary Grants__  __.—__ 
 
     Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
     (k) __Agency Statements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of the Federal Transit Administration shall follow applicable rulemaking procedures under [section 553 of title 5][/us/usc/t5/s553] before the Federal Transit Administration issues a statement that imposes a binding obligation on recipients of Federal assistance under this chapter.
 
-        (2) __Binding obligation defined.—__ 
+        (2)  __Binding obligation defined__  __.—__ 
 
         In this subsection, the term “binding obligation” means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
 

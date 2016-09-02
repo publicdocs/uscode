@@ -15,7 +15,7 @@
 
 ## § 31139. Minimum financial responsibility for transporting property
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -33,7 +33,7 @@
 
         (3) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-    (b) __General Requirement and Minimum Amount.—__ 
+    (b)  __General Requirement and Minimum Amount__  __.—__ 
 
         (1)
 
@@ -47,11 +47,11 @@
 
         (2) The level of financial responsibility established under paragraph (1) of this subsection shall be at least $750,000.
 
-    (c) __Filing of Evidence of Financial Responsibility.—__ 
+    (c)  __Filing of Evidence of Financial Responsibility__  __.—__ 
 
     The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
-    (d) __Requirements for Hazardous Matter and Oil.—__ 
+    (d)  __Requirements for Hazardous Matter and Oil__  __.—__ 
 
         (1)
 
@@ -93,11 +93,11 @@
 
             (B) a farm vehicle transporting such a material or substance in interstate commerce (except in bulk).
 
-    (e) __Foreign Motor Carriers and Private Carriers.—__ 
+    (e)  __Foreign Motor Carriers and Private Carriers__  __.—__ 
 
     Regulations prescribed under this section may allow foreign motor carriers and foreign motor private carriers (as those terms are defined in [section 10530 of this title][/us/usc/t49/s10530]) providing transportation of property under a certificate of registration issued under section 10530 to meet the minimum levels of financial responsibility under this section only when those carriers are providing transportation for property in the United States.
 
-    (f) __Evidence of Financial Responsibility.—__ 
+    (f)  __Evidence of Financial Responsibility__  __.—__ 
 
         (1)
 
@@ -115,7 +115,7 @@
 
         (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
-    (g) __Civil Penalty.—__ 
+    (g)  __Civil Penalty__  __.—__ 
 
         (1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
@@ -135,7 +135,7 @@
 
         (5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
-    (h) __Nonapplication.—__ 
+    (h)  __Nonapplication__  __.—__ 
 
     This section does not apply to a motor vehicle having a gross vehicle weight rating of less than 10,000 pounds if the vehicle is not used to transport in interstate or foreign commerce—
 

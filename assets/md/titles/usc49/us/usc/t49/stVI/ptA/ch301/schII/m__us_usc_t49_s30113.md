@@ -15,11 +15,11 @@
 
 ## § 30113. General exemptions
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “low-emission motor vehicle” means a motor vehicle meeting the standards for new motor vehicles applicable to the vehicle under section 202 of the Clean Air Act ([42 U.S.C. 7521][/us/usc/t42/s7521]) when the vehicle is manufactured and emitting an air pollutant in an amount significantly below one of those standards.
 
-    (b) __Authority To Exempt and Procedures.—__ 
+    (b)  __Authority To Exempt and Procedures__  __.—__ 
 
         (1) The Secretary of Transportation may exempt, on a temporary basis, motor vehicles from a motor vehicle safety standard prescribed under this chapter or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title, on terms the Secretary considers appropriate. An exemption may be renewed. A renewal may be granted only on reapplication and must conform to the requirements of this subsection.
 
@@ -41,7 +41,7 @@
 
                 (iv) compliance with the standard would prevent the manufacturer from selling a motor vehicle with an overall safety level at least equal to the overall safety level of nonexempt vehicles.
 
-    (c) __Contents of Applications.—__ 
+    (c)  __Contents of Applications__  __.—__ 
 
     A manufacturer applying for an exemption under subsection (b) of this section shall include the following information in the application:
 
@@ -53,23 +53,23 @@
 
         (4) if the application is made under subsection (b)(3)(B)(iv) of this section, a detailed analysis showing how the vehicle provides an overall safety level at least equal to the overall safety level of nonexempt vehicles.
 
-    (d) __Eligibility.—__ 
+    (d)  __Eligibility__  __.—__ 
 
     A manufacturer is eligible for an exemption under subsection (b)(3)(B)(i) of this section (including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1)) only if the Secretary determines that the manufacturer’s total motor vehicle production in the most recent year of production is not more than 10,000. A manufacturer is eligible for an exemption under subsection (b)(3)(B)(ii), (iii), or (iv) of this section only if the Secretary determines the exemption is for not more than 2,500 vehicles to be sold in the United States in any 12-month period.
 
-    (e) __Maximum Period.—__ 
+    (e)  __Maximum Period__  __.—__ 
 
     An exemption or renewal under subsection (b)(3)(B)(i) of this section may be granted for not more than 3 years. An exemption or renewal under subsection (b)(3)(B)(ii), (iii), or (iv) of this section may be granted for not more than 2 years.
 
-    (f) __Disclosure.—__ 
+    (f)  __Disclosure__  __.—__ 
 
     The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 
-    (g) __Notice of Decision.—__ 
+    (g)  __Notice of Decision__  __.—__ 
 
     The Secretary shall publish in the Federal Register a notice of each decision granting an exemption under this section and the reasons for granting it.
 
-    (h) __Permanent Label Requirement.—__ 
+    (h)  __Permanent Label Requirement__  __.—__ 
 
     The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this title from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
 

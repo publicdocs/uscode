@@ -15,7 +15,7 @@
 
 ## § 47118. Designating current and former military airports
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     The Secretary of Transportation shall designate current or former military airports for which grants may be made under [section 47117(e)(1)(B) of this title][/us/usc/t49/s47117/e/1/B]. The maximum number of airports bearing such designation at any time is 15. The Secretary may only so designate an airport (other than an airport so designated before August 24, 1994) if—
 
@@ -31,11 +31,11 @@
 
         (2) the airport is a military installation with both military and civil aircraft operations.
 
-    (b) __Survey.—__ 
+    (b)  __Survey__  __.—__ 
 
     Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under [section 47104 of this title][/us/usc/t49/s47104].
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     In carrying out this section, the Secretary shall consider only current or former military airports for designation under this section if a grant under section 47117(e)(1)(B) would—
 
@@ -51,11 +51,11 @@
 
             (B) where there is a demonstrable lack of diversionary airports within the distance or flight-time required by regulations governing transoceanic flights.
 
-    (d) __Grants.—__ 
+    (d)  __Grants__  __.—__ 
 
     Grants under [section 47117(e)(1)(B) of this title][/us/usc/t49/s47117/e/1/B] may be made for an airport designated under subsection (a) of this section for the 5 fiscal years following the designation, and for subsequent periods, each not to exceed 5 fiscal years, if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent period.
 
-    (e) __Terminal Building Facilities.—__ 
+    (e)  __Terminal Building Facilities__  __.—__ 
 
     From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
 
@@ -65,19 +65,19 @@
 
     (f) __Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—__ 
 
-        (1) __Construction.—__ 
+        (1)  __Construction__  __.—__ 
 
         From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
 
-        (2) __Reimbursement.—__ 
+        (2)  __Reimbursement__  __.—__ 
 
         Upon approval of the Secretary, the sponsor of a current or former military airport the Secretary designates under this section may use an amount apportioned under section 47114, or made available under section 47115 or 47117(e)(1)(B), to the airport for reimbursement of costs incurred by the airport in fiscal years 2003 and 2004 for construction, improvement, or repair described in paragraph (1).
 
-    (g) __Designation of General Aviation Airports.—__ 
+    (g)  __Designation of General Aviation Airports__  __.—__ 
 
     Notwithstanding any other provision of this section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
 
-    (h) __Safety-Critical Airports.—__ 
+    (h)  __Safety-Critical Airports__  __.—__ 
 
     Notwithstanding any other provision of this chapter, a grant under section 47117(e)(1)(B) may be made for a federally owned airport designated under subsection (a) if the grant is for a project that is—
 

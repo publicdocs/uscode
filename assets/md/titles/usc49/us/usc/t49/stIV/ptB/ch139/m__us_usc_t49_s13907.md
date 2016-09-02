@@ -15,39 +15,39 @@
 
 ## § 13907. Household goods agents
 
-    (a) __Carriers Responsible for Agents.—__ 
+    (a)  __Carriers Responsible for Agents__  __.—__ 
 
     Each motor carrier providing transportation of household goods shall be responsible for all acts or omissions of any of its agents which relate to the performance of household goods transportation services (including accessorial or terminal services) and which are within the actual or apparent authority of the agent from the carrier or which are ratified by the carrier.
 
-    (b) __Standard for Selecting Agents.—__ 
+    (b)  __Standard for Selecting Agents__  __.—__ 
 
     Each motor carrier providing transportation of household goods shall use due diligence and reasonable care in selecting and maintaining agents who are sufficiently knowledgeable, fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services) and to fulfill the obligations imposed upon them by this part and by such carrier.
 
     (c) __Enforcement.—__ 
 
-        (1) __Complaint.—__ 
+        (1)  __Complaint__  __.—__ 
 
         Whenever the Secretary has reason to believe from a complaint or investigation that an agent providing household goods transportation services (including accessorial and terminal services) under the authority of a motor carrier providing transportation of household goods has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue to such agent a complaint stating the charges and containing notice of the time and place of a hearing which shall be held no later than 60 days after service of the complaint to such agent.
 
-        (2) __Right to defend.—__ 
+        (2)  __Right to defend__  __.—__ 
 
         The agent shall have the right to appear at such hearing and rebut the charges contained in the complaint.
 
-        (3) __Order.—__ 
+        (3)  __Order__  __.—__ 
 
         If the agent does not appear at the hearing or if the Secretary finds that the agent has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue an order to compel compliance with the requirement that the agent be fit, willing, and able. Thereafter, the Secretary may issue an order to limit, condition, or prohibit such agent from any involvement in the transportation or provision of services incidental to the transportation of household goods if, after notice and an opportunity for a hearing, the Secretary finds that such agent, within a reasonable time after the date of issuance of a compliance order under this section, but in no event less than 30 days after such date of issuance, has willfully failed to comply with such order.
 
-        (4) __Hearing.—__ 
+        (4)  __Hearing__  __.—__ 
 
         Upon filing of a petition with the Secretary by an agent who is the subject of an order issued pursuant to the second sentence of paragraph (3) of this subsection and after notice, a hearing shall be held with an opportunity to be heard. At such hearing, a determination shall be made whether the order issued pursuant to paragraph (3) of this subsection should be rescinded.
 
-        (5) __Court review.—__ 
+        (5)  __Court review__  __.—__ 
 
         Any agent adversely affected or aggrieved by an order of the Secretary issued under this subsection may seek relief in the appropriate United States court of appeals as provided by and in the manner prescribed in chapter 158 of title 28, United States Code.
 
     (d) __Limitation on Applicability of Antitrust Laws.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The antitrust laws, as defined in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]), do not apply to discussions or agreements between a motor carrier providing transportation of household goods and its agents (whether or not an agent is also a carrier) related solely to—
 
@@ -59,19 +59,19 @@
 
             (D) ownership of a motor carrier providing transportation of household goods by an agent or membership on the board of directors of any such motor carrier by an agent.
 
-        (2) __Board review.—__ 
+        (2)  __Board review__  __.—__ 
 
         The Board, upon its own initiative or request, shall review any activities undertaken under paragraph (1) and shall modify or terminate the activity if necessary to protect the public interest.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Household goods.—__ 
+        (1)  __Household goods__  __.—__ 
 
         The term “household goods” has the meaning such term had under [section 10102(11) of this title][/us/usc/t49/s10102/11], as in effect on December 31, 1995.
 
-        (2) __Transportation.—__ 
+        (2)  __Transportation__  __.—__ 
 
         The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 

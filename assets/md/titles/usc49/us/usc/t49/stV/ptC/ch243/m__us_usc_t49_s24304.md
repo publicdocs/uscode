@@ -237,11 +237,11 @@ Oct. 30, 1970, Pub. L. 91–518, § 304(d), (e), 84 Stat. 1332; restated Aug. 
 
 [Pub. L. 105–134, title IV, § 415(b)][/us/pl/105/134/s415/b], (c), Dec. 2, 1997, [111 Stat. 2590][/us/stat/111/2590], provided that:
 
->     “(b) __Redemption of Common Stock.—__ 
+>     “(b)  __Redemption of Common Stock__  __.—__ 
 
 >     Amtrak shall, before October 1, 2002, redeem all common stock previously issued, for the fair market value of such stock.
 
->     “(c) __Elimination of Liquidation Preference and Voting Rights of Preferred Stock.—__ 
+>     “(c)  __Elimination of Liquidation Preference and Voting Rights of Preferred Stock__  __.—__ 
 
 >         (1)
 

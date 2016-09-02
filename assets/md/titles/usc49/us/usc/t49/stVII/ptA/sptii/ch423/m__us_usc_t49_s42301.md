@@ -15,7 +15,7 @@
 
 ## § 42301. Emergency contingency plans
 
-    (a) __Submission of Air Carrier and Airport Plans.—__ 
+    (a)  __Submission of Air Carrier and Airport Plans__  __.—__ 
 
     Not later than 90 days after the date of enactment of this section, each of the following air carriers and airport operators shall submit to the Secretary of Transportation for review and approval an emergency contingency plan in accordance with the requirements of this section:
 
@@ -27,7 +27,7 @@
 
     (b) __Air Carrier Plans.—__ 
 
-        (1) __Plans for individual airports.—__ 
+        (1)  __Plans for individual airports__  __.—__ 
 
         An air carrier shall submit an emergency contingency plan under subsection (a) for—
 
@@ -35,7 +35,7 @@
 
             (B) each airport at which the carrier has flights for which the carrier has primary responsibility for inventory control.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         An emergency contingency plan submitted by an air carrier for an airport under subsection (a) shall contain a description of how the carrier will—
 
@@ -45,7 +45,7 @@
 
             (C) allow passengers to deplane following an excessive tarmac delay in accordance with paragraph (3).
 
-        (3) __Deplaning following an excessive tarmac delay.—__ 
+        (3)  __Deplaning following an excessive tarmac delay__  __.—__ 
 
         For purposes of paragraph (2)(C), an emergency contingency plan submitted by an air carrier under subsection (a) shall incorporate the following requirements:
 
@@ -61,7 +61,7 @@
 
                 (ii) the pilot in command determines that permitting a passenger to deplane would jeopardize passenger safety or security.
 
-    (c) __Airport Plans.—__ 
+    (c)  __Airport Plans__  __.—__ 
 
     An emergency contingency plan submitted by an airport operator under subsection (a) shall contain a description of how the operator, to the maximum extent practicable, will—
 
@@ -73,53 +73,53 @@
 
     (d) __Updates.—__ 
 
-        (1) __Air carriers.—__ 
+        (1)  __Air carriers__  __.—__ 
 
         An air carrier shall update each emergency contingency plan submitted by the carrier under subsection (a) every 3 years and submit the update to the Secretary for review and approval.
 
-        (2) __Airports.—__ 
+        (2)  __Airports__  __.—__ 
 
         An airport operator shall update each emergency contingency plan submitted by the operator under subsection (a) every 5 years and submit the update to the Secretary for review and approval.
 
     (e) __Approval.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 60 days after the date of the receipt of an emergency contingency plan submitted under subsection (a) or an update submitted under subsection (d), the Secretary shall review and approve or, if necessary, require modifications to the plan or update to ensure that the plan or update will effectively address emergencies and provide for the health and safety of passengers.
 
-        (2) __Failure to approve or require modifications.—__ 
+        (2)  __Failure to approve or require modifications__  __.—__ 
 
         If the Secretary fails to approve or require modifications to a plan or update under paragraph (1) within the timeframe specified in that paragraph, the plan or update shall be deemed to be approved.
 
-        (3) __Adherence required.—__ 
+        (3)  __Adherence required__  __.—__ 
 
         An air carrier or airport operator shall adhere to an emergency contingency plan of the carrier or operator approved under this section.
 
-    (f) __Minimum Standards.—__ 
+    (f)  __Minimum Standards__  __.—__ 
 
     The Secretary shall establish, as necessary or desirable, minimum standards for elements in an emergency contingency plan required to be submitted under this section.
 
-    (g) __Public Access.—__ 
+    (g)  __Public Access__  __.—__ 
 
     An air carrier or airport operator required to submit an emergency contingency plan under this section shall ensure public access to the plan after its approval under this section on the Internet Web site of the carrier or operator or by such other means as determined by the Secretary.
 
-    (h) __Reports.—__ 
+    (h)  __Reports__  __.—__ 
 
     Not later than 30 days after any flight experiences an excessive tarmac delay, the air carrier responsible for such flight shall submit a written description of the incident and its resolution to the Aviation Consumer Protection Division of the Department of Transportation.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Commercial airport.—__ 
+        (1)  __Commercial airport__  __.—__ 
 
         The term “commercial airport” means a large hub, medium hub, small hub, or nonhub airport.
 
-        (2) __Covered air transportation.—__ 
+        (2)  __Covered air transportation__  __.—__ 
 
         The term “covered air transportation” means scheduled or public charter passenger air transportation provided by an air carrier that operates an aircraft that as originally designed has a passenger capacity of 30 or more seats.
 
-        (3) __Tarmac delay.—__ 
+        (3)  __Tarmac delay__  __.—__ 
 
         The term “tarmac delay” means the period during which passengers are on board an aircraft on the tarmac—
 
@@ -127,7 +127,7 @@
 
             (B) awaiting deplaning after the aircraft has landed.
 
-        (4) __Excessive tarmac delay.—__ 
+        (4)  __Excessive tarmac delay__  __.—__ 
 
         The term “excessive tarmac delay” means a tarmac delay that lasts for a length of time, as determined by the Secretary.
 

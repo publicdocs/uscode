@@ -15,33 +15,33 @@
 
 ## § 40113. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary, Under Secretary, or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
 
-    (b) __Hazardous Material.—__ 
+    (b)  __Hazardous Material__  __.—__ 
 
     In carrying out this part, the Secretary has the same authority to regulate the transportation of hazardous material by air that the Secretary has under [section 5103 of this title][/us/usc/t49/s5103]. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in [section 232 of title 18][/us/usc/t18/s232]) or ammunition for a firearm, when transported by an individual for personal use.
 
-    (c) __Governmental Assistance.—__ 
+    (c)  __Governmental Assistance__  __.—__ 
 
     The Secretary (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may use the assistance of the Administrator of the National Aeronautics and Space Administration and any research or technical department, agency, or instrumentality of the United States Government on matters related to aircraft fuel and oil, and to the design, material, workmanship, construction, performance, maintenance, and operation of aircraft, aircraft engines, propellers, appliances, and air navigation facilities. Each department, agency, and instrumentality may conduct scientific and technical research, investigations, and tests necessary to assist the Secretary or Administrator of the Federal Aviation Administration in carrying out this part. This part does not authorize duplicating laboratory research activities of a department, agency, or instrumentality.
 
-    (d) __Indemnification.—__ 
+    (d)  __Indemnification__  __.—__ 
 
     The Under Secretary of Transportation for Security or the Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be, against a claim or judgment arising out of an act that the Under Secretary or Administrator, as the case may be, decides was committed within the scope of the official duties of the officer or employee.
 
     (e) __Assistance to Foreign Aviation Authorities.—__ 
 
-        (1) __Safety-related training and operational services.—__ 
+        (1)  __Safety-related training and operational services__  __.—__ 
 
         The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
-        (2) __Reimbursement sought.—__ 
+        (2)  __Reimbursement sought__  __.—__ 
 
         The Administrator shall actively seek reimbursement for services provided under this subsection from foreign aviation authorities capable of providing such reimbursement. The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears.
 
-        (3) __Crediting appropriations.—__ 
+        (3)  __Crediting appropriations__  __.—__ 
 
         Funds received by the Administrator pursuant to this section shall—
 
@@ -51,11 +51,11 @@
 
             (C) remain available until expended.
 
-        (4) __Reporting.—__ 
+        (4)  __Reporting__  __.—__ 
 
         Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
 
-    (f) __Application of Certain Regulations to Alaska.—__ 
+    (f)  __Application of Certain Regulations to Alaska__  __.—__ 
 
     In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 

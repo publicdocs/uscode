@@ -15,7 +15,7 @@
 
 ## § 32908. Fuel economy information
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,7 +23,7 @@
 
         (2) “dealer” means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale.
 
-    (b) __Labeling Requirements and Contents.—__ 
+    (b)  __Labeling Requirements and Contents__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
             (D) contain a statement informing the consumer that the additional information required by subsection (c)(2) of this section is published and distributed by the Secretary of Energy.
 
-    (c) __Fuel Economy Information Booklet.—__ 
+    (c)  __Fuel Economy Information Booklet__  __.—__ 
 
         (1)
 
@@ -93,11 +93,11 @@
 
         (3) The Secretary of Energy shall publish and distribute the booklet. The Administrator shall prescribe regulations requiring dealers to make the booklet available to prospective buyers.
 
-    (d) __Disclosure.—__ 
+    (d)  __Disclosure__  __.—__ 
 
     A disclosure about fuel economy or estimated annual fuel costs under this section does not establish a warranty under a law of the United States or a State.
 
-    (e) __Violations.—__ 
+    (e)  __Violations__  __.—__ 
 
     A violation of subsection (b) of this section is—
 
@@ -105,13 +105,13 @@
 
         (2) an unfair or deceptive act or practice in or affecting commerce under the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.), except sections 5(m) and 18 ([15 U.S.C. 45(m)][/us/usc/t15/s45/m], 57a).
 
-    (f) __Consultation.—__ 
+    (f)  __Consultation__  __.—__ 
 
     The Administrator shall consult with the Federal Trade Commission and the Secretaries of Transportation and Energy in carrying out this section.
 
     (g) __Consumer Information.—__ 
 
-        (1) __Program.—__ 
+        (1)  __Program__  __.—__ 
 
         The Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall develop and implement by rule a program to require manufacturers—
 
@@ -135,19 +135,19 @@
 
         (2) __Consumer education.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall develop and implement by rule a consumer education program to improve consumer understanding of automobile performance described in paragraph (1)(A)(i) and to inform consumers of the benefits of using alternative fuel in automobiles and the location of stations with alternative fuel capacity.
 
-            (B) __Fuel savings education campaign.—__ 
+            (B)  __Fuel savings education campaign__  __.—__ 
 
             The Secretary of Transportation shall establish a consumer education campaign on the fuel savings that would be recognized from the purchase of vehicles equipped with thermal management technologies, including energy efficient air conditioning systems and glass.
 
-        (3) __Fuel tank labels for alternative fuel automobiles.—__ 
+        (3)  __Fuel tank labels for alternative fuel automobiles__  __.—__ 
 
         The Secretary of Transportation shall by rule require a label to be attached to the fuel compartment of vehicles capable of operating on alternative fuels, with the form of alternative fuel stated on the label. A label attached in compliance with the requirements of section 32905(h)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  is deemed to meet the requirements of this paragraph.
 
-        (4) __Rulemaking deadline.—__ 
+        (4)  __Rulemaking deadline__  __.—__ 
 
         The Secretary of Transportation shall issue a final rule under this subsection not later than 42 months after the date of the enactment of the Ten-in-Ten Fuel Economy Act.
 

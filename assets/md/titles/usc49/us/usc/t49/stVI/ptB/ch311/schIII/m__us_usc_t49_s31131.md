@@ -15,7 +15,7 @@
 
 ## § 31131. Purposes and findings
 
-    (a) __Purposes.—__ 
+    (a)  __Purposes__  __.—__ 
 
     The purposes of this subchapter are—
 
@@ -25,7 +25,7 @@
 
         (3) to ensure increased compliance with traffic laws and with the commercial motor vehicle safety and health regulations and standards prescribed and orders issued under this chapter.
 
-    (b) __Findings.—__ 
+    (b)  __Findings__  __.—__ 
 
     Congress finds—
 
@@ -109,11 +109,11 @@ Oct. 30, 1984, Pub. L. 98–554, §§ 202, 203, 98 Stat. 2832.  </td>
 
 [Pub. L. 106–159, title II, § 220][/us/pl/106/159/s220], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In cooperation with one or more States, the Secretary may carry out a program to develop innovative methods of improving motor carrier compliance with traffic laws. Such methods may include the use of photography and other imaging technologies.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall transmit to Congress a report on the results of any program conducted under this section, together with any recommendations as the Secretary determines appropriate.”
 

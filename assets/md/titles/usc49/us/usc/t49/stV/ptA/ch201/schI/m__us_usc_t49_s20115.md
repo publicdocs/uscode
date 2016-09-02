@@ -15,7 +15,7 @@
 
 ## § 20115. User fees
 
-    (a) __Schedule of Fees.—__ 
+    (a)  __Schedule of Fees__  __.—__ 
 
     The Secretary of Transportation shall prescribe by regulation a schedule of fees for railroad carriers subject to this chapter. The fees—
 
@@ -25,11 +25,11 @@
 
         (3) may not be based on that part of industry revenues attributable to a railroad carrier or class of railroad carriers.
 
-    (b) __Collection Procedures.—__ 
+    (b)  __Collection Procedures__  __.—__ 
 
     The Secretary shall prescribe procedures to collect the fees. The Secretary may use the services of a department, agency, or instrumentality of the United States Government or of a State or local authority to collect the fees, and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
 
-    (c) __Collection, Deposit, and Use.—__ 
+    (c)  __Collection, Deposit, and Use__  __.—__ 
 
         (1) The Secretary shall impose and collect fees under this section for each fiscal year before the end of the fiscal year.
 
@@ -37,7 +37,7 @@
 
         (3) Fees prescribed under this section shall be imposed in an amount sufficient to pay for the costs of activities under this chapter. However, the total fees received for a fiscal year may not be more than 105 percent of the total amount of the appropriations for the fiscal year for activities to be financed by the fees.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
             (B) there is a significant difference in the burden of Government user fees on the railroad industry and other competing modes of transportation.
 
-    (e) __Expiration.—__ 
+    (e)  __Expiration__  __.—__ 
 
     This section expires on September 30, 1995.
 

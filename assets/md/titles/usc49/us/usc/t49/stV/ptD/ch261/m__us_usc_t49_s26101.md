@@ -15,13 +15,13 @@
 
 ## § 26101. High-speed rail corridor planning
 
-    (a) __Corridor Planning Assistance.—__ 
+    (a)  __Corridor Planning Assistance__  __.—__ 
 
         (1) The Secretary may provide under this section financial assistance to a public agency or group of public agencies for corridor planning for up to 50 percent of the publicly financed costs associated with eligible activities.
 
         (2) No less than 20 percent of the publicly financed costs associated with eligible activities shall come from State and local sources, which State and local sources may not include funds from any Federal program.
 
-    (b) __Eligible Activities.—__ 
+    (b)  __Eligible Activities__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) No financial assistance shall be provided under this section for corridor planning with respect to the main line of the Northeast Corridor, between Washington, District of Columbia, and Boston, Massachusetts.
 
-    (c) __Criteria for Determining Financial Assistance.—__ 
+    (c)  __Criteria for Determining Financial Assistance__  __.—__ 
 
     Selection by the Secretary of recipients of financial assistance under this section shall be based on such criteria as the Secretary considers appropriate, including—
 
@@ -129,7 +129,7 @@
 
 [Pub. L. 103–440, title I, § 102][/us/pl/103/440/s102], Nov. 2, 1994, [108 Stat. 4615][/us/stat/108/4615], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -151,7 +151,7 @@
 
 >         “(9) Federal assistance is required for the improvement, adaptation, and integration of proven technologies for commercial application in high-speed rail service in the United States.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[see Short Title of 1994 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\] is to encourage farsighted State, local, and private efforts in the analysis and planning for high-speed rail systems in appropriate intercity corridors.”
 

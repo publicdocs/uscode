@@ -15,7 +15,7 @@
 
 ## § 20162. Minimum training standards and plans
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall, not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, establish—
 
@@ -25,11 +25,11 @@
 
         (3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 
-    (b) __Approval.—__ 
+    (b)  __Approval__  __.—__ 
 
     The Secretary shall review and approve the plans required under subsection (a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
 
-    (c) __Exemption.—__ 
+    (c)  __Exemption__  __.—__ 
 
     The Secretary may exempt railroad carriers and railroad carrier contractors and subcontractors from submitting training plans for which the Secretary has issued training regulations before the date of enactment of the Rail Safety Improvement Act of 2008.
 
@@ -43,11 +43,11 @@
 
 [Pub. L. 110–432, div. A, title IV, § 402(b)][/us/pl/110/432/s402/b]–(d), Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884], provided that:
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 6 months after promulgating regulations under [section 20162 of title 49][/us/usc/t49/s20162], United States Code, the Secretary shall issue a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure about whether the certification of certain crafts or classes of railroad carrier or railroad carrier contractor or subcontractor employees is necessary to reduce the number and rate of accidents and incidents or to improve railroad safety.
 
->     “(c) __Crafts and Classes to Be Considered.—__ 
+>     “(c)  __Crafts and Classes to Be Considered__  __.—__ 
 
 >     As part of the report, the Secretary shall consider—
 
@@ -63,7 +63,7 @@
 
 >         “(6) any other craft or class of employees that the Secretary determines appropriate.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary may prescribe regulations requiring the certification of certain crafts or classes of employees that the Secretary determines pursuant to the report required by paragraph (1) are necessary to reduce the number and rate of accidents and incidents or to improve railroad safety.”
 

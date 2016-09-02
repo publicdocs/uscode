@@ -15,7 +15,7 @@
 
 ## § 24710. Long-distance routes
 
-    (a) __Annual Evaluation.—__ 
+    (a)  __Annual Evaluation__  __.—__ 
 
     Using the financial and performance metrics developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008, Amtrak shall—
 
@@ -23,7 +23,7 @@
 
         (2) rank the overall performance of such routes for 2008 and identify each long-distance passenger rail route operated by Amtrak in 2008 according to its overall performance as belonging to the best performing third of such routes, the second best performing third of such routes, or the worst performing third of such routes.
 
-    (b) __Performance Improvement Plan.—__ 
+    (b)  __Performance Improvement Plan__  __.—__ 
 
     Amtrak shall develop and post on its website a performance improvement plan for its long-distance passenger rail routes to achieve financial and operating improvements based on the data collected through the application of the financial and performance metrics developed under section 207 of that Act. The plan shall address—
 
@@ -45,7 +45,7 @@
 
         (9) other aspects of Amtrak’s long-distance passenger rail routes that affect the financial, competitive, and functional performance of service on Amtrak’s long-distance passenger rail routes.
 
-    (c) __Implementation.—__ 
+    (c)  __Implementation__  __.—__ 
 
     Amtrak shall implement the performance improvement plan developed under subsection (b)—
 
@@ -55,7 +55,7 @@
 
         (3) beginning in fiscal year 2012 for those routes identified as being in the best performing third under subsection (a)(2).
 
-    (d) __Enforcement.—__ 
+    (d)  __Enforcement__  __.—__ 
 
     The Federal Railroad Administration shall monitor the development, implementation, and outcome of improvement plans under this section. If the Federal Railroad Administration determines that Amtrak is not making reasonable progress in implementing its performance improvement plan or, after the performance improvement plan is implemented under subsection (c)(1) in accordance with the terms of that plan, Amtrak has not achieved the outcomes it has established for such routes, under the plan for any calendar year, the Federal Railroad Administration—
 

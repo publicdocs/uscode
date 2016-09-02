@@ -15,11 +15,11 @@
 
 ## § 40120. Relationship to other laws
 
-    (a) __Nonapplication.—__ 
+    (a)  __Nonapplication__  __.—__ 
 
     Except as provided in the International Navigational Rules Act of 1977 ([33 U.S.C. 1601][/us/usc/t33/s1601] et seq.), the navigation and shipping laws of the United States and the rules for the prevention of collisions do not apply to aircraft or to the navigation of vessels related to those aircraft.
 
-    (b) __Extending Application Outside United States.—__ 
+    (b)  __Extending Application Outside United States__  __.—__ 
 
     The President may extend (in the way and for periods the President considers necessary) the application of this part to outside the United States when—
 
@@ -27,7 +27,7 @@
 
         (2) the President decides the extension is in the national interest.
 
-    (c) __Additional Remedies.—__ 
+    (c)  __Additional Remedies__  __.—__ 
 
     A remedy under this part is in addition to any other remedies provided by law.
 

@@ -15,15 +15,15 @@
 
 ## § 31107. Border enforcement grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation may make a grant in a fiscal year to an entity or State that shares a land border with another country for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
 
-    (b) __Governments__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “__  __Government’s”.__  __ </sup></sup> __  __Share of Costs.—__ 
+    (b)  __Governments __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “__  __Government’s”.__  __ </sup></sup> __  __ Share of Costs__  __.—__ 
 
     The Secretary shall reimburse a State under a grant made under this section an amount that is not more than 100 percent of the costs incurred by the State in a fiscal year for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
 
-    (c) __Availability and Reallocation of Amounts.—__ 
+    (c)  __Availability and Reallocation of Amounts__  __.—__ 
 
     Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are available to the Secretary for reallocation under this section.
 

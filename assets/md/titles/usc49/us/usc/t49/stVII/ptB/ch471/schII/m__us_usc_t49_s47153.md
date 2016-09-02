@@ -15,7 +15,7 @@
 
 ## § 47153. Waiving and adding terms
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -27,11 +27,11 @@
 
         (2) The Secretary of Transportation shall waive a term under paragraph (1) of this subsection on terms the Secretary considers necessary to protect or advance the civil aviation interests of the United States.
 
-    (b) __Waivers and Inclusion of Additional Terms on Request.—__ 
+    (b)  __Waivers and Inclusion of Additional Terms on Request__  __.—__ 
 
     On request of the Secretary of Transportation or the Secretary of a military department, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may waive a term required by [section 47152 of this title][/us/usc/t49/s47152] or add another term if the appropriate Secretary decides it is necessary to protect or advance the interests of the United States in civil aviation or for national defense.
 
-    (c) __Public Notice Before Waiver.—__ 
+    (c)  __Public Notice Before Waiver__  __.—__ 
 
     Notwithstanding subsections (a) and (b), before the Secretary may waive any term imposed under this section that an interest in land be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such term.
 

@@ -15,11 +15,11 @@
 
 ## § 24312. Labor standards
 
-    (a) __Prevailing Wages and Health and Safety Standards.—__ 
+    (a)  __Prevailing Wages and Health and Safety Standards__  __.—__ 
 
     Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under [section 24308(a) of this title][/us/usc/t49/s24308/a] will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under [section 3704 of title 40][/us/usc/t40/s3704] apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
-    (b) __Wage Rates.—__ 
+    (b)  __Wage Rates__  __.—__ 
 
     Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act ([45 U.S.C. 151][/us/usc/t45/s151] et seq.) are deemed to comply with sections 3141–3144, 3146, and 3147 of title 40.
 
@@ -121,15 +121,15 @@ Oct. 30, 1970, Pub. L. 91–518, § 405(e), 84 Stat. 1337; Aug. 13, 1981, Pub.
 
 >     “(b) __Amendment of Existing Collective Bargaining Agreement.—__ 
 
->         “(1) __Contracting out.—__ 
+>         “(1)  __Contracting out__  __.—__ 
 
 >         Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of [section 24312(b) of title 49][/us/usc/t49/s24312/b], United States Code, as that section existed on the day before the effective date \[Dec. 2, 1997\] of the amendments made by subsection (a) \[amending this section\].
 
->         “(2) __Enforceability of amendment.—__ 
+>         “(2)  __Enforceability of amendment__  __.—__ 
 
 >         The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\].
 
->     “(c) __Contracting-out Issues To Be Included in Negotiations.—__ 
+>     “(c)  __Contracting-out Issues To Be Included in Negotiations__  __.—__ 
 
 >     Proposals on the subject matter of contracting out work, other than work related to food and beverage service, which results in the layoff of an Amtrak employee—
 
@@ -149,7 +149,7 @@ Oct. 30, 1970, Pub. L. 91–518, § 405(e), 84 Stat. 1337; Aug. 13, 1981, Pub.
 
 >         No contract between Amtrak and an organization representing Amtrak employees, that is under negotiation on the date of enactment of this Act, may contain a moratorium that extends more than 5 years from the date of expiration of the last moratorium.
 
->     “(d) __No Inference.—__ 
+>     “(d)  __No Inference__  __.—__ 
 
 >     The amendment made by subsection (a)(1) \[amending this section\] is without prejudice to the power of Amtrak to contract out the provision of food and beverage services on board Amtrak trains or to contract out work not resulting in the layoff of Amtrak employees.”
 

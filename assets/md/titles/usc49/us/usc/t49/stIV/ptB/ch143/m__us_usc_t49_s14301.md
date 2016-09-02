@@ -15,27 +15,27 @@
 
 ## § 14301. Security interests in certain motor vehicles
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Motor vehicle.—__ 
+        (1)  __Motor vehicle__  __.—__ 
 
         The term “motor vehicle” means a truck of rated capacity (gross vehicle weight) of at least 10,000 pounds, a highway tractor of rated capacity (gross combination weight) of at least 10,000 pounds, a property-carrying trailer or semitrailer with at least one load-carrying axle of at least 10,000 pounds, or a motor bus with a seating capacity of at least 10 individuals.
 
-        (2) __Lien creditor.—__ 
+        (2)  __Lien creditor__  __.—__ 
 
         The term “lien creditor” means a creditor having a lien on a motor vehicle and includes an assignee for benefit of creditors from the date of assignment, a trustee in a case under title 11 from the date of filing of the petition in that case, and a receiver in equity from the date of appointment of the receiver.
 
-        (3) __Security interest.—__ 
+        (3)  __Security interest__  __.—__ 
 
         The term “security interest” means an interest (including an interest established by a conditional sales contract, mortgage, equipment trust, or other lien or title retention contract, or lease) in a motor vehicle when the interest secures payment or performance of an obligation.
 
-        (4) __Perfection.—__ 
+        (4)  __Perfection__  __.—__ 
 
         The term “perfection”, as related to a security interest, means taking action (including public filing, recording, notation on a certificate of title, and possession of collateral by the secured party), or the existence of facts, required under law to make a security interest enforceable against general creditors and subsequent lien creditors of a debtor, but does not include compliance with requirements related only to the establishment of a valid security interest between the debtor and the secured party.
 
-    (b) __Requirements for Perfection of Security Interest.—__ 
+    (b)  __Requirements for Perfection of Security Interest__  __.—__ 
 
     A security interest in a motor vehicle owned by, or in the possession and use of, a carrier registered under [section 13902 of this title][/us/usc/t49/s13902] and owing payment or performance of an obligation secured by that security interest is perfected in all jurisdictions against all general, and subsequent lien, creditors of, and all persons taking a motor vehicle by sale (or taking or retaining a security interest in a motor vehicle) from, that carrier when—
 

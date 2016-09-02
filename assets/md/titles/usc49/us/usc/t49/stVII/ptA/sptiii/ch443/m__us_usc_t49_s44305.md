@@ -15,7 +15,7 @@
 
 ## § 44305. Insuring United States Government property
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     With the approval of the President, a department, agency, or instrumentality of the United States Government may obtain—
 
@@ -29,7 +29,7 @@
 
             (B) to transport military forces or materiel on behalf of the United States under an agreement between the Government and the government of a foreign country.
 
-    (b) __Premium Waivers and Indemnification.—__ 
+    (b)  __Premium Waivers and Indemnification__  __.—__ 
 
     With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President’s designee, the agreement shall constitute, for purposes of section 44302(c), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
 

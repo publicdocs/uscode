@@ -15,7 +15,7 @@
 
 ## § 60132. National pipeline mapping system
 
-    (a) __Information To Be Provided.—__ 
+    (a)  __Information To Be Provided__  __.—__ 
 
     Not later than 6 months after the date of enactment of this section, the operator of a pipeline facility (except distribution lines and gathering lines) shall provide to the Secretary of Transportation the following information with respect to the facility:
 
@@ -27,15 +27,15 @@
 
         (4) Any other geospatial or technical data, including design and material specifications, that the Secretary determines are necessary to carry out the purposes of this section. The Secretary shall give reasonable notice to operators that the data are being requested.
 
-    (b) __Updates.—__ 
+    (b)  __Updates__  __.—__ 
 
     A person providing information under subsection (a) shall provide to the Secretary updates of the information to reflect changes in the pipeline facility owned or operated by the person and as otherwise required by the Secretary.
 
-    (c) __Technical Assistance To Improve Local Response Capabilities.—__ 
+    (c)  __Technical Assistance To Improve Local Response Capabilities__  __.—__ 
 
     The Secretary may provide technical assistance to State and local officials to improve local response capabilities for pipeline emergencies by adapting information available through the National Pipeline Mapping System to software used by emergency response personnel responding to pipeline emergencies.
 
-    (d) __Map of High-consequence Areas.—__ 
+    (d)  __Map of High-consequence Areas__  __.—__ 
 
     The Secretary shall—
 
@@ -43,11 +43,11 @@
 
         (2) update the map biennially.
 
-    (e) __Program To Promote Awareness of National Pipeline Mapping System.—__ 
+    (e)  __Program To Promote Awareness of National Pipeline Mapping System__  __.—__ 
 
     Not later than 1 year after the date of enactment of this subsection, the Secretary shall develop and implement a program promoting greater awareness of the existence of the National Pipeline Mapping System to State and local emergency responders and other interested parties. The program shall include guidance on how to use the National Pipeline Mapping System to locate pipelines in communities and local jurisdictions.
 
-    (f) __Public Disclosure Limited.—__ 
+    (f)  __Public Disclosure Limited__  __.—__ 
 
     The Secretary may not disclose information collected pursuant to subsection (a) except to the extent permitted by [section 552 of title 5][/us/usc/t5/s552].
 
@@ -71,11 +71,11 @@
 
 [Pub. L. 112–90, § 6(b)][/us/pl/112/90/s6/b], Jan. 3, 2012, [125 Stat. 1910][/us/stat/125/1910], provided that:
 
->     “(1) __Guidance.—__ 
+>     “(1)  __Guidance__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall issue guidance to owners and operators of pipeline facilities on the importance of providing system-specific information about their pipeline facilities to emergency response agencies of the communities and jurisdictions in which those facilities are located.
 
->     “(2) __Consultation.—__ 
+>     “(2)  __Consultation__  __.—__ 
 
 >     Before issuing guidance under paragraph (1), the Secretary shall consult with owners and operators of pipeline facilities to determine the extent to which the owners and operators are already providing system-specific information about their pipeline facilities to emergency response agencies.”
 

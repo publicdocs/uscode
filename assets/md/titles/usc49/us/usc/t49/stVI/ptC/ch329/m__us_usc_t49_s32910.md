@@ -15,7 +15,7 @@
 
 ## § 32910. Administrative
 
-    (a) __General Powers.—__ 
+    (a)  __General Powers__  __.—__ 
 
         (1)
 
@@ -29,15 +29,15 @@
 
         (2) A witness summoned under paragraph (1)(C) of this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-    (b) __Civil Actions To Enforce.—__ 
+    (b)  __Civil Actions To Enforce__  __.—__ 
 
     A civil action to enforce a subpena or order of the Secretary or Administrator under subsection (a) of this section may be brought in the district court of the United States for any judicial district in which the proceeding by the Secretary or Administrator is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary or Administrator as a contempt of court.
 
-    (c) __Disclosure of Information.—__ 
+    (c)  __Disclosure of Information__  __.—__ 
 
     The Secretary and the Administrator each shall disclose information obtained under this chapter (except information obtained under [section 32904(c) of this title][/us/usc/t49/s32904/c]) under [section 552 of title 5][/us/usc/t5/s552]. However, the Secretary or Administrator may withhold information under [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] only if the Secretary or Administrator decides that disclosure of the information would cause significant competitive damage. A matter referred to in section 552(b)(4) and relevant to an administrative or judicial proceeding under this chapter may be disclosed in that proceeding. A measurement or calculation under [section 32904(c) of this title][/us/usc/t49/s32904/c] shall be disclosed under [section 552 of title 5][/us/usc/t5/s552] without regard to section 552(b).
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Administrator may prescribe regulations to carry out duties of the Administrator under this chapter.
 

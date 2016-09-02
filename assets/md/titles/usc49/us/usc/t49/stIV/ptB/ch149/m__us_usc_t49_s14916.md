@@ -15,7 +15,7 @@
 
 ## § 14916. Unlawful brokerage activities
 
-    (a) __Prohibited Activities.—__ 
+    (a)  __Prohibited Activities__  __.—__ 
 
     A person may provide interstate brokerage services as a broker only if that person—
 
@@ -23,7 +23,7 @@
 
         (2) has satisfied the financial security requirements under section 13906.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) shall not apply to—
 
@@ -33,7 +33,7 @@
 
         (3) an indirect air carrier holding a Standard Security Program approved by the Transportation Security Administration, only to the extent that the indirect air carrier is engaging in the activities as an air carrier as defined in section 40102(2) or in the activities defined in section 40102(3).
 
-    (c) __Civil Penalties and Private Cause of Action.—__ 
+    (c)  __Civil Penalties and Private Cause of Action__  __.—__ 
 
     Any person who knowingly authorizes, consents to, or permits, directly or indirectly, either alone or in conjunction with any other person, a violation of subsection (a) is liable—
 
@@ -41,7 +41,7 @@
 
         (2) to the injured party for all valid claims incurred without regard to amount.
 
-    (d) __Liable Parties.—__ 
+    (d)  __Liable Parties__  __.—__ 
 
     The liability for civil penalties and for claims under this section for unauthorized brokering shall apply, jointly and severally—
 

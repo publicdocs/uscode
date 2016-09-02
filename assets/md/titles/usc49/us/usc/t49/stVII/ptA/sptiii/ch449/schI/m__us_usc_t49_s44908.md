@@ -15,7 +15,7 @@
 
 ## § 44908. Travel advisory and suspension of foreign assistance
 
-    (a) __Travel Advisories.—__ 
+    (a)  __Travel Advisories__  __.—__ 
 
     On being notified by the Secretary of Transportation that the Secretary of Transportation has decided under [section 44907(d)(2)(A)(ii) of this title][/us/usc/t49/s44907/d/2/A/ii] that a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from a foreign airport that the Secretary of Transportation has decided under [section 44907 of this title][/us/usc/t49/s44907] does not maintain and carry out effective security measures, the Secretary of State—
 
@@ -23,11 +23,11 @@
 
         (2) shall publicize the advisory widely.
 
-    (b) __Suspending Assistance.—__ 
+    (b)  __Suspending Assistance__  __.—__ 
 
     The President shall suspend assistance provided under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) or the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.) to a country in which is located an airport with respect to which [section 44907(d)(1) of this title][/us/usc/t49/s44907/d/1] becomes effective if the Secretary of State decides the country is a high terrorist threat country. The President may waive this subsection if the President decides, and reports to Congress, that the waiver is required because of national security interests or a humanitarian emergency.
 
-    (c) __Actions No Longer Required.—__ 
+    (c)  __Actions No Longer Required__  __.—__ 
 
     An action required under this section is no longer required only if the Secretary of Transportation has made a decision as provided under [section 44907(d)(4) of this title][/us/usc/t49/s44907/d/4]. The Secretary shall notify Congress when the action is no longer required to be taken.
 

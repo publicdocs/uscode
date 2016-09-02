@@ -15,11 +15,11 @@
 
 ## § 32916. Reports to Congress
 
-    (a) __Annual Report.—__ 
+    (a)  __Annual Report__  __.—__ 
 
     Not later than January 15 of each year, the Secretary of Transportation shall submit to each House of Congress, and publish in the Federal Register, a report on the review by the Secretary of average fuel economy standards prescribed under this chapter.
 
-    (b) __Joint Examinations After Granting Exemptions.—__ 
+    (b)  __Joint Examinations After Granting Exemptions__  __.—__ 
 
         (1)
 

@@ -15,7 +15,7 @@
 
 ## § 41312. Ending or suspending foreign air transportation
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     An air carrier holding a certificate issued under [section 41102 of this title][/us/usc/t49/s41102] to provide foreign air transportation—
 
@@ -23,7 +23,7 @@
 
         (2) if it is the only air carrier holding a certificate to provide non-stop or single-plane foreign air transportation between 2 places, may end or suspend the transportation between those places only when the carrier gives at least 60 days notice of its intention to end or suspend the transportation to the Secretary and each community directly affected by that decision.
 
-    (b) __Temporary Suspension.—__ 
+    (b)  __Temporary Suspension__  __.—__ 
 
     The Secretary may authorize the temporary suspension of foreign air transportation under subsection (a) of this section when the Secretary finds the suspension is in the public interest.
 

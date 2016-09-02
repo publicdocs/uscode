@@ -15,7 +15,7 @@
 
 ## § 48101. Air navigation facilities and equipment
 
-    (a) __General Authorization of Appropriations.—__ 
+    (a)  __General Authorization of Appropriations__  __.—__ 
 
     Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) to acquire, establish, and improve air navigation facilities under [section 44502(a)(1)(A) of this title][/us/usc/t49/s44502/a/1/A]:
 
@@ -27,15 +27,15 @@
 
         (4) $2,730,000,000 for fiscal year 2015.
 
-    (b) __Availability of Amounts.—__ 
+    (b)  __Availability of Amounts__  __.—__ 
 
     Amounts appropriated under this section remain available until expended.
 
-    (c) __Automated Surface Observation System/Automated Weather Observing System Upgrade.—__ 
+    (c)  __Automated Surface Observation System/Automated Weather Observing System Upgrade__  __.—__ 
 
     Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
 
-    (d) __Life-Cycle Cost Estimates.—__ 
+    (d)  __Life-Cycle Cost Estimates__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
@@ -247,7 +247,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pu
 
 [Pub. L. 108–176, title I, § 184][/us/pl/108/176/s184], Dec. 12, 2003, [117 Stat. 2517][/us/stat/117/2517], provided that:
 
->     “(a) __Biannual Reports.—__ 
+>     “(a)  __Biannual Reports__  __.—__ 
 
 >     Beginning 180 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months that describes—
 
@@ -259,7 +259,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pu
 
 >         “(4) technical risks associated with the programs.
 
->     “(b) __Sunset Provision.—__ 
+>     “(b)  __Sunset Provision__  __.—__ 
 
 >     This section shall cease to be effective beginning on the date that is 4 years after the date of enactment of this Act \[Dec. 12, 2003\].”
 

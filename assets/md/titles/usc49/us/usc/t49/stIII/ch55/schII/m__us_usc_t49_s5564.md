@@ -15,11 +15,11 @@
 
 ## § 5564. Interim preservation of certain rail passenger terminals
 
-    (a) __General Grant Authority.—__ 
+    (a)  __General Grant Authority__  __.—__ 
 
     Subject to subsection (b) of this section, the Secretary of Transportation may make a grant of financial assistance to a responsible person (including a governmental authority) to preserve a rail passenger terminal under [section 5562(a)(2) of this title][/us/usc/t49/s5562/a/2]. To receive assistance under this section, the person must be qualified, prepared, committed, and authorized by law to maintain (and prevent the demolition, dismantling, or further deterioration of) the terminal until plans for its reuse are prepared.
 
-    (b) __Grant Requirements.—__ 
+    (b)  __Grant Requirements__  __.—__ 
 
     The Secretary of Transportation may make a grant of financial assistance under this section only if—
 
@@ -27,7 +27,7 @@
 
         (2) planning activity directed toward conversion or reuse has begun and is proceeding in a competent way.
 
-    (c) __Maximizing Preservation of Terminals.—__ 
+    (c)  __Maximizing Preservation of Terminals__  __.—__ 
 
         (1)
 

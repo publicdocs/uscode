@@ -15,15 +15,15 @@
 
 ## § 47112. Carrying out airport development projects
 
-    (a) __Construction Work.—__ 
+    (a)  __Construction Work__  __.—__ 
 
     The Secretary of Transportation may inspect and approve construction work for an airport development project carried out under a grant agreement under this subchapter. The construction work must be carried out in compliance with regulations the Secretary prescribes. The regulations shall require the sponsor to make necessary cost and progress reports on the project. The regulations may amend or modify a contract related to the project only if the contract was made with actual notice of the regulations.
 
-    (b) __Prevailing Wages.—__ 
+    (b)  __Prevailing Wages__  __.—__ 
 
     A contract for more than $2,000 involving labor for an airport development project carried out under a grant agreement under this subchapter must require contractors to pay labor minimum wage rates as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. The minimum rates must be included in the bids for the work and in the invitation for those bids.
 
-    (c) __Veterans’ Preference.—__ 
+    (c)  __Veterans’ Preference__  __.—__ 
 
         (1)
 

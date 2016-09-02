@@ -15,11 +15,11 @@
 
 ## § 14302. Pooling and division of transportation or earnings
 
-    (a) __Approval Required.—__ 
+    (a)  __Approval Required__  __.—__ 
 
     A carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 may not agree or combine with another such carrier to pool or divide traffic or services or any part of their earnings without the approval of the Board under this section.
 
-    (b) __Standards for Approval.—__ 
+    (b)  __Standards for Approval__  __.—__ 
 
     The Board may approve and authorize an agreement or combination between or among motor carriers of passengers, or between a motor carrier of passengers and a rail carrier of passengers if the carriers involved assent to the pooling or division and the Board finds that a pooling or division of traffic, services, or earnings—
 
@@ -29,51 +29,51 @@
 
     (c) __Procedure.—__ 
 
-        (1) __Application.—__ 
+        (1)  __Application__  __.—__ 
 
         Any motor carrier of property may apply to the Board for approval of an agreement or combination with another such carrier to pool or divide traffic or any services or any part of their earnings by filing such agreement or combination with the Board not less than 50 days before its effective date.
 
-        (2) __Determination of importance and restraint on competition.—__ 
+        (2)  __Determination of importance and restraint on competition__  __.—__ 
 
         Prior to the effective date of the agreement or combination, the Board shall determine whether the agreement or combination is of major transportation importance and whether there is substantial likelihood that the agreement or combination will unduly restrain competition. If the Board determines that neither of these 2 factors exists, it shall, prior to such effective date and without a hearing, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
-        (3) __Hearing.—__ 
+        (3)  __Hearing__  __.—__ 
 
         If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
-        (4) __Special rules for household goods carriers.—__ 
+        (4)  __Special rules for household goods carriers__  __.—__ 
 
         In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
 
-        (5) __Streamlining and simplifying.—__ 
+        (5)  __Streamlining and simplifying__  __.—__ 
 
         The Board shall streamline, simplify, and expedite, to the maximum extent practicable, the process (including any paperwork) for submission and approval of applications under this section for agreements and combinations between motor carriers providing transportation of household goods and their agents.
 
-    (d) __Conditions.—__ 
+    (d)  __Conditions__  __.—__ 
 
     The Board may impose conditions governing the pooling or division and may approve and authorize payment of a reasonable consideration between the carriers.
 
-    (e) __Initiation of Proceeding.—__ 
+    (e)  __Initiation of Proceeding__  __.—__ 
 
     The Board may begin a proceeding under this section on its own initiative or on application.
 
-    (f) __Effect of Approval.—__ 
+    (f)  __Effect of Approval__  __.—__ 
 
     A carrier may participate in an arrangement approved by or exempted by the Board under this section without the approval of any other Federal, State, or municipal body. A carrier participating in an approved or exempted arrangement is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the arrangement.
 
-    (g) __Continuation of Existing Agreements.—__ 
+    (g)  __Continuation of Existing Agreements__  __.—__ 
 
     Any agreements in operation under the provisions of this title on January 1, 1996, that are succeeded by this section shall remain in effect until further order of the Board.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Household goods.—__ 
+        (1)  __Household goods__  __.—__ 
 
         The term “household goods” has the meaning such term had under [section 10102(11) of this title][/us/usc/t49/s10102/11], as in effect on December 31, 1995.
 
-        (2) __Transportation.—__ 
+        (2)  __Transportation__  __.—__ 
 
         The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 

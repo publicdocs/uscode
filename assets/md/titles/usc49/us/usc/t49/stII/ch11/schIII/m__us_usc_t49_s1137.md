@@ -15,11 +15,11 @@
 
 ## § 1137. Authority of the Inspector General
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Inspector General of the Department of Transportation, in accordance with the mission of the Inspector General to prevent and detect fraud and abuse, shall have authority to review only the financial management, property management, and business operations of the National Transportation Safety Board, including internal accounting and administrative control systems, to determine compliance with applicable Federal laws, rules, and regulations.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     In carrying out this section, the Inspector General shall—
 
@@ -29,17 +29,17 @@
 
         (3) report periodically to Congress on any progress made in implementing actions to address such problems.
 
-    (c) __Access to Information.—__ 
+    (c)  __Access to Information__  __.—__ 
 
     In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
 
     (d) __Authorizations of Appropriations.—__ 
 
-        (1) __Funding.—__ 
+        (1)  __Funding__  __.—__ 
 
         There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
 
-        (2) __Reimbursable agreement.—__ 
+        (2)  __Reimbursable agreement__  __.—__ 
 
         In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursable agreement to cover such expense.
 

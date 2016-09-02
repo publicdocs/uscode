@@ -15,11 +15,11 @@
 
 ## § 30308. Authorization of appropriations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall make available from amounts made available to carry out [section 402 of title 23][/us/usc/t23/s402] $4,000,000 for each of the fiscal years ending September 30, 1993, and September 30, 1994, $2,550,000 for each of fiscal years 1995, 1996, and 1997, and $1,855,000 for the period of October 1, 1997, through March 31, 1998, to carry out this chapter.
 
-    (b) __Availability of Amounts.—__ 
+    (b)  __Availability of Amounts__  __.—__ 
 
     Amounts authorized under this section remain available until expended.
 

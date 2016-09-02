@@ -17,11 +17,11 @@
 
     (a) __Interagency Committee.—__ 
 
-        (1) __Establishment and purpose.—__ 
+        (1)  __Establishment and purpose__  __.—__ 
 
         Not later than 30 days after the date of enactment of this section, the President shall establish an Interagency Committee to develop and ensure implementation of a coordinated environmental review and permitting process in order to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary.
 
-        (2) __Membership.—__ 
+        (2)  __Membership__  __.—__ 
 
         The Chairman of the Council on Environmental Quality (or a designee of the Chairman) shall chair the Interagency Committee, which shall consist of representatives of Federal agencies with responsibilities relating to pipeline repair projects, including each of the following persons (or a designee thereof):
 
@@ -41,23 +41,23 @@
 
             (H) The Chairman of the Federal Energy Regulatory Commission.
 
-        (3) __Evaluation.—__ 
+        (3)  __Evaluation__  __.—__ 
 
         The Interagency Committee shall evaluate Federal permitting requirements to which access, excavation, and restoration activities in connection with pipeline repairs described in paragraph (1) may be subject. As part of its evaluation, the Interagency Committee shall examine the access, excavation, and restoration practices of the pipeline industry in connection with such pipeline repairs, and may develop a compendium of best practices used by the industry to access, excavate, and restore the site of a pipeline repair.
 
-        (4) __Memorandum of understanding.—__ 
+        (4)  __Memorandum of understanding__  __.—__ 
 
         Based upon the evaluation required under paragraph (3) and not later than 1 year after the date of enactment of this section, the members of the Interagency Committee shall enter into a memorandum of understanding to provide for a coordinated and expedited pipeline repair permit review process to carry out the purpose set forth in paragraph (1). The Interagency Committee shall include provisions in the memorandum of understanding identifying those repairs or categories of repairs described in paragraph (1) for which the best practices identified under paragraph (3), when properly employed by a pipeline operator, would result in no more than minimal adverse effects on the environment and for which discretionary administrative reviews may therefore be minimized or eliminated. With respect to pipeline repairs described in paragraph (1) to which the preceding sentence would not be applicable, the Interagency Committee shall include provisions to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary. The Interagency Committee shall include in the memorandum of understanding criteria under which permits required for such pipeline repair activities should be prioritized over other less urgent agency permit application reviews. The Interagency Committee shall not enter into a memorandum of understanding under this paragraph except by unanimous agreement of the members of the Interagency Committee.
 
-        (5) __State and local consultation.—__ 
+        (5)  __State and local consultation__  __.—__ 
 
         In carrying out this subsection, the Interagency Committee shall consult with appropriate State and local environmental, pipeline safety, and emergency response officials, and such other officials as the Interagency Committee considers appropriate.
 
-    (b) __Implementation.—__ 
+    (b)  __Implementation__  __.—__ 
 
     Not later than 180 days after the completion of the memorandum of understanding required under subsection (a)(4), each agency represented on the Interagency Committee shall revise its regulations as necessary to implement the provisions of the memorandum of understanding.
 
-    (c) __Savings Provisions; No Preemption.—__ 
+    (c)  __Savings Provisions; No Preemption__  __.—__ 
 
     Nothing in this section shall be construed—
 
@@ -67,11 +67,11 @@
 
     (d) __Interim Operational Alternatives.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 30 days after the date of enactment of this section, and subject to the limitations in paragraph (2), the Secretary of Transportation shall revise the regulations of the Department, to the extent necessary, to permit a pipeline operator subject to time periods for repair specified by rule by the Secretary to implement alternative mitigation measures until all applicable permits have been granted.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         The regulations issued by the Secretary pursuant to this subsection shall not allow an operator to implement alternative mitigation measures pursuant to paragraph (1) unless—
 
@@ -81,11 +81,11 @@
 
             (C) the proposed alternative mitigation measures are not incompatible with pipeline safety.
 
-    (e) __Ombudsman.—__ 
+    (e)  __Ombudsman__  __.—__ 
 
     The Secretary shall designate an ombudsman to assist in expediting pipeline repairs and resolving disagreements between Federal, State, and local permitting agencies and the pipeline operator during agency review of any pipeline repair activity, consistent with protection of human health, public safety, and the environment.
 
-    (f) __State and Local Permitting Processes.—__ 
+    (f)  __State and Local Permitting Processes__  __.—__ 
 
     The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
 

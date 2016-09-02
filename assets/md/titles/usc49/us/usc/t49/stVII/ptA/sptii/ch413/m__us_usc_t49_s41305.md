@@ -15,7 +15,7 @@
 
 ## § 41305. Applications for permits
 
-    (a) __Form, Contents, Notice, Response, and Actions on Applications.—__ 
+    (a)  __Form, Contents, Notice, Response, and Actions on Applications__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) When an application is filed, the Secretary shall post a notice of the application in the office of the Secretary and give notice of the application to other persons as required by regulations of the Secretary. An interested person may file a response with the Secretary opposing or supporting the issuance of the permit. The Secretary shall act on an application as expeditiously as possible.
 
-    (b) __Terms.—__ 
+    (b)  __Terms__  __.—__ 
 
     The Secretary may impose terms for providing foreign air transportation under the permit that the Secretary finds may be required in the public interest.
 

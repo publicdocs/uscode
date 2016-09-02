@@ -15,7 +15,7 @@
 
 ## § 5128. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
@@ -23,7 +23,7 @@
 
         (2) $42,762,000 for fiscal year 2014.
 
-    (b) __Hazardous Materials Emergency Preparedness Fund.—__ 
+    (b)  __Hazardous Materials Emergency Preparedness Fund__  __.—__ 
 
     From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
 
@@ -37,17 +37,17 @@
 
         (5) $1,000,000 to carry out section 5116(j).
 
-    (c) __Hazardous Materials Training Grants.—__ 
+    (c)  __Hazardous Materials Training Grants__  __.—__ 
 
     From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 to carry out section 5107(e).
 
     (d) __Credits to Appropriations.—__ 
 
-        (1) __Expenses.—__ 
+        (1)  __Expenses__  __.—__ 
 
         In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, authority, or entity.
 
-        (2) __Availability of amounts.—__ 
+        (2)  __Availability of amounts__  __.—__ 
 
         Amounts made available under this section shall remain available until expended.
 

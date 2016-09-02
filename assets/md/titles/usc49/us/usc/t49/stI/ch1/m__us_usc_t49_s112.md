@@ -15,25 +15,25 @@
 
 ## § 112. Research and Innovative Technology Administration
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Research and Innovative Technology Administration shall be an administration in the Department of Transportation.
 
     (b) __Administrator.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The Administration shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-        (2) __Reporting.—__ 
+        (2)  __Reporting__  __.—__ 
 
         The Administrator shall report directly to the Secretary.
 
-    (c) __Deputy Administrator.—__ 
+    (c)  __Deputy Administrator__  __.—__ 
 
     The Administration shall have a Deputy Administrator who shall be appointed by the Secretary of Transportation. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
-    (d) __Powers and Duties of the Administrator.—__ 
+    (d)  __Powers and Duties of the Administrator__  __.—__ 
 
     The Administrator shall carry out—
 
@@ -53,7 +53,7 @@
 
         (2) other powers and duties prescribed by the Secretary.
 
-    (e) __Administrative Authorities.—__ 
+    (e)  __Administrative Authorities__  __.—__ 
 
     The Administrator may enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons—
 
@@ -61,13 +61,13 @@
 
         (2) to carry out other research activities of the Administration.
 
-    (f) __Program Evaluation and Oversight.—__ 
+    (f)  __Program Evaluation and Oversight__  __.—__ 
 
     For each of fiscal years 2013 and 2014, the Administrator is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for necessary expenses for administration and operations of the Research and Innovative Technology Administration for the coordination, evaluation, and oversight of the programs administered by the Administration.
 
     (g) __Collaborative Research and Development.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology, the Administrator may carry out, on a cost-shared basis, collaborative research and development with—
 
@@ -77,29 +77,29 @@
 
             (C) other Federal agencies.
 
-        (2) __Cooperation, grants, contracts, and agreements.—__ 
+        (2)  __Cooperation, grants, contracts, and agreements__  __.—__ 
 
         Notwithstanding any other provision of law, the Administrator may directly initiate contracts, grants, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a])), and other agreements to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, institutions of higher education, associations, and the agents of those entities to carry out joint transportation research and technology efforts.
 
         (3) __Federal share.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the Federal share of the cost of an activity carried out under paragraph (2) shall not exceed 50 percent.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             If the Secretary determines that the activity is of substantial public interest or benefit, the Secretary may approve a greater Federal share.
 
-            (C) __Non-federal share.—__ 
+            (C)  __Non-federal share__  __.—__ 
 
             All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity described in subparagraph (A).
 
-        (4) __Use of technology.—__ 
+        (4)  __Use of technology__  __.—__ 
 
         The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701][/us/usc/t15/s3701] et seq.).
 
-        (5) __Waiver of advertising requirements.—__ 
+        (5)  __Waiver of advertising requirements__  __.—__ 
 
         [Section 6101 of title 41][/us/usc/t41/s6101] shall not apply to a contract, grant, or other agreement entered into under this section.
 
@@ -133,11 +133,11 @@
 
 [Pub. L. 108–426, § 4(b)][/us/pl/108/426/s4/b], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2004 Amendment note set out under [section 101 of this title][/us/usc/t49/s101]\] shall grant any authority to the Research and Innovative Technology Administration over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration.
 
->     “(2) __Applicability.—__ 
+>     “(2)  __Applicability__  __.—__ 
 
 >     Paragraph (1) shall not apply to the research and other programs, activities, standards, or regulations provided for in highway and traffic safety programs, administered by the Secretary through the National Highway Traffic Safety Administration, in title 23, United States Code, and chapter 303 of title 49, United States Code, as in effect on the date of enactment of this Act \[Nov. 30, 2004\].”
 
@@ -153,11 +153,11 @@
 
 [Pub. L. 102–508, title III, § 306][/us/pl/102/508/s306], Oct. 24, 1992, [106 Stat. 3309][/us/stat/106/3309], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall carry out a research and development program on underground utility location technologies.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $500,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 

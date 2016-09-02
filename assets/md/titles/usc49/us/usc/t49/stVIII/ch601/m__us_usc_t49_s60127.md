@@ -15,11 +15,11 @@
 
 ## § 60127. Population encroachment and rights-of-way
 
-    (a) __Study.—__ 
+    (a)  __Study__  __.—__ 
 
     The Secretary of Transportation, in conjunction with the Federal Energy Regulatory Commission and in consultation with appropriate Federal agencies and State and local governments, shall undertake a study of land use practices, zoning ordinances, and preservation of environmental resources with regard to pipeline rights-of-way and their maintenance.
 
-    (b) __Purpose of Study.—__ 
+    (b)  __Purpose of Study__  __.—__ 
 
     The purpose of the study shall be to gather information on land use practices, zoning ordinances, and preservation of environmental resources—
 
@@ -31,7 +31,7 @@
 
         (4) to address how to best preserve environmental resources in conjunction with maintaining pipeline rights-of-way, recognizing pipeline operators’ regulatory obligations to maintain rights-of-way and to protect public safety.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     In conducting the study, the Secretary shall consider, at a minimum, the following:
 
@@ -43,11 +43,11 @@
 
     (d) __Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of this subsection, the Secretary shall publish a report identifying practices, laws, and ordinances that are most successful in addressing issues of encroachment and maintenance on pipeline rights-of-way so as to more effectively protect public safety, pipeline workers, and the environment.
 
-        (2) __Distribution of report.—__ 
+        (2)  __Distribution of report__  __.—__ 
 
         The Secretary shall provide a copy of the report to—
 
@@ -55,7 +55,7 @@
 
             (B) States for further distribution to appropriate local authorities.
 
-        (3) __Adoption of practices, laws, and ordinances.—__ 
+        (3)  __Adoption of practices, laws, and ordinances__  __.—__ 
 
         The Secretary shall encourage Federal agencies and State and local governments to adopt and implement appropriate practices, laws, and ordinances, as identified in the report, to address the risks and hazards associated with encroachment upon pipeline rights-of-way and to address the potential methods of preserving environmental resources while maintaining pipeline rights-of-way, consistent with pipeline safety.
 

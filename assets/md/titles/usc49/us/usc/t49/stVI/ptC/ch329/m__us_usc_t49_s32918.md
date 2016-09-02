@@ -15,7 +15,7 @@
 
 ## § 32918. Retrofit devices
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “retrofit device” means any component, equipment, or other device—
 
@@ -25,17 +25,17 @@
 
         as determined under regulations of the Administrator of the Environmental Protection Agency. The term also includes a fuel additive for use in an automobile.
 
-    (b) __Examination of Fuel Economy Representations.—__ 
+    (b)  __Examination of Fuel Economy Representations__  __.—__ 
 
     The Federal Trade Commission shall establish a program for systematically examining fuel economy representations made with respect to retrofit devices. Whenever the Commission has reason to believe that any representation may be inaccurate, the Commission shall request the Administrator to evaluate, in accordance with subsection (c) of this section, the retrofit device with respect to which the representation was made.
 
-    (c) __Evaluation of Retrofit Devices.—__ 
+    (c)  __Evaluation of Retrofit Devices__  __.—__ 
 
         (1) On application of any manufacturer of a retrofit device (or prototype of a retrofit device), on request of the Commission under subsection (b) of this section, or on the motion of the Administrator, the Administrator shall evaluate, in accordance with regulations prescribed under subsection (e) of this section, any retrofit device to determine whether the retrofit device increases fuel economy and to determine whether the representations, if any, made with respect to the retrofit device are accurate.
 
         (2) If under paragraph (1) of this subsection, the Administrator tests, or causes to be tested, any retrofit device on the application of a manufacturer of the device, the manufacturer shall supply, at the manufacturer’s expense, one or more samples of the device to the Administrator and shall be liable for the costs of testing incurred by the Administrator. The procedures for testing retrofit devices so supplied may include a requirement for preliminary testing by a qualified independent testing laboratory, at the expense of the manufacturer of the device.
 
-    (d) __Results of Tests and Publication in Federal Register.—__ 
+    (d)  __Results of Tests and Publication in Federal Register__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (2) The summary and conclusions shall also be submitted to the Secretary of Transportation and the Commission.
 
-    (e) __Regulations Establishing Tests and Procedures for Evaluation of Retrofit Devices.—__ 
+    (e)  __Regulations Establishing Tests and Procedures for Evaluation of Retrofit Devices__  __.—__ 
 
     The Administrator shall prescribe regulations establishing—
 

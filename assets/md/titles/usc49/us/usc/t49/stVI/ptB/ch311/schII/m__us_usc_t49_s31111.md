@@ -15,19 +15,19 @@
 
 ## § 31111. Length limitations
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Automobile transporter.—__ 
+        (1)  __Automobile transporter__  __.—__ 
 
         The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
 
-        (2) __Maxi-cube vehicle.—__ 
+        (2)  __Maxi-cube vehicle__  __.—__ 
 
         The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
 
-        (3) __Truck tractor.—__ 
+        (3)  __Truck tractor__  __.—__ 
 
         The term “truck tractor” means—
 
@@ -35,11 +35,11 @@
 
             (B) a power unit that carries as property only motor vehicles when operating in combination with a semitrailer in transporting motor vehicles.
 
-        (4) __Driveaway saddlemount vehicle transporter combination.—__ 
+        (4)  __Driveaway saddlemount vehicle transporter combination__  __.—__ 
 
         The term “driveaway saddlemount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
 
-    (b) __General Limitations.—__ 
+    (b)  __General Limitations__  __.—__ 
 
         (1)
 
@@ -59,19 +59,19 @@
 
         (2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
 
-    (c) __Maxi-Cube and Vehicle Combination Limitations.—__ 
+    (c)  __Maxi-Cube and Vehicle Combination Limitations__  __.—__ 
 
     A State may not prohibit a maxi-cube vehicle or a commercial motor vehicle combination consisting of a truck tractor and 2 trailing units on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary under subsection (e) of this section.
 
-    (d) __Exclusion of Safety and Energy Conservation Devices.—__ 
+    (d)  __Exclusion of Safety and Energy Conservation Devices__  __.—__ 
 
     Length calculated under this section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle. However, such a device may not have by its design or use the ability to carry cargo.
 
-    (e) __Qualifying Highways.—__ 
+    (e)  __Qualifying Highways__  __.—__ 
 
     The Secretary by regulation shall designate as qualifying Federal-aid Primary System highways those highways of the Federal-aid Primary System in existence on June 1, 1991, that can accommodate safely the applicable vehicle lengths provided in this section.
 
-    (f) __Exemptions.—__ 
+    (f)  __Exemptions__  __.—__ 
 
         (1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
@@ -87,7 +87,7 @@
 
             (C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
 
-    (g) __Accommodating Specialized Equipment.—__ 
+    (g)  __Accommodating Specialized Equipment__  __.—__ 
 
     In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 

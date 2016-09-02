@@ -15,11 +15,11 @@
 
 ## § 46306. Registration violations involving aircraft not providing air transportation
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to aircraft not used to provide air transportation.
 
-    (b) __General Criminal Penalty.—__ 
+    (b)  __General Criminal Penalty__  __.—__ 
 
     Except as provided by subsection (c) of this section, a person shall be fined under title 18, imprisoned for not more than 3 years, or both, if the person—
 
@@ -55,7 +55,7 @@
 
         (9) operates an aircraft with a fuel tank or fuel system that has been installed or modified knowing that the tank, system, installation, or modification does not comply with regulations and requirements of the Administrator of the Federal Aviation Administration.
 
-    (c) __Controlled Substance Criminal Penalty.—__ 
+    (c)  __Controlled Substance Criminal Penalty__  __.—__ 
 
         (1) In this subsection, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802][/us/usc/t21/s802]).
 
@@ -69,7 +69,7 @@
 
         (3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 
-    (d) __Seizure and Forfeiture.—__ 
+    (d)  __Seizure and Forfeiture__  __.—__ 
 
         (1) The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
 
@@ -101,7 +101,7 @@
 
         (3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree to a memorandum of understanding to establish procedures to carry out this subsection.
 
-    (e) __Relationship to State Laws.—__ 
+    (e)  __Relationship to State Laws__  __.—__ 
 
     This part does not prevent a State from establishing a criminal penalty, including providing for forfeiture and seizure of aircraft, for a person that—
 

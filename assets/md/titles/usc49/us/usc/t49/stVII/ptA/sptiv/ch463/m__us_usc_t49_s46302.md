@@ -15,11 +15,11 @@
 
 ## § 46302. False information
 
-    (a) __Civil Penalty.—__ 
+    (a)  __Civil Penalty__  __.—__ 
 
     A person that, knowing the information to be false, gives, or causes to be given, under circumstances in which the information reasonably may be believed, false information about an alleged attempt being made or to be made to do an act that would violate section 46502(a), 46504, 46505, or 46506 of this title, is liable to the United States Government for a civil penalty of not more than $10,000 for each violation.
 
-    (b) __Compromise and Setoff.—__ 
+    (b)  __Compromise and Setoff__  __.—__ 
 
         (1) The Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation, may compromise the amount of a civil penalty imposed under subsection (a) of this section.
 

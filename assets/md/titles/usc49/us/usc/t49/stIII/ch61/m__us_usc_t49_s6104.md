@@ -15,7 +15,7 @@
 
 ## § 6104. Compliance with minimum standards
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     In order to qualify for a grant under section 6106, each State shall submit to the Secretary a grant application under subsection (b). The State shall submit the application not later than 2 years after the date of enactment of this chapter.
 
@@ -31,11 +31,11 @@
 
         (5) The application of a State under paragraph (1) and the record of actions of the Secretary under this section shall be available to the public.
 
-    (c) __Alternative Program.—__ 
+    (c)  __Alternative Program__  __.—__ 
 
     A State is eligible to receive a grant under section 6106 if the State maintains an alternative one-call notification program that provides protection for public safety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     The Secretary shall include the following information in reports submitted under [section 60124 of this title][/us/usc/t49/s60124]—
 

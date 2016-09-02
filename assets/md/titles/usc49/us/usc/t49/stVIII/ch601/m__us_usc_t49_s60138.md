@@ -15,7 +15,7 @@
 
 ## § 60138. Response plans
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall—
 
@@ -33,7 +33,7 @@
 
             (D) the specific amount and location of worst case discharges (as defined in part 194 of title 49, Code of Federal Regulations), including the process by which an owner or operator determines the worst case discharge.
 
-    (b) __Relationship to FOIA.—__ 
+    (b)  __Relationship to FOIA__  __.—__ 
 
     Nothing in this section may be construed to require disclosure of information or records that are exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 

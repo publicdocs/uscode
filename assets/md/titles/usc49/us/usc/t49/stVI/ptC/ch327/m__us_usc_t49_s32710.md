@@ -15,11 +15,11 @@
 
 ## § 32710. Civil actions by private persons
 
-    (a) __Violation and Amount of Damages.—__ 
+    (a)  __Violation and Amount of Damages__  __.—__ 
 
     A person that violates this chapter or a regulation prescribed or order issued under this chapter, with intent to defraud, is liable for 3 times the actual damages or $10,000, whichever is greater.
 
-    (b) __Civil Actions.—__ 
+    (b)  __Civil Actions__  __.—__ 
 
     A person may bring a civil action to enforce a claim under this section in an appropriate United States district court or in another court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues. The court shall award costs and a reasonable attorney’s fee to the person when a judgment is entered for that person.
 

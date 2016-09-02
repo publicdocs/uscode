@@ -15,7 +15,7 @@
 
 ## § 20902. Investigations
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation, or an impartial investigator authorized by the Secretary, may investigate—
 
@@ -23,11 +23,11 @@
 
         (2) an accident or incident reported under [section 20505 of this title][/us/usc/t49/s20505].
 
-    (b) __Other Duties and Powers.—__ 
+    (b)  __Other Duties and Powers__  __.—__ 
 
     In carrying out an investigation, the Secretary or authorized investigator may subpena witnesses, require the production of records, exhibits, and other evidence, administer oaths, and take testimony. If the accident or incident is investigated by a commission of the State in which it occurred, the Secretary, if convenient, shall carry out the investigation at the same time as, and in coordination with, the commission’s investigation. The railroad carrier on whose railroad line the accident or incident occurred shall provide reasonable facilities to the Secretary for the investigation.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
     When in the public interest, the Secretary shall make a report of the investigation, stating the cause of the accident or incident and making recommendations the Secretary considers appropriate. The Secretary shall publish the report in a way the Secretary considers appropriate.
 

@@ -15,7 +15,7 @@
 
 ## § 24711. Alternate passenger rail service pilot program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Within 1 year after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Federal Railroad Administration shall complete a rulemaking proceeding to develop a pilot program that—
 
@@ -43,11 +43,11 @@
 
         (6) requires that each bid contain a staffing plan describing the number of employees needed to operate the service, the job assignments and requirements, and the terms of work for prospective and current employees of the bidder for the service outlined in the bid, and such staffing plan be made available by the winning bidder to the public after the bid award.
 
-    (b) __Route Limitations.—__ 
+    (b)  __Route Limitations__  __.—__ 
 
     The Administration may not make the program available with respect to more than 2 Amtrak intercity passenger rail routes.
 
-    (c) __Performance Standards; Access to Facilities; Employees.—__ 
+    (c)  __Performance Standards; Access to Facilities; Employees__  __.—__ 
 
     If the Administration awards the right and obligation to provide passenger rail service over a route under the program to a rail carrier or rail carriers—
 
@@ -65,11 +65,11 @@
 
         (4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder and shall be subject to the grant conditions under [section 24405 of this title][/us/usc/t49/s24405].
 
-    (d) __Cessation of Service.—__ 
+    (d)  __Cessation of Service__  __.—__ 
 
     If a rail carrier or rail carriers awarded a route under this section cease to operate the service or fail to fulfill their obligations under the contract required under subsection (c), the Administrator, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including the installment of an interim service provider and re-bidding the contract to operate the service. The entity providing service shall either be Amtrak or a rail carrier defined in subsection (a)(1).
 
-    (e) __Adequate Resources.—__ 
+    (e)  __Adequate Resources__  __.—__ 
 
     Before taking any action allowed under this section, the Secretary shall certify that the Administrator has sufficient resources that are adequate to undertake the program established under this section.
 
@@ -93,11 +93,11 @@
 
 [Pub. L. 110–432, div. B, title II, § 215][/us/pl/110/432/s215], Oct. 16, 2008, [122 Stat. 4929][/us/stat/122/4929], provided that:
 
->     “(a) __Provision of Financial Incentives.—__ 
+>     “(a)  __Provision of Financial Incentives__  __.—__ 
 
 >     For Amtrak employees who are adversely affected by the cessation of the operation of a long-distance route or any other route under [section 24711 of title 49][/us/usc/t49/s24711], United States Code, previously operated by Amtrak, the Secretary \[of Transportation\] shall develop a program under which the Secretary may, at the Secretary’s discretion, provide grants for financial incentives to be provided to Amtrak employees who voluntarily terminate their employment with Amtrak and relinquish any legal rights to receive termination-related payments under any contractual agreement with Amtrak.
 
->     “(b) __Conditions for Financial Incentives.—__ 
+>     “(b)  __Conditions for Financial Incentives__  __.—__ 
 
 >     As a condition for receiving financial assistance grants under this section, Amtrak must certify that—
 
@@ -109,15 +109,15 @@
 
 >         “(4) the total number of employees eligible for termination-related payments will not be increased without the express written consent of the Secretary.
 
->     “(c) __Amount of Financial Incentives.—__ 
+>     “(c)  __Amount of Financial Incentives__  __.—__ 
 
 >     The financial incentives authorized under this section may be no greater than $100,000 per employee.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to make grants to Amtrak to provide financial incentives under subsection (a).
 
->     “(e) __Termination-Related Payments.—__ 
+>     “(e)  __Termination-Related Payments__  __.—__ 
 
 >     If Amtrak employees adversely affected by the cessation of Amtrak service resulting from the awarding of a grant to an operator other than Amtrak for the operation of a route under [section 24711 of title 49][/us/usc/t49/s24711], United States Code, or any other route, previously operated by Amtrak do not receive financial incentives under subsection (a), then the Secretary shall make grants to Amtrak from funds authorized by section 101 of this division \[[122 Stat. 4908][/us/stat/122/4908]\] for termination-related payments to employees under existing contractual agreements.”
 

@@ -15,7 +15,7 @@
 
 ## § 47171. Expedited, coordinated environmental review process
 
-    (a) __Aviation Project Review Process.—__ 
+    (a)  __Aviation Project Review Process__  __.—__ 
 
     The Secretary of Transportation shall develop and implement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
 
@@ -27,17 +27,17 @@
 
     (b) __Aviation Projects Subject to a Streamlined Environmental Review Process.—__ 
 
-        (1) __Airport capacity enhancement projects at congested airports.—__ 
+        (1)  __Airport capacity enhancement projects at congested airports__  __.—__ 
 
         An airport capacity enhancement project at a congested airport shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
 
         (2) __Aviation safety and aviation security projects.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator of the Federal Aviation Administration may designate an aviation safety project or aviation security project for priority environmental review. The Administrator may not delegate this designation authority. A designated project shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
 
-            (B) __Project designation criteria.—__ 
+            (B)  __Project designation criteria__  __.—__ 
 
             The Administrator shall establish guidelines for the designation of an aviation safety project or aviation security project for priority environmental review. Such guidelines shall provide for consideration of—
 
@@ -53,63 +53,63 @@
 
     (c) __High Priority of and Agency Participation in Coordinated Reviews.—__ 
 
-        (1) __High priority for environmental reviews.—__ 
+        (1)  __High priority for environmental reviews__  __.—__ 
 
         Each Federal agency with jurisdiction over an environmental review, analysis, opinion, permit, license, or approval shall accord any such review, analysis, opinion, permit, license, or approval involving an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2) the highest possible priority and conduct the review, analysis, opinion, permit, license, or approval expeditiously.
 
-        (2) __Agency participation.—__ 
+        (2)  __Agency participation__  __.—__ 
 
         Each Federal agency described in subsection (d) shall formulate and implement administrative, policy, and procedural mechanisms to enable the agency to participate in the coordinated environmental review process under this section and to ensure completion of environmental reviews, analyses, opinions, permits, licenses, and approvals described in subsection (a) in a timely and environmentally responsible manner.
 
-    (d) __Identification of Jurisdictional Agencies.—__ 
+    (d)  __Identification of Jurisdictional Agencies__  __.—__ 
 
     With respect to each airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2), the Secretary shall identify, as soon as practicable, all Federal and State agencies that may have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project.
 
-    (e) __State Authority.—__ 
+    (e)  __State Authority__  __.—__ 
 
     Under a coordinated review process being implemented under this section by the Secretary with respect to a project at an airport within the boundaries of a State, the Governor of the State, consistent with State law, may choose to participate in such process and provide that all State agencies that have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project, be subject to the process.
 
-    (f) __Memorandum of Understanding.—__ 
+    (f)  __Memorandum of Understanding__  __.—__ 
 
     The coordinated review process developed under this section may be incorporated into a memorandum of understanding for a project between the Secretary and the heads of other Federal and State agencies identified under subsection (d) with respect to the project and, if applicable, the airport sponsor.
 
     (g) __Use of Interagency Environmental Impact Statement Teams.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may utilize an interagency environmental impact statement team to expedite and coordinate the coordinated environmental review process for a project under this section. When utilizing an interagency environmental impact statement team, the Secretary shall invite Federal, State and Tribal agencies with jurisdiction by law, and may invite such agencies with special expertise, to participate on an interagency environmental impact statement team.
 
-        (2) __Responsibility of interagency environmental impact statement team.—__ 
+        (2)  __Responsibility of interagency environmental impact statement team__  __.—__ 
 
         Under a coordinated environmental review process being implemented under this section, the interagency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
 
-    (h) __Lead Agency Responsibility.—__ 
+    (h)  __Lead Agency Responsibility__  __.—__ 
 
     The Federal Aviation Administration shall be the lead agency for projects designated under subsection (b)(2) and airport capacity enhancement projects at congested airports and shall be responsible for defining the scope and content of the environmental impact statement, consistent with regulations issued by the Council on Environmental Quality. Any other Federal agency or State agency that is participating in a coordinated environmental review process under this section shall give substantial deference, to the extent consistent with applicable law and policy, to the aviation expertise of the Federal Aviation Administration.
 
     (i) __Effect of Failure To Meet Deadline.—__ 
 
-        (1) __Notification of congress and ceq.—__ 
+        (1)  __Notification of congress and ceq__  __.—__ 
 
          If the Secretary determines that a Federal agency, State agency, or airport sponsor that is participating in a coordinated review process under this section with respect to a project has not met a deadline established under subsection (a)(3) for the project, the Secretary shall notify, within 30 days of the date of such determination, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Council on Environmental Quality, and the agency or sponsor involved about the failure to meet the deadline.
 
-        (2) __Agency report.—__ 
+        (2)  __Agency report__  __.—__ 
 
         Not later than 30 days after date of receipt of a notice under paragraph (1), the agency or sponsor involved shall submit a report to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Council on Environmental Quality explaining why the agency or sponsor did not meet the deadline and what actions it intends to take to complete or issue the required review, analysis, opinion, permit, license, or approval.
 
-    (j) __Purpose and Need.—__ 
+    (j)  __Purpose and Need__  __.—__ 
 
     For any environmental review, analysis, opinion, permit, license, or approval that must be issued or made by a Federal or State agency that is participating in a coordinated review process under this section and that requires an analysis of purpose and need for the project, the agency, notwithstanding any other provision of law, shall be bound by the project purpose and need as defined by the Secretary.
 
-    (k) __Alternatives Analysis.—__ 
+    (k)  __Alternatives Analysis__  __.—__ 
 
     The Secretary shall determine the reasonable alternatives to an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2). Any other Federal agency, or State agency that is participating in a coordinated review process under this section with respect to the project shall consider only those alternatives to the project that the Secretary has determined are reasonable.
 
-    (l) __Solicitation and Consideration of Comments.—__ 
+    (l)  __Solicitation and Consideration of Comments__  __.—__ 
 
     In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4371][/us/usc/t42/s4371]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “4321”. </sup></sup>  et seq.).
 
-    (m) __Monitoring by Task Force.—__ 
+    (m)  __Monitoring by Task Force__  __.—__ 
 
     The Transportation Infrastructure Streamlining Task Force, established by Executive Order 13274 (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews), may monitor airport projects that are subject to the coordinated review process under this section.
 

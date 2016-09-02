@@ -15,49 +15,49 @@
 
 ## § 26106. High-speed rail corridor development
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall establish and implement a high-speed rail corridor development program.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Applicant.—__ 
+        (1)  __Applicant__  __.—__ 
 
         The term “applicant” means a State, a group of States, an Interstate Compact, a public agency established by one or more States and having responsibility for providing high-speed rail service, or Amtrak.
 
-        (2) __Corridor.—__ 
+        (2)  __Corridor__  __.—__ 
 
         The term “corridor” means a corridor designated by the Secretary pursuant to section 104(d)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23.
 
-        (3) __Capital project.—__ 
+        (3)  __Capital project__  __.—__ 
 
         The term “capital project” means a project or program in a State rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
 
-        (4) __High-speed rail.—__ 
+        (4)  __High-speed rail__  __.—__ 
 
         The term “high-speed rail” means intercity passenger rail service that is reasonably expected to reach speeds of at least 110 miles per hour.
 
-        (5) __Intercity passenger rail service.—__ 
+        (5)  __Intercity passenger rail service__  __.—__ 
 
         The term “intercity passenger rail service” has the meaning given the term “intercity rail passenger transportation” in [section 24102 of this title][/us/usc/t49/s24102].
 
-        (6) __State.—__ 
+        (6)  __State__  __.—__ 
 
         The term “State” means any of the 50 States or the District of Columbia.
 
-    (c) __General Authority.—__ 
+    (c)  __General Authority__  __.—__ 
 
     The Secretary may make grants under this section to an applicant to finance capital projects in high-speed rail corridors.
 
-    (d) __Applications.—__ 
+    (d)  __Applications__  __.—__ 
 
     Each applicant seeking to receive a grant under this section to develop a high-speed rail corridor shall submit to the Secretary an application in such form and in accordance with such requirements as the Secretary shall establish.
 
     (e) __Competitive Grant Selection and Criteria for Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall—
 
@@ -67,7 +67,7 @@
 
             (C) award grants on a competitive basis.
 
-        (2) __Grant criteria.—__ 
+        (2)  __Grant criteria__  __.—__ 
 
         The Secretary, in selecting the recipients of high-speed rail development grants to be provided under subsection (c), shall—
 
@@ -153,23 +153,23 @@
 
                     (III) financial commitments from host railroads, non-Federal governmental entities, non-governmental entities, and others.
 
-        (3) __Grant conditions.—__ 
+        (3)  __Grant conditions__  __.—__ 
 
         The Secretary shall require each recipient of a grant under this chapter to comply with the grant requirements of [section 24405 of this title][/us/usc/t49/s24405].
 
-        (4) __State rail plans.—__ 
+        (4)  __State rail plans__  __.—__ 
 
         State rail plans completed before the date of enactment of the Passenger Rail Investment and Improvement Act of 2008 that substantially meet the requirements of chapter 227 of this title, as determined by the Secretary pursuant to section 22506 1 of this title, shall be deemed by the Secretary to have met the requirements of paragraph (2)(A)(i) of this subsection.
 
-    (f) __Federal Share.—__ 
+    (f)  __Federal Share__  __.—__ 
 
     The Federal share of the cost of a project financed under this section shall not exceed 80 percent of the project net capital cost.
 
-    (g) __Issuance of Regulations.—__ 
+    (g)  __Issuance of Regulations__  __.—__ 
 
     Within 1 year after the date of enactment of this section, the Secretary shall issue regulations to carry out this section.
 
-    (h) __Authorization of Appropriations.—__ 
+    (h)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Secretary to carry out this section—
 
@@ -207,7 +207,7 @@
 
 >     “(a) __Solicitation of Proposals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall issue a request for proposals for projects for the financing, design, construction, operation, and maintenance of a high-speed intercity passenger rail system operating within a high-speed rail corridor, including—
 
@@ -233,15 +233,15 @@
 
 >             “(K) the Southeast Corridor.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         Proposals shall be submitted to the Secretary not later than 270 days after the publication of such request for proposals under paragraph (1).
 
->         “(3) __Performance standard.—__ 
+>         “(3)  __Performance standard__  __.—__ 
 
 >         Proposals submitted under paragraph (2) must meet any standards established by the Secretary. For corridors with existing intercity passenger rail service, proposals shall also be designed to achieve a reduction of existing minimum intercity rail service trip times between the main corridor city pairs by a minimum of 25 percent. In the case of a proposal submitted with respect to paragraph (1)(A), the proposal must be designed to achieve a 2-hour or less express service between Washington, District of Columbia, and New York City, New York.
 
->         “(4) __Contents.—__ 
+>         “(4)  __Contents__  __.—__ 
 
 >         A proposal submitted under this subsection shall include—
 
@@ -285,7 +285,7 @@
 
 >             “(L) a description of the project’s impacts on highway and aviation congestion, energy consumption, land use, and economic development in the service area.
 
->     “(b) __Determination and Establishment of Commissions.—__ 
+>     “(b)  __Determination and Establishment of Commissions__  __.—__ 
 
 >     Not later than 60 days after receipt of the proposals under subsection (a), the Secretary shall—
 
@@ -305,7 +305,7 @@
 
 >     “(c) __Commissions.—__ 
 
->         “(1) __Members.—__ 
+>         “(1)  __Members__  __.—__ 
 
 >         Each commission referred to in subsection (b)(2) shall include—
 
@@ -321,31 +321,31 @@
 
 >             “(D) \[sic\] the President of Amtrak or his or her designee.
 
->         “(2) __Appointment and selection.—__ 
+>         “(2)  __Appointment and selection__  __.—__ 
 
 >         The Secretary shall appoint the members under paragraph (1). In selecting each commission’s members to fulfill the requirements under paragraph (1)(B) and (E), the Secretary shall consult with the Chairmen and Ranking Members of the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
->         “(3) __Chairperson and vice-chairperson selection.—__ 
+>         “(3)  __Chairperson and vice-chairperson selection__  __.—__ 
 
 >         The Chairperson and Vice-Chairperson shall be elected from among members of each commission.
 
 >         “(4) __Quorum and vacancy.—__ 
 
->             “(A) __Quorum.—__ 
+>             “(A)  __Quorum__  __.—__ 
 
 >             A majority of the members of each commission shall constitute a quorum.
 
->             “(B) __Vacancy.—__ 
+>             “(B)  __Vacancy__  __.—__ 
 
 >             Any vacancy in each commission shall not affect its powers and shall be filled in the same manner in which the original appointment was made.
 
->         “(5) __Application of law.—__ 
+>         “(5)  __Application of law__  __.—__ 
 
 >         Except where otherwise provided by this section, the Federal Advisory Committee Act ([P.L. 92–463][/us/pl/92/463]) \[5 U.S.C. App.\] shall apply to each commission created under this section.
 
 >     “(d) __Commission Consideration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each commission established under subsection (b)(2) shall be responsible for reviewing the proposal or proposals forwarded to it under that subsection and not later than 90 days after the establishment of the commission, shall transmit to the Secretary a report which includes—
 
@@ -367,11 +367,11 @@
 
 >             “(I) any other recommendations by the commission concerning the proposed projects.
 
->         “(2) __Verbal presentation.—__ 
+>         “(2)  __Verbal presentation__  __.—__ 
 
 >         Proposers shall be given an opportunity to make a verbal presentation to the commission to explain their proposals.
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated to the Secretary for the use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
 
@@ -389,31 +389,31 @@
 
 >         “(3) The report required under paragraph (2) shall not be submitted by the Secretary until the report submitted under paragraph (1) has been considered through a hearing by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the report submitted under paragraph (1)(B).
 
->     “(f) __Preliminary Engineering.—__ 
+>     “(f)  __Preliminary Engineering__  __.—__ 
 
 >     For planning and preliminary engineering activities that meet the criteria of [section 26101 of title 49][/us/usc/t49/s26101], United States Code, (other than subsections (a) and (b)(2)) that are undertaken after the Secretary submits reports to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as required under subsection (e), not to exceed $5,000,000 is authorized to be appropriated from funds made available under section 26104(a) of such title. Only 1 proposal for each corridor under subsection (a) shall be eligible for such funds.
 
->     “(g) __No Actions Without Additional Authority.—__ 
+>     “(g)  __No Actions Without Additional Authority__  __.—__ 
 
 >     No Federal agency may take any action to implement, establish, facilitate, or otherwise act upon any proposal submitted under this section, other than those actions specifically authorized by this section, without explicit statutory authority enacted after the date of enactment of this Act \[Oct. 16, 2008\].
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Intercity passenger rail.—__ 
+>         “(1)  __Intercity passenger rail__  __.—__ 
 
 >         The term ‘intercity passenger rail’ means intercity rail passenger transportation as defined in [section 24102 of title 49][/us/usc/t49/s24102], United States Code.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ means any of the 50 States or the District of Columbia.
 
->         “(3) __Northeast corridor.—__ 
+>         “(3)  __Northeast corridor__  __.—__ 
 
 >         The term ‘Northeast Corridor’ has the meaning given under [section 24102 of title 49][/us/usc/t49/s24102], United States Code.
 
->         “(4) __High-speed rail corridor.—__ 
+>         “(4)  __High-speed rail corridor__  __.—__ 
 
 >         The terms ‘high-speed rail corridor’ and ‘corridor’ mean a corridor designated by the Secretary pursuant to \[former\] [section 104(d)(2) of title 23][/us/usc/t23/s104/d/2], United States Code, and the Northeast Corridor.”
 

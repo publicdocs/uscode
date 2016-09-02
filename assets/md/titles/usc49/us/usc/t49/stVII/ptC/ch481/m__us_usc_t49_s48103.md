@@ -15,11 +15,11 @@
 
 ## § 48103. Airport planning and development and noise compatibility planning and programs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2015.
 
-    (b) __Availability of Amounts.—__ 
+    (b)  __Availability of Amounts__  __.—__ 
 
     Amounts made available under subsection (a) shall remain available until expended.
 
@@ -193,11 +193,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 505(a) (2d sentence), 96 Stat. 676; Jan. 6
 
 [Pub. L. 106–181, title I, § 159][/us/pl/106/181/s159], Apr. 5, 2000, [114 Stat. 90][/us/stat/114/90], provided that:
 
->     “(a) __Timely Announcement.—__ 
+>     “(a)  __Timely Announcement__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall announce a grant to be made with funds made available under [section 48103 of title 49][/us/usc/t49/s48103], United States Code, in a timely fashion after receiving necessary documentation concerning the grant from the Administrator \[of the Federal Aviation Administration\].
 
->     “(b) __Notice to Committees.—__ 
+>     “(b)  __Notice to Committees__  __.—__ 
 
 >     If the Secretary provides any committee of Congress advance notice of a grant to be made with funds made available under [section 48103 of title 49][/us/usc/t49/s48103], United States Code, the Secretary shall provide, on the same date, such notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 

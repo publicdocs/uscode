@@ -723,11 +723,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 503(a)(12), 96 Stat. 673; Dec. 30, 1987, P
 
 [Pub. L. 108–176, title I, § 159(b)(2)][/us/pl/108/176/s159/b/2], Dec. 12, 2003, [117 Stat. 2510][/us/stat/117/2510], provided that:
 
->     “(A) __Eligible low-emission modifications and improvements.—__ 
+>     “(A)  __Eligible low-emission modifications and improvements__  __.—__ 
 
 >     The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, shall issue guidance describing eligible low-emission modifications and improvements, and stating how airport sponsors will demonstrate benefits, under [section 47102(3)(K) of title 49][/us/usc/t49/s47102/3/K], United States Code, as added by this subsection.
 
->     “(B) __Eligible low-emission vehicle technology.—__ 
+>     “(B)  __Eligible low-emission vehicle technology__  __.—__ 
 
 >     The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under [section 47102(3)(L) of title 49][/us/usc/t49/s47102/3/L], United States Code, as added by this subsection.”
 

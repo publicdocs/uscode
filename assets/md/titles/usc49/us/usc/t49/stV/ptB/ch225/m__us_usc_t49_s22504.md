@@ -15,11 +15,11 @@
 
 ## § 22504. Use of funds
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any State receiving a grant under section 22501(1) shall use the funds to develop, implement, and continue to measure the effectiveness of a dedicated program of public education and enforcement of highway-rail crossing safety laws and to prevent casualties along railroad rights-of-way. The Secretary may not make a grant under this chapter available to assist a State or political subdivision thereof in establishing or continuing a quiet zone pursuant to part 222 of title 49, Code of Federal Regulations.
 
-    (b) __Maximum Grant Amount Under Section 22501(2).—__ 
+    (b)  __Maximum Grant Amount Under Section__  __22501(2).—__ 
 
     No grant awarded under section 22501(2) may exceed $250,000.
 

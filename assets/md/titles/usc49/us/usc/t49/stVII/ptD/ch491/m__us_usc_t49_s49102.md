@@ -15,11 +15,11 @@
 
 ## § 49102. Purpose
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The purpose of this chapter is to authorize the transfer of operating responsibility under long-term lease of the 2 Metropolitan Washington Airport properties as a unit, including access highways and other related facilities, to a properly constituted independent airport authority created by Virginia and the District of Columbia, in order to achieve local control, management, operation, and development of these important transportation assets.
 
-    (b) __Inclusion of Baltimore/Washington International Airport Not Precluded.—__ 
+    (b)  __Inclusion of Baltimore/Washington International Airport Not Precluded__  __.—__ 
 
     This chapter does not prohibit the Airports Authority and Maryland from making an agreement to make Baltimore/Washington International Airport part of a regional airports authority, subject to terms agreed to by the Airports Authority, the Secretary of Transportation, Virginia, the District of Columbia, and Maryland.
 

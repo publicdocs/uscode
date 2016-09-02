@@ -17,11 +17,11 @@
 
     (a) __Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 2 years after the date of enactment of the Safe Roads Act of 2012, the Secretary of Transportation shall establish, operate, and maintain a national clearinghouse for records relating to alcohol and controlled substances testing of commercial motor vehicle operators.
 
-        (2) __Purposes.—__ 
+        (2)  __Purposes__  __.—__ 
 
         The purposes of the clearinghouse shall be—
 
@@ -29,21 +29,21 @@
 
             (B) to enhance the safety of our United States roadways by reducing accident and injuries involving the misuse of alcohol or use of controlled substances by operators of commercial motor vehicles.
 
-        (3) __Contents.—__ 
+        (3)  __Contents__  __.—__ 
 
         The clearinghouse shall function as a repository for records relating to the positive test results and test refusals of commercial motor vehicle operators and violations by such operators of prohibitions set forth in subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations).
 
-        (4) __Electronic exchange of records.—__ 
+        (4)  __Electronic exchange of records__  __.—__ 
 
         The Secretary shall ensure that records can be electronically submitted to, and requested from, the clearinghouse by authorized users.
 
-        (5) __Authorized operator.—__ 
+        (5)  __Authorized operator__  __.—__ 
 
         The Secretary may authorize a qualified private entity to operate and maintain the clearinghouse and to collect fees on behalf of the Secretary under subsection (e). The entity shall operate and maintain the clearinghouse and permit access to driver information and records from the clearinghouse in accordance with this section.
 
     (b) __Design of Clearinghouse.—__ 
 
-        (1) __Use of federal motor carrier safety administration recommendations.—__ 
+        (1)  __Use of federal motor carrier safety administration recommendations__  __.—__ 
 
         In establishing the clearinghouse, the Secretary shall consider—
 
@@ -51,7 +51,7 @@
 
             (B) the findings and recommendations contained in the Government Accountability Office’s May 2008 report to Congress entitled “Motor Carrier Safety: Improvements to Drug Testing Programs Could Better Identify Illegal Drug Users and Keep Them off the Road.”.
 
-        (2) __Development of secure processes.—__ 
+        (2)  __Development of secure processes__  __.—__ 
 
         In establishing the clearinghouse, the Secretary shall develop a secure process for—
 
@@ -71,7 +71,7 @@
 
             (H) updating an individual’s record upon completion of the return-to-duty process described in title 49, Code of Federal Regulations.
 
-        (3) __Employer alert of positive test result.—__ 
+        (3)  __Employer alert of positive test result__  __.—__ 
 
         In establishing the clearinghouse, the Secretary shall develop a secure method for electronically notifying an employer of each additional positive test result or other noncompliance—
 
@@ -79,13 +79,13 @@
 
             (B) for an employee who is listed as having multiple employers.
 
-        (4) __Archive capability.—__ 
+        (4)  __Archive capability__  __.—__ 
 
         In establishing the clearinghouse, the Secretary shall develop a process for archiving all clearinghouse records for the purposes of auditing and evaluating the timeliness, accuracy, and completeness of data in the clearinghouse.
 
         (5) __Future needs.—__ 
 
-            (A) __Interoperability with other data systems.—__ 
+            (A)  __Interoperability with other data systems__  __.—__ 
 
             In establishing the clearinghouse, the Secretary shall consider—
 
@@ -95,7 +95,7 @@
 
                 (iii) the potential interoperability of the clearinghouse with such systems.
 
-            (B) __Specific considerations.—__ 
+            (B)  __Specific considerations__  __.—__ 
 
             In carrying out subparagraph (A), the Secretary shall determine—
 
@@ -113,7 +113,7 @@
 
                 (ii) any change to the administration of the current testing program, such as forms, that is necessary to collect data for the clearinghouse.
 
-    (c) __Standard Formats.—__ 
+    (c)  __Standard Formats__  __.—__ 
 
     The Secretary shall develop standard formats to be used—
 
@@ -127,7 +127,7 @@
 
         (2) to notify an individual that a positive alcohol or controlled substances test result, refusing to test, and a violation of any of the prohibitions under subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations), will be reported to the clearinghouse.
 
-    (d) __Privacy.—__ 
+    (d)  __Privacy__  __.—__ 
 
     A release of information from the clearinghouse shall—
 
@@ -139,29 +139,29 @@
 
     (e) __Fees.—__ 
 
-        (1) __Authority to collect fees.—__ 
+        (1)  __Authority to collect fees__  __.—__ 
 
         Except as provided under paragraph (3), the Secretary may collect a reasonable, customary, and nominal fee from an authorized user of the clearinghouse for a request for information from the clearinghouse.
 
-        (2) __Use of fees.—__ 
+        (2)  __Use of fees__  __.—__ 
 
         Fees collected under this subsection shall be used for the operation and maintenance of the clearinghouse.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         The Secretary may not collect a fee from an individual requesting information from the clearinghouse that pertains to the record of that individual.
 
     (f) __Employer Requirements.—__ 
 
-        (1) __Determination concerning use of clearinghouse.—__ 
+        (1)  __Determination concerning use of clearinghouse__  __.—__ 
 
         The Secretary shall determine if an employer is authorized to use the clearinghouse to meet the alcohol and controlled substances testing requirements under title 49, Code of Federal Regulations.
 
-        (2) __Applicability of existing requirements.—__ 
+        (2)  __Applicability of existing requirements__  __.—__ 
 
         Each employer and service agent shall continue to comply with the alcohol and controlled substances testing requirements under title 49, Code of Federal Regulations.
 
-        (3) __Employment prohibitions.—__ 
+        (3)  __Employment prohibitions__  __.—__ 
 
         After the clearinghouse is established under subsection (a), at a date determined to be appropriate by the Secretary and published in the Federal Register, an employer shall utilize the clearinghouse to determine whether any employment prohibitions exist and shall not hire an individual to operate a commercial motor vehicle unless the employer determines that the individual, during the preceding 3-year period—
 
@@ -181,13 +181,13 @@
 
             (C) did not violate any other provision of subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations).
 
-        (4) __Annual review.—__ 
+        (4)  __Annual review__  __.—__ 
 
         After the clearinghouse is established under subsection (a), at a date determined to be appropriate by the Secretary and published in the Federal Register, an employer shall request and review a commercial motor vehicle operator’s record from the clearinghouse annually for as long as the commercial motor vehicle operator is under the employ of the employer.
 
     (g) __Reporting of Records.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Beginning 30 days after the date that the clearinghouse is established under subsection (a), a medical review officer, employer, service agent, and other appropriate person, as determined by the Secretary, shall promptly submit to the Secretary any record generated after the clearinghouse is initiated of an individual who—
 
@@ -197,15 +197,15 @@
 
             (C) violates any other provision of subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations).
 
-        (2) __Inclusion of records in clearinghouse.—__ 
+        (2)  __Inclusion of records in clearinghouse__  __.—__ 
 
         The Secretary shall include in the clearinghouse the records of positive test results and test refusals received under paragraph (1).
 
-        (3) __Modifications and deletions.—__ 
+        (3)  __Modifications and deletions__  __.—__ 
 
         If the Secretary determines that a record contained in the clearinghouse is not accurate, the Secretary shall modify or delete the record, as appropriate.
 
-        (4) __Notification.—__ 
+        (4)  __Notification__  __.—__ 
 
         The Secretary shall expeditiously notify an individual, unless such notification would be duplicative, when—
 
@@ -215,7 +215,7 @@
 
             (C) a record in the clearinghouse relating to the individual is released to an employer and specify the reason for the release.
 
-        (5) __Data quality and security standards for reporting and releasing.—__ 
+        (5)  __Data quality and security standards for reporting and releasing__  __.—__ 
 
         The Secretary may establish additional requirements, as appropriate, to ensure that—
 
@@ -225,7 +225,7 @@
 
             (C) an individual with a record in the clearinghouse has a cause of action for any inappropriate use of information included in the clearinghouse.
 
-        (6) __Retention of records.—__ 
+        (6)  __Retention of records__  __.—__ 
 
         The Secretary shall—
 
@@ -237,11 +237,11 @@
 
     (h) __Authorized Users.—__ 
 
-        (1) __Employers.—__ 
+        (1)  __Employers__  __.—__ 
 
         The Secretary shall establish a process for an employer, or an employer’s designated agent, to request and receive an individual’s record from the clearinghouse.
 
-            (A) __Consent.—__ 
+            (A)  __Consent__  __.—__ 
 
             An employer may not access an individual’s record from the clearinghouse unless the employer—
 
@@ -249,11 +249,11 @@
 
                 (ii) submits proof of the individual’s consent to the Secretary.
 
-            (B) __Access to records.—__ 
+            (B)  __Access to records__  __.—__ 
 
             After receiving a request from an employer for an individual’s record under subparagraph (A), the Secretary shall grant access to the individual’s record to the employer as expeditiously as practicable.
 
-            (C) __Retention of record requests.—__ 
+            (C)  __Retention of record requests__  __.—__ 
 
             The Secretary shall require an employer to retain for a 3-year period—
 
@@ -261,11 +261,11 @@
 
                 (ii) the information received pursuant to the request.
 
-            (D) __Use of records.—__ 
+            (D)  __Use of records__  __.—__ 
 
             An employer may use an individual’s record received from the clearinghouse only to assess and evaluate whether a prohibition applies with respect to the individual to operate a commercial motor vehicle for the employer.
 
-            (E) __Protection of privacy of individuals.—__ 
+            (E)  __Protection of privacy of individuals__  __.—__ 
 
             An employer that receives an individual’s record from the clearinghouse under subparagraph (B) shall—
 
@@ -273,15 +273,15 @@
 
                 (ii) ensure that information contained in the record is not divulged to a person or entity that is not directly involved in assessing and evaluating whether a prohibition applies with respect to the individual to operate a commercial motor vehicle for the employer.
 
-        (2) __State licensing authorities.—__ 
+        (2)  __State licensing authorities__  __.—__ 
 
         The Secretary shall establish a process for the chief commercial driver’s licensing official of a State to request and receive an individual’s record from the clearinghouse if the individual is applying for a commercial driver’s license from the State.
 
-            (A) __Consent.—__ 
+            (A)  __Consent__  __.—__ 
 
             The Secretary may grant access to an individual’s record in the clearinghouse under this paragraph without the prior written or electronic consent of the individual. An individual who holds a commercial driver’s license shall be deemed to consent to such access by obtaining a commercial driver’s license.
 
-            (B) __Protection of privacy of individuals.—__ 
+            (B)  __Protection of privacy of individuals__  __.—__ 
 
             A chief commercial driver’s licensing official of a State that receives an individual’s record from the clearinghouse under this paragraph shall—
 
@@ -289,13 +289,13 @@
 
                 (ii) ensure that the information in the record is not divulged to any person that is not directly involved in assessing and evaluating the qualifications of the individual to operate a commercial motor vehicle.
 
-    (i) __National Transportation Safety Board.—__ 
+    (i)  __National Transportation Safety Board__  __.—__ 
 
     The Secretary shall establish a process for the National Transportation Safety Board to request and receive an individual’s record from the clearinghouse if the individual is involved in an accident that is under investigation by the National Transportation Safety Board.
 
     (j) __Access to Clearinghouse by Individuals.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish a process for an individual to request and receive information from the clearinghouse—
 
@@ -307,27 +307,27 @@
 
             (D) to determine whether the clearinghouse received requests for the individual’s information.
 
-        (2) __Dispute procedure.—__ 
+        (2)  __Dispute procedure__  __.—__ 
 
         The Secretary shall establish a procedure, including an appeal process, for an individual to dispute and remedy an administrative error in the individual’s record.
 
     (k) __Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An employer, employee, medical review officer, or service agent who violates any provision of this section shall be subject to civil penalties under section 521(b)(2)(C) and criminal penalties under section 521(b)(6)(B), and any other applicable civil and criminal penalties, as determined by the Secretary.
 
-        (2) __Violation of privacy.—__ 
+        (2)  __Violation of privacy__  __.—__ 
 
         The Secretary shall establish civil and criminal penalties, consistent with paragraph (1), for an authorized user who violates paragraph (1) or (2) of subsection (h).
 
     (l) __Compatibility of State and Local Laws.—__ 
 
-        (1) __Preemption.—__ 
+        (1)  __Preemption__  __.—__ 
 
         Except as provided under paragraph (2), any law, regulation, order, or other requirement of a State, political subdivision of a State, or Indian tribe related to a commercial driver’s license holder subject to alcohol or controlled substance testing under title 49, Code of Federal Regulations, that is inconsistent with this section or a regulation issued pursuant to this section is preempted.
 
-        (2) __Applicability.—__ 
+        (2)  __Applicability__  __.—__ 
 
         The preemption under paragraph (1) shall include—
 
@@ -337,7 +337,7 @@
 
             (C) other violations of subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations).
 
-        (3) __Exception.—__ 
+        (3)  __Exception__  __.—__ 
 
         A law, regulation, order, or other requirement of a State, political subdivision of a State, or Indian tribe shall not be preempted under this subsection to the extent it relates to an action taken with respect to a commercial motor vehicle operator’s commercial driver’s license or driving record as a result of the driver’s—
 
@@ -347,15 +347,15 @@
 
             (C) other violations of subpart B of part 382 of title 49, Code of Federal Regulations (or any subsequent corresponding regulations).
 
-    (m) __Definitions.—__ 
+    (m)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Authorized user.—__ 
+        (1)  __Authorized user__  __.—__ 
 
         The term “authorized user” means an employer, State licensing authority, or other person granted access to the clearinghouse under subsection (h).
 
-        (2) __Chief commercial driver’s licensing official.—__ 
+        (2)  __Chief commercial driver’s licensing official__  __.—__ 
 
         The term “chief commercial driver’s licensing official” means the official in a State who is authorized to—
 
@@ -363,11 +363,11 @@
 
             (B) take action on commercial driver’s licenses issued by the State.
 
-        (3) __Clearinghouse.—__ 
+        (3)  __Clearinghouse__  __.—__ 
 
         The term “clearinghouse” means the clearinghouse established under subsection (a).
 
-        (4) __Commercial motor vehicle operator.—__ 
+        (4)  __Commercial motor vehicle operator__  __.—__ 
 
         The term “commercial motor vehicle operator” means an individual who—
 
@@ -375,11 +375,11 @@
 
             (B) is subject to controlled substances and alcohol testing under title 49, Code of Federal Regulations.
 
-        (5) __Employer.—__ 
+        (5)  __Employer__  __.—__ 
 
         The term “employer” means a person or entity employing, or seeking to employ, 1 or more employees (including an individual who is self-employed) to be commercial motor vehicle operators.
 
-        (6) __Medical review officer.—__ 
+        (6)  __Medical review officer__  __.—__ 
 
         The term “medical review officer” means a licensed physician who is responsible for—
 
@@ -389,15 +389,15 @@
 
             (C) interpreting the results of a controlled substances test.
 
-        (7) __Secretary.—__ 
+        (7)  __Secretary__  __.—__ 
 
         The term “Secretary” means the Secretary of Transportation.
 
-        (8) __Service agent.—__ 
+        (8)  __Service agent__  __.—__ 
 
         The term “service agent” means a person or entity, other than an employee of the employer, who provides services to employers or employees under the testing program.
 
-        (9) __Testing program.—__ 
+        (9)  __Testing program__  __.—__ 
 
         The term “testing program” means the alcohol and controlled substances testing program required under title 49, Code of Federal Regulations.
 

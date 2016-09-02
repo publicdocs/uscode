@@ -15,7 +15,7 @@
 
 ## § 30182. Powers and duties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall—
 
@@ -29,7 +29,7 @@
 
             (B) deaths or personal injuries resulting from those accidents.
 
-    (b) __Activities.—__ 
+    (b)  __Activities__  __.—__ 
 
     In carrying out a program under this section, the Secretary of Transportation may—
 
@@ -47,11 +47,11 @@
 
         (5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
 
-    (c) __Use of Public Agencies.—__ 
+    (c)  __Use of Public Agencies__  __.—__ 
 
     In carrying out this subchapter, the Secretary shall avoid duplication by using the services, research, and testing facilities of public agencies, as appropriate.
 
-    (d) __Facilities.—__ 
+    (d)  __Facilities__  __.—__ 
 
     The Secretary may plan, design, and construct a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $1,500,000 for planning, design, or construction may be made only if 60 days prior notice of the planning, design, or construction is provided to the Committees on Science, Space, and Technology and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. The notice shall include—
 
@@ -65,11 +65,11 @@
 
         (5) a justification of the need for the facility.
 
-    (e) __Increasing Costs of Approved Facilities.—__ 
+    (e)  __Increasing Costs of Approved Facilities__  __.—__ 
 
     The estimated maximum cost of a facility noticed under subsection (d) may be increased by an amount equal to the percentage increase in construction costs from the date the notice is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the notice. The Secretary shall decide what increase in construction costs has occurred.
 
-    (f) __Availability of Information, Patents, and Developments.—__ 
+    (f)  __Availability of Information, Patents, and Developments__  __.—__ 
 
     When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. The owner of a background patent may not be deprived of a right under the patent.
 

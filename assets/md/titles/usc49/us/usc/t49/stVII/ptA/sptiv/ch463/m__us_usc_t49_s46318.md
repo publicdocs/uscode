@@ -15,17 +15,17 @@
 
 ## § 46318. Interference with cabin or flight crew
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     An individual who physically assaults or threatens to physically assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $25,000.
 
     (b) __Compromise and Setoff.—__ 
 
-        (1) __Compromise.—__ 
+        (1)  __Compromise__  __.—__ 
 
         The Secretary may compromise the amount of a civil penalty imposed under this section.
 
-        (2) __Setoff.—__ 
+        (2)  __Setoff__  __.—__ 
 
         The United States Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts the Government owes the person liable for the penalty.
 

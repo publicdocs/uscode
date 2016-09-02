@@ -15,7 +15,7 @@
 
 ## § 44731. Collection of data on helicopter air ambulance operations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall require a part 135 certificate holder providing helicopter air ambulance services to submit to the Administrator, not later than 1 year after the date of enactment of this section, and annually thereafter, a report containing, at a minimum, the following data:
 
@@ -33,19 +33,19 @@
 
         (7) The number of incidents, if any, in which a helicopter was not directly dispatched and arrived to transport patients but was not utilized for patient transport.
 
-    (b) __Reporting Period.—__ 
+    (b)  __Reporting Period__  __.—__ 
 
     Data contained in a report submitted by a part 135 certificate holder under subsection (a) shall relate to such reporting period as the Administrator determines appropriate.
 
-    (c) __Database.—__ 
+    (c)  __Database__  __.—__ 
 
     Not later than 180 days after the date of enactment of this section, the Administrator shall develop a method to collect and store the data collected under subsection (a), including a method to protect the confidentiality of any trade secret or proprietary information provided in response to this section.
 
-    (d) __Report to Congress.—__ 
+    (d)  __Report to Congress__  __.—__ 
 
     Not later than 2 years after the date of enactment of this section, and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a).
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.
 

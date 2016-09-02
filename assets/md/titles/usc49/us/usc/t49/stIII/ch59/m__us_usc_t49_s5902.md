@@ -15,17 +15,17 @@
 
 ## § 5902. Notifications and certifications
 
-    (a) __Prior Notification.—__ 
+    (a)  __Prior Notification__  __.—__ 
 
     If the first carrier to which any loaded container or trailer having a projected gross cargo weight of more than 29,000 pounds is tendered for intermodal transportation is a motor carrier, the person tendering the container or trailer shall give the motor carrier a notification of the gross cargo weight and a reasonable description of the contents of the container or trailer before the tendering of the container or trailer. The notification may be transmitted electronically or by telephone. This subsection applies to any person within the United States who tenders a container or trailer subject to this chapter for intermodal transportation if the first carrier is a motor carrier.
 
     (b) __Certification.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who tenders a loaded container or trailer with an actual gross cargo weight of more than 29,000 pounds to a first carrier for intermodal transportation shall provide a certification of the contents of the container or trailer in writing, or electronically, before or when the container or trailer is so tendered.
 
-        (2) __Contents of certification.—__ 
+        (2)  __Contents of certification__  __.—__ 
 
         The certification required by paragraph (1) shall include—
 
@@ -39,31 +39,31 @@
 
             (E) the date of certification or transfer of data to another document, as provided for in paragraph (3).
 
-        (3) __Transfer of certification data.—__ 
+        (3)  __Transfer of certification data__  __.—__ 
 
         A carrier who receives a certification may transfer the information contained in the certification to another document or to electronic format for forwarding to a subsequent carrier. The person transferring the information shall state on the forwarded document the date on which the data was transferred and the identity of the party who performed the transfer.
 
-        (4) __Shipping documents.—__ 
+        (4)  __Shipping documents__  __.—__ 
 
         For purposes of this chapter, a shipping document, prepared by the person who tenders a container or trailer to a first carrier, that contains the information required by paragraph (2) meets the requirements of paragraph (1).
 
-        (5) __Use of “freight all kinds” term.—__ 
+        (5)  __Use of “freight all kinds” term__  __.—__ 
 
         The term “Freight All Kinds” or “FAK” may not be used for the purpose of certification under section 5902(b) after December 31, 2000, as a commodity description for a trailer or container if the weight of any commodity in the trailer or container equals or exceeds 20 percent of the total weight of the contents of the trailer or container. This subsection does not prohibit the use of the term after that date for rating purposes.
 
-        (6) __Separate document marking.—__ 
+        (6)  __Separate document marking__  __.—__ 
 
         If a separate document is used to meet the requirements of paragraph (1), it shall be conspicuously marked “INTERMODAL CERTIFICATION”.
 
-        (7) __Applicability.—__ 
+        (7)  __Applicability__  __.—__ 
 
         This subsection applies to any person, domestic or foreign, who first tenders a container or trailer subject to this chapter for intermodal transportation within the United States.
 
-    (c) __Forwarding Certifications to Subsequent Carriers.—__ 
+    (c)  __Forwarding Certifications to Subsequent Carriers__  __.—__ 
 
     A carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator shall forward the certification provided under subsection (b) of this section to a subsequent carrier transporting the container or trailer in intermodal transportation before or when the loaded intermodal container or trailer is tendered to the subsequent carrier. If no certification is received by the subsequent carrier before or when the container or trailer is tendered to it, the subsequent carrier may presume that no certification is required. The act of forwarding the certification may not be construed as a verification or affirmation of the accuracy or completeness of the information in the certification. If a person inaccurately transfers the information on the certification, or fails to forward the certification to a subsequent carrier, then that person is liable to any person who incurs any bond, fine, penalty, cost (including storage), or interest for any such fine, penalty, cost (including storage), or interest incurred as a result of the inaccurate transfer of information or failure to forward the certification. A subsequent carrier who incurs a bond, fine, penalty, or cost (including storage), or interest as a result of the inaccurate transfer of the information, or the failure to forward the certification, shall have a lien against the contents of the container or trailer under section 5905 in the amount of the bond, fine, penalty, or cost (including storage), or interest and all court costs and legal fees incurred by the carrier as a result of such inaccurate transfer or failure.
 
-    (d) __Liability to Owner or Beneficial Owner.—__ 
+    (d)  __Liability to Owner or Beneficial Owner__  __.—__ 
 
     If—
 
@@ -75,7 +75,7 @@
 
         then that person is liable to the owner or beneficial owner, or to any other person paying the amount of the lien to the subsequent carrier, for the amount of the lien and all costs related to the imposition of the lien, including court costs and legal fees incurred in connection with it.
 
-    (e) __Nonapplication.—__ 
+    (e)  __Nonapplication__  __.—__ 
 
         (1)
 

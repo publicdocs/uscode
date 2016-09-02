@@ -15,7 +15,7 @@
 
 ## § 20153. Audible warnings at highway-rail grade crossings
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     As used in this section—
 
@@ -25,11 +25,11 @@
 
         (3) the term “supplementary safety measure” refers to a safety system or procedure, provided by the appropriate traffic control authority or law enforcement authority responsible for safety at the highway-rail grade crossing, that is determined by the Secretary to be an effective substitute for the locomotive horn in the prevention of highway-rail casualties. A traffic control arrangement that prevents careless movement over the crossing (e.g., as where adequate median barriers prevent movement around crossing gates extending over the full width of the lanes in the particular direction of travel), and that conforms to standards prescribed by the Secretary under this subsection, shall be deemed to constitute a supplementary safety measure. The following do not, individually or in combination, constitute supplementary safety measures within the meaning of this subsection: standard traffic control devices or arrangements such as reflectorized crossbucks, stop signs, flashing lights, flashing lights with gates that do not completely block travel over the line of railroad, or traffic signals.
 
-    (b) __Requirement.—__ 
+    (b)  __Requirement__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations requiring that a locomotive horn shall be sounded while each train is approaching and entering upon each public highway-rail grade crossing.
 
-    (c) __Exception.—__ 
+    (c)  __Exception__  __.—__ 
 
         (1)
 
@@ -43,17 +43,17 @@
 
         (2) In order to provide for safety and the quiet of communities affected by train operations, the Secretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
 
-    (d) __Application for Waiver or Exemption.—__ 
+    (d)  __Application for Waiver or Exemption__  __.—__ 
 
     Notwithstanding any other provision of this subchapter, the Secretary may not entertain an application for waiver or exemption of the regulations issued under this section unless such application shall have been submitted jointly by the railroad carrier owning, or controlling operations over, the crossing and by the appropriate traffic control authority or law enforcement authority. The Secretary shall not grant any such application unless, in the judgment of the Secretary, the application demonstrates that the safety of highway users will not be diminished.
 
-    (e) __Development of Supplementary Safety Measures.—__ 
+    (e)  __Development of Supplementary Safety Measures__  __.—__ 
 
         (1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
 
         (2) The Secretary may include in regulations issued under this subsection special procedures for approval of new supplementary safety measures meeting the requirements of subsection (c)(1) of this section following successful demonstration of those measures.
 
-    (f) __Specific Rules.—__ 
+    (f)  __Specific Rules__  __.—__ 
 
     The Secretary may, by regulation, provide that the following crossings over railroad lines shall be subject, in whole or in part, to the regulations required under this section:
 
@@ -65,15 +65,15 @@
 
         Regulations issued under this subsection shall not apply to any location where persons are not authorized to cross the railroad.
 
-    (g) __Issuance.—__ 
+    (g)  __Issuance__  __.—__ 
 
     The Secretary shall issue regulations required by this section pertaining to categories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
 
-    (h) __Impact of Regulations.—__ 
+    (h)  __Impact of Regulations__  __.—__ 
 
     The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation of [section 20106 of this title][/us/usc/t49/s20106] (national uniformity of regulation).
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     In issuing regulations under this section, the Secretary—
 
@@ -89,7 +89,7 @@
 
         (3) may waive (in whole or in part) any requirement of this section (other than a requirement of this subsection or subsection (j)) that the Secretary determines is not likely to contribute significantly to public safety.
 
-    (j) __Effective Date of Regulations.—__ 
+    (j)  __Effective Date of Regulations__  __.—__ 
 
     Any regulations under this section shall not take effect before the 365th day following the date of publication of the final rule.
 

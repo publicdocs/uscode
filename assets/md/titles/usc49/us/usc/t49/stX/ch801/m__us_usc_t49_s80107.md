@@ -15,7 +15,7 @@
 
 ## § 80107. Warranties and liability
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Unless a contrary intention appears, a person negotiating or transferring a bill of lading for value warrants that—
 
@@ -27,7 +27,7 @@
 
         (4) the goods are merchantable or fit for a particular purpose when merchantability or fitness would have been implied if the agreement of the parties had been to transfer the goods without a bill of lading.
 
-    (b) __Security for Debt.—__ 
+    (b)  __Security for Debt__  __.—__ 
 
     A person holding a bill of lading as security for a debt and in good faith demanding or receiving payment of the debt from another person does not warrant by the demand or receipt—
 
@@ -35,11 +35,11 @@
 
         (2) the quantity or quality of the goods described in the bill.
 
-    (c) __Duplicates.—__ 
+    (c)  __Duplicates__  __.—__ 
 
     A common carrier issuing a bill of lading, on the face of which is the word “duplicate” or another word indicating that the bill is not an original bill, is liable the same as a person that represents and warrants that the bill is an accurate copy of an original bill properly issued. The carrier is not otherwise liable under the bill.
 
-    (d) __Indorser Liability.—__ 
+    (d)  __Indorser Liability__  __.—__ 
 
     Indorsement of a bill of lading does not make the indorser liable for failure of the common carrier or a previous indorser to fulfill its obligations.
 

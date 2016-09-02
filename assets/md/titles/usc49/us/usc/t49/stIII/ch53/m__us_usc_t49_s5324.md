@@ -15,11 +15,11 @@
 
 ## § 5324. Public transportation emergency relief program
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section the following definitions shall apply:
 
-        (1) __Eligible operating costs.—__ 
+        (1)  __Eligible operating costs__  __.—__ 
 
         The term “eligible operating costs” means costs relating to—
 
@@ -31,7 +31,7 @@
 
             (D) reestablishing, expanding, or relocating public transportation route service before, during, or after an emergency.
 
-        (2) __Emergency.—__ 
+        (2)  __Emergency__  __.—__ 
 
         The term “emergency” means a natural disaster affecting a wide area (such as a flood, hurricane, tidal wave, earthquake, severe storm, or landslide) or a catastrophic failure from any external cause, as a result of which—
 
@@ -39,7 +39,7 @@
 
             (B) the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170][/us/usc/t42/s5170]).
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
     The Secretary may make grants and enter into contracts and other agreements (including agreements with departments, agencies, and instrumentalities of the Government) for—
 
@@ -55,19 +55,19 @@
 
     (c) __Coordination of Emergency Funds.—__ 
 
-        (1) __Use of funds.—__ 
+        (1)  __Use of funds__  __.—__ 
 
         Funds appropriated to carry out this section shall be in addition to any other funds available under this chapter.
 
-        (2) __No effect on other government activity.—__ 
+        (2)  __No effect on other government activity__  __.—__ 
 
         The provision of funds under this section shall not affect the ability of any other agency of the Government, including the Federal Emergency Management Agency, or a State agency, a local governmental entity, organization, or person, to provide any other funds otherwise authorized by law.
 
-        (3) __Notification.—__ 
+        (3)  __Notification__  __.—__ 
 
         The Secretary shall notify the Secretary of Homeland Security of the purpose and amount of any grant made or contract or other agreement entered into under this section.
 
-    (d) __Grant Requirements.—__ 
+    (d)  __Grant Requirements__  __.—__ 
 
     A grant awarded under this section or under section 5307 or 5311 that is made to address an emergency defined under subsection (a)(2) shall be—
 
@@ -77,15 +77,15 @@
 
     (e) __Government Share of Costs.—__ 
 
-        (1) __Capital projects and operating assistance.—__ 
+        (1)  __Capital projects and operating assistance__  __.—__ 
 
         A grant, contract, or other agreement for a capital project or eligible operating costs under this section shall be, at the option of the recipient, for not more than 80 percent of the net project cost, as determined by the Secretary.
 
-        (2) __Non-federal share.—__ 
+        (2)  __Non-federal share__  __.—__ 
 
         The remainder of the net project cost may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
-        (3) __Waiver.—__ 
+        (3)  __Waiver__  __.—__ 
 
         The Secretary may waive, in whole or part, the non-Federal share required under—
 
@@ -231,7 +231,7 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 
 [Pub. L. 112–141, div. B, § 20017(b)][/us/pl/112/141/s20017/b], July 6, 2012, [126 Stat. 705][/us/stat/126/705], provided that:
 
->     “(1) __Purposes.—__ 
+>     “(1)  __Purposes__  __.—__ 
 
 >     The purposes of this subsection are—
 
@@ -239,11 +239,11 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 
 >         “(B) to expedite the provision of Federal assistance for public transportation systems for activities relating to a major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.) (referred to in this subsection as a ‘major disaster or emergency’).
 
->     “(2) __Agreement.—__ 
+>     “(2)  __Agreement__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary of Transportation and the Secretary of Homeland Security shall enter into a memorandum of agreement to coordinate the roles and responsibilities of the Department of Transportation and the Department of Homeland Security in providing assistance for public transportation, including the provision of public transportation services and the repair and restoration of public transportation systems in areas for which the President has declared a major disaster or emergency.
 
->     “(3) __Contents of agreement.—__ 
+>     “(3)  __Contents of agreement__  __.—__ 
 
 >     The memorandum of agreement required under paragraph (2) shall—
 
@@ -281,21 +281,21 @@ In subsection (b)(1), the words “Health and Human Services” are substituted 
 
 >                 “(II) distributing assistance for public transportation systems under the Robert T. Stafford Disaster Relief and Emergency Assistance Act and [section 5324 of title 49][/us/usc/t49/s5324], United States Code, as amended by this Act.
 
->     “(4) __After action review.—__ 
+>     “(4)  __After action review__  __.—__ 
 
 >     Before entering into a memorandum of agreement under paragraph (2), the Secretary of Transportation and the Secretary of Homeland Security (acting through the Administrator of the Federal Emergency Management Agency), in consultation with State, local, and tribal governments (including public transportation systems) that have experienced a major disaster or emergency, shall review after action reports relating to major disasters, emergencies, and exercises, to identify areas where coordination between the Department of Transportation and the Department of Homeland Security and the provision of public transportation services should be improved.
 
->     “(5) __Factors for declarations of major disasters and emergencies.—__ 
+>     “(5)  __Factors for declarations of major disasters and emergencies__  __.—__ 
 
 >     The Administrator of the Federal Emergency Management Agency shall make available to State, local, and tribal governments, including public transportation systems, a description of the factors that the President considers in declaring a major disaster or emergency, including any pre-disaster emergency declaration policies.
 
 >     “(6) __Briefings.—__ 
 
->         “(A) __Initial briefing.—__ 
+>         “(A)  __Initial briefing__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation and the Secretary of Homeland Security shall jointly brief the Committee on Banking, Housing, and Urban Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate on the memorandum of agreement required under paragraph (2).
 
->         “(B) __Quarterly briefings.—__ 
+>         “(B)  __Quarterly briefings__  __.—__ 
 
 >         Each quarter of the 1-year period beginning on the date on which the Secretary of Transportation and the Secretary of Homeland Security enter into the memorandum of agreement required under paragraph (2), the Secretary of Transportation and the Secretary of Homeland Security shall jointly brief the Committee on Banking, Housing, and Urban Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of the memorandum of agreement.”
 

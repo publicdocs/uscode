@@ -15,15 +15,15 @@
 
 ## § 32919. Preemption
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     When an average fuel economy standard prescribed under this chapter is in effect, a State or a political subdivision of a State may not adopt or enforce a law or regulation related to fuel economy standards or average fuel economy standards for automobiles covered by an average fuel economy standard under this chapter.
 
-    (b) __Requirements Must Be Identical.—__ 
+    (b)  __Requirements Must Be Identical__  __.—__ 
 
     When a requirement under [section 32908 of this title][/us/usc/t49/s32908] is in effect, a State or a political subdivision of a State may adopt or enforce a law or regulation on disclosure of fuel economy or fuel operating costs for an automobile covered by section 32908 only if the law or regulation is identical to that requirement.
 
-    (c) __State and Political Subdivision Automobiles.—__ 
+    (c)  __State and Political Subdivision Automobiles__  __.—__ 
 
     A State or a political subdivision of a State may prescribe requirements for fuel economy for automobiles obtained for its own use.
 

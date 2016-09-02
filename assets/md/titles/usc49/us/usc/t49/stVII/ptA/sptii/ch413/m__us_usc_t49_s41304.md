@@ -15,11 +15,11 @@
 
 ## § 41304. Effective periods and amendments, modifications, suspensions, and revocations of permits
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation may prescribe the period during which a permit issued under [section 41302 of this title][/us/usc/t49/s41302] is in effect. After notice and an opportunity for a hearing, the Secretary may amend, modify, suspend, or revoke the permit if the Secretary finds that action to be in the public interest.
 
-    (b) __Suspensions and Restrictions.—__ 
+    (b)  __Suspensions and Restrictions__  __.—__ 
 
     Without a hearing, but subject to the approval of the President, the Secretary—
 
@@ -39,7 +39,7 @@
 
         (2) to make this subsection effective, may restrict operations between the United States and the foreign country by a foreign air carrier of a third country.
 
-    (c) __Illegal Importation of Controlled Substances.—__ 
+    (c)  __Illegal Importation of Controlled Substances__  __.—__ 
 
     The Secretary—
 
@@ -53,7 +53,7 @@
 
         (2) when appropriate, shall amend, modify, suspend, or revoke the permit of the carrier issued under this chapter.
 
-    (d) __Responses.—__ 
+    (d)  __Responses__  __.—__ 
 
     An interested person may file a response with the Secretary opposing or supporting the amendment, modification, suspension, or revocation of a permit under subsection (a) of this section.
 

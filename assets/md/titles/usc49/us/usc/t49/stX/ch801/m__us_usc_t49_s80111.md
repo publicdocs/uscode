@@ -15,7 +15,7 @@
 
 ## § 80111. Liability for delivery of goods
 
-    (a) __General Rules.—__ 
+    (a)  __General Rules__  __.—__ 
 
     A common carrier is liable for damages to a person having title to, or right to possession of, goods when—
 
@@ -25,7 +25,7 @@
 
         (3) at the time of delivery under section 80110(b)(2) or (3) of this title, the carrier has information it is delivering the goods to a person not entitled to their possession.
 
-    (b) __Effectiveness of Request or Information.—__ 
+    (b)  __Effectiveness of Request or Information__  __.—__ 
 
     A request or information is effective under subsection (a)(2) or (3) of this section only if—
 
@@ -33,11 +33,11 @@
 
         (2) the officer or agent has had time, exercising reasonable diligence, to stop delivery of the goods.
 
-    (c) __Failure To Take and Cancel Bills.—__ 
+    (c)  __Failure To Take and Cancel Bills__  __.—__ 
 
     Except as provided in subsection (d) of this section, if a common carrier delivers goods for which a negotiable bill of lading has been issued without taking and canceling the bill, the carrier is liable for damages for failure to deliver the goods to a person purchasing the bill for value in good faith whether the purchase was before or after delivery and even when delivery was made to the person entitled to the goods. The carrier also is liable under this paragraph if part of the goods are delivered without taking and canceling the bill or plainly noting on the bill that a partial delivery was made and generally describing the goods or the remaining goods kept by the carrier.
 
-    (d) __Exceptions to Liability.—__ 
+    (d)  __Exceptions to Liability__  __.—__ 
 
     A common carrier is not liable for failure to deliver goods to the consignee or owner of the goods or a holder of the bill if—
 

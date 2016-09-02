@@ -15,7 +15,7 @@
 
 ## § 44907. Security standards at foreign airports
 
-    (a) __Assessment.—__ 
+    (a)  __Assessment__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
         (3) Each report to Congress required under [section 44938(b) of this title][/us/usc/t49/s44938/b] shall contain a summary of the assessments conducted under this subsection.
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     In carrying out subsection (a) of this section, the Secretary of Transportation shall consult with the Secretary of State—
 
@@ -53,11 +53,11 @@
 
         (2) to establish which foreign airports are not under the de facto control of the government of the foreign country in which they are located and pose a high risk of introducing danger to international air travel.
 
-    (c) __Notifying Foreign Authorities.—__ 
+    (c)  __Notifying Foreign Authorities__  __.—__ 
 
     When the Secretary of Transportation, after conducting an assessment under subsection (a) of this section, decides that an airport does not maintain and carry out effective security measures, the Secretary of Transportation, after advising the Secretary of State, shall notify the appropriate authorities of the government of the foreign country of the decision and recommend the steps necessary to bring the security measures in use at the airport up to the standard used by the Secretary of Transportation in making the assessment.
 
-    (d) __Actions When Airports Not Maintaining and Carrying Out Effective Security Measures.—__ 
+    (d)  __Actions When Airports Not Maintaining and Carrying Out Effective Security Measures__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (4) An action required under paragraph (1)(A) and (B) of this subsection is no longer required only if the Secretary of Transportation, in consultation with the Secretary of State, decides that effective security measures are maintained and carried out at the airport. The Secretary of Transportation shall notify Congress when the action is no longer required to be taken.
 
-    (e) __Suspensions.—__ 
+    (e)  __Suspensions__  __.—__ 
 
     Notwithstanding sections 40105(b) and 40106(b) of this title, the Secretary of Transportation, with the approval of the Secretary of State and without notice or a hearing, shall suspend the right of an air carrier or foreign air carrier to provide foreign air transportation, and the right of a person to operate aircraft in foreign air commerce, to or from a foreign airport when the Secretary of Transportation decides that—
 
@@ -103,7 +103,7 @@
 
         (2) the public interest requires an immediate suspension of transportation between the United States and that airport.
 
-    (f) __Condition of Carrier Authority.—__ 
+    (f)  __Condition of Carrier Authority__  __.—__ 
 
     This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
 

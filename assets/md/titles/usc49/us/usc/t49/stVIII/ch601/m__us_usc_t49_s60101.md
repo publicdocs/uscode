@@ -15,7 +15,7 @@
 
 ## § 60101. Definitions
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In this chapter—
 
@@ -151,7 +151,7 @@
 
         (25) “Secretary” means the Secretary of Transportation.
 
-    (b) __Gathering Lines.—__ 
+    (b)  __Gathering Lines__  __.—__ 
 
         (1)
 
@@ -781,11 +781,11 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 [Pub. L. 109–468, § 24][/us/pl/109/468/s24], Dec. 29, 2006, [120 Stat. 3500][/us/stat/120/3500], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation may award, through a competitive process, grants to universities with expertise in pipeline safety and security to establish jointly a collaborative program to conduct pipeline safety and technical assistance programs.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     In cooperation with the Pipeline and Hazardous Materials Safety Administration and representatives from States and boards of public utilities, the participants in the collaborative program established under subsection (a) shall be responsible for development of workforce training and technical assistance programs through statewide and regional partnerships that provide for—
 
@@ -795,7 +795,7 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 >         “(3) evaluation of program outcomes.
 
->     “(c) __Training and Educational Materials.—__ 
+>     “(c)  __Training and Educational Materials__  __.—__ 
 
 >     The collaborative program established under subsection (a) may include courses in recent developments, techniques, and procedures related to—
 
@@ -813,15 +813,15 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 >     “(d) __Reports.—__ 
 
->         “(1) __University.—__ 
+>         “(1)  __University__  __.—__ 
 
 >         Not later than March 31, 2009, the universities awarded grants under subsection (a) shall submit to the Secretary a report on the results of the collaborative program.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         Not later than October 1, 2009, the Secretary shall transmit the reports submitted to the Secretary under paragraph (1), along with any findings, recommendations, or legislative options for Congress to consider, to the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2010.”
 
@@ -829,21 +829,21 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 [Pub. L. 107–355, § 12][/us/pl/107/355/s12], Dec. 17, 2002, [116 Stat. 2997][/us/stat/116/2997], as amended by [Pub. L. 109–468, § 26][/us/pl/109/468/s26], Dec. 29, 2006, [120 Stat. 3501][/us/stat/120/3501]; [Pub. L. 112–90, § 32(f)][/us/pl/112/90/s32/f], Jan. 3, 2012, [125 Stat. 1923][/us/stat/125/1923], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The heads of the participating agencies shall carry out a program of research, development, demonstration, and standardization to ensure the integrity of pipeline facilities.
 
 >     “(b) __Memorandum of Understanding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
->         “(2) __Areas of expertise.—__ 
+>         “(2)  __Areas of expertise__  __.—__ 
 
 >         Under the memorandum of understanding, each of the participating agencies shall have the primary responsibility for ensuring that the elements of the program within its expertise are implemented in accordance with this section. The Department of Transportation’s responsibilities shall reflect its lead role in pipeline safety and expertise in pipeline inspection, integrity management, and damage prevention. The Department of Energy’s responsibilities shall reflect its expertise in system reliability, low-volume gas leak detection, and surveillance technologies. The National Institute of Standards and Technology’s responsibilities shall reflect its expertise in materials research and assisting in the development of consensus technical standards, as that term is used in section 12(d)(4) \[probably should be “12(d)(5)”\] of [Public Law 104–13][/us/pl/104/13] \[[Pub. L. 104–113][/us/pl/104/113]\] ([15 U.S.C. 272][/us/usc/t15/s272] note).
 
->     “(c) __Program Elements.—__ 
+>     “(c)  __Program Elements__  __.—__ 
 
 >     The program authorized by subsection (a) shall include research, development, demonstration, and standardization activities related to—
 
@@ -873,37 +873,37 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 >     “(d) __Program Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with the Secretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         In preparing the program plan and selecting and prioritizing appropriate project proposals, the Secretary of Transportation shall consult with or seek the advice of appropriate representatives of the natural gas, crude oil, and petroleum product pipeline industries, utilities, manufacturers, institutions of higher learning, Federal agencies, pipeline research institutions, national laboratories, State pipeline safety officials, labor organizations, environmental organizations, pipeline safety advocates, and professional and technical societies.
 
 >         “(3) __Ongoing pipeline transportation research and development.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             After the initial 5-year program plan has been carried out by the participating agencies, the Secretary of Transportation, in coordination with the Director of the National Institute of Standards and Technology, as appropriate, shall prepare a research and development program plan every 5 years thereafter and shall transmit a report to Congress on the status and results-to-date of implementation of the program every 2 years. The biennial report shall include a summary of updated research needs and priorities identified through the consultation requirements of paragraph (2).
 
->             “(B) __Consultation.—__ 
+>             “(B)  __Consultation__  __.—__ 
 
 >             The Secretary shall comply with the consultation requirements of paragraph (2) when preparing the program plan and in the selection and prioritization of research and development projects.
 
->             “(C) __Funding from non-federal sources.—__ 
+>             “(C)  __Funding from non-federal sources__  __.—__ 
 
 >             The Secretary shall ensure at least 30 percent of the costs of program-wide research and development activities are carried out using non-Federal sources.
 
->     “(e) __Reports to Congress.—__ 
+>     “(e)  __Reports to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], and annually thereafter, the heads of the participating agencies shall transmit jointly to Congress a report on the status and results to date of the implementation of the program plan prepared under subsection (d).
 
->     “(f) __Pipeline Integrity Program.—__ 
+>     “(f)  __Pipeline Integrity Program__  __.—__ 
 
 >     Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2012 through 2015.
 
->     “(g) __Participating Agencies Defined.—__ 
+>     “(g)  __Participating Agencies Defined__  __.—__ 
 
 >     In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
 
@@ -911,11 +911,11 @@ Oct. 24, 1992, Pub. L. 102–508, § 208(a), 106 Stat. 3303.  </td>
 
 [Pub. L. 112–90, § 1(c)][/us/pl/112/90/s1/c], Jan. 3, 2012, [125 Stat. 1904][/us/stat/125/1904], provided that:
 
->     “(1) __Applicability of chapter 601 definitions.—__ 
+>     “(1)  __Applicability of chapter 601 definitions__  __.—__ 
 
 >     In this Act \[see Short Title of 2012 Amendment note above\], any term defined in chapter 601 of title 49, United States Code, has the meaning given that term in that chapter.
 
->     “(2) __High-consequence area.—__ 
+>     “(2)  __High-consequence area__  __.—__ 
 
 >     In this Act, the term ‘high-consequence area’ means an area described in [section 60109(a) of title 49][/us/usc/t49/s60109/a], United States Code.”
 

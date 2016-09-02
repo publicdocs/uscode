@@ -15,7 +15,7 @@
 
 ## § 20703. Accident reports and investigations
 
-    (a) __Accident Reports and Scene Preservation.—__ 
+    (a)  __Accident Reports and Scene Preservation__  __.—__ 
 
     When the failure of a locomotive, tender, or locomotive or tender part or appurtenance results in an accident or incident causing serious personal injury or death, the railroad carrier owning or operating the locomotive or tender—
 
@@ -23,7 +23,7 @@
 
         (2) when the locomotive is disabled to the extent it cannot be operated under its own power, shall preserve intact all parts affected by the accident or incident, if possible without interfering with traffic, until an investigation of the accident or incident is completed.
 
-    (b) __Investigations.—__ 
+    (b)  __Investigations__  __.—__ 
 
     The Secretary shall—
 
@@ -33,7 +33,7 @@
 
         (3) make a complete and detailed report on the cause of the accident or incident.
 
-    (c) __Publication and Use of Investigation Reports.—__ 
+    (c)  __Publication and Use of Investigation Reports__  __.—__ 
 
     When the Secretary considers publication to be in the public interest, the Secretary may publish a report of an investigation made under this section, stating the cause of the accident or incident and making appropriate recommendations. No part of a report may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 

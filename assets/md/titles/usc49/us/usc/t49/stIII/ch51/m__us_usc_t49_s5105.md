@@ -15,19 +15,19 @@
 
 ## § 5105. Transporting certain highly radioactive material
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, “high-level radioactive waste” and “spent nuclear fuel” have the same meanings given those terms in section 2 of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101][/us/usc/t42/s10101]).
 
-    (b) __Transportation Safety Study.—__ 
+    (b)  __Transportation Safety Study__  __.—__ 
 
     In consultation with the Secretary of Energy, the Nuclear Regulatory Commission, potentially affected States and Indian tribes, representatives of the rail transportation industry, and shippers of high-level radioactive waste and spent nuclear fuel, the Secretary shall conduct a study comparing the safety of using trains operated only to transport high-level radioactive waste and spent nuclear fuel with the safety of using other methods of rail transportation for transporting that waste and fuel. The Secretary shall submit to Congress not later than November 16, 1991, a report on the results of the study.
 
-    (c) __Safe Rail Transportation Regulations.—__ 
+    (c)  __Safe Rail Transportation Regulations__  __.—__ 
 
     Not later than November 16, 1992, after considering the results of the study conducted under subsection (b) of this section, the Secretary shall prescribe amendments to existing regulations that the Secretary considers appropriate to provide for the safe rail transportation of high-level radioactive waste and spent nuclear fuel, including trains operated only for transporting high-level radioactive waste and spent nuclear fuel.
 
-    (d) __Inspections of Motor Vehicles Transporting Certain Material.—__ 
+    (d)  __Inspections of Motor Vehicles Transporting Certain Material__  __.—__ 
 
         (1) Not later than November 16, 1991, the Secretary shall require by regulation that before each use of a motor vehicle to transport a highway-route-controlled quantity of radioactive material in commerce, the vehicle shall be inspected and certified as complying with this chapter and applicable United States motor carrier safety laws and regulations. The Secretary may require that the inspection be carried out by an authorized United States Government inspector or according to appropriate State procedures.
 

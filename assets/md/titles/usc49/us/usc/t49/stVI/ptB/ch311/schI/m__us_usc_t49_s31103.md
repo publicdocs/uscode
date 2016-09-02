@@ -15,11 +15,11 @@
 
 ## § 31103. United States Government’s share of costs
 
-    (a) __Commercial Motor Vehicle Safety Programs and Enforcement.—__ 
+    (a)  __Commercial Motor Vehicle Safety Programs and Enforcement__  __.—__ 
 
     The Secretary of Transportation shall reimburse a State, from a grant made under this subchapter, an amount that is not more than 80 percent of the costs incurred by the State in a fiscal year in developing and implementing programs to improve commercial motor vehicle safety and enforce commercial motor vehicle regulations, standards, or orders adopted under this subchapter or subchapter II of this chapter. In determining those costs, the Secretary shall include in-kind contributions by the State. Amounts of the State and its political subdivisions required to be expended under [section 31102(b)(2)(E) of this title][/us/usc/t49/s31102/b/2/E] may not be included as part of the share not provided by the United States Government. Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s share not provided by the United States. The Secretary may allocate among the States whose applications for grants have been approved those amounts appropriated for grants to support those programs, under criteria that may be established.
 
-    (b) __Other Activities.—__ 
+    (b)  __Other Activities__  __.—__ 
 
     The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
 

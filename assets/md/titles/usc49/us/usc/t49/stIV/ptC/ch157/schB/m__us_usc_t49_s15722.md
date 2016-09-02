@@ -15,11 +15,11 @@
 
 ## § 15722. Records: form; inspection; preservation
 
-    (a) __Form of Records.—__ 
+    (a)  __Form of Records__  __.—__ 
 
     The Board may prescribe the form of records required to be prepared or compiled under this subchapter by pipeline carriers and lessors, including records related to movement of traffic and receipts and expenditures of money.
 
-    (b) __Inspection.—__ 
+    (b)  __Inspection__  __.—__ 
 
     The Board, or an employee designated by the Board, may on demand and display of proper credentials—
 
@@ -33,7 +33,7 @@
 
             (B) a person controlling, controlled by, or under common control with a pipeline carrier if the Board considers inspection relevant to that person’s relation to, or transaction with, that carrier.
 
-    (c) __Preservation Period.—__ 
+    (c)  __Preservation Period__  __.—__ 
 
     The Board may prescribe the time period during which operating, accounting, and financial records must be preserved by pipeline carriers and lessors.
 

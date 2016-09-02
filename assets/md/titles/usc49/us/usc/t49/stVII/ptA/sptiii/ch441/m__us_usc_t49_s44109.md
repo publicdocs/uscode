@@ -15,11 +15,11 @@
 
 ## § 44109. Reporting transfer of ownership
 
-    (a) __Filing Notices.—__ 
+    (a)  __Filing Notices__  __.—__ 
 
     A person having an ownership interest in an aircraft for which a certificate of registration was issued under [section 44103 of this title][/us/usc/t49/s44103] shall file a notice with the Secretary of the Treasury that the Secretary requires by regulation, not later than 15 days after a sale, conditional sale, transfer, or conveyance of the interest.
 
-    (b) __Exemptions.—__ 
+    (b)  __Exemptions__  __.—__ 
 
     The Secretary—
 

@@ -15,11 +15,11 @@
 
 ## § 47120. Grant priority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In making a grant under this subchapter, the Secretary of Transportation may give priority to a project that is consistent with an integrated airport system plan.
 
-    (b) __Discretionary Funding To Be Used for Higher Priority Projects.—__ 
+    (b)  __Discretionary Funding To Be Used for Higher Priority Projects__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall discourage airport sponsors and airports from using entitlement funds for lower priority projects by giving lower priority to discretionary projects submitted by airport sponsors and airports that have used entitlement funds for projects that have a lower priority than the projects for which discretionary funds are being requested.
 

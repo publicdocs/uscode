@@ -15,7 +15,7 @@
 
 ## § 42302. Consumer complaints
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall establish a consumer complaints toll-free hotline telephone number for the use of passengers in air transportation and shall take actions to notify the public of—
 
@@ -23,7 +23,7 @@
 
         (2) the Internet Web site of the Aviation Consumer Protection Division of the Department of Transportation.
 
-    (b) __Notice to Passengers on the Internet.—__ 
+    (b)  __Notice to Passengers on the Internet__  __.—__ 
 
     An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the Internet Web site of the carrier—
 
@@ -33,7 +33,7 @@
 
         (3) the Internet Web site and mailing address of the Aviation Consumer Protection Division of the Department of Transportation for the submission of complaints by passengers about air travel service problems.
 
-    (c) __Notice to Passengers on Boarding Documentation.—__ 
+    (c)  __Notice to Passengers on Boarding Documentation__  __.—__ 
 
     An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include the hotline telephone number established under subsection (a) on—
 

@@ -15,7 +15,7 @@
 
 ## § 15301. General pipeline jurisdiction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Board has jurisdiction over transportation by pipeline, or by pipeline and railroad or water, when transporting a commodity other than water, gas, or oil. Jurisdiction under this subsection applies only to transportation in the United States between a place in—
 
@@ -33,11 +33,11 @@
 
         (7) the United States and a place in a foreign country.
 
-    (b) __No Jurisdiction Over Intrastate Transportation.—__ 
+    (b)  __No Jurisdiction Over Intrastate Transportation__  __.—__ 
 
     The Board does not have jurisdiction under subsection (a) over the transportation of property, or the receipt, delivery, storage, or handling of property, entirely in a State (other than the District of Columbia) and not transported between a place in the United States and a place in a foreign country except as otherwise provided in this part.
 
-    (c) __Protection of States Powers.—__ 
+    (c)  __Protection of States Powers__  __.—__ 
 
     This part does not affect the power of a State, in exercising its police power, to require reasonable intrastate transportation by carriers providing transportation subject to the jurisdiction of the Board under this chapter unless the State requirement is inconsistent with an order of the Board issued under this part or is prohibited under this part.
 

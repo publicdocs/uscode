@@ -15,17 +15,17 @@
 
 ## § 49107. Federal employees at Metropolitan Washington Airports
 
-    (a) __Labor Agreements.—__ 
+    (a)  __Labor Agreements__  __.—__ 
 
         (1) The Metropolitan Washington Airports Authority shall adopt all labor agreements that were in effect on June 7, 1987. Unless the parties otherwise agree, the agreements must be renegotiated before June 7, 1992.
 
         (2) Employee protection arrangements made under this section shall ensure, during the 50-year lease term, the continuation of all collective bargaining rights enjoyed by transferred employees retained by the Airports Authority.
 
-    (b) __Civil Service Retirement.—__ 
+    (b)  __Civil Service Retirement__  __.—__ 
 
     Any Federal employee who transferred to the Airports Authority and who on June 6, 1987, was subject to subchapter III of chapter 83 or chapter 84 of title 5, is subject to subchapter III of chapter 83 or chapter 84 for so long as continually employed by the Airports Authority without a break in service. For purposes of subchapter III of chapter 83 and chapter 84, employment by the Airports Authority without a break in continuity of service is deemed to be employment by the United States Government. The Airports Authority is the employing agency for purposes of subchapter III of chapter 83 and chapter 84 and shall contribute to the Civil Service Retirement and Disability Fund amounts required by subchapter III of chapter 83 and chapter 84.
 
-    (c) __Access to Records.—__ 
+    (c)  __Access to Records__  __.—__ 
 
     The Airports Authority shall allow representatives of the Secretary of Transportation adequate access to employees and employee records of the Airports Authority when needed to carry out a duty or power related to the period before June 7, 1987. The Secretary shall provide the Airports Authority access to employee records of transferring employees for appropriate purposes.
 
@@ -173,7 +173,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
 [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 636\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–164, provided that:
 
->     “(a) __Qualified MWAA Police Officer Defined.—__ 
+>     “(a)  __Qualified MWAA Police Officer Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified MWAA police officer’ means any individual who, as of the date of the enactment of this Act \[Dec. 21, 2000\]—
 
@@ -183,11 +183,11 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
 >     “(b) __Eligibility To Be Treated as a Law Enforcement Officer for Retirement Purposes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any qualified MWAA police officer may, by written election submitted in accordance with applicable requirements under subsection (c), elect to be treated as a law enforcement officer (within the meaning of section 8331 or 8401 of title 5, United States Code, as applicable), and to have all prior service described in paragraph (2) similarly treated.
 
->         “(2) __Prior service described.—__ 
+>         “(2)  __Prior service described__  __.—__ 
 
 >         The service described in this paragraph is all service which an individual performed, prior to the effective date of such individual’s election under this section, as—
 
@@ -195,7 +195,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
 >             “(B) a member of the police force of the Federal Aviation Administration (hereafter in this section referred to as an ‘FAA police officer’).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe any regulations necessary to carry out this section, including provisions relating to the time, form, and manner in which any election under this section shall be made. Such an election shall not be effective unless—
 
@@ -211,11 +211,11 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
 >             taking into account only amounts required to be credited to the Civil Service Retirement and Disability Fund. Any amount under paragraph (2) shall be computed with interest, in accordance with section 8334(e) of such title 5.
 
->     “(d) __Government Contributions.—__ 
+>     “(d)  __Government Contributions__  __.—__ 
 
 >     Whenever a payment under subsection (c)(2) is made by an individual with respect to such individual’s prior service (as described in subsection (b)(2)), the Metropolitan Washington Airports Authority shall pay into the Civil Service Retirement and Disability Fund any additional contributions for which it would have been liable, with respect to such service, if such individual’s election under this section had then been in effect (and, to the extent of any prior FAA police officer service, as if it had then been the employing agency). Any amount under this subsection shall be computed with interest, in accordance with [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code.
 
->     “(e) __Certifications.—__ 
+>     “(e)  __Certifications__  __.—__ 
 
 >     The Office of Personnel Management shall accept, for the purpose of this section, the certification of—
 
@@ -225,11 +225,11 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, § 6008(g), 100 Stat. 3341–387.  
 
 >     “(f) __Reimbursement To Compensate for Unfunded Liability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Metropolitan Washington Airports Authority shall pay into the Civil Service Retirement and Disability Fund an amount (as determined by the Director of the Office of Personnel Management) equal to the amount necessary to reimburse the Fund for any estimated increase in the unfunded liability of the Fund (to the extent the Civil Service Retirement System is involved), and for any estimated increase in the supplemental liability of the Fund (to the extent the Federal Employees’ Retirement System is involved), resulting from the enactment of this section.
 
->         “(2) __Payment method.—__ 
+>         “(2)  __Payment method__  __.—__ 
 
 >         The Metropolitan Washington Airports Authority shall pay the amount so determined in five equal annual installments, with interest (which shall be computed at the rate used in the most recent valuation of the Federal Employees’ Retirement System).”
 

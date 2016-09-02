@@ -15,7 +15,7 @@
 
 ## § 508. Safety performance history of new drivers; limitation on liability
 
-    (a) __Limitation on Liability.—__ 
+    (a)  __Limitation on Liability__  __.—__ 
 
     No action or proceeding for defamation, invasion of privacy, or interference with a contract that is based on the furnishing or use of safety performance records in accordance with regulations issued by the Secretary may be brought against—
 
@@ -27,7 +27,7 @@
 
     (b) __Restrictions on Applicability.—__ 
 
-        (1) __Motor carrier requesting.—__ 
+        (1)  __Motor carrier requesting__  __.—__ 
 
         Subsection (a) does not apply to a motor carrier requesting safety performance records unless—
 
@@ -37,7 +37,7 @@
 
             (C) the motor carrier has used those records only to assess the safety performance of the individual who is the subject of those records in deciding whether to hire that individual.
 
-        (2) __Person complying with requests.—__ 
+        (2)  __Person complying with requests__  __.—__ 
 
         Subsection (a) does not apply to a person complying with a request for safety performance records unless—
 
@@ -45,11 +45,11 @@
 
             (B) the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
 
-        (3) __Persons knowingly furnishing false information.—__ 
+        (3)  __Persons knowingly furnishing false information__  __.—__ 
 
         Subsection (a) does not apply to persons who knowingly furnish false information.
 
-    (c) __Preemption of State and Local Law.—__ 
+    (c)  __Preemption of State and Local Law__  __.—__ 
 
     No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using safety performance records in accordance with regulations issued by the Secretary to carry out this section. Notwithstanding any provision of law, written authorization shall not be required to obtain information on the motor vehicle driving record of an individual under consideration for employment with a motor carrier.
 

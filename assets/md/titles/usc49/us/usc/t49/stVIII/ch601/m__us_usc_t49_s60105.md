@@ -15,11 +15,11 @@
 
 ## § 60105. State pipeline safety program certifications
 
-    (a) __General Requirements and Submission.—__ 
+    (a)  __General Requirements and Submission__  __.—__ 
 
     Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforce safety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     Each certification submitted under subsection (a) of this section shall state that the State authority—
 
@@ -37,7 +37,7 @@
 
         (7) may enforce safety standards of the authority under a law of the State by injunctive relief and civil penalties substantially the same as provided under sections 60120 and 60122(a)(1) and (b)–(f) of this title.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
         (1)
 
@@ -53,15 +53,15 @@
 
         (2) The report included in the first certification submitted under subsection (a) of this section is only required to state information available at the time of certification.
 
-    (d) __Application.—__ 
+    (d)  __Application__  __.—__ 
 
     A certification in effect under this section does not apply to safety standards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
 
-    (e) __Monitoring.—__ 
+    (e)  __Monitoring__  __.—__ 
 
     The Secretary may monitor a safety program established under this section to ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
 
-    (f) __Rejections of Certification.—__ 
+    (f)  __Rejections of Certification__  __.—__ 
 
     If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
 

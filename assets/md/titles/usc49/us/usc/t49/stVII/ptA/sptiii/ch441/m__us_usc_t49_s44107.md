@@ -15,7 +15,7 @@
 
 ## § 44107. Recordation of conveyances, leases, and security instruments
 
-    (a) __Establishment of System.—__ 
+    (a)  __Establishment of System__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall establish a system for recording—
 
@@ -35,11 +35,11 @@
 
         (3) releases, cancellations, discharges, and satisfactions related to a conveyance, lease, or instrument recorded under paragraph (1) or (2).
 
-    (b) __General Description Required.—__ 
+    (b)  __General Description Required__  __.—__ 
 
     A lease or instrument recorded under subsection (a)(2)(C) or (D) of this section only has to describe generally the engine, propeller, appliance, or spare part by type and designate its location.
 
-    (c) __Acknowledgment.—__ 
+    (c)  __Acknowledgment__  __.—__ 
 
     Except as the Administrator otherwise may provide, a conveyance, lease, or instrument may be recorded under subsection (a) of this section only after it has been acknowledged before—
 
@@ -47,7 +47,7 @@
 
         (2) another officer authorized under the laws of the United States, a State, the District of Columbia, or a territory or possession of the United States to acknowledge deeds.
 
-    (d) __Records and Indexes.—__ 
+    (d)  __Records and Indexes__  __.—__ 
 
     The Administrator shall—
 
@@ -63,7 +63,7 @@
 
     (e) __International Registry.—__ 
 
-        (1) __Designation of united states entry point.—__ 
+        (1)  __Designation of united states entry point__  __.—__ 
 
         As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as the United States Entry Point to the International Registry relating to—
 
@@ -75,15 +75,15 @@
 
         (2) __System for filing notice of prospective interests.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             The Administrator shall establish a system for filing notices of prospective assignments and prospective international interests in, and prospective sales of, aircraft or aircraft engines described in paragraph (1) under the Cape Town Treaty.
 
-            (B) __Maintenance of validity.—__ 
+            (B)  __Maintenance of validity__  __.—__ 
 
             A filing of a notice of prospective assignment, interest, or sale under this paragraph and the registration with the International Registry relating to such assignment, interest, or sale shall not be valid after the 60th day following the date of the filing unless documents eligible for recording under subsection (a) relating to such notice are filed for recordation on or before such 60th day.
 
-        (3) __Authorization for registration of aircraft.—__ 
+        (3)  __Authorization for registration of aircraft__  __.—__ 
 
         A registration with the International Registry relating to an aircraft described in paragraph (1) (other than subparagraph (C)) is valid only if (A) the person seeking the registration first files documents eligible for recording under subsection (a) and relating to the registration with the United States Entry Point, and (B) the United States Entry Point authorizes the registration.
 

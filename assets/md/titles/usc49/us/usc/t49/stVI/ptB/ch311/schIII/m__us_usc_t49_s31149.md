@@ -17,21 +17,21 @@
 
     (a) __Medical Review Board.—__ 
 
-        (1) __Establishment and function.—__ 
+        (1)  __Establishment and function__  __.—__ 
 
         The Secretary of Transportation shall establish a Medical Review Board to provide the Federal Motor Carrier Safety Administration with medical advice and recommendations on medical standards and guidelines for the physical qualifications of operators of commercial motor vehicles, medical examiner education, and medical research.
 
-        (2) __Composition.—__ 
+        (2)  __Composition__  __.—__ 
 
         The Medical Review Board shall be appointed by the Secretary and shall consist of 5 members selected from medical institutions and private practice. The membership shall reflect expertise in a variety of medical specialties relevant to the driver fitness requirements of the Federal Motor Carrier Safety Administration.
 
-    (b) __Chief Medical Examiner.—__ 
+    (b)  __Chief Medical Examiner__  __.—__ 
 
     The Secretary shall appoint a chief medical examiner who shall be an employee of the Federal Motor Carrier Safety Administration and who shall hold a position under [section 3104 of title 5][/us/usc/t5/s3104], United States Code, relating to employment of specially qualified scientific and professional personnel, and shall be paid under [section 5376 of title 5][/us/usc/t5/s5376], United States Code, relating to pay for certain senior-level positions.
 
     (c) __Medical Standards and Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary, with the advice of the Medical Review Board and the chief medical examiner, shall—
 
@@ -63,11 +63,11 @@
 
             (F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification.
 
-        (2) __Monitoring performance.—__ 
+        (2)  __Monitoring performance__  __.—__ 
 
         The Secretary shall investigate patterns of errors or improper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
 
-    (d) __National Registry of Medical Examiners.—__ 
+    (d)  __National Registry of Medical Examiners__  __.—__ 
 
     The Secretary, acting through the Federal Motor Carrier Safety Administration—
 
@@ -79,7 +79,7 @@
 
         (4) may make participation of medical examiners in the national registry voluntary if such a change will enhance the safety of operators of commercial motor vehicles.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary shall issue such regulations as may be necessary to carry out this section.
 

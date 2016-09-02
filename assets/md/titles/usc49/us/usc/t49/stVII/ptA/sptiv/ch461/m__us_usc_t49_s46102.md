@@ -15,19 +15,19 @@
 
 ## § 46102. Proceedings
 
-    (a) __Conducting Proceedings.—__ 
+    (a)  __Conducting Proceedings__  __.—__ 
 
     Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
 
-    (b) __Appearance.—__ 
+    (b)  __Appearance__  __.—__ 
 
     A person may appear and be heard before the Secretary, the Under Secretary, and the Administrator in person or by an attorney. The Secretary may appear and participate as an interested party in a proceeding the Administrator conducts under [section 40113(a) of this title][/us/usc/t49/s40113/a].
 
-    (c) __Recording and Public Access.—__ 
+    (c)  __Recording and Public Access__  __.—__ 
 
     Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested party unless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
 
-    (d) __Conflicts of Interest.—__ 
+    (d)  __Conflicts of Interest__  __.—__ 
 
     The Secretary, the Under Secretary, the Administrator, or an officer or employee of the Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
 

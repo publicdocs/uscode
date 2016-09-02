@@ -15,7 +15,7 @@
 
 ## § 49111. Relationship to and effect of other laws
 
-    (a) __Same Powers and Restrictions Under Other Laws.—__ 
+    (a)  __Same Powers and Restrictions Under Other Laws__  __.—__ 
 
     To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the Metropolitan Washington Airports Act of 1986 ([Public Law 99–500][/us/pl/99/500]; [100 Stat. 1783–375][/us/stat/100/1783-375]; [Public Law 99–591][/us/pl/99/591]; [100 Stat. 3341–378][/us/stat/100/3341-378]) is in effect—
 
@@ -23,15 +23,15 @@
 
         (2) the Act of June 29, 1940 (ch. 444, [54 Stat. 686][/us/stat/54/686]), the First Supplemental Civil Functions Appropriations Act, 1941 (ch. 780, [54 Stat. 1030][/us/stat/54/1030]), and the Act of September 7, 1950 (ch. 905, [64 Stat. 770][/us/stat/64/770]), do not apply to the operation of the Metropolitan Washington Airports, and the Secretary of Transportation is relieved of all responsibility under those Acts.
 
-    (b) __Inapplicability of Certain Laws.—__ 
+    (b)  __Inapplicability of Certain Laws__  __.—__ 
 
     The Metropolitan Washington Airports and the Airports Authority are not subject to the requirements of any law solely by reason of the retention by the United States Government of the fee simple title to those airports.
 
-    (c) __Police Power.—__ 
+    (c)  __Police Power__  __.—__ 
 
     Virginia shall have concurrent police power authority over the Metropolitan Washington Airports, and the courts of Virginia may exercise jurisdiction over Ronald Reagan Washington National Airport.
 
-    (d) __Planning.—__ 
+    (d)  __Planning__  __.—__ 
 
         (1) The authority of the National Capital Planning Commission under [section 8722 of title 40][/us/usc/t40/s8722] does not apply to the Airports Authority.
 

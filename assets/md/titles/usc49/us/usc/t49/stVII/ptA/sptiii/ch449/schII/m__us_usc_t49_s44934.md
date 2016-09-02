@@ -15,11 +15,11 @@
 
 ## § 44934. Foreign Security Liaison Officers
 
-    (a) __Establishment, Designation, and Stationing.—__ 
+    (a)  __Establishment, Designation, and Stationing__  __.—__ 
 
     The Under Secretary of Transportation for Security shall establish the position of Foreign Security Liaison Officer for each airport outside the United States at which the Under Secretary decides an Officer is necessary for air transportation security. In coordination with the Secretary of State, the Under Secretary shall designate an Officer for each of those airports. In coordination with the Secretary, the Under Secretary shall designate an Officer for each of those airports where extraordinary security measures are in place. The Secretary shall give high priority to stationing those Officers.
 
-    (b) __Duties and Powers.—__ 
+    (b)  __Duties and Powers__  __.—__ 
 
     An Officer reports directly to the Under Secretary. The Officer at each airport shall—
 
@@ -27,7 +27,7 @@
 
         (2) to the extent practicable, carry out duties and powers referred to in [section 44933(b) of this title][/us/usc/t49/s44933/b].
 
-    (c) __Coordination of Activities.—__ 
+    (c)  __Coordination of Activities__  __.—__ 
 
     The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4802][/us/usc/t22/s4802]) and section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927][/us/usc/t22/s3927]).
 

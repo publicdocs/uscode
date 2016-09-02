@@ -15,37 +15,37 @@
 
 ## § 47124. Agreements for State and local operation of airport facilities
 
-    (a) __Government Relief From Liability.—__ 
+    (a)  __Government Relief From Liability__  __.—__ 
 
     The Secretary of Transportation shall ensure that an agreement under this subchapter with a qualified entity (as determined by the Secretary), State, or a political subdivision of a State to allow the entity, State, or subdivision to operate an airport facility relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the entity, State, or subdivision in operating the airport facility.
 
-    (b) __Air Traffic Control Contract Program.—__ 
+    (b)  __Air Traffic Control Contract Program__  __.—__ 
 
         (1) __Contract tower program.—__ 
 
-            (A) __Continuation.—__ 
+            (A)  __Continuation__  __.—__ 
 
             The Secretary shall continue the low activity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
 
-            (B) __Special rule.—__ 
+            (B)  __Special rule__  __.—__ 
 
             If the Secretary determines that a tower already operating under the program continued under this paragraph has a benefit-to-cost ratio of less than 1.0, the airport sponsor or State or local government having jurisdiction over the airport shall not be required to pay the portion of the costs that exceeds the benefit for a period of 18 months after such determination is made.
 
-            (C) __Use of excess funds.—__ 
+            (C)  __Use of excess funds__  __.—__ 
 
             If the Secretary finds that all or part of an amount made available to carry out the program continued under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program established under paragraph (3).
 
-        (2) __General authority.—__ 
+        (2)  __General authority__  __.—__ 
 
         The Secretary may make a contract with a qualified entity (as determined by the Secretary) or, on a sole source basis, with a State or a political subdivision of a State to allow the entity, State, or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the entity, State, or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the entity, State, or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
 
         (3) __Contract air traffic control tower program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall establish a program to contract for air traffic control services at nonapproach control towers, as defined by the Secretary, that do not qualify for the contract tower program established under subsection (a) and continued under paragraph (1) (in this paragraph referred to as the “Contract Tower Program”).
 
-            (B) __Program components.—__ 
+            (B)  __Program components__  __.—__ 
 
             In carrying out the program, the Secretary shall—
 
@@ -53,7 +53,7 @@
 
                 (ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
-            (C) __Priority.—__ 
+            (C)  __Priority__  __.—__ 
 
             In selecting facilities to participate in the program, the Secretary shall give priority to the following facilities:
 
@@ -71,21 +71,21 @@
 
                 (vii) Air traffic control towers located at an airport at which the community has been operating the tower at its own expense.
 
-            (D) __Costs exceeding benefits.—__ 
+            (D)  __Costs exceeding benefits__  __.—__ 
 
             If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent.
 
-            (E) __Funding.—__ 
+            (E)  __Funding__  __.—__ 
 
             Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2015 may be used to carry out this paragraph.
 
-            (F) __Use of excess funds.—__ 
+            (F)  __Use of excess funds__  __.—__ 
 
             If the Secretary finds that all or part of an amount made available under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program continued under paragraph (1).
 
         (4) __Construction of air traffic control towers.—__ 
 
-            (A) __Grants.—__ 
+            (A)  __Grants__  __.—__ 
 
             The Secretary may provide grants to a sponsor of—
 
@@ -109,7 +109,7 @@
 
                     (III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996.
 
-            (B) __Eligibility.—__ 
+            (B)  __Eligibility__  __.—__ 
 
             An airport sponsor shall be eligible for a grant under this paragraph only if—
 
@@ -133,11 +133,11 @@
 
                     (II) the selection of the tower for funding is based on objective criteria.
 
-            (C) __Limitation on federal share.—__ 
+            (C)  __Limitation on federal share__  __.—__ 
 
             The Federal share of the cost of construction of a nonapproach control tower under this paragraph may not exceed $2,000,000.
 
-    (c) __Safety Audits.—__ 
+    (c)  __Safety Audits__  __.—__ 
 
     The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
@@ -277,11 +277,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
 [Pub. L. 108–7, div. I, title III, § 370(c)][/us/pl/108/7/s370/c], Feb. 20, 2003, [117 Stat. 426][/us/stat/117/426], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration may enter into a lease agreement or contract agreement with a private entity to provide for construction and operation of a nonapproach control tower as defined by the Secretary of Transportation.
 
->     “(2) __Terms and conditions.—__ 
+>     “(2)  __Terms and conditions__  __.—__ 
 
 >     An agreement entered into under this section—
 
@@ -303,11 +303,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 
 [Pub. L. 108–7, div. I, title III, § 370(d)][/us/pl/108/7/s370/d], Feb. 20, 2003, [117 Stat. 427][/us/stat/117/427], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Transportation shall conduct a study of the feasibility, costs, and benefits of allowing the sponsor of an airport to use not to exceed 10 percent of amounts apportioned to the sponsor under section 47114 to pay the non-Federal share of the cost of operation of an air traffic control tower under [section 47124(b) of title 49][/us/usc/t49/s47124/b], United States Code.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 20, 2003\], the Secretary shall transmit to Congress a report on the results of the study.”
 

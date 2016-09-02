@@ -17,27 +17,27 @@
 
     (a) __Civil Penalty.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever is found holding a household goods shipment hostage is liable to the United States for a civil penalty of not less than $10,000 for each violation. The United States may assign all or a portion of the civil penalty to an aggrieved shipper. The Secretary of Transportation shall establish criteria upon which such assignments shall be made. The Secretary may order, after notice and an opportunity for a proceeding, that a person found holding a household goods shipment hostage return the goods to an aggrieved shipper.
 
-        (2) __Each day, a separate violation.—__ 
+        (2)  __Each day, a separate violation__  __.—__ 
 
         Each day a carrier is found to have failed to give up possession of household goods may constitute a separate violation.
 
-        (3) __Suspension.—__ 
+        (3)  __Suspension__  __.—__ 
 
         If the person found holding a shipment hostage is a carrier or broker, the Secretary may suspend for a period of not less than 12 months nor more than 36 months the registration of such carrier or broker under chapter 139. The force and effect of such suspension of a carrier or broker shall extend to and include any carrier or broker having the same ownership or operational control as the suspended carrier or broker.
 
-        (4) __Settlement authority.—__ 
+        (4)  __Settlement authority__  __.—__ 
 
         Nothing in this section shall be construed as prohibiting the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
     Whoever has been convicted of having failed to give up possession of household goods shall be fined under title 18 or imprisoned for not more than 2 years, or both.
 
-    (c) __Failure To Give Up Possession of Household Goods Defined.—__ 
+    (c)  __Failure To Give Up Possession of Household Goods Defined__  __.—__ 
 
     For purposes of this section, the term “failed to give up possession of household goods” means the knowing and willful failure, in violation of a contract, to deliver to, or unload at, the destination of a shipment of household goods that is subject to jurisdiction under subchapter I or III of chapter 135 of this title, for which charges have been estimated by the motor carrier providing transportation of such goods, and for which the shipper has tendered a payment described in clause (i), (ii), or (iii) of section 13707(b)(3)(A).
 

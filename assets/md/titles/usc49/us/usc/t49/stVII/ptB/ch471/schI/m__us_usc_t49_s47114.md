@@ -15,11 +15,11 @@
 
 ## § 47114. Apportionments
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “amount subject to apportionment” means the amount newly made available under [section 48103 of this title][/us/usc/t49/s48103] for a fiscal year.
 
-    (b) __Apportionment Date.—__ 
+    (b)  __Apportionment Date__  __.—__ 
 
     On the first day of each fiscal year, the Secretary of Transportation shall apportion the amount subject to apportionment for that fiscal year as provided in this section.
 
@@ -27,7 +27,7 @@
 
         (1) __Primary airports.—__ 
 
-            (A) __Apportionment.—__ 
+            (A)  __Apportionment__  __.—__ 
 
             The Secretary shall apportion to the sponsor of each primary airport for each fiscal year an amount equal to—
 
@@ -41,11 +41,11 @@
 
                 (v) $.50 for each additional passenger boarding at the airport during the prior calendar year.
 
-            (B) __Minimum and maximum apportionments.—__ 
+            (B)  __Minimum and maximum apportionments__  __.—__ 
 
             Not less than $650,000 nor more than $22,000,000 may be apportioned under subparagraph (A) of this paragraph to an airport sponsor for a primary airport for each fiscal year.
 
-            (C) __Special rule.—__ 
+            (C)  __Special rule__  __.—__ 
 
             In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more—
 
@@ -55,11 +55,11 @@
 
                 (iii) the maximum apportionment to a sponsor under subparagraph (B) shall be $26,000,000 rather than $22,000,000.
 
-            (D) __New airports.—__ 
+            (D)  __New airports__  __.—__ 
 
             Notwithstanding subparagraph (A), the Secretary shall apportion on the first day of the first fiscal year following the official opening of a new airport with scheduled passenger air transportation an amount equal to the minimum amount set forth in subparagraph (B) or (C), as appropriate, to the sponsor of such airport.
 
-            (E) __Use of previous fiscal year’s apportionment.—__ 
+            (E)  __Use of previous fiscal year’s apportionment__  __.—__ 
 
             Notwithstanding subparagraph (A), the Secretary may apportion to an airport sponsor in a fiscal year an amount equal to the amount apportioned to that sponsor in the previous fiscal year if the Secretary finds that—
 
@@ -69,47 +69,47 @@
 
                 (iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
-            (F) __Special rule for fiscal years 2012 and 2013.—__ 
+            (F)  __Special rule for fiscal years 2012 and 2013__  __.—__ 
 
             Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.
 
         (2) __Cargo airports.—__ 
 
-            (A) __Apportionment.—__ 
+            (A)  __Apportionment__  __.—__ 
 
             Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3.5 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
 
-            (B) __Suballocation formula.—__ 
+            (B)  __Suballocation formula__  __.—__ 
 
             Any funds apportioned under subparagraph (A) to sponsors of airports described in subparagraph (A) shall be allocated among those airports in the proportion that the total annual landed weight of aircraft described in subparagraph (A) landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports.
 
-            (C) __Limitation.—__ 
+            (C)  __Limitation__  __.—__ 
 
             In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than 8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport.
 
-            (D) __Distribution to other airports.—__ 
+            (D)  __Distribution to other airports__  __.—__ 
 
             Before apportioning amounts to the sponsors of airports under subparagraph (A) for a fiscal year, the Secretary may set-aside a portion of such amounts for distribution to the sponsors of other airports, selected by the Secretary, that the Secretary finds will be served primarily by aircraft providing air transportation of only cargo.
 
-            (E) __Determination of landed weight.—__ 
+            (E)  __Determination of landed weight__  __.—__ 
 
             Landed weight under this paragraph is the landed weight of aircraft landing at each airport described in subparagraph (A) during the prior calendar year.
 
     (d) __Amounts Apportioned for General Aviation Airports.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Area.—__ 
+            (A)  __Area__  __.—__ 
 
             The term “area” includes land and water.
 
-            (B) __Population.—__ 
+            (B)  __Population__  __.—__ 
 
             The term “population” means the population stated in the latest decennial census of the United States.
 
-        (2) __Apportionment.—__ 
+        (2)  __Apportionment__  __.—__ 
 
         Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
 
@@ -119,7 +119,7 @@
 
             (C) Except as provided in paragraph (4), 49.67 percent of the apportioned amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in subparagraph (A) in the proportion that the area of each of those States bears to the total area of all of those States.
 
-        (3) __Special rule.—__ 
+        (3)  __Special rule__  __.—__ 
 
         In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
 
@@ -141,13 +141,13 @@
 
                 (iii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the area of each of those States bears to the total area of all of those States.
 
-        (4) __Airports in alaska, puerto rico, and hawaii.—__ 
+        (4)  __Airports in alaska, puerto rico, and hawaii__  __.—__ 
 
         An amount apportioned under paragraph (2) or (3) to Alaska, Puerto Rico, or Hawaii for airports in such State may be made available by the Secretary for any public airport in those respective jurisdictions.
 
         (5) __Use of state highway specifications.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary may permit the use of State highway specifications for airfield pavement construction using funds made available under this subsection at nonprimary airports with runways of 5,000 feet or shorter serving aircraft that do not exceed 60,000 pounds gross weight if the Secretary determines that—
 
@@ -155,15 +155,15 @@
 
                 (ii) the life of the pavement will not be shorter than it would be if constructed using Administration standards.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             An airport may not seek funds under this subchapter for runway rehabilitation or reconstruction of any such airfield pavement constructed using State highway specifications for a period of 10 years after construction is completed unless the Secretary determines that the rehabilitation or reconstruction is required for safety reasons.
 
-        (6) __Integrated airport system planning.—__ 
+        (6)  __Integrated airport system planning__  __.—__ 
 
         Notwithstanding any other provision of this subsection, funds made available under this subsection may be used for integrated airport system planning that encompasses one or more primary airports.
 
-        (7) __Eligibility to receive primary airport minimum apportionment amount.—__ 
+        (7)  __Eligibility to receive primary airport minimum apportionment amount__  __.—__ 
 
         Notwithstanding any other provision of this subsection, the Secretary may apportion to an airport sponsor in a fiscal year an amount equal to the minimum apportionment available under subsection (c)(1)(B) if the Secretary finds that the airport—
 
@@ -173,7 +173,7 @@
 
     (e) __Supplemental Apportionment for Alaska.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding subsections (c) and (d) of this section, the Secretary may apportion amounts for airports in Alaska in the way in which amounts were apportioned in the fiscal year ending September 30, 1980, under section 15(a) of the Act. However, in apportioning amounts for a fiscal year under this subsection, the Secretary shall apportion—
 
@@ -181,21 +181,21 @@
 
             (B) a total amount at least equal to the minimum amount required to be apportioned to airports in Alaska in the fiscal year ending September 30, 1980, under section 15(a)(3)(A) of the Act.
 
-        (2) __Authority for discretionary grants.—__ 
+        (2)  __Authority for discretionary grants__  __.—__ 
 
         This subsection does not prohibit the Secretary from making project grants for airports in Alaska from the discretionary fund under [section 47115 of this title][/us/usc/t49/s47115].
 
-        (3) __Airports eligible for funds.—__ 
+        (3)  __Airports eligible for funds__  __.—__ 
 
         An amount apportioned under this subsection may be used for any public airport in Alaska.
 
-        (4) __Special rule.—__ 
+        (4)  __Special rule__  __.—__ 
 
         In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, the amount that may be apportioned for airports in Alaska under paragraph (1) shall be increased by doubling the amount that would otherwise be apportioned.
 
     (f) __Reducing Apportionments.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a charge is imposed in the fiscal year under [section 40117 of this title][/us/usc/t49/s40117] shall be reduced by an amount equal to—
 
@@ -227,21 +227,21 @@
 
                     (II) the amount equal to the amount specified in subclause (I) multiplied by the percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers.
 
-        (2) __Effective date of reduction.—__ 
+        (2)  __Effective date of reduction__  __.—__ 
 
         A reduction in an apportionment required by paragraph (1) shall not take effect until the first fiscal year following the year in which the collection of the charge imposed under section 40117 is begun.
 
         (3) __Special rule for transitioning airports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the charge in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenues derived from such charge in the preceding fiscal year.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Subparagraph (A) shall be in effect for fiscal year 2004.
 
-    (g) __Supplemental Apportionment for Puerto Rico and United States Territories.—__ 
+    (g)  __Supplemental Apportionment for Puerto Rico and United States Territories__  __.—__ 
 
     The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 

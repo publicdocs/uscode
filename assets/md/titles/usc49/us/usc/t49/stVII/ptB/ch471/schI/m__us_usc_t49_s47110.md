@@ -15,11 +15,11 @@
 
 ## § 47110. Allowable project costs
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Except as provided in [section 47111 of this title][/us/usc/t49/s47111], the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
-    (b) __Allowable Cost Standards.—__ 
+    (b)  __Allowable Cost Standards__  __.—__ 
 
     A project cost is allowable—
 
@@ -73,7 +73,7 @@
 
             (C) if the measure results in an increase in initial project costs, the increase is justified by expected savings over the life cycle of the project.
 
-    (c) __Certain Prior Costs as Allowable Costs.—__ 
+    (c)  __Certain Prior Costs as Allowable Costs__  __.—__ 
 
     The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and before the date the grant agreement is executed is allowable if it is—
 
@@ -81,7 +81,7 @@
 
         (2) necessarily and directly incurred in developing the work scope of an airport planning project.
 
-    (d) __Relocation of Airport-Owned Facilities.—__ 
+    (d)  __Relocation of Airport-Owned Facilities__  __.—__ 
 
     The Secretary may determine that the costs of relocating or replacing an airport-owned facility are allowable for an airport development project at an airport only if—
 
@@ -91,7 +91,7 @@
 
         (3) the Secretary determines that the change is beyond the control of the airport sponsor.
 
-    (e) __Letters of Intent.—__ 
+    (e)  __Letters of Intent__  __.—__ 
 
         (1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government’s share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government’s share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
 
@@ -109,15 +109,15 @@
 
         (4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out [section 48103 of this title][/us/usc/t49/s48103], less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
-        (5) __Letters of intent.—__ 
+        (5)  __Letters of intent__  __.—__ 
 
         The Secretary may not require an eligible agency to impose a passenger facility charge under section 40117 in order to obtain a letter of intent under this section.
 
-        (6) __Limitation on statutory construction.—__ 
+        (6)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 
-    (f) __Nonallowable Costs.—__ 
+    (f)  __Nonallowable Costs__  __.—__ 
 
     Except as provided in subsection (d) of this section and [section 47118(f) of this title][/us/usc/t49/s47118/f], a cost is not an allowable airport development project cost if it is for—
 
@@ -129,15 +129,15 @@
 
         (4) providing or installing sculpture or art works.
 
-    (g) __Use of Discretionary Funds.—__ 
+    (g)  __Use of Discretionary Funds__  __.—__ 
 
     A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under [section 47115 of this title][/us/usc/t49/s47115] even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to cover the Government’s share of the cost of the project.
 
-    (h) __Nonprimary Airports.—__ 
+    (h)  __Nonprimary Airports__  __.—__ 
 
     The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government’s share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(d)(3)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
 
-    (i) __Bird-Detecting Radar Systems.—__ 
+    (i)  __Bird-Detecting Radar Systems__  __.—__ 
 
     The Administrator of the Federal Aviation Administration, upon the conclusion of all planned research by the Administration regarding avian radar systems, shall—
 

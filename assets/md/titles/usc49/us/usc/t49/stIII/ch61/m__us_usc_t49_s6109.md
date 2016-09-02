@@ -15,11 +15,11 @@
 
 ## § 6109. Public education and awareness
 
-    (a) __Grant Authority.—__ 
+    (a)  __Grant Authority__  __.—__ 
 
     The Secretary shall make a grant to an appropriate entity for promoting public education and awareness with respect to the 811 national excavation damage prevention phone number.
 
-    (b) __Authorization of Appropriations.—__ 
+    (b)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to the Secretary $1,000,000 for the period beginning October 1, 2006, and ending September 30, 2008, to carry out this section.
 

@@ -15,29 +15,29 @@
 
 ## § 16101. General civil penalties
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as otherwise provided in this section, a pipeline carrier providing transportation subject to this part, an officer or agent of that carrier, or a receiver, trustee, lessee, or agent of one of them, knowingly violating this part or an order of the Board under this part is liable to the United States for a civil penalty of not more than $5,000 for each violation. Liability under this subsection is incurred for each distinct violation. A separate violation occurs for each day the violation continues.
 
     (b) __Recordkeeping and Reporting.—__ 
 
-        (1) __Records.—__ 
+        (1)  __Records__  __.—__ 
 
         A person required under chapter 157 to make, prepare, preserve, or submit to the Board a record concerning transportation subject to this part that does not make, prepare, preserve, or submit that record as required under that chapter, is liable to the United States for a civil penalty of $500 for each violation.
 
-        (2) __Inspection.—__ 
+        (2)  __Inspection__  __.—__ 
 
         A carrier providing transportation subject to this part, and a lessor, receiver, or trustee of that carrier, violating section 15722, is liable to the United States for a civil penalty of $100 for each violation.
 
-        (3) __Reports.—__ 
+        (3)  __Reports__  __.—__ 
 
         A carrier providing transportation subject to the jurisdiction of the Board under this part, a lessor, receiver, or trustee of that carrier, and an officer, agent, or employee of one of them, required to make a report to the Board or answer a question that does not make the report or does not specifically, completely, and truthfully answer the question, is liable to the United States for a civil penalty of $100 for each violation.
 
-        (4) __Continued violation.—__ 
+        (4)  __Continued violation__  __.—__ 
 
         A separate violation occurs for each day violation under this subsection continues.
 
-    (c) __Venue.—__ 
+    (c)  __Venue__  __.—__ 
 
     Trial in a civil action under this section is in the judicial district in which the carrier has its principal operating office.
 

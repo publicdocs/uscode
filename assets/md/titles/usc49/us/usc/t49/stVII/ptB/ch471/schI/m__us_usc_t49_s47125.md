@@ -15,11 +15,11 @@
 
 ## § 47125. Conveyances of United States Government land
 
-    (a) __Conveyances to Public Agencies.—__ 
+    (a)  __Conveyances to Public Agencies__  __.—__ 
 
     Except as provided in subsection (b) of this section, the Secretary of Transportation shall request the head of the department, agency, or instrumentality of the United States Government owning or controlling land or airspace to convey a property interest in the land or airspace to the public agency sponsoring the project or owning or controlling the airport when necessary to carry out a project under this subchapter at a public airport, to operate a public airport, or for the future development of an airport under the national plan of integrated airport systems. The head of the department, agency, or instrumentality shall decide whether the requested conveyance is consistent with the needs of the department, agency, or instrumentality and shall notify the Secretary of that decision not later than 4 months after receiving the request. If the head of the department, agency, or instrumentality decides that the requested conveyance is consistent with its needs, the head of the department, agency, or instrumentality, with the approval of the Attorney General and without cost to the Government, shall make the conveyance. A conveyance may be made only on the condition that the property interest conveyed reverts to the Government, at the option of the Secretary, to the extent it is not developed for an airport purpose or used consistently with the conveyance. Before waiving a condition that property be used for an aeronautical purpose under the preceding sentence, the Secretary must provide notice to the public not less than 30 days before waiving such condition.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     Except as specifically provided by law, subsection (a) of this section does not apply to land or airspace owned or controlled by the Government within—
 
@@ -109,11 +109,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 516, 96 Stat. 692.  </td>
 
 [Pub. L. 112–95, title VIII, § 817][/us/pl/112/95/s817], Feb. 14, 2012, [126 Stat. 127][/us/stat/126/127], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Secretary of Transportation is authorized to grant to an airport, city, or county a release from any of the terms, conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes pursuant to section 16 of the Federal Airport Act ([60 Stat. 179][/us/stat/60/179]) or section 23 of the Airport and Airway Development Act of 1970 ([84 Stat. 232][/us/stat/84/232]).
 
->     “(b) __Condition.—__ 
+>     “(b)  __Condition__  __.—__ 
 
 >     Any release granted by the Secretary pursuant to subsection (a) shall be subject to the following conditions:
 

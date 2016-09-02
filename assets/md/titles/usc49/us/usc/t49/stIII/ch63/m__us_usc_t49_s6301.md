@@ -17,23 +17,23 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Bureau.—__ 
+    (1)  __Bureau__  __.—__ 
 
     The term “Bureau” means the Bureau of Transportation Statistics established by section 6302(a).
 
-    (2) __Department.—__ 
+    (2)  __Department__  __.—__ 
 
     The term “Department” means the Department of Transportation.
 
-    (3) __Director.—__ 
+    (3)  __Director__  __.—__ 
 
     The term “Director” means the Director of the Bureau.
 
-    (4) __Library.—__ 
+    (4)  __Library__  __.—__ 
 
     The term “Library” means the National Transportation Library established by section 6304(a).
 
-    (5) __Secretary.—__ 
+    (5)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Transportation.
 

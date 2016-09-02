@@ -15,11 +15,11 @@
 
 ## § 20141. Power brake safety
 
-    (a) __Review and Revision of Existing Regulations.—__ 
+    (a)  __Review and Revision of Existing Regulations__  __.—__ 
 
     The Secretary of Transportation shall review existing regulations on railroad power brakes and, not later than December 31, 1993, revise the regulations based on safety information presented during the review. Where applicable, the Secretary shall prescribe regulations that establish standards on dynamic braking equipment.
 
-    (b) __2-Way End-of-Train Devices.—__ 
+    (b) __2-__  __Way End-of-Train Devices__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (3) In developing the regulations required by paragraph (1) of this subsection, the Secretary shall consider information presented under subsection (a) of this section.
 
-    (c) __Exclusions.—__ 
+    (c)  __Exclusions__  __.—__ 
 
     The Secretary may exclude from regulations prescribed under subsections (a) and (b) of this section any category of trains or rail operations if the Secretary decides that the exclusion is in the public interest and is consistent with railroad safety. The Secretary shall make public the reasons for the exclusion. The Secretary at least shall exclude from the regulations prescribed under subsection (b)—
 

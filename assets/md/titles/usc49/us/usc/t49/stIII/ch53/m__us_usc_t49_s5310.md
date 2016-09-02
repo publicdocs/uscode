@@ -15,21 +15,21 @@
 
 ## § 5310. Formula grants for the enhanced mobility of seniors and individuals with disabilities
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions shall apply:
 
-        (1) __Recipient.—__ 
+        (1)  __Recipient__  __.—__ 
 
         The term “recipient” means a designated recipient or a State that receives a grant under this section directly.
 
-        (2) __Subrecipient.—__ 
+        (2)  __Subrecipient__  __.—__ 
 
         The term “subrecipient” means a State or local governmental authority, a private nonprofit organization, or an operator of public transportation that receives a grant under this section indirectly through a recipient.
 
     (b) __General Authority.—__ 
 
-        (1) __Grants.—__ 
+        (1)  __Grants__  __.—__ 
 
         The Secretary may make grants under this section to recipients for—
 
@@ -43,7 +43,7 @@
 
         (2) __Limitations for capital projects.—__ 
 
-            (A) __Amount available.—__ 
+            (A)  __Amount available__  __.—__ 
 
             The amount available for capital projects under paragraph (1)(A) shall be not less than 55 percent of the funds apportioned to the recipient under this section.
 
@@ -61,21 +61,21 @@
 
                     (II) certifies that there are no private nonprofit organizations readily available in the area to provide the services described in paragraph (1)(A).
 
-        (3) __Administrative expenses.—__ 
+        (3)  __Administrative expenses__  __.—__ 
 
         A recipient may use not more than 10 percent of the amounts apportioned to the recipient under this section to administer, plan, and provide technical assistance for a project funded under this section.
 
-        (4) __Eligible capital expenses.—__ 
+        (4)  __Eligible capital expenses__  __.—__ 
 
         The acquisition of public transportation services is an eligible capital expense under this section.
 
         (5) __Coordination.—__ 
 
-            (A) __Department of transportation.—__ 
+            (A)  __Department of transportation__  __.—__ 
 
             To the maximum extent feasible, the Secretary shall coordinate activities under this section with related activities under other Federal departments and agencies.
 
-            (B) __Other federal agencies and nonprofit organizations.—__ 
+            (B)  __Other federal agencies and nonprofit organizations__  __.—__ 
 
             A State or local governmental authority or nonprofit organization that receives assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
 
@@ -85,29 +85,29 @@
 
         (6) __Program of projects.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Amounts made available to carry out this section may be used for transportation projects to assist in providing transportation services for seniors and individuals with disabilities, if such transportation projects are included in a program of projects.
 
-            (B) __Submission.—__ 
+            (B)  __Submission__  __.—__ 
 
             A recipient shall annually submit a program of projects to the Secretary.
 
-            (C) __Assurance.—__ 
+            (C)  __Assurance__  __.—__ 
 
             The program of projects submitted under subparagraph (B) shall contain an assurance that the program provides for the maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other Government sources.
 
-        (7) __Meal delivery for homebound individuals.—__ 
+        (7)  __Meal delivery for homebound individuals__  __.—__ 
 
         A public transportation service provider that receives assistance under this section or section 5311(c) may coordinate and assist in regularly providing meal delivery service for homebound individuals, if the delivery service does not conflict with providing public transportation service or reduce service to public transportation passengers.
 
     (c) __Apportionment and Transfers.—__ 
 
-        (1) __Formula.—__ 
+        (1)  __Formula__  __.—__ 
 
         The Secretary shall apportion amounts made available to carry out this section as follows:
 
-            (A) __Large urbanized areas.—__ 
+            (A)  __Large urbanized areas__  __.—__ 
 
             Sixty percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of 200,000 or more individuals, as determined by the Bureau of the Census, in the ratio that—
 
@@ -115,7 +115,7 @@
 
                 (ii) the number of seniors and individuals with disabilities in all such urbanized areas.
 
-            (B) __Small urbanized areas.—__ 
+            (B)  __Small urbanized areas__  __.—__ 
 
             Twenty percent of the funds shall be apportioned among the States in the ratio that—
 
@@ -123,7 +123,7 @@
 
                 (ii) the number of seniors and individuals with disabilities in urbanized areas with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census, in all States.
 
-            (C) __Rural areas.—__ 
+            (C)  __Rural areas__  __.—__ 
 
             Twenty percent of the funds shall be apportioned among the States in the ratio that—
 
@@ -133,7 +133,7 @@
 
         (2) __Areas served by projects.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B)—
 
@@ -143,7 +143,7 @@
 
                 (iii) funds apportioned under paragraph (1)(C) shall be used for projects serving rural areas.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             A State may use funds apportioned to the State under subparagraph (B) or (C) of paragraph (1)—
 
@@ -151,25 +151,25 @@
 
                 (ii) for a project anywhere in the State, if the State has established a statewide program for meeting the objectives of this section.
 
-            (C) __Limited to eligible projects.—__ 
+            (C)  __Limited to eligible projects__  __.—__ 
 
             Any funds transferred pursuant to subparagraph (B) shall be made available only for eligible projects selected under this section.
 
-            (D) __Consultation.—__ 
+            (D)  __Consultation__  __.—__ 
 
             A recipient may transfer an amount under subparagraph (B) only after consulting with responsible local officials, publicly owned operators of public transportation, and nonprofit providers in the area for which the amount was originally apportioned.
 
     (d) __Government Share of Costs.—__ 
 
-        (1) __Capital projects.—__ 
+        (1)  __Capital projects__  __.—__ 
 
         A grant for a capital project under this section shall be in an amount equal to 80 percent of the net capital costs of the project, as determined by the Secretary.
 
-        (2) __Operating assistance.—__ 
+        (2)  __Operating assistance__  __.—__ 
 
         A grant made under this section for operating assistance may not exceed an amount equal to 50 percent of the net operating costs of the project, as determined by the Secretary.
 
-        (3) __Remainder of net costs.—__ 
+        (3)  __Remainder of net costs__  __.—__ 
 
         The remainder of the net costs of a project carried out under this section—
 
@@ -183,19 +183,19 @@
 
                 (ii) to carry out the Federal lands highways program under section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23.
 
-        (4) __Use of certain funds.—__ 
+        (4)  __Use of certain funds__  __.—__ 
 
         For purposes of paragraph (3)(B)(i), the prohibition under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)][/us/usc/t42/s603/a/5/C/vii]) on the use of grant funds for matching requirements shall not apply to Federal or State funds to be used for transportation purposes.
 
     (e) __Grant Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A grant under this section shall be subject to the same requirements as a grant under section 5307, to the extent the Secretary determines appropriate.
 
         (2) __Certification requirements.—__ 
 
-            (A) __Project selection and plan development.—__ 
+            (A)  __Project selection and plan development__  __.—__ 
 
             Before receiving a grant under this section, each recipient shall certify that—
 
@@ -205,25 +205,25 @@
 
                 (iii) to the maximum extent feasible, the services funded under this section will be coordinated with transportation services assisted by other Federal departments and agencies, including any transportation activities carried out by a recipient of a grant from the Department of Health and Human Services.
 
-            (B) __Allocations to subrecipients.—__ 
+            (B)  __Allocations to subrecipients__  __.—__ 
 
             If a recipient allocates funds received under this section to subrecipients, the recipient shall certify that the funds are allocated on a fair and equitable basis.
 
     (f) __Competitive Process for Grants to Subrecipients.—__ 
 
-        (1) __Areawide solicitations.—__ 
+        (1)  __Areawide solicitations__  __.—__ 
 
         A recipient of funds apportioned under subsection (c)(1)(A) may conduct, in cooperation with the appropriate metropolitan planning organization, an areawide solicitation for applications for grants under this section.
 
-        (2) __Statewide solicitations.—__ 
+        (2)  __Statewide solicitations__  __.—__ 
 
         A recipient of funds apportioned under subparagraph (B) or (C) of subsection (c)(1) may conduct a statewide solicitation for applications for grants under this section.
 
-        (3) __Application.—__ 
+        (3)  __Application__  __.—__ 
 
         If the recipient elects to engage in a competitive process, a recipient or subrecipient seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient making the election an application in such form and in accordance with such requirements as the recipient making the election shall establish.
 
-    (g) __Transfers of Facilities and Equipment.—__ 
+    (g)  __Transfers of Facilities and Equipment__  __.—__ 
 
     A recipient may transfer a facility or equipment acquired using a grant under this section to any other recipient eligible to receive assistance under this chapter, if—
 
@@ -233,11 +233,11 @@
 
     (h) __Performance Measures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofit organizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
 
-        (2) __Measures.—__ 
+        (2)  __Measures__  __.—__ 
 
         The performance measures to be considered in the report under paragraph (1) shall require the collection of quantitative and qualitative information, as available, concerning—
 

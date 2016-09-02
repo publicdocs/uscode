@@ -15,11 +15,11 @@
 
 ## § 6305. Advisory council on transportation statistics
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director shall establish and consult with an advisory council on transportation statistics.
 
-    (b) __Function.—__ 
+    (b)  __Function__  __.—__ 
 
     The advisory council established under this section shall advise the Director on—
 
@@ -29,11 +29,11 @@
 
     (c) __Membership.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The advisory council shall be composed of not fewer than 9 and not more than 11 members appointed by the Director.
 
-        (2) __Selection.—__ 
+        (2)  __Selection__  __.—__ 
 
         In selecting members for the advisory council, the Director shall appoint individuals who—
 
@@ -53,19 +53,19 @@
 
     (d) __Terms of Appointment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), members of the advisory council shall be appointed to staggered terms not to exceed 3 years.
 
-        (2) __Additional terms.—__ 
+        (2)  __Additional terms__  __.—__ 
 
         A member may be renominated for 1 additional 3-year term.
 
-        (3) __Current members.—__ 
+        (3)  __Current members__  __.—__ 
 
         A member serving on an advisory council on transportation statistics on the day before the date of enactment of the Transportation Research and Innovative Technology Act of 2012 shall serve until the end of the appointed term of the member.
 
-    (e) __Applicability of Federal Advisory Committee Act.—__ 
+    (e)  __Applicability of Federal Advisory Committee Act__  __.—__ 
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory council established under this section, except that section 14 of that Act shall not apply.
 

@@ -15,7 +15,7 @@
 
 ## § 32302. Passenger motor vehicle information
 
-    (a) __Information Program.—__ 
+    (a)  __Information Program__  __.—__ 
 
     The Secretary of Transportation shall maintain a program for developing the following information on passenger motor vehicles:
 
@@ -25,7 +25,7 @@
 
         (3) the degree of difficulty of diagnosis and repair of damage to, or failure of, mechanical and electrical systems.
 
-    (b) __Motor Vehicle Information.—__ 
+    (b)  __Motor Vehicle Information__  __.—__ 
 
     To assist a consumer in buying a passenger motor vehicle, the Secretary shall provide to the public information developed under subsection (a) of this section. The information shall be in a simple and understandable form that allows comparison of the characteristics referred to in subsection (a)(1)–(3) of this section among the makes and models of passenger motor vehicles. The Secretary may require passenger motor vehicle dealers to distribute the information to prospective buyers. The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and method for providing simple and understandable damage susceptibility information to consumers.
 
@@ -33,7 +33,7 @@
 
     (d) __Motor Vehicle Defect Reporting Information.—__ 
 
-        (1) __Rulemaking required.—__ 
+        (1)  __Rulemaking required__  __.—__ 
 
         Not later than 1 year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, the Secretary shall prescribe regulations that require passenger motor vehicle manufacturers—
 
@@ -43,7 +43,7 @@
 
             (C) to not place such information on the label required under section 3 of the Automobile Information Disclosure Act ([15 U.S.C. 1232][/us/usc/t15/s1232]).
 
-        (2) __Application.—__ 
+        (2)  __Application__  __.—__ 
 
         The requirements under paragraph (1) shall apply to passenger motor vehicles manufactured in any model year beginning more than 1 year after the date on which a final rule is published under paragraph (1).
 

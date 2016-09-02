@@ -15,7 +15,7 @@
 
 ## § 32906. Maximum fuel economy increase for alternative fuel automobiles
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For each of model years 1993 through 2019 for each category of automobile (except an electric automobile), the maximum increase in average fuel economy for a manufacturer attributable to dual fueled automobiles is—
 
@@ -33,7 +33,7 @@
 
         (7) 0 miles per gallon for model years after 2019.
 
-    (b) __Calculation.—__ 
+    (b)  __Calculation__  __.—__ 
 
     In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer’s average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer’s average fuel economy calculated under section 32905(e) the number equal to what the manufacturer’s average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including as the denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
 

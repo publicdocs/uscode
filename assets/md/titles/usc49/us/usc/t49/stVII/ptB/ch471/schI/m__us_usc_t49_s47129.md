@@ -17,7 +17,7 @@
 
     (a) __Authority To Request Secretary’s Determination.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation shall issue a determination as to whether a fee imposed upon one or more air carriers or foreign air carriers (as those terms are defined in section 40102) by the owner or operator of an airport is reasonable if—
 
@@ -25,19 +25,19 @@
 
             (B) a written complaint requesting such determination is filed with the Secretary by an affected air carrier or foreign air carrier within 60 days after such carrier receives written notice of the establishment or increase of such fee.
 
-        (2) __Calculation of fee.—__ 
+        (2)  __Calculation of fee__  __.—__ 
 
         A fee subject to a determination of reasonableness under this section may be calculated pursuant to either a compensatory or residual fee methodology or any combination thereof.
 
-        (3) __Secretary not to set fee.—__ 
+        (3)  __Secretary not to set fee__  __.—__ 
 
         In determining whether a fee is reasonable under this section, the Secretary may only determine whether the fee is reasonable or unreasonable and shall not set the level of the fee.
 
-        (4) __Fees imposed by privately-owned airports.—__ 
+        (4)  __Fees imposed by privately-owned airports__  __.—__ 
 
         In evaluating the reasonableness of a fee imposed by an airport receiving an exemption under [section 47134 of this title][/us/usc/t49/s47134], the Secretary shall consider whether the airport has complied with section 47134(c)(4).
 
-    (b) __Procedural Regulations.—__ 
+    (b)  __Procedural Regulations__  __.—__ 
 
     Not later than 90 days after August 23, 1994, the Secretary shall publish in the Federal Register final regulations, policy statements, or guidelines establishing—
 
@@ -45,7 +45,7 @@
 
         (2) the standards or guidelines that shall be used by the Secretary in determining under this section whether an airport fee is reasonable.
 
-    (c) __Decisions By Secretary.—__ 
+    (c)  __Decisions By Secretary__  __.—__ 
 
     The final regulations, policy statements, or guidelines required in subsection (b) shall provide the following:
 
@@ -65,27 +65,27 @@
 
         (1) __Payment under protest.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any fee increase or newly established fee which is the subject of a complaint that is not dismissed by the Secretary shall be paid by the complainant air carrier or foreign air carrier to the airport under protest.
 
-            (B) __Referral or credit.—__ 
+            (B)  __Referral or credit__  __.—__ 
 
             Any amounts paid under this subsection by a complainant air carrier or foreign air carrier to the airport under protest shall be subject to refund or credit to the air carrier or foreign air carrier in accordance with directions in the final order of the Secretary within 30 days of such order.
 
-            (C) __Assurance of timely repayment.—__ 
+            (C)  __Assurance of timely repayment__  __.—__ 
 
             In order to assure the timely repayment, with interest, of amounts in dispute determined not to be reasonable by the Secretary, the airport shall obtain a letter of credit, or surety bond, or other suitable credit facility, equal to the amount in dispute that is due during the 120-day period established by this section, plus interest, unless the airport and the complainant air carrier or foreign air carrier agree otherwise.
 
-            (D) __Deadline.—__ 
+            (D)  __Deadline__  __.—__ 
 
             The letter of credit, or surety bond, or other suitable credit facility shall be provided to the Secretary within 20 days of the filing of the complaint and shall remain in effect for 30 days after the earlier of 120 days or the issuance of a timely final order by the Secretary determining whether such fee is reasonable.
 
-        (2) __Guarantee of air carrier and foreign air carrier access.—__ 
+        (2)  __Guarantee of air carrier and foreign air carrier access__  __.—__ 
 
         Contingent upon an air carrier’s or foreign air carrier’s compliance with the requirements of paragraph (1) and pending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier or foreign air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier’s or foreign air carrier’s prices, routes, or services, as a means of enforcing the fee.
 
-    (e) __Applicability.—__ 
+    (e)  __Applicability__  __.—__ 
 
     This section does not apply to—
 
@@ -95,7 +95,7 @@
 
         (3) any other existing fee not in dispute as of August 23, 1994.
 
-    (f) __Effect On Existing Agreements.—__ 
+    (f)  __Effect On Existing Agreements__  __.—__ 
 
     Nothing in this section shall adversely affect—
 
@@ -103,7 +103,7 @@
 
         (2) the ability of an airport to meet its obligations under a financing agreement, or covenant, that is in force as of August 23, 1994.
 
-    (g) __Definition.—__ 
+    (g)  __Definition__  __.—__ 
 
     In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
 

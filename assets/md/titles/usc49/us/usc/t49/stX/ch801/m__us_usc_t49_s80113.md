@@ -15,11 +15,11 @@
 
 ## § 80113. Liability for nonreceipt, misdescription, and improper loading
 
-    (a) __Liability for Nonreceipt and Misdescription.—__ 
+    (a)  __Liability for Nonreceipt and Misdescription__  __.—__ 
 
     Except as provided in this section, a common carrier issuing a bill of lading is liable for damages caused by nonreceipt by the carrier of any part of the goods by the date shown in the bill or by failure of the goods to correspond with the description contained in the bill. The carrier is liable to the owner of goods transported under a nonnegotiable bill (subject to the right of stoppage in transit) or to the holder of a negotiable bill if the owner or holder gave value in good faith relying on the description of the goods in the bill or on the shipment being made on the date shown in the bill.
 
-    (b) __Nonliability of Carriers.—__ 
+    (b)  __Nonliability of Carriers__  __.—__ 
 
     A common carrier issuing a bill of lading is not liable under subsection (a) of this section—
 
@@ -35,7 +35,7 @@
 
         (3) to the extent the carrier does not know whether any part of the goods were received or conform to the description.
 
-    (c) __Liability for Improper Loading.—__ 
+    (c)  __Liability for Improper Loading__  __.—__ 
 
     A common carrier issuing a bill of lading is not liable for damages caused by improper loading if—
 
@@ -43,7 +43,7 @@
 
         (2) the bill contains the words “shipper’s weight, load, and count”, or words of the same meaning indicating the shipper loaded the goods.
 
-    (d) __Carrier’s Duty To Determine Kind, Quantity, and Number.—__ 
+    (d)  __Carrier’s Duty To Determine Kind, Quantity, and Number__  __.—__ 
 
         (1) When bulk freight is loaded by a shipper that makes available to the common carrier adequate facilities for weighing the freight, the carrier must determine the kind and quantity of the freight within a reasonable time after receiving the written request of the shipper to make the determination. In that situation, inserting the words “shipper’s weight” or words of the same meaning in the bill of lading has no effect.
 

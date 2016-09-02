@@ -99,19 +99,19 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 3(k); added Oct. 24, 1992, P
 
 [Pub. L. 102–508, title I, § 115(b)][/us/pl/102/508/s115/b], Oct. 24, 1992, [106 Stat. 3296][/us/stat/106/3296], provided that:
 
->     “(1) __DOT safety review.—__ 
+>     “(1)  __DOT safety review__  __.—__ 
 
 >     Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct a review of Department of Transportation and State rules, policies, procedures, and other measures with respect to the safety of customer-owned natural gas service lines, including the effectiveness of such rules, policies, procedures, and other measures. The Secretary of Transportation shall include in the review an evaluation of the extent to which lack of maintenance of customer-owned natural gas service lines raises safety concerns and shall make recommendations regarding maintenance of such lines, including the need for any legislative changes or regulatory action. In conducting the review and developing the recommendations, the Secretary of Transportation shall consider the following factors: State and local law, including law governing private property and rights, and including State pipeline safety regulation of distribution operators; the views of State and local regulatory authorities; the extent of operator compliance with the program for advising customers regarding maintenance of such lines required under section 18(b) of the Natural Gas Pipeline Safety Act of 1968 \[see subsec. (a) of this section\]; available accident information; the recommendations of the National Transportation Safety Board; costs; the civil liability implications of distribution operators taking responsibility for customer-owned service lines; and whether the service line maintenance information program required under such section 18(b) sufficiently addresses safety risks and concerns involving customer-owned service lines.
 
->     “(2) __Operation and maintenance responsibility.—__ 
+>     “(2)  __Operation and maintenance responsibility__  __.—__ 
 
 >     Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct, with the participation of the operators of natural gas distribution facilities, a survey of owners of customer-owned service lines to determine the views of such owners regarding whether distribution companies should assume responsibility for the operation and maintenance of customer-owned service lines. In conducting the survey, the Secretary of Transportation shall ensure that such customers are aware of any potential safety benefits, any potential implementation issues (including any property rights or cost issues), the recommendations of the National Transportation Safety Board, and accidents that have occurred, related to customer-owned service lines.
 
->     “(3) __Applicability.—__ 
+>     “(3)  __Applicability__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code (relating to coordination of Federal information policy) shall not apply to the conduct of the review or survey under this subsection.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall transmit to Congress a report on the results of the review and survey conducted under this subsection, together with any recommendations (including legislative recommendations) regarding maintenance of customer-owned natural gas service lines.”
 

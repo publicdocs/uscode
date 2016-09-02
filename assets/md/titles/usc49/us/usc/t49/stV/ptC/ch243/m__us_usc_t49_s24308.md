@@ -15,7 +15,7 @@
 
 ## § 24308. Use of facilities and providing services to Amtrak
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1) Amtrak may make an agreement with a rail carrier or regional transportation authority to use facilities of, and have services provided by, the carrier or authority under terms on which the parties agree. The terms shall include a penalty for untimely performance.
 
@@ -37,19 +37,19 @@
 
         (4) Amtrak shall seek immediate and appropriate legal remedies to enforce its contract rights when track maintenance on a route over which Amtrak operates falls below the contractual standard.
 
-    (b) __Operating During Emergencies.—__ 
+    (b)  __Operating During Emergencies__  __.—__ 
 
     To facilitate operation by Amtrak during an emergency, the Board, on application by Amtrak, shall require a rail carrier to provide facilities immediately during the emergency. The Board then shall promptly prescribe reasonable terms, including indemnification of the carrier by Amtrak against personal injury risk to which the carrier may be exposed. The rail carrier shall provide the facilities for the duration of the emergency.
 
-    (c) __Preference Over Freight Transportation.—__ 
+    (c)  __Preference Over Freight Transportation__  __.—__ 
 
     Except in an emergency, intercity and commuter rail passenger transportation provided by or for Amtrak has preference over freight transportation in using a rail line, junction, or crossing unless the Board orders otherwise under this subsection. A rail carrier affected by this subsection may apply to the Board for relief. If the Board, after an opportunity for a hearing under [section 553 of title 5][/us/usc/t5/s553], decides that preference for intercity and commuter rail passenger transportation materially will lessen the quality of freight transportation provided to shippers, the Board shall establish the rights of the carrier and Amtrak on reasonable terms.
 
-    (d) __Accelerated Speeds.—__ 
+    (d)  __Accelerated Speeds__  __.—__ 
 
     If a rail carrier refuses to allow accelerated speeds on trains operated by or for Amtrak, Amtrak may apply to the Board for an order requiring the carrier to allow the accelerated speeds. The Board shall decide whether accelerated speeds are unsafe or impracticable and which improvements would be required to make accelerated speeds safe and practicable. After an opportunity for a hearing, the Board shall establish the maximum allowable speeds of Amtrak trains on terms the Board decides are reasonable.
 
-    (e) __Additional Trains.—__ 
+    (e)  __Additional Trains__  __.—__ 
 
         (1) When a rail carrier does not agree to provide, or allow Amtrak to provide, for the operation of additional trains over a rail line of the carrier, Amtrak may apply to the Board for an order requiring the carrier to provide or allow for the operation of the requested trains. After a hearing on the record, the Board may order the carrier, within 60 days, to provide or allow for the operation of the requested trains on a schedule based on legally permissible operating times. However, if the Board decides not to hold a hearing, the Board, not later than 30 days after receiving the application, shall publish in the Federal Register the reasons for the decision not to hold the hearing.
 
@@ -65,15 +65,15 @@
 
     (f) __Passenger Train Performance and Other Standards.—__ 
 
-        (1) __Investigation of substandard performance.—__ 
+        (1)  __Investigation of substandard performance__  __.—__ 
 
         If the on-time performance of any intercity passenger train averages less than 80 percent for any 2 consecutive calendar quarters, or the service quality of intercity passenger train operations for which minimum standards are established under section 207 of the Passenger Rail Investment and Improvement Act of 2008 fails to meet those standards for 2 consecutive calendar quarters, the Surface Transportation Board (referred to in this section as the “Board”) may initiate an investigation, or upon the filing of a complaint by Amtrak, an intercity passenger rail operator, a host freight railroad over which Amtrak operates, or an entity for which Amtrak operates intercity passenger rail service, the Board shall initiate such an investigation, to determine whether and to what extent delays or failure to achieve minimum standards are due to causes that could reasonably be addressed by a rail carrier over whose tracks the intercity passenger train operates or reasonably addressed by Amtrak or other intercity passenger rail operators. As part of its investigation, the Board has authority to review the accuracy of the train performance data and the extent to which scheduling and congestion contribute to delays. In making its determination or carrying out such an investigation, the Board shall obtain information from all parties involved and identify reasonable measures and make recommendations to improve the service, quality, and on-time performance of the train.
 
-        (2) __Problems caused by host rail carrier.—__ 
+        (2)  __Problems caused by host rail carrier__  __.—__ 
 
         If the Board determines that delays or failures to achieve minimum standards investigated under paragraph (1) are attributable to a rail carrier’s failure to provide preference to Amtrak over freight transportation as required under subsection (c), the Board may award damages against the host rail carrier, including prescribing such other relief to Amtrak as it determines to be reasonable and appropriate pursuant to paragraph (3) of this subsection.
 
-        (3) __Damages and relief.—__ 
+        (3)  __Damages and relief__  __.—__ 
 
         In awarding damages and prescribing other relief under this subsection the Board shall consider such factors as—
 
@@ -81,7 +81,7 @@
 
             (B) what reasonable measures would adequately deter future actions which may reasonably be expected to be likely to result in delays to Amtrak on the route involved.
 
-        (4) __Use of damages.—__ 
+        (4)  __Use of damages__  __.—__ 
 
         The Board shall, as it deems appropriate, order the host rail carrier to remit the damages awarded under this subsection to Amtrak or to an entity for which Amtrak operates intercity passenger rail service. Such damages shall be used for capital or operating expenditures on the routes over which delays or failures to achieve minimum standards were the result of a rail carrier’s failure to provide preference to Amtrak over freight transportation as determined in accordance with paragraph (2).
 

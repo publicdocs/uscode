@@ -15,11 +15,11 @@
 
 ## § 60117. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To carry out this chapter, the Secretary of Transportation may conduct investigations, make reports, issue subpenas, conduct hearings, require the production of records, take depositions, and conduct research, testing, development, demonstration, and training activities and promotional activities relating to prevention of damage to pipeline facilities. The Secretary may not charge a tuition-type fee for training State or local government personnel in the enforcement of regulations prescribed under this chapter.
 
-    (b) __Records, Reports, and Information.—__ 
+    (b)  __Records, Reports, and Information__  __.—__ 
 
     To enable the Secretary to decide whether a person owning or operating a pipeline facility is complying with this chapter and standards prescribed or orders issued under this chapter, the person shall—
 
@@ -29,21 +29,21 @@
 
         The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary’s ability to make a determination as to whether and to what extent to regulate gathering lines.
 
-    (c) __Entry and Inspection.—__ 
+    (c)  __Entry and Inspection__  __.—__ 
 
     An officer, employee, or agent of the Department of Transportation designated by the Secretary, on display of proper credentials to the individual in charge, may enter premises to inspect the records and property of a person at a reasonable time and in a reasonable way to decide whether a person is complying with this chapter and standards prescribed or orders issued under this chapter.
 
-    (d) __Confidentiality of Information.—__ 
+    (d)  __Confidentiality of Information__  __.—__ 
 
     Information related to a confidential matter referred to in [section 1905 of title 18][/us/usc/t18/s1905] that is obtained by the Secretary or an officer, employee, or agent in carrying out this section may be disclosed only to another officer or employee concerned with carrying out this chapter or in a proceeding under this chapter.
 
-    (e) __Use of Accident Reports.—__ 
+    (e)  __Use of Accident Reports__  __.—__ 
 
         (1) Each accident report made by an officer, employee, or agent of the Department may be used in a judicial proceeding resulting from the accident. The officer, employee, or agent may be required to testify in the proceeding about the facts developed in investigating the accident. The report shall be made available to the public in a way that does not identify an individual.
 
         (2) Each report related to research and demonstration projects and related activities is public information.
 
-    (f) __Testing Facilities Involved in Accidents.—__ 
+    (f)  __Testing Facilities Involved in Accidents__  __.—__ 
 
     The Secretary may require testing of a part of a pipeline facility subject to this chapter that has been involved in or affected by an accident only after—
 
@@ -51,11 +51,11 @@
 
         (2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
-    (g) __Providing Safety Information.—__ 
+    (g)  __Providing Safety Information__  __.—__ 
 
     On request, the Secretary shall provide the Federal Energy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
 
-    (h) __Cooperation.—__ 
+    (h)  __Cooperation__  __.—__ 
 
     The Secretary may—
 
@@ -65,27 +65,27 @@
 
         (3) participate in a proceeding involving safety requirements related to a liquefied natural gas facility before the Commission or a State authority.
 
-    (i) __Promoting Coordination.—__ 
+    (i)  __Promoting Coordination__  __.—__ 
 
         (1) After consulting with appropriate State officials, the Secretary shall establish procedures to promote more effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
 
         (2) In consultation with the Occupational Safety and Health Administration, the Secretary shall establish procedures to notify the Administration of any pipeline accident in which an excavator that has caused damage to a pipeline may have violated a regulation of the Administration.
 
-    (j) __Withholding Information From Congress.—__ 
+    (j)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-    (k) __Authority for Cooperative Agreements.—__ 
+    (k)  __Authority for Cooperative Agreements__  __.—__ 
 
     To carry out this chapter, the Secretary may enter into grants, cooperative agreements, and other transactions with any person, agency, or instrumentality of the United States, any unit of State or local government, any educational institution, or any other entity to further the objectives of this chapter. The objectives of this chapter include the development, improvement, and promotion of one-call damage prevention programs, research, risk assessment, and mapping.
 
     (l) __Safety Orders.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
 
-        (2) __Considerations.—__ 
+        (2)  __Considerations__  __.—__ 
 
         In making a determination under paragraph (1), the Secretary, if relevant and pursuant to the regulations issued under paragraph (1), shall consider—
 
@@ -99,11 +99,11 @@
 
     (m) __Restoration of Operations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may advise, assist, and cooperate with the heads of other departments, agencies, and instrumentalities of the United States Government, the States, and public and private agencies and persons to facilitate the restoration of pipeline operations that have been or are anticipated to become disrupted by manmade or natural disasters.
 
-        (2) __Savings clause.—__ 
+        (2)  __Savings clause__  __.—__ 
 
         Nothing in this section alters or amends the authorities and responsibilities of any department, agency, or instrumentality of the United States Government, other than the Department of Transportation.
 
@@ -111,11 +111,11 @@
 
         (1) __In general.—__ 
 
-            (A) __Review costs.—__ 
+            (A)  __Review costs__  __.—__ 
 
             For any project described in subparagraph (B), if the Secretary conducts facility design safety reviews in connection with a proposal to construct, expand, or operate a gas or hazardous liquid pipeline facility or liquefied natural gas pipeline facility, including construction inspections and oversight, the Secretary may require the person proposing the project to pay the costs incurred by the Secretary relating to such reviews. If the Secretary exercises the cost recovery authority described in this paragraph, the Secretary shall prescribe a fee structure and assessment methodology that is based on the costs of providing these reviews and shall prescribe procedures to collect fees under this paragraph. The Secretary may not collect design safety review fees under this paragraph and section 60301 for the same design safety review.
 
-            (B) __Projects to which applicable.—__ 
+            (B)  __Projects to which applicable__  __.—__ 
 
             Subparagraph (A) applies to any project that—
 
@@ -129,25 +129,25 @@
 
                 (ii) uses new or novel technologies or design, as determined by the Secretary.
 
-        (2) __Notification.—__ 
+        (2)  __Notification__  __.—__ 
 
         For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and related materials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
 
         (3) __Pipeline safety design review fund.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             There is established a Pipeline Safety Design Review Fund in the Treasury of the United States.
 
-            (B) __Deposits.—__ 
+            (B)  __Deposits__  __.—__ 
 
             The Secretary shall deposit funds paid under this subsection into the Fund.
 
-            (C) __Use.—__ 
+            (C)  __Use__  __.—__ 
 
             Amounts in the Fund shall be available to the Secretary, in amounts specified in appropriations Acts, to offset the costs of conducting facility design safety reviews under this subsection.
 
-        (4) __No additional permitting authority.—__ 
+        (4)  __No additional permitting authority__  __.—__ 
 
         Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
@@ -701,7 +701,7 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 [Pub. L. 112–90, § 20(a)][/us/pl/112/90/s20/a], Jan. 3, 2012, [125 Stat. 1916][/us/stat/125/1916], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall issue regulations—
 
@@ -715,7 +715,7 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 >         “(E) prohibiting ex-parte communication relevant to the question to be decided in such a case by parties to an investigation or hearing.
 
->     “(2) __Presiding official.—__ 
+>     “(2)  __Presiding official__  __.—__ 
 
 >     The regulations issued under this subsection shall—
 
@@ -723,7 +723,7 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 >         “(B) require that the presiding official be an attorney on the staff of the Deputy Chief Counsel of the Pipeline and Hazardous Materials Safety Administration that is not engaged in investigative or prosecutorial functions, including the preparation of notices of probable violations, notices relating to civil penalty assessments, notices relating to compliance, or notices of proposed corrective actions.
 
->     “(3) __Expedited review.—__ 
+>     “(3)  __Expedited review__  __.—__ 
 
 >     The regulations issued under this subsection shall define the term ‘expedited review’ for the purposes of paragraph (1)(C).”
 
@@ -731,11 +731,11 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 [Pub. L. 112–90, § 9][/us/pl/112/90/s9], Jan. 3, 2012, [125 Stat. 1912][/us/stat/125/1912], provided that:
 
->     “(a) __Revision of Regulations.—__ 
+>     “(a)  __Revision of Regulations__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidents and incidents involving pipeline facilities to the Secretary and the National Response Center.
 
->     “(b) __Minimum Requirements.—__ 
+>     “(b)  __Minimum Requirements__  __.—__ 
 
 >     In revising the regulations, the Secretary, at a minimum, shall—
 
@@ -745,7 +745,7 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 >         “(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with an estimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
 
->     “(c) __Updating of Reports.—__ 
+>     “(c)  __Updating of Reports__  __.—__ 
 
 >     After receiving revisions described in subsection (b)(3), the National Response Center shall update the initial report on an accident or incident instead of generating a new report.”
 
@@ -761,17 +761,17 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 [Pub. L. 112–90, § 25][/us/pl/112/90/s25], Jan. 3, 2012, [125 Stat. 1919][/us/stat/125/1919], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To further the objectives of chapter 601 of title 49, United States Code, the Secretary of Transportation may provide the services of personnel from the Pipeline and Hazardous Materials Safety Administration to provide training for State and local government personnel at a pipeline safety training facility that is established and operated by an agency or instrumentality of the United States, a unit of State or local government, or an educational institution.
 
 >     “(b) __Reimbursements for Training Expenditures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary may require reimbursement from sources other than the Federal Government for all expenses incurred by the Secretary in providing training for State and local government personnel under subsection (a), including salaries, expenses, transportation for Pipeline and Hazardous Materials Safety Administration personnel, and the cost of training materials.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         Amounts collected as reimbursement under paragraph (1) are authorized to be appropriated for the purposes set forth in chapter 601 of title 49, United States Code.”
 

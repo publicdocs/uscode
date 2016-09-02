@@ -15,7 +15,7 @@
 
 ## § 21104. Limitations on duty hours of signal employees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow its signal employees to remain or go on duty and a contractor or subcontractor to a railroad carrier and its officers and agents may not require or allow its signal employees to remain or go on duty—
 
@@ -23,7 +23,7 @@
 
         (2) unless that employee has had at least 10 consecutive hours off duty during the prior 24 hours.
 
-    (b) __Determining Time on Duty.—__ 
+    (b)  __Determining Time on Duty__  __.—__ 
 
     In determining under subsection (a) of this section the time a signal employee is on duty or off duty, the following rules apply:
 
@@ -41,15 +41,15 @@
 
         (7) A regularly scheduled meal period or another release period of at least 30 minutes but not more than one hour is time off duty and does not break the continuity of service of the employee under this section, but a release period of more than one hour is time off duty and does break the continuity of service.
 
-    (c) __Emergencies.—__ 
+    (c)  __Emergencies__  __.—__ 
 
     A signal employee may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of that employee is related to the emergency. In this subsection, an emergency ends when the signal system is restored to service. A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.
 
-    (d) __Communication During Time Off Duty.—__ 
+    (d)  __Communication During Time Off Duty__  __.—__ 
 
     During a signal employee’s minimum off-duty period of 10 consecutive hours, as provided under subsection (a), a railroad carrier or a contractor or subcontractor to a railroad carrier, and its officers and agents, shall not communicate with the signal employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee’s rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary.
 
-    (e) __Exclusivity.—__ 
+    (e)  __Exclusivity__  __.—__ 
 
     The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
 

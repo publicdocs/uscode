@@ -17,7 +17,7 @@
 
     (a) __Technical Assistance and Standards Development.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make grants and enter into contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the Government) to carry out activities that the Secretary determines will assist recipients of assistance under this chapter to—
 
@@ -27,7 +27,7 @@
 
             (C) improve public transportation.
 
-        (2) __Eligible activities.—__ 
+        (2)  __Eligible activities__  __.—__ 
 
         The activities carried out under paragraph (1) may include—
 
@@ -35,7 +35,7 @@
 
             (B) the development of voluntary and consensus-based standards and best practices by the public transportation industry, including standards and best practices for safety, fare collection, Intelligent Transportation Systems, accessibility, procurement, security, asset management to maintain a state of good repair, operations, maintenance, vehicle propulsion, communications, and vehicle electronics.
 
-    (b) __Technical Assistance.—__ 
+    (b)  __Technical Assistance__  __.—__ 
 
     The Secretary, through a competitive bid process, may enter into contracts, cooperative agreements, and other agreements with national nonprofit organizations that have the appropriate demonstrated capacity to provide public transportation-related technical assistance under this section. The Secretary may enter into such contracts, cooperative agreements, and other agreements to assist providers of public transportation to—
 
@@ -51,7 +51,7 @@
 
         (6) any other technical assistance activity that the Secretary determines is necessary to advance the interests of public transportation.
 
-    (c) __Annual Report on Technical Assistance.—__ 
+    (c)  __Annual Report on Technical Assistance__  __.—__ 
 
     Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—
 
@@ -63,11 +63,11 @@
 
     (d) __Government Share of Costs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Government share of the cost of an activity carried out using a grant under this section may not exceed 80 percent.
 
-        (2) __Non-government share.—__ 
+        (2)  __Non-government share__  __.—__ 
 
         The non-Government share of the cost of an activity carried out using a grant under this section may be derived from in-kind contributions.
 

@@ -15,7 +15,7 @@
 
 ## § 47504. Noise compatibility programs
 
-    (a) __Submissions.—__ 
+    (a)  __Submissions__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
             (E) acquiring land, air rights, easements, development rights, and other interests to ensure that the property will be used in ways compatible with airport operations.
 
-    (b) __Approvals.—__ 
+    (b)  __Approvals__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
         (4) The Secretary shall not approve in fiscal years 2004 through 2007 a program submitted under subsection (a) if the program requires the expenditure of funds made available under section 48103 for mitigation of aircraft noise less than 65 DNL.
 
-    (c) __Grants.—__ 
+    (c)  __Grants__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
             (B) a unit of local government in the area surrounding the airport, if the Secretary decides the unit is able to carry out the project.
 
-        (2) __Soundproofing and acquisition of certain residential buildings and properties.—__ 
+        (2)  __Soundproofing and acquisition of certain residential buildings and properties__  __.—__ 
 
         The Secretary may incur obligations to make grants from amounts made available under [section 48103 of this title][/us/usc/t49/s48103]—
 
@@ -115,25 +115,25 @@
 
             (B) any provision that the Secretary decides is inconsistent with, or unnecessary to carry out, this chapter.
 
-        (6) __Aircraft noise primarily caused by military aircraft.—__ 
+        (6)  __Aircraft noise primarily caused by military aircraft__  __.—__ 
 
         The Secretary may make a grant under this subsection for a project even if the purpose of the project is to mitigate the effect of noise primarily caused by military aircraft at an airport.
 
-    (d) __Government Relief From Liability.—__ 
+    (d)  __Government Relief From Liability__  __.—__ 
 
     The Government is not liable for damages from aviation noise because of action taken under this section.
 
     (e) __Grants for Assessment of Flight Procedures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In accordance with subsection (c)(1), the Secretary may make a grant to an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
 
-        (2) __Additional staff.—__ 
+        (2)  __Additional staff__  __.—__ 
 
         The Administrator may accept funds from an airport operator, including funds provided to the operator under paragraph (1), to hire additional staff or obtain the services of consultants in order to facilitate the timely processing, review, and completion of environmental activities associated with proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
 
-        (3) __Receipts credited as offsetting collections.—__ 
+        (3)  __Receipts credited as offsetting collections__  __.—__ 
 
         Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any funds accepted under this section—
 
@@ -143,7 +143,7 @@
 
             (C) shall remain available until expended.
 
-    (f) __Determination of Fair Market Value of Residential Properties.—__ 
+    (f)  __Determination of Fair Market Value of Residential Properties__  __.—__ 
 
     In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
 

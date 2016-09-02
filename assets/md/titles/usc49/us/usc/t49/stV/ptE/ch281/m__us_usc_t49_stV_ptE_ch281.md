@@ -87,11 +87,11 @@
 
 >     “(a) __Membership.—__ 
 
->         “(1) __Total membership.—__ 
+>         “(1)  __Total membership__  __.—__ 
 
 >         The Agreement should provide for the Commission to be composed of 24 members, of which 12 members are appointed by the President and 12 members are appointed by the Government of Canada.
 
->         “(2) __General qualifications.—__ 
+>         “(2)  __General qualifications__  __.—__ 
 
 >         The Agreement should provide for the membership of the Commission, to the maximum extent practicable, to be representative of—
 
@@ -99,7 +99,7 @@
 
 >             “(B) a broad range of expertise in areas of knowledge that are relevant to the significant issues to be considered by the Commission, including economics, engineering, management of resources, social sciences, fish and game management, environmental sciences, and transportation.
 
->     “(b) __United States Membership.—__ 
+>     “(b)  __United States Membership__  __.—__ 
 
 >     If the United States and Canada enter into an agreement providing for the establishment of the Commission, the President shall appoint the United States members of the Commission as follows:
 
@@ -115,45 +115,45 @@
 
 >         “(6) Three members with relevant expertise, at least one of whom shall be an engineer with expertise in subarctic transportation and at least one of whom shall have expertise on the environmental impact of such transportation.
 
->     “(c) __Canadian Membership.—__ 
+>     “(c)  __Canadian Membership__  __.—__ 
 
 >     The Agreement should provide for the Canadian membership of the Commission to be representative of broad categories of interests of Canada as the Government of Canada determines appropriate, consistent with subsection (a)(2).
 
 > “SEC. 305. __GOVERNANCE AND STAFFING OF COMMISSION.__ 
 
->     “(a) __Chairman.—__ 
+>     “(a)  __Chairman__  __.—__ 
 
 >     The Agreement should provide for the Chairman of the Commission to be elected from among the members of the Commission by a majority vote of the members.
 
 >     “(b) __Compensation and Expenses of United States Members.—__ 
 
->         “(1) __Compensation.—__ 
+>         “(1)  __Compensation__  __.—__ 
 
 >         Each member of the Commission appointed by the President who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. Each such member who is an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         The members of the Commission appointed by the President shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Agreement should provide for the appointment of a staff and an executive director to be the head of the staff.
 
->         “(2) __Compensation.—__ 
+>         “(2)  __Compensation__  __.—__ 
 
 >         Funds made available for the Commission by the United States may be used to pay the compensation of the executive director and other personnel at rates fixed by the Commission that are not in excess of the rate payable for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
->     “(d) __Office.—__ 
+>     “(d)  __Office__  __.—__ 
 
 >     The Agreement should provide for the office of the Commission to be located in a mutually agreed location within the impacted areas of Alaska, the Yukon Territory, and northern British Columbia.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     The Agreement should provide for the Commission to meet at least biannually to review progress and to provide guidance to staff and others, and to hold, in locations within the affected areas of Alaska, the Yukon Territory and northern British Columbia, such additional informational or public meetings as the Commission deems necessary to the conduct of its business.
 
->     “(f) __Procurement of Services.—__ 
+>     “(f)  __Procurement of Services__  __.—__ 
 
 >     The Agreement should authorize and encourage the Commission to procure by contract, to the maximum extent practicable, the services (including any temporary and intermittent services) that the Commission determines necessary for carrying out the duties of the Commission. In the case of any contract for the services of an individual, funds made available for the Commission by the United States may not be used to pay for the services of the individual at a rate that exceeds the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
@@ -161,11 +161,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Agreement should provide for the Commission to study and assess, on the basis of all available relevant information, the feasibility and advisability of linking the rail system in Alaska to the North American continental rail system through the continuation of the rail system in Alaska from its northeastern terminus to a connection with the continental rail system in Canada.
 
->         “(2) __Specific issues.—__ 
+>         “(2)  __Specific issues__  __.—__ 
 
 >         The Agreement should provide for the study and assessment to include the consideration of the following issues:
 
@@ -185,51 +185,51 @@
 
 >             “(H) Potential financing mechanisms.
 
->         “(3) __Route.—__ 
+>         “(3)  __Route__  __.—__ 
 
 >         The Agreement should provide for the Commission, upon finding that it is feasible and advisable to link the rail system in Alaska as described in paragraph (1), to determine one or more recommended routes for the rail segment that establishes the linkage, taking into consideration cost, distance, access to potential freight markets, environmental matters, existing corridors that are already used for ground transportation, the route surveyed by the Army Corps of Engineers during World War II and such other factors as the Commission determines relevant.
 
->         “(4) __Combined corridor evaluation.—__ 
+>         “(4)  __Combined corridor evaluation__  __.—__ 
 
 >         The Agreement should also provide for the Commission to consider whether it would be feasible and advisable to combine the power transmission infrastructure and petroleum product pipelines of other utilities into one corridor with a rail extension of the rail system of Alaska.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Agreement should require the Commission to submit to Congress and the Secretary of Transportation and to the Minister of Transport of the Government of Canada, not later than 3 years after the Commission commencement date, a report on the results of the study, including the Commission’s findings regarding the feasibility and advisability of linking the rail system in Alaska as described in subsection (a)(1) and the Commission’s recommendations regarding the preferred route and any alternative routes for the rail segment establishing the linkage.
 
 > “SEC. 307. __COMMENCEMENT AND TERMINATION OF COMMISSION.__ 
 
->     “(a) __Commencement.—__ 
+>     “(a)  __Commencement__  __.—__ 
 
 >     The Agreement should provide for the Commission to begin to function on the date on which all members are appointed to the Commission as provided for in the Agreement.
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The Commission should be terminated 90 days after the date on which the Commission submits its report under section 306.
 
 > “SEC. 308. __FUNDING.__ 
 
->     “(a) __Rails to Resources Fund.—__ 
+>     “(a)  __Rails to Resources Fund__  __.—__ 
 
 >     The Agreement should provide for the following:
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The establishment of an interest-bearing account to be known as the ‘Rails to Resources Fund’.
 
->         “(2) __Contributions.—__ 
+>         “(2)  __Contributions__  __.—__ 
 
 >         The contribution by the United States and the Government of Canada to the Fund of amounts that are sufficient for the Commission to carry out its duties.
 
->         “(3) __Availability.—__ 
+>         “(3)  __Availability__  __.—__ 
 
 >         The availability of amounts in the Fund to pay the costs of Commission activities.
 
->         “(4) __Dissolution.—__ 
+>         “(4)  __Dissolution__  __.—__ 
 
 >         Dissolution of the Fund upon the termination of the Commission and distribution of the amounts remaining in the Fund between the United States and the Government of Canada.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to any fund established for use by the Commission as described in subsection (a)(1) $6,000,000, to remain available until expended.
 
@@ -237,11 +237,11 @@
 
 > “In this title:
 
->     “(1) __Agreement.—__ 
+>     “(1)  __Agreement__  __.—__ 
 
 >     The term ‘Agreement’ means an agreement described in section 303.
 
->     “(2) __Commission.—__ 
+>     “(2)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means a commission established pursuant to any Agreement.”
 

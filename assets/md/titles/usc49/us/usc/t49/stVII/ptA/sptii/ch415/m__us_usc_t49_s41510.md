@@ -15,7 +15,7 @@
 
 ## § 41510. Required adherence to foreign air transportation tariffs
 
-    (a) __Prohibited Actions by Air Carriers, Foreign Air Carriers, and Ticket Agents.—__ 
+    (a)  __Prohibited Actions by Air Carriers, Foreign Air Carriers, and Ticket Agents__  __.—__ 
 
     An air carrier, foreign air carrier, or ticket agent may not—
 
@@ -25,7 +25,7 @@
 
         (3) extend to any person a privilege or facility, related to a matter required by the Secretary of Transportation to be specified in a tariff for foreign air transportation, except as specified in the tariff.
 
-    (b) __Prohibited Actions by Any Person.—__ 
+    (b)  __Prohibited Actions by Any Person__  __.—__ 
 
     A person may not knowingly—
 

@@ -17,31 +17,31 @@
 
     (a) __Hazardous Liquid Pipeline Incidents Involving Buried Pipelines.—__ 
 
-        (1) __Study.—__ 
+        (1)  __Study__  __.—__ 
 
         The Secretary of Transportation shall conduct a study of hazardous liquid pipeline incidents at crossings of inland bodies of water with a width of at least 100 feet from high water mark to high water mark to determine if the depth of cover over the buried pipeline was a factor in any accidental release of hazardous liquids.
 
-        (2) __Report.—__ 
+        (2)  __Report__  __.—__ 
 
         Not later than 1 year after the date of enactment of this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
     (b) __Assessment of Current Requirements for Depth of Cover Over Buried Pipelines.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If, following completion of the study under subsection (a), the Secretary finds that the depth of cover over buried pipelines is a contributing factor in the accidental release of hazardous liquids from the pipelines, the Secretary, not later than 1 year after the date of completion of the study, shall review and determine the sufficiency of current requirements for the depth of cover over buried pipelines.
 
         (2) __Legislative recommendations.—__ 
 
-            (A) __Development.—__ 
+            (A)  __Development__  __.—__ 
 
             If the Secretary determines under paragraph (1) that the current requirements for the depth of cover over buried pipelines are insufficient, the Secretary shall develop legislative recommendations for improving the safety of buried pipelines at crossings of inland bodies of water with a width of at least 100 feet from high water mark to high water mark.
 
-            (B) __Consideration of factors.—__ 
+            (B)  __Consideration of factors__  __.—__ 
 
             In developing legislative recommendations under subparagraph (A), the Secretary shall consider the factors specified in section 60102(b)(2).
 
-            (C) __Report to congress.—__ 
+            (C)  __Report to congress__  __.—__ 
 
             If the Secretary develops legislative recommendations under subparagraph (A), the Secretary shall submit to the committees referred to in subsection (a)(2) a report containing the legislative recommendations.
 

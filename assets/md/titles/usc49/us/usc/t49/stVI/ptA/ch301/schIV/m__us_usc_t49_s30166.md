@@ -15,11 +15,11 @@
 
 ## § 30166. Inspections, investigations, and records
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “motor vehicle accident” means an occurrence associated with the maintenance or operation of a motor vehicle or motor vehicle equipment resulting in personal injury, death, or property damage.
 
-    (b) __Authority To Inspect and Investigate.—__ 
+    (b)  __Authority To Inspect and Investigate__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The Secretary of Transportation shall cooperate with State and local officials to the greatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
 
-    (c) __Matters That Can Be Inspected and Impoundment.—__ 
+    (c)  __Matters That Can Be Inspected and Impoundment__  __.—__ 
 
     In carrying out this chapter, an officer or employee designated by the Secretary of Transportation—
 
@@ -53,21 +53,21 @@
 
         (4) shall enter into a memorandum of understanding with the Secretary of Homeland Security for inspections and sampling of motor vehicle equipment being offered for import to determine compliance with this chapter or a regulation or order issued under this chapter.
 
-    (d) __Reasonable Compensation.—__ 
+    (d)  __Reasonable Compensation__  __.—__ 
 
     When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
 
-    (e) __Records and Making Reports.—__ 
+    (e)  __Records and Making Reports__  __.—__ 
 
     The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and [section 30117(b) of this title][/us/usc/t49/s30117/b] or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
     (f) __Providing Copies of Communications About Defects and Noncompliance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
 
-        (2) __Index.—__ 
+        (2)  __Index__  __.—__ 
 
         Communications required to be submitted to the Secretary under this subsection shall be accompanied by an index to each communication, that—
 
@@ -77,7 +77,7 @@
 
             (C) shall be made available by the Secretary to the public on the Internet in a searchable format.
 
-    (g) __Administrative Authority on Reports, Answers, and Hearings.—__ 
+    (g)  __Administrative Authority on Reports, Answers, and Hearings__  __.—__ 
 
         (1)
 
@@ -89,49 +89,49 @@
 
         (2) A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-    (h) __Civil Actions To Enforce and Venue.—__ 
+    (h)  __Civil Actions To Enforce and Venue__  __.—__ 
 
     A civil action to enforce a subpena or order under subsection (g) of this section may be brought in the United States district court for any judicial district in which the proceeding is conducted. The court may punish a failure to obey an order of the court to comply with a subpena or order as a contempt of court.
 
-    (i) __Governmental Cooperation.—__ 
+    (i)  __Governmental Cooperation__  __.—__ 
 
     The Secretary of Transportation may request a department, agency, or instrumentality of the United States Government to provide records the Secretary considers necessary to carry out this chapter. The head of the department, agency, or instrumentality shall provide the record on request, may detail personnel on a reimbursable basis, and otherwise shall cooperate with the Secretary. This subsection does not affect a law limiting the authority of a department, agency, or instrumentality to provide information to another department, agency, or instrumentality.
 
-    (j) __Cooperation of Secretary.—__ 
+    (j)  __Cooperation of Secretary__  __.—__ 
 
     The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, and other public and private agencies in developing a method for inspecting and testing to determine compliance with a motor vehicle safety standard.
 
-    (k) __Providing Information.—__ 
+    (k)  __Providing Information__  __.—__ 
 
     The Secretary of Transportation shall provide the Attorney General and, when appropriate, the Secretary of the Treasury, information obtained that indicates a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
     (l) __Reporting of Defects in Motor Vehicles and Products in Foreign Countries.—__ 
 
-        (1) __Reporting of defects, manufacturer determination.—__ 
+        (1)  __Reporting of defects, manufacturer determination__  __.—__ 
 
         Not later than 5 working days after determining to conduct a safety recall or other safety campaign in a foreign country on a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States, the manufacturer shall report the determination to the Secretary.
 
-        (2) __Reporting of defects, foreign government determination.—__ 
+        (2)  __Reporting of defects, foreign government determination__  __.—__ 
 
         Not later than 5 working days after receiving notification that the government of a foreign country has determined that a safety recall or other safety campaign must be conducted in the foreign country on a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States, the manufacturer of the motor vehicle or motor vehicle equipment shall report the determination to the Secretary.
 
-        (3) __Reporting requirements.—__ 
+        (3)  __Reporting requirements__  __.—__ 
 
         The Secretary shall prescribe the contents of the notification required by this subsection.
 
     (m) __Early Warning Reporting Requirements.—__ 
 
-        (1) __Rulemaking required.—__ 
+        (1)  __Rulemaking required__  __.—__ 
 
         Not later than 120 days after the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, the Secretary shall initiate a rulemaking proceeding to establish early warning reporting requirements for manufacturers of motor vehicles and motor vehicle equipment to enhance the Secretary’s ability to carry out the provisions of this chapter.
 
-        (2) __Deadline.—__ 
+        (2)  __Deadline__  __.—__ 
 
         The Secretary shall issue a final rule under paragraph (1) not later than June 30, 2002.
 
         (3) __Reporting elements.—__ 
 
-            (A) __Warranty and claims data.—__ 
+            (A)  __Warranty and claims data__  __.—__ 
 
             As part of the final rule promulgated under paragraph (1), the Secretary shall require manufacturers of motor vehicles and motor vehicle equipment to report, periodically or upon request by the Secretary, information which is received by the manufacturer derived from foreign and domestic sources to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States and which concerns—
 
@@ -139,17 +139,17 @@
 
                 (ii) customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
 
-            (B) __Other data.—__ 
+            (B)  __Other data__  __.—__ 
 
             As part of the final rule promulgated under paragraph (1), the Secretary may, to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States, require manufacturers of motor vehicles or motor vehicle equipment to report, periodically or upon request of the Secretary, such information as the Secretary may request.
 
-            (C) __Reporting of possible defects.—__ 
+            (C)  __Reporting of possible defects__  __.—__ 
 
             The manufacturer of a motor vehicle or motor vehicle equipment shall report to the Secretary, in such manner as the Secretary establishes by regulation, all incidents of which the manufacturer receives actual notice which involve fatalities or serious injuries which are alleged or proven to have been caused by a possible defect in such manufacturer’s motor vehicle or motor vehicle equipment in the United States, or in a foreign country when the possible defect is in a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States.
 
         (4) __Handling and utilization of reporting elements.—__ 
 
-            (A) __Secretary’s specifications.—__ 
+            (A)  __Secretary’s specifications__  __.—__ 
 
             In requiring the reporting of any information requested by the Secretary under this subsection, the Secretary shall specify in the final rule promulgated under paragraph (1)—
 
@@ -159,29 +159,29 @@
 
                 (iii) the manner and form of reporting such information, including in electronic form.
 
-            (B) __Information in possession of manufacturer.—__ 
+            (B)  __Information in possession of manufacturer__  __.—__ 
 
             The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
-            (C) __Disclosure.—__ 
+            (C)  __Disclosure__  __.—__ 
 
             None of the information collected pursuant to the final rule promulgated under paragraph (1) shall be disclosed pursuant to section 30167(b) unless the Secretary determines the disclosure of such information will assist in carrying out sections 30117(b) and 30118 through 30121.
 
-            (D) __Burdensome requirements.—__ 
+            (D)  __Burdensome requirements__  __.—__ 
 
             In promulgating the final rule under paragraph (1), the Secretary shall not impose requirements unduly burdensome to a manufacturer of a motor vehicle or motor vehicle equipment, taking into account the manufacturer’s cost of complying with such requirements and the Secretary’s ability to use the information sought in a meaningful manner to assist in the identification of defects related to motor vehicle safety.
 
-        (5) __Periodic review.—__ 
+        (5)  __Periodic review__  __.—__ 
 
         As part of the final rule promulgated pursuant to paragraph (1), the Secretary shall specify procedures for the periodic review and update of such rule.
 
     (n) __Sale or Lease of Defective or Noncompliant Tire.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall, within 90 days of the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, issue a final rule requiring any person who knowingly and willfully sells or leases for use on a motor vehicle a defective tire or a tire which is not compliant with an applicable tire safety standard with actual knowledge that the manufacturer of such tire has notified its dealers of such defect or noncompliance as required under section 30118(c) or as required by an order under section 30118(b) to report such sale or lease to the Secretary.
 
-        (2) __Defect or noncompliance remedied or order not in effect.—__ 
+        (2)  __Defect or noncompliance remedied or order not in effect__  __.—__ 
 
         Regulations under paragraph (1) shall not require the reporting described in paragraph (1) where before delivery under a sale or lease of a tire—
 
@@ -191,7 +191,7 @@
 
     (o) __Corporate Responsibility for Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
 
@@ -205,7 +205,7 @@
 
                 (ii) omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
 
-        (2) __Notice.—__ 
+        (2)  __Notice__  __.—__ 
 
         The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
 
@@ -625,7 +625,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
 [Pub. L. 112–141, div. C, title I, § 31301][/us/pl/112/141/s31301], July 6, 2012, [126 Stat. 763][/us/stat/126/763], provided that:
 
->     “(a) __Vehicle Recall Information.—__ 
+>     “(a)  __Vehicle Recall Information__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall require that motor vehicle safety recall information—
 
@@ -637,7 +637,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
 >         “(4) includes \[sic\] information about each recall that has not been completed for each vehicle.
 
->     “(b) __Rulemaking.—__ 
+>     “(b)  __Rulemaking__  __.—__ 
 
 >     The Secretary may initiate a rulemaking proceeding to require each manufacturer to provide the information described in subsection (a), with respect to that manufacturer’s motor vehicles, on a publicly accessible Internet website. Any rules promulgated under this subsection—
 
@@ -647,7 +647,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
 >         “(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website.
 
->     “(c) __Promotion of Public Awareness.—__ 
+>     “(c)  __Promotion of Public Awareness__  __.—__ 
 
 >     The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section.”
 

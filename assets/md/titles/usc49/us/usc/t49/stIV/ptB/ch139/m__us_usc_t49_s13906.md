@@ -17,49 +17,49 @@
 
     (a) __Motor Carrier Requirements.—__ 
 
-        (1) __Liability insurance requirement.—__ 
+        (1)  __Liability insurance requirement__  __.—__ 
 
         The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
-        (2) __Security requirement.—__ 
+        (2)  __Security requirement__  __.—__ 
 
         Not later than 120 days after the date of enactment of the Unified Carrier Registration Act of 2005, any person, other than a motor private carrier, registered with the Secretary to provide transportation or service as a motor carrier under section 13905(b) shall file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than required by sections 31138 and 31139.
 
-        (3) __Agency requirement.—__ 
+        (3)  __Agency requirement__  __.—__ 
 
         A motor carrier shall comply with the requirements of sections 13303 and 13304. To protect the public, the Secretary may require any such motor carrier to file the type of security that a motor carrier is required to file under paragraph (1) of this subsection. This paragraph only applies to a foreign motor private carrier and foreign motor carrier operating in the United States to the extent that such carrier is providing transportation between places in a foreign country or between a place in one foreign country and a place in another foreign country.
 
-        (4) __Transportation insurance.—__ 
+        (4)  __Transportation insurance__  __.—__ 
 
         The Secretary may require a registered motor carrier to file with the Secretary a type of security sufficient to pay a shipper or consignee for damage to property of the shipper or consignee placed in the possession of the motor carrier as the result of transportation provided under this part. A carrier required by law to pay a shipper or consignee for loss, damage, or default for which a connecting motor carrier is responsible is subrogated, to the extent of the amount paid, to the rights of the shipper or consignee under any such security.
 
-    (b) __Broker Requirements.—__ 
+    (b)  __Broker Requirements__  __.—__ 
 
     The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
 
     (c) __Freight Forwarder Requirements.—__ 
 
-        (1) __Liability insurance.—__ 
+        (1)  __Liability insurance__  __.—__ 
 
         The Secretary may register a person as a freight forwarder under [section 13903 of this title][/us/usc/t49/s13903] only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the freight forwarder for bodily injury to, or death of, an individual, or loss of, or damage to, property (other than property referred to in paragraph (2) of this subsection), resulting from the negligent operation, maintenance, or use of motor vehicles by or under the direction and control of the freight forwarder when providing transfer, collection, or delivery service under this part.
 
-        (2) __Freight forwarder insurance.—__ 
+        (2)  __Freight forwarder insurance__  __.—__ 
 
         The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for loss of, or damage to, property for which the freight forwarder provides service.
 
-        (3) __Effective period.—__ 
+        (3)  __Effective period__  __.—__ 
 
         The freight forwarder’s registration remains in effect only as long as the freight forwarder continues to satisfy the security requirements of this subsection.
 
-    (d) __Type of Insurance.—__ 
+    (d)  __Type of Insurance__  __.—__ 
 
     The Secretary may determine the type and amount of security filed under this section. A motor carrier may submit proof of qualifications as a self-insurer to satisfy the security requirements of this section. The Secretary shall adopt regulations governing the standards for approval as a self-insurer. Motor carriers which have been granted authority to self-insure as of January 1, 1996, shall retain that authority unless, for good cause shown and after notice and an opportunity for a hearing, the Secretary finds that the authority must be revoked.
 
-    (e) __Notice of Cancellation of Insurance.—__ 
+    (e)  __Notice of Cancellation of Insurance__  __.—__ 
 
     The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke the registration of any carrier or broker after the effective date of the cancellation.
 
-    (f) __Form of Endorsement.—__ 
+    (f)  __Form of Endorsement__  __.—__ 
 
     The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
 

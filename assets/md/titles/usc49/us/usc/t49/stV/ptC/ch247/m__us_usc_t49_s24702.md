@@ -15,11 +15,11 @@
 
 ## § 24702. Transportation requested by States, authorities, and other persons
 
-    (a) __Contracts for Transportation.—__ 
+    (a)  __Contracts for Transportation__  __.—__ 
 
     Amtrak may enter into a contract with a State, a regional or local authority, or another person for Amtrak to operate an intercity rail service or route not included in the national rail passenger transportation system upon such terms as the parties thereto may agree.
 
-    (b) __Discontinuance.—__ 
+    (b)  __Discontinuance__  __.—__ 
 
     Upon termination of a contract entered into under this section, or the cessation of financial support under such a contract by either party, Amtrak may discontinue such service or route, notwithstanding any other provision of law.
 

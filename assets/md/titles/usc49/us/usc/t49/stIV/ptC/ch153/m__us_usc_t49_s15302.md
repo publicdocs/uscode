@@ -15,7 +15,7 @@
 
 ## § 15302. Authority to exempt pipeline carrier transportation
 
-    (a) __In General—__ 
+    (a)  __In General__  __—__ 
 
     In a matter related to a pipeline carrier providing transportation subject to jurisdiction under this chapter, the Board shall exempt a person, class of persons, or a transaction or service when the Board finds that the application, in whole or in part, of a provision of this part—
 
@@ -23,15 +23,15 @@
 
         (2) either (A) the transaction or service is of limited scope, or (B) the application, in whole or in part, of the provision is not needed to protect shippers from the abuse of market power.
 
-    (b) __Initiation of Proceeding.—__ 
+    (b)  __Initiation of Proceeding__  __.—__ 
 
     The Board may, where appropriate, begin a proceeding under this section on its own initiative or an interested party.
 
-    (c) __Period of Exemption.—__ 
+    (c)  __Period of Exemption__  __.—__ 
 
     The Board may specify the period of time during which an exemption granted under this section is effective.
 
-    (d) __Revocation.—__ 
+    (d)  __Revocation__  __.—__ 
 
     The Board may revoke an exemption, to the extent it specifies, when it finds that application, in whole or in part, of a provision of this part to the person, class, or transportation is necessary to carry out the transportation policy of section 15101.
 

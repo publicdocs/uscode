@@ -15,11 +15,11 @@
 
 ## § 5122. Enforcement
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     At the request of the Secretary, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter or a regulation prescribed or order, special permit, or approval issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties considering the same penalty amounts and factors as prescribed for the Secretary in an administrative case under section 5123.
 
-    (b) __Imminent Hazards.—__ 
+    (b)  __Imminent Hazards__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) On request of the Secretary, the Attorney General shall bring an action under paragraph (1) of this subsection.
 
-    (c) __Withholding of Clearance.—__ 
+    (c)  __Withholding of Clearance__  __.—__ 
 
         (1) If any owner, operator, or individual in charge of a vessel is liable for a civil penalty under [section 5123 of this title][/us/usc/t49/s5123] or for a fine under [section 5124 of this title][/us/usc/t49/s5124], or if reasonable cause exists to believe that such owner, operator, or individual in charge may be subject to such a civil penalty or fine, the Secretary of Homeland Security, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by [section 60105 of title 46][/us/usc/t46/s60105].
 

@@ -15,23 +15,23 @@
 
 ## § 1111. General organization
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     The National Transportation Safety Board is an independent establishment of the United States Government.
 
-    (b) __Appointment of Members.—__ 
+    (b)  __Appointment of Members__  __.—__ 
 
     The Board is composed of 5 members appointed by the President, by and with the advice and consent of the Senate. Not more than 3 members may be appointed from the same political party. At least 3 members shall be appointed on the basis of technical qualification, professional standing, and demonstrated knowledge in accident reconstruction, safety engineering, human factors, transportation safety, or transportation regulation.
 
-    (c) __Terms of Office and Removal.—__ 
+    (c)  __Terms of Office and Removal__  __.—__ 
 
     The term of office of each member is 5 years. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, is appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
-    (d) __Chairman and Vice Chairman.—__ 
+    (d)  __Chairman and Vice Chairman__  __.—__ 
 
     The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 
-    (e) __Duties and Powers of Chairman.—__ 
+    (e)  __Duties and Powers of Chairman__  __.—__ 
 
     The Chairman is the chief executive and administrative officer of the Board. Subject to the general policies and decisions of the Board, the Chairman shall—
 
@@ -43,11 +43,11 @@
 
         (4) supervise the expenditures of the Board.
 
-    (f) __Quorum.—__ 
+    (f)  __Quorum__  __.—__ 
 
     Three members of the Board are a quorum in carrying out duties and powers of the Board.
 
-    (g) __Offices, Bureaus, and Divisions.—__ 
+    (g)  __Offices, Bureaus, and Divisions__  __.—__ 
 
     The Board shall establish offices necessary to carry out this chapter, including an office to investigate and report on the safe transportation of hazardous material. The Board shall establish distinct and appropriately staffed bureaus, divisions, or offices to investigate and report on accidents involving each of the following modes of transportation:
 
@@ -61,7 +61,7 @@
 
         (5) marine.
 
-    (h) __Chief Financial Officer.—__ 
+    (h)  __Chief Financial Officer__  __.—__ 
 
     The Chairman shall designate an officer or employee of the Board as the Chief Financial Officer. The Chief Financial Officer shall—
 
@@ -71,11 +71,11 @@
 
         (3) review the fees, rents, and other charges imposed by the Board for services and things of value it provides, and suggest appropriate revisions to those charges to reflect costs incurred by the Board in providing those services and things of value.
 
-    (i) __Board Member Staff.—__ 
+    (i)  __Board Member Staff__  __.—__ 
 
     Each member of the Board shall select and supervise regular and full-time employees in his or her immediate office as long as any such employee has been approved for employment by the designated agency ethics official under the same guidelines that apply to all employees of the Board. Except for the Chairman, the appointment authority provided by this subsection is limited to the number of full-time equivalent positions, in addition to 1 senior professional staff at a level not to exceed the GS 15 level and 1 administrative staff, allocated to each member through the Board’s annual budget and allocation process.
 
-    (j) __Seal.—__ 
+    (j)  __Seal__  __.—__ 
 
     The Board shall have a seal that shall be judicially recognized.
 
@@ -259,7 +259,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
 [Pub. L. 109–443, § 2(a)(2)][/us/pl/109/443/s2/a/2], Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297], provided that:
 
->     “(A) __Plan.—__ 
+>     “(A)  __Plan__  __.—__ 
 
 >     Within 90 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall—
 
@@ -269,7 +269,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
 >         “(iii) submit a draft of the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(B) __Plan development considerations.—__ 
+>     “(B)  __Plan development considerations__  __.—__ 
 
 >     The Board shall—
 
@@ -277,7 +277,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
 >         “(ii) include in the plan a detailed financial statement that covers current Academy expenses and revenues and an analysis of the projected impact of the plan on the Academy’s expenses and revenues.
 
->     “(C) __Report.—__ 
+>     “(C)  __Report__  __.—__ 
 
 >     Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
 
@@ -287,7 +287,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pu
 
 >         “(iii) a response to the Comptroller General’s comments and recommendations, including a description of any modifications made to the plan in response to those comments and recommendations.
 
->     “(D) __Implementation.—__ 
+>     “(D)  __Implementation__  __.—__ 
 
 >     The plan developed pursuant to subparagraph (A)(i) shall be implemented within 2 years after the date of enactment of this Act \[Dec. 21, 2006\].”
 

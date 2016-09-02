@@ -15,7 +15,7 @@
 
 ## § 32505. Information and compliance requirements
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) To enforce this chapter, an officer or employee designated by the Secretary, on presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, may inspect a facility in which passenger motor vehicles or passenger motor vehicle equipment is manufactured, held for introduction in interstate commerce, or held for sale after introduction in interstate commerce. An inspection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness.
 
-    (b) __Powers of Secretary and Civil Actions To Enforce.—__ 
+    (b)  __Powers of Secretary and Civil Actions To Enforce__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 
-    (c) __Confidentiality of Information.—__ 
+    (c)  __Confidentiality of Information__  __.—__ 
 
         (1)
 

@@ -15,11 +15,11 @@
 
 ## § 20154. Capital grants for rail line relocation projects
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Secretary of Transportation shall carry out a grant program to provide financial assistance for local rail line relocation and improvement projects.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
     A State is eligible for a grant under this section for any construction project for the improvement of the route or structure of a rail line that either—
 
@@ -27,7 +27,7 @@
 
         (2) involves a lateral or vertical relocation of any portion of the rail line.
 
-    (c) __Considerations for Approval of Grant Applications.—__ 
+    (c)  __Considerations for Approval of Grant Applications__  __.—__ 
 
     In determining whether to award a grant to an eligible State under this section, the Secretary shall consider the following factors:
 
@@ -41,21 +41,21 @@
 
         (5) The effects of the rail line, relocated as proposed, on the freight and passenger rail operations on the rail line.
 
-    (d) __Allocation Requirements.—__ 
+    (d)  __Allocation Requirements__  __.—__ 
 
     At least 50 percent of all grant funds awarded under this section out of funds appropriated for a fiscal year shall be provided as grant awards of not more than $20,000,000 each. The $20,000,000 amount shall be adjusted by the Secretary to reflect inflation for fiscal years beginning after fiscal year 2006.
 
     (e) __Non-Federal Share.—__ 
 
-        (1) __Percentage.—__ 
+        (1)  __Percentage__  __.—__ 
 
         A State or other non-Federal entity shall pay at least 10 percent of the shared costs of a project that is funded in part by a grant awarded under this section.
 
-        (2) __Forms of contributions.—__ 
+        (2)  __Forms of contributions__  __.—__ 
 
         The share required by paragraph (1) may be paid in cash or in kind.
 
-        (3) __In-kind contributions.—__ 
+        (3)  __In-kind contributions__  __.—__ 
 
         The in-kind contributions that are permitted to be counted under paragraph (2) for a project for a State or other non-Federal entity are as follows:
 
@@ -71,7 +71,7 @@
 
             (B) The Secretary shall consider the feasibility of seeking financial contributions or commitments from private entities involved with the project in proportion to the expected benefits determined under subparagraph (A) that accrue to such entities from the project.
 
-    (f) __Agreements To Combine Amounts.—__ 
+    (f)  __Agreements To Combine Amounts__  __.—__ 
 
     Two or more States (not including political subdivisions of States) may, pursuant to an agreement entered into by the States, combine any part of the amounts provided through grants for a project under this section if—
 
@@ -79,15 +79,15 @@
 
         (2) the agreement is not a violation of a law of any such State.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations for carrying out this section.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Construction.—__ 
+        (1)  __Construction__  __.—__ 
 
         The term “construction” means the supervising, inspecting, actual building, and incurrence of all costs incidental to the construction or reconstruction of a project described under subsection (b)(1) of this section, including bond costs and other costs relating to the issuance of bonds or other debt financing instruments and costs incurred by the State in performing project related audits, and includes—
 
@@ -103,15 +103,15 @@
 
             (F) other activities defined by the Secretary.
 
-        (2) __Quality of life.—__ 
+        (2)  __Quality of life__  __.—__ 
 
         The term “quality of life” includes first responders’ emergency response time, the environment, noise levels, and other factors as determined by the Secretary.
 
-        (3) __State.—__ 
+        (3)  __State__  __.—__ 
 
         The term “State” includes, except as otherwise specifically provided, a political subdivision of a State, and the District of Columbia.
 
-    (i) __Authorization of Appropriations.—__ 
+    (i)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Secretary for use in carrying out this section $350,000,000 for each of the fiscal years 2006 through 2009.
 
@@ -121,11 +121,11 @@
 
 [Pub. L. 109–59, title IX, § 9002(b)][/us/pl/109/59/s9002/b], Aug. 10, 2005, [119 Stat. 1921][/us/stat/119/1921], provided that:
 
->     “(1) __Temporary regulations.—__ 
+>     “(1)  __Temporary regulations__  __.—__ 
 
 >     Not later than April 1, 2006, the Secretary of Transportation shall issue temporary regulations to implement the grant program under [section 20154 of title 49][/us/usc/t49/s20154], United States Code, as added by subsection (a). Subchapter II of chapter 5 of title 5, United States Code, shall not apply to the issuance of a temporary regulation under this subsection or of any amendment of such a temporary regulation.
 
->     “(2) __Final regulations.—__ 
+>     “(2)  __Final regulations__  __.—__ 
 
 >     Not later than October 1, 2006, the Secretary shall issue final regulations implementing the program.”
 

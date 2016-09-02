@@ -15,7 +15,7 @@
 
 ## § 30127. Automatic occupant crash protection and seat belt use
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -27,7 +27,7 @@
 
         (4) “truck” means a motor vehicle with motive power (except a trailer) designed primarily to transport property or special purpose equipment.
 
-    (b) __Inflatable Restraint Requirements.—__ 
+    (b)  __Inflatable Restraint Requirements__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (2) Manufacturers may not use credits and incentives available before September 1, 1998, under the provisions of Standard 208 (as amended by this section) to comply with the requirements of paragraph (1)(D) of this subsection after August 31, 1998.
 
-    (c) __Owner Manual Requirements.—__ 
+    (c)  __Owner Manual Requirements__  __.—__ 
 
     In amending Standard 208, the Secretary of Transportation shall require, to be effective as soon as possible after the amendment is prescribed, that owner manuals for passenger cars, buses, multipurpose passenger vehicles, and trucks equipped with an inflatable restraint include a statement in an easily understandable format stating that—
 
@@ -55,11 +55,11 @@
 
         (4) occupants should always wear their lap and shoulder belts, if available, or other safety belts, whether or not there is an inflatable restraint.
 
-    (d) __Seat Belt Use Laws.—__ 
+    (d)  __Seat Belt Use Laws__  __.—__ 
 
     Congress finds that it is in the public interest for each State to adopt and enforce mandatory seat belt use laws and for the United States Government to adopt and enforce mandatory seat belt use regulations.
 
-    (e) __Temporary Exemptions.—__ 
+    (e)  __Temporary Exemptions__  __.—__ 
 
         (1) On application of a manufacturer, the Secretary of Transportation may exempt, on a temporary basis, motor vehicles of that manufacturer from any requirement under subsections (b) and (c) of this section on terms the Secretary considers appropriate. An exemption may be renewed.
 
@@ -73,7 +73,7 @@
 
         (6) The Secretary of Transportation shall require a label for each exempted vehicle that can be removed only after recall and installation of the required inflatable restraint. The Secretary shall require that written notice of the exemption be provided to the dealer and the first purchaser of each exempted vehicle other than for resale, with the notice being provided in a way, and containing the information, the Secretary considers appropriate.
 
-    (f) __Application.—__ 
+    (f)  __Application__  __.—__ 
 
         (1)
 
@@ -85,7 +85,7 @@
 
         (2) This section and amendments to Standard 208 made under this section may not be construed as indicating an intention by Congress to affect any liability of a motor vehicle manufacturer under applicable law related to vehicles with or without inflatable restraints.
 
-    (g) __Report.—__ 
+    (g)  __Report__  __.—__ 
 
         (1)
 
@@ -109,7 +109,7 @@
 
             (D) the public.
 
-    (h) __Airbags for Government Cars.—__ 
+    (h)  __Airbags for Government Cars__  __.—__ 
 
     In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
 
@@ -309,17 +309,17 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 [Pub. L. 112–141, div. C, title I, § 31501][/us/pl/112/141/s31501], July 6, 2012, [126 Stat. 773][/us/stat/126/773], provided that:
 
->     “(a) __Side Impact Crashes.—__ 
+>     “(a)  __Side Impact Crashes__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall issue a final rule amending Federal Motor Vehicle Safety Standard Number 213 to improve the protection of children seated in child restraint systems during side impact crashes.
 
 >     “(b) __Frontal Impact Test Parameters.—__ 
 
->         “(1) __Commencement.—__ 
+>         “(1)  __Commencement__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act, the Secretary shall commence a rulemaking proceeding to amend the standard seat assembly specifications under Federal Motor Vehicle Safety Standard Number 213 to better simulate a single representative motor vehicle rear seat.
 
->         “(2) __Final rule.—__ 
+>         “(2)  __Final rule__  __.—__ 
 
 >         Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to paragraph (1).”
 
@@ -327,17 +327,17 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 [Pub. L. 112–141, div. C, title I, § 31502][/us/pl/112/141/s31502], July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
 
->     “(a) __Initiation of Rulemaking Proceeding.—__ 
+>     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 225 (relating to child restraint anchorage systems) to improve the ease of use for lower anchorages and tethers in all rear seat seating positions if such anchorages and tethers are feasible.
 
 >     “(b) __Final Rule.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided under paragraph (2) and section 31505 \[set out as note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49][/us/usc/t49/s30111], United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—
 
@@ -349,17 +349,17 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 [Pub. L. 112–141, div. C, title I, § 31503][/us/pl/112/141/s31503], July 6, 2012, [126 Stat. 774][/us/stat/126/774], provided that:
 
->     “(a) __Initiation of Rulemaking Proceeding.—__ 
+>     “(a)  __Initiation of Rulemaking Proceeding__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 208 (relating to occupant crash protection) to provide a safety belt use warning system for designated seating positions in the rear seat.
 
 >     “(b) __Final Rule.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided under paragraph (2) and section 31505 \[set out as note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49][/us/usc/t49/s30111], United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—
 
@@ -399,11 +399,11 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 > “SEC. 3. __IMPROVEMENT OF SAFETY OF CHILD RESTRAINTS IN PASSENGER MOTOR VEHICLES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation (hereafter referred to as the ‘Secretary’) shall initiate a rulemaking proceeding to establish performance requirements for child restraints, including booster seats, for the restraint of children weighing more than 50 pounds.
 
->     “(b) __Elements for Consideration.—__ 
+>     “(b)  __Elements for Consideration__  __.—__ 
 
 >     In the rulemaking proceeding required by subsection (a), the Secretary shall—
 
@@ -415,23 +415,23 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(4) review the definition of the term ‘booster seat’ in Federal motor vehicle safety standard No. 213 under section 571.213 of title 49, Code of Federal Regulations, to determine if it is sufficiently comprehensive.
 
->     “(c) __Completion.—__ 
+>     “(c)  __Completion__  __.—__ 
 
 >     The Secretary shall complete the rulemaking proceeding required by subsection (a) not later than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
 
 > “SEC. 4. __DEVELOPMENT OF ANTHROPOMORPHIC TEST DEVICE SIMULATING A 10-YEAR OLD CHILD.__ 
 
->     “(a) __Development and Evaluation.—__ 
+>     “(a)  __Development and Evaluation__  __.—__ 
 
 >     Not later than 24 months after the date of the enactment of this Act \[Dec. 4, 2002\], the Secretary shall develop and evaluate an anthropomorphic test device that simulates a 10-year old child for use in testing child restraints used in passenger motor vehicles.
 
->     “(b) __Adoption by Rulemaking.—__ 
+>     “(b)  __Adoption by Rulemaking__  __.—__ 
 
 >     Within 1 year following the development and evaluation carried out under subsection (a), the Secretary shall initiate a rulemaking proceeding for the adoption of an anthropomorphic test device as developed under subsection (a).
 
 > “SEC. 5. __REQUIREMENTS FOR INSTALLATION OF LAP AND SHOULDER BELTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 24 months after the date of the enactment of this Act \[Dec. 4, 2002\], the Secretary shall complete a rulemaking proceeding to amend Federal motor vehicle safety standard No. 208 under section 571.208 of title 49, Code of Federal Regulations, relating to occupant crash protection, in order to—
 
@@ -439,13 +439,13 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(2) apply that requirement to passenger motor vehicles in phases in accordance with subsection (b).
 
->     “(b) __Implementation Schedule.—__ 
+>     “(b)  __Implementation Schedule__  __.—__ 
 
 >     The requirement prescribed under subsection (a)(1) shall be implemented in phases on a production year basis beginning with the production year that begins not later than 12 months after the end of the year in which the regulations are prescribed under subsection (a). The final rule shall apply to all passenger motor vehicles with a gross vehicle weight rating of 10,000 pounds or less that are manufactured in the third production year of the implementation phase-in under the schedule.
 
 > “SEC. 6. __EVALUATION OF INTEGRATED CHILD SAFETY SYSTEMS.__ 
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2002\], the Secretary shall initiate an evaluation of integrated or built-in child restraints and booster seats. The evaluation should include—
 
@@ -461,7 +461,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(6) the benefits of built-in seats for improving compliance with State child occupant restraint laws.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Dec. 4, 2002\], the Secretary shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report of this evaluation.
 
@@ -469,21 +469,21 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 > “As used in this Act, the following definitions apply:
 
->     “(1) __Child restraint.—__ 
+>     “(1)  __Child restraint__  __.—__ 
 
 >     The term ‘child restraint’ means any product designed to provide restraint to a child (including booster seats and other products used with a lap and shoulder belt assembly) that meets applicable Federal motor vehicle safety standards prescribed by the National Highway Traffic Safety Administration.
 
->     “(2) __Production year.—__ 
+>     “(2)  __Production year__  __.—__ 
 
 >     The term ‘production year’ means the 12-month period between September 1 of a year and August 31 of the following year.
 
->     “(3) __Passenger motor vehicle.—__ 
+>     “(3)  __Passenger motor vehicle__  __.—__ 
 
 >     The term ‘passenger motor vehicle’ has the meaning given that term in \[former\] [section 405(f)(5) of title 23][/us/usc/t23/s405/f/5], United States Code.
 
 > “SEC. 8. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated $5,000,000 to the Secretary of Transportation for—
 
@@ -491,17 +491,17 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(2) research of the nature and causes of injury to children involved in motor vehicle crashes.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Funds appropriated under subsection (a) shall not be available for the general administrative expenses of the Secretary.”
 
 [Pub. L. 106–414, § 14][/us/pl/106/414/s14], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate a rulemaking for the purpose of improving the safety of child restraints, including minimizing head injuries from side impact collisions.
 
->     “(b) __Elements for Consideration.—__ 
+>     “(b)  __Elements for Consideration__  __.—__ 
 
 >     In the rulemaking required by subsection (a), the Secretary shall consider—
 
@@ -535,31 +535,31 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(9) whether to include child restraint in each vehicle crash tested under the New Car Assessment Program.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing the final rule, specifically why the Secretary did not incorporate any such element in the final rule.
 
->     “(d) __Completion.—__ 
+>     “(d)  __Completion__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by subsection (a) not later than 24 months after the date of the enactment of this Act \[Nov. 1, 2000\].
 
->     “(e) __Child Restraint Defined.—__ 
+>     “(e)  __Child Restraint Defined__  __.—__ 
 
 >     In this section, the term ‘child restraint’ has the meaning given the term ‘Child restraint system’ in section 571.213 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this Act \[Nov. 1, 2000\]).
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     For each fiscal year, of the funds made available to the Secretary for activities relating to safety, not less than $750,000 shall be made available to carry out crash testing of child restraints.
 
->     “(g) __Child Restraint Safety Ratings Program.—__ 
+>     “(g)  __Child Restraint Safety Ratings Program__  __.—__ 
 
 >     No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information which the Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
 
->     “(h) __Booster Seat Study.—__ 
+>     “(h)  __Booster Seat Study__  __.—__ 
 
 >     In addition to consideration of booster seat performance and structural integrity contained in subsection (b)(7), not later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate and complete a study, taking into account the views of the public, on the use and effectiveness of automobile booster seats for children, compiling information on the advantages and disadvantages of using booster seats and determining the benefits, if any, to children from use of booster with lap and shoulder belts compared to children using lap and shoulder belts alone, and submit a report on the results of that study to the Congress.
 
->     “(i) __Booster Seat Education Program.—__ 
+>     “(i)  __Booster Seat Education Program__  __.—__ 
 
 >     The Secretary of Transportation within 1 year after the date of the enactment of this Act \[Nov. 1, 2000\] shall develop \[a\] 5 year strategic plan to reduce deaths and injuries caused by failure to use the appropriate booster seat in the 4 to 8 year old age group by 25 percent.”
 
@@ -569,23 +569,23 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >     “(a) __Rulemaking To Improve Air Bags.—__ 
 
->         “(1) __Notice of proposed rulemaking.—__ 
+>         “(1)  __Notice of proposed rulemaking__  __.—__ 
 
 >         Not later than September 1, 1998, the Secretary of Transportation shall issue a notice of proposed rulemaking to improve occupant protection for occupants of different sizes, belted and unbelted, under Federal Motor Vehicle Safety Standard No. 208, while minimizing the risk to infants, children, and other occupants from injuries and deaths caused by air bags, by means that include advanced air bags.
 
->         “(2) __Final rule.—__ 
+>         “(2)  __Final rule__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by this subsection by issuing, not later than September 1, 1999, a final rule with any provision the Secretary deems appropriate, consistent with paragraph (1) and the requirements of section 30111, title 49, United States Code. If the Secretary determines that the final rule cannot be completed by that date to meet the purposes of paragraph (1), the Secretary may extend the date for issuing the final rule to not later than March 1, 2000.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         The final rule issued under this subsection shall become effective in phases as rapidly as practicable, beginning not earlier than September 1, 2002, and no sooner than 30 months after the date of the issuance of the final rule, but not later than September 1, 2003. The final rule shall become fully effective for all vehicles identified in section 30127(b), title 49, United States Code, that are manufactured on and after September 1, 2005. Should the phase-in of the final rule required by this paragraph commence on September 1, 2003, then in that event, and only in that event, the Secretary is authorized to make the final rule fully effective on September 1, 2006, for all vehicles that are manufactured on and after that date.
 
->         “(4) __Coordination of effective dates.—__ 
+>         “(4)  __Coordination of effective dates__  __.—__ 
 
 >         The requirements of S13 of Standard No. 208 shall remain in effect unless and until changed by the rule required by this subsection.
 
->         “(5) __Credit for early compliance.—__ 
+>         “(5)  __Credit for early compliance__  __.—__ 
 
 >         To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers may earn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under [section 30115 of title 49][/us/usc/t49/s30115], United States Code, with the rule required by paragraph (2) which are either—
 
@@ -593,7 +593,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >             “(B) in excess of the percentage requirements during the phase-in period.
 
->     “(b) __Advisory Committees.—__ 
+>     “(b)  __Advisory Committees__  __.—__ 
 
 >     Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer and safety organizations, insurers, manufacturers, and suppliers.”
 

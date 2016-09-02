@@ -15,7 +15,7 @@
 
 ## § 24909. Authorization of appropriations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -97,29 +97,29 @@
 
             (E) not more than $37,000,000 to carry out section 24902(a)(7) and (j) 1 of this title.
 
-    (b) __Emergency Maintenance.—__ 
+    (b)  __Emergency Maintenance__  __.—__ 
 
     Not more than $25,000,000 of the amount appropriated under the Act of February 28, 1975 ([Public Law 94–6][/us/pl/94/6], [89 Stat. 11][/us/stat/89/11]), may be used by Amtrak for emergency maintenance on rail property designated under section 206(c)(1)(C) of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 716(c)(1)(C)][/us/usc/t45/s716/c/1/C]).
 
-    (c) __Priority in Using Certain Amounts.—__ 
+    (c)  __Priority in Using Certain Amounts__  __.—__ 
 
     Amounts appropriated under subsection (a)(2)(B) and (D) of this section shall be used first to repay, with interest, obligations guaranteed under section 602 of the Rail Passenger Service Act, if the proceeds of those obligations were used to pay the expenses of acquiring interests in property referred to in subsection (a)(2)(B) and (D).
 
-    (d) __Prohibition on Subsidizing Commuter and Freight Operating Losses.—__ 
+    (d)  __Prohibition on Subsidizing Commuter and Freight Operating Losses__  __.—__ 
 
     Amounts appropriated under this section may not be used to subsidize operating losses of commuter rail or rail freight transportation.
 
-    (e) __Substituting and Deferring Certain Improvements.—__ 
+    (e)  __Substituting and Deferring Certain Improvements__  __.—__ 
 
         (1) A project for which amounts are authorized under subsection (a)(1)(C) of this section is a part of the Northeast Corridor improvement program and is not a substitute for improvements specified in the document “Corridor Master Plan II, NECIP Restructured Program” of January, 1982. However, Amtrak may defer the project to carry out the improvement and rehabilitation for which amounts are authorized under subsection (a)(1)(B) of this section. The total cost of the project that Amtrak defers may not be substantially more than the amount Amtrak is required to expend or reserve under subsection (a)(1)(B).
 
         (2) [Section 24902 of this title][/us/usc/t49/s24902] is deemed not to be fulfilled until the projects under subsection (a)(1)(C) of this section are completed.
 
-    (f) __Availability of Amounts.—__ 
+    (f)  __Availability of Amounts__  __.—__ 
 
     Amounts appropriated under subsection (a)(1) and (2)(A) and (C)–(E) of this section remain available until expended.
 
-    (g) __Authorizations Increased by Prior Year Deficiencies.—__ 
+    (g)  __Authorizations Increased by Prior Year Deficiencies__  __.—__ 
 
     An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
 

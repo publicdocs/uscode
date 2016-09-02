@@ -15,7 +15,7 @@
 
 ## § 44938. Reports
 
-    (a) __Transportation Security.—__ 
+    (a)  __Transportation Security__  __.—__ 
 
     Not later than March 31 of each year, the Secretary of Transportation shall submit to Congress a report on transportation security with recommendations the Secretary considers appropriate. The report shall be prepared in conjunction with the biennial report the Under Secretary of Transportation for Security submits under subsection (b) of this section in each year the Under Secretary submits the biennial report, but may not duplicate the information submitted under subsection (b) or [section 44907(a)(3) of this title][/us/usc/t49/s44907/a/3]. The Secretary may submit the report in classified and unclassified parts. The report shall include—
 
@@ -39,7 +39,7 @@
 
         (10) appropriate legislative and regulatory recommendations.
 
-    (b) __Screening and Foreign Air Carrier and Airport Security.—__ 
+    (b)  __Screening and Foreign Air Carrier and Airport Security__  __.—__ 
 
     The Under Secretary shall submit biennially to Congress a report—
 

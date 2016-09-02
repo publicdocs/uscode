@@ -15,7 +15,7 @@
 
 ## § 41101. Requirement for a certificate
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as provided in this chapter or another law—
 
@@ -25,7 +25,7 @@
 
         (3) an air carrier may provide all-cargo air transportation only if the air carrier holds a certificate issued under this chapter authorizing the all-cargo air transportation.
 
-    (b) __Through Service and Joint Transportation.—__ 
+    (b)  __Through Service and Joint Transportation__  __.—__ 
 
     A citizen of the United States providing transportation in a State of passengers or property as a common carrier for compensation with aircraft capable of carrying at least 30 passengers, under authority granted by the appropriate State authority—
 
@@ -33,7 +33,7 @@
 
         (2) subject to sections 41309 and 42111 of this title, may make an agreement with an air carrier or foreign air carrier to provide the joint transportation.
 
-    (c) __Proprietary or Exclusive Right Not Conferred.—__ 
+    (c)  __Proprietary or Exclusive Right Not Conferred__  __.—__ 
 
     A certificate issued under this chapter does not confer a proprietary or exclusive right to use airspace, an airway of the United States, or an air navigation facility.
 

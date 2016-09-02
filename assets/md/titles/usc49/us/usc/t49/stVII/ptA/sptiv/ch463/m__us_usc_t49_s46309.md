@@ -15,7 +15,7 @@
 
 ## § 46309. Concession and price violations
 
-    (a) __Criminal Penalty for Offering, Granting, Giving, or Helping To Obtain Concessions and Lower Prices.—__ 
+    (a)  __Criminal Penalty for Offering, Granting, Giving, or Helping To Obtain Concessions and Lower Prices__  __.—__ 
 
     An air carrier, foreign air carrier, ticket agent, or officer, agent, or employee of an air carrier, foreign air carrier, or ticket agent shall be fined under title 18 if the air carrier, foreign air carrier, ticket agent, officer, agent, or employee—
 
@@ -23,7 +23,7 @@
 
         (2) by any means knowingly and willfully assists, or willingly allows, a person to obtain transportation or services subject to this part at less than the price lawfully in effect.
 
-    (b) __Criminal Penalty for Receiving Rebates, Privileges, and Facilities.—__ 
+    (b)  __Criminal Penalty for Receiving Rebates, Privileges, and Facilities__  __.—__ 
 
     A person shall be fined under title 18 if the person by any means—
 

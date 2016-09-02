@@ -15,7 +15,7 @@
 
 ## § 40106. Emergency powers
 
-    (a) __Deviations From Regulations.—__ 
+    (a)  __Deviations From Regulations__  __.—__ 
 
     Appropriate military authority may authorize aircraft of the armed forces of the United States to deviate from air traffic regulations prescribed under section 40103(b)(1) and (2) of this title when the authority decides the deviation is essential to the national defense because of a military emergency or urgent military necessity. The authority shall—
 
@@ -23,7 +23,7 @@
 
         (2) to the extent time and circumstances allow, make every reasonable effort to consult with the Administrator and arrange for the deviation in advance on a mutually agreeable basis.
 
-    (b) __Suspension of Authority.—__ 
+    (b)  __Suspension of Authority__  __.—__ 
 
         (1)
 

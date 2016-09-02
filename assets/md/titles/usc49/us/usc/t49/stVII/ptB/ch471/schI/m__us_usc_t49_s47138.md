@@ -15,13 +15,13 @@
 
 ## § 47138. Pilot program for purchase of airport development rights
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall establish a pilot program to support the purchase, by a State or political subdivision of a State, of development rights associated with, or directly affecting the use of, privately owned public use airports located in that State. Under the program, the Secretary may make a grant to a State or political subdivision of a State from funds apportioned under section 47114 for the purchase of such rights.
 
     (b) __Grant Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may not make a grant under subsection (a) unless the grant is made—
 
@@ -29,11 +29,11 @@
 
             (B) subject to a requirement that the State or political subdivision acquire an easement or other appropriate covenant requiring that the airport shall remain a public use airport in perpetuity.
 
-        (2) __Matching requirement.—__ 
+        (2)  __Matching requirement__  __.—__ 
 
         The amount of a grant under the program may not exceed 90 percent of the costs of acquiring the development rights.
 
-    (c) __Grant Standards.—__ 
+    (c)  __Grant Standards__  __.—__ 
 
     The Secretary shall prescribe standards for grants under subsection (a), including—
 
@@ -41,11 +41,11 @@
 
         (2) requirements for the content of the instrument recording the purchase of the development rights.
 
-    (d) __Release of Purchased Rights and Covenant.—__ 
+    (d)  __Release of Purchased Rights and Covenant__  __.—__ 
 
     Any development rights purchased under the program shall remain the property of the State or political subdivision unless the Secretary approves the transfer or disposal of the development rights after making a determination that the transfer or disposal of that right is in the public interest.
 
-    (e) __Limitation.—__ 
+    (e)  __Limitation__  __.—__ 
 
     The Secretary may not make a grant under the pilot program for the purchase of development rights at more than 10 airports.
 

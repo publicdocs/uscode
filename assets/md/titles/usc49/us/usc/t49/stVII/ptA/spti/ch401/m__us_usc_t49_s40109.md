@@ -15,7 +15,7 @@
 
 ## § 40109. Authority to exempt
 
-    (a) __Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft.—__ 
+    (a)  __Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft__  __.—__ 
 
         (1)
 
@@ -27,15 +27,15 @@
 
         (2) The exemption is effective to the extent and for periods that the Secretary decides are in the public interest.
 
-    (b) __Safety Regulation.—__ 
+    (b)  __Safety Regulation__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
 
-    (c) __Other Economic Regulation.—__ 
+    (c)  __Other Economic Regulation__  __.—__ 
 
     Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909 and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 
-    (d) __Labor Requirements.—__ 
+    (d)  __Labor Requirements__  __.—__ 
 
     The Secretary may not exempt an air carrier from [section 42112 of this title][/us/usc/t49/s42112]. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
 
@@ -43,11 +43,11 @@
 
         (2) the exemption would not affect adversely the public interest.
 
-    (e) __Maximum Flying Hours.—__ 
+    (e)  __Maximum Flying Hours__  __.—__ 
 
     The Secretary may not exempt an air carrier under this section from a provision referred to in subsection (c) of this section, or a regulation or term prescribed under any of those provisions, that sets maximum flying hours for pilots or copilots.
 
-    (f) __Smaller Aircraft.—__ 
+    (f)  __Smaller Aircraft__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
             (B) The Secretary may limit the number or location of places that may be served by an air carrier providing transportation only in Alaska under an exemption from [section 41101(a)(1) of this title][/us/usc/t49/s41101/a/1], or the frequency with which the transportation may be provided, only when the Secretary decides that providing the transportation substantially impairs the ability of an air carrier holding a certificate issued by the Secretary to provide its authorized transportation, including the minimum transportation requirement for Alaska specified under [section 41732(b)(1)(B) of this title][/us/usc/t49/s41732/b/1/B].
 
-    (g) __Emergency Air Transportation by Foreign Air Carriers.—__ 
+    (g)  __Emergency Air Transportation by Foreign Air Carriers__  __.—__ 
 
         (1)
 
@@ -101,7 +101,7 @@
 
         (3) The Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days. An exemption may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease.
 
-    (h) __Notice and Opportunity for Hearing.—__ 
+    (h)  __Notice and Opportunity for Hearing__  __.—__ 
 
     The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
@@ -457,11 +457,11 @@ In subsection (h), the words “The Secretary may act under subsections (d) and 
 
 [Pub. L. 103–411, § 3(b)][/us/pl/103/411/s3/b], Oct. 25, 1994, [108 Stat. 4237][/us/stat/108/4237], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49, United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending [section 40102 of this title][/us/usc/t49/s40102]\].
 
->     “(2) __Requirements.—__ 
+>     “(2)  __Requirements__  __.—__ 
 
 >     The Administrator may grant an exemption under paragraph (1) only if—
 

@@ -15,7 +15,7 @@
 
 ## § 6103. Minimum standards for State one-call notification programs
 
-    (a) __Minimum Standards.—__ 
+    (a)  __Minimum Standards__  __.—__ 
 
     In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
 
@@ -25,7 +25,7 @@
 
         (3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
 
-    (b) __Appropriate Participation.—__ 
+    (b)  __Appropriate Participation__  __.—__ 
 
     In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—
 
@@ -33,7 +33,7 @@
 
         (2) activities of types of excavators.
 
-    (c) __Implementation.—__ 
+    (c)  __Implementation__  __.—__ 
 
     A State one-call notification program also shall, at a minimum, provide for and document—
 
@@ -43,7 +43,7 @@
 
         (3) voluntary participation where the State determines that a type of underground facility or an activity of a type of excavator poses a de minimis risk to public safety or the environment.
 
-    (d) __Penalties.—__ 
+    (d)  __Penalties__  __.—__ 
 
     To the extent the State determines appropriate and necessary to achieve the purposes of this chapter, a State one-call notification program shall, at a minimum, provide for—
 

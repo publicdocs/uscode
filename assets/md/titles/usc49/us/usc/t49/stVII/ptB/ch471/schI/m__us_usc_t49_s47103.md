@@ -15,7 +15,7 @@
 
 ## § 47103. National plan of integrated airport systems
 
-    (a) __General Requirements and Considerations.—__ 
+    (a)  __General Requirements and Considerations__  __.—__ 
 
     The Secretary of Transportation shall maintain the plan for developing public-use airports in the United States, named “the national plan of integrated airport systems”. The plan shall include the kind and estimated cost of eligible airport development the Secretary of Transportation considers necessary to provide a safe, efficient, and integrated system of public-use airports adequate to anticipate and meet the needs of civil aeronautics, to meet the national defense requirements of the Secretary of Defense, and to meet identified needs of the United States Postal Service. Airport development included in the plan may not be limited to meeting the needs of any particular classes or categories of public-use airports. In maintaining the plan, the Secretary of Transportation shall consider the needs of each segment of civil aviation and the relationship of the airport system to—
 
@@ -23,7 +23,7 @@
 
         (2) forecasted technological developments in aeronautics.
 
-    (b) __Specific Requirements.—__ 
+    (b)  __Specific Requirements__  __.—__ 
 
     In maintaining the plan, the Secretary of Transportation shall—
 
@@ -31,11 +31,11 @@
 
         (2) make every reasonable effort to address the needs of air cargo operations and rotary wing aircraft operations.
 
-    (c) __Availability of Domestic Military Airports and Airport Facilities.—__ 
+    (c)  __Availability of Domestic Military Airports and Airport Facilities__  __.—__ 
 
     To the extent possible, the Secretary of Defense shall make domestic military airports and airport facilities available for civil use. In advising the Secretary of Transportation under subsection (a) of this section, the Secretary of Defense shall indicate the extent to which domestic military airports and airport facilities are available for civil use.
 
-    (d) __Publication.—__ 
+    (d)  __Publication__  __.—__ 
 
     The Secretary of Transportation shall publish the plan every 2 years.
 

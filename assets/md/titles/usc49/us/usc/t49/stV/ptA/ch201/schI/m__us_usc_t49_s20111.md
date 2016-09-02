@@ -15,7 +15,7 @@
 
 ## § 20111. Enforcement by the Secretary of Transportation
 
-    (a) __Exclusive Authority.—__ 
+    (a)  __Exclusive Authority__  __.—__ 
 
     The Secretary of Transportation has exclusive authority—
 
@@ -25,7 +25,7 @@
 
         (3) to recommend appropriate action be taken under [section 20112(a) of this title][/us/usc/t49/s20112/a].
 
-    (b) __Compliance Orders.—__ 
+    (b)  __Compliance Orders__  __.—__ 
 
     The Secretary may issue an order directing compliance with this part or with a railroad safety regulation prescribed or order issued under this part.
 
@@ -35,7 +35,7 @@
 
         (2) This subsection does not affect the Secretary’s authority under [section 20104 of this title][/us/usc/t49/s20104] to act on an emergency basis.
 
-    (d) __Regulations Requiring Reporting of Remedial Actions.—__ 
+    (d)  __Regulations Requiring Reporting of Remedial Actions__  __.—__ 
 
         (1)
 

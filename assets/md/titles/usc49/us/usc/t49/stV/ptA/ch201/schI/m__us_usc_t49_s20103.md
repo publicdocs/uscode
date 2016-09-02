@@ -15,33 +15,33 @@
 
 ## § 20103. General authority
 
-    (a) __Regulations and Orders.—__ 
+    (a)  __Regulations and Orders__  __.—__ 
 
     The Secretary of Transportation, as necessary, shall prescribe regulations and issue orders for every area of railroad safety supplementing laws and regulations in effect on October 16, 1970. When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.
 
-    (b) __Regulations of Practice for Proceedings.—__ 
+    (b)  __Regulations of Practice for Proceedings__  __.—__ 
 
     The Secretary shall prescribe regulations of practice applicable to each proceeding under this chapter. The regulations shall reflect the varying nature of the proceedings and include time limits for disposition of the proceedings. The time limit for disposition of a proceeding may not be more than 12 months after the date it begins.
 
-    (c) __Consideration of Information and Standards.—__ 
+    (c)  __Consideration of Information and Standards__  __.—__ 
 
     In prescribing regulations and issuing orders under this section, the Secretary shall consider existing relevant safety information and standards.
 
-    (d) __Nonemergency Waivers.—__ 
+    (d)  __Nonemergency Waivers__  __.—__ 
 
     The Secretary may waive compliance with any part of a regulation prescribed or order issued under this chapter if the waiver is in the public interest and consistent with railroad safety. The Secretary shall make public the reasons for granting the waiver.
 
-    (e) __Hearings.—__ 
+    (e)  __Hearings__  __.—__ 
 
     The Secretary shall conduct a hearing as provided by [section 553 of title 5][/us/usc/t5/s553] when prescribing a regulation or issuing an order under this part, including a regulation or order establishing, amending, or providing a waiver, described in subsection (d), of compliance with a railroad safety regulation prescribed or order issued under this part. An opportunity for an oral presentation shall be provided.
 
-    (f) __Tourist Railroad Carriers.—__ 
+    (f)  __Tourist Railroad Carriers__  __.—__ 
 
     In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
 
     (g) __Emergency Waivers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may waive compliance with any part of a regulation prescribed or order issued under this part without prior notice and comment if the Secretary determines that—
 
@@ -51,19 +51,19 @@
 
             (C) the waiver is necessary to address an actual or impending emergency situation or emergency event.
 
-        (2) __Period of waiver.—__ 
+        (2)  __Period of waiver__  __.—__ 
 
         A waiver under this subsection may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this part.
 
-        (3) __Statement of reasons.—__ 
+        (3)  __Statement of reasons__  __.—__ 
 
         The Secretary shall state in the decision issued under this subsection the reasons for granting the waiver.
 
-        (4) __Consultation.—__ 
+        (4)  __Consultation__  __.—__ 
 
         In granting a waiver under this subsection, the Secretary shall consult and coordinate with other Federal agencies, as appropriate, for matters that may impact such agencies.
 
-        (5) __Emergency situation; emergency event.—__ 
+        (5)  __Emergency situation; emergency event__  __.—__ 
 
         In this subsection, the terms “emergency situation” and “emergency event” mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
 
@@ -209,7 +209,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 >         “(B) the extent to which environmental, sanitary, and other working conditions in locomotive cabs affect productivity, health, and the safe operation of locomotives.
 
->     “(2) __Supporting Research and Analysis.—__ 
+>     “(2)  __Supporting Research and Analysis__  __.—__ 
 
 >     In support of the proceeding required under paragraph (1) of this subsection, the Secretary shall conduct research and analysis, including computer modeling and full-scale crash testing, as appropriate, to consider—
 
@@ -239,7 +239,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 >         “(B) the effects on train crews of the presence of asbestos in locomotive components.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision.”
 
@@ -247,19 +247,19 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 [Pub. L. 110–432, div. A, title IV, § 405][/us/pl/110/432/s405], Oct. 16, 2008, [122 Stat. 4885][/us/stat/122/4885], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in [section 20102(4) of title 49][/us/usc/t49/s20102/4], United States Code), during the performance of such employees’ duties. The study shall consider the prevalence of the use of such devices.
 
->     “(b) __Locomotive Cab Environment.—__ 
+>     “(b)  __Locomotive Cab Environment__  __.—__ 
 
 >     The Secretary may also study other elements of the locomotive cab environment and their effect on an employee’s health and safety.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 6 months after the completion of any study under this section, the Secretary shall issue a report on the study to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
->     “(d) __Authority.—__ 
+>     “(d)  __Authority__  __.—__ 
 
 >     Based on the conclusions of the study required under (a), the Secretary of Transportation may prohibit the use of personal electronic devices, such as cell phones, video games, or other electronic devices that may distract employees from safely performing their duties, unless those devices are being used according to railroad operating rules or for other work purposes. Based on the conclusions of other studies conducted under subsection (b), the Secretary may prescribe regulations to improve elements of the cab environment to protect an employee’s health and safety.”
 
@@ -285,11 +285,11 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 [Pub. L. 110–432, div. A, title IV, § 417][/us/pl/110/432/s417], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall promulgate a regulation requiring owners of track carried on one or more railroad bridges to adopt a bridge safety management program to prevent the deterioration of railroad bridges and reduce the risk of human casualties, environmental damage, and disruption to the Nation’s railroad transportation system that would result from a catastrophic bridge failure.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The regulations shall, at a minimum, require each track owner to \[sic\]—
 
@@ -317,11 +317,11 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 >         “(8) to designate qualified bridge inspectors or maintenance personnel to authorize the operation of trains on bridges following repairs, damage, or indications of potential structural problems.
 
->     “(c) __Use of Bridge Management Programs Required.—__ 
+>     “(c)  __Use of Bridge Management Programs Required__  __.—__ 
 
 >     The Secretary shall instruct bridge experts to obtain copies of the most recent bridge management programs of each railroad within the expert’s areas of responsibility, and require that experts use those programs when conducting bridge observations.
 
->     “(d) __Review of Data.—__ 
+>     “(d)  __Review of Data__  __.—__ 
 
 >     The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.”
 

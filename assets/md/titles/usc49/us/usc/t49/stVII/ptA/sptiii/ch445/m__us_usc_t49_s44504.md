@@ -15,11 +15,11 @@
 
 ## § 44504. Improved aircraft, aircraft engines, propellers, and appliances
 
-    (a) __Developmental Work and Service Testing.—__ 
+    (a)  __Developmental Work and Service Testing__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may conduct or supervise developmental work and service testing to improve aircraft, aircraft engines, propellers, and appliances.
 
-    (b) __Research.—__ 
+    (b)  __Research__  __.—__ 
 
     The Administrator shall conduct or supervise research—
 
@@ -39,7 +39,7 @@
 
         (8) in conjunction with other Federal agencies, as appropriate, to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, and processes for use in all classes of unmanned aircraft systems that could result in a catastrophic failure of the unmanned aircraft that would endanger other aircraft in the national airspace system.
 
-    (c) __Authority To Buy Items Offering Special Advantages.—__ 
+    (c)  __Authority To Buy Items Offering Special Advantages__  __.—__ 
 
     In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
@@ -169,11 +169,11 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 112–95, title IX, § 910][/us/pl/112/95/s910], Feb. 14, 2012, [126 Stat. 141][/us/stat/126/141], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of NASA \[National Aeronautics and Space Administration\], shall continue research and development activities into the qualification of an unleaded aviation fuel and safe transition to this fuel for the fleet of piston engine aircraft.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     In carrying out the program under subsection (a), the Administrator shall, at a minimum—
 
@@ -185,7 +185,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >         “(4) develop recommendations for appropriate policies and guidelines to facilitate a transition to unleaded aviation fuel for piston engine aircraft.
 
->     “(c) __Collaboration.—__ 
+>     “(c)  __Collaboration__  __.—__ 
 
 >     In carrying out the program under subsection (a), the Administrator shall collaborate with—
 
@@ -193,7 +193,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >         “(2) other appropriate Federal agencies.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan, information obtained, and policies and guidelines developed pursuant to subsection (b).”
 
@@ -201,17 +201,17 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 112–95, title IX, § 911][/us/pl/112/95/s911], Feb. 14, 2012, [126 Stat. 142][/us/stat/126/142], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator \[of the Federal Aviation Administration (FAA)\] shall establish a research program to assist in the development and qualification of jet fuel from alternative sources (such as natural gas, biomass, ethanol, butanol, and hydrogen) and other renewable sources.
 
->     “(b) __Authority To Make Grants.—__ 
+>     “(b)  __Authority To Make Grants__  __.—__ 
 
 >     The Administrator shall carry out the program through the use of grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies.
 
 >     “(c) __Participation in Program.—__ 
 
->         “(1) __Participation of educational and research institutions.—__ 
+>         “(1)  __Participation of educational and research institutions__  __.—__ 
 
 >         In carrying out the program, the Administrator shall include participation by—
 
@@ -219,17 +219,17 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >             “(B) consortia with experience across the supply chain, including with research, feedstock development and production, small-scale development, testing, and technology evaluation related to the creation, processing, production, and transportation of alternative aviation fuel.
 
->         “(2) __Use of nasa facilities.—__ 
+>         “(2)  __Use of nasa facilities__  __.—__ 
 
 >         In carrying out the program, the Administrator shall consider utilizing the existing capacity in aeronautics research at Langley Research Center, Glenn Research Center, and other appropriate facilities of NASA \[National Aeronautics and Space Administration\].
 
 >     “(d) __Designation of Institution as a Center of Excellence.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c)(1)(A) as a Center of Excellence for Alternative Jet-Fuel Research in Civil Aircraft.
 
->         “(2) __Effect of designation.—__ 
+>         “(2)  __Effect of designation__  __.—__ 
 
 >         The center designated under paragraph (1) shall become, upon its designation—
 
@@ -241,19 +241,19 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 112–95, title IX, § 914][/us/pl/112/95/s914], Feb. 14, 2012, [126 Stat. 144][/us/stat/126/144], provided that:
 
->     “(a) __Establishment of Research Program.—__ 
+>     “(a)  __Establishment of Research Program__  __.—__ 
 
 >     Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator \[of the Federal Aviation Administration\] shall establish a research program related to developing jet fuel from clean coal.
 
->     “(b) __Authority To Make Grants.—__ 
+>     “(b)  __Authority To Make Grants__  __.—__ 
 
 >     The Administrator shall carry out the program through grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies.
 
->     “(c) __Participation in Program.—__ 
+>     “(c)  __Participation in Program__  __.—__ 
 
 >     In carrying out the program, the Administrator shall include participation by educational and research institutions that have existing facilities and experience in the development and deployment of technology that processes coal into aviation fuel.
 
->     “(d) __Designation of Institution as a Center of Excellence.—__ 
+>     “(d)  __Designation of Institution as a Center of Excellence__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c) as a Center of Excellence for Coal-to-Jet-Fuel Research.”
 
@@ -261,11 +261,11 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 112–95, title IX, § 917][/us/pl/112/95/s917], Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\], to the extent practicable, shall implement a research program for the identification or development of appropriate and effective air cleaning technology and sensor technology for the engine and auxiliary power unit bleed air supplied to the passenger cabin and flight deck of a pressurized aircraft.
 
->     “(b) __Technology Requirements.—__ 
+>     “(b)  __Technology Requirements__  __.—__ 
 
 >     The technology referred to in subsection (a) shall have the capacity, at a minimum—
 
@@ -273,7 +273,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >         “(2) to detect and record oil-based contaminants in the portion of the total air supplied to the passenger cabin and flight deck from bleed air.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of the research and development work carried out under this section.”
 
@@ -281,7 +281,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 108–176, title VII, § 708][/us/pl/108/176/s708], Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], as amended by [Pub. L. 112–95, title IX, § 916][/us/pl/112/95/s916], Feb. 14, 2012, [126 Stat. 145][/us/stat/126/145], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall develop a Center for Excellence focused on applied research and training on the durability and maintainability of advanced materials in transport airframe structures. The Center shall—
 
@@ -289,7 +289,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >         “(2) establish goals set to advance technology, improve engineering practices, and facilitate continuing education in relevant areas of study.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Administrator $500,000 for each of fiscal years 2012 through 2015 to carry out this section.”
 
@@ -297,7 +297,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 108–176, title VII, § 711][/us/pl/108/176/s711], Dec. 12, 2003, [117 Stat. 2585][/us/stat/117/2585], provided that:
 
->     “(a) __Objective.—__ 
+>     “(a)  __Objective__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
@@ -311,7 +311,7 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 >         “(5) Capability for zero-ceiling, zero-visibility operations.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
 
@@ -319,11 +319,11 @@ In this section, the word “Administrator” in section 312(b) of the Federal A
 
 [Pub. L. 106–181, title VII, § 742][/us/pl/106/181/s742], Apr. 5, 2000, [114 Stat. 175][/us/stat/114/175], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] may work with a consortium of domestic metal producers and aircraft engine manufacturers to improve the quality of turbine engine materials and to address melting technology enhancements.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 6 months after entering into an agreement with a consortium described in subsection (a), the Administrator shall transmit to Congress a report on the goals and efforts of the consortium.”
 

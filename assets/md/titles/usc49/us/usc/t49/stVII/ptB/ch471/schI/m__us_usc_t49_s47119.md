@@ -17,7 +17,7 @@
 
     (a) __Terminal Development Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation may approve a project for terminal development (including multimodal terminal development) in a nonrevenue-producing public-use area of a commercial service airport—
 
@@ -35,7 +35,7 @@
 
             (C) under terms necessary to protect the interests of the Government.
 
-        (2) __Project in revenue-producing areas and nonrevenue-producing parking lots.—__ 
+        (2)  __Project in revenue-producing areas and nonrevenue-producing parking lots__  __.—__ 
 
         In making a decision under paragraph (1), the Secretary may approve as allowable costs the expenses of terminal development in a revenue-producing area and construction, reconstruction, repair, and improvement in a nonrevenue-producing parking lot if—
 
@@ -45,15 +45,15 @@
 
     (b) __Repaying Borrowed Money.—__ 
 
-        (1) __Terminal development costs incurred after__  __june 30, 1970__  __, and before__  __july 12, 1976__  __.—__ 
+        (1)  __Terminal development costs incurred after __  __june 30, 1970__  __, and before __  __july 12, 1976__  __.—__ 
 
         An amount apportioned under section 47114 and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
 
-        (2) __Terminal development costs incurred between__  __january 1, 1992__  __, and__  __october 31, 1992__  __.—__ 
+        (2)  __Terminal development costs incurred between __  __january 1, 1992__  __, and __  __october 31, 1992__  __.—__ 
 
         An amount apportioned under section 47114 and made available to the sponsor of a nonhub airport at which terminal development was carried out between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d).
 
-        (3) __Terminal development costs at primary airports.—__ 
+        (3)  __Terminal development costs at primary airports__  __.—__ 
 
         An amount apportioned under section 47114 or available under subsection (b)(3) to a primary airport—
 
@@ -65,7 +65,7 @@
 
             is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under subsection (a).
 
-        (4) __Conditions for grant.—__ 
+        (4)  __Conditions for grant__  __.—__ 
 
         An amount is available for a grant under this subsection only if—
 
@@ -75,11 +75,11 @@
 
             (C) amounts available for airport development under this subchapter will not be used for additional terminal development projects at the airport for at least 1 year beginning on the date the grant is used to repay the borrowed money.
 
-        (5) __Applicability of certain limitations.—__ 
+        (5)  __Applicability of certain limitations__  __.—__ 
 
         A grant under this subsection shall be subject to the limitations in subsections (c)(1) and (c)(2).
 
-    (c) __Availability of Amounts.—__ 
+    (c)  __Availability of Amounts__  __.—__ 
 
     In a fiscal year, the Secretary may make available—
 
@@ -99,11 +99,11 @@
 
         (5) to a sponsor of a nonprimary airport, any part of amounts apportioned to the sponsor for the fiscal year under section 47114(d)(3)(A) for project costs allowable under subsection (a).
 
-    (d) __Nonhub Airports.—__ 
+    (d)  __Nonhub Airports__  __.—__ 
 
     With respect to a project at a commercial service airport which annually has less than 0.05 percent of the total enplanements in the United States, the Secretary may approve the use of the amounts described in subsection (a) notwithstanding the requirements of sections 47107(a)(17), 47112, and 47113.
 
-    (e) __Determination of Passenger Boarding at Commercial Service Airports.—__ 
+    (e)  __Determination of Passenger Boarding at Commercial Service Airports__  __.—__ 
 
     For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
 

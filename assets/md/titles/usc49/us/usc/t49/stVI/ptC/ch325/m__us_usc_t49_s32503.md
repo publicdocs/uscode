@@ -15,21 +15,21 @@
 
 ## § 32503. Judicial review of bumper standards
 
-    (a) __Filing and Venue.—__ 
+    (a)  __Filing and Venue__  __.—__ 
 
     A person that may be adversely affected by a standard prescribed under [section 32502 of this title][/us/usc/t49/s32502] may apply for review of the standard by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 59 days after the standard is prescribed.
 
-    (b) __Notifying Secretary.—__ 
+    (b)  __Notifying Secretary__  __.—__ 
 
     The clerk of the court shall send immediately a copy of the petition to the Secretary of Transportation. The Secretary shall file with the court a record of the proceeding in which the standard was prescribed.
 
-    (c) __Additional Proceedings.—__ 
+    (c)  __Additional Proceedings__  __.—__ 
 
         (1) On request of the petitioner, the court may order the Secretary to receive additional evidence and evidence in rebuttal if the court is satisfied the additional evidence is material and there were reasonable grounds for not presenting the evidence in the proceeding before the Secretary.
 
         (2) The Secretary may modify findings of fact or make new findings because of the additional evidence presented. The Secretary shall file a modified or new finding, a recommendation to modify or set aside a standard, and the additional evidence with the court.
 
-    (d) __Supreme Court Review and Additional Remedies.—__ 
+    (d)  __Supreme Court Review and Additional Remedies__  __.—__ 
 
     A judgment of a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254]. A remedy under this section is in addition to any other remedies provided by law.
 

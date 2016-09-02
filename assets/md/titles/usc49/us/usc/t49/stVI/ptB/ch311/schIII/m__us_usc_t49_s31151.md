@@ -17,15 +17,15 @@
 
     (a) __Inspection, Repair, and Maintenance of Intermodal Equipment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation shall maintain a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.
 
-        (2) __Intermodal equipment safety regulations.—__ 
+        (2)  __Intermodal equipment safety regulations__  __.—__ 
 
         The Secretary shall issue the regulations under this section as a subpart of the Federal motor carrier safety regulations.
 
-        (3) __Contents.—__ 
+        (3)  __Contents__  __.—__ 
 
         The regulations issued under this section shall include, at a minimum—
 
@@ -63,35 +63,35 @@
 
             (N) a procedure under which motor carriers, drivers and intermodal equipment providers may seek correction of their motor carrier safety records through the deletion from those records of violations of safety regulations attributable to deficiencies in the intermodal chassis or trailer for which they should not have been held responsible.
 
-    (b) __Inspection, Repair, and Maintenance of Intermodal Equipment.—__ 
+    (b)  __Inspection, Repair, and Maintenance of Intermodal Equipment__  __.—__ 
 
     The Secretary or an employee of the Department of Transportation designated by the Secretary may inspect intermodal equipment, and copy related maintenance and repair records for such equipment, on demand and display of proper credentials.
 
-    (c) __Out-of-Service Until Repair.—__ 
+    (c)  __Out-of-Service Until Repair__  __.—__ 
 
     Any intermodal equipment that is determined under this section to fail to comply with applicable Federal safety regulations may be placed out of service by the Secretary or a Federal, State, or government official designated by the Secretary and may not be used on a public highway until the repairs necessary to bring such equipment into compliance have been completed. Repairs of equipment taken out of service shall be documented in the maintenance records for such equipment.
 
-    (d) __Preemption Generally.—__ 
+    (d)  __Preemption Generally__  __.—__ 
 
     Except as provided in subsection (e), a law, regulation, order, or other requirement of a State, a political subdivision of a State, or a tribal organization relating to commercial motor vehicle safety is preempted if such law, regulation, order, or other requirement exceeds or is inconsistent with a requirement imposed under or pursuant to this section.
 
     (e) __Pre-Existing State Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), a State requirement for the periodic inspection of intermodal chassis by intermodal equipment providers that was in effect on January 1, 2005, shall remain in effect only until the date on which requirements prescribed under this section take effect.
 
         (2) __Nonpreemption determinations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding subsection (d), a State requirement described in paragraph (1) is not preempted by a Federal requirement prescribed under this section if the Secretary determines that the State requirement is as effective as the Federal requirement and does not unduly burden interstate commerce.
 
-            (B) __Application required.—__ 
+            (B)  __Application required__  __.—__ 
 
             Subparagraph (A) applies to a State requirement only if the State applies to the Secretary for a determination under this paragraph with respect to the requirement before the date on which the regulations issued under this section take effect. The Secretary shall make a determination with respect to any such application within 6 months after the date on which the Secretary receives the application.
 
-            (C) __Amended state requirements.—__ 
+            (C)  __Amended state requirements__  __.—__ 
 
             Any amendment to a State requirement not preempted under this subsection because of a determination by the Secretary under subparagraph (A) may not take effect unless—
 
@@ -99,23 +99,23 @@
 
                 (ii) the Secretary determines that the amendment would not cause the State requirement to be less effective than the Federal requirement and would not unduly burden interstate commerce.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Intermodal equipment.—__ 
+        (1)  __Intermodal equipment__  __.—__ 
 
         The term “intermodal equipment” means trailing equipment that is used in the intermodal transportation of containers over public highways in interstate commerce, including trailers and chassis.
 
-        (2) __Intermodal equipment interchange agreement.—__ 
+        (2)  __Intermodal equipment interchange agreement__  __.—__ 
 
         The term “intermodal equipment interchange agreement” means the Uniform Intermodal Interchange and Facilities Access Agreement or any other written document executed by an intermodal equipment provider or its agent and a motor carrier or its agent, the primary purpose of which is to establish the responsibilities and liabilities of both parties with respect to the interchange of the intermodal equipment.
 
-        (3) __Intermodal equipment provider.—__ 
+        (3)  __Intermodal equipment provider__  __.—__ 
 
         The term “intermodal equipment provider” means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
 
-        (4) __Interchange.—__ 
+        (4)  __Interchange__  __.—__ 
 
         The term “interchange”—
 

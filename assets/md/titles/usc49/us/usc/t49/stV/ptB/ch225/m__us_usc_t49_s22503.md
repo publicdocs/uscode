@@ -15,11 +15,11 @@
 
 ## § 22503. Standards for awarding grants
 
-    (a) __Section 22501(1) Grants.—__ 
+    (a)  __Section__  __22501(1)__  __Grants__  __.—__ 
 
     The Secretary shall provide grants under section 22501(1) based upon the merits of the proposed program of activities provided by the State and upon a determination of where the grants will provide the greatest safety benefits. The Secretary may give priority to States that have developed and implemented a State grade crossing action plan, as described under section 202 of the Rail Safety Improvement Act of 2008.
 
-    (b) __Section 22501(2) Grants.—__ 
+    (b)  __Section__  __22501(2)__  __Grants__  __.—__ 
 
     The Secretary shall provide grants to State and local governments under section 22501(2) to provide priority grade crossing safety improvements on an expedited basis at a location where there has been a highway-rail grade crossing collision within the previous two years involving major loss of life or multiple serious bodily injuries.
 

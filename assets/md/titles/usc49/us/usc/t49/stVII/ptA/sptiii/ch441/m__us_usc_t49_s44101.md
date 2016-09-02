@@ -15,11 +15,11 @@
 
 ## § 44101. Operation of aircraft
 
-    (a) __Registration Requirement.—__ 
+    (a)  __Registration Requirement__  __.—__ 
 
     Except as provided in subsection (b) of this section, a person may operate an aircraft only when the aircraft is registered under [section 44103 of this title][/us/usc/t49/s44103].
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     A person may operate an aircraft in the United States that is not registered—
 
@@ -125,11 +125,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
 [Pub. L. 108–297, § 4][/us/pl/108/297/s4], Aug. 9, 2004, [118 Stat. 1096][/us/stat/118/1096], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall issue regulations necessary to carry out this Act \[see Short Title of 2004 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\], including any amendments made by this Act.
 
->     “(b) __Contents of Regulations.—__ 
+>     “(b)  __Contents of Regulations__  __.—__ 
 
 >     Regulations to be issued under this Act shall specify, at a minimum, the requirements for—
 
@@ -139,19 +139,19 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
 >     “(c) __Expedited Rulemaking Process.—__ 
 
->         “(1) __Final rule.—__ 
+>         “(1)  __Final rule__  __.—__ 
 
 >         The Administrator shall issue regulations under this section by publishing a final rule by December 31, 2004.
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         The final rule shall not be effective before the date the Cape Town Treaty enters into force with respect to the United States \[Mar. 1, 2006, see Effective Date of 2004 Amendment note above\].
 
->         “(3) __Economic analysis.—__ 
+>         “(3)  __Economic analysis__  __.—__ 
 
 >         The Administrator shall not be required to prepare an economic analysis of the cost and benefits of the final rule.
 
->     “(d) __Applicability of Treaty.—__ 
+>     “(d)  __Applicability of Treaty__  __.—__ 
 
 >     Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Code of Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004.”
 
@@ -159,7 +159,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
 [Pub. L. 108–297, § 2][/us/pl/108/297/s2], Aug. 9, 2004, [118 Stat. 1095][/us/stat/118/1095], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -175,7 +175,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub.
 
 >         “(6) The United States Government was a leader in the development of the Cape Town Treaty.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     Accordingly, the purpose of this Act \[see Short Title of 2004 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\] is to provide for the implementation of the Cape Town Treaty in the United States by making certain technical amendments to the provisions of chapter 441 of title 49, United States Code, directing the Federal Aviation Administration to complete the necessary rulemaking processes as expeditiously as possible, and clarifying the applicability of the Treaty during the rulemaking process.”
 

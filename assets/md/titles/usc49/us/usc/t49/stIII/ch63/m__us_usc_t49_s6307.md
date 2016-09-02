@@ -15,13 +15,13 @@
 
 ## § 6307. Furnishing of information, data, or reports by Federal agencies
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), a Federal agency requested to furnish information, data, or reports by the Director under section 6302(b)(3)(B) shall provide the information to the Director.
 
     (b) __Prohibition on Certain Disclosures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An officer, employee, or contractor of the Bureau may not—
 
@@ -33,11 +33,11 @@
 
         (2) __Copies of reports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) with the Bureau or retained by an individual respondent.
 
-            (B) __Limitation on judicial proceedings.—__ 
+            (B)  __Limitation on judicial proceedings__  __.—__ 
 
             A copy of a report described in subparagraph (A) that has been retained by an individual respondent or filed with the Bureau or any of the employees, contractors, or agents of the Bureau—
 
@@ -45,15 +45,15 @@
 
                 (ii) shall not, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceedings.
 
-            (C) __Applicability.—__ 
+            (C)  __Applicability__  __.—__ 
 
             This paragraph shall apply only to reports that permit information concerning an individual or organization to be reasonably determined by direct or indirect means.
 
-        (3) __Informing respondent of use of data.—__ 
+        (3)  __Informing respondent of use of data__  __.—__ 
 
         If the Bureau is authorized by statute to collect data or information for a nonstatistical purpose, the Director shall clearly distinguish the collection of the data or information, by rule and on the collection instrument, in a manner that informs the respondent who is requested or required to supply the data or information of the nonstatistical purpose.
 
-    (c) __Transportation and Transportation-related Data Access.—__ 
+    (c)  __Transportation and Transportation-related Data Access__  __.—__ 
 
     The Director shall be provided access to any transportation and transportation-related information in the possession of any Federal agency, except—
 

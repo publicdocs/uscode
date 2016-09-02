@@ -15,7 +15,7 @@
 
 ## § 80103. Negotiable and nonnegotiable bills
 
-    (a) __Negotiable Bills.—__ 
+    (a)  __Negotiable Bills__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) is not notice to the purchaser of the goods of a right the named person has to the goods.
 
-    (b) __Nonnegotiable Bills.—__ 
+    (b)  __Nonnegotiable Bills__  __.—__ 
 
         (1)
 

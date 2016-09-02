@@ -15,7 +15,7 @@
 
 ## § 33114. Prohibited acts
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A person may not—
 
@@ -37,7 +37,7 @@
 
             (C) transport a passenger motor vehicle or passenger motor vehicle part to or from a chop shop.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     Subsection (a)(1) of this section does not apply to a person establishing that in the exercise of reasonable care the person did not have reason to know that the motor vehicle or major replacement part was not in conformity with the standard.
 

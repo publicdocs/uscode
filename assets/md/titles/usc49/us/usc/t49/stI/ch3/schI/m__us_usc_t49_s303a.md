@@ -15,7 +15,7 @@
 
 ## § 303a. Development of water transportation
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     It is the policy of Congress—
 
@@ -23,11 +23,11 @@
 
         (2) to foster and preserve rail and water transportation.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, “inland waterway” includes the Great Lakes.
 
-    (c) __Requirements.—__ 
+    (c)  __Requirements__  __.—__ 
 
     The Secretary of Transportation shall—
 

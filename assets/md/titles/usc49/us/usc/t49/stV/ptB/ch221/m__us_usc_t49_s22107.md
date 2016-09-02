@@ -15,7 +15,7 @@
 
 ## § 22107. Records, audits, and information
 
-    (a) __Records.—__ 
+    (a)  __Records__  __.—__ 
 
     Each recipient of financial assistance through an arrangement under this chapter shall keep records required by the Secretary of Transportation. The records shall be kept for 3 years after a project is completed and shall disclose—
 
@@ -27,15 +27,15 @@
 
         (4) any other records that will make an effective audit easier.
 
-    (b) __Audits.—__ 
+    (b)  __Audits__  __.—__ 
 
     The Secretary shall make regular financial and performance audits, as provided under chapter 75 of title 31, of activities and transactions assisted under this chapter.
 
-    (c) __Information.—__ 
+    (c)  __Information__  __.—__ 
 
     The Surface Transportation Board shall provide the Secretary with information the Secretary requests to assist in carrying out this chapter. The Board shall provide the information not later than 30 days after receiving a request from the Secretary.
 
-    (d) __List of Rail Lines.—__ 
+    (d)  __List of Rail Lines__  __.—__ 
 
     Not later than August 1 of each year, each rail carrier subject to part A of subtitle IV of this title shall submit to the Secretary a list of the rail lines of the carrier that carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 

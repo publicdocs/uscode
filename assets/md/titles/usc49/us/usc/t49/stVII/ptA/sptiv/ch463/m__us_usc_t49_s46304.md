@@ -15,15 +15,15 @@
 
 ## § 46304. Liens on aircraft
 
-    (a) __Aircraft Subject to Liens.—__ 
+    (a)  __Aircraft Subject to Liens__  __.—__ 
 
     When an aircraft is involved in a violation referred to in section 46301(a)(1)(A)–(C) of this title and the violation is by the owner of, or individual commanding, the aircraft, the aircraft is subject to a lien for the civil penalty.
 
-    (b) __Seizure.—__ 
+    (b)  __Seizure__  __.—__ 
 
     An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
 
-    (c) __Release.—__ 
+    (c)  __Release__  __.—__ 
 
     An aircraft seized under subsection (b) of this section shall be released from custody when—
 

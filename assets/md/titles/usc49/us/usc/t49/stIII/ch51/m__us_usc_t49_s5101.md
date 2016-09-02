@@ -133,7 +133,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 102, 88 Stat. 2156.  </td>
 
 [Pub. L. 103–311, title I, § 123][/us/pl/103/311/s123], Aug. 26, 1994, [108 Stat. 1682][/us/stat/108/1682], provided that:
 
->     “(a) __Compliance With Buy American Act.—__ 
+>     “(a)  __Compliance With Buy American Act__  __.—__ 
 
 >     None of the funds made available under this title \[see Short Title of 1994 Amendment note above\] may be expended in violation of sections 2 through 4 of the Act of March 3, 1933 (\[former\] [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c]; popularly known as the ‘Buy American Act’ \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\]), which are applicable to those funds.
 
@@ -143,7 +143,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 102, 88 Stat. 2156.  </td>
 
 >         “(2) In providing financial assistance under this title, the Secretary of Transportation shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
 
->     “(c) __Prohibition of Contracts.—__ 
+>     “(c)  __Prohibition of Contracts__  __.—__ 
 
 >     If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contract or subcontract made with funds provided pursuant to this title, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
 

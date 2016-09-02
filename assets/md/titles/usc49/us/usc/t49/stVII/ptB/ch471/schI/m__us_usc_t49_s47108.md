@@ -15,11 +15,11 @@
 
 ## § 47108. Project grant agreements
 
-    (a) __Offer and Acceptance.—__ 
+    (a)  __Offer and Acceptance__  __.—__ 
 
     On approving a project grant application under this subchapter, the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government’s share of the project costs allowable under [section 47110 of this title][/us/usc/t49/s47110]. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) or 47114(d)(3)(A) of this title for the fiscal years necessary to pay the Government’s share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
 
-    (b) __Increasing Government’s Share Under This Subchapter or Chapter 475.—__ 
+    (b)  __Increasing Government’s Share Under This Subchapter or Chapter__  __475.—__ 
 
         (1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only as provided in paragraphs (2) and (3) of this subsection.
 
@@ -49,25 +49,25 @@
 
                 (ii) 25 percent of the total increase in allowable project costs attributable to acquiring an interest in land.
 
-    (c) __Increasing Government’s Share Under Airport and Airway Development Act of 1970.—__ 
+    (c)  __Increasing Government’s Share Under Airport and Airway Development Act of__  __1970.—__ 
 
     For a project receiving assistance under a grant made under the Airport and Airway Development Act of 1970, the maximum amount the Government will pay may be increased by not more than 10 percent. An increase under this subsection may be paid only from amounts the Government recovers from other grants made under the Act.
 
-    (d) __Changing Workscope.—__ 
+    (d)  __Changing Workscope__  __.—__ 
 
     With the consent of the sponsor, the Secretary may amend a grant agreement made under this subchapter to change the workscope of a project financed under the grant if the amendment does not result in an increase in the maximum amount the Government may pay under subsection (b) of this section.
 
     (e) __Change in Airport Status.—__ 
 
-        (1) __Changes to nonprimary airport status.—__ 
+        (1)  __Changes to nonprimary airport status__  __.—__ 
 
         If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
 
-        (2) __Changes to noncommercial service airport status.—__ 
+        (2)  __Changes to noncommercial service airport status__  __.—__ 
 
         If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the arrangement subject to the availability of funds.
 
-        (3) __Changes to nonhub primary status.—__ 
+        (3)  __Changes to nonhub primary status__  __.—__ 
 
         If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47119(a), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47119(a). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
 

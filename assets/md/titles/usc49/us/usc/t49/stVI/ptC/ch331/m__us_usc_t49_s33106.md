@@ -15,7 +15,7 @@
 
 ## § 33106. Exemption for passenger motor vehicles equipped with anti-theft devices
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -31,7 +31,7 @@
 
         (2) “standard equipment” means equipment already installed in a motor vehicle when it is delivered from the manufacturer and not an accessory or other item that the first purchaser customarily has the option to have installed.
 
-    (b) __Granting Exemptions and Limitations.—__ 
+    (b)  __Granting Exemptions and Limitations__  __.—__ 
 
         (1) A manufacturer may petition the Secretary of Transportation for an exemption from a requirement of a standard prescribed under section 33102 or 33103 of this title for a line of passenger motor vehicles equipped as standard equipment with an anti-theft device that the Secretary decides is likely to be as effective in reducing and deterring motor vehicle theft as compliance with the standard.
 
@@ -49,7 +49,7 @@
 
         (3) An additional exemption granted under paragraph (2)(B) or (C) of this subsection does not affect an exemption previously granted.
 
-    (c) __Petitioning Procedure.—__ 
+    (c)  __Petitioning Procedure__  __.—__ 
 
     A petition must be filed not later than 8 months before the start of production for the first model year covered by the petition. The petition must include—
 
@@ -59,11 +59,11 @@
 
         (3) additional information the Secretary reasonably may require to make the decision described in subsection (b)(1) of this section.
 
-    (d) __Decisions and Approvals.—__ 
+    (d)  __Decisions and Approvals__  __.—__ 
 
     The Secretary shall make a decision about a petition filed under this section not later than 120 days after the date the petition is filed. A decision approving a petition must be based on substantial evidence. The Secretary may approve a petition in whole or in part. If the Secretary does not make a decision within the 120-day period, the petition shall be deemed to be approved and the manufacturer shall be exempt from the standard for the line covered by the petition for the subsequent model year.
 
-    (e) __Rescissions.—__ 
+    (e)  __Rescissions__  __.—__ 
 
     The Secretary may rescind an exemption if the Secretary decides that the anti-theft device has not been as effective in reducing and deterring motor vehicle theft as compliance with the standard. A rescission may be effective only—
 

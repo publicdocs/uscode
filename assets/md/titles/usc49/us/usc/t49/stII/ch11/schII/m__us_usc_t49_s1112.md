@@ -15,7 +15,7 @@
 
 ## § 1112. Special boards of inquiry on air transportation safety
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     If an accident involves a substantial question about public safety in air transportation, the National Transportation Safety Board may establish a special board of inquiry composed of—
 
@@ -23,11 +23,11 @@
 
         (2) 2 members representing the public, appointed by the President on notification of the establishment of the special board of inquiry.
 
-    (b) __Qualifications and Conflicts of Interest.—__ 
+    (b)  __Qualifications and Conflicts of Interest__  __.—__ 
 
     The public members of a special board of inquiry must be qualified by training and experience to participate in the inquiry and may not have a pecuniary interest in an aviation enterprise involved in the accident to be investigated.
 
-    (c) __Authority.—__ 
+    (c)  __Authority__  __.—__ 
 
     A special board of inquiry has the same authority that the Board has under this chapter.
 

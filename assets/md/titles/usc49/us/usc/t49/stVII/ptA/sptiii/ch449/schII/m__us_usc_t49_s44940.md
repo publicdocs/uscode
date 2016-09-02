@@ -17,7 +17,7 @@
 
     (a) __General Authority.—__ 
 
-        (1) __Passenger fees.—__ 
+        (1)  __Passenger fees__  __.—__ 
 
         The Under Secretary of Transportation for Security shall impose a uniform fee, on passengers of air carriers and foreign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
 
@@ -43,85 +43,85 @@
 
         (2) __Air carrier fees.—__ 
 
-            (A) __Authority.—__ 
+            (A)  __Authority__  __.—__ 
 
             In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
 
             (B) __Limitations.—__ 
 
-                (i) __Overall limit.—__ 
+                (i)  __Overall limit__  __.—__ 
 
                 The amounts of fees collected under this paragraph for each fiscal year may not exceed, in the aggregate, the amounts paid in calendar year 2000 by carriers described in subparagraph (A) for screening passengers and property, as determined by the Under Secretary.
 
-                (ii) __Per-carrier limit.—__ 
+                (ii)  __Per-carrier limit__  __.—__ 
 
                 The amount of fees collected under this paragraph from an air carrier described in subparagraph (A) for each of fiscal years 2002, 2003, and 2004 may not exceed the amount paid in calendar year 2000 by that carrier for screening passengers and property, as determined by the Under Secretary.
 
-                (iii) __Adjustment of per-carrier limit.—__ 
+                (iii)  __Adjustment of per-carrier limit__  __.—__ 
 
                 For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
 
-                (iv) __Finality of determinations.—__ 
+                (iv)  __Finality of determinations__  __.—__ 
 
                 Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
 
-            (C) __Special rule for fiscal year 2002.—__ 
+            (C)  __Special rule for fiscal year 2002__  __.—__ 
 
             The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
 
-    (b) __Schedule of Fees.—__ 
+    (b)  __Schedule of Fees__  __.—__ 
 
     In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
 
-    (c) __Limitation on Fee.—__ 
+    (c)  __Limitation on Fee__  __.—__ 
 
     Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.
 
     (d) __Imposition of Fee.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding [section 9701 of title 31][/us/usc/t31/s9701] and the procedural requirements of [section 553 of title 5][/us/usc/t5/s553], the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
 
-        (2) __Special rules passenger fees.—__ 
+        (2)  __Special rules passenger fees__  __.—__ 
 
         A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
-        (3) __Subsequent modification of fee.—__ 
+        (3)  __Subsequent modification of fee__  __.—__ 
 
         After imposing a fee in accordance with paragraph (1), the Under Secretary may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
 
-        (4) __Limitation on collection.—__ 
+        (4)  __Limitation on collection__  __.—__ 
 
         No fee may be collected under this section, other than subsection (i), except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
 
     (e) __Administration of Fees.—__ 
 
-        (1) __Fees payable to under secretary.—__ 
+        (1)  __Fees payable to under secretary__  __.—__ 
 
         All fees imposed and amounts collected under this section are payable to the Under Secretary.
 
-        (2) __Fees collected by air carrier.—__ 
+        (2)  __Fees collected by air carrier__  __.—__ 
 
         A fee imposed under subsection (a)(1) shall be collected by the air carrier or foreign air carrier that sells a ticket for transportation described in subsection (a)(1).
 
-        (3) __Due date for remittance.—__ 
+        (3)  __Due date for remittance__  __.—__ 
 
         A fee collected under this section shall be remitted on the last day of each calendar month by the carrier collecting the fee. The amount to be remitted shall be for the calendar month preceding the calendar month in which the remittance is made.
 
-        (4) __Information.—__ 
+        (4)  __Information__  __.—__ 
 
         The Under Secretary may require the provision of such information as the Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
 
-        (5) __Fee not subject to tax.—__ 
+        (5)  __Fee not subject to tax__  __.—__ 
 
         For purposes of section 4261 of the Internal Revenue Code of 1986 ([26 U.S.C. 4261][/us/usc/t26/s4261]), a fee imposed under this section shall not be considered to be part of the amount paid for taxable transportation.
 
-        (6) __Cost of collecting fee.—__ 
+        (6)  __Cost of collecting fee__  __.—__ 
 
         No portion of the fee collected under this section may be retained by the air carrier or foreign air carrier for the costs of collecting, handling, or remitting the fee except for interest accruing to the carrier after collection and before remittance.
 
-    (f) __Receipts Credited as Offsetting Collections.—__ 
+    (f)  __Receipts Credited as Offsetting Collections__  __.—__ 
 
     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any fee collected under this section—
 
@@ -131,29 +131,29 @@
 
         (3) shall remain available until expended.
 
-    (g) __Refunds.—__ 
+    (g)  __Refunds__  __.—__ 
 
     The Under Secretary may refund any fee paid by mistake or any amount paid in excess of that required.
 
-    (h) __Exemptions.—__ 
+    (h)  __Exemptions__  __.—__ 
 
     The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
     (i) __Checkpoint Screening Security Fund.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
 
-        (2) __Deposits.—__ 
+        (2)  __Deposits__  __.—__ 
 
         In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
 
-        (3) __Fees.—__ 
+        (3)  __Fees__  __.—__ 
 
         The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
 
-        (4) __Availability of amounts.—__ 
+        (4)  __Availability of amounts__  __.—__ 
 
         Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
 

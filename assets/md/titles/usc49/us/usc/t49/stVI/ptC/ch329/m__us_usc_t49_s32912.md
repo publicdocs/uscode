@@ -15,11 +15,11 @@
 
 ## § 32912. Civil penalties
 
-    (a) __General Penalty.—__ 
+    (a)  __General Penalty__  __.—__ 
 
     A person that violates [section 32911(a) of this title][/us/usc/t49/s32911/a] is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
-    (b) __Penalty for Manufacturer Violations of Fuel Economy Standards.—__ 
+    (b)  __Penalty for Manufacturer Violations of Fuel Economy Standards__  __.—__ 
 
     Except as provided in subsection (c) of this section, a manufacturer that violates a standard prescribed for a model year under [section 32902 of this title][/us/usc/t49/s32902] is liable to the Government for a civil penalty of $5 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy—
 
@@ -29,7 +29,7 @@
 
         (3) reduced by the credits available to the manufacturer under [section 32903 of this title][/us/usc/t49/s32903] for the model year.
 
-    (c) __Higher Penalty Amounts.—__ 
+    (c)  __Higher Penalty Amounts__  __.—__ 
 
         (1)
 
@@ -77,11 +77,11 @@
 
             (B) decided by the Secretary to be confidential under section 11(d) of the Energy Supply and Environmental Coordination Act of 1974 ([15 U.S.C. 796(d)][/us/usc/t15/s796/d]).
 
-    (d) __Written Notice Requirement.—__ 
+    (d)  __Written Notice Requirement__  __.—__ 
 
     The Secretary shall impose a penalty under this section by written notice.
 
-    (e) __Use of Civil Penalties.—__ 
+    (e)  __Use of Civil Penalties__  __.—__ 
 
     For fiscal year 2008 and each fiscal year thereafter, from the total amount deposited in the general fund of the Treasury during the preceding fiscal year from fines, penalties, and other funds obtained through enforcement actions conducted pursuant to this section (including funds obtained under consent decrees), the Secretary of the Treasury, subject to the availability of appropriations, shall—
 

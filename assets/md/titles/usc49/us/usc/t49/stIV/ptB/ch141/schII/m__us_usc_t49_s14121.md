@@ -17,11 +17,11 @@
 
     In this subchapter, the following definitions apply:
 
-    (1) __Carrier and broker.—__ 
+    (1)  __Carrier and broker__  __.—__ 
 
     The terms “carrier” and “broker” include a receiver or trustee of a carrier and broker, respectively.
 
-    (2) __Association.—__ 
+    (2)  __Association__  __.—__ 
 
     The term “association” means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs a service, or engages in activities, related to transportation under this part.
 

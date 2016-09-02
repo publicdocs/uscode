@@ -93,7 +93,7 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
 [Pub. L. 106–181, title VII, § 734][/us/pl/106/181/s734], Apr. 5, 2000, [114 Stat. 170][/us/stat/114/170], provided that:
 
->     “(a) __Establishment of Panel.—__ 
+>     “(a)  __Establishment of Panel__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\]—
 
@@ -101,7 +101,7 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
 >         “(2) may seek the advice of the panel on any issue related to methods to increase safety by improving the oversight of aircraft repair facilities.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The panel shall consist of—
 
@@ -129,7 +129,7 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
 >         “(4) one representative from the Federal Aviation Administration, designated by the Administrator.
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     The panel shall—
 
@@ -139,27 +139,27 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
 >     “(d) __DOT To Request Information From Air Carriers and Repair Facilities.—__ 
 
->         “(1) __Collection of information.—__ 
+>         “(1)  __Collection of information__  __.—__ 
 
 >         The Secretary, by regulation, shall require air carriers, foreign air carriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
 
->         “(2) __Drug and alcohol testing information.—__ 
+>         “(2)  __Drug and alcohol testing information__  __.—__ 
 
 >         Included in the information the Secretary requires under paragraph (1) shall be information on the existence and administration of employee drug and alcohol testing programs in place at the foreign repair facilities, if applicable. The Secretary, if necessary, shall work with the International Civil Aviation Organization to increase the number and improve the administration of employee drug and alcohol testing programs at the foreign repair facilities.
 
->         “(3) __Description of work done.—__ 
+>         “(3)  __Description of work done__  __.—__ 
 
 >         Included in the information the Secretary requires under paragraph (1) shall be information on the amount and type of work performed on aircraft registered in and outside of the United States.
 
->     “(e) __DOT To Facilitate Collection of Information About Aircraft Maintenance.—__ 
+>     “(e)  __DOT To Facilitate Collection of Information About Aircraft Maintenance__  __.—__ 
 
 >     The Secretary shall facilitate the collection of information from the National Transportation Safety Board, the Federal Aviation Administration, and other appropriate agencies regarding maintenance performed by aircraft repair facilities.
 
->     “(f) __DOT To Make Information Available to Public.—__ 
+>     “(f)  __DOT To Make Information Available to Public__  __.—__ 
 
 >     The Secretary shall make any relevant information received under subsection (d) available to the public, consistent with the authority to withhold trade secrets or commercial, financial, and other proprietary information under [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The panel established under subsection (a) shall terminate on the earlier of—
 
@@ -167,7 +167,7 @@ In this section, the word “Administrator” in section 607 (1st sentence) of t
 
 >         “(2) December 31, 2001.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     The definitions contained in [section 40102 of title 49][/us/usc/t49/s40102], United States Code, shall apply to this section.”
 

@@ -15,11 +15,11 @@
 
 ## § 15501. Standards for pipeline rates, classifications, through routes, rules, and practices
 
-    (a) __Reasonableness.—__ 
+    (a)  __Reasonableness__  __.—__ 
 
     A rate, classification, rule, or practice related to transportation or service provided by a pipeline carrier subject to this part must be reasonable. A through route established by such a carrier must be reasonable.
 
-    (b) __Nondiscrimination.—__ 
+    (b)  __Nondiscrimination__  __.—__ 
 
     A pipeline carrier providing transportation subject to this part may not discriminate in its rates against a connecting line of any other pipeline, rail, or water carrier providing transportation subject to this subtitle or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
 

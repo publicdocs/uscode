@@ -15,11 +15,11 @@
 
 ## § 44720. Meteorological services
 
-    (a) __Recommendations.—__ 
+    (a)  __Recommendations__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall make recommendations to the Secretary of Commerce on providing meteorological services necessary for the safe and efficient movement of aircraft in air commerce. In providing the services, the Secretary shall cooperate with the Administrator and give complete consideration to those recommendations.
 
-    (b) __Promoting Safety and Efficiency.—__ 
+    (b)  __Promoting Safety and Efficiency__  __.—__ 
 
     To promote safety and efficiency in air navigation to the highest possible degree, the Secretary shall—
 

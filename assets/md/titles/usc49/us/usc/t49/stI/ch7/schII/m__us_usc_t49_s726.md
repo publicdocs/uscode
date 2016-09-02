@@ -15,7 +15,7 @@
 
 ## § 726. Railroad-Shipper Transportation Advisory Council
 
-    (a) __Establishment; Membership.—__ 
+    (a)  __Establishment; Membership__  __.—__ 
 
     There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the “Council”) to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
 
@@ -41,7 +41,7 @@
 
         (5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercise significant decision-making authority in the Federal agency involved.
 
-    (b) __Term of Office.—__ 
+    (b)  __Term of Office__  __.—__ 
 
     The members of the Council shall be appointed for a term of office of 3 years, except that of the members first appointed—
 
@@ -51,11 +51,11 @@
 
         as designated by the Chairman at the time of appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office. Vacancies on the Council shall be filled in the same manner in which the original appointments were made. No member of the Council shall be eligible to serve in excess of two consecutive terms.
 
-    (c) __Election and Duties of Officers.—__ 
+    (c)  __Election and Duties of Officers__  __.—__ 
 
     The Council Chairman and Vice Chairman and other appropriate officers of the Council shall be elected by and from the voting members of the Council. The Council Chairman shall serve as the Council’s executive officer and shall direct the administration of the Council, assign officer and committee duties, and shall be responsible for issuing and communicating the reports, policy positions and statements of the Council. In the event that the Council Chairman is unable to serve, the Vice Chairman shall act as Council Chairman.
 
-    (d) __Expenses.—__ 
+    (d)  __Expenses__  __.—__ 
 
         (1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses for such individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
 
@@ -75,11 +75,11 @@
 
             (C) each Federal agency may, in its discretion, detail to temporary duty with the Council, such personnel as the Council Chairman may request for carrying out the functions of the Council, each such detail to be without loss of seniority, pay, or other employee status.
 
-    (e) __Meetings.—__ 
+    (e)  __Meetings__  __.—__ 
 
     The Council shall meet at least semi-annually and shall hold other meetings at the call of the Council Chairman. Appropriate Federal facilities, where available, may be used for such meetings. Whenever the Council, or a committee of the Council, considers matters that affect the jurisdictional interests of Federal agencies that are not represented on the Council, the Council Chairman may invite the heads of such agencies, or their designees, to participate in the deliberations of the Council.
 
-    (f) __Functions and Duties; Annual Report.—__ 
+    (f)  __Functions and Duties; Annual Report__  __.—__ 
 
         (1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues it considers significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
 

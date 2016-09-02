@@ -15,23 +15,23 @@
 
 ## § 46110. Judicial review
 
-    (a) __Filing and Venue.—__ 
+    (a)  __Filing and Venue__  __.—__ 
 
     Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation duties and powers designated to be carried out by the Administrator) in whole or in part under this part, part B, or subsection (l) or (s) of section 114 may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
 
-    (b) __Judicial Procedures.—__ 
+    (b)  __Judicial Procedures__  __.—__ 
 
     When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary, Under Secretary, or Administrator, as appropriate. The Secretary, Under Secretary, or Administrator shall file with the court a record of any proceeding in which the order was issued, as provided in [section 2112 of title 28][/us/usc/t28/s2112].
 
-    (c) __Authority of Court.—__ 
+    (c)  __Authority of Court__  __.—__ 
 
     When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
 
-    (d) __Requirement for Prior Objection.—__ 
+    (d)  __Requirement for Prior Objection__  __.—__ 
 
     In reviewing an order under this section, the court may consider an objection to an order of the Secretary, Under Secretary, or Administrator only if the objection was made in the proceeding conducted by the Secretary, Under Secretary, or Administrator or if there was a reasonable ground for not making the objection in the proceeding.
 
-    (e) __Supreme Court Review.—__ 
+    (e)  __Supreme Court Review__  __.—__ 
 
     A decision by a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254].
 

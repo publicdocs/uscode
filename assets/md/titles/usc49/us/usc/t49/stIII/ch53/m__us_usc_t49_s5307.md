@@ -17,7 +17,7 @@
 
     (a) __General Authority.—__ 
 
-        (1) __Grants.—__ 
+        (1)  __Grants__  __.—__ 
 
         The Secretary may make grants under this section for—
 
@@ -29,7 +29,7 @@
 
             (D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
 
-        (2) __Special rule.—__ 
+        (2)  __Special rule__  __.—__ 
 
         The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
@@ -37,7 +37,7 @@
 
             (B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
 
-    (b) __Program of Projects.—__ 
+    (b)  __Program of Projects__  __.—__ 
 
     Each recipient of a grant shall—
 
@@ -55,7 +55,7 @@
 
         (7) make the final program of projects available to the public.
 
-    (c) __Grant Recipient Requirements.—__ 
+    (c)  __Grant Recipient Requirements__  __.—__ 
 
     A recipient may receive a grant in a fiscal year only if—
 
@@ -109,15 +109,15 @@
 
     (d) __Government Share of Costs.—__ 
 
-        (1) __Capital projects.—__ 
+        (1)  __Capital projects__  __.—__ 
 
         A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
 
-        (2) __Operating expenses.—__ 
+        (2)  __Operating expenses__  __.—__ 
 
         A grant for operating expenses under this section may not exceed 50 percent of the net project cost of the project.
 
-        (3) __Remaining costs.—__ 
+        (3)  __Remaining costs__  __.—__ 
 
         Subject to paragraph (4), the remainder of the net project costs shall be provided—
 
@@ -131,13 +131,13 @@
 
             (E) from amounts received under a service agreement with a State or local social service agency or private social service organization.
 
-        (4) __Use of certain funds.—__ 
+        (4)  __Use of certain funds__  __.—__ 
 
         For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)][/us/usc/t42/s603/a/5/C/vii]) shall not apply to Federal or State funds to be used for transportation purposes.
 
     (e) __Undertaking Projects in Advance.—__ 
 
-        (1) __Payment.—__ 
+        (1)  __Payment__  __.—__ 
 
         The Secretary may pay the Government share of the net project cost to a State or local governmental authority that carries out any part of a project eligible under subparagraph (A) or (B) of subsection (a)(1) without the aid of amounts of the Government and according to all applicable procedures and requirements if—
 
@@ -147,7 +147,7 @@
 
             (C) before carrying out any part of the project, the Secretary approves the plans and specifications for the part in the same way as for other projects under this section.
 
-        (2) __Approval of application.—__ 
+        (2)  __Approval of application__  __.—__ 
 
         The Secretary may approve an application under paragraph (1) of this subsection only if an authorization for this section is in effect for the fiscal year to which the application applies. The Secretary may not approve an application if the payment will be more than—
 
@@ -157,15 +157,15 @@
 
         (3) __Financing costs.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The cost of carrying out part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended in carrying out the part.
 
-            (B) __Limitation on the amount of interest.—__ 
+            (B)  __Limitation on the amount of interest__  __.—__ 
 
             The amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing.
 
-            (C) __Certification.—__ 
+            (C)  __Certification__  __.—__ 
 
             The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
@@ -173,7 +173,7 @@
 
         (1) __Annual review.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
 
@@ -181,33 +181,33 @@
 
                 (ii) those activities and its certifications and has used amounts of the Government in the way required by law.
 
-            (B) __Auditing procedures.—__ 
+            (B)  __Auditing procedures__  __.—__ 
 
             An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
 
-        (2) __Triennial review.—__ 
+        (2)  __Triennial review__  __.—__ 
 
         At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient’s program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
 
-        (3) __Actions resulting from review, audit, or evaluation.—__ 
+        (3)  __Actions resulting from review, audit, or evaluation__  __.—__ 
 
         The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
 
-    (g) __Treatment.—__ 
+    (g)  __Treatment__  __.—__ 
 
     For purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
 
     (h) __Passenger Ferry Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make grants under this subsection to recipients for passenger ferry projects that are eligible for a grant under subsection (a).
 
-        (2) __Grant requirements.—__ 
+        (2)  __Grant requirements__  __.—__ 
 
         Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (a).
 
-        (3) __Competitive process.—__ 
+        (3)  __Competitive process__  __.—__ 
 
         The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
 

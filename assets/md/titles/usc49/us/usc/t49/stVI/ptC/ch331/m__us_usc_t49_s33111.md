@@ -15,7 +15,7 @@
 
 ## § 33111. Verifications involving motor vehicle major parts
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     A person engaged in the business of salvaging, dismantling, recycling, or repairing passenger motor vehicles may not knowingly sell in commerce or transfer or install a major part marked with an identification number without—
 
@@ -29,7 +29,7 @@
 
             (B) verifying that the major part has not been reported as stolen.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (2) A person described under paragraph (1)(C) of this subsection that subsequently transfers or sells in commerce the motor vehicle or a major part of the vehicle shall provide the verification received from the carrier to the person to whom the vehicle or part is transferred or sold.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
 

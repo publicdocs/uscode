@@ -15,11 +15,11 @@
 
 ## § 46107. Enforcement by the Attorney General
 
-    (a) __Civil Actions To Enforce Section 40106(b).—__ 
+    (a)  __Civil Actions To Enforce Section__  __40106(b).—__ 
 
     The Attorney General may bring a civil action in a district court of the United States against a person to enforce [section 40106(b) of this title][/us/usc/t49/s40106/b]. The action may be brought in the judicial district in which the person does business or the violation occurred.
 
-    (b) __Civil Actions To Enforce This Part.—__ 
+    (b)  __Civil Actions To Enforce This Part__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The costs and expenses of a civil action shall be paid out of the appropriations for the expenses of the courts of the United States.
 
-    (c) __Participation of Secretary, Under Secretary, or Administrator.—__ 
+    (c)  __Participation of Secretary, Under Secretary, or Administrator__  __.—__ 
 
     On request of the Attorney General, the Secretary, Under Secretary, or Administrator, as appropriate, may participate in a civil action under this part.
 

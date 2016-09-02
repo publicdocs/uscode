@@ -15,7 +15,7 @@
 
 ## § 32506. Prohibited acts
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as provided in this section and [section 32502 of this title][/us/usc/t49/s32502], a person may not—
 
@@ -27,7 +27,7 @@
 
         (4) fail to provide the certificate required by [section 32504 of this title][/us/usc/t49/s32504], or provide a certificate that the person knows, or in the exercise of reasonable care has reason to know, is false or misleading in a material respect.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     Subsection (a)(1) of this section does not apply to—
 
@@ -41,7 +41,7 @@
 
             (B) holding, without knowing about a noncompliance and before that first purchase, a certificate issued under [section 32504 of this title][/us/usc/t49/s32504] stating that the vehicle or equipment complies with the standard.
 
-    (c) __Importing Noncomplying Vehicles and Equipment.—__ 
+    (c)  __Importing Noncomplying Vehicles and Equipment__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) The Secretaries may prescribe joint regulations that allow a passenger motor vehicle or passenger motor vehicle equipment to be imported into the United States after the first purchase in good faith other than for resale.
 
-    (d) __Liability Under Other Law.—__ 
+    (d)  __Liability Under Other Law__  __.—__ 
 
     Compliance with a standard under this chapter does not exempt a person from liability provided by law.
 

@@ -15,11 +15,11 @@
 
 ## § 24316. Plans to address needs of families of passengers involved in rail passenger accidents
 
-    (a) __Submission of Plan.—__ 
+    (a)  __Submission of Plan__  __.—__ 
 
     Not later than 6 months after the date of the enactment of the Rail Safety Improvement Act of 2008, a rail passenger carrier shall submit to the Chairman of the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security a plan for addressing the needs of the families of passengers involved in any rail passenger accident involving a rail passenger carrier intercity train and resulting in a major loss of life.
 
-    (b) __Contents of Plans.—__ 
+    (b)  __Contents of Plans__  __.—__ 
 
     A plan to be submitted by a rail passenger carrier under subsection (a) shall include, at a minimum, the following:
 
@@ -51,29 +51,29 @@
 
         (11) An assurance that the rail passenger carrier will provide reasonable compensation to any organization designated under [section 1139(a)(2) of this title][/us/usc/t49/s1139/a/2] for services provided by the organization.
 
-    (c) __Use of Information.—__ 
+    (c)  __Use of Information__  __.—__ 
 
     Neither the National Transportation Safety Board, the Secretary of Transportation, the Secretary of Homeland Security, nor a rail passenger carrier may release to the public any personal information on a list obtained under subsection (b)(1), but may provide information on the list about a passenger to the passenger’s family members to the extent that the Board or a rail passenger carrier considers appropriate.
 
     (d) __Limitation on Statutory Construction.—__ 
 
-        (1) __Rail passenger carriers.—__ 
+        (1)  __Rail passenger carriers__  __.—__ 
 
         Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
 
-        (2) __Investigational authority of board and secretary.—__ 
+        (2)  __Investigational authority of board and secretary__  __.—__ 
 
         Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including the development of information regarding the nature of injuries sustained and the manner in which they were sustained, for the purpose of determining compliance with existing laws and regulations or identifying means of preventing similar injuries in the future.
 
-    (e) __Limitation on Liability.—__ 
+    (e)  __Limitation on Liability__  __.—__ 
 
     A rail passenger carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the rail passenger carrier in preparing or providing a passenger list, or in providing information concerning a train reservation, pursuant to a plan submitted by the rail passenger carrier under subsection (b), unless such liability was caused by conduct of the rail passenger carrier which was grossly negligent or which constituted intentional misconduct.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the terms “passenger” and “rail passenger accident” have the meaning given those terms by [section 1139 of this title][/us/usc/t49/s1139].
 
-    (g) __Funding.—__ 
+    (g)  __Funding__  __.—__ 
 
     Out of funds appropriated pursuant to section 20117(a)(1)(A), there shall be made available to the Secretary of Transportation $500,000 for fiscal year 2010 to carry out this section. Amounts made available pursuant to this subsection shall remain available until expended.
 

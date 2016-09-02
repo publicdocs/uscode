@@ -15,7 +15,7 @@
 
 ## § 31113. Width limitations
 
-    (a) __General Limitations.—__ 
+    (a)  __General Limitations__  __.—__ 
 
         (1)
 
@@ -31,19 +31,19 @@
 
         (3) A Federal-aid highway (except an interstate highway) not designated under this subsection on June 5, 1984, may be designated under this subsection only with the agreement of the chief executive officer of the State in which the highway is located.
 
-    (b) __Exclusion of Safety and Energy Conservation Devices.—__ 
+    (b)  __Exclusion of Safety and Energy Conservation Devices__  __.—__ 
 
     Width calculated under this section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle.
 
-    (c) __Special Use Permits.—__ 
+    (c)  __Special Use Permits__  __.—__ 
 
     A State may grant a special use permit to a commercial motor vehicle that is more than 102 inches in width.
 
-    (d) __State Enforcement.—__ 
+    (d)  __State Enforcement__  __.—__ 
 
     Consistent with this section, a State may enforce a commercial motor vehicle width limitation of 102 inches on a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (e) of this section) or other qualifying Federal-aid highway designated by the Secretary.
 
-    (e) __Exemptions.—__ 
+    (e)  __Exemptions__  __.—__ 
 
         (1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having the width provided in subsection (a) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from subsection (a) to allow the State to impose a width limitation of less than 102 inches for a vehicle (except a bus) on that segment.
 

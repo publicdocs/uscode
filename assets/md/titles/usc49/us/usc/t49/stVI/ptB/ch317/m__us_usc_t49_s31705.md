@@ -15,15 +15,15 @@
 
 ## § 31705. Fuel use tax
 
-    (a) __Reporting Requirements.—__ 
+    (a)  __Reporting Requirements__  __.—__ 
 
     After September 30, 1996, a State may establish, maintain, or enforce a law or regulation that has a fuel use tax reporting requirement (including any tax reporting form) only if the requirement conforms with the International Fuel Tax Agreement.
 
-    (b) __Payment.—__ 
+    (b)  __Payment__  __.—__ 
 
     After September 30, 1996, a State may establish, maintain, or enforce a law or regulation that provides for the payment of a fuel use tax only if the law or regulation conforms with the International Fuel Tax Agreement as it applies to collection of a fuel use tax by a single base State and proportional sharing of fuel use taxes charged among the States where a commercial motor vehicle is operated.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     If the International Fuel Tax Agreement is amended, a State not participating in the Agreement when the amendment is made is not subject to the conformity requirements of subsections (a) and (b) of this section in regard to the amendment until after a reasonable time, but not earlier than the expiration of—
 
@@ -31,7 +31,7 @@
 
         (2) the 365-day period beginning on the day the relevant office of the State receives written notice of the amendment from the Secretary of Transportation.
 
-    (d) __Nonapplication.—__ 
+    (d)  __Nonapplication__  __.—__ 
 
     This section does not apply to a State that was participating in the Regional Fuel Tax Agreement on January 1, 1991, and that continues to participate in that Agreement after that date.
 

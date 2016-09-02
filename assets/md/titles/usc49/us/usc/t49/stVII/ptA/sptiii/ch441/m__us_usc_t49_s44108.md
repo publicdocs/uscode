@@ -15,7 +15,7 @@
 
 ## § 44108. Validity of conveyances, leases, and security instruments
 
-    (a) __Validity Before Filing.—__ 
+    (a)  __Validity Before Filing__  __.—__ 
 
     Until a conveyance, lease, or instrument executed for security purposes that may be recorded under section 44107(a)(1) or (2) of this title is filed for recording, the conveyance, lease, or instrument is valid only against—
 
@@ -25,7 +25,7 @@
 
         (3) a person having actual notice of the conveyance, lease, or instrument.
 
-    (b) __Period of Validity.—__ 
+    (b)  __Period of Validity__  __.—__ 
 
     When a conveyance, lease, or instrument is recorded under [section 44107 of this title][/us/usc/t49/s44107], the conveyance, lease, or instrument is valid from the date of filing against all persons, without other recordation, except that—
 
@@ -33,13 +33,13 @@
 
         (2) a lease or instrument recorded under section 44107(a)(2)(C) or (D) of this title is valid only for items at the location designated in the lease or instrument.
 
-    (c) __Applicable Laws.—__ 
+    (c)  __Applicable Laws__  __.—__ 
 
         (1) The validity of a conveyance, lease, or instrument that may be recorded under [section 44107 of this title][/us/usc/t49/s44107] is subject to the laws of the State, the District of Columbia, or the territory or possession of the United States at which the conveyance, lease, or instrument is delivered, regardless of the place at which the subject of the conveyance, lease, or instrument is located or delivered. If the conveyance, lease, or instrument specifies the place at which delivery is intended, it is presumed that the conveyance, lease, or instrument was delivered at the specified place.
 
         (2) This subsection does not take precedence over the Convention on the International Recognition of Rights in Aircraft (4 U.S.T. 1830) or the Cape Town Treaty, as applicable.
 
-    (d) __Nonapplication.—__ 
+    (d)  __Nonapplication__  __.—__ 
 
     This section does not apply to—
 

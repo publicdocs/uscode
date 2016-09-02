@@ -15,7 +15,7 @@
 
 ## § 47105. Project grant applications
 
-    (a) __Submission and Consultation.—__ 
+    (a)  __Submission and Consultation__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (3) This subsection does not authorize a public agency that is subject to the laws of a State to apply for a project grant in violation of a law of the State.
 
-    (b) __Contents and Form.—__ 
+    (b)  __Contents and Form__  __.—__ 
 
     An application for a project grant under this subchapter—
 
@@ -49,19 +49,19 @@
 
         (4) shall be in the form and contain other information the Secretary prescribes.
 
-    (c) __State Standards for Airport Development.—__ 
+    (c)  __State Standards for Airport Development__  __.—__ 
 
     The Secretary may approve standards (except standards for safety of approaches) that a State prescribes for airport development at nonprimary public-use airports in the State. On approval under this subsection, a State’s standards apply to the nonprimary public-use airports in the State instead of the comparable standards prescribed by the Secretary under subsection (b)(3) of this section. The Secretary, or the State with the approval of the Secretary, may revise standards approved under this subsection.
 
-    (d) __Certification of Compliance.—__ 
+    (d)  __Certification of Compliance__  __.—__ 
 
     The Secretary may require a sponsor to certify that the sponsor will comply with this subchapter in carrying out the project. The Secretary may rescind the acceptance of a certification at any time. This subsection does not affect an obligation or responsibility of the Secretary under another law of the United States.
 
-    (e) __Preventive Maintenance.—__ 
+    (e)  __Preventive Maintenance__  __.—__ 
 
     After January 1, 1995, the Secretary may approve an application under this subchapter for the replacement or reconstruction of pavement at an airport only if the sponsor has provided such assurances or certifications as the Secretary may determine appropriate that such airport has implemented an effective airport pavement maintenance-management program. The Secretary may require such reports on pavement condition and pavement management programs as the Secretary determines may be useful.
 
-    (f) __Notification.—__ 
+    (f)  __Notification__  __.—__ 
 
     The sponsor of an airport for which an amount is apportioned under [section 47114(c) of this title][/us/usc/t49/s47114/c] shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
 

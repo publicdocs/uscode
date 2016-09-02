@@ -15,11 +15,11 @@
 
 ## § 32911. Compliance
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A person commits a violation if the person fails to comply with this chapter and regulations and standards prescribed and orders issued under this chapter (except sections 32902, 32903, 32908(b), 32917(b), and 32918 and regulations and standards prescribed and orders issued under those sections). The Secretary of Transportation shall conduct a proceeding, with an opportunity for a hearing on the record, to decide whether a person has committed a violation. Any interested person may participate in a proceeding under this subsection.
 
-    (b) __Automobile Manufacturers.—__ 
+    (b)  __Automobile Manufacturers__  __.—__ 
 
     A manufacturer of automobiles commits a violation if the manufacturer fails to comply with an applicable average fuel economy standard under [section 32902 of this title][/us/usc/t49/s32902]. Compliance is determined after considering credits available to the manufacturer under [section 32903 of this title][/us/usc/t49/s32903]. If average fuel economy calculations under [section 32904(c) of this title][/us/usc/t49/s32904/c] indicate that a manufacturer has violated this subsection, the Secretary shall conduct a proceeding, with an opportunity for a hearing on the record, to decide whether a violation has been committed. The Secretary may not conduct the proceeding if further measurements of fuel economy, further calculations of average fuel economy, or other information indicates a violation has not been committed. The results of the measurements and calculations and the information shall be published in the Federal Register. Any interested person may participate in a proceeding under this subsection.
 

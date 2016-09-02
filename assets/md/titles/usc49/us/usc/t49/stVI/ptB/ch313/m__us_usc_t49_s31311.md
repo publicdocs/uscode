@@ -15,7 +15,7 @@
 
 ## § 31311. Requirements for State participation
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     To avoid having amounts withheld from apportionment under [section 31314 of this title][/us/usc/t49/s31314], a State shall comply with the following requirements:
 
@@ -147,21 +147,21 @@
 
         (25) Not later than 5 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall establish and maintain, as part of its driver information system, the capability to receive an electronic copy of a medical examiner’s certificate, from a certified medical examiner, for each holder of a commercial driver’s license issued by the State who operates or intends to operate in interstate commerce.
 
-    (b) __State Satisfaction of Requirements.—__ 
+    (b)  __State Satisfaction of Requirements__  __.—__ 
 
     A State may satisfy the requirements of subsection (a) of this section that the State disqualify an individual from operating a commercial motor vehicle by revoking, suspending, or canceling the driver’s license issued to the individual.
 
-    (c) __Notification.—__ 
+    (c)  __Notification__  __.—__ 
 
     Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver’s license to an individual, the Secretary or the operator of the information system under [section 31309 of this title][/us/usc/t49/s31309], as the case may be, shall notify the State whether the individual has a commercial driver’s license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
     (d) __State Commercial Driver’s License Program Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A State shall submit a plan to the Secretary for complying with the requirements under this section during the period beginning on the date the plan is submitted and ending on September 30, 2016.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         A plan submitted by a State under paragraph (1) shall identify—
 
@@ -171,15 +171,15 @@
 
         (3) __Priority.—__ 
 
-            (A) __Implementation schedule.—__ 
+            (A)  __Implementation schedule__  __.—__ 
 
             A plan submitted by a State under paragraph (1) shall include a schedule for the implementation of the actions identified under paragraph (2). In establishing the schedule, the State shall prioritize actions to address any deficiencies highlighted by the Secretary as critical in the most recent audit of the program.
 
-            (B) __Deadline for compliance with requirements.—__ 
+            (B)  __Deadline for compliance with requirements__  __.—__ 
 
             A plan submitted by a State under paragraph (1) shall include assurances that the State will take the necessary actions to comply with the requirements of subsection (a) not later than September 30, 2015.
 
-        (4) __Approval and disapproval.—__ 
+        (4)  __Approval and disapproval__  __.—__ 
 
         The Secretary shall—
 
@@ -191,7 +191,7 @@
 
                 (ii) disapprove a plan that the Secretary determines does not meet the requirements or does not promote the goals.
 
-        (5) __Modification of disapproved plans.—__ 
+        (5)  __Modification of disapproved plans__  __.—__ 
 
         If the Secretary disapproves a plan under paragraph (4), the Secretary shall—
 
@@ -199,11 +199,11 @@
 
             (B) allow the State to modify the plan and resubmit it for approval.
 
-        (6) __Plan updates.—__ 
+        (6)  __Plan updates__  __.—__ 
 
         The Secretary may require a State to review and update a plan, as appropriate.
 
-    (e) __Annual Comparison of State Levels of Compliance.—__ 
+    (e)  __Annual Comparison of State Levels of Compliance__  __.—__ 
 
     The Secretary shall annually—
 
@@ -325,11 +325,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12009, 100 Stat. 3207–179; Dec. 18, 1991
 
 [Pub. L. 106–159, title II, § 221][/us/pl/106/159/s221], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
->     “(a) __Development.—__ 
+>     “(a)  __Development__  __.—__ 
 
 >     In cooperation with the States, the Secretary shall develop a uniform system to support the electronic transmission of data State-to-State on convictions for all motor vehicle traffic control law violations by individuals possessing a commercial drivers’ licenses as required by paragraphs (9) and (19) of [section 31311(a) of title 49][/us/usc/t49/s31311/a], United States Code.
 
->     “(b) __Status Report.—__ 
+>     “(b)  __Status Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section.”
 

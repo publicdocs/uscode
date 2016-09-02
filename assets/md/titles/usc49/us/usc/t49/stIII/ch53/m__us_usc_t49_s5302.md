@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided, in this chapter the following definitions apply:
 
-    (1) __Associated transit improvement.—__ 
+    (1)  __Associated transit improvement__  __.—__ 
 
     The term “associated transit improvement” means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are—
 
@@ -35,7 +35,7 @@
 
         (G) enhanced access for persons with disabilities to public transportation.
 
-    (2) __Bus rapid transit system.—__ 
+    (2)  __Bus rapid transit system__  __.—__ 
 
     The term “bus rapid transit system” means a bus transit system—
 
@@ -53,7 +53,7 @@
 
             (iv) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
 
-    (3) __Capital project.—__ 
+    (3)  __Capital project__  __.—__ 
 
     The term “capital project” means a project for—
 
@@ -141,7 +141,7 @@
 
             (ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used.
 
-    (4) __Designated recipient.—__ 
+    (4)  __Designated recipient__  __.—__ 
 
     The term “designated recipient” means—
 
@@ -149,11 +149,11 @@
 
         (B) a State or regional authority, if the authority is responsible under the laws of a State for a capital project and for financing and directly providing public transportation.
 
-    (5) __Disability.—__ 
+    (5)  __Disability__  __.—__ 
 
     The term “disability” has the same meaning as in section 3(1) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12102][/us/usc/t42/s12102]).
 
-    (6) __Emergency regulation.—__ 
+    (6)  __Emergency regulation__  __.—__ 
 
     The term “emergency regulation” means a regulation—
 
@@ -169,7 +169,7 @@
 
             (iii) would damage seriously a person or class without serving an important public interest.
 
-    (7) __Fixed guideway.—__ 
+    (7)  __Fixed guideway__  __.—__ 
 
     The term “fixed guideway” means a public transportation facility—
 
@@ -183,7 +183,7 @@
 
         (E) for a bus rapid transit system.
 
-    (8) __Governor.—__ 
+    (8)  __Governor__  __.—__ 
 
     The term “Governor”—
 
@@ -193,23 +193,23 @@
 
     (9) __Job access and reverse commute project.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “job access and reverse commute project” means a transportation project to finance planning, capital, and operating costs that support the development and maintenance of transportation services designed to transport welfare recipients and eligible low-income individuals to and from jobs and activities related to their employment, including transportation projects that facilitate the provision of public transportation services from urbanized areas and rural areas to suburban employment locations.
 
-        (B) __Definitions.—__ 
+        (B)  __Definitions__  __.—__ 
 
         In this paragraph:
 
-            (i) __Eligible low-income individual.—__ 
+            (i)  __Eligible low-income individual__  __.—__ 
 
             The term “eligible low-income individual” means an individual whose family income is at or below 150 percent of the poverty line (as that term is defined in section 673(2) of the Community Service Block Grant Act ([42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]), including any revision required by that section) for a family of the size involved.
 
-            (ii) __Welfare recipient.—__ 
+            (ii)  __Welfare recipient__  __.—__ 
 
             The term “welfare recipient” means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
 
-    (10) __Local governmental authority.—__ 
+    (10)  __Local governmental authority__  __.—__ 
 
     The term “local governmental authority” includes—
 
@@ -221,15 +221,15 @@
 
         (D) a public corporation, board, or commission established under the laws of a State.
 
-    (11) __Low-income individual.—__ 
+    (11)  __Low-income individual__  __.—__ 
 
     The term “low-income individual” means an individual whose family income is at or below 150 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]), including any revision required by that section, for a family of the size involved.
 
-    (12) __Net project cost.—__ 
+    (12)  __Net project cost__  __.—__ 
 
     The term “net project cost” means the part of a project that reasonably cannot be financed from revenues.
 
-    (13) __New bus model.—__ 
+    (13)  __New bus model__  __.—__ 
 
     The term “new bus model” means a bus model (including a model using alternative fuel)—
 
@@ -237,7 +237,7 @@
 
         (B) used in public transportation in the United States, but being produced with a major change in configuration or components.
 
-    (14) __Public transportation.—__ 
+    (14)  __Public transportation__  __.—__ 
 
     The term “public transportation”—
 
@@ -261,39 +261,39 @@
 
             (vii) intra-terminal or intra-facility shuttle services.
 
-    (15) __Regulation.—__ 
+    (15)  __Regulation__  __.—__ 
 
     The term “regulation” means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
 
-    (16) __Rural area.—__ 
+    (16)  __Rural area__  __.—__ 
 
     The term “rural area” means an area encompassing a population of less than 50,000 people that has not been designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
 
-    (17) __Secretary.—__ 
+    (17)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Transportation.
 
-    (18) __Senior.—__ 
+    (18)  __Senior__  __.—__ 
 
     The term “senior” means an individual who is 65 years of age or older.
 
-    (19) __State.—__ 
+    (19)  __State__  __.—__ 
 
     The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-    (20) __State of good repair.—__ 
+    (20)  __State of good repair__  __.—__ 
 
     The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
 
-    (21) __Transit.—__ 
+    (21)  __Transit__  __.—__ 
 
     The term “transit” means public transportation.
 
-    (22) __Urban area.—__ 
+    (22)  __Urban area__  __.—__ 
 
     The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
 
-    (23) __Urbanized area.—__ 
+    (23)  __Urbanized area__  __.—__ 
 
     The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
 

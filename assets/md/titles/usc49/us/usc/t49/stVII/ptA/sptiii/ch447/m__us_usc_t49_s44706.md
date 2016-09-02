@@ -15,7 +15,7 @@
 
 ## § 44706. Airport operating certificates
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall issue an airport operating certificate to a person desiring to operate an airport—
 
@@ -27,7 +27,7 @@
 
         if the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part.
 
-    (b) __Terms.—__ 
+    (b)  __Terms__  __.—__ 
 
     An airport operating certificate issued under this section shall contain terms necessary to ensure safety in air transportation. Unless the Administrator decides that it is not in the public interest, the terms shall include conditions related to—
 
@@ -35,19 +35,19 @@
 
         (2) friction treatment for primary and secondary runways that the Secretary of Transportation decides is necessary.
 
-    (c) __Exemptions.—__ 
+    (c)  __Exemptions__  __.—__ 
 
     The Administrator may exempt from the requirements of this section, related to firefighting and rescue equipment, an operator of an airport described in subsection (a) of this section having less than .25 percent of the total number of passenger boardings each year at all airports described in subsection (a) when the Administrator decides that the requirements are or would be unreasonably costly, burdensome, or impractical.
 
-    (d) __Commuter Airports.—__ 
+    (d)  __Commuter Airports__  __.—__ 
 
     In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
 
-    (e) __Effective Date.—__ 
+    (e)  __Effective Date__  __.—__ 
 
     Any regulation establishing the terms required by subsection (b) for airports covered by subsection (a)(2) shall not take effect until such regulation, and a report on the economic impact of the regulation on air service to the airports covered by the rule, has been submitted to Congress and 120 days have elapsed following the date of such submission.
 
-    (f) __Limitation on Statutory Construction.—__ 
+    (f)  __Limitation on Statutory Construction__  __.—__ 
 
     Nothing in this title may be construed as requiring a person to obtain an airport operating certificate if such person does not desire to operate an airport described in subsection (a).
 

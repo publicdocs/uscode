@@ -15,11 +15,11 @@
 
 ## § 1115. Training
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “Institute” means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
 
-    (b) __Use of Institute Services.—__ 
+    (b)  __Use of Institute Services__  __.—__ 
 
     The National Transportation Safety Board may use, on a reimbursable basis, the services of the Institute. The Secretary of Transportation shall make the Institute available to—
 
@@ -27,7 +27,7 @@
 
         (2) other safety personnel of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations the Board designates in consultation with the Secretary.
 
-    (c) __Fees.—__ 
+    (c)  __Fees__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
 
-    (d) __Training of board employees and others.—__ 
+    (d)  __Training of board employees and others__  __.—__ 
 
     The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
 

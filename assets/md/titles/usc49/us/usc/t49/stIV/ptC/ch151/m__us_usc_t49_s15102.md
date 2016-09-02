@@ -17,23 +17,23 @@
 
     In this part—
 
-    (1) __Board.—__ 
+    (1)  __Board__  __.—__ 
 
     The term “Board” means the Surface Transportation Board.
 
-    (2) __Pipeline carrier.—__ 
+    (2)  __Pipeline carrier__  __.—__ 
 
     The term “pipeline carrier” means a person providing pipeline transportation for compensation.
 
-    (3) __Rate.—__ 
+    (3)  __Rate__  __.—__ 
 
     The term “rate” means a rate or charge for transportation.
 
-    (4) __State.—__ 
+    (4)  __State__  __.—__ 
 
     The term “State” means a State of the United States and the District of Columbia.
 
-    (5) __Transportation.—__ 
+    (5)  __Transportation__  __.—__ 
 
     The term “transportation” includes—
 
@@ -41,7 +41,7 @@
 
         (B) services related to that movement, including receipt, delivery, transfer in transit, storage, handling, and interchange of property.
 
-    (6) __United states.—__ 
+    (6)  __United states__  __.—__ 
 
     The term “United States” means the States of the United States and the District of Columbia.
 

@@ -15,7 +15,7 @@
 
 ## § 14102. Leased motor vehicles
 
-    (a) __General Authority of Secretary.—__ 
+    (a)  __General Authority of Secretary__  __.—__ 
 
     The Secretary may require a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 that uses motor vehicles not owned by it to transport property under an arrangement with another party to—
 
@@ -27,7 +27,7 @@
 
         (4) have control of and be responsible for operating those motor vehicles in compliance with requirements prescribed by the Secretary on safety of operations and equipment, and with other applicable law as if the motor vehicles were owned by the motor carrier.
 
-    (b) __Responsible Party for Loading and Unloading.—__ 
+    (b)  __Responsible Party for Loading and Unloading__  __.—__ 
 
     The Secretary shall require, by regulation, that any arrangement, between a motor carrier of property providing transportation subject to jurisdiction under subchapter I of chapter 135 and any other person, under which such other person is to provide any portion of such transportation by a motor vehicle not owned by the carrier shall specify, in writing, who is responsible for loading and unloading the property onto and from the motor vehicle.
 

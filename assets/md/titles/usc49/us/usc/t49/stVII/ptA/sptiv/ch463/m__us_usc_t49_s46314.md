@@ -15,11 +15,11 @@
 
 ## § 46314. Entering aircraft or airport area in violation of security requirements
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A person may not knowingly and willfully enter, in violation of security requirements prescribed under section 44901, 44903(b) or (c), or 44906 of this title, an aircraft or an airport area that serves an air carrier or foreign air carrier.
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
         (1) A person violating subsection (a) of this section shall be fined under title 18, imprisoned for not more than one year, or both.
 
@@ -27,11 +27,11 @@
 
     (c) __Notice of Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each operator of an airport in the United States that is required to establish an air transportation security program pursuant to section 44903(c) shall ensure that signs that meet such requirements as the Secretary of Homeland Security may prescribe providing notice of the penalties imposed under section 46301(a)(5)(A)(i) and subsection (b) of this section are displayed near all screening locations, all locations where passengers exit the sterile area, and such other locations at the airport as the Secretary of Homeland Security determines appropriate.
 
-        (2) __Effect of signs on penalties.—__ 
+        (2)  __Effect of signs on penalties__  __.—__ 
 
         An individual shall be subject to a penalty imposed under section 46301(a)(5)(A)(i) or subsection (b) of this section without regard to whether signs are displayed at an airport as required by paragraph (1).
 

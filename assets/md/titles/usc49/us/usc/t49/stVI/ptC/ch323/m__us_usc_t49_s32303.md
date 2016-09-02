@@ -15,7 +15,7 @@
 
 ## § 32303. Insurance information
 
-    (a) __General Reports and Information Requirements.—__ 
+    (a)  __General Reports and Information Requirements__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (3) To the extent possible, the Secretary shall obtain reports and information under this subsection on a voluntary basis.
 
-    (b) __Requested Information on Crashworthiness, Damage Susceptibility, and Repair and Personal Injury Cost.—__ 
+    (b)  __Requested Information on Crashworthiness, Damage Susceptibility, and Repair and Personal Injury Cost__  __.—__ 
 
     When requested by the Secretary, an insurer shall give the Secretary information—
 
@@ -45,7 +45,7 @@
 
         (2) available to the insurer about the effect of damage susceptibility, crashworthiness, and the cost of repair and personal injury for each make and model of passenger motor vehicle on the risk incurred by the insurer in insuring that make and model.
 
-    (c) __Disclosure.—__ 
+    (c)  __Disclosure__  __.—__ 
 
     In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
 

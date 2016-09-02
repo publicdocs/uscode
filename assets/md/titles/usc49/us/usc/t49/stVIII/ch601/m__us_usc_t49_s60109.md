@@ -15,7 +15,7 @@
 
 ## § 60109. High-density population areas and environmentally sensitive areas
 
-    (a) __Identification Requirements.—__ 
+    (a)  __Identification Requirements__  __.—__ 
 
     Not later than October 24, 1994, the Secretary of Transportation shall prescribe standards that—
 
@@ -35,7 +35,7 @@
 
         (2) provide that the identification be carried out through the inventory required under [section 60102(e) of this title][/us/usc/t49/s60102/e].
 
-    (b) __Areas To Be Included as Unusually Sensitive.—__ 
+    (b)  __Areas To Be Included as Unusually Sensitive__  __.—__ 
 
     When describing areas that are unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider areas where a pipeline rupture would likely cause permanent or long-term environmental damage, including—
 
@@ -45,21 +45,21 @@
 
     (c) __Risk Analysis and Integrity Management Programs.—__ 
 
-        (1) __Requirement.—__ 
+        (1)  __Requirement__  __.—__ 
 
         Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
 
         (2) __Regulations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 12 months after the date of enactment of this subsection, the Secretary shall issue regulations prescribing standards to direct an operator’s conduct of a risk analysis and adoption and implementation of an integrity management program under this subsection. The regulations shall require an operator to conduct a risk analysis and adopt an integrity management program within a time period prescribed by the Secretary, ending not later than 24 months after such date of enactment. Not later than 18 months after such date of enactment, each operator of a gas pipeline facility shall begin a baseline integrity assessment described in paragraph (3).
 
-            (B) __Authority to issue regulations.—__ 
+            (B)  __Authority to issue regulations__  __.—__ 
 
             The Secretary may satisfy the requirements of this paragraph through the issuance of regulations under this paragraph or under other authority of law.
 
-        (3) __Minimum requirements of integrity management programs.—__ 
+        (3)  __Minimum requirements of integrity management programs__  __.—__ 
 
         An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
@@ -79,15 +79,15 @@
 
             (H) If the Secretary raises a safety concern relating to the facility, a description of the actions to be taken by the operator to address the safety concern, including issues raised with the Secretary by States and local authorities under an agreement entered into under section 60106.
 
-        (4) __Treatment of baseline integrity assessments.—__ 
+        (4)  __Treatment of baseline integrity assessments__  __.—__ 
 
         In the case of a baseline integrity assessment conducted by an operator in the period beginning on the date of enactment of this subsection and ending on the date of issuance of regulations under this subsection, the Secretary shall accept the assessment as complete, and shall not require the operator to repeat any portion of the assessment, if the Secretary determines that the assessment was conducted in accordance with the requirements of this subsection.
 
-        (5) __Waivers and modifications.—__ 
+        (5)  __Waivers and modifications__  __.—__ 
 
         In accordance with section 60118(c), the Secretary may waive or modify any requirement for reassessment of a facility under paragraph (3)(B) for reasons that may include the need to maintain local product supply or the lack of internal inspection devices if the Secretary determines that such waiver is not inconsistent with pipeline safety.
 
-        (6) __Standards.—__ 
+        (6)  __Standards__  __.—__ 
 
         The standards prescribed by the Secretary under paragraph (2) shall address each of the following factors:
 
@@ -107,7 +107,7 @@
 
             In prescribing those standards, the Secretary shall ensure that all inspections required are conducted in a manner that minimizes environmental and safety risks, and shall take into account the applicable level of protection established by national consensus standards organizations.
 
-        (7) __Additional optional standards.—__ 
+        (7)  __Additional optional standards__  __.—__ 
 
         The Secretary may also prescribe standards requiring an operator of a pipeline facility to include in an integrity management program under this subsection—
 
@@ -115,7 +115,7 @@
 
             (B) the use of emergency flow restricting devices.
 
-        (8) __Lack of regulations.—__ 
+        (8)  __Lack of regulations__  __.—__ 
 
         In the absence of regulations addressing the elements of an integrity management program described in this subsection, the operator of a pipeline facility shall conduct a risk analysis and adopt and implement an integrity management program described in this subsection not later than 24 months after the date of enactment of this subsection and shall complete the baseline integrity assessment described in this subsection not later than 10 years after such date of enactment. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
@@ -123,51 +123,51 @@
 
             (A) __Review of programs.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall review a risk analysis and integrity management program under paragraph (1) and record the results of that review for use in the next review of an operator’s program.
 
-                (ii) __Context of review.—__ 
+                (ii)  __Context of review__  __.—__ 
 
                 The Secretary may conduct a review under clause (i) as an element of the Secretary’s inspection of an operator.
 
-                (iii) __Inadequate programs.—__ 
+                (iii)  __Inadequate programs__  __.—__ 
 
                 If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), has not been adequately implemented, or is inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
 
-            (B) __Amendments to programs.—__ 
+            (B)  __Amendments to programs__  __.—__ 
 
             In order to facilitate reviews under this paragraph, an operator of a pipeline facility shall notify the Secretary of any amendment made to the operator’s integrity management program not later than 30 days after the date of adoption of the amendment. The Secretary shall review any such amendment in accordance with this paragraph.
 
-            (C) __Transmittal of programs to state authorities.—__ 
+            (C)  __Transmittal of programs to state authorities__  __.—__ 
 
             The Secretary shall provide a copy of each risk analysis and integrity management program reviewed by the Secretary under this paragraph to any appropriate State authority with which the Secretary has entered into an agreement under section 60106.
 
-        (10) __State review of integrity management plans.—__ 
+        (10)  __State review of integrity management plans__  __.—__ 
 
         A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator’s risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State’s proposals and work in consultation with the States and operators to address safety concerns.
 
-        (11) __Application of standards.—__ 
+        (11)  __Application of standards__  __.—__ 
 
         Section 60104(b) shall not apply to this section.
 
-    (d) __Evaluation of Integrity Management Regulations.—__ 
+    (d)  __Evaluation of Integrity Management Regulations__  __.—__ 
 
     Not later than 4 years after the date of enactment of this subsection, the Comptroller General shall complete an assessment and evaluation of the effects on public safety and the environment of the requirements for the implementation of integrity management programs contained in the standards prescribed as described in subsection (c)(2).
 
     (e) __Distribution Integrity Management Programs.—__ 
 
-        (1) __Minimum standards.—__ 
+        (1)  __Minimum standards__  __.—__ 
 
         Not later than December 31, 2007, the Secretary shall prescribe minimum standards for integrity management programs for distribution pipelines.
 
-        (2) __Additional authority of secretary.—__ 
+        (2)  __Additional authority of secretary__  __.—__ 
 
         In carrying out this subsection, the Secretary may require operators of distribution pipelines to continually identify and assess risks on their distribution lines, to remediate conditions that present a potential threat to line integrity, and to monitor program effectiveness.
 
         (3) __Excess flow valves.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The minimum standards shall include a requirement for an operator of a natural gas distribution system to install an excess flow valve on each single family residence service line connected to such system if—
 
@@ -181,27 +181,27 @@
 
                 (v) an excess flow valve meeting performance standards developed under [section 60110(e) of title 49][/us/usc/t49/s60110/e], United States Code, is commercially available to the operator, as determined by the Secretary.
 
-            (B) __Distribution branch services, multifamily facilities, and small commercial facilities.—__ 
+            (B)  __Distribution branch services, multifamily facilities, and small commercial facilities__  __.—__ 
 
             Not later than 2 years after the date of enactment of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, and after issuing a final report on the evaluation of the National Transportation Safety Board’s recommendation on excess flow valves in applications other than service lines serving one single family residence, the Secretary, if appropriate, shall by regulation require the use of excess flow valves, or equivalent technology, where economically, technically, and operationally feasible on new or entirely replaced distribution branch services, multifamily facilities, and small commercial facilities.
 
-            (C) __Reports.—__ 
+            (C)  __Reports__  __.—__ 
 
             Operators of natural gas distribution systems shall report annually to the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
 
-        (4) __Applicability.—__ 
+        (4)  __Applicability__  __.—__ 
 
         The Secretary shall determine which distribution pipelines will be subject to the minimum standards.
 
-        (5) __Development and implementation.—__ 
+        (5)  __Development and implementation__  __.—__ 
 
         Each operator of a distribution pipeline that the Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
 
-        (6) __Savings clause.—__ 
+        (6)  __Savings clause__  __.—__ 
 
         Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
 
-    (f) __Certification of Pipeline Integrity Management Program Performance.—__ 
+    (f)  __Certification of Pipeline Integrity Management Program Performance__  __.—__ 
 
     The Secretary shall establish procedures requiring certification of annual and semiannual pipeline integrity management program performance reports by a senior executive officer of the company operating a pipeline subject to this chapter. The procedures shall require a signed statement, which may be effected electronically in accordance with the provisions of the Electronic Signatures in Global and National Commerce Act ([15 U.S.C. 7001][/us/usc/t15/s7001] et seq.), certifying that—
 
@@ -377,7 +377,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 [Pub. L. 112–90, § 5][/us/pl/112/90/s5], Jan. 3, 2012, [125 Stat. 1907][/us/stat/125/1907], provided that:
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall evaluate—
 
@@ -385,7 +385,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >         “(2) with respect to gas transmission pipeline facilities, whether applying integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
 
->     “(b) __Factors.—__ 
+>     “(b)  __Factors__  __.—__ 
 
 >     In conducting the evaluation under subsection (a), the Secretary shall consider, at a minimum, the following:
 
@@ -401,7 +401,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >         “(6) The appropriateness of applying repair criteria, such as pressure reductions and special requirements for scheduling remediation, to areas that are not high-consequence areas.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, based on the evaluation conducted under subsection (a), containing the Secretary’s analysis and findings regarding—
 
@@ -409,17 +409,17 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >         “(2) with respect to gas transmission pipeline facilities, whether applying the integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
 
->     “(d) __Data Reporting.—__ 
+>     “(d)  __Data Reporting__  __.—__ 
 
 >     The Secretary shall collect any relevant data necessary to complete the evaluation required by subsection (a).
 
->     “(e) __Technical Correction.—__ 
+>     “(e)  __Technical Correction__  __.—__ 
 
 >     \[Amended this section.\]
 
 >     “(f) __Rulemaking Requirements.—__ 
 
->         “(1) __Review period defined.—__ 
+>         “(1)  __Review period defined__  __.—__ 
 
 >         In this subsection, the term ‘review period’ means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
 
@@ -427,13 +427,13 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >             “(B) the date that is 3 years after the date of enactment of this Act.
 
->         “(2) __Congressional authority.—__ 
+>         “(2)  __Congressional authority__  __.—__ 
 
 >         In order to provide Congress the necessary time to review the results of the report required by subsection (c) and implement appropriate recommendations, the Secretary shall not, during the review period, issue final regulations described in paragraph (3)(B).
 
 >         “(3) __Standards.—__ 
 
->             “(A) __Findings.—__ 
+>             “(A)  __Findings__  __.—__ 
 
 >             As soon as practicable following the review period, the Secretary shall issue final regulations described in subparagraph (B), if the Secretary finds, in the report required under subsection (c), that—
 
@@ -441,7 +441,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >                 “(ii) with respect to gas transmission pipeline facilities, applying integrity management program requirements, or elements thereof, to additional areas would mitigate the need for class location requirements.
 
->             “(B) __Regulations.—__ 
+>             “(B)  __Regulations__  __.—__ 
 
 >             Regulations issued by the Secretary under subparagraph (A), if any, shall—
 
@@ -451,15 +451,15 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(m); added Oct. 24, 1992,
 
 >         “(4) __Savings clause.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of this subsection, the Secretary, during the review period, may issue final regulations described in paragraph (3)(B), if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the regulations will address the risk or hazard.
 
->             “(B) __Imminent hazard defined.—__ 
+>             “(B)  __Imminent hazard defined__  __.—__ 
 
 >             In subparagraph (A), the term ‘imminent hazard’ means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.
 
->     “(g) __Report to Congress on Risk-Based Pipeline Reassessment Intervals.—__ 
+>     “(g)  __Report to Congress on Risk-Based Pipeline Reassessment Intervals__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Jan. 3, 2012\], the Comptroller General of the United States shall evaluate—
 

@@ -15,7 +15,7 @@
 
 ## § 1154. Discovery and use of cockpit and surface vehicle recordings and transcripts
 
-    (a) __Transcripts and Recordings.—__ 
+    (a)  __Transcripts and Recordings__  __.—__ 
 
         (1)
 
@@ -63,15 +63,15 @@
 
          In this subsection:
 
-            (A) __Recorder.—__ 
+            (A)  __Recorder__  __.—__ 
 
             The term “recorder” means a voice or video recorder.
 
-            (B) __Transcript.—__ 
+            (B)  __Transcript__  __.—__ 
 
             The term “transcript” includes any written depiction of visual information obtained from a video recorder.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
     No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 

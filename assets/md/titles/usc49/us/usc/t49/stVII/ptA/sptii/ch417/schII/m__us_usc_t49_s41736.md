@@ -15,7 +15,7 @@
 
 ## § 41736. Air transportation to noneligible places
 
-    (a) __Proposals and Decisions.—__ 
+    (a)  __Proposals and Decisions__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
             (C) the distance of the place from the closest hub airport.
 
-    (b) __Approval for Certain Air Transportation.—__ 
+    (b)  __Approval for Certain Air Transportation__  __.—__ 
 
     Notwithstanding subsection (a)(1)(B) of this section, the Secretary shall approve a proposal under this section to compensate an air carrier for providing air transportation to a place in the 48 contiguous States or the District of Columbia and designate the place as eligible for compensation under this section if—
 
@@ -53,7 +53,7 @@
 
         Paragraph (4) does not apply to any community approved for service under this section during the period beginning October 1, 1991, and ending December 31, 1997.
 
-    (c) __Level of Air Transportation.—__ 
+    (c)  __Level of Air Transportation__  __.—__ 
 
         (1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide, not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
 
@@ -65,7 +65,7 @@
 
             (B) the views of the State or local government or person agreeing to pay compensation for the transportation.
 
-    (d) __Compensation Payments.—__ 
+    (d)  __Compensation Payments__  __.—__ 
 
         (1)
 
@@ -79,15 +79,15 @@
 
         (2) The Secretary may require the State or local government or person agreeing to pay compensation under this section to make advance payments or provide other security to ensure that timely payments are made.
 
-    (e) __Review.—__ 
+    (e)  __Review__  __.—__ 
 
     The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
 
-    (f) __Withdrawal of Eligibility Designations.—__ 
+    (f)  __Withdrawal of Eligibility Designations__  __.—__ 
 
     After providing notice and an opportunity for interested persons to comment, the Secretary may withdraw the designation of a place under subsection (a)(1) of this section as eligible to receive compensation under this section if the place has received air transportation under this section for at least 2 years and the Secretary decides the withdrawal would be in the public interest. The Secretary by regulation shall prescribe standards for deciding whether the withdrawal of a designation under this subsection is in the public interest. The standards shall include the factors listed in subsection (a)(2) of this section.
 
-    (g) __Ending, Suspending, and Reducing Air Transportation.—__ 
+    (g)  __Ending, Suspending, and Reducing Air Transportation__  __.—__ 
 
     An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
 

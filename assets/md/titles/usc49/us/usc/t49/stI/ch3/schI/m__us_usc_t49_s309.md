@@ -175,25 +175,25 @@
 
 [Pub. L. 102–240, title I, § 1036(b)][/us/pl/102/240/s1036/b], Dec. 18, 1991, [105 Stat. 1978][/us/stat/105/1978], provided that:
 
->     “(1) __Management of program.—__ 
+>     “(1)  __Management of program__  __.—__ 
 
 >     There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 >     “(2) __Phase one contracts.—__ 
 
->         “(A) __Request for proposals.—__ 
+>         “(A)  __Request for proposals__  __.—__ 
 
 >         Not later than 12 months after the date of the enactment of this Act \[Dec. 18, 1991\], the Maglev Project Office shall release a request for proposals for development of conceptual designs for a maglev system and for research to facilitate the development of such conceptual designs.
 
->         “(B) __Award of contracts.—__ 
+>         “(B)  __Award of contracts__  __.—__ 
 
 >         Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewer than 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical.
 
->         “(C) __Factors and conditions to be considered.—__ 
+>         “(C)  __Factors and conditions to be considered__  __.—__ 
 
 >         The Secretary and the Assistant Secretary may approve contracts under subparagraph (B) only after consideration of factors relating to the construction and operation of a magnetic levitation system, including the cost-effectiveness, ease of maintenance, safety, limited environmental impact, ability to achieve sustained high speeds, ability to operate along the Interstate highway rights-of-way, the potential for the guideway design to be a national standard, the applicant’s resources, capabilities, and history of successfully designing and developing systems of similar complexity, and the desirability of geographic diversity among contractors and only if the applicant agrees to submit a report to the Maglev Project Office detailing the results of the research and development and agrees to provide for matching of the phase one contract at a 90 percent Federal, 10 percent non-Federal, cost share.
 
->     “(3) __Phase two contracts.—__ 
+>     “(3)  __Phase two contracts__  __.—__ 
 
 >     Within 3 months of receiving the final reports of contract activities under paragraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—
 
@@ -205,7 +205,7 @@
 
 >     “(4) __Prototype.—__ 
 
->         “(A) __Selection of design.—__ 
+>         “(A)  __Selection of design__  __.—__ 
 
 >         Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
 
@@ -219,11 +219,11 @@
 
 >             shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selection committee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate.
 
->         “(B) __Award of construction grant or contract.—__ 
+>         “(B)  __Award of construction grant or contract__  __.—__ 
 
 >         Unless the Secretary and the Assistant Secretary determine not to proceed pursuant to subparagraph (A), they shall, not later than 3 months after selection of a design for development into a full-scale prototype, and based on the recommendations of the program director, award 1 construction grant or contract to the applicant whose detailed design was selected under subparagraph (A) for the purpose of constructing a prototype maglev system in accordance with the selected design. Not more than 75 percent of the cost of the project shall be borne by the United States.
 
->         “(C) __Factors to be considered in selection.—__ 
+>         “(C)  __Factors to be considered in selection__  __.—__ 
 
 >         Selection of the detailed design under this paragraph shall be based on consideration of the following factors, among others:
 
@@ -243,25 +243,25 @@
 
 >             “(viii) The project shall be intermodal in nature connecting a major metropolitan area with an airport, port, passenger rail station, or other transportation mode.
 
->         “(D) __Additional factors for consideration.—__ 
+>         “(D)  __Additional factors for consideration__  __.—__ 
 
 >         In awarding a grant or contract under this paragraph, the Secretary shall encourage the development of domestic manufacturing capabilities. In selecting among eligible applicants, the Secretary shall consider existing railroads and equipment manufacturers with excess production capacity, including railroads that have experience in advanced technologies (including self-propelled cars).
 
 >     “(5) __Licensing.—__ 
 
->         “(A) __Proprietary rights.—__ 
+>         “(A)  __Proprietary rights__  __.—__ 
 
 >         No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4], United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed.
 
->         “(B) __Commercial information.—__ 
+>         “(B)  __Commercial information__  __.—__ 
 
 >         The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701–371][/us/usc/t15/s3701–371]4). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States.
 
->     “(6) __Reports.—__ 
+>     “(6)  __Reports__  __.—__ 
 
 >     The Secretary and the Assistant Secretary shall provide periodic reports to Congress on progress made under this subsection.
 
->     “(7) __Eligible applicant defined.—__ 
+>     “(7)  __Eligible applicant defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘eligible applicant’ means a United States private business, United States public or private education and research organization, Federal laboratory, or a consortium of such businesses, organizations, and laboratories.”
 

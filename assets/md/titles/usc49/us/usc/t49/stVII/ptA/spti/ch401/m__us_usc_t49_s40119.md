@@ -15,11 +15,11 @@
 
 ## § 40119. Security and research and development activities
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     The Under Secretary of Transportation for Security and the Administrator of the Federal Aviation Administration each shall conduct research (including behavioral research) and development activities appropriate to develop, modify, test, and evaluate a system, procedure, facility, or device to protect passengers and property against acts of criminal violence, aircraft piracy, and terrorism and to ensure security.
 
-    (b) __Disclosure.—__ 
+    (b)  __Disclosure__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (4) [Section 552a of title 5][/us/usc/t5/s552a] shall not apply to disclosures that the Administrator may make from the systems of records of the Administration to any Federal law enforcement, intelligence, protective service, immigration, or national security official in order to assist the official receiving the information in the performance of official duties.
 
-    (c) __Transfers of Duties and Powers Prohibited.—__ 
+    (c)  __Transfers of Duties and Powers Prohibited__  __.—__ 
 
     Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 

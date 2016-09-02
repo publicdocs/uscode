@@ -15,7 +15,7 @@
 
 ## § 5117. Special permits and exclusions
 
-    (a) __Authority To Issue Special Permits.—__ 
+    (a)  __Authority To Issue Special Permits__  __.—__ 
 
         (1)
 
@@ -27,15 +27,15 @@
 
         (2) A special permit issued under this section shall be effective for an initial period of not more than 2 years and may be renewed by the Secretary upon application for successive periods of not more than 4 years each or, in the case of a special permit relating to section 5112, for an additional period of not more than 2 years.
 
-    (b) __Applications.—__ 
+    (b)  __Applications__  __.—__ 
 
     When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. This subsection does not require the release of information protected by law from public disclosure.
 
-    (c) __Applications To Be Dealt With Promptly.—__ 
+    (c)  __Applications To Be Dealt With Promptly__  __.—__ 
 
     The Secretary shall issue or renew the special permit for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the special permit is delayed, along with an estimate of the additional time necessary before the decision is made.
 
-    (d) __Exclusions.—__ 
+    (d)  __Exclusions__  __.—__ 
 
         (1)
 
@@ -55,17 +55,17 @@
 
             (B) transportation of a firearm or ammunition in commerce.
 
-    (e) __Limitation on Authority.—__ 
+    (e)  __Limitation on Authority__  __.—__ 
 
     Unless the Secretary decides that an emergency exists, a special permit or renewal granted under this section is the only way a person subject to this chapter may be granted a variance from this chapter.
 
     (f) __Incorporation Into Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date on which a special permit has been in continuous effect for a 10-year period, the Secretary shall conduct a review and analysis of that special permit to determine whether it may be converted into the hazardous materials regulations.
 
-        (2) __Factors.—__ 
+        (2)  __Factors__  __.—__ 
 
         In conducting the review and analysis under paragraph (1), the Secretary may consider—
 
@@ -77,7 +77,7 @@
 
             (D) rulemaking activity in related areas.
 
-        (3) __Rulemaking.—__ 
+        (3)  __Rulemaking__  __.—__ 
 
         After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary’s justification for why the special permit is not appropriate for incorporation into the regulations.
 
@@ -231,7 +231,7 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
 [Pub. L. 112–141, div. C, title III, § 33012(a)][/us/pl/112/141/s33012/a], (b), July 6, 2012, [126 Stat. 838][/us/stat/126/838], provided that:
 
->     “(a) __Rulemaking.—__ 
+>     “(a)  __Rulemaking__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\], after providing notice and an opportunity for public comment, shall issue regulations that establish—
 
@@ -241,11 +241,11 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
 >     “(b) __Review of Special Permits.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act, the Secretary shall conduct a review and analysis of special permits that have been in continuous effect for a 10-year period to determine which special permits may be converted into the hazardous materials regulations.
 
->         “(2) __Factors.—__ 
+>         “(2)  __Factors__  __.—__ 
 
 >         In conducting the review and analysis under paragraph (1), the Secretary may consider—
 
@@ -257,7 +257,7 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
 >             “(D) rulemaking activity in related areas.
 
->         “(3) __Rulemaking.—__ 
+>         “(3)  __Rulemaking__  __.—__ 
 
 >         After completing the review and analysis under paragraph (1), but not later than 3 years after the date of enactment of this Act, and after providing notice and opportunity for public comment, the Secretary shall issue regulations to incorporate into the hazardous materials regulations any special permits identified in the review under paragraph (1) that the Secretary determines are appropriate for incorporation, based on the factors identified in paragraph (2).”
 

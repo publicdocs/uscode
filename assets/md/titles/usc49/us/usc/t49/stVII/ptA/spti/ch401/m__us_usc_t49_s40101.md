@@ -15,7 +15,7 @@
 
 ## § 40101. Policy
 
-    (a) __Economic Regulation.—__ 
+    (a)  __Economic Regulation__  __.—__ 
 
     In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
 
@@ -77,7 +77,7 @@
 
         (16) ensuring that consumers in all regions of the United States, including those in small communities and rural and remote areas, have access to affordable, regularly scheduled air service.
 
-    (b) __All-Cargo Air Transportation Considerations.—__ 
+    (b)  __All-Cargo Air Transportation Considerations__  __.—__ 
 
     In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
 
@@ -95,7 +95,7 @@
 
         (3) providing services without unreasonable discrimination, unfair or deceptive practices, or predatory pricing.
 
-    (c) __General Safety Considerations.—__ 
+    (c)  __General Safety Considerations__  __.—__ 
 
     In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator of the Federal Aviation Administration shall consider the following matters:
 
@@ -103,7 +103,7 @@
 
         (2) the public right of freedom of transit through the navigable airspace.
 
-    (d) __Safety Considerations in Public Interest.—__ 
+    (d)  __Safety Considerations in Public Interest__  __.—__ 
 
     In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator shall consider the following matters, among others, as being in the public interest:
 
@@ -121,7 +121,7 @@
 
         (7) providing assistance to law enforcement agencies in the enforcement of laws related to regulation of controlled substances, to the extent consistent with aviation safety.
 
-    (e) __International Air Transportation.—__ 
+    (e)  __International Air Transportation__  __.—__ 
 
     In formulating United States international air transportation policy, the Secretaries of State and Transportation shall develop a negotiating policy emphasizing the greatest degree of competition compatible with a well-functioning international air transportation system, including the following:
 
@@ -157,7 +157,7 @@
 
         (10) promoting, encouraging, and developing civil aeronautics and a viable, privately-owned United States air transport industry.
 
-    (f) __Strengthening Competition.—__ 
+    (f)  __Strengthening Competition__  __.—__ 
 
     In selecting an air carrier to provide foreign air transportation from among competing applicants, the Secretary of Transportation shall consider, in addition to the matters specified in subsections (a) and (b) of this section, the strengthening of competition among air carriers operating in the United States to prevent unreasonable concentration in the air carrier industry.
 
@@ -567,21 +567,21 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(b) __Interagency Collaboration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall collaborate with the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration to conduct research and seek solutions to challenges associated with the safe integration of unmanned aircraft systems into the National Airspace System in accordance with subtitle B of title III of the FAA Modernization and Reform Act of 2012 ([Public Law 112–95][/us/pl/112/95]; [126 Stat. 72][/us/stat/126/72]) \[set out as a note below\].
 
->         “(2) __Activities in support of plan on access to national airspace for unmanned aircraft systems.—__ 
+>         “(2)  __Activities in support of plan on access to national airspace for unmanned aircraft systems__  __.—__ 
 
 >         Collaboration under paragraph (1) may include research and development of scientific and technical issues, equipment, and technology in support of the plan to safely accelerate the integration of unmanned aircraft systems as required by subtitle B of title III of the FAA Modernization and Reform Act of 2012.
 
->         “(3) __Nonduplicative efforts.—__ 
+>         “(3)  __Nonduplicative efforts__  __.—__ 
 
 >         If the Secretary of Defense determines it is in the interest of the Department of Defense, the Secretary may use existing aerospace-related laboratories, personnel, equipment, research radars, and ground facilities of the Department of Defense to avoid duplication of efforts in carrying out collaboration under paragraph (1).
 
 >         “(4) __Reports.—__ 
 
->             “(A) __Requirement.—__ 
+>             “(A)  __Requirement__  __.—__ 
 
 >             The Secretary of Defense, on behalf of the UAS Executive Committee, shall annually submit to the congressional defense committees, the Committee on Transportation and Infrastructure, and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of research activity of the Department of Defense, including—
 
@@ -591,11 +591,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iii) progress in sharing with the Federal Aviation Administration safety operational and performance data as it relates to unmanned aircraft system operation and the impact on the National Airspace System.
 
->             “(B) __Termination.—__ 
+>             “(B)  __Termination__  __.—__ 
 
 >             The requirement to submit a report under subparagraph (A) shall terminate on the date that is 5 years after the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(c) __UAS Executive Committee Defined.—__ 
+>     “(c)  __UAS Executive Committee Defined__  __.—__ 
 
 >     In this section, the term ‘UAS Executive Committee’ means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[[Pub. L. 110–417][/us/pl/110/417]; [122 Stat. 4597][/us/stat/122/4597]\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration.”
 
@@ -609,7 +609,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 2. __PROHIBITION ON PARTICIPATION IN THE EUROPEAN UNION’S EMISSIONS TRADING SCHEME.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall prohibit an operator of a civil aircraft of the United States from participating in the emissions trading scheme unilaterally established by the European Union in EU Directive 2003/87/EC of October 13, 2003, as amended, in any case in which the Secretary determines the prohibition to be, and in a manner that is, in the public interest, taking into account—
 
@@ -619,11 +619,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) the impacts on U.S. foreign relations, including existing international commitments.
 
->     “(b) __Public Hearing.—__ 
+>     “(b)  __Public Hearing__  __.—__ 
 
 >     After determining that a prohibition under this section may be in the public interest, the Secretary must hold a public hearing at least 30 days before imposing any prohibition.
 
->     “(c) __Reassessment of Determination of Public Interest.—__ 
+>     “(c)  __Reassessment of Determination of Public Interest__  __.—__ 
 
 >     The Secretary—
 
@@ -641,7 +641,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 3. __NEGOTIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government—
 
@@ -649,7 +649,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) shall, as appropriate and except as provided in subsection (b), take other actions under existing authorities that are in the public interest necessary to hold operators of civil aircraft of the United States harmless from the emissions trading scheme referred to under section 2.
 
->     “(b) __Exclusion of Payment of Taxes and Penalties.—__ 
+>     “(b)  __Exclusion of Payment of Taxes and Penalties__  __.—__ 
 
 >     Actions taken under subsection (a)(2) may not include the obligation or expenditure of any amounts in the Airport and Airway Trust Fund established under section 9905 \[9502\] of the Internal Revenue Code of 1986 \[[26 U.S.C. 9502][/us/usc/t26/s9502]\], or amounts otherwise made available to the Department of Transportation or any other Federal agency pursuant to appropriations Acts, for the payment of any tax or penalty imposed on an operator of civil aircraft of the United States pursuant to the emissions trading scheme referred to under section 2.
 
@@ -665,27 +665,27 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “In this title \[amending sections 106, 40102, 40110, and 40113 of this title, enacting provisions set out as notes under this section and sections 106 and 44506 of this title, and amending provisions set out as notes under this section\], the following definitions apply:
 
->     “(1) __Nextgen.—__ 
+>     “(1)  __Nextgen__  __.—__ 
 
 >     The term ‘NextGen’ means the Next Generation Air Transportation System.
 
->     “(2) __ADS–B.—__ 
+>     “(2)  __ADS–B__  __.—__ 
 
 >     The term ‘ADS–B’ means automatic dependent surveillance-broadcast.
 
->     “(3) __ADS–B Out.—__ 
+>     “(3)  __ADS–B Out__  __.—__ 
 
 >     The term ‘ADS–B Out’ means automatic dependent surveillance-broadcast with the ability to transmit information from the aircraft to ground stations and to other equipped aircraft.
 
->     “(4) __ADS–B In.—__ 
+>     “(4)  __ADS–B In__  __.—__ 
 
 >     The term ‘ADS–B In’ means automatic dependent surveillance-broadcast with the ability to transmit information from the aircraft to ground stations and to other equipped aircraft as well as the ability of the aircraft to receive information from other transmitting aircraft and the ground infrastructure.
 
->     “(5) __RNAV.—__ 
+>     “(5)  __RNAV__  __.—__ 
 
 >     The term ‘RNAV’ means area navigation.
 
->     “(6) __RNP.—__ 
+>     “(6)  __RNP__  __.—__ 
 
 >     The term ‘RNP’ means required navigation performance.
 
@@ -733,11 +733,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Review by DOT Inspector General.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Inspector General of the Department of Transportation shall conduct a review concerning the Federal Aviation Administration’s award and oversight of any contracts entered into by the Administration to provide ADS–B services for the national airspace system.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The review shall include, at a minimum—
 
@@ -757,13 +757,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(H) any other matters or aspects relating to contract implementation and oversight that the Inspector General determines merit attention.
 
->         “(3) __Reports to congress.—__ 
+>         “(3)  __Reports to congress__  __.—__ 
 
 >         The Inspector General shall submit, periodically (and on at least an annual basis), to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the review conducted under this subsection.
 
 >     “(b) __Rulemaking.—__ 
 
->         “(1) __ADS–B In.—__ 
+>         “(1)  __ADS–B In__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding to issue guidelines and regulations relating to ADS–B In technology that—
 
@@ -781,7 +781,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iii) the expected uses and benefits of the avionics.
 
->         “(2) __Readiness verification.—__ 
+>         “(2)  __Readiness verification__  __.—__ 
 
 >         Before the Administrator completes an ADS–B In equipage rulemaking proceeding or issues an interim or final rule pursuant to paragraph (1), the Chief NextGen Officer shall verify that—
 
@@ -793,11 +793,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(c) __Use of ADS–B Technology.—__ 
 
->         “(1) __Plans.—__ 
+>         “(1)  __Plans__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall develop, in consultation with appropriate employee and industry groups, a plan for the use of ADS–B technology for surveillance and active air traffic control.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The plan shall—
 
@@ -811,11 +811,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 212. __EXPERT REVIEW OF ENTERPRISE ARCHITECTURE FOR NEXTGEN.__ 
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Research Council to review the enterprise architecture for the NextGen.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     At a minimum, the review to be conducted under subsection (a) shall—
 
@@ -825,7 +825,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) determine how risks with automation efforts for the NextGen can be mitigated based on the experiences of other public or private entities in developing complex, software-intensive systems.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of the review conducted pursuant to subsection (a).
 
@@ -833,19 +833,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Operational Evolution Partnership (OEP) Airport Procedures.—__ 
 
->         “(1) __OEP airports report.—__ 
+>         “(1)  __OEP airports report__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall publish a report, after consultation with representatives of appropriate Administration employee groups, airport operators, air carriers, general aviation representatives, aircraft and avionics manufacturers, and third parties that have received letters of qualification from the Administration to design and validate required navigation performance flight paths for public use (in this section referred to as ‘qualified third parties’) that includes the following:
 
->             “(A) __RNP/RNAV operations for oep airports.—__ 
+>             “(A)  __RNP/RNAV operations for oep airports__  __.—__ 
 
 >             The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35 operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
 
->             “(B) __Coordination and implementation activities for oep airports.—__ 
+>             “(B)  __Coordination and implementation activities for oep airports__  __.—__ 
 
 >             A description of the activities and operational changes and approvals required to coordinate and utilize the procedures at OEP airports.
 
->             “(C) __Implementation plan for oep airports.—__ 
+>             “(C)  __Implementation plan for oep airports__  __.—__ 
 
 >             A plan for implementing the procedures for OEP airports under subparagraph (A) that establishes—
 
@@ -869,11 +869,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(vii) a lifecycle management strategy for RNP procedures to be developed by qualified third parties, if applicable.
 
->             “(D) __Additional procedures for oep airports.—__ 
+>             “(D)  __Additional procedures for oep airports__  __.—__ 
 
 >             A process for the identification, certification, and publication of additional required navigation performance and area navigation procedures that may provide operational benefits at OEP airports, and any medium or small hub airport located within the same metroplex area as the OEP airport, in the future.
 
->         “(2) __Implementation schedule for oep airports.—__ 
+>         “(2)  __Implementation schedule for oep airports__  __.—__ 
 
 >         The Administrator shall certify, publish, and implement—
 
@@ -885,19 +885,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(b) __Non-OEP Airports.—__ 
 
->         “(1) __Non-OEP airports report.—__ 
+>         “(1)  __Non-OEP airports report__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall publish a report, after consultation with representatives of appropriate Administration employee groups, airport operators, air carriers, general aviation representatives, aircraft and avionics manufacturers, and third parties that have received letters of qualification from the Administration to design and validate required navigation performance flight paths for public use (in this section referred to as ‘qualified third parties’) that includes the following:
 
->             “(A) __RNP operations for non-oep airports.—__ 
+>             “(A)  __RNP operations for non-oep airports__  __.—__ 
 
 >             A list of required navigation performance procedures (as defined in FAA order 8260.52(d)) to be developed, certified, and published, and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at 35 non-OEP small, medium, and large hub airports other than those referred to in subsection (a)(1). The Administrator shall choose such non-OEP airports considered appropriate by the Administrator to produce maximum operational benefits, including improved fuel efficiency and emissions reductions that do not have public RNP procedures that produce such benefits on the date of enactment of this Act. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
 
->             “(B) __Coordination and implementation activities for non-oep airports.—__ 
+>             “(B)  __Coordination and implementation activities for non-oep airports__  __.—__ 
 
 >             A description of the activities and operational changes and approvals required to coordinate and to utilize the procedures required by subparagraph (A) at each of the airports described in such subparagraph.
 
->             “(C) __Implementation plan for non-oep airports.—__ 
+>             “(C)  __Implementation plan for non-oep airports__  __.—__ 
 
 >             A plan for implementation of the procedures required by subparagraph (A) that establishes—
 
@@ -923,11 +923,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(viii) lifecycle management strategy for RNP procedures to be developed by qualified third parties, if applicable.
 
->             “(D) __Additional procedures for non-oep airports.—__ 
+>             “(D)  __Additional procedures for non-oep airports__  __.—__ 
 
 >             A process for the identification, certification, and publication of additional required navigation performance procedures that may provide operational benefits at non-OEP airports in the future.
 
->         “(2) __Implementation schedule for non-oep airports.—__ 
+>         “(2)  __Implementation schedule for non-oep airports__  __.—__ 
 
 >         The Administrator shall certify, publish, and implement—
 
@@ -939,15 +939,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(c) __Coordinated and Expedited Review.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Navigation performance and area navigation procedures developed, certified, published, or implemented under this section shall be presumed to be covered by a categorical exclusion (as defined in section 1508.4 of title 40, Code of Federal Regulations) under chapter 3 of FAA Order 1050.1E unless the Administrator determines that extraordinary circumstances exist with respect to the procedure.
 
->         “(2) __Nextgen procedures.—__ 
+>         “(2)  __Nextgen procedures__  __.—__ 
 
 >         Any navigation performance or other performance based navigation procedure developed, certified, published, or implemented that, in the determination of the Administrator, would result in measurable reductions in fuel consumption, carbon dioxide emissions, and noise, on a per flight basis, as compared to aircraft operations that follow existing instrument flight rules procedures in the same airspace, shall be presumed to have no significant affect on the quality of the human environment and the Administrator shall issue and file a categorical exclusion for the new procedure.
 
->     “(d) __Deployment Plan for Nationwide Data Communications System.—__ 
+>     “(d)  __Deployment Plan for Nationwide Data Communications System__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for implementation of a nationwide data communications system. The plan shall include—
 
@@ -959,7 +959,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(e) __Improved Performance Standards.—__ 
 
->         “(1) __Assessment of work being performed under nextgen implementation plan.—__ 
+>         “(1)  __Assessment of work being performed under nextgen implementation plan__  __.—__ 
 
 >         The Administrator shall clearly outline in the NextGen Implementation Plan document of the Administration the work being performed under the plan to determine—
 
@@ -967,17 +967,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(B) the feasibility of reducing aircraft separation standards in a safe manner as a result of the implementation of such technologies.
 
->         “(2) __Aircraft separation standards.—__ 
+>         “(2)  __Aircraft separation standards__  __.—__ 
 
 >         If the Administrator determines that the standards referred to in paragraph (1)(B) can be reduced safely, the Administrator shall include in the NextGen Implementation Plan a timetable for implementation of such reduced standards.
 
->     “(f) __Third-Party Usage.—__ 
+>     “(f)  __Third-Party Usage__  __.—__ 
 
 >     The Administration shall establish a program under which the Administrator is authorized to use qualified third parties in the development, testing, and maintenance of flight procedures.
 
 > “SEC. 214. __PERFORMANCE METRICS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish and begin tracking national airspace system performance metrics, including, at a minimum, metrics with respect to—
 
@@ -1005,15 +1005,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(12) runway safety, including runway incursions, operational errors, and loss of standard separation events.
 
->     “(b) __Baselines.—__ 
+>     “(b)  __Baselines__  __.—__ 
 
 >     The Administrator, in consultation with aviation industry stakeholders, shall identify baselines for each of the metrics established under subsection (a) and appropriate methods to measure deviations from the baselines.
 
->     “(c) __Publication.—__ 
+>     “(c)  __Publication__  __.—__ 
 
 >     The Administrator shall make data obtained under subsection (a) available to the public in a searchable, sortable, and downloadable format through the Web site of the Administration and other appropriate media.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains—
 
@@ -1025,7 +1025,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 215. __CERTIFICATION STANDARDS AND RESOURCES.__ 
 
->     “(a) __Process for Certification.—__ 
+>     “(a)  __Process for Certification__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop a plan to accelerate and streamline the process for certification of NextGen technologies, including—
 
@@ -1039,13 +1039,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) establishment of performance metrics to measure the Administration’s progress.
 
->     “(b) __Certification Integrity.—__ 
+>     “(b)  __Certification Integrity__  __.—__ 
 
 >     The Administrator shall ensure that equipment, systems, or services used in the national airspace system meet appropriate certification requirements regardless of whether the equipment, system, or service is publically or privately owned.
 
 > “SEC. 216. __SURFACE SYSTEMS ACCELERATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Chief Operating Officer of the Air Traffic Organization shall—
 
@@ -1057,7 +1057,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(4) carry out such additional duties as the Administrator of the Federal Aviation Administration may require.
 
->     “(b) __Expedited Certification and Utilization.—__ 
+>     “(b)  __Expedited Certification and Utilization__  __.—__ 
 
 >     The Administrator shall—
 
@@ -1067,15 +1067,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 217. __INCLUSION OF STAKEHOLDERS IN AIR TRAFFIC CONTROL MODERNIZATION PROJECTS.__ 
 
->     “(a) __Process for Employee Inclusion.—__ 
+>     “(a)  __Process for Employee Inclusion__  __.—__ 
 
 >     Notwithstanding any other law or agreement, the Administrator of the Federal Aviation Administration shall establish a process or processes for including qualified employees selected by each exclusive collective bargaining representative of employees of the Administration impacted by the air traffic control modernization process to serve in a collaborative and expert capacity in the planning and development of air traffic control modernization projects, including NextGen.
 
->     “(b) __Adherence to Deadlines.—__ 
+>     “(b)  __Adherence to Deadlines__  __.—__ 
 
 >     Participants in these processes shall adhere, to the greatest extent possible, to all deadlines and milestones established pursuant to this title.
 
->     “(c) __No Change in Employee Status.—__ 
+>     “(c)  __No Change in Employee Status__  __.—__ 
 
 >     Participation in these processes by an employee shall not—
 
@@ -1085,17 +1085,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) entitle the employee to prevent or unduly delay the exercise of management prerogatives.
 
->     “(d) __Working Groups.—__ 
+>     “(d)  __Working Groups__  __.—__ 
 
 >     Except in extraordinary circumstances, the Administrator shall not pay overtime related to work group participation.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the implementation of this section.
 
 > “SEC. 218. __AIRSPACE REDESIGN.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -1109,35 +1109,35 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(b) __Noise Impacts of New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign.—__ 
 
->         “(1) __Monitoring.—__ 
+>         “(1)  __Monitoring__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration, in conjunction with the Port Authority of New York and New Jersey and the Philadelphia International Airport, shall monitor the noise impacts of the New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year following the first day of completion of the New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign, the Administrator shall submit to Congress a report on the findings of the Administrator with respect to monitoring conducted under paragraph (1).
 
 > “SEC. 219. __STUDY ON FEASIBILITY OF DEVELOPMENT OF A PUBLIC INTERNET WEB-BASED RESOURCE ON LOCATIONS OF POTENTIAL AVIATION OBSTRUCTIONS.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall carry out a study on the feasibility of developing a publicly searchable, Internet Web-based resource that provides information regarding the height and latitudinal and longitudinal locations of guy-wire and free-standing tower obstructions.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In conducting the study, the Administrator shall consult with affected industries and appropriate Federal agencies.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit a report to the appropriate committees of Congress on the results of the study.
 
 > “SEC. 220. __NEXTGEN RESEARCH AND DEVELOPMENT CENTER OF EXCELLENCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration may enter into an agreement, on a competitive basis, to assist in the establishment of a center of excellence for the research and development of NextGen technologies.
 
->     “(b) __Functions.—__ 
+>     “(b)  __Functions__  __.—__ 
 
 >     The Administrator shall ensure that the center established under subsection (a)—
 
@@ -1147,11 +1147,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 221. __PUBLIC-PRIVATE PARTNERSHIPS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may establish an avionics equipage incentive program for the purpose of equipping general aviation and commercial aircraft with communications, surveillance, navigation, and other avionics equipment as determined by the Secretary to be in the interest of achieving NextGen capabilities for such aircraft.
 
->     “(b) __NextGen Public-Private Partnerships.—__ 
+>     “(b)  __NextGen Public-Private Partnerships__  __.—__ 
 
 >     The incentive program established under subsection (a) shall, at a minimum—
 
@@ -1159,31 +1159,31 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) leverage and maximize the use of private sector capital.
 
->     “(c) __Financial Instruments.—__ 
+>     “(c)  __Financial Instruments__  __.—__ 
 
 >     Subject to the availability of appropriated funds, the Secretary may use financial instruments to facilitate public-private financing for the equipage of general aviation and commercial aircraft registered under [section 44103 of title 49][/us/usc/t49/s44103], United States Code. To the extent appropriations are not made available, the Secretary may establish the program, provided the costs are covered by the fees and premiums authorized by subsection (d)(2). For purposes of this section, the term ‘financial instruments’ means loan guarantees and other credit assistance designed to leverage and maximize private sector capital.
 
 >     “(d) __Protection of the Taxpayer.—__ 
 
->         “(1) __Limitation on principal.—__ 
+>         “(1)  __Limitation on principal__  __.—__ 
 
 >         The amount of any guarantee under this program shall be limited to 90 percent of the principal amount of the underlying loan.
 
->         “(2) __Collateral, fees, and premiums.—__ 
+>         “(2)  __Collateral, fees, and premiums__  __.—__ 
 
 >         The Secretary shall require applicants for the incentive program to post collateral and pay such fees and premiums if feasible, as determined by the Secretary, to offset costs to the Government of potential defaults, and agree to performance measures that the Secretary considers necessary and in the best interest of implementing the NextGen program.
 
->         “(3) __Use of funds.—__ 
+>         “(3)  __Use of funds__  __.—__ 
 
 >         Applications for this program shall be limited to equipment that is installed on general aviation or commercial aircraft and is necessary for communications, surveillance, navigation, or other purposes determined by the Secretary to be in the interests of achieving NextGen capabilities for commercial and general aviation.
 
->     “(e) __Termination of Authority.—__ 
+>     “(e)  __Termination of Authority__  __.—__ 
 
 >     The authority of the Secretary to issue such financial instruments under this section shall terminate 5 years after the date of the establishment of the incentive program.
 
 > “SEC. 222. __OPERATIONAL INCENTIVES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall issue a report that—
 
@@ -1193,7 +1193,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) includes input from industry stakeholders, including passenger and cargo air carriers, aerospace manufacturers, and general aviation aircraft operators.
 
->     “(b) __Deadline.—__ 
+>     “(b)  __Deadline__  __.—__ 
 
 >     The Administrator shall issue the report before the earlier of—
 
@@ -1211,17 +1211,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 112–95, title II, § 225][/us/pl/112/95/s225], Feb. 14, 2012, [126 Stat. 55][/us/stat/126/55], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall submit to Congress a report on the strategy of the Administrator for implementing, on an accelerated basis, the NextGen operational capabilities produced by the Greener Skies project, as recommended in the final report of the RTCA NextGen Mid-Term Implementation Task Force that was issued on September 9, 2009.
 
 >     “(b) __Subsequent Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall include the following:
 
@@ -1241,39 +1241,39 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “In this subtitle, the following definitions apply:
 
->     “(1) __Arctic.—__ 
+>     “(1)  __Arctic__  __.—__ 
 
 >     The term ‘Arctic’ means the United States zone of the Chukchi Sea, Beaufort Sea, and Bering Sea north of the Aleutian chain.
 
->     “(2) __Certificate of waiver; certificate of authorization.—__ 
+>     “(2)  __Certificate of waiver; certificate of authorization__  __.—__ 
 
 >     The terms ‘certificate of waiver’ and ‘certificate of authorization’ mean a Federal Aviation Administration grant of approval for a specific flight operation.
 
->     “(3) __Permanent areas.—__ 
+>     “(3)  __Permanent areas__  __.—__ 
 
 >     The term ‘permanent areas’ means areas on land or water that provide for launch, recovery, and operation of small unmanned aircraft.
 
->     “(4) __Public unmanned aircraft system.—__ 
+>     “(4)  __Public unmanned aircraft system__  __.—__ 
 
 >     The term ‘public unmanned aircraft system’ means an unmanned aircraft system that meets the qualifications and conditions required for operation of a public aircraft (as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code).
 
->     “(5) __Sense and avoid capability.—__ 
+>     “(5)  __Sense and avoid capability__  __.—__ 
 
 >     The term ‘sense and avoid capability’ means the capability of an unmanned aircraft to remain a safe distance from and to avoid collisions with other airborne aircraft.
 
->     “(6) __Small unmanned aircraft.—__ 
+>     “(6)  __Small unmanned aircraft__  __.—__ 
 
 >     The term ‘small unmanned aircraft’ means an unmanned aircraft weighing less than 55 pounds.
 
->     “(7) __Test range.—__ 
+>     “(7)  __Test range__  __.—__ 
 
 >     The term ‘test range’ means a defined geographic area where research and development are conducted.
 
->     “(8) __Unmanned aircraft.—__ 
+>     “(8)  __Unmanned aircraft__  __.—__ 
 
 >     The term ‘unmanned aircraft’ means an aircraft that is operated without the possibility of direct human intervention from within or on the aircraft.
 
->     “(9) __Unmanned aircraft system.—__ 
+>     “(9)  __Unmanned aircraft system__  __.—__ 
 
 >     The term ‘unmanned aircraft system’ means an unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft) that are required for the pilot in command to operate safely and efficiently in the national airspace system.
 
@@ -1281,11 +1281,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Required Planning for Integration.—__ 
 
->         “(1) __Comprehensive plan.—__ 
+>         “(1)  __Comprehensive plan__  __.—__ 
 
 >         Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation, in consultation with representatives of the aviation industry, Federal agencies that employ unmanned aircraft systems technology in the national airspace system, and the unmanned aircraft systems industry, shall develop a comprehensive plan to safely accelerate the integration of civil unmanned aircraft systems into the national airspace system.
 
->         “(2) __Contents of plan.—__ 
+>         “(2)  __Contents of plan__  __.—__ 
 
 >         The plan required under paragraph (1) shall contain, at a minimum, recommendations or projections on—
 
@@ -1315,19 +1315,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(I) incorporation of the plan into the annual NextGen Implementation Plan document (or any successor document) of the Federal Aviation Administration.
 
->         “(3) __Deadline.—__ 
+>         “(3)  __Deadline__  __.—__ 
 
 >         The plan required under paragraph (1) shall provide for the safe integration of civil unmanned aircraft systems into the national airspace system as soon as practicable, but not later than September 30, 2015.
 
->         “(4) __Report to congress.—__ 
+>         “(4)  __Report to congress__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall submit to Congress a copy of the plan required under paragraph (1).
 
->         “(5) __Roadmap.—__ 
+>         “(5)  __Roadmap__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act, the Secretary shall approve and make available in print and on the Administration’s Internet Web site a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update the roadmap annually.
 
->     “(b) __Rulemaking.—__ 
+>     “(b)  __Rulemaking__  __.—__ 
 
 >     Not later than 18 months after the date on which the plan required under subsection (a)(1) is submitted to Congress under subsection (a)(4), the Secretary shall publish in the Federal Register—
 
@@ -1339,11 +1339,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(c) __Pilot Projects.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall establish a program to integrate unmanned aircraft systems into the national airspace system at 6 test ranges. The program shall terminate 5 years after the date of enactment of this Act.
 
->         “(2) __Program requirements.—__ 
+>         “(2)  __Program requirements__  __.—__ 
 
 >         In establishing the program under paragraph (1), the Administrator shall—
 
@@ -1359,7 +1359,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(F) provide for verification of the safety of unmanned aircraft systems and related navigation procedures before integration into the national airspace system.
 
->         “(3) __Test range locations.—__ 
+>         “(3)  __Test range locations__  __.—__ 
 
 >         In determining the location of the 6 test ranges of the program under paragraph (1), the Administrator shall—
 
@@ -1369,17 +1369,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(C) consult with the National Aeronautics and Space Administration and the Department of Defense.
 
->         “(4) __Test range operation.—__ 
+>         “(4)  __Test range operation__  __.—__ 
 
 >         A project at a test range shall be operational not later than 180 days after the date on which the project is established.
 
 >         “(5) __Report to congress.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 90 days after the date of the termination of the program under paragraph (1), the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report setting forth the Administrator’s findings and conclusions concerning the projects.
 
->             “(B) __Additional contents.—__ 
+>             “(B)  __Additional contents__  __.—__ 
 
 >             The report under subparagraph (A) shall include a description and assessment of the progress being made in establishing special use airspace to fill the immediate need of the Department of Defense—
 
@@ -1389,25 +1389,25 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(d) __Expanding Use of Unmanned Aircraft Systems in Arctic.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall develop a plan and initiate a process to work with relevant Federal agencies and national and international communities to designate permanent areas in the Arctic where small unmanned aircraft may operate 24 hours per day for research and commercial purposes. The plan for operations in these permanent areas shall include the development of processes to facilitate the safe operation of unmanned aircraft beyond line of sight. Such areas shall enable over-water flights from the surface to at least 2,000 feet in altitude, with ingress and egress routes from selected coastal launch sites.
 
->         “(2) __Agreements.—__ 
+>         “(2)  __Agreements__  __.—__ 
 
 >         To implement the plan under paragraph (1), the Secretary may enter into an agreement with relevant national and international communities.
 
->         “(3) __Aircraft approval.—__ 
+>         “(3)  __Aircraft approval__  __.—__ 
 
 >         Not later than 1 year after the entry into force of an agreement necessary to effectuate the purposes of this subsection, the Secretary shall work with relevant national and international communities to establish and implement a process, or may apply an applicable process already established, for approving the use of unmanned aircraft in the designated permanent areas in the Arctic without regard to whether an unmanned aircraft is used as a public aircraft, a civil aircraft, or a model aircraft.
 
 > “SEC. 333. __SPECIAL RULES FOR CERTAIN UNMANNED AIRCRAFT SYSTEMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of the plan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
 
->     “(b) __Assessment of Unmanned Aircraft Systems.—__ 
+>     “(b)  __Assessment of Unmanned Aircraft Systems__  __.—__ 
 
 >     In making the determination under subsection (a), the Secretary shall determine, at a minimum—
 
@@ -1415,13 +1415,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) whether a certificate of waiver, certificate of authorization, or airworthiness certification under [section 44704 of title 49][/us/usc/t49/s44704], United States Code, is required for the operation of unmanned aircraft systems identified under paragraph (1).
 
->     “(c) __Requirements for Safe Operation.—__ 
+>     “(c)  __Requirements for Safe Operation__  __.—__ 
 
 >     If the Secretary determines under this section that certain unmanned aircraft systems may operate safely in the national airspace system, the Secretary shall establish requirements for the safe operation of such aircraft systems in the national airspace system.
 
 > “SEC. 334. __PUBLIC UNMANNED AIRCRAFT SYSTEMS.__ 
 
->     “(a) __Guidance.—__ 
+>     “(a)  __Guidance__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall issue guidance regarding the operation of public unmanned aircraft systems to—
 
@@ -1433,17 +1433,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(4) provide guidance on a public entity’s responsibility when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
 
->     “(b) __Standards for Operation and Certification.—__ 
+>     “(b)  __Standards for Operation and Certification__  __.—__ 
 
 >     Not later than December 31, 2015, the Administrator shall develop and implement operational and certification requirements for the operation of public unmanned aircraft systems in the national airspace system.
 
 >     “(c) __Agreements With Government Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall enter into agreements with appropriate government agencies to simplify the process for issuing certificates of waiver or authorization with respect to applications seeking authorization to operate public unmanned aircraft systems in the national airspace system.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The agreements shall—
 
@@ -1479,7 +1479,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 336. __SPECIAL RULE FOR MODEL AIRCRAFT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law relating to the incorporation of unmanned aircraft systems into Federal Aviation Administration plans and policies, including this subtitle, the Administrator of the Federal Aviation Administration may not promulgate any rule or regulation regarding a model aircraft, or an aircraft being developed as a model aircraft, if—
 
@@ -1493,11 +1493,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) when flown within 5 miles of an airport, the operator of the aircraft provides the airport operator and the airport air traffic control tower (when an air traffic facility is located at the airport) with prior notice of the operation (model aircraft operators flying from a permanent location within 5 miles of an airport should establish a mutually-agreed upon operating procedure with the airport operator and the airport air traffic control tower (when an air traffic facility is located at the airport)).
 
->     “(b) __Statutory Construction.—__ 
+>     “(b)  __Statutory Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to limit the authority of the Administrator to pursue enforcement action against persons operating model aircraft who endanger the safety of the national airspace system.
 
->     “(c) __Model Aircraft Defined.—__ 
+>     “(c)  __Model Aircraft Defined__  __.—__ 
 
 >     In this section, the term ‘model aircraft’ means an unmanned aircraft that is—
 
@@ -1511,7 +1511,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 112–95, title VIII, § 821][/us/pl/112/95/s821], Feb. 14, 2012, [126 Stat. 128][/us/stat/126/128], provided that:
 
->     “(a) __Reimbursement of Fuel Costs.—__ 
+>     “(a)  __Reimbursement of Fuel Costs__  __.—__ 
 
 >     Notwithstanding any other law or regulation, in administering section 61.113(c) of title 14, Code of Federal Regulations (or any successor regulation), the Administrator of the Federal Aviation Administration shall allow an aircraft owner or operator to accept reimbursement from a volunteer pilot organization for the fuel costs associated with a flight operation to provide transportation for an individual or organ for medical purposes (and for other associated individuals), if the aircraft owner or operator has—
 
@@ -1519,11 +1519,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) notified any individual that will be on the flight, at the time of inquiry about the flight, that the flight operation is for charitable purposes and is not subject to the same requirements as a commercial flight.
 
->     “(b) __Conditions to Ensure Safety.—__ 
+>     “(b)  __Conditions to Ensure Safety__  __.—__ 
 
 >     The Administrator may impose minimum standards with respect to training and flight hours for single-engine, multi-engine, and turbine-engine operations conducted by an aircraft owner or operator that is being reimbursed for fuel costs by a volunteer pilot organization, including mandating that the pilot in command of such aircraft hold an instrument rating and be current and qualified for the aircraft being flown to ensure the safety of flight operations described in subsection (a).
 
->     “(c) __Volunteer Pilot Organization.—__ 
+>     “(c)  __Volunteer Pilot Organization__  __.—__ 
 
 >     In this section, the term ‘volunteer pilot organization’ means an organization that—
 
@@ -1535,21 +1535,21 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 112–95, title IX, § 909][/us/pl/112/95/s909], Feb. 14, 2012, [126 Stat. 141][/us/stat/126/141], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator, in coordination with NASA and after consultation with other relevant agencies, may maintain a research program to assess the potential effect of aviation activities on the environment and, if warranted, to evaluate approaches to address any such effect.
 
 >     “(b) __Research Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator, in coordination with NASA and after consultation with other relevant agencies, shall jointly develop a plan to carry out the research under subsection (a).
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The plan shall contain an inventory of current interagency research being undertaken in this area, future research objectives, proposed tasks, milestones, and a 5-year budgetary profile.
 
->         “(3) __Requirements.—__ 
+>         “(3)  __Requirements__  __.—__ 
 
 >         The plan—
 
@@ -1563,11 +1563,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 112–81, div. A, title X, § 1097][/us/pl/112/81/s1097], Dec. 31, 2011, [125 Stat. 1608][/us/stat/125/1608], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Administrator of the Federal Aviation Administration shall establish a program to integrate unmanned aircraft systems into the national airspace system at six test ranges.
 
->     “(b) __Program Requirements.—__ 
+>     “(b)  __Program Requirements__  __.—__ 
 
 >     In establishing the program under subsection (a), the Administrator shall—
 
@@ -1583,7 +1583,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(6) provide for verification of the safety of unmanned aircraft systems and related navigation procedures before integration into the national airspace system.
 
->     “(c) __Locations.—__ 
+>     “(c)  __Locations__  __.—__ 
 
 >     In determining the location of a test range for the program under subsection (a), the Administrator shall—
 
@@ -1593,19 +1593,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) consult with the Department of Defense and the National Aeronautics and Space Administration.
 
->     “(d) __Test Range Operation.—__ 
+>     “(d)  __Test Range Operation__  __.—__ 
 
 >     A project at a test range shall be operational not later than 180 days after the date on which the project is established.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of completing each of the pilot projects, the Administrator shall submit to the appropriate congressional committees a report setting forth the Administrator’s findings and conclusions concerning the projects that includes a description and assessment of the progress being made in establishing special use airspace to fill the immediate need of the Department of Defense to develop detection techniques for small unmanned aircraft systems and to validate sensor integration and operation of unmanned aircraft systems.
 
->     “(f) __Duration.—__ 
+>     “(f)  __Duration__  __.—__ 
 
 >     The program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act \[Dec. 31, 2011\].
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     In this section:
 
@@ -1667,7 +1667,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title III, § 321][/us/pl/108/176/s321], Dec. 12, 2003, [117 Stat. 2540][/us/stat/117/2540], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, in consultation with the Administrator of the National Aeronautics and Space Administration, shall conduct a study of ways to reduce aircraft noise and emissions and to increase aircraft fuel efficiency. The study shall—
 
@@ -1683,11 +1683,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(6) develop an implementation plan for exploiting such emerging technologies to attain those goals.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall transmit a report on the study to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure within 1 year after the date of enactment of this Act \[Dec. 12, 2003\].
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary $500,000 for fiscal year 2004 to carry out this section.”
 
@@ -1695,11 +1695,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title III, § 326][/us/pl/108/176/s326], Dec. 12, 2003, [117 Stat. 2542][/us/stat/117/2542], provided that:
 
->     “(a) __Establishment of Research Program.—__ 
+>     “(a)  __Establishment of Research Program__  __.—__ 
 
 >     From amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Secretary of Transportation shall establish a research program related to reducing community exposure to civilian aircraft noise or emissions through grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies. The program shall include participation by educational and research institutions that have existing facilities for developing and testing noise reduction engine technology.
 
->     “(b) __Designation of Institute as a Center of Excellence.—__ 
+>     “(b)  __Designation of Institute as a Center of Excellence__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall designate an institution described in subsection (a) as a Center of Excellence for Noise and Emission Research.”
 
@@ -1707,7 +1707,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title VII, § 709][/us/pl/108/176/s709], Dec. 12, 2003, [117 Stat. 2582][/us/stat/117/2582], as amended by [Pub. L. 112–95, title II, § 208(a)][/us/pl/112/95/s208/a]–(c), Feb. 14, 2012, [126 Stat. 40–43][/us/stat/126/40-43], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1) The Secretary of Transportation shall establish in the Federal Aviation Administration a joint planning and development office to manage work related to the Next Generation Air Transportation System. The office shall be known as the Next Generation Air Transportation System Joint Planning and Development Office (in this section referred to as the ‘Office’).
 
@@ -1795,7 +1795,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(7) The Associate Administrator for Next Generation Air Transportation System Planning, Development, and Interagency Coordination shall be a voting member of the Joint Resources Council of the Federal Aviation Administration.
 
->     “(b) __Integrated Plan.—__ 
+>     “(b)  __Integrated Plan__  __.—__ 
 
 >     The integrated plan shall be designed to ensure that the Next Generation Air Transportation System meets anticipated future air transportation safety, security, mobility, efficiency, and capacity needs and accomplishes the goals under subsection (c). The integrated plan shall include—
 
@@ -1835,7 +1835,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(H) a description of potentially significant operational or workforce changes resulting from deployment of the Next Generation Air Transportation System.
 
->     “(c) __Goals.—__ 
+>     “(c)  __Goals__  __.—__ 
 
 >     The Next Generation Air Transportation System shall—
 
@@ -1853,11 +1853,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(7) take into consideration, to the greatest extent practicable, design of airport approach and departure flight paths to reduce exposure of noise and emissions pollution on affected residents.
 
->     “(d) __NextGen Implementation Plan.—__ 
+>     “(d)  __NextGen Implementation Plan__  __.—__ 
 
 >     The Administrator shall develop and publish annually the document known as the NextGen Implementation Plan, or any successor document, that provides a detailed description of how the agency is implementing the Next Generation Air Transportation System.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Office $50,000,000 for each of the fiscal years 2004 through 2010.”
 
@@ -1865,11 +1865,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title VII, § 710][/us/pl/108/176/s710], Dec. 12, 2003, [117 Stat. 2584][/us/stat/117/2584], as amended by [Pub. L. 112–95, title II, § 209][/us/pl/112/95/s209], Feb. 14, 2012, [126 Stat. 43][/us/stat/126/43], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall establish a senior policy committee to work with the Next Generation Air Transportation System Joint Planning and Development Office. The senior policy committee shall be chaired by the Secretary and shall meet at least twice each year.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     In addition to the Secretary, the senior policy committee shall be composed of—
 
@@ -1887,7 +1887,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(7) designees from other Federal agencies determined by the Secretary of Transportation to have an important interest in, or responsibility for, other aspects of the system.
 
->     “(c) __Function.—__ 
+>     “(c)  __Function__  __.—__ 
 
 >     The senior policy committee shall—
 
@@ -1901,17 +1901,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) make legislative recommendations, as appropriate, for the future air transportation system.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In carrying out its functions under this section, the senior policy committee shall consult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.
 
 >     “(e) __Annual Report.—__ 
 
->         “(1) __Submission to congress.—__ 
+>         “(1)  __Submission to congress__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this subsection \[Feb. 14, 2012\], and annually thereafter on the date of submission of the President’s budget request to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, the Secretary shall submit to Congress a report summarizing the progress made in carrying out the integrated work plan required by section 709(b)(5) \[of [Pub. L. 108–176][/us/pl/108/176], set out as a note above\] and any changes in that plan.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report shall include—
 
@@ -1935,7 +1935,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title VIII, § 817][/us/pl/108/176/s817], Dec. 12, 2003, [117 Stat. 2592][/us/stat/117/2592], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation may make grants to reimburse the following general aviation entities for the security costs incurred and revenue foregone as a result of the restrictions imposed by the Federal Government following the terrorist attacks on the United States that occurred on September 11, 2001:
 
@@ -1949,11 +1949,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) Sightseeing operations that were not authorized to resume in enhanced class B air space under Federal Aviation Administration notice to airmen 1/1225.
 
->     “(b) __Documentation.—__ 
+>     “(b)  __Documentation__  __.—__ 
 
 >     Reimbursement under this section shall be made in accordance with sworn financial statements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
 
->     “(c) __General Aviation Entity Defined.—__ 
+>     “(c)  __General Aviation Entity Defined__  __.—__ 
 
 >     In this section, the term ‘general aviation entity’ means any person (other than a scheduled air carrier or foreign air carrier, as such terms are defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code) that—
 
@@ -1973,7 +1973,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         Such term includes fixed based operators, flight schools, manufacturers of general aviation aircraft and products, persons engaged in nonscheduled aviation enterprises, and general aviation independent contractors.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $100,000,000. Such sums shall remain available until expended.”
 
@@ -1981,19 +1981,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title VIII, § 826][/us/pl/108/176/s826], Dec. 12, 2003, [117 Stat. 2596][/us/stat/117/2596], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that the United States Government has by law provided substantial financial assistance to United States commercial airlines in the form of war risk insurance and reinsurance and other economic benefits and has imposed substantial economic and regulatory burdens on those airlines. In order to determine the economic viability of the domestic commercial airline industry and to evaluate the need for additional measures or the modification of existing laws, Congress needs more frequent information and independently verified information about the financial condition of these airlines.
 
->     “(b) __GAO Report.—__ 
+>     “(b) __GAO__  __Report__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Dec. 12, 2003\], the Comptroller General shall prepare a report for Congress analyzing the financial condition of the United States airline industry in its efforts to reduce the costs, improve the earnings and profits and balances of each individual air carrier. The report shall recommend steps that the industry should take to become financially self-sufficient.
 
->     “(c) __GAO Authority.—__ 
+>     “(c) __GAO__  __Authority__  __.—__ 
 
 >     In order to compile the report required by subsection (b), the Comptroller General, or any of the Comptroller General’s duly authorized representatives, shall have access for the purpose of audit and examination to any books, accounts, documents, papers, and records of such air carriers that relate to the information required to compile the report. The Comptroller General shall submit with the report a certification as to whether the Comptroller General has had access to sufficient information to make informed judgments on the matters covered by the report.
 
->     “(d) __Reports to Congress.—__ 
+>     “(d)  __Reports to Congress__  __.—__ 
 
 >     The Comptroller General shall transmit the report required by subsection (b) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
 
@@ -2001,7 +2001,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 107–71, title I, § 127][/us/pl/107/71/s127], Nov. 19, 2001, [115 Stat. 632][/us/stat/115/632], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During a national emergency affecting air transportation or intrastate air transportation, the Secretary of Transportation, after consultation with the Transportation Security Oversight Board, may grant a complete or partial waiver of any restrictions on the carriage by aircraft of freight, mail, emergency medical supplies, personnel, or patients on aircraft, imposed by the Department of Transportation (or other Federal agency or department) that would permit such carriage of freight, mail, emergency medical supplies, personnel, or patients on flights, to, from, or within a State if the Secretary determines that—
 
@@ -2009,7 +2009,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) the waiver is in the public interest, taking into consideration the isolation of and dependence on air transportation of the State.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     The Secretary may impose reasonable limitations on any such waiver.”
 
@@ -2039,7 +2039,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 101. __AVIATION DISASTER RELIEF.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the President shall take the following actions to compensate air carriers for losses incurred by the air carriers as a result of the terrorist attacks on the United States that occurred on September 11, 2001:
 
@@ -2053,7 +2053,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(B) the incremental losses incurred beginning September 11, 2001, and ending December 31, 2001, by air carriers as a direct result of such attacks.
 
->     “(b) __Emergency Designation.—__ 
+>     “(b)  __Emergency Designation__  __.—__ 
 
 >     Congress designates the amount of new budget authority and outlays in all fiscal years resulting from this title as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 901(e)][/us/usc/t2/s901/e]). Such amount shall be available only to the extent that a request, that includes designation of such amount as an emergency requirement as defined in such Act \[see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900], The Congress\], is transmitted by the President to Congress.
 
@@ -2061,11 +2061,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 103. __SPECIAL RULES FOR COMPENSATION.__ 
 
->     “(a) __Documentation.—__ 
+>     “(a)  __Documentation__  __.—__ 
 
 >     Subject to subsection (b), the amount of compensation payable to an air carrier under section 101(a)(2) may not exceed the amount of losses described in section 101(a)(2) that the air carrier demonstrates to the satisfaction of the President, using sworn financial statements or other appropriate data, that the air carrier incurred. The Secretary of Transportation and the Comptroller General of the United States may audit such statements and may request any information that the Secretary and the Comptroller General deems necessary to conduct such audit.
 
->     “(b) __Maximum Amount of Compensation Payable Per Air Carrier.—__ 
+>     “(b)  __Maximum Amount of Compensation Payable Per Air Carrier__  __.—__ 
 
 >     The maximum total amount of compensation payable to an air carrier under section 101(a)(2) may not exceed the lesser of—
 
@@ -2103,17 +2103,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(II) the total revenue ton miles or other auditable measure of all such air carriers for cargo for such quarter as reported to the Secretary.
 
->     “(c) __Payments.—__ 
+>     “(c)  __Payments__  __.—__ 
 
 >     The President may provide compensation to air carriers under section 101(a)(2) in 1 or more payments up to the amount authorized by this title.
 
 >     “(d) __Compensation for Certain Air Carriers.—__ 
 
->         “(1) __Set-aside.—__ 
+>         “(1)  __Set-aside__  __.—__ 
 
 >         The President may set aside a portion of the amount of compensation payable to air carriers under section 101(a)(2) to provide compensation to classes of air carriers, such as air tour operators and air ambulances (including hospitals operating air ambulances) for whom the application of a distribution formula containing available seat miles as a factor would inadequately reflect their share of direct and incremental losses. The President shall reduce the $4,500,000,000 specified in subsection (b)(2)(A)(i) by the amount set aside under this subsection.
 
->         “(2) __Distribution of amounts.—__ 
+>         “(2)  __Distribution of amounts__  __.—__ 
 
 >         The President shall distribute the amount set aside under this subsection proportionally among such air carriers based on an appropriate auditable measure, as determined by the President.
 
@@ -2121,31 +2121,31 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 105. __CONTINUATION OF CERTAIN AIR SERVICE.__ 
 
->     “(a) __Action of Secretary.—__ 
+>     “(a)  __Action of Secretary__  __.—__ 
 
 >     The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
 
->     “(b) __Essential Air Service.—__ 
+>     “(b)  __Essential Air Service__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out the essential air service program under subchapter II of chapter 417 of title 49, United States Code, $120,000,000 for fiscal year 2002.
 
 >     “(c) __Secretarial Oversight.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance under this Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
 
->         “(2) __Agreements.—__ 
+>         “(2)  __Agreements__  __.—__ 
 
 >         In applying paragraph (1), the Secretary may require air carriers receiving direct financial assistance under this Act to enter into agreements which will ensure, to the maximum extent practicable, that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service.
 
 > “SEC. 106. __REPORTS.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than February 1, 2002, the President shall transmit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on the Budget of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on the Budget of the Senate a report on the financial status of the air carrier industry and the amounts of assistance provided under this title to each air carrier.
 
->     “(b) __Update.—__ 
+>     “(b)  __Update__  __.—__ 
 
 >     Not later than the last day of the 7-month period following the date of enactment of this Act \[Sept. 22, 2001\], the President shall update and transmit the report to the Committees.
 
@@ -2153,13 +2153,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “In this title, the following definitions apply:
 
->     “(1) __Air carrier.—__ 
+>     “(1)  __Air carrier__  __.—__ 
 
 >     The term ‘air carrier’ has the meaning such term has under [section 40102 of title 49][/us/usc/t49/s40102], United States Code.
 
 >     “\[(2) Repealed. [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974].\]
 
->     “(3) __Incremental loss.—__ 
+>     “(3)  __Incremental loss__  __.—__ 
 
 >     The term ‘incremental loss’ does not include any loss that the President determines would have been incurred if the terrorist attacks on the United States that occurred on September 11, 2001, had not occurred.
 
@@ -2167,27 +2167,27 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 201. __DOMESTIC INSURANCE AND REIMBURSEMENT OF INSURANCE COSTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Amended [section 44302 of this title][/us/usc/t49/s44302].\]
 
 >     “(b) __Coverage.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 44303 of this title][/us/usc/t49/s44303].\]
 
 >         “(2) __\[Transferred to__  __[__  __section 44303(b) of this title__  __][/us/usc/t49/s44303/b]__  __.\]__ 
 
->     “(c) __Reinsurance.—__ 
+>     “(c)  __Reinsurance__  __.—__ 
 
 >     \[Amended [section 44304 of this title][/us/usc/t49/s44304].\]
 
->     “(d) __Premiums.—__ 
+>     “(d)  __Premiums__  __.—__ 
 
 >     \[Amended [section 44306 of this title][/us/usc/t49/s44306].\]
 
->     “(e) __Conforming Amendment.—__ 
+>     “(e)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 44305(b) of this title][/us/usc/t49/s44305/b].\]
 
@@ -2201,7 +2201,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Extension of Due Date for Excise Tax Deposits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of an eligible air carrier, any airline-related deposit required under section 6302 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6302][/us/usc/t26/s6302]\] to be made after September 10, 2001, and before November 15, 2001, shall be treated for purposes of such Code \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] as timely made if such deposit is made on or before November 15, 2001. If the Secretary of the Treasury so prescribes, the preceding sentence shall be applied by substituting for ‘November 15, 2001’ each place it appears—
 
@@ -2209,15 +2209,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(B) such earlier date after November 15, 2001, as such Secretary may prescribe.
 
->         “(2) __Eligible air carrier.—__ 
+>         “(2)  __Eligible air carrier__  __.—__ 
 
 >         For purposes of this subsection, the term ‘eligible air carrier’ means any domestic corporation engaged in the trade or business of transporting (for hire) persons by air if such transportation is available to the general public.
 
->         “(3) __Airline-related deposit.—__ 
+>         “(3)  __Airline-related deposit__  __.—__ 
 
 >         For purposes of this subsection, the term ‘airline-related deposit’ means any deposit of taxes imposed by subchapter C of chapter 33 of such Code \[[26 U.S.C. 4261][/us/usc/t26/s4261] et seq.\] (relating to transportation by air).
 
->     “(b) __Treatment of Loss Compensation.—__ 
+>     “(b)  __Treatment of Loss Compensation__  __.—__ 
 
 >     Nothing in any provision of law shall be construed to exclude from gross income under the Internal Revenue Code of 1986 any compensation received under section 101(a)(2) of this Act.
 
@@ -2231,59 +2231,59 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “In this title, the following definitions apply:
 
->     “(1) __Air carrier.—__ 
+>     “(1)  __Air carrier__  __.—__ 
 
 >     The term ‘air carrier’ means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation and includes employees and agents (including persons engaged in the business of providing air transportation security and their affiliates) of such citizen. For purposes of the preceding sentence, the term ‘agent’, as applied to persons engaged in the business of providing air transportation security, shall only include persons that have contracted directly with the Federal Aviation Administration on or after and commenced services no later than February 17, 2002, to provide such security, and had not been or are not debarred for any period within 6 months from that date.
 
->     “(2) __Air transportation.—__ 
+>     “(2)  __Air transportation__  __.—__ 
 
 >     The term ‘air transportation’ means foreign air transportation, interstate air transportation, or the transportation of mail by aircraft.
 
->     “(3) __Aircraft manufacturer.—__ 
+>     “(3)  __Aircraft manufacturer__  __.—__ 
 
 >     The term ‘aircraft manufacturer’ means any entity that manufactured the aircraft or any parts or components of the aircraft involved in the terrorist related aircraft crashes of September 11, 2001, including employees and agents of that entity.
 
->     “(4) __Airport sponsor.—__ 
+>     “(4)  __Airport sponsor__  __.—__ 
 
 >     The term ‘airport sponsor’ means the owner or operator of an airport (as defined in [section 40102 of title 49][/us/usc/t49/s40102], United States Code).
 
->     “(5) __Claimant.—__ 
+>     “(5)  __Claimant__  __.—__ 
 
 >     The term ‘claimant’ means an individual filing a claim for compensation under section 405(a)(1).
 
->     “(6) __Collateral source.—__ 
+>     “(6)  __Collateral source__  __.—__ 
 
 >     The term ‘collateral source’ means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including under the World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, [42 U.S.C. 300mm][/us/usc/t42/s300mm]\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
 
->     “(7) __Contractor and subcontractor.—__ 
+>     “(7)  __Contractor and subcontractor__  __.—__ 
 
 >     The term ‘contractor and subcontractor’ means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
->     “(8) __Debris removal.—__ 
+>     “(8)  __Debris removal__  __.—__ 
 
 >     The term ‘debris removal’ means rescue and recovery efforts, removal of debris, cleanup, remediation, and response during the immediate aftermath of the terrorist-related aircraft crashes of September 11, 2001, with respect to a 9/11 crash site.
 
->     “(9) __Economic loss.—__ 
+>     “(9)  __Economic loss__  __.—__ 
 
 >     The term ‘economic loss’ means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
->     “(10) __Eligible individual.—__ 
+>     “(10)  __Eligible individual__  __.—__ 
 
 >     The term ‘eligible individual’ means an individual determined to be eligible for compensation under section 405(c).
 
->     “(11) __Immediate aftermath.—__ 
+>     “(11)  __Immediate aftermath__  __.—__ 
 
 >     The term ‘immediate aftermath’ means any period beginning with the terrorist-related aircraft crashes of September 11, 2001, and ending on May 30, 2002.
 
->     “(12) __Noneconomic losses.—__ 
+>     “(12)  __Noneconomic losses__  __.—__ 
 
 >     The term ‘noneconomic losses’ means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation, and all other nonpecuniary losses of any kind or nature.
 
->     “(13) __Special master.—__ 
+>     “(13)  __Special master__  __.—__ 
 
 >     The term ‘Special Master’ means the Special Master appointed under section 404(a).
 
->     “(14) __9/11 crash site.—__ 
+>     “(14) __9/11__  __crash site__  __.—__ 
 
 >     The term ‘9/11 crash site’ means—
 
@@ -2301,7 +2301,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 404. __ADMINISTRATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General, acting through a Special Master appointed by the Attorney General, shall—
 
@@ -2311,7 +2311,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) employ and supervise hearing officers and other administrative personnel to perform the duties of the Special Master under this title.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to pay the administrative and support costs for the Special Master in carrying out this title.
 
@@ -2319,17 +2319,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Filing of Claim.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A claimant may file a claim for compensation under this title with the Special Master. The claim shall be on the form developed under paragraph (2) and shall state the factual basis for eligibility for compensation and the amount of compensation sought.
 
 >         “(2) __Claim form.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Special Master shall develop a claim form that claimants shall use when submitting claims under paragraph (1). The Special Master shall ensure that such form can be filed electronically, if determined to be practicable.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The form developed under subparagraph (A) shall request—
 
@@ -2341,17 +2341,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) __Limitation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided by subparagraph (B), no claim may be filed under paragraph (1) after the date that is 2 years after the date on which regulations are promulgated under section 407(a).
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b) and ending on the date that is 5 years after the date on which such regulations are updated.
 
 >     “(b) __Review and Determination.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Special Master shall review a claim submitted under subsection (a) and determine—
 
@@ -2365,15 +2365,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
 
->         “(2) __Negligence.—__ 
+>         “(2)  __Negligence__  __.—__ 
 
 >         With respect to a claimant, the Special Master shall not consider negligence or any other theory of liability.
 
->         “(3) __Determination.—__ 
+>         “(3)  __Determination__  __.—__ 
 
 >         Not later than 120 days after that date on which a claim is filed under subsection (a), the Special Master shall complete a review, make a determination, and provide written notice to the claimant, with respect to the matters that were the subject of the claim under review. Such a determination shall be final and not subject to judicial review.
 
->         “(4) __Rights of claimant.—__ 
+>         “(4)  __Rights of claimant__  __.—__ 
 
 >         A claimant in a review under paragraph (1) shall have—
 
@@ -2383,17 +2383,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(C) any other due process rights determined appropriate by the Special Master.
 
->         “(5) __No punitive damages.—__ 
+>         “(5)  __No punitive damages__  __.—__ 
 
 >         The Special Master may not include amounts for punitive damages in any compensation paid under a claim under this title.
 
->         “(6) __Collateral compensation.—__ 
+>         “(6)  __Collateral compensation__  __.—__ 
 
 >         The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
 
 >     “(c) __Eligibility.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A claimant shall be determined to be an eligible individual for purposes of this subsection if the Special Master determines that such claimant—
 
@@ -2401,7 +2401,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(B) meets the requirements of paragraph (3).
 
->         “(2) __Individuals.—__ 
+>         “(2)  __Individuals__  __.—__ 
 
 >         A claimant is an individual described in this paragraph if the claimant is—
 
@@ -2421,7 +2421,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(A) __Requirements for filing claims during extended filing period.—__ 
 
->                 “(i) __Timing requirements for filing claims.—__ 
+>                 “(i)  __Timing requirements for filing claims__  __.—__ 
 
 >                 An individual (or a personal representative on behalf of a deceased individual) may file a claim during the period described in subsection (a)(3)(B) as follows:
 
@@ -2429,7 +2429,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(II) In the case that the Special Master determines the individual first knew (or reasonably should have known) on or after the date specified in clause (iii) that the individual suffered such a physical harm or that the individual first knew (or should have known) on or after such specified date that the individual was eligible to file a claim under this title, the individual may file a claim not later than the last day of the 2-year period beginning on the date the Special Master determines the individual first knew (or should have known) that the individual both suffered from such harm and was eligible to file a claim under this title.
 
->                 “(ii) __Other eligibility requirements for filing claims.—__ 
+>                 “(ii)  __Other eligibility requirements for filing claims__  __.—__ 
 
 >                 An individual may file a claim during the period described in subsection (a)(3)(B) only if—
 
@@ -2437,7 +2437,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(II) the individual’s physical harm is verified by contemporaneous medical records created by or at the direction of the medical professional who provided the medical care.
 
->                 “(iii) __Date specified.—__ 
+>                 “(iii)  __Date specified__  __.—__ 
 
 >                 The date specified in this clause is the date on which the regulations are updated under section 407(a).
 
@@ -2447,11 +2447,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(C) __Limitation on civil action.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Upon the submission of a claim under this title, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, or for damages arising from or related to debris removal. The preceding sentence does not apply to a civil action to recover collateral source obligations, or to a civil action against any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act.
 
->                 “(ii) __Pending actions.—__ 
+>                 “(ii)  __Pending actions__  __.—__ 
 
 >                 In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit a claim under this title—
 
@@ -2459,39 +2459,39 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b).
 
->                 “(iii) __Settled actions.—__ 
+>                 “(iii)  __Settled actions__  __.—__ 
 
 >                 In the case of an individual who settled a civil action described in clause (i), such individual may not submit a claim under this title unless such action was commenced after December 22, 2003, and a release of all claims in such action was tendered prior to the date on which the James Zadroga 9/11 Health and Compensation Act of 2010 \[[Pub. L. 111–347][/us/pl/111/347]\] was enacted \[Jan. 2, 2011\].
 
 > “SEC. 406. __PAYMENTS TO ELIGIBLE INDIVIDUALS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to the limitations under subsection (d), not later than 20 days after the date on which a determination is made by the Special Master regarding the amount of compensation due a claimant under this title, the Special Master shall authorize payment to such claimant of the amount determined with respect to the claimant.
 
->     “(b) __Payment Authority.—__ 
+>     “(b)  __Payment Authority__  __.—__ 
 
 >     This title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
 
 >     “(c) __Additional Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General is authorized to accept such amounts as may be contributed by individuals, business concerns, or other entities to carry out this title, under such terms and conditions as the Attorney General may impose.
 
->         “(2) __Use of separate account.—__ 
+>         “(2)  __Use of separate account__  __.—__ 
 
 >         In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
 
 >     “(d) __Limitation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The total amount of Federal funds paid for compensation under this title, with respect to claims filed on or after the date on which the regulations are updated under section 407(b), shall not exceed $2,775,000,000. Of such amounts, not to exceed $875,000,000 shall be available to pay such claims during the 5-year period beginning on such date.
 
 >         “(2) __Pro-ration and payment of remaining claims.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Special Master shall ratably reduce the amount of compensation due claimants under this title in a manner to ensure, to the extent possible, that—
 
@@ -2499,7 +2499,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) the total amount of all such payments made during such 5-year period do not exceed the amount available under the second sentence of paragraph (1) to pay claims during such period.
 
->             “(B) __Payment of remainder of claim amounts.—__ 
+>             “(B)  __Payment of remainder of claim amounts__  __.—__ 
 
 >             In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
 
@@ -2507,23 +2507,23 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) the amount the claimant was paid under this title during such period.
 
->             “(C) __Termination.—__ 
+>             “(C)  __Termination__  __.—__ 
 
 >             Upon completion of all payments pursuant to this subsection, the Victim’s Compensation Fund shall be permanently closed.
 
 >     “(e) __Attorney Fees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any contract, the representative of an individual may not charge, for services rendered in connection with the claim of an individual under this title, more than 10 percent of an award made under this title on such claim.
 
 >         “(2) __Limitation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), in the case of an individual who was charged a legal fee in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii), the representative of the individual may not charge any amount for compensation for services rendered in connection with a claim filed under this title.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             If the legal fee charged in connection with the settlement of a civil action described in section 405(c)(3)(C)(iii) of an individual is less than 10 percent of the aggregate amount of compensation awarded to such individual through such settlement, the representative of such individual may charge an amount for compensation for services rendered to the extent that such amount charged is not more than—
 
@@ -2531,13 +2531,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) the total amount of all legal fees charged for services rendered in connection with such settlement.
 
->         “(3) __Discretion to lower fee.—__ 
+>         “(3)  __Discretion to lower fee__  __.—__ 
 
 >         In the event that the special master \[probably should be capitalized\] finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
 
 > “SEC. 407. __REGULATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Sept. 22, 2001\], the Attorney General, in consultation with the Special Master, shall promulgate regulations to carry out this title, including regulations with respect to—
 
@@ -2551,7 +2551,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) other matters determined appropriate by the Attorney General.
 
->     “(b) __Updated Regulations.—__ 
+>     “(b)  __Updated Regulations__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of [Pub. L. 111–347][/us/pl/111/347], amending this note\].
 
@@ -2559,19 +2559,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __In General.—__ 
 
->         “(1) __Liability limited to insurance coverage.—__ 
+>         “(1)  __Liability limited to insurance coverage__  __.—__ 
 
 >         Notwithstanding any other provision of law, liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity, arising from the terrorist-related aircraft crashes of September 11, 2001, against an air carrier, aircraft manufacturer, airport sponsor, or person with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect, or their directors, officers, employees, or agents, shall not be in an amount greater than the limits of liability insurance coverage maintained by that air carrier, aircraft manufacturer, airport sponsor, or person.
 
->         “(2) __Willful defaults on rebuilding obligation.—__ 
+>         “(2)  __Willful defaults on rebuilding obligation__  __.—__ 
 
 >         Paragraph (1) does not apply to any such person with a property interest in the World Trade Center if the Attorney General determines, after notice and an opportunity for a hearing on the record, that the person has defaulted willfully on a contractual obligation to rebuild, or assist in the rebuilding of, the World Trade Center.
 
->         “(3) __Limitations on liability for New York City.—__ 
+>         “(3)  __Limitations on liability for New York City__  __.—__ 
 
 >         Liability for all claims, whether for compensatory or punitive damages or for contribution or indemnity arising from the terrorist-related aircraft crashes of September 11, 2001, against the City of New York shall not exceed the greater of the city’s insurance coverage or $350,000,000. If a claimant who is eligible to seek compensation under section 405 of this Act, submits a claim under section 405, the claimant waives the right to file a civil action (or to be a party to an action) in any Federal or State court for damages sustained as a result of the terrorist-related aircraft crashes of September 11, 2001, including any such action against the City of New York. The preceding sentence does not apply to a civil action to recover collateral source obligations.
 
->         “(4) __Liability for certain claims.—__ 
+>         “(4)  __Liability for certain claims__  __.—__ 
 
 >         Notwithstanding any other provision of law, liability for all claims and actions (including claims or actions that have been previously resolved, that are currently pending, and that may be filed) for compensatory damages, contribution or indemnity, or any other form or type of relief, arising from or related to debris removal, against the City of New York, any entity (including the Port Authority of New York and New Jersey) with a property interest in the World Trade Center on September 11, 2001 (whether fee simple, leasehold or easement, or direct or indirect) and any contractors and subcontractors, shall not be in an amount that exceeds the sum of the following, as may be applicable:
 
@@ -2585,7 +2585,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(E) As it relates to the limitation of liability of any individual contractor or subcontractor, the amount of all available liability insurance coverage maintained by such contractor or subcontractor on September 11, 2001.
 
->         “(5) __Priority of claims payments.—__ 
+>         “(5)  __Priority of claims payments__  __.—__ 
 
 >         Payments to plaintiffs who obtain a settlement or judgment with respect to a claim or action to which paragraph (4) applies, shall be paid solely from the following funds in the following order, as may be applicable:
 
@@ -2597,35 +2597,35 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(D) If there are no funds available as described in subparagraph (A), (B), (C), or (D) of paragraph (4), the funds described in subparagraph (E) of such paragraph.
 
->         “(6) __Declaratory judgment actions and direct action.—__ 
+>         “(6)  __Declaratory judgment actions and direct action__  __.—__ 
 
 >         Any claimant to a claim or action to which paragraph (4) applies may, with respect to such claim or action, either file an action for a declaratory judgment for insurance coverage or bring a direct action against the insurance company involved, except that no such action for declaratory judgment or direct action may be commenced until after the funds available in subparagraph\[s\] (A), (B), (C), and (D) of paragraph (5) have been exhausted consistent with the order described in such paragraph for payment.
 
 >     “(b) __Federal Cause of Action.—__ 
 
->         “(1) __Availability of action.—__ 
+>         “(1)  __Availability of action__  __.—__ 
 
 >         There shall exist a Federal cause of action for damages arising out of the hijacking and subsequent crashes of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001. Notwithstanding [section 40120(c) of title 49][/us/usc/t49/s40120/c], United States Code, this cause of action shall be the exclusive remedy for damages arising out of the hijacking and subsequent crashes of such flights.
 
->         “(2) __Substantive law.—__ 
+>         “(2)  __Substantive law__  __.—__ 
 
 >         The substantive law for decision in any such suit shall be derived from the law, including choice of law principles, of the State in which the crash occurred unless such law is inconsistent with or preempted by Federal law.
 
->         “(3) __Jurisdiction.—__ 
+>         “(3)  __Jurisdiction__  __.—__ 
 
 >         The United States District Court for the Southern District of New York shall have original and exclusive jurisdiction over all actions brought for any claim (including any claim for loss of property, personal injury, or death) resulting from or relating to the terrorist-related aircraft crashes of September 11, 2001.
 
 >         “(4) __Nationwide subpoenas.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A subpoena requiring the attendance of a witness at trial or a hearing conducted under this section may be served at any place in the United States.
 
->             “(B) __Rule of construction.—__ 
+>             “(B)  __Rule of construction__  __.—__ 
 
 >             Nothing in this subsection is intended to diminish the authority of a court to quash or modify a subpoena for the reasons provided in clause (i), (iii), or (iv) of subparagraph (A) or subparagraph (B) of rule 45(c)(3) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\].
 
->     “(c) __Exclusion.—__ 
+>     “(c)  __Exclusion__  __.—__ 
 
 >     Nothing in this section shall in any way limit any liability of any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act. Subsections (a) and (b) do not apply to civil actions to recover collateral source obligations.
 
@@ -2663,17 +2663,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Independent Assessment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Inspector General of the Department of Transportation shall conduct the assessments described in this section. To conduct the assessments, the Inspector General may use the staff and resources of the Inspector General or contract with one or more independent entities.
 
 >         “(2) __Assessment of adequacy and accuracy of faa cost data and attributions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Inspector General shall conduct an assessment to ensure that the method for calculating the overall costs of the Federal Aviation Administration and attributing such costs to specific users is appropriate, reasonable, and understandable to the users.
 
->             “(B) __Components.—__ 
+>             “(B)  __Components__  __.—__ 
 
 >             In conducting the assessment under this paragraph, the Inspector General shall assess the following:
 
@@ -2689,7 +2689,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(vi) The cost pools used by the Administration and the rationale for and reliability of the bases which the Administration proposes to use in allocating costs of services to users.
 
->             “(C) __Requirements for assessment of cost pools.—__ 
+>             “(C)  __Requirements for assessment of cost pools__  __.—__ 
 
 >             In carrying out subparagraph (B)(vi), the Inspector General shall—
 
@@ -2699,19 +2699,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) __Cost effectiveness.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Inspector General shall assess the progress of the Administration in cost and performance management, including use of internal and external benchmarking in improving the performance and productivity of the Administration.
 
->             “(B) __Annual reports.—__ 
+>             “(B)  __Annual reports__  __.—__ 
 
 >             Not later than December 31, 2000, and annually thereafter until December 31, 2004, the Inspector General shall transmit to Congress an updated report containing the results of the assessment conducted under this paragraph.
 
->             “(C) __Information to be included in faa financial report.—__ 
+>             “(C)  __Information to be included in faa financial report__  __.—__ 
 
 >             The Administrator \[of the Federal Aviation Administration\] shall include in the annual financial report of the Administration information on the performance of the Administration sufficient to permit users and others to make an informed evaluation of the progress of the Administration in increasing productivity.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
@@ -2719,15 +2719,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 106–181, title VII, § 735][/us/pl/106/181/s735], Apr. 5, 2000, [114 Stat. 171][/us/stat/114/171], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\], in consultation with the National Transportation Safety Board and other interested persons, shall conduct a study of air taxi operators regulated under part 135 of title 14, Code of Federal Regulations.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The study shall include an analysis of the size and type of the aircraft fleet, relevant aircraft equipment, hours flown, utilization rates, safety record by various categories of use and aircraft type, sales revenues, and airports served by the air taxi fleet.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a report on the results of the study.”
 
@@ -2791,15 +2791,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Independent Assessment.—__ 
 
->         “(1) __Initiation.—__ 
+>         “(1)  __Initiation__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator \[of the Federal Aviation Administration\] shall contract with an entity independent of the Administration \[Federal Aviation Administration\] and the Department of Transportation to conduct a complete independent assessment of the financial requirements of the Administration through the year 2002.
 
->         “(2) __Assessment criteria.—__ 
+>         “(2)  __Assessment criteria__  __.—__ 
 
 >         The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
 
->         “(3) __Certain factors to be taken into account.—__ 
+>         “(3)  __Certain factors to be taken into account__  __.—__ 
 
 >         The independent assessment shall take into account all relevant factors, including—
 
@@ -2813,21 +2813,21 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(E) the need to provide for continued improvements in all facets of aviation safety, along with operational improvements in air traffic control.
 
->         “(4) __Cost allocation.—__ 
+>         “(4)  __Cost allocation__  __.—__ 
 
 >         The independent assessment shall also assess the costs to the Administration occasioned by the provision of services to each segment of the aviation system.
 
->         “(5) __Deadline.—__ 
+>         “(5)  __Deadline__  __.—__ 
 
 >         The independent assessment shall be completed no later than 90 days after the contract is awarded, and shall be submitted to the Commission established under subsection (b), the Secretary \[of Transportation\], the Secretary of the Treasury, the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Ways and Means of the House of Representatives.
 
 >     “(b) __National Civil Aviation Review Commission.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established a commission to be known as the National Civil Aviation Review Commission (hereinafter in this section referred to as the ‘Commission’).
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The Commission shall consist of 21 members to be appointed as follows:
 
@@ -2841,25 +2841,25 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(E) Two members appointed by the minority leader of the Senate.
 
->         “(3) __Task forces.—__ 
+>         “(3)  __Task forces__  __.—__ 
 
 >         The Commission shall establish an aviation funding task force and an aviation safety task force to carry out the responsibilities of the Commission under this subsection.
 
->         “(4) __First meeting.—__ 
+>         “(4)  __First meeting__  __.—__ 
 
 >         The Commission may conduct its first meeting as soon as a majority of the members of the Commission are appointed.
 
 >         “(5) __Hearings and consultation.—__ 
 
->             “(A) __Hearings.—__ 
+>             “(A)  __Hearings__  __.—__ 
 
 >             The Commission shall take such testimony and solicit and receive such comments from the public and other interested parties as it considers appropriate, shall conduct 2 public hearings after affording adequate notice to the public thereof, and may conduct such additional hearings as may be necessary.
 
->             “(B) __Consultation.—__ 
+>             “(B)  __Consultation__  __.—__ 
 
 >             The Commission shall consult on a regular and frequent basis with the Secretary, the Secretary of the Treasury, the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Ways and Means of the House of Representatives.
 
->             “(C) __FACA not to apply.—__ 
+>             “(C)  __FACA not to apply__  __.—__ 
 
 >             The Commission shall not be considered an advisory committee for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
@@ -2867,11 +2867,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(A) __Report to secretary.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration’s budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary’s comments on its preliminary report.
 
->                 “(ii) __Contents.—__ 
+>                 “(ii)  __Contents__  __.—__ 
 
 >                 The report submitted by the aviation funding task force under clause (i)—
 
@@ -2883,7 +2883,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(IV) shall include a draft bill containing the changes in law necessary to implement its recommendations.
 
->             “(B) __Recommendations.—__ 
+>             “(B)  __Recommendations__  __.—__ 
 
 >             The aviation funding task force shall make such recommendations under subparagraph (A)(ii)(III) as the task force deems appropriate. Those recommendations may include—
 
@@ -2903,7 +2903,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(viii) any other matter the task force deems appropriate to address the funding and needs of the Administration and the aviation system.
 
->             “(C) __Additional recommendations.—__ 
+>             “(C)  __Additional recommendations__  __.—__ 
 
 >             The aviation funding task force report may also make recommendations concerning—
 
@@ -2917,7 +2917,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, and revolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
 
->             “(D) __Impact assessment for recommendations.—__ 
+>             “(D)  __Impact assessment for recommendations__  __.—__ 
 
 >             For each recommendation contained in the aviation funding task force’s report, the report shall include a full analysis and assessment of the impact implementation of the recommendation would have on—
 
@@ -2933,7 +2933,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(vi) the funding needs of the Administration.
 
->             “(E) __Trust fund tax recommendations.—__ 
+>             “(E)  __Trust fund tax recommendations__  __.—__ 
 
 >             If the task force’s report includes a recommendation that the existing Airport and Airways Trust Fund tax structure be modified, the report shall—
 
@@ -2943,7 +2943,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iii) state the basis for the recommendations.
 
->             “(F) __Fee system recommendations.—__ 
+>             “(F)  __Fee system recommendations__  __.—__ 
 
 >             If the task force’s report includes a recommendation that a fee system be established, including an air traffic control performance-based user fee system, the report shall consider—
 
@@ -2969,11 +2969,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(7) __Duties of aviation safety task force.—__ 
 
->             “(A) __Report to administrator.—__ 
+>             “(A)  __Report to administrator__  __.—__ 
 
 >             Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the aviation safety task force established pursuant to paragraph (3) shall submit to the Administrator a report setting forth a comprehensive analysis of aviation safety in the United States and emerging trends in the safety of particular sectors of the aviation industry.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The report to be submitted under subparagraph (A) shall include an assessment of—
 
@@ -2983,19 +2983,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iii) the ability of the Administration to anticipate changes in the aviation industry and to develop policies and actions to ensure the highest level of aviation safety in the 21st century.
 
->         “(8) __Access to documents and staff.—__ 
+>         “(8)  __Access to documents and staff__  __.—__ 
 
 >         The Administration may give the Commission appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly known as the ‘Freedom of Information Act’), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Commission who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of [section 1905 of title 18][/us/usc/t18/s1905], United States Code, pertaining to unauthorized disclosure of such information.
 
->         “(9) __Travel and per diem.—__ 
+>         “(9)  __Travel and per diem__  __.—__ 
 
 >         Each member of the Commission shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with [section 5703 of title 5][/us/usc/t5/s5703], United States Code.
 
->         “(10) __Detail of personnel from the administration.—__ 
+>         “(10)  __Detail of personnel from the administration__  __.—__ 
 
 >         The Administrator shall make available to the Commission such staff, information, and administrative services and assistance as may reasonably be required to enable the Commission to carry out its responsibilities under this subsection.
 
->         “(11) __Authorization of appropriations.—__ 
+>         “(11)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection.
 
@@ -3003,15 +3003,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(1) __Report by the secretary based on final report of aviation funding task force.—__ 
 
->             “(A) __Consideration of task force’s preliminary report.—__ 
+>             “(A)  __Consideration of task force’s preliminary report__  __.—__ 
 
 >             Not later than 30 days after receiving the preliminary report of the aviation funding task force, the Secretary, in consultation with the Secretary of the Treasury, shall furnish comments on the report to the task force.
 
->             “(B) __Report to congress.—__ 
+>             “(B)  __Report to congress__  __.—__ 
 
 >             Not later than 30 days after receiving the final report of the aviation funding task force, and in no event more than 1 year after the date of the enactment of this Act, the Secretary, after consulting the Secretary of the Treasury, shall transmit a report to the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate, and the Committee on Transportation and Infrastructure and the Committee on Ways and Means of the House of Representatives. Such report shall be based upon the final report of the task force and shall contain the Secretary’s recommendations for funding the needs of the aviation system through the year 2002.
 
->             “(C) __Contents.—__ 
+>             “(C)  __Contents__  __.—__ 
 
 >             The Secretary shall include in the report to Congress under subparagraph (B)—
 
@@ -3019,19 +3019,19 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii) a draft bill containing the changes in law necessary to implement the Secretary’s recommendations.
 
->             “(D) __Publication.—__ 
+>             “(D)  __Publication__  __.—__ 
 
 >             The Secretary shall cause a copy of the report to be printed in the Federal Register upon its transmittal to Congress under subparagraph (B).
 
->         “(2) __Report by the administrator based on final report of aviation safety task force.—__ 
+>         “(2)  __Report by the administrator based on final report of aviation safety task force__  __.—__ 
 
 >         Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator’s recommendations for improving aviation safety in the United States.
 
->     “(d) __GAO Audit of Cost Allocation.—__ 
+>     “(d)  __GAO Audit of Cost Allocation__  __.—__ 
 
 >     The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
->     “(e) __GAO Assessment.—__ 
+>     “(e)  __GAO Assessment__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall transmit to the Commission and Congress an independent assessment of airport development needs.”
 
@@ -3039,7 +3039,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 103–305, title III, § 303][/us/pl/103/305/s303], Aug. 23, 1994, [108 Stat. 1590][/us/stat/108/1590], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall jointly establish a program to conduct research on aviation technologies that enhance United States competitiveness. The program shall include—
 
@@ -3053,11 +3053,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) technologies and procedures to enhance and improve airport and airway capacity.
 
->     “(b) __Procedures for Contracts and Grants.—__ 
+>     “(b)  __Procedures for Contracts and Grants__  __.—__ 
 
 >     The Administrator and the heads of the other appropriate Federal agencies shall administer contracts and grants entered into under the program established under subsection (a) in accordance with procedures developed jointly by the Administrator and the heads of the other appropriate Federal agencies. The procedures should include an integrated acquisition policy for contract and grant requirements and for technical data rights that are not an impediment to joint programs among the Federal Aviation Administration, the other Federal agencies involved, and industry.
 
->     “(c) __Program Elements.—__ 
+>     “(c)  __Program Elements__  __.—__ 
 
 >     The program established under subsection (a) shall include—
 
@@ -3067,7 +3067,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) the transfer of Government-developed technologies to the private sector to promote economic strength and competitiveness.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, as amended by [section 302 of this title][/us/usc/t49/s302], there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
 
@@ -3075,11 +3075,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 108–176, title VIII, § 815][/us/pl/108/176/s815], Dec. 12, 2003, [117 Stat. 2592][/us/stat/117/2592], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall undertake the studies and analysis called for in the report of the National Research Council entitled ‘The Airliner Cabin Environment and the Health of Passengers and Crew’.
 
->     “(b) __Required Activities.—__ 
+>     “(b)  __Required Activities__  __.—__ 
 
 >     In carrying out this section, the Administrator, at a minimum, shall—
 
@@ -3093,7 +3093,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) establish an air quality incident reporting system.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 30 months after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall transmit to Congress a report on the findings of the Administrator under this section.”
 
@@ -3101,15 +3101,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(a) __Study of Air Quality in Passenger Cabins in Commercial Aircraft.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall arrange for and provide necessary data to the National Academy of Sciences to conduct a 12-month, independent study of air quality in passenger cabins of aircraft used in air transportation and foreign air transportation, including the collection of new data, in coordination with the Federal Aviation Administration, to identify contaminants in the aircraft air and develop recommendations for means of reducing such contaminants.
 
->         “(2) __Alternative air supply.—__ 
+>         “(2)  __Alternative air supply__  __.—__ 
 
 >         The study should examine whether contaminants would be reduced by the replacement of engine and auxiliary power unit bleed air with an alternative supply of air for the aircraft passengers and crew.
 
->         “(3) __Scope.—__ 
+>         “(3)  __Scope__  __.—__ 
 
 >         The study shall include an assessment and quantitative analysis of each of the following:
 
@@ -3123,23 +3123,23 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(E) Actual measurements of the contaminants of concern in the air of passenger cabins during actual flights in air transportation or foreign air transportation, along with comparisons of such measurements to actual measurements taken in public buildings.
 
->         “(4) __Provision of Current Data.—__ 
+>         “(4)  __Provision of Current Data__  __.—__ 
 
 >         The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study and make the data available to the National Academy of Sciences in order to complete the study.
 
 >     “(b) __Collection of Aircraft Air Quality Data.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator may consider the feasibility of using the flight data recording system on aircraft to monitor and record appropriate data related to air inflow quality, including measurements of the exposure of persons aboard the aircraft to contaminants during normal aircraft operation and during incidents involving air quality problems.
 
->         “(2) __Passenger cabins.—__ 
+>         “(2)  __Passenger cabins__  __.—__ 
 
 >         The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft.”
 
 [Pub. L. 103–305, title III, § 304][/us/pl/103/305/s304], Aug. 23, 1994, [108 Stat. 1591][/us/stat/108/1591], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall establish a research program to determine—
 
@@ -3147,11 +3147,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) the risk of airline passengers and crew contracting infectious diseases during flight.
 
->     “(b) __Contract With Center for Disease Control.—__ 
+>     “(b)  __Contract With Center for Disease Control__  __.—__ 
 
 >     In carrying out the research program established under subsection (a), the Administrator and the heads of the other appropriate Federal agencies shall contract with the Center for Disease Control \[now Centers for Disease Control and Prevention\] and other appropriate agencies to carry out any studies necessary to meet the goals of the program set forth in subsection (c).
 
->     “(c) __Goals.—__ 
+>     “(c)  __Goals__  __.—__ 
 
 >     The goals of the research program established under subsection (a) shall be—
 
@@ -3161,17 +3161,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(3) to establish a long-term research program to examine potential health problems to airline passengers and crew that may arise in an airplane cabin on a flight within the United States because of cabin air quality as a result of the conditions and changes described in paragraphs (1) and (2).
 
->     “(d) __Participation.—__ 
+>     “(d)  __Participation__  __.—__ 
 
 >     In carrying out the research program established under subsection (a), the Administrator shall encourage participation in the program by representatives of aircraft manufacturers, air carriers, aviation employee organizations, airline passengers, and academia.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >         (1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administrator shall submit to the Congress a plan for implementation of the research program established under subsection (a).
 
 >         “(2) The Administrator shall annually submit to the Congress a report on the progress made during the year for which the report is submitted toward meeting the goals set forth in subsection (c).
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, as amended by [section 302 of this title][/us/usc/t49/s302], there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
 
@@ -3179,15 +3179,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 [Pub. L. 103–305, title V, § 507][/us/pl/103/305/s507], Aug. 23, 1994, [108 Stat. 1595][/us/stat/108/1595], provided that:
 
->     “(a) __Availability of Information.—__ 
+>     “(a)  __Availability of Information__  __.—__ 
 
 >     In the interest of protecting the health of air travelers, the Secretary shall publish a list of the countries (as determined by the Secretary) that require disinsection of aircraft landing in such countries while passengers and crew are on board such aircraft.
 
->     “(b) __Revision.—__ 
+>     “(b)  __Revision__  __.—__ 
 
 >     The Secretary shall revise the list required under subsection (a) on a periodic basis.
 
->     “(c) __Publication.—__ 
+>     “(c)  __Publication__  __.—__ 
 
 >     The Secretary shall publish the list required under subsection (a) not later than 30 days after the date of the enactment of this Act \[Aug. 23, 1994\]. The Secretary shall publish a revision to the list not later than 30 days after completing the revision under subsection (b).”
 
@@ -3201,7 +3201,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 2. __TIME LIMITATIONS ON CIVIL ACTIONS AGAINST AIRCRAFT MANUFACTURERS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
@@ -3215,7 +3215,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(2) with respect to any new component, system, subassembly, or other part which replaced another component, system, subassembly, or other part originally in, or which was added to, the aircraft, and which is alleged to have caused such death, injury, or damage, after the applicable limitation period beginning on the date of completion of the replacement or addition.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Subsection (a) does not apply—
 
@@ -3227,11 +3227,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(4) to an action brought under a written warranty enforceable under law but for the operation of this Act.
 
->     “(c) __General Aviation Aircraft Defined.—__ 
+>     “(c)  __General Aviation Aircraft Defined__  __.—__ 
 
 >     For the purposes of this Act, the term ‘general aviation aircraft’ means any aircraft for which a type certificate or an airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
 
->     “(d) __Relationship to Other Laws.—__ 
+>     “(d)  __Relationship to Other Laws__  __.—__ 
 
 >     This section supersedes any State law to the extent that such law permits a civil action described in subsection (a) to be brought after the applicable limitation period for such civil action established by subsection (a).
 
@@ -3249,11 +3249,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 > “SEC. 4. __EFFECTIVE DATE; APPLICATION OF ACT.__ 
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act shall take effect on the date of the enactment of this Act \[Aug. 17, 1994\].
 
->     “(b) __Application of Act.—__ 
+>     “(b)  __Application of Act__  __.—__ 
 
 >     This Act shall not apply with respect to civil actions commenced before the date of the enactment of this Act.”
 
@@ -3333,23 +3333,23 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 
 > “ In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under [section 44504 of this title][/us/usc/t49/s44504]\], the following definitions apply:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the FAA.
 
->     “(2) __FAA.—__ 
+>     “(2)  __FAA__  __.—__ 
 
 >     The term ‘FAA’ means the Federal Aviation Administration.
 
->     “(3) __Institution of higher education.—__ 
+>     “(3)  __Institution of higher education__  __.—__ 
 
 >     The term ‘institution of higher education’ has the same meaning given the term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
 
->     “(4) __NASA.—__ 
+>     “(4)  __NASA__  __.—__ 
 
 >     The term ‘NASA’ means the National Aeronautics and Space Administration.
 
->     “(5) __NOAA.—__ 
+>     “(5)  __NOAA__  __.—__ 
 
 >     The term ‘NOAA’ means the National Oceanic and Atmospheric Administration.”
 

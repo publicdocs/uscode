@@ -15,7 +15,7 @@
 
 ## § 47305. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation shall consolidate, operate, protect, maintain, and improve airport property and airway property (except meteorological facilities), and the Secretary of Commerce may consolidate, operate, protect, maintain, and improve meteorological facilities, that the appropriate Secretary has acquired and that are located in territory outside the continental United States. In carrying out this section, the appropriate Secretary may—
 
@@ -29,15 +29,15 @@
 
         (5) acquire an interest in property.
 
-    (b) __Crediting Appropriations.—__ 
+    (b)  __Crediting Appropriations__  __.—__ 
 
     Money received from the direct sale or charge that the Secretary of Transportation or Commerce, as appropriate, decides is equivalent to the cost of facilities and services sold or provided under subsection (a)(3) and (4) of this section is credited to the appropriation from which the cost was paid. The balance shall be deposited in the Treasury as miscellaneous receipts.
 
-    (c) __Using Other Government Facilities and Services.—__ 
+    (c)  __Using Other Government Facilities and Services__  __.—__ 
 
     To carry out this chapter and to use personnel and facilities of the United States Government most advantageously and without unnecessary duplication, the Secretary of Transportation or Commerce, as appropriate, shall request, when practicable, to use a facility or service of an appropriate department, agency, or instrumentality of the Government on a reimbursable basis. A department, agency, or instrumentality receiving a request under this section may provide the facility or service.
 
-    (d) __Advertising Not Required.—__ 
+    (d)  __Advertising Not Required__  __.—__ 
 
     Section 6101(b) to (d) of title 41 does not apply to a lease or contract made by the Secretary of Transportation or Commerce under this chapter.
 

@@ -15,15 +15,15 @@
 
 ## § 14707. Private enforcement of registration requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If a person provides transportation by motor vehicle or service in clear violation of section 13901–13904 or 13906, a person injured by the transportation or service may bring a civil action to enforce any such section. In a civil action under this subsection, trial is in the judicial district in which the person who violated that section operates.
 
-    (b) __Procedure.—__ 
+    (b)  __Procedure__  __.—__ 
 
     A copy of the complaint in a civil action under subsection (a) shall be served on the Secretary and a certificate of service must appear in the complaint filed with the court. The Secretary may intervene in a civil action under subsection (a). The Secretary may notify the district court in which the action is pending that the Secretary intends to consider the matter that is the subject of the complaint in a proceeding before the Secretary. When that notice is filed, the court shall stay further action pending disposition of the proceeding before the Secretary.
 
-    (c) __Attorney’s Fees.—__ 
+    (c)  __Attorney’s Fees__  __.—__ 
 
     In a civil action under subsection (a), the court may determine the amount of and award a reasonable attorney’s fee to the prevailing party. That fee is in addition to costs allowable under the Federal Rules of Civil Procedure.
 

@@ -15,7 +15,7 @@
 
 ## § 13531. General jurisdiction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary and the Board have jurisdiction, as specified in this part, over service that a freight forwarder undertakes to provide, or is authorized or required under this part to provide, to the extent transportation is provided in the United States and is between—
 
@@ -25,7 +25,7 @@
 
         (3) a place in the United States and a place outside the United States.
 
-    (b) __Exemption of Certain Air Carrier Service.—__ 
+    (b)  __Exemption of Certain Air Carrier Service__  __.—__ 
 
     Neither the Secretary nor the Board has jurisdiction under subsection (a) of this section over service undertaken by a freight forwarder using transportation of an air carrier subject to part A of subtitle VII of this title.
 

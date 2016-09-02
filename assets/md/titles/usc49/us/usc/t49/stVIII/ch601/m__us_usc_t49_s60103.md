@@ -15,7 +15,7 @@
 
 ## § 60103. Standards for liquefied natural gas pipeline facilities
 
-    (a) __Location Standards.—__ 
+    (a)  __Location Standards__  __.—__ 
 
     The Secretary of Transportation shall prescribe minimum safety standards for deciding on the location of a new liquefied natural gas pipeline facility. In prescribing a standard, the Secretary shall consider the—
 
@@ -31,7 +31,7 @@
 
         (6) need to encourage remote siting.
 
-    (b) __Design, Installation, Construction, Inspection, and Testing Standards.—__ 
+    (b)  __Design, Installation, Construction, Inspection, and Testing Standards__  __.—__ 
 
     The Secretary of Transportation shall prescribe minimum safety standards for designing, installing, constructing, initially inspecting, and initially testing a new liquefied natural gas pipeline facility. When prescribing a standard, the Secretary shall consider—
 
@@ -43,7 +43,7 @@
 
         (4) the public safety factors of the design and of alternative designs, particularly the ability to prevent and contain a liquefied natural gas spill.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
         (3) A design, installation, construction, initial inspection, or initial testing standard does not apply to a liquefied natural gas pipeline facility existing when the standard is adopted.
 
-    (d) __Operation and Maintenance Standards.—__ 
+    (d)  __Operation and Maintenance Standards__  __.—__ 
 
     The Secretary of Transportation shall prescribe minimum operating and maintenance standards for a liquefied natural gas pipeline facility. In prescribing a standard, the Secretary shall consider—
 
@@ -83,15 +83,15 @@
 
         (6) other factors and conditions related to the safe handling of liquefied natural gas.
 
-    (e) __Effective Dates.—__ 
+    (e)  __Effective Dates__  __.—__ 
 
     A standard prescribed under this section is effective on the 30th day after the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 
-    (f) __Contingency Plans.—__ 
+    (f)  __Contingency Plans__  __.—__ 
 
     A new liquefied natural gas pipeline facility may be operated only after the operator submits an adequate contingency plan that states the action to be taken if a liquefied natural gas accident occurs. The Secretary of Energy or appropriate State or local authority shall decide if the plan is adequate.
 
-    (g) __Effect on Other Standards.—__ 
+    (g)  __Effect on Other Standards__  __.—__ 
 
     This section does not preclude applying a standard prescribed under [section 60102 of this title][/us/usc/t49/s60102] to a gas pipeline facility (except a liquefied natural gas pipeline facility) associated with a liquefied natural gas pipeline facility.
 

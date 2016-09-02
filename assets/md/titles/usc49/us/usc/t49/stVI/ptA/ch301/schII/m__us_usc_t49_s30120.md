@@ -15,7 +15,7 @@
 
 ## § 30120. Remedies for defects and noncompliance
 
-    (a) __Ways To Remedy.—__ 
+    (a)  __Ways To Remedy__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
 
-    (b) __Tire Remedies.—__ 
+    (b)  __Tire Remedies__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
 
-    (c) __Adequacy of Repairs.—__ 
+    (c)  __Adequacy of Repairs__  __.—__ 
 
         (1)
 
@@ -69,29 +69,29 @@
 
             The Secretary may prescribe regulations to carry out this paragraph.
 
-    (d) __Filing Manufacturer’s Remedy Program.—__ 
+    (d)  __Filing Manufacturer’s Remedy Program__  __.—__ 
 
     A manufacturer shall file with the Secretary a copy of the manufacturer’s program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register. A manufacturer’s remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer’s notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan. In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.
 
-    (e) __Hearings About Meeting Remedy Requirements.—__ 
+    (e)  __Hearings About Meeting Remedy Requirements__  __.—__ 
 
     On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-    (f) __Fair Reimbursement to Dealers.—__ 
+    (f)  __Fair Reimbursement to Dealers__  __.—__ 
 
     A manufacturer shall pay fair reimbursement to a dealer providing a remedy without charge under this section.
 
-    (g) __Nonapplication.—__ 
+    (g)  __Nonapplication__  __.—__ 
 
         (1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 10 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under [section 30118(c) of this title][/us/usc/t49/s30118/c] or an order is issued under [section 30118(b) of this title][/us/usc/t49/s30118/b], whichever is earlier.
 
         (2) This section does not apply during any period in which enforcement of an order under [section 30118(b) of this title][/us/usc/t49/s30118/b] is restrained or the order is set aside in a civil action to which [section 30121(d) of this title][/us/usc/t49/s30121/d] applies.
 
-    (h) __Exemptions.—__ 
+    (h)  __Exemptions__  __.—__ 
 
     On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 
-    (i) __Limitation on Sale or Lease of New Vehicles or Equipment.—__ 
+    (i)  __Limitation on Sale or Lease of New Vehicles or Equipment__  __.—__ 
 
         (1)
 
@@ -103,7 +103,7 @@
 
         (2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
 
-    (j) __Prohibition on Sales of Replacement Equipment.—__ 
+    (j)  __Prohibition on Sales of Replacement Equipment__  __.—__ 
 
     No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
 

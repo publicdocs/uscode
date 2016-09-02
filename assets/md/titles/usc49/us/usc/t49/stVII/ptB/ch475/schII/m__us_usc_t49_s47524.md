@@ -15,11 +15,11 @@
 
 ## § 47524. Airport noise and access restriction review program
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     The national aviation noise policy established under [section 47523 of this title][/us/usc/t49/s47523] shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public notice and opportunity for comment on the restrictions.
 
-    (b) __Stage 2 Aircraft.—__ 
+    (b)  __Stage__  __2__  __Aircraft__  __.—__ 
 
     Except as provided in subsection (d) of this section, an airport noise or access restriction may include a restriction on the operation of stage 2 aircraft proposed after October 1, 1990, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
 
@@ -31,7 +31,7 @@
 
         (4) a comparison of the costs and benefits of the alternative measures to the costs and benefits of the proposed restriction.
 
-    (c) __Stage 3 Aircraft.—__ 
+    (c)  __Stage__  __3__  __Aircraft__  __.—__ 
 
         (1)
 
@@ -73,7 +73,7 @@
 
             (B) may be conducted only after 2 years after a decision under paragraph (2) of this subsection has been made.
 
-    (d) __Nonapplication.—__ 
+    (d)  __Nonapplication__  __.—__ 
 
     Subsections (b) and (c) of this section do not apply to—
 
@@ -93,7 +93,7 @@
 
         (6) a local action that represents the adoption of the final part of a program of a staged airport noise or access restriction if the initial part of the program was adopted during 1988 and was in effect on November 5, 1990.
 
-    (e) __Grant Limitations.—__ 
+    (e)  __Grant Limitations__  __.—__ 
 
     Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor of a facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after October 1, 1990, is eligible for a grant under [section 47104 of this title][/us/usc/t49/s47104] and is eligible to impose a passenger facility charge under [section 40117 of this title][/us/usc/t49/s40117] only if the restriction has been—
 

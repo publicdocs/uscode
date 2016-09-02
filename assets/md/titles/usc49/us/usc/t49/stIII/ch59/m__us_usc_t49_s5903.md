@@ -15,21 +15,21 @@
 
 ## § 5903. Prohibitions
 
-    (a) __Providing Erroneous Information.—__ 
+    (a)  __Providing Erroneous Information__  __.—__ 
 
     A person, To  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  whom section 5902(b) applies, tendering a loaded container or trailer may not provide erroneous information in a certification required by [section 5902(b) of this title][/us/usc/t49/s5902/b].
 
     (b) __Transporting Prior to Receiving Certification.—__ 
 
-        (1) __Presumption.—__ 
+        (1)  __Presumption__  __.—__ 
 
         If no certification is received by a motor carrier before or when a loaded intermodal container or trailer is tendered to it, the motor carrier may presume that the gross cargo weight of the container or trailer is less than 29,001 pounds.
 
-        (2) __Copy of certification not required to accompany container or trailer.—__ 
+        (2)  __Copy of certification not required to accompany container or trailer__  __.—__ 
 
         Notwithstanding any other provision of this chapter to the contrary, a copy of the certification required by section 5902(b) is not required to accompany the intermodal container or trailer.
 
-    (c) __Unlawful Coercion.—__ 
+    (c)  __Unlawful Coercion__  __.—__ 
 
         (1) A person may not coerce or attempt to coerce a person participating in intermodal transportation to transport a loaded container or trailer having an actual gross cargo weight of more than 29,000 pounds before the certification required by [section 5902(b) of this title][/us/usc/t49/s5902/b] is provided.
 
@@ -37,7 +37,7 @@
 
     (d) __Notice to Leased Operators.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If a motor carrier knows that the gross cargo weight of an intermodal container or trailer subject to the certification requirements of section 5902(b) would result in a violation of applicable State gross vehicle weight laws, then—
 
@@ -49,7 +49,7 @@
 
             (D) the motor carrier shall bear the burden of proof to establish that it tendered the required notice to the operator.
 
-        (2) __Reimbursement.—__ 
+        (2)  __Reimbursement__  __.—__ 
 
         If the operator of a leased vehicle transporting a container or trailer subject to this chapter is fined because of a violation of a State’s gross vehicle weight laws or regulations and the lessee motor carrier cannot establish that it tendered to the operator the notice required by paragraph (1) of this subsection, then the operator shall be entitled to reimbursement from the motor carrier in the amount of any fine and court costs resulting from the failure of the motor carrier to tender the notice to the operator.
 

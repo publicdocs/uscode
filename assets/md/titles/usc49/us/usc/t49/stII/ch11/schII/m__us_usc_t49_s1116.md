@@ -15,7 +15,7 @@
 
 ## § 1116. Reports and studies
 
-    (a) __Periodic Reports.—__ 
+    (a)  __Periodic Reports__  __.—__ 
 
     The National Transportation Safety Board shall report periodically to Congress, departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities concerned with transportation safety, and other interested persons. The report shall—
 
@@ -23,7 +23,7 @@
 
         (2) propose corrective action to make the transportation of individuals as safe and free from risk of injury as possible, including action to minimize personal injuries that occur in transportation accidents.
 
-    (b) __Studies, Investigations, and Other Reports.—__ 
+    (b)  __Studies, Investigations, and Other Reports__  __.—__ 
 
     The Board also shall—
 

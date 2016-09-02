@@ -15,15 +15,15 @@
 
 ## § 40104. Promotion of civil aeronautics and safety of air commerce
 
-    (a) __Developing Civil Aeronautics and Safety of Air Commerce.—__ 
+    (a)  __Developing Civil Aeronautics and Safety of Air Commerce__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
 
-    (b) __International Role of the FAA.—__ 
+    (b)  __International Role of the FAA__  __.—__ 
 
     The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator’s foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
 
-    (c) __Airport Capacity Enhancement Projects at Congested Airports.—__ 
+    (c)  __Airport Capacity Enhancement Projects at Congested Airports__  __.—__ 
 
     In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47176. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 

@@ -15,7 +15,7 @@
 
 ## § 5904. State enforcement
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A State may enact a law to permit the State or a political subdivision of the State—
 
@@ -23,7 +23,7 @@
 
         (2) to impound the container or trailer until the fine or penalty has been paid by the owner or beneficial owner of the contents of the container or trailer or the person tendering the loaded container or trailer to the first carrier.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     This chapter does not require a person tendering a loaded container or trailer to a first carrier to ensure that the first carrier or any other carrier involved in the intermodal transportation will comply with any State highway weight law or regulation, other than as required by this chapter.
 

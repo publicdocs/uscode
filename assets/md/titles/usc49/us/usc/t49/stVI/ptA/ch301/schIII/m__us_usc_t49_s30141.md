@@ -15,7 +15,7 @@
 
 ## § 30141. Importing motor vehicles capable of complying with standards
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     [Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to a motor vehicle if—
 
@@ -47,13 +47,13 @@
 
             (B) making the decisions under this subchapter.
 
-    (b) __Procedures on Deciding on Motor Vehicle Capability.—__ 
+    (b)  __Procedures on Deciding on Motor Vehicle Capability__  __.—__ 
 
         (1) The Secretary of Transportation shall establish by regulation procedures for making a decision under subsection (a)(1) of this section and the information a petitioner must provide to show clearly that the motor vehicle is capable of being brought into compliance with applicable motor vehicle safety standards prescribed under this chapter. In establishing the procedures, the Secretary shall provide for a minimum period of public notice and written comment consistent with ensuring expeditious, but complete, consideration and avoiding delay by any person. In making a decision under those procedures, the Secretary shall consider test information and other information available to the Secretary, including any information provided by the manufacturer. If the Secretary makes a negative decision, the Secretary may not make another decision for the same model until at least 3 calendar months have elapsed after the negative decision.
 
         (2) The Secretary of Transportation shall publish each year in the Federal Register a list of all decisions made under subsection (a)(1) of this section. Each published decision applies to the model of the motor vehicle for which the decision was made. A positive decision permits another importer registered under subsection (c) of this section to import a vehicle of the same model under this section if the importer complies with all the terms of the decision.
 
-    (c) __Registration.—__ 
+    (c)  __Registration__  __.—__ 
 
         (1)
 
@@ -79,7 +79,7 @@
 
             (C) reinstating suspended registrations.
 
-    (d) __Bonds.—__ 
+    (d)  __Bonds__  __.—__ 
 
         (1)
 
@@ -91,7 +91,7 @@
 
         (2) The amount of the bond provided under this subsection shall be at least equal to the dutiable value of the motor vehicle (as determined by the Secretary of the Treasury) but not more than 150 percent of that value.
 
-    (e) __Fee Review, Adjustment, and Use.—__ 
+    (e)  __Fee Review, Adjustment, and Use__  __.—__ 
 
     The Secretary of Transportation shall review and make appropriate adjustments at least every 2 years in the amounts of the fees required to be paid under subsection (a)(3) of this section. The Secretary of Transportation shall establish the fees for each fiscal year before the beginning of that year. All fees collected remain available until expended without fiscal year limit to the extent provided in advance by appropriation laws. The amounts are only for use by the Secretary of Transportation—
 

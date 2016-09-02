@@ -15,11 +15,11 @@
 
 ## § 40116. State taxation
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “State” includes the District of Columbia, a territory or possession of the United States, and a political authority of at least 2 States.
 
-    (b) __Prohibitions.—__ 
+    (b)  __Prohibitions__  __.—__ 
 
     Except as provided in subsection (c) of this section and [section 40117 of this title][/us/usc/t49/s40117], a State, a political subdivision of a State, and any person that has purchased or leased an airport under [section 47134 of this title][/us/usc/t49/s47134] may not levy or collect a tax, fee, head charge, or other charge on—
 
@@ -31,11 +31,11 @@
 
         (4) the gross receipts from that air commerce or transportation.
 
-    (c) __Aircraft Taking Off or Landing in State.—__ 
+    (c)  __Aircraft Taking Off or Landing in State__  __.—__ 
 
     A State or political subdivision of a State may levy or collect a tax on or related to a flight of a commercial aircraft or an activity or service on the aircraft only if the aircraft takes off or lands in the State or political subdivision as part of the flight.
 
-    (d) __Unreasonable Burdens and Discrimination Against Interstate Commerce.—__ 
+    (d)  __Unreasonable Burdens and Discrimination Against Interstate Commerce__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
             (B) Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 
-    (e) __Other Allowable Taxes and Charges.—__ 
+    (e)  __Other Allowable Taxes and Charges__  __.—__ 
 
     Except as provided in subsection (d) of this section, a State or political subdivision of a State may levy or collect—
 
@@ -73,7 +73,7 @@
 
         (2) reasonable rental charges, landing fees, and other service charges from aircraft operators for using airport facilities of an airport owned or operated by that State or subdivision.
 
-    (f) __Pay of Air Carrier Employees.—__ 
+    (f)  __Pay of Air Carrier Employees__  __.—__ 
 
         (1)
 

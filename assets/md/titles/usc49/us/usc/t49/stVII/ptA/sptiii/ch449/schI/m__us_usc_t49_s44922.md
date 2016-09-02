@@ -15,33 +15,33 @@
 
 ## § 44922. Deputation of State and local law enforcement officers
 
-    (a) __Deputation Authority.—__ 
+    (a)  __Deputation Authority__  __.—__ 
 
     The Under Secretary of Transportation for Security may deputize a State or local law enforcement officer to carry out Federal airport security duties under this chapter.
 
-    (b) __Fulfillment of Requirements.—__ 
+    (b)  __Fulfillment of Requirements__  __.—__ 
 
     A State or local law enforcement officer who is deputized under this section shall be treated as a Federal law enforcement officer for purposes of meeting the requirements of this chapter and other provisions of law to provide Federal law enforcement officers to carry out Federal airport security duties.
 
-    (c) __Agreements.—__ 
+    (c)  __Agreements__  __.—__ 
 
     To deputize a State or local law enforcement officer under this section, the Under Secretary shall enter into a voluntary agreement with the appropriate State or local law enforcement agency that employs the State or local law enforcement officer.
 
     (d) __Reimbursement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary shall reimburse a State or local law enforcement agency for all reasonable, allowable, and allocable costs incurred by the State or local law enforcement agency with respect to a law enforcement officer deputized under this section.
 
-        (2) __Authorization of appropriations.—__ 
+        (2)  __Authorization of appropriations__  __.—__ 
 
         There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-    (e) __Federal Tort Claims Act.—__ 
+    (e)  __Federal Tort Claims Act__  __.—__ 
 
     A State or local law enforcement officer who is deputized under this section shall be treated as an “employee of the Government” for purposes of sections 1346(b), 2401(b), and chapter 171 of title 28, United States Code, while carrying out Federal airport security duties within the course and scope of the officer’s employment, subject to Federal supervision and control, and in accordance with the terms of such deputation.
 
-    (f) __Stationing of Officers.—__ 
+    (f)  __Stationing of Officers__  __.—__ 
 
     The Under Secretary may allow law enforcement personnel to be stationed other than at the airport security screening location if that would be preferable for law enforcement purposes and if such personnel would still be able to provide prompt responsiveness to problems occurring at the screening location.
 

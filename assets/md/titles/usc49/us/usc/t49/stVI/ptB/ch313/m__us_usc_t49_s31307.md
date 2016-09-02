@@ -15,11 +15,11 @@
 
 ## § 31307. Minimum training requirements for operators of longer combination vehicles
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “longer combination vehicle” means a vehicle consisting of a truck tractor and more than one trailer or semitrailer that operates on the Dwight D. Eisenhower System of Interstate and Defense Highways with a gross vehicle weight of more than 80,000 pounds.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     The Secretary shall maintain regulations establishing minimum training requirements for operators of longer combination vehicles. The training shall include certification of an operator’s proficiency by an instructor who has met the requirements established by the Secretary.
 

@@ -15,17 +15,17 @@
 
 ## § 13711. Alternative procedure for resolving undercharge disputes
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     It shall be an unreasonable practice for a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter I of chapter 135 or, before January 1, 1996, to have provided transportation that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, a freight forwarder (other than a household goods freight forwarder), or a party representing such a carrier or freight forwarder to attempt to charge or to charge for a transportation service the difference between (1) the applicable rate that was lawfully in effect pursuant to a tariff that was filed in accordance with this chapter or, with respect to transportation provided before January 1, 1996, in accordance with chapter 107, as in effect on the date the transportation was provided, by the carrier or freight forwarder applicable to such transportation service, and (2) the negotiated rate for such transportation service if the carrier or freight forwarder is no longer transporting property between places described in section 13501(1) or is transporting property between places described in section 13501(1) for the purpose of avoiding application of this section.
 
     (b) __Jurisdiction of Board.—__ 
 
-        (1) __Determination.—__ 
+        (1)  __Determination__  __.—__ 
 
         The Board shall have jurisdiction to make a determination of whether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
 
-        (2) __Factors to consider.—__ 
+        (2)  __Factors to consider__  __.—__ 
 
         In making a determination under paragraph (1), the Board shall consider—
 
@@ -39,23 +39,23 @@
 
             (E) whether the carrier or freight forwarder or party demands additional payment of a higher rate filed in a tariff.
 
-    (c) __Stay of Additional Compensation.—__ 
+    (c)  __Stay of Additional Compensation__  __.—__ 
 
     When a person proceeds under this section to challenge the reasonableness of the practice of a motor carrier, freight forwarder, or party described in subsection (a) to attempt to charge or to charge the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service in addition to those charges already billed and collected for the transportation service, the person shall not have to pay any additional compensation to the carrier, freight forwarder, or party until the Board has made a determination as to the reasonableness of the practice as applied to the freight of the person against whom the claim is made.
 
-    (d) __Treatment.—__ 
+    (d)  __Treatment__  __.—__ 
 
     Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
 
-    (e) __Nonapplicability of Negotiated Rate Dispute Resolution Procedure.—__ 
+    (e)  __Nonapplicability of Negotiated Rate Dispute Resolution Procedure__  __.—__ 
 
     If a person elects to seek enforcement of subsection (a) with respect to a rate for a transportation or service, section 13709 shall not apply to such rate.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the term “negotiated rate” means a rate, charge, classification, or rule agreed upon by a motor carrier or freight forwarder and a shipper through negotiations pursuant to which no tariff was lawfully and timely filed and for which there is written evidence of such agreement.
 
-    (g) __Applicability to Pending Cases.—__ 
+    (g)  __Applicability to Pending Cases__  __.—__ 
 
     This section shall apply to all cases and proceedings pending on January 1, 1996.
 

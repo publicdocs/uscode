@@ -17,19 +17,19 @@
 
     (a) __Compliance Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), not later than 180 days after the date of enactment of this section, a part 135 certificate holder providing air ambulance services shall comply, whenever medical personnel are onboard the aircraft, with regulations pertaining to weather minimums and flight and duty time under part 135.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         If a certificate holder described in paragraph (1) is operating, or carrying out training, under instrument flight rules, the weather reporting requirement at the destination shall not apply if authorized by the Administrator of the Federal Aviation Administration.
 
-    (b) __Final Rule.—__ 
+    (b)  __Final Rule__  __.—__ 
 
     Not later than June 1, 2012, the Administrator shall issue a final rule, with respect to the notice of proposed rulemaking published in the Federal Register on October 12, 2010 (75 Fed. Reg. 62640), to improve the safety of flight crewmembers, medical personnel, and passengers onboard helicopters providing air ambulance services under part 135.
 
-    (c) __Matters To Be Addressed.—__ 
+    (c)  __Matters To Be Addressed__  __.—__ 
 
     In conducting the rulemaking proceeding under subsection (b), the Administrator shall address the following:
 
@@ -55,11 +55,11 @@
 
         (4) Such other matters as the Administrator considers appropriate.
 
-    (d) __Minimum Requirements.—__ 
+    (d)  __Minimum Requirements__  __.—__ 
 
     In issuing a final rule under subsection (b), the Administrator, at a minimum, shall provide for the following:
 
-        (1) __Flight risk evaluation program.—__ 
+        (1)  __Flight risk evaluation program__  __.—__ 
 
         The Administrator shall ensure that a part 135 certificate holder providing helicopter air ambulance services—
 
@@ -69,13 +69,13 @@
 
             (C) requires the pilots of the certificate holder to use the checklist.
 
-        (2) __Operational control center.—__ 
+        (2)  __Operational control center__  __.—__ 
 
         The Administrator shall ensure that a part 135 certificate holder providing helicopter air ambulance services using 10 or more helicopters has an operational control center that meets such requirements as the Administrator may prescribe.
 
     (e) __Subsequent Rulemaking.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Upon completion of the rulemaking required under subsection (b), the Administrator shall conduct a follow-on rulemaking to address the following:
 
@@ -101,23 +101,23 @@
 
             (B) Use of safety equipment that should be worn or used by flight crewmembers and medical personnel on a flight, including the possible use of shoulder harnesses, helmets, seatbelts, and fire resistant clothing to enhance crash survivability.
 
-        (2) __Deadlines.—__ 
+        (2)  __Deadlines__  __.—__ 
 
         Not later than 180 days after the date of issuance of a final rule under subsection (b), the Administrator shall initiate the rulemaking under this subsection.
 
-        (3) __Limitation on construction.—__ 
+        (3)  __Limitation on construction__  __.—__ 
 
         Nothing in this subsection shall be construed to require the Administrator to propose or finalize any rule that would derogate or supersede the rule required to be finalized under subsection (b).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Part 135.—__ 
+        (1)  __Part 135__  __.—__ 
 
         The term “part 135” means part 135 of title 14, Code of Federal Regulations.
 
-        (2) __Part 135 certificate holder.—__ 
+        (2)  __Part 135 certificate holder__  __.—__ 
 
         The term “part 135 certificate holder” means a person holding an operating certificate issued under part 119 of title 14, Code of Federal Regulations, that is authorized to conduct civil helicopter air ambulance operations under part 135.
 

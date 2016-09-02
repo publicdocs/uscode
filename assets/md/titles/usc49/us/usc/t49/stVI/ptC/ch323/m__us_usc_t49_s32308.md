@@ -15,7 +15,7 @@
 
 ## § 32308. General prohibitions, civil penalty, and enforcement
 
-    (a) __Prohibitions.—__ 
+    (a)  __Prohibitions__  __.—__ 
 
     A person may not—
 
@@ -23,7 +23,7 @@
 
         (2) fail to comply with applicable regulations prescribed by the Secretary in carrying out this chapter.
 
-    (b) __Civil Penalty.—__ 
+    (b)  __Civil Penalty__  __.—__ 
 
         (1) A person that violates subsection (a) of this section is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. Each failure to provide information or comply with a regulation in violation of subsection (a) is a separate violation. The maximum penalty under this subsection for a related series of violations is $400,000.
 
@@ -33,11 +33,11 @@
 
         (4) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-    (c) __Section 32304A.—__ 
+    (c)  __Section__  __32304A.—__ 
 
     Any person who fails to comply with the national tire fuel efficiency information program under section 32304A is liable to the United States Government for a civil penalty of not more than $50,000 for each violation.
 
-    (d) __Civil Actions To Enforce.—__ 
+    (d)  __Civil Actions To Enforce__  __.—__ 
 
         (1) The Attorney General may bring a civil action in a United States district court to enjoin a violation of subsection (a) of this section.
 
@@ -53,7 +53,7 @@
 
         (3) The failure of the Secretary to comply with paragraph (2) of this subsection does not prevent a court from granting appropriate relief.
 
-    (e) __Venue and Service.—__ 
+    (e)  __Venue and Service__  __.—__ 
 
     A civil action under this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 

@@ -15,11 +15,11 @@
 
 ## § 46505. Carrying a weapon or explosive on an aircraft
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “loaded firearm” means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
 
-    (b) __General Criminal Penalty.—__ 
+    (b)  __General Criminal Penalty__  __.—__ 
 
     An individual shall be fined under title 18, imprisoned for not more than 10 years, or both, if the individual—
 
@@ -29,11 +29,11 @@
 
         (3) has on or about the individual, or has placed, attempted to place, or attempted to have placed on that aircraft, an explosive or incendiary device.
 
-    (c) __Criminal Penalty Involving Disregard for Human Life.—__ 
+    (c)  __Criminal Penalty Involving Disregard for Human Life__  __.—__ 
 
     An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
-    (d) __Nonapplication.—__ 
+    (d)  __Nonapplication__  __.—__ 
 
     Subsection (b)(1) of this section does not apply to—
 
@@ -43,7 +43,7 @@
 
         (3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
 
-    (e) __Conspiracy.—__ 
+    (e)  __Conspiracy__  __.—__ 
 
     If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.
 

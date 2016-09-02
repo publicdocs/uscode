@@ -15,7 +15,7 @@
 
 ## § 44702. Issuance of certificates
 
-    (a) __General Authority and Applications.—__ 
+    (a)  __General Authority and Applications__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may issue airman certificates, design organization certificates, type certificates, production certificates, airworthiness certificates, air carrier operating certificates, airport operating certificates, air agency certificates, and air navigation facility certificates under this chapter. An application for a certificate must—
 
@@ -23,7 +23,7 @@
 
         (2) be in the form, contain information, and be filed and served in the way the Administrator prescribes.
 
-    (b) __Considerations.—__ 
+    (b)  __Considerations__  __.—__ 
 
     When issuing a certificate under this chapter, the Administrator shall—
 
@@ -37,11 +37,11 @@
 
         (2) classify a certificate according to the differences between air transportation and other air commerce.
 
-    (c) __Prior Certification.—__ 
+    (c)  __Prior Certification__  __.—__ 
 
     The Administrator may authorize an aircraft, aircraft engine, propeller, or appliance for which a certificate has been issued authorizing the use of the aircraft, aircraft engine, propeller, or appliance in air transportation to be used in air commerce without another certificate being issued.
 
-    (d) __Delegation.—__ 
+    (d)  __Delegation__  __.—__ 
 
         (1)
 

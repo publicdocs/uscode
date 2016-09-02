@@ -17,7 +17,7 @@
 
     (a) __Criminal History Background Checks.—__ 
 
-        (1) __Access to information.—__ 
+        (1)  __Access to information__  __.—__ 
 
         The Administrator of the Federal Aviation Administration, for certification purposes of the Administration only, is authorized—
 
@@ -25,19 +25,19 @@
 
             (B) to receive relevant criminal history record information regarding the airman checked.
 
-        (2) __Release of information.—__ 
+        (2)  __Release of information__  __.—__ 
 
         In accessing a repository referred to in paragraph (1), the Administrator shall be subject to the conditions and procedures established by the Department of Justice or the State, as appropriate, for other governmental agencies conducting background checks for noncriminal justice purposes.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         The Administrator may not use the authority under paragraph (1) to conduct criminal investigations.
 
-        (4) __Reimbursement.—__ 
+        (4)  __Reimbursement__  __.—__ 
 
         The Administrator may collect reimbursement to process the fingerprint-based checks under this subsection, to be used for expenses incurred, including Federal Bureau of Investigation fees, in providing these services.
 
-    (b) __Designated Employees.—__ 
+    (b)  __Designated Employees__  __.—__ 
 
     The Administrator shall designate, by order, employees of the Administration who may carry out the authority described in subsection (a).
 

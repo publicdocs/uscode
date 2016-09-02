@@ -15,11 +15,11 @@
 
 ## § 60115. Technical safety standards committees
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     The Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee are committees in the Department of Transportation. The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.
 
-    (b) __Composition and Appointment.—__ 
+    (b)  __Composition and Appointment__  __.—__ 
 
         (1) The Technical Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary of Transportation after consulting with public and private agencies concerned with the technical aspect of transporting gas or operating a gas pipeline facility. Each member must be experienced in the safety regulation of transporting gas and of gas pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting gas or operating a gas pipeline facility, to evaluate gas pipeline safety standards or risk management principles.
 
@@ -45,7 +45,7 @@
 
             (D) None of the individuals selected for a committee under paragraph (3)(C) may have a significant financial interest in the pipeline, petroleum, or gas industry.
 
-    (c) __Committee Reports on Proposed Standards.—__ 
+    (c)  __Committee Reports on Proposed Standards__  __.—__ 
 
         (1)
 
@@ -59,17 +59,17 @@
 
         (3) The Secretary may prescribe a standard after the end of the 90-day period.
 
-    (d) __Proposed Committee Standards and Policy Development Recommendations.—__ 
+    (d)  __Proposed Committee Standards and Policy Development Recommendations__  __.—__ 
 
         (1) The Technical Pipeline Safety Standards Committee may propose to the Secretary a safety standard for transporting gas and for gas pipeline facilities. The Technical Hazardous Liquid Pipeline Safety Standards Committee may propose to the Secretary a safety standard for transporting hazardous liquid and for hazardous liquid pipeline facilities.
 
         (2) If requested by the Secretary, a committee shall make policy development recommendations to the Secretary.
 
-    (e) __Meetings.—__ 
+    (e)  __Meetings__  __.—__ 
 
     Each committee shall meet with the Secretary at least up to 4 times annually. Each committee proceeding shall be recorded. The record of the proceeding shall be available to the public.
 
-    (f) __Expenses.—__ 
+    (f)  __Expenses__  __.—__ 
 
     A member of a committee under this section is entitled to expenses under [section 5703 of title 5][/us/usc/t5/s5703]. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 

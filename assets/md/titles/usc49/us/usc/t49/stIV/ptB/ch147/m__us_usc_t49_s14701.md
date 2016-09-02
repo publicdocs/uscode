@@ -15,15 +15,15 @@
 
 ## § 14701. General authority
 
-    (a) __Investigations.—__ 
+    (a)  __Investigations__  __.—__ 
 
     The Secretary or the Board, as applicable, may begin an investigation under this part on the Secretary’s or the Board’s own initiative or on complaint. If the Secretary or Board, as applicable, finds that a carrier or broker is violating this part, the Secretary or Board, as applicable, shall take appropriate action to compel compliance with this part. If the Secretary finds that a foreign motor carrier or foreign motor private carrier is violating chapter 139, the Secretary shall take appropriate action to compel compliance with that chapter. The Secretary or Board, as applicable, may take action under this subsection only after giving the carrier or broker notice of the investigation and an opportunity for a proceeding.
 
-    (b) __Complaints.—__ 
+    (b)  __Complaints__  __.—__ 
 
     A person, including a governmental authority, may file with the Secretary or Board, as applicable, a complaint about a violation of this part by a carrier providing, or broker for, transportation or service subject to jurisdiction under this part or a foreign motor carrier or foreign motor private carrier providing transportation registered under [section 13902 of this title][/us/usc/t49/s13902]. The complaint must state the facts that are the subject of the violation. The Secretary or Board, as applicable, may dismiss a complaint that it determines does not state reasonable grounds for investigation and action.
 
-    (c) __Deadline.—__ 
+    (c)  __Deadline__  __.—__ 
 
     A formal investigative proceeding begun by the Secretary or Board under subsection (a) of this section is dismissed automatically unless it is concluded with administrative finality by the end of the 3d year after the date on which it was begun.
 
@@ -41,7 +41,7 @@
 
 [Pub. L. 109–59, title IV, § 4214][/us/pl/109/59/s4214], Aug. 10, 2005, [119 Stat. 1759][/us/stat/119/1759], provided that:
 
->     “(a) __Establishment of System.—__ 
+>     “(a)  __Establishment of System__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall—
 
@@ -65,7 +65,7 @@
 
 >         “(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, if known, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in [section 14710(d) of title 49][/us/usc/t49/s14710/d], United States Code) in the State in which the complainant resides.
 
->     “(b) __Use of Information.—__ 
+>     “(b)  __Use of Information__  __.—__ 
 
 >     The Secretary shall consider information in the data base established under subsection (a) in its household goods compliance and enforcement program.”
 

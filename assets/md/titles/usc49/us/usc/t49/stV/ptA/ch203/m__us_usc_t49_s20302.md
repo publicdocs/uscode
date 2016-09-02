@@ -15,7 +15,7 @@
 
 ## § 20302. General requirements
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as provided in subsection (c) of this section and [section 20303 of this title][/us/usc/t49/s20303], a railroad carrier may use or allow to be used on any of its railroad lines—
 
@@ -43,15 +43,15 @@
 
             (B) at least 50 percent of the vehicles in the train are equipped with power or train brakes and the engineer is using the power or train brakes on those vehicles and on all other vehicles equipped with them that are associated with those vehicles in the train.
 
-    (b) __Refusal To Receive Vehicles Not Properly Equipped.—__ 
+    (b)  __Refusal To Receive Vehicles Not Properly Equipped__  __.—__ 
 
     A railroad carrier complying with subsection (a)(5)(A) of this section may refuse to receive from a railroad line of a connecting railroad carrier or a shipper a vehicle that is not equipped with power or train brakes that will work and readily interchange with the power or train brakes in use on the vehicles of the complying railroad carrier.
 
-    (c) __Combined Vehicles Loading and Hauling Long Commodities.—__ 
+    (c)  __Combined Vehicles Loading and Hauling Long Commodities__  __.—__ 
 
     Notwithstanding subsection (a)(1)(B) of this section, when vehicles are combined to load and haul long commodities, only one of the vehicles must have hand brakes during the loading and hauling.
 
-    (d) __Authority To Change Requirements.—__ 
+    (d)  __Authority To Change Requirements__  __.—__ 
 
     The Secretary may—
 
@@ -61,7 +61,7 @@
 
         (3) increase, after an opportunity for a full hearing, the minimum percentage of vehicles in a train that are required by subsection (a)(5)(B) of this section to be equipped and used with power or train brakes.
 
-    (e) __Services of Association of American Railroads.—__ 
+    (e)  __Services of Association of American Railroads__  __.—__ 
 
     In carrying out subsection (d)(2) and (3) of this section, the Secretary may use the services of the Association of American Railroads.
 

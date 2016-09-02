@@ -15,13 +15,13 @@
 
 ## § 115. Transportation Security Oversight Board
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.
 
     (b) __Membership.—__ 
 
-        (1) __Number and appointment.—__ 
+        (1)  __Number and appointment__  __.—__ 
 
         The Board shall be composed of 7 members as follows:
 
@@ -39,11 +39,11 @@
 
             (G) One member appointed by the President to represent the National Security Council.
 
-        (2) __Chairperson.—__ 
+        (2)  __Chairperson__  __.—__ 
 
         The Chairperson of the Board shall be the Secretary of Homeland Security.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Board shall—
 
@@ -59,11 +59,11 @@
 
         (6) make recommendations to the Under Secretary regarding matters reviewed under paragraph (5).
 
-    (d) __Quarterly Meetings.—__ 
+    (d)  __Quarterly Meetings__  __.—__ 
 
     The Board shall meet at least quarterly.
 
-    (e) __Consideration of Security Information.—__ 
+    (e)  __Consideration of Security Information__  __.—__ 
 
     A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b), will be discussed.
 

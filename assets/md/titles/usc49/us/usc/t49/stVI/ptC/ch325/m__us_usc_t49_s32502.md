@@ -15,7 +15,7 @@
 
 ## § 32502. Bumper standards
 
-    (a) __General Requirements and Nonapplication.—__ 
+    (a)  __General Requirements and Nonapplication__  __.—__ 
 
     The Secretary of Transportation shall prescribe by regulation bumper standards for passenger motor vehicles and may prescribe by regulation bumper standards for passenger motor vehicle equipment manufactured in, or imported into, the United States. A standard does not apply to a passenger motor vehicle or passenger motor vehicle equipment—
 
@@ -25,7 +25,7 @@
 
         (3) exported.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
     A standard under this section—
 
@@ -35,7 +35,7 @@
 
         (3) to the greatest practicable extent, may not preclude the attachment of a detachable hitch.
 
-    (c) __Exemptions.—__ 
+    (c)  __Exemptions__  __.—__ 
 
     For good cause, the Secretary may exempt from all or any part of a standard—
 
@@ -45,7 +45,7 @@
 
         (3) a passenger motor vehicle for which an application for an exemption under section 30013(b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “30113(b)”. </sup></sup>  of this title has been filed in accordance with the requirements of that section.
 
-    (d) __Cost Reduction and Considerations.—__ 
+    (d)  __Cost Reduction and Considerations__  __.—__ 
 
     When prescribing a standard under this section, the Secretary shall design the standard to obtain the maximum feasible reduction of costs to the public, considering—
 
@@ -57,15 +57,15 @@
 
         (4) health and safety, including emission standards.
 
-    (e) __Procedures.—__ 
+    (e)  __Procedures__  __.—__ 
 
     [Section 553 of title 5][/us/usc/t5/s553] applies to a standard prescribed under this section. However, the Secretary shall give an interested person an opportunity to make oral and written presentations of information, views, and arguments. A transcript of each oral presentation shall be kept. Under conditions prescribed by the Secretary, the Secretary may conduct a hearing to resolve an issue of fact material to a standard.
 
-    (f) __Effective Date.—__ 
+    (f)  __Effective Date__  __.—__ 
 
     The Secretary shall prescribe an effective date for a standard under this section. That date may not be earlier than the date the standard is prescribed nor later than 18 months after the date the standard is prescribed. However, the Secretary may prescribe a later date when the Secretary submits to Congress and publishes the reasons for the later date. A standard only applies to a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the effective date.
 
-    (g) __Research.—__ 
+    (g)  __Research__  __.—__ 
 
     The Secretary shall conduct research necessary to carry out this chapter.
 

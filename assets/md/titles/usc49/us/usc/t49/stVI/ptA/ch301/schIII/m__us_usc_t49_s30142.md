@@ -15,7 +15,7 @@
 
 ## § 30142. Importing motor vehicles for personal use
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     [Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to an imported motor vehicle if—
 
@@ -25,7 +25,7 @@
 
         (3) the individual takes the actions required under subsection (b) of this section to receive an exemption.
 
-    (b) __Exemptions.—__ 
+    (b)  __Exemptions__  __.—__ 
 
         (1)
 

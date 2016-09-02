@@ -53,11 +53,11 @@
 
 [Pub. L. 112–95, title IV, § 411][/us/pl/112/95/s411], Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall establish an advisory committee for aviation consumer protection to advise the Secretary in carrying out activities relating to airline customer service improvements.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The Secretary shall appoint the members of the advisory committee, which shall be comprised of one representative each of—
 
@@ -69,19 +69,19 @@
 
 >         “(4) nonprofit public interest groups with expertise in consumer protection matters.
 
->     “(c) __Vacancies.—__ 
+>     “(c)  __Vacancies__  __.—__ 
 
 >     A vacancy in the advisory committee shall be filled in the manner in which the original appointment was made.
 
->     “(d) __Travel Expenses.—__ 
+>     “(d)  __Travel Expenses__  __.—__ 
 
 >     Members of the advisory committee shall serve without pay but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
->     “(e) __Chairperson.—__ 
+>     “(e)  __Chairperson__  __.—__ 
 
 >     The Secretary shall designate, from among the individuals appointed under subsection (b), an individual to serve as chairperson of the advisory committee.
 
->     “(f) __Duties.—__ 
+>     “(f)  __Duties__  __.—__ 
 
 >     The duties of the advisory committee shall include—
 
@@ -89,7 +89,7 @@
 
 >         “(2) providing recommendations for establishing additional aviation consumer protection programs, if needed.
 
->     “(g) __Report to Congress.—__ 
+>     “(g)  __Report to Congress__  __.—__ 
 
 >     Not later than February 1 of each of the first 2 calendar years beginning after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary shall transmit to Congress a report containing—
 
@@ -97,7 +97,7 @@
 
 >         “(2) an explanation of how the Secretary has implemented each recommendation and, for each recommendation not implemented, the Secretary’s reason for not implementing the recommendation.
 
->     “(h) __Termination.—__ 
+>     “(h)  __Termination__  __.—__ 
 
 >     The advisory committee established under this section shall terminate on September 30, 2015.”
 

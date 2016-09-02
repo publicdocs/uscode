@@ -15,11 +15,11 @@
 
 ## § 1138. Evaluation and audit of National Transportation Safety Board
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted at least annually, but may be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 
-    (b) __Responsibility of Comptroller General.—__ 
+    (b)  __Responsibility of Comptroller General__  __.—__ 
 
     The Comptroller General shall evaluate and audit Board programs, operations, and activities, including—
 
@@ -35,7 +35,7 @@
 
         (6) the extent to which the Board addresses management challenges in completing accident investigations.
 
-    (c) __Appropriate Congressional Committees.—__ 
+    (c)  __Appropriate Congressional Committees__  __.—__ 
 
     For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 

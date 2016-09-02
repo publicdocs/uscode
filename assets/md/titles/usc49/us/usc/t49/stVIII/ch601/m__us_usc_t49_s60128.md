@@ -15,11 +15,11 @@
 
 ## § 60128. Dumping within pipeline rights-of-way
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     No person shall excavate for the purpose of unauthorized disposal within the right-of-way of an interstate gas pipeline facility or interstate hazardous liquid pipeline facility, or any other limited area in the vicinity of any such interstate pipeline facility established by the Secretary of Transportation, and dispose solid waste therein.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     For purposes of this section, the term “solid waste” has the meaning given that term in section 1004(27) of the Solid Waste Disposal Act ([42 U.S.C. 6903(27)][/us/usc/t42/s6903/27]).
 

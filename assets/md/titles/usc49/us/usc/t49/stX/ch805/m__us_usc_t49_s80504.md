@@ -15,15 +15,15 @@
 
 ## § 80504. Medals of honor
 
-    (a) __Medals.—__ 
+    (a)  __Medals__  __.—__ 
 
     The President may prepare and give a bronze medal of honor with emblematic devices to an individual who by extreme daring endangers that individual’s life in trying to prevent, or save the life of another in, a grave accident in the United States involving a rail carrier providing transportation in interstate commerce or involving a motor vehicle on the public streets, roads, or highways. The President may give a medal only when sufficient evidence that the individual deserves the medal has been filed under regulations prescribed by the President.
 
-    (b) __Ribbons, Knots, and Rosettes.—__ 
+    (b)  __Ribbons, Knots, and Rosettes__  __.—__ 
 
     The President may give an individual who receives a medal a ribbon to be worn with the medal and a knot or rosette to be worn in place of the medal. The President shall prescribe the design for the ribbon, knot, and rosette. If the ribbon is lost, destroyed, or made unfit for use and the individual receiving the medal is not negligent, the President shall issue a new ribbon without charge to the individual.
 
-    (c) __Availability of Appropriations.—__ 
+    (c)  __Availability of Appropriations__  __.—__ 
 
     Appropriations made to the Secretary of Transportation are available to carry out this section.
 

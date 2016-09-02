@@ -15,7 +15,7 @@
 
 ## § 6309. National transportation atlas database
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director shall develop and maintain a national transportation atlas database that is comprised of geospatial databases that depict—
 
@@ -25,7 +25,7 @@
 
         (3) social, economic, and environmental conditions that affect or are affected by the transportation networks.
 
-    (b) __Intermodal Network Analysis.—__ 
+    (b)  __Intermodal Network Analysis__  __.—__ 
 
     The databases referred to in subsection (a) shall be capable of supporting intermodal network analysis.
 

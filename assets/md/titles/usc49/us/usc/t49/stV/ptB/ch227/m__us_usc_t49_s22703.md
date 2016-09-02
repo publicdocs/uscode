@@ -15,7 +15,7 @@
 
 ## § 22703. Purposes
 
-    (a) __Purposes.—__ 
+    (a)  __Purposes__  __.—__ 
 
     The purposes of a State rail plan are as follows:
 
@@ -27,7 +27,7 @@
 
         (4) To serve as the basis for Federal and State rail investments within the State.
 
-    (b) __Coordination.—__ 
+    (b)  __Coordination__  __.—__ 
 
     A State rail plan shall be coordinated with other State transportation planning goals and programs, including the plan required under [section 135 of title 23][/us/usc/t23/s135], and set forth rail transportation’s role within the State transportation system.
 

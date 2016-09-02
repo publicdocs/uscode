@@ -15,41 +15,41 @@
 
 ## § 44924. Repair station security
 
-    (a) __Security Review and Audit.—__ 
+    (a)  __Security Review and Audit__  __.—__ 
 
     To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Under Secretary for Border and Transportation Security of the Department of Homeland Security, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 6 months after the date on which the Under Secretary issues regulations under subsection (f).
 
-    (b) __Addressing Security Concerns.—__ 
+    (b)  __Addressing Security Concerns__  __.—__ 
 
     The Under Secretary shall require a foreign repair station to address the security issues and vulnerabilities identified in a security audit conducted under subsection (a) within 90 days of providing notice to the repair station of the security issues and vulnerabilities so identified and shall notify the Administrator that a deficiency was identified in the security audit.
 
     (c) __Suspensions and Revocations of Certificates.—__ 
 
-        (1) __Failure to carry out effective security measures.—__ 
+        (1)  __Failure to carry out effective security measures__  __.—__ 
 
         If, after the 90th day on which a notice is provided to a foreign repair station under subsection (b), the Under Secretary determines that the foreign repair station does not maintain and carry out effective security measures, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall suspend the certification of the repair station until such time as the Under Secretary determines that the repair station maintains and carries out effective security measures and transmits the determination to the Administrator.
 
-        (2) __Immediate security risk.—__ 
+        (2)  __Immediate security risk__  __.—__ 
 
         If the Under Secretary determines that a foreign repair station poses an immediate security risk, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall revoke the certification of the repair station.
 
-        (3) __Procedures for appeals.—__ 
+        (3)  __Procedures for appeals__  __.—__ 
 
         The Under Secretary, in consultation with the Administrator, shall establish procedures for appealing a revocation of a certificate under this subsection.
 
-    (d) __Failure To Meet Audit Deadline.—__ 
+    (d)  __Failure To Meet Audit Deadline__  __.—__ 
 
     If the security audits required by subsection (a) are not completed on or before the date that is 6 months after the date on which the Under Secretary issues regulations under subsection (f), the Administrator shall be barred from certifying any foreign repair station (other than a station that was previously certified, or is in the process of certification, by the Administration under this part) until such audits are completed for existing stations.
 
-    (e) __Priority for Audits.—__ 
+    (e)  __Priority for Audits__  __.—__ 
 
     In conducting the audits described in subsection (a), the Under Secretary and the Administrator shall give priority to foreign repair stations located in countries identified by the Government as posing the most significant security risks.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     Not later than 240 days after the date of enactment of this section, the Under Secretary, in consultation with the Administrator, shall issue final regulations to ensure the security of foreign and domestic aircraft repair stations.
 
-    (g) __Report to Congress.—__ 
+    (g)  __Report to Congress__  __.—__ 
 
     If the Under Secretary does not issue final regulations before the deadline specified in subsection (f), the Under Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing an explanation as to why the deadline was not met and a schedule for issuing the final regulations.
 

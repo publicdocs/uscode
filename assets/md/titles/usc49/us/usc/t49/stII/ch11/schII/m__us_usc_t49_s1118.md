@@ -15,21 +15,21 @@
 
 ## § 1118. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.
 
-    (b) __Emergency Fund.—__ 
+    (b)  __Emergency Fund__  __.—__ 
 
     The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 
     (c) __Fees, Refunds, and Reimbursements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.
 
-        (2) __Receipts credited as offsetting collections.—__ 
+        (2)  __Receipts credited as offsetting collections__  __.—__ 
 
         Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any fee, refund, or reimbursement collected under this subsection—
 
@@ -39,7 +39,7 @@
 
             (C) shall remain available until expended.
 
-        (3) __Refunds.—__ 
+        (3)  __Refunds__  __.—__ 
 
         The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 

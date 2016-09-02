@@ -15,7 +15,7 @@
 
 ## § 5125. Preemption
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as provided in subsections (b), (c), and (e) of this section and unless authorized by another law of the United States, a requirement of a State, political subdivision of a State, or Indian tribe is preempted if—
 
@@ -23,7 +23,7 @@
 
         (2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
 
-    (b) __Substantive Differences.—__ 
+    (b)  __Substantive Differences__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (3) If a State, political subdivision of a State, or Indian tribe imposes a fine or penalty the Secretary decides is appropriate for a violation related to a subject referred to in paragraph (1) of this subsection, an additional fine or penalty may not be imposed by any other authority.
 
-    (c) __Compliance With Section 5112(b) Regulations.—__ 
+    (c)  __Compliance With Section__  __5112(b)__  __Regulations__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under [section 5112(b) of this title][/us/usc/t49/s5112/b], a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b), and is published in the Department’s hazardous materials route registry under section 5112(c).
 
@@ -55,7 +55,7 @@
 
             (C) The Secretary may allow a highway routing designation, limitation, or requirement to continue in effect until a dispute related to the designation, limitation, or requirement is resolved under [section 5112(d) of this title][/us/usc/t49/s5112/d].
 
-    (d) __Decisions on Preemption.—__ 
+    (d)  __Decisions on Preemption__  __.—__ 
 
         (1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
 
@@ -63,7 +63,7 @@
 
         (3) Subsection (a) of this section does not prevent a State, political subdivision of a State, or Indian tribe, or another person directly affected by a requirement, from seeking a decision on preemption from a court of competent jurisdiction instead of applying to the Secretary under paragraph (1) of this subsection.
 
-    (e) __Waiver of Preemption.—__ 
+    (e)  __Waiver of Preemption__  __.—__ 
 
     A State, political subdivision of a State, or Indian tribe may apply to the Secretary for a waiver of preemption of a requirement the State, political subdivision, or tribe acknowledges is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). Under a procedure the Secretary prescribes by regulation, the Secretary may waive preemption on deciding the requirement—
 
@@ -71,7 +71,7 @@
 
         (2) is not an unreasonable burden on commerce.
 
-    (f) __Fees.—__ 
+    (f)  __Fees__  __.—__ 
 
         (1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related to transporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
 
@@ -87,11 +87,11 @@
 
             (D) such other matters as the Secretary requests.
 
-    (g) __Application of Each Preemption Standard.—__ 
+    (g)  __Application of Each Preemption Standard__  __.—__ 
 
     Each standard for preemption in subsection (a), (b)(1), or (c), and in section 5119(f), is independent in its application to a requirement of a State, political subdivision of a State, or Indian tribe.
 
-    (h) __Non-Federal Enforcement Standards.—__ 
+    (h)  __Non-Federal Enforcement Standards__  __.—__ 
 
     This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
 

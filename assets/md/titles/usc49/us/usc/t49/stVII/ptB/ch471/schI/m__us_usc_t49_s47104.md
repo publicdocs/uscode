@@ -15,15 +15,15 @@
 
 ## § 47104. Project grant authority
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To maintain a safe and efficient nationwide system of public-use airports that meets the present and future needs of civil aeronautics, the Secretary of Transportation may make project grants under this subchapter from the Airport and Airway Trust Fund.
 
-    (b) __Incurring Obligations.—__ 
+    (b)  __Incurring Obligations__  __.—__ 
 
     The Secretary may incur obligations to make grants from amounts made available under [section 48103 of this title][/us/usc/t49/s48103] as soon as the amounts are apportioned under section 47114(c) and (d)(2) of this title.
 
-    (c) __Expiration of Authority.—__ 
+    (c)  __Expiration of Authority__  __.—__ 
 
     After September 30, 2015, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
@@ -273,11 +273,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 505(b)(1) (last sentence), as amended May 
 
 [Pub. L. 106–181, title I, § 139][/us/pl/106/181/s139], Apr. 5, 2000, [114 Stat. 85][/us/stat/114/85], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] may establish a pilot program under which design-build contracts may be used to carry out up to 7 projects at airports in the United States with a grant awarded under [section 47104 of title 49][/us/usc/t49/s47104], United States Code. A sponsor of an airport may submit an application to the Administrator to carry out a project otherwise eligible for assistance under chapter 471 of such title under the pilot program.
 
->     “(b) __Use of Design-Build Contracts.—__ 
+>     “(b)  __Use of Design-Build Contracts__  __.—__ 
 
 >     Under the pilot program, the Administrator may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
 
@@ -293,15 +293,15 @@ Sept. 3, 1982, Pub. L. 97–248, § 505(b)(1) (last sentence), as amended May 
 
 >         “(6) the Administrator is satisfied that the selection process will be as open, fair, and objective as the competitive bid system and that at least three or more bids will be submitted for each project under the selection process.
 
->     “(c) __Reimbursement of Costs.—__ 
+>     “(c)  __Reimbursement of Costs__  __.—__ 
 
 >     The Administrator may reimburse an airport sponsor for design and construction costs incurred before a grant is made pursuant to this section if the project is approved by the Administrator in advance and is carried out in accordance with all administrative and statutory requirements that would have been applicable under chapter 471 of title 49, United States Code, if the project were carried out after a grant agreement had been executed.
 
->     “(d) __Design-Build Contract Defined.—__ 
+>     “(d)  __Design-Build Contract Defined__  __.—__ 
 
 >     In this section, the term ‘design-build contract’ means an agreement that provides for both design and construction of a project by a contractor.
 
->     “(e) __Expiration of Authority.—__ 
+>     “(e)  __Expiration of Authority__  __.—__ 
 
 >     The authority of the Administrator to carry out the pilot program under this section shall expire on September 30, 2003.”
 

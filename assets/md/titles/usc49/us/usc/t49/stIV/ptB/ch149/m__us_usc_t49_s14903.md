@@ -15,19 +15,19 @@
 
 ## § 14903. Tariff violations
 
-    (a) __Civil Penalty for Undercharging and Overcharging.—__ 
+    (a)  __Civil Penalty for Undercharging and Overcharging__  __.—__ 
 
     A person that offers, grants, gives, solicits, accepts, or receives by any means transportation or service provided for property by a carrier subject to jurisdiction under chapter 135 at a rate different than the rate in effect under section 13702 is liable to the United States for a civil penalty of not more than $100,000 for each violation.
 
-    (b) __General Criminal Penalty.—__ 
+    (b)  __General Criminal Penalty__  __.—__ 
 
     A carrier providing transportation or service subject to jurisdiction under chapter 135 or an officer, director, receiver, trustee, lessee, agent, or employee of a corporation that is subject to jurisdiction under that chapter, that willfully does not observe its tariffs as required under section 13702, shall be fined under title 18 or imprisoned not more than 2 years, or both.
 
-    (c) __Actions of Agents and Employees.—__ 
+    (c)  __Actions of Agents and Employees__  __.—__ 
 
     When acting in the scope of their employment, the actions and omissions of persons acting for or employed by a carrier or shipper that is subject to this section are considered to be the actions and omissions of that carrier or shipper as well as that person.
 
-    (d) __Venue.—__ 
+    (d)  __Venue__  __.—__ 
 
     Trial in a criminal action under this section is in the judicial district in which any part of the violation is committed or through which the transportation is conducted.
 

@@ -15,7 +15,7 @@
 
 ## § 60135. Enforcement transparency
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than December 31, 2007, the Secretary shall—
 
@@ -25,11 +25,11 @@
 
         (3) provide a mechanism by which a pipeline operator named in an enforcement action may make information, explanations, or documents it believes are responsive to the enforcement action available to the public.
 
-    (b) __Electronic Availability.—__ 
+    (b)  __Electronic Availability__  __.—__ 
 
     Each summary under this section shall be made available to the public by electronic means.
 
-    (c) __Relationship to FOIA.—__ 
+    (c)  __Relationship to__  __FOIA.—__ 
 
     Nothing in this section shall be construed to require disclosure of information or records that are exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 

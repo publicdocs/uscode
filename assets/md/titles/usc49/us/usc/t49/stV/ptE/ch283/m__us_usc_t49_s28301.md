@@ -15,7 +15,7 @@
 
 ## § 28301. General
 
-    (a) __Eight Hour Day.—__ 
+    (a)  __Eight Hour Day__  __.—__ 
 
     In contracts for labor and service, 8 hours shall be a day’s work and the standard day’s work for determining the compensation for services of an employee employed by a common carrier by railroad subject to subtitle IV of this title and actually engaged in any capacity in operating trains used for transporting passengers or property on railroads from—
 
@@ -27,7 +27,7 @@
 
         (4) a place in the United States through a foreign country to any other place in the United States.
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     Subsection (a) of this section—
 

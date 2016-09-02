@@ -15,21 +15,21 @@
 
 ## § 30502. National Motor Vehicle Title Information System
 
-    (a) __Establishment or Designation.—__ 
+    (a)  __Establishment or Designation__  __.—__ 
 
         (1) In cooperation with the States and not later than December 31, 1997, the Attorney General shall establish a National Motor Vehicle Title Information System that will provide individuals and entities referred to in subsection (e) of this section with instant and reliable access to information maintained by the States related to automobile titling described in subsection (d) of this section. However, if the Attorney General decides that the existing information system meets the requirements of subsections (d) and (e) of this section and will permit the Attorney General to carry out this chapter as early as possible, the Attorney General, in consultation with the Secretary of Transportation, may designate an existing information system as the National Motor Vehicle Title Information System.
 
         (2) In cooperation with the Secretary of Transportation and the States, the Attorney General shall ascertain the extent to which title and related information to be included in the system established under paragraph (1) of this subsection will be adequate, timely, reliable, uniform, and capable of assisting in efforts to prevent the introduction or reintroduction of stolen vehicles and parts into interstate commerce.
 
-    (b) __Operation.—__ 
+    (b)  __Operation__  __.—__ 
 
     The Attorney General may authorize the operation of the System established or designated under subsection (a)(1) of this section by agreement with one or more States, or by designating, after consulting with the States, a third party that represents the interests of the States.
 
-    (c) __User Fees.—__ 
+    (c)  __User Fees__  __.—__ 
 
     Operation of the System established or designated under subsection (a)(1) of this section shall be paid for by user fees and should be self-sufficient and not be dependent on amounts from the United States Government. The amount of fees the operator collects and keeps under this subsection subject to annual appropriation laws, excluding fees the operator collects and pays to an entity providing information to the operator, may be not more than the costs of operating the System.
 
-    (d) __Information Requirements.—__ 
+    (d)  __Information Requirements__  __.—__ 
 
     The System established or designated under subsection (a)(1) of this section shall permit a user of the System at least to establish instantly and reliably—
 
@@ -43,7 +43,7 @@
 
         (5) whether an automobile bearing a known vehicle identification number has been reported as a junk automobile or a salvage automobile under [section 30504 of this title][/us/usc/t49/s30504].
 
-    (e) __Availability of Information.—__ 
+    (e)  __Availability of Information__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
         (2) The operator may release only the information reasonably necessary to satisfy the requirements of paragraph (1) of this subsection. The operator may not collect an individual’s social security account number or permit users of the System to obtain an individual’s address or social security account number.
 
-    (f) __Immunity.—__ 
+    (f)  __Immunity__  __.—__ 
 
     Any person performing any activity under this section or sections 30503 or 30504 in good faith and with the reasonable belief that such activity was in accordance with this section or section 30503 or 30504, as the case may be, shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
 

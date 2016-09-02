@@ -15,13 +15,13 @@
 
 ## § 40103. Sovereignty and use of airspace
 
-    (a) __Sovereignty and Public Right of Transit.—__ 
+    (a)  __Sovereignty and Public Right of Transit__  __.—__ 
 
         (1) The United States Government has exclusive sovereignty of airspace of the United States.
 
         (2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 ([29 U.S.C. 792][/us/usc/t29/s792]) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
 
-    (b) __Use of Airspace.—__ 
+    (b)  __Use of Airspace__  __.—__ 
 
         (1) The Administrator of the Federal Aviation Administration shall develop plans and policy for the use of the navigable airspace and assign by regulation or order the use of the airspace necessary to ensure the safety of aircraft and the efficient use of airspace. The Administrator may modify or revoke an assignment when required in the public interest.
 
@@ -47,15 +47,15 @@
 
         (4) Notwithstanding the military exception in [section 553(a)(1) of title 5][/us/usc/t5/s553/a/1], subchapter II of chapter 5 of title 5 applies to a regulation prescribed under this subsection.
 
-    (c) __Foreign Aircraft.—__ 
+    (c)  __Foreign Aircraft__  __.—__ 
 
     A foreign aircraft, not part of the armed forces of a foreign country, may be navigated in the United States as provided in [section 41703 of this title][/us/usc/t49/s41703].
 
-    (d) __Aircraft of Armed Forces of Foreign Countries.—__ 
+    (d)  __Aircraft of Armed Forces of Foreign Countries__  __.—__ 
 
     Aircraft of the armed forces of a foreign country may be navigated in the United States only when authorized by the Secretary of State.
 
-    (e) __No Exclusive Rights at Certain Facilities.—__ 
+    (e)  __No Exclusive Rights at Certain Facilities__  __.—__ 
 
     A person does not have an exclusive right to use an air navigation facility on which Government money has been expended. However, providing services at an airport by only one fixed-based operator is not an exclusive right if—
 
@@ -341,11 +341,11 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 
 [Pub. L. 85–726, title VI, § 613(a)][/us/pl/85/726/s613/a], (b), as added by Pub. L.101–508, title IX, § 9124, Nov. 5, 1990, [104 Stat. 1388–370][/us/stat/104/1388-370], provided that:
 
->     “(a) __National Disaster Areas.—__ 
+>     “(a)  __National Disaster Areas__  __.—__ 
 
 >     Before the 180th day following the date of the enactment of this section \[Nov. 5, 1990\], the Administrator, for safety and humanitarian reasons, shall issue such regulations as may be necessary to prohibit or otherwise restrict aircraft overflights of any inhabited area which has been declared a national disaster area in the State of Hawaii.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Regulations issued pursuant to subsection (a) shall not be applicable in the case of aircraft overflights involving an emergency or a ligitimate \[sic\] scientific purpose.”
 
@@ -353,7 +353,7 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 
 [Pub. L. 106–181, title VII, § 736][/us/pl/106/181/s736], Apr. 5, 2000, [114 Stat. 171][/us/stat/114/171], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -365,15 +365,15 @@ In subsection (b), the word “Administrator” in section 307(a), (c), and (d) 
 
 >         “(4) Redesign of the national airspace should be a high priority for the Federal Aviation Administration and the air transportation industry.
 
->     “(b) __Redesign.—__ 
+>     “(b)  __Redesign__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\], with advice from the aviation industry and other interested parties, shall conduct a comprehensive redesign of the national airspace system.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Administrator’s comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
 
->     “(d) __Authorization.—__ 
+>     “(d)  __Authorization__  __.—__ 
 
 >     There is authorized to be appropriated to the Administrator to carry out this section $12,000,000 for each of fiscal years 2000, 2001, and 2002.”
 

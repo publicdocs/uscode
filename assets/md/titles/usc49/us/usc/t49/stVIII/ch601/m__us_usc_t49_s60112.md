@@ -15,7 +15,7 @@
 
 ## § 60112. Pipeline facilities hazardous to life and property
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     After notice and an opportunity for a hearing, the Secretary of Transportation may decide that a pipeline facility is hazardous if the Secretary decides that—
 
@@ -23,7 +23,7 @@
 
         (2) the facility is or would be constructed or operated, or a component of the facility is or would be constructed or operated, with equipment, material, or a technique that the Secretary decides is hazardous to life, property, or the environment.
 
-    (b) __Considerations.—__ 
+    (b)  __Considerations__  __.—__ 
 
     In making a decision under subsection (a) of this section, the Secretary shall consider, if relevant—
 
@@ -41,17 +41,17 @@
 
         (7) other factors the Secretary considers appropriate.
 
-    (c) __Opportunity for State Comment.—__ 
+    (c)  __Opportunity for State Comment__  __.—__ 
 
     The Secretary shall provide, to any appropriate official of a State in which a pipeline facility is located and about which a proceeding has begun under this section, notice and an opportunity to comment on an agreement the Secretary proposes to make to resolve the proceeding. State comment shall incorporate comments of affected local officials.
 
     (d) __Corrective Action Orders.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Secretary decides under subsection (a) of this section that a pipeline facility is or would be hazardous, the Secretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
 
-        (2) __Actions attributable to an employee.—__ 
+        (2)  __Actions attributable to an employee__  __.—__ 
 
         If, in the case of a corrective action order issued following an accident, the Secretary determines that the actions of an employee carrying out an activity regulated under this chapter, including duties under section 60102(a), may have contributed substantially to the cause of the accident, the Secretary shall direct the operator to relieve the employee from performing those activities, reassign the employee, or place the employee on leave until the earlier of the date on which—
 
@@ -59,11 +59,11 @@
 
             (B) the Secretary determines the employee has been re-qualified or re-trained as provided for in section 60131 and can safely perform those activities.
 
-        (3) __Effect of collective bargaining agreements.—__ 
+        (3)  __Effect of collective bargaining agreements__  __.—__ 
 
         An action taken by an operator under paragraph (2) shall be in accordance with the terms and conditions of any applicable collective bargaining agreement.
 
-    (e) __Waiver of Notice and Hearing in Emergency.—__ 
+    (e)  __Waiver of Notice and Hearing in Emergency__  __.—__ 
 
     The Secretary may waive the requirements for notice and an opportunity for a hearing under this section and issue expeditiously an order under this section if the Secretary decides failure to issue the order expeditiously will result in likely serious harm to life, property, or the environment. An order under this subsection shall provide an opportunity for a hearing as soon as practicable after the order is issued.
 

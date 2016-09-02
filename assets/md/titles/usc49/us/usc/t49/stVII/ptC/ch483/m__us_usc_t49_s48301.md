@@ -15,11 +15,11 @@
 
 ## § 48301. Aviation security funding
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There are authorized to be appropriated for fiscal years 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2010, and 2011 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
 
-    (b) __Grants for Aircraft Security.—__ 
+    (b)  __Grants for Aircraft Security__  __.—__ 
 
     There is authorized to be appropriated $500,000,000 for fiscal year 2002 to the Secretary of Transportation to make grants to or other agreements with air carriers (including intrastate air carriers) to—
 

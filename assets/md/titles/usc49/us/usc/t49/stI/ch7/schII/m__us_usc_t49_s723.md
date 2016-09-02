@@ -15,19 +15,19 @@
 
 ## § 723. Service of notice in Board proceedings
 
-    (a) __Designation of Agent.—__ 
+    (a)  __Designation of Agent__  __.—__ 
 
     A carrier providing transportation subject to the jurisdiction of the Board under subtitle IV shall designate an agent in the District of Columbia, on whom service of notices in a proceeding before, and of actions of, the Board may be made.
 
-    (b) __Filing and Changing Designations.—__ 
+    (b)  __Filing and Changing Designations__  __.—__ 
 
     A designation under subsection (a) shall be in writing and filed with the Board. The designation may be changed at any time in the same manner as originally made.
 
-    (c) __Service of Notice.—__ 
+    (c)  __Service of Notice__  __.—__ 
 
     Except as otherwise provided, notices of the Board shall be served on its designated agent at the office or usual place of residence in the District of Columbia of that agent. A notice of action of the Board shall be served immediately on the agent or in another manner provided by law. If that carrier does not have a designated agent, service may be made by posting the notice in the office of the Board.
 
-    (d) __Special Rule for Rail Carriers.—__ 
+    (d)  __Special Rule for Rail Carriers__  __.—__ 
 
     In a proceeding involving the lawfulness of classifications, rates, or practices of a rail carrier that has not designated an agent under this section, service of notice of the Board on an attorney in fact for the carrier constitutes service of notice on the carrier.
 

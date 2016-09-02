@@ -17,15 +17,15 @@
 
     (a) __Research, Technology, and Technology Transfer Activities.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Secretary of Transportation shall establish and carry out a motor carrier and motor coach research and technology program.
 
-        (2) __Multiyear plan.—__ 
+        (2)  __Multiyear plan__  __.—__ 
 
         The program must include a multi-year research plan that focuses on nonredundant innovative research and shall be coordinated with other research programs or projects ongoing or planned within the Department of Transportation, as appropriate.
 
-        (3) __Research, development, and technology transfer activities.—__ 
+        (3)  __Research, development, and technology transfer activities__  __.—__ 
 
         The Secretary may carry out under the program research, development, technology, and technology transfer activities with respect to—
 
@@ -39,15 +39,15 @@
 
             (E) increasing the safety and security of hazardous materials transportation.
 
-        (4) __Tests and development.—__ 
+        (4)  __Tests and development__  __.—__ 
 
         The Secretary may test, develop, or assist in testing and developing any material, invention, patented article, or process related to the research and technology program.
 
-        (5) __Training.—__ 
+        (5)  __Training__  __.—__ 
 
         The Secretary may use the funds made available to carry out this section for training or education of commercial motor vehicle safety personnel, including training in accident reconstruction and detection of controlled substances or other contraband and stolen cargo or vehicles.
 
-        (6) __Procedures.—__ 
+        (6)  __Procedures__  __.—__ 
 
         The Secretary may carry out this section—
 
@@ -57,13 +57,13 @@
 
             (C) by making grants to, or entering into contracts and cooperative agreements with, any Federal laboratory, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or person.
 
-        (7) __Development and promotion of use of products.—__ 
+        (7)  __Development and promotion of use of products__  __.—__ 
 
         The Secretary shall use funds made available to carry out this section to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs under this section.
 
     (b) __Collaborative Research and Development.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To advance innovative solutions to problems involving commercial motor vehicle and motor carrier safety, security, and efficiency, and to stimulate the deployment of emerging technology, the Secretary may carry out, on a cost-shared basis, collaborative research and development with—
 
@@ -71,21 +71,21 @@
 
             (B) Federal laboratories.
 
-        (2) __Cooperative agreements.—__ 
+        (2)  __Cooperative agreements__  __.—__ 
 
         In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a])).
 
         (3) __Cost sharing.—__ 
 
-            (A) __Federal share.—__ 
+            (A)  __Federal share__  __.—__ 
 
             The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this subsection shall not exceed 50 percent; except that, if there is substantial public interest or benefit associated with any such activity, the Secretary may approve a greater Federal share.
 
-            (B) __Treatment of directly incurred non-federal costs.—__ 
+            (B)  __Treatment of directly incurred non-federal costs__  __.—__ 
 
             All costs directly incurred by the non-Federal partners, including personnel, travel, and hardware or software development costs, shall be credited toward the non-Federal share of the cost of the activities described in subparagraph (A).
 
-        (4) __Use of technology.—__ 
+        (4)  __Use of technology__  __.—__ 
 
         The research, development, or use of a technology under a cooperative research and development agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701][/us/usc/t15/s3701] et seq.).
 

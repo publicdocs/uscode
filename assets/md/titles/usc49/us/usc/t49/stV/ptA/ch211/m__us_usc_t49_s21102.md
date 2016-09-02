@@ -15,7 +15,7 @@
 
 ## § 21102. Nonapplication, exemption, and alternate hours of service regime
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     This chapter does not apply to a situation involving any of the following:
 
@@ -27,7 +27,7 @@
 
         (4) a delay resulting from a cause unknown and unforeseeable to a railroad carrier or its officer or agent in charge of the employee when the employee left a terminal.
 
-    (b) __Exemption.—__ 
+    (b)  __Exemption__  __.—__ 
 
     The Secretary of Transportation may exempt a railroad carrier having not more than 15 employees covered by this chapter from the limitations imposed by this chapter. The Secretary may allow the exemption after a full hearing, for good cause shown, and on deciding that the exemption is in the public interest and will not affect safety adversely. The exemption shall be for a specific period of time and is subject to review at least annually. The exemption may not authorize a carrier to require or allow its employees to be on duty more than a total of 16 hours in a 24-hour period.
 

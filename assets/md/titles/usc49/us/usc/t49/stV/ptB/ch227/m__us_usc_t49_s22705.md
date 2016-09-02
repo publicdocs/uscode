@@ -15,7 +15,7 @@
 
 ## § 22705. Content
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each State rail plan shall, at a minimum, contain the following:
 
@@ -45,7 +45,7 @@
 
     (b) __Long-Range Service and Investment Program.—__ 
 
-        (1) __Program content.—__ 
+        (1)  __Program content__  __.—__ 
 
         A long-range rail investment program included in a State rail plan under subsection (a)(5) shall, at a minimum, include the following matters:
 
@@ -53,7 +53,7 @@
 
             (B) A detailed funding plan for those projects.
 
-        (2) __Project list content.—__ 
+        (2)  __Project list content__  __.—__ 
 
         The list of rail capital projects shall contain—
 
@@ -67,7 +67,7 @@
 
                 (ii) the public benefits.
 
-        (3) __Considerations for project list.—__ 
+        (3)  __Considerations for project list__  __.—__ 
 
         In preparing the list of freight and intercity passenger rail capital projects, a State rail transportation authority should take into consideration the following matters:
 

@@ -15,11 +15,11 @@
 
 ## § 20138. Tampering with safety and operational monitoring devices
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations and issue orders to prohibit the willful tampering with, or disabling of, any specified railroad safety or operational monitoring device.
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
         (1) A railroad carrier operating a train on which a safety or operational monitoring device is tampered with or disabled in violation of a regulation prescribed or order issued under subsection (a) of this section is liable to the United States Government for a civil penalty under [section 21301 of this title][/us/usc/t49/s21301].
 

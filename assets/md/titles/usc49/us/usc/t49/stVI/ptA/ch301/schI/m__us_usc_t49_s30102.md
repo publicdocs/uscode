@@ -15,7 +15,7 @@
 
 ## § 30102. Definitions
 
-    (a) __General Definitions.—__ 
+    (a)  __General Definitions__  __.—__ 
 
     In this chapter—
 
@@ -61,7 +61,7 @@
 
         (11) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
-    (b) __Limited Definitions.—__ 
+    (b)  __Limited Definitions__  __.—__ 
 
         (1)
 

@@ -15,11 +15,11 @@
 
 ## § 1153. Judicial review
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in the order may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
 
-    (b) __Persons Seeking Judicial Review of Aviation Matters.—__ 
+    (b)  __Persons Seeking Judicial Review of Aviation Matters__  __.—__ 
 
         (1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
 
@@ -31,11 +31,11 @@
 
         (5) A decision by a court under this subsection may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254].
 
-    (c) __Administrator Seeking Judicial Review of Aviation Matters.—__ 
+    (c)  __Administrator Seeking Judicial Review of Aviation Matters__  __.—__ 
 
     When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44703(d), 44709, or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-    (d) __Commandant Seeking Judicial Review of Maritime Matters.—__ 
+    (d)  __Commandant Seeking Judicial Review of Maritime Matters__  __.—__ 
 
     If the Commandant of the Coast Guard decides that an order of the Board issued pursuant to a review of a Coast Guard action under [section 1133 of this title][/us/usc/t49/s1133] will have an adverse impact on maritime safety or security, the Commandant may obtain judicial review of the order under subsection (a). The Commandant, in the official capacity of the Commandant, shall be a party to the judicial review proceedings.
 

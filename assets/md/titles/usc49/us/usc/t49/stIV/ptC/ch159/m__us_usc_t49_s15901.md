@@ -15,15 +15,15 @@
 
 ## § 15901. General authority
 
-    (a) __Investigation; Compliance Order.—__ 
+    (a)  __Investigation; Compliance Order__  __.—__ 
 
     Except as otherwise provided in this part, the Board may begin an investigation under this part only on complaint. If the Board finds that a pipeline carrier is violating this part, the Board shall take appropriate action to compel compliance with this part. The Board shall provide the carrier notice of the investigation and an opportunity for a proceeding.
 
-    (b) __Complaint.—__ 
+    (b)  __Complaint__  __.—__ 
 
     A person, including a governmental authority, may file with the Board a complaint about a violation of this part by a pipeline carrier providing transportation or service subject to this part. The complaint must state the facts that are the subject of the violation. The Board may dismiss a complaint it determines does not state reasonable grounds for investigation and action. However, the Board may not dismiss a complaint made against a pipeline carrier providing transportation subject to this part because of the absence of direct damage to the complainant.
 
-    (c) __Automatic Dismissal.—__ 
+    (c)  __Automatic Dismissal__  __.—__ 
 
     A formal investigative proceeding begun by the Board under subsection (a) is dismissed automatically unless it is concluded by the Board with administrative finality by the end of the 3d year after the date on which it was begun.
 

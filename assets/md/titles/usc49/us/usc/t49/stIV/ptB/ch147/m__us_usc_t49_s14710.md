@@ -15,19 +15,19 @@
 
 ## § 14710. Enforcement of Federal laws and regulations with respect to transportation of household goods
 
-    (a) __Enforcement by States.—__ 
+    (a)  __Enforcement by States__  __.—__ 
 
     Notwithstanding any other provision of this title, a State authority may enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, and are related to the delivery and transportation of household goods in interstate commerce. Any fine or penalty imposed on a carrier in a proceeding under this subsection shall be paid, notwithstanding any other provision of law, to and retained by the State.
 
-    (b) __Notice.—__ 
+    (b)  __Notice__  __.—__ 
 
     The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide the notice immediately upon instituting such civil action.
 
-    (c) __Enforcement Assistance Outreach Plan.—__ 
+    (c)  __Enforcement Assistance Outreach Plan__  __.—__ 
 
     The Federal Motor Carrier Safety Administration shall implement an outreach plan to enhance the coordination and effective enforcement of Federal laws and regulations with respect to transportation of household goods between and among Federal and State law enforcement and consumer protection authorities. The outreach shall include, as appropriate, local law enforcement and consumer protection authorities.
 
-    (d) __State Authority Defined.—__ 
+    (d)  __State Authority Defined__  __.—__ 
 
     In this section, the term “State authority” means an agency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
 
@@ -53,19 +53,19 @@
 
 [Pub. L. 109–59, title IV, § 4213][/us/pl/109/59/s4213], Aug. 10, 2005, [119 Stat. 1759][/us/stat/119/1759], as amended by [Pub. L. 111–147, title IV, § 422(j)][/us/pl/111/147/s422/j], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(j)][/us/pl/111/322/s2202/j], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(j)][/us/pl/112/5/s202/j], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(i)][/us/pl/112/30/s122/i], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(i)][/us/pl/112/102/s202/i], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(i)][/us/pl/112/140/s202/i], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. G, title II, § 112002(f)][/us/pl/112/141/s112002/f], July 6, 2012, [126 Stat. 983][/us/stat/126/983], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall establish a working group of State attorneys general, State consumer protection administrators, and Federal and local law enforcement officials for the purpose of developing practices and procedures to enhance the Federal-State partnership in enforcement efforts, exchange of information, and coordination of enforcement efforts with respect to interstate transportation of household goods and of making legislative and regulatory recommendations to the Secretary concerning such enforcement efforts.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     In carrying out subsection (a), the working group shall consult with industries involved in the transportation of household goods, the public, and other interested parties.
 
->     “(c) __Federal Advisory Committee Act Exemption.—__ 
+>     “(c)  __Federal Advisory Committee Act Exemption__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under subsection (a).
 
->     “(d) __Termination Date.—__ 
+>     “(d)  __Termination Date__  __.—__ 
 
 >     The working group shall remain in effect until September 30, 2012.”
 

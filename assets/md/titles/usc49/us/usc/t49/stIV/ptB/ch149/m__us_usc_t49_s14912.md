@@ -15,11 +15,11 @@
 
 ## § 14912. Weight-bumping in household goods transportation
 
-    (a) __Weight-Bumping Defined.—__ 
+    (a)  __Weight-Bumping Defined__  __.—__ 
 
     For the purposes of this section, “weight-bumping” means the knowing and willful making or securing of a fraudulent weight on a shipment of household goods which is subject to jurisdiction under subchapter I or III of chapter 135.
 
-    (b) __Penalty.—__ 
+    (b)  __Penalty__  __.—__ 
 
     Whoever has been found to have committed weight-bumping shall be fined under title 18 or imprisoned not more than 2 years, or both.
 

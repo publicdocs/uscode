@@ -15,11 +15,11 @@
 
 ## § 41112. Liability insurance and financial responsibility
 
-    (a) __Liability Insurance.—__ 
+    (a)  __Liability Insurance__  __.—__ 
 
     The Secretary of Transportation may issue a certificate to a citizen of the United States to provide air transportation as an air carrier under [section 41102 of this title][/us/usc/t49/s41102] only if the citizen complies with regulations and orders of the Secretary governing the filing of an insurance policy or self-insurance plan approved by the Secretary. The policy or plan must be sufficient to pay, not more than the amount of the insurance, for bodily injury to, or death of, an individual or for loss of, or damage to, property of others, resulting from the operation or maintenance of the aircraft under the certificate. A certificate does not remain in effect unless the carrier complies with this subsection.
 
-    (b) __Financial Responsibility.—__ 
+    (b)  __Financial Responsibility__  __.—__ 
 
     To protect passengers and shippers using an aircraft operated by an air carrier issued a certificate under [section 41102 of this title][/us/usc/t49/s41102], the Secretary may require the carrier to file a performance bond or equivalent security in the amount and on terms the Secretary prescribes. The bond or security must be sufficient to ensure the carrier adequately will pay the passengers and shippers when the transportation the carrier agrees to provide is not provided. The Secretary shall prescribe the amounts to be paid under this subsection.
 

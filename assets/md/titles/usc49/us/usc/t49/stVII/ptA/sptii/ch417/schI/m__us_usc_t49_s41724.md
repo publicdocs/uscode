@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1) __Small instruments as carry-on baggage.—__ 
+        (1)  __Small instruments as carry-on baggage__  __.—__ 
 
         An air carrier providing air transportation shall permit a passenger to carry a violin, guitar, or other musical instrument in the aircraft cabin, without charging the passenger a fee in addition to any standard fee that carrier may require for comparable carry-on baggage, if—
 
@@ -25,7 +25,7 @@
 
             (B) there is space for such stowage at the time the passenger boards the aircraft.
 
-        (2) __Larger instruments as carry-on baggage.—__ 
+        (2)  __Larger instruments as carry-on baggage__  __.—__ 
 
         An air carrier providing air transportation shall permit a passenger to carry a musical instrument that is too large to meet the requirements of paragraph (1) in the aircraft cabin, without charging the passenger a fee in addition to the cost of the additional ticket described in subparagraph (E), if—
 
@@ -39,7 +39,7 @@
 
             (E) the passenger wishing to carry the instrument in the aircraft cabin has purchased an additional seat to accommodate the instrument.
 
-        (3) __Large instruments as checked baggage.—__ 
+        (3)  __Large instruments as checked baggage__  __.—__ 
 
         An air carrier shall transport as baggage a musical instrument that is the property of a passenger traveling in air transportation that may not be carried in the aircraft cabin if—
 
@@ -49,11 +49,11 @@
 
             (C) the instrument can be stowed in accordance with the requirements for carriage of carry-on baggage or cargo established by the Administrator.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     Not later than 2 years after the date of enactment of this section, the Secretary shall issue final regulations to carry out subsection (a).
 
-    (c) __Effective Date.—__ 
+    (c)  __Effective Date__  __.—__ 
 
     The requirements of this section shall become effective on the date of issuance of the final regulations under subsection (b).
 

@@ -15,15 +15,15 @@
 
 ## § 304. Application of categorical exclusions for multimodal projects
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Cooperating authority.—__ 
+        (1)  __Cooperating authority__  __.—__ 
 
         The term “cooperating authority” means a Department of Transportation operating authority that is not the lead authority with respect to a project.
 
-        (2) __Lead authority.—__ 
+        (2)  __Lead authority__  __.—__ 
 
         The term “lead authority” means a Department of Transportation operating administration or secretarial office that—
 
@@ -37,15 +37,15 @@
 
                 (ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.
 
-        (3) __Multimodal project.—__ 
+        (3)  __Multimodal project__  __.—__ 
 
         The term “multimodal project” has the meaning given the term in [section 139(a) of title 23][/us/usc/t23/s139/a].
 
-    (b) __Exercise of Authorities.—__ 
+    (b)  __Exercise of Authorities__  __.—__ 
 
     The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title.
 
-    (c) __Application of Categorical Exclusions for Multimodal Projects.—__ 
+    (c)  __Application of Categorical Exclusions for Multimodal Projects__  __.—__ 
 
     In considering the environmental impacts of a proposed multimodal project, a lead authority may apply a categorical exclusion designated under the implementing regulations or procedures of a cooperating authority for other components of the project, subject to the conditions that—
 
@@ -73,11 +73,11 @@
 
     (d) __Modal Cooperation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
 
-        (2) __Use of categorical exclusion.—__ 
+        (2)  __Use of categorical exclusion__  __.—__ 
 
         In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and this section.
 

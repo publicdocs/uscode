@@ -17,7 +17,7 @@
 
     (a) __Risk Management Program Demonstration Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish risk management demonstration projects—
 
@@ -25,7 +25,7 @@
 
             (B) to evaluate the safety and cost-effectiveness of the program.
 
-        (2) __Exemptions.—__ 
+        (2)  __Exemptions__  __.—__ 
 
         In carrying out a demonstration project under this subsection, the Secretary, by order—
 
@@ -33,7 +33,7 @@
 
             (B) shall exempt, for the period of the project, an owner or operator of the covered pipeline facility, from the applicability of any new standard that the Secretary promulgates under this chapter during the period of that participation, with respect to the covered facility.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     In carrying out a demonstration project under this section, the Secretary shall—
 
@@ -79,15 +79,15 @@
 
         (4) in selecting participants for the demonstration project, take into consideration the past safety and regulatory performance of each applicant who submits a risk management plan pursuant to paragraph (1).
 
-    (c) __Emergencies and Revocations.—__ 
+    (c)  __Emergencies and Revocations__  __.—__ 
 
     Nothing in this section diminishes or modifies the Secretary’s authority under this title to act in case of an emergency. The Secretary may revoke any exemption granted under this section for substantial noncompliance with the terms and conditions of an approved risk management plan.
 
-    (d) __Participation by State Authority.—__ 
+    (d)  __Participation by State Authority__  __.—__ 
 
     In carrying out this section, the Secretary may provide for consultation by a State that has in effect a certification under section 60105. To the extent that a demonstration project comprises an intrastate natural gas pipeline or an intrastate hazardous liquid pipeline facility, the Secretary may make an agreement with the State agency to carry out the duties of the Secretary for approval and administration of the project.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     Not later than March 31, 2000, the Secretary shall transmit to the Congress a report on the results of the demonstration projects carried out under this section that includes—
 

@@ -321,15 +321,15 @@ Revised Section  </td>
 
 [Pub. L. 105–178, title IV, § 4026][/us/pl/105/178/s4026], June 9, 1998, [112 Stat. 416][/us/stat/112/416], provided that:
 
->     “(a) __Assessment.—__ 
+>     “(a)  __Assessment__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this section \[June 9, 1998\], the Secretary \[of Transportation\] shall assess the scope of the problem of shippers, freight forwarders, brokers, consignees, or other persons (other than rail carriers, motor carriers, motor carriers of migrant workers, or motor private carriers) encouraging violations of chapter 5 of title 49, United States Code, or a regulation or order issued by the Secretary under such chapter.
 
->     “(b) __Submission of Implementation Plan.—__ 
+>     “(b)  __Submission of Implementation Plan__  __.—__ 
 
 >     After completion of the assessment under subsection (a), the Secretary may submit to the Congress a plan for implementing authority (if subsequently provided by law) to investigate and bring civil actions to enforce chapter 5 of title 49, United States Code, or regulations or orders issued by the Secretary under such chapter with respect to persons described in subsection (a).
 
->     “(c) __Contents of Implementation Plan.—__ 
+>     “(c)  __Contents of Implementation Plan__  __.—__ 
 
 >     In developing the implementation plan under subsection (b), the Secretary shall consider, as appropriate—
 

@@ -15,7 +15,7 @@
 
 ## § 31137. Electronic logging devices and brake maintenance regulations
 
-    (a) __Use of Electronic Logging Devices.—__ 
+    (a)  __Use of Electronic Logging Devices__  __.—__ 
 
     Not later than 1 year after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the Secretary of Transportation shall prescribe regulations—
 
@@ -25,7 +25,7 @@
 
     (b) __Electronic Logging Device Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The regulations prescribed under subsection (a) shall—
 
@@ -45,7 +45,7 @@
 
             (C) apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
 
-        (2) __Performance and design standards.—__ 
+        (2)  __Performance and design standards__  __.—__ 
 
         The regulations prescribed under subsection (a) shall establish performance standards—
 
@@ -71,15 +71,15 @@
 
     (c) __Certification Criteria.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The regulations prescribed by the Secretary under this section shall establish the criteria and a process for the certification of electronic logging devices to ensure that the device meets the performance requirements under this section.
 
-        (2) __Effect of noncertification.—__ 
+        (2)  __Effect of noncertification__  __.—__ 
 
         Electronic logging devices that are not certified in accordance with the certification process referred to in paragraph (1) shall not be acceptable evidence of hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.
 
-    (d) __Additional Considerations.—__ 
+    (d)  __Additional Considerations__  __.—__ 
 
     The Secretary, in prescribing the regulations described in subsection (a), shall consider how such regulations may—
 
@@ -95,23 +95,23 @@
 
     (e) __Use of Data.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may utilize information contained in an electronic logging device only to enforce the Secretary’s motor carrier safety and related regulations, including record-of-duty status regulations.
 
-        (2) __Measures to preserve confidentiality of personal data.—__ 
+        (2)  __Measures to preserve confidentiality of personal data__  __.—__ 
 
         The Secretary shall institute appropriate measures to preserve the confidentiality of any personal data contained in an electronic logging device and disclosed in the course of an action taken by the Secretary or by law enforcement officials to enforce the regulations referred to in paragraph (1).
 
-        (3) __Enforcement.—__ 
+        (3)  __Enforcement__  __.—__ 
 
         The Secretary shall institute appropriate measures to ensure any information collected by electronic logging devices is used by enforcement personnel only for the purpose of determining compliance with hours of service requirements.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Electronic logging device.—__ 
+        (1)  __Electronic logging device__  __.—__ 
 
         The term “electronic logging device” means an electronic device that—
 
@@ -119,11 +119,11 @@
 
             (B) meets the requirements established by the Secretary through regulation.
 
-        (2) __Tamper resistant.—__ 
+        (2)  __Tamper resistant__  __.—__ 
 
         The term “tamper resistant” means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
 
-    (g) __Brakes and Brake Systems Maintenance Regulations.—__ 
+    (g)  __Brakes and Brake Systems Maintenance Regulations__  __.—__ 
 
     The Secretary shall maintain regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
 

@@ -15,7 +15,7 @@
 
 ## § 33109. National Stolen Passenger Motor Vehicle Information System
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -43,13 +43,13 @@
 
         (4) The Attorney General shall prescribe by regulation the effective date of the System.
 
-    (b) __Requests for Information.—__ 
+    (b)  __Requests for Information__  __.—__ 
 
         (1) The Attorney General shall prescribe by regulation procedures under which an individual or entity intending to transfer a passenger motor vehicle or passenger motor vehicle part may obtain information on whether the vehicle or part is listed in the System as stolen.
 
         (2) On request of an insurance carrier, a person lawfully selling or distributing passenger motor vehicle parts in interstate commerce, or an individual or enterprise engaged in the business of repairing passenger motor vehicles, the Attorney General (or the entity the Attorney General designates) immediately shall inform the insurance carrier, person, individual, or enterprise whether the System has a record of a vehicle or vehicle part with a particular vehicle identification number (or derivative of that number) being reported as stolen. The Attorney General may require appropriate verification to ensure that the request is legitimate and will not compromise the security of the System.
 
-    (c) __Advisory Committee.—__ 
+    (c)  __Advisory Committee__  __.—__ 
 
         (1) Not later than December 24, 1992, the Attorney General shall establish in the Department of Justice an advisory committee. The Attorney General shall develop the System with the advice and recommendations of the committee.
 
@@ -91,7 +91,7 @@
 
         (4) Not later than April 25, 1993, the committee shall submit to the Attorney General, the Secretary, and Congress a report including the recommendations of the committee.
 
-    (d) __Immunity.—__ 
+    (d)  __Immunity__  __.—__ 
 
     Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
 

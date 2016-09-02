@@ -15,11 +15,11 @@
 
 ## § 30505. Penalties and enforcement
 
-    (a) __Penalty.—__ 
+    (a)  __Penalty__  __.—__ 
 
     An individual or entity violating this chapter is liable to the United States Government for a civil penalty of not more than $1,000 for each violation.
 
-    (b) __Collection and Compromise.—__ 
+    (b)  __Collection and Compromise__  __.—__ 
 
         (1) The Attorney General shall impose a civil penalty under this section. The Attorney General shall bring a civil action to collect the penalty. The Attorney General may compromise the amount of the penalty. In determining the amount of the penalty or compromise, the Attorney General shall consider the appropriateness of the penalty to the size of the business of the individual or entity charged and the gravity of the violation.
 

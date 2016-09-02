@@ -15,11 +15,11 @@
 
 ## § 41309. Cooperative agreements and requests
 
-    (a) __Filing.—__ 
+    (a)  __Filing__  __.—__ 
 
     An air carrier or foreign air carrier may file with the Secretary of Transportation a true copy of or, if oral, a true and complete memorandum of, an agreement (except an agreement related to interstate air transportation), or a request for authority to discuss cooperative arrangements (except arrangements related to interstate air transportation), and any modification or cancellation of an agreement, between the air carrier or foreign air carrier and another air carrier, a foreign carrier, or another carrier.
 
-    (b) __Approval.—__ 
+    (b)  __Approval__  __.—__ 
 
     The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretary finds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
 
@@ -39,7 +39,7 @@
 
             (B) governs the compensation the carrier may receive for the transportation.
 
-    (c) __Notice and Opportunity To Respond or for Hearing.—__ 
+    (c)  __Notice and Opportunity To Respond or for Hearing__  __.—__ 
 
         (1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative of the Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
 

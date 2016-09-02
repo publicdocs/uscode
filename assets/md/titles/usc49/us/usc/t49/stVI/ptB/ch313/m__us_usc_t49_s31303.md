@@ -15,15 +15,15 @@
 
 ## § 31303. Notification requirements
 
-    (a) __Violations.—__ 
+    (a)  __Violations__  __.—__ 
 
     An individual operating a commercial motor vehicle, having a driver’s license issued by a State, and violating a State or local law on motor vehicle traffic control (except a parking violation) shall notify the individual’s employer of the violation. If the violation occurred in a State other than the issuing State, the individual also shall notify a State official designated by the issuing State. The notifications required by this subsection shall be made not later than 30 days after the date the individual is found to have committed the violation.
 
-    (b) __Revocations, Suspensions, and Cancellations.—__ 
+    (b)  __Revocations, Suspensions, and Cancellations__  __.—__ 
 
     An employee who has a driver’s license revoked, suspended, or canceled by a State, who loses the right to operate a commercial motor vehicle in a State for any period, or who is disqualified from operating a commercial motor vehicle for any period, shall notify the employee’s employer of the action not later than 30 days after the date of the action.
 
-    (c) __Previous Employment.—__ 
+    (c)  __Previous Employment__  __.—__ 
 
         (1) Subject to paragraph (2) of this subsection, an individual applying for employment as an operator of a commercial motor vehicle shall notify the prospective employer, at the time of the application, of any previous employment as an operator of a commercial motor vehicle.
 

@@ -15,7 +15,7 @@
 
 ## § 31105. Employee protections
 
-    (a) __Prohibitions.—__ 
+    (a)  __Prohibitions__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (2) Under paragraph (1)(B)(ii) of this subsection, an employee’s apprehension of serious injury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the hazardous safety or security condition establishes a real danger of accident, injury, or serious impairment to health. To qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the hazardous safety or security condition.
 
-    (b) __Filing Complaints and Procedures.—__ 
+    (b)  __Filing Complaints and Procedures__  __.—__ 
 
         (1) An employee alleging discharge, discipline, or discrimination in violation of subsection (a) of this section, or another person at the employee’s request, may file a complaint with the Secretary of Labor not later than 180 days after the alleged violation occurred. All complaints initiated under this section shall be governed by the legal burdens of proof set forth in section 42121(b). On receiving the complaint, the Secretary of Labor shall notify, in writing, the person alleged to have committed the violation of the filing of the complaint.
 
@@ -71,23 +71,23 @@
 
             (C) Relief in any action under subsection (b) may include punitive damages in an amount not to exceed $250,000.
 
-    (c) __De Novo Review.—__ 
+    (c)  __De Novo Review__  __.—__ 
 
     With respect to a complaint under paragraph (1), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b)(1),”. </sup></sup>  if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
-    (d) __Judicial Review and Venue.—__ 
+    (d)  __Judicial Review and Venue__  __.—__ 
 
     A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. Review shall conform to chapter 7 of title 5. The review shall be heard and decided expeditiously. An order of the Secretary of Labor subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
-    (e) __Civil Actions to Enforce.—__ 
+    (e)  __Civil Actions to Enforce__  __.—__ 
 
     If a person fails to comply with an order issued under subsection (b) of this section, the Secretary of Labor shall bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred.
 
-    (f) __No Preemption.—__ 
+    (f)  __No Preemption__  __.—__ 
 
     Nothing in this section preempts or diminishes any other safeguards against discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
 
-    (g) __Rights Retained by Employee.—__ 
+    (g)  __Rights Retained by Employee__  __.—__ 
 
     Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 
@@ -99,19 +99,19 @@
 
     (i) __Process for Reporting Security Problems to the Department of Homeland Security.—__ 
 
-        (1) __Establishment of process.—__ 
+        (1)  __Establishment of process__  __.—__ 
 
         The Secretary of Homeland Security shall establish through regulations, after an opportunity for notice and comment, a process by which any person may report to the Secretary of Homeland Security regarding motor carrier vehicle security problems, deficiencies, or vulnerabilities.
 
-        (2) __Acknowledgment of receipt.—__ 
+        (2)  __Acknowledgment of receipt__  __.—__ 
 
         If a report submitted under paragraph (1) identifies the person making the report, the Secretary of Homeland Security shall respond promptly to such person and acknowledge receipt of the report.
 
-        (3) __Steps to address problem.—__ 
+        (3)  __Steps to address problem__  __.—__ 
 
         The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-    (j) __Definition.—__ 
+    (j)  __Definition__  __.—__ 
 
     In this section, “employee” means a driver of a commercial motor vehicle (including an independent contractor when personally operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 

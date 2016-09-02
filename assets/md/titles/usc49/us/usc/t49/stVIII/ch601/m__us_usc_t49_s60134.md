@@ -15,7 +15,7 @@
 
 ## § 60134. State damage prevention programs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may make a grant to a State authority (including a municipality with respect to intrastate gas pipeline transportation) to assist in improving the overall quality and effectiveness of a damage prevention program of the State authority under subsection (e) if the State authority—
 
@@ -27,7 +27,7 @@
 
             (B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b).
 
-    (b) __Damage Prevention Program Elements.—__ 
+    (b)  __Damage Prevention Program Elements__  __.—__ 
 
     An effective damage prevention program includes the following elements:
 
@@ -49,31 +49,31 @@
 
         (9) A process for review and analysis of the effectiveness of each program element, including a means for implementing improvements identified by such program reviews.
 
-    (c) __Factors to Consider.—__ 
+    (c)  __Factors to Consider__  __.—__ 
 
     In making grants under this section, the Secretary shall take into consideration the commitment of each State to ensuring the effectiveness of its damage prevention program, including legislative and regulatory actions taken by the State.
 
-    (d) __Application.—__ 
+    (d)  __Application__  __.—__ 
 
     If a State authority files an application for a grant under this section not later than September 30 of a calendar year and demonstrates that the Governor (or chief executive) of the State has designated it as the appropriate State authority to receive the grant, the Secretary shall review the State’s damage prevention program to determine its effectiveness.
 
-    (e) __Use of Funds.—__ 
+    (e)  __Use of Funds__  __.—__ 
 
     A grant under this section to a State authority may only be used to pay the cost of the personnel, equipment, and activities that the State authority reasonably requires for the calendar year covered by the grant to develop or carry out its damage prevention program in accordance with subsection (b).
 
-    (f) __Nonapplicability of Limitation.—__ 
+    (f)  __Nonapplicability of Limitation__  __.—__ 
 
     A grant made under this section is not subject to the section 60107(a) limitation on the maximum percentage of funds to be paid by the Secretary.
 
-    (g) __Limitation on Use of Funds.—__ 
+    (g)  __Limitation on Use of Funds__  __.—__ 
 
     Funds provided to carry out this section may not be used for lobbying or in direct support of litigation.
 
-    (h) __Damage Prevention Process Defined.—__ 
+    (h)  __Damage Prevention Process Defined__  __.—__ 
 
     In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
 
-    (i) __Authorization of Appropriations.—__ 
+    (i)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
 

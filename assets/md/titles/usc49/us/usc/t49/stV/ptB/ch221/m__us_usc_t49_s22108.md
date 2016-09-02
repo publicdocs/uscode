@@ -15,7 +15,7 @@
 
 ## § 22108. Authorization of appropriations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -29,11 +29,11 @@
 
         (3) No amount may be appropriated under this subsection to the Secretary for any period after September 30, 1994, to carry out this chapter.
 
-    (b) __Distribution of Amounts.—__ 
+    (b)  __Distribution of Amounts__  __.—__ 
 
     The Secretary shall establish procedures necessary to ensure that amounts available to the Secretary for projects under this chapter are distributed not later than April 1 of the fiscal year for which the amounts are appropriated. If any amounts are not distributed by April 1, the Secretary shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of those amounts and the reasons for the delay in distribution.
 
-    (c) __Availability of Other Amounts.—__ 
+    (c)  __Availability of Other Amounts__  __.—__ 
 
     Amounts appropriated to carry out section 5(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Department of Transportation Act for fiscal year 1990 that are not applied for or that remain unobligated on January 1, 1991, are available to the Secretary for projects under this chapter.
 

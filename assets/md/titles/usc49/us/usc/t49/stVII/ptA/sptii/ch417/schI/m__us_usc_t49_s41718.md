@@ -15,7 +15,7 @@
 
 ## § 41718. Special rules for Ronald Reagan Washington National Airport
 
-    (a) __Beyond-Perimeter Exemptions.—__ 
+    (a)  __Beyond-Perimeter Exemptions__  __.—__ 
 
     The Secretary shall grant, by order, 24 exemptions from the application of sections 49104(a)(5), 49109, 49111(e), and 41714 of this title to air carriers to operate limited frequencies and aircraft on select routes between Ronald Reagan Washington National Airport and domestic hub airports and exemptions from the requirements of subparts K and S of part 93, Code of Federal Regulations, if the Secretary finds that the exemptions will—
 
@@ -27,7 +27,7 @@
 
         (4) not result in meaningfully increased travel delays.
 
-    (b) __Within-Perimeter Exemptions.—__ 
+    (b)  __Within-Perimeter Exemptions__  __.—__ 
 
     The Secretary shall grant, by order, 20 exemptions from the requirements of sections 49104(a)(5), 49111(e), and 41714 of this title and subparts K and S of part 93 of title 14, Code of Federal Regulations, to air carriers for providing air transportation to airports within the perimeter established for civil aircraft operations at Ronald Reagan Washington National Airport under section 49109. The Secretary shall develop criteria for distributing slot exemptions for flights within the perimeter to such airports under this paragraph in a manner that promotes air transportation—
 
@@ -43,13 +43,13 @@
 
     (c) __Limitations.—__ 
 
-        (1) __Stage 3 aircraft required.—__ 
+        (1)  __Stage 3 aircraft required__  __.—__ 
 
         An exemption may not be granted under this section with respect to any aircraft that is not a Stage 3 aircraft (as defined by the Secretary).
 
         (2) __General exemptions.—__ 
 
-            (A) __Hourly limitation.—__ 
+            (A)  __Hourly limitation__  __.—__ 
 
             The exemptions granted—
 
@@ -57,11 +57,11 @@
 
                 (ii) under subsections (a), (b), and (g) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
 
-            (B) __Use of existing slots.—__ 
+            (B)  __Use of existing slots__  __.—__ 
 
             A non-limited incumbent air carrier utilizing an exemption authorized under subsection (g)(3) for an arrival permitted between the hours of 10:01 p.m. and 11:00 p.m. under this section shall discontinue use of an existing slot during the same time period the arrival exemption is operated.
 
-        (3) __Allocation of within-perimeter exemptions.—__ 
+        (3)  __Allocation of within-perimeter exemptions__  __.—__ 
 
         Of the exemptions granted under subsection (b)—
 
@@ -71,25 +71,25 @@
 
             (C) four shall be for air transportation to airports without regard to their size.
 
-        (4) __Applicability to exemption no.__ 
+        (4)  __Applicability to exemption no. 5133__  __.—__ 
 
-         5133.—Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
+        Nothing in this section affects Exemption No. 5133, as from time-to-time amended and extended.
 
-    (d) __Application Procedures.—__ 
+    (d)  __Application Procedures__  __.—__ 
 
     The Secretary shall establish procedures to ensure that all requests for exemptions under this section are granted or denied within 90 days after the date on which the request is made.
 
-    (e) __Applicability of Certain Laws.—__ 
+    (e)  __Applicability of Certain Laws__  __.—__ 
 
     Neither the request for, nor the granting of an exemption, under this section shall be considered for purposes of any Federal law a major Federal action significantly affecting the quality of the human environment.
 
-    (f) __Commuters Defined.—__ 
+    (f)  __Commuters Defined__  __.—__ 
 
     For purposes of aircraft operations at Ronald Reagan Washington National Airport under subpart K of part 93 of title 14, Code of Federal Regulations, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
 
-    (g) __Additional Slot Exemptions.—__ 
+    (g)  __Additional Slot Exemptions__  __.—__ 
 
-        (1) __Increase in slot exemptions.—__ 
+        (1)  __Increase in slot exemptions__  __.—__ 
 
         Not later than 90 days after the date of enactment of the FAA Modernization and Reform Act of 2012, the Secretary shall grant, by order 16 exemptions from—
 
@@ -97,7 +97,7 @@
 
             (B) the requirements of subparts K and S of part 93, Code of Federal Regulations.
 
-        (2) __New entrants and limited incumbents.—__ 
+        (2)  __New entrants and limited incumbents__  __.—__ 
 
         Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to limited incumbent air carriers or new entrant air carriers (as such terms are defined in section 41714(h)). Such exemptions shall be allocated pursuant to the application process established by the Secretary under subsection (d). The Secretary shall consider the extent to which the exemptions will—
 
@@ -115,7 +115,7 @@
 
             (G) produce public benefits, including the likelihood that the service to airports located beyond the perimeter described in section 49109 will result in lower fares, higher capacity, and a variety of service options.
 
-        (3) __Improved network slots.—__ 
+        (3)  __Improved network slots__  __.—__ 
 
         Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to incumbent air carriers qualifying for status as a non-limited incumbent carrier at Ronald Reagan Washington National Airport as of the date of enactment of the FAA Modernization and Reform Act of 2012. Each such non-limited incumbent air carrier—
 
@@ -129,11 +129,11 @@
 
             (E) shall file a notice of intent with the Secretary and subsequent notices of intent, when appropriate, to inform the Secretary of any change in circumstances concerning the use of any exemption made available under paragraph (1).
 
-        (4) __Notices of intent.—__ 
+        (4)  __Notices of intent__  __.—__ 
 
         Notices of intent under paragraph (3)(E) shall specify the beyond perimeter destination to be served and the slots the carrier shall discontinue using to serve a large hub airport located within the perimeter.
 
-        (5) __Conditions.—__ 
+        (5)  __Conditions__  __.—__ 
 
         Beyond-perimeter flight operations carried out by an air carrier using an exemption granted under this subsection shall be subject to the following conditions:
 
@@ -141,7 +141,7 @@
 
             (B) An air carrier granted an exemption under this subsection is prohibited from transferring the rights to its beyond-perimeter exemptions pursuant to section 41714(j).
 
-    (h) __Scheduling Priority.—__ 
+    (h)  __Scheduling Priority__  __.—__ 
 
     In administering this section, the Secretary shall—
 
@@ -203,15 +203,15 @@
 
 [Pub. L. 108–176, title VIII, § 823][/us/pl/108/176/s823], Dec. 12, 2003, [117 Stat. 2595][/us/stat/117/2595], provided that:
 
->     “(a) __Security Plan.—__ 
+>     “(a)  __Security Plan__  __.—__ 
 
 >     The Secretary of Homeland Security shall develop and implement a security plan to permit general aviation aircraft to land and take off at Ronald Reagan Washington National Airport.
 
->     “(b) __Landings and Takeoffs.—__ 
+>     “(b)  __Landings and Takeoffs__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall allow general aviation aircraft that comply with the requirements of the security plan to land and take off at the Airport except during any period that the President suspends the plan developed under subsection (a) due to national security concerns.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     If the President suspends the security plan developed under subsection (a), the President shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the reasons for the suspension not later than 30 days following the first day of the suspension. The report may be submitted in classified form.”
 

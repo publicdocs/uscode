@@ -15,7 +15,7 @@
 
 ## § 33102. Theft prevention standard for high theft lines
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -33,11 +33,11 @@
 
             (B) major replacement parts manufactured after the standard takes effect.
 
-    (b) __Standard Requirements.—__ 
+    (b)  __Standard Requirements__  __.—__ 
 
     The standard shall be practicable and provide relevant objective criteria.
 
-    (c) __Limitations on Major Part and Replacement Part Standards.—__ 
+    (c)  __Limitations on Major Part and Replacement Part Standards__  __.—__ 
 
         (1) For a major part installed by the manufacturer of the motor vehicle, the standard may not require a part to have more than one identification.
 
@@ -49,7 +49,7 @@
 
             (B) the inscribing or affixing of identification except a symbol identifying the manufacturer and a common symbol identifying the part as a major replacement part.
 
-    (d) __Records and Reports.—__ 
+    (d)  __Records and Reports__  __.—__ 
 
     This chapter does not authorize the Secretary to require a person to keep records or make reports, except as provided in sections 33104(c), 33106(c), 33108(a), and 33112  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 

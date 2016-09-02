@@ -17,15 +17,15 @@
 
     In this subchapter, the following definitions apply:
 
-    (1) __Carrier, lessor.—__ 
+    (1)  __Carrier, lessor__  __.—__ 
 
     The terms “carrier” and “lessor” include a receiver or trustee of a pipeline carrier and lessor, respectively.
 
-    (2) __Lessor.—__ 
+    (2)  __Lessor__  __.—__ 
 
     The term “lessor” means a person owning a pipeline that is leased to and operated by a carrier providing transportation under this part.
 
-    (3) __Association.—__ 
+    (3)  __Association__  __.—__ 
 
     The term “association” means an organization maintained by or in the interest of a group of pipeline carriers that performs a service, or engages in activities, related to transportation under this part.
 

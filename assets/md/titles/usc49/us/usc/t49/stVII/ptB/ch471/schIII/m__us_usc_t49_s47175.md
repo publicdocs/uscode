@@ -17,15 +17,15 @@
 
     In this subchapter, the following definitions apply:
 
-    (1) __Airport sponsor.—__ 
+    (1)  __Airport sponsor__  __.—__ 
 
     The term “airport sponsor” has the meaning given the term “sponsor” under section 47102.
 
-    (2) __Congested airport.—__ 
+    (2)  __Congested airport__  __.—__ 
 
     The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration’s Airport Capacity Benchmark Report 2004 or any successor report.
 
-    (3) __Airport capacity enhancement project.—__ 
+    (3)  __Airport capacity enhancement project__  __.—__ 
 
     The term “airport capacity enhancement project” means—
 
@@ -33,7 +33,7 @@
 
         (B) such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
 
-    (4) __Aviation safety project.—__ 
+    (4)  __Aviation safety project__  __.—__ 
 
     The term “aviation safety project” means an aviation project that—
 
@@ -45,15 +45,15 @@
 
             (ii) is necessary for an airport to comply with part 139 of title 14, Code of Federal Regulations (relating to airport certification).
 
-    (5) __Aviation security project.—__ 
+    (5)  __Aviation security project__  __.—__ 
 
     The term “aviation security project” means a security project at an airport required by the Department of Homeland Security.
 
-    (6) __Federal agency.—__ 
+    (6)  __Federal agency__  __.—__ 
 
     The term “Federal agency” means a department or agency of the United States Government.
 
-    (7) __Joint use airport.—__ 
+    (7)  __Joint use airport__  __.—__ 
 
     The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
 

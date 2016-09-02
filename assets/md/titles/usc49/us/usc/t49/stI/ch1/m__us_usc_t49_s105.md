@@ -97,29 +97,29 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 
 >     “(a) __Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall establish, within the National Highway Traffic Safety Administration, a Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies (referred to in this section as the ‘Council’) to build, integrate, and aggregate the Administration’s expertise in passenger motor vehicle electronics and other new and emerging technologies.
 
->         “(2) __Implementation of roadmap.—__ 
+>         “(2)  __Implementation of roadmap__  __.—__ 
 
 >         The Council shall research the inclusion of emerging lightweight plastic and composite technologies in motor vehicles to increase fuel efficiency, lower emissions, meet fuel economy standards, and enhance passenger motor vehicle safety through continued utilization of the Administration’s Plastic and Composite Intensive Vehicle Safety Roadmap (Report No. DOT HS 810 863).
 
->         “(3) __Intra-agency coordination.—__ 
+>         “(3)  __Intra-agency coordination__  __.—__ 
 
 >         The Council shall coordinate with all components of the Administration responsible for vehicle safety, including research and development, rulemaking, and defects investigation.
 
 >     “(b) __Honors Recruitment Program.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary shall establish, within the National Highway Traffic Safety Administration, an honors program for engineering students, computer science students, and other students interested in vehicle safety that will enable such students to train with engineers and other safety officials for careers in vehicle safety.
 
->         “(2) __Stipend.—__ 
+>         “(2)  __Stipend__  __.—__ 
 
 >         The Secretary is authorized to provide a stipend to any student during the student’s participation in the program established under paragraph (1).
 
->     “(c) __Assessment.—__ 
+>     “(c)  __Assessment__  __.—__ 
 
 >     The Council, in consultation with affected stakeholders, shall periodically assess the implications of emerging safety technologies in passenger motor vehicles, including the effect of such technologies on consumers, product availability, and cost.”
 

@@ -15,7 +15,7 @@
 
 ## § 20117. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -37,19 +37,19 @@
 
         (4) Such sums as may be necessary from the amount appropriated pursuant to paragraph (1) for each of the fiscal years 2009 through 2013 shall be made available to the Secretary for personnel in regional offices and in Washington, D.C., whose duties primarily involve rail security.
 
-    (b) __Grade Crossing Safety.—__ 
+    (b)  __Grade Crossing Safety__  __.—__ 
 
     Not more than $1,000,000 may be appropriated to the Secretary for improvements in grade crossing safety, except demonstration projects under [section 20134(c) of this title][/us/usc/t49/s20134/c]. Amounts appropriated under this subsection remain available until expended.
 
-    (c) __Research and Development, Automated Track Inspection, and State Participation Grants.—__ 
+    (c)  __Research and Development, Automated Track Inspection, and State Participation Grants__  __.—__ 
 
     Amounts appropriated under this section for research and development, automated track inspection, and grants under [section 20105(e) of this title][/us/usc/t49/s20105/e] remain available until expended.
 
-    (d) __Minimum Available for Certain Purposes.—__ 
+    (d)  __Minimum Available for Certain Purposes__  __.—__ 
 
     At least 50 percent of the amounts appropriated to the Secretary for a fiscal year to carry out railroad research and development programs under this chapter or another law shall be available for safety research, improved track inspection and information acquisition technology, improved railroad freight transportation, and improved railroad passenger systems.
 
-    (e) __Operation Lifesaver.—__ 
+    (e)  __Operation Lifesaver__  __.—__ 
 
     In addition to amounts otherwise authorized by law, there are authorized to be appropriated for railroad research and development $300,000 for fiscal year 1995, $500,000 for fiscal year 1996, and $750,000 for fiscal year 1997, to support Operation Lifesaver, Inc.
 

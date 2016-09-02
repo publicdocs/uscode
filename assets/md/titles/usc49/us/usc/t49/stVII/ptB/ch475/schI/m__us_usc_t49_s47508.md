@@ -15,7 +15,7 @@
 
 ## § 47508. Noise standards for air carriers and foreign air carriers providing foreign air transportation
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     The Secretary of Transportation shall require each air carrier and foreign air carrier providing foreign air transportation to comply with noise standards—
 
@@ -23,11 +23,11 @@
 
         (2) of the International Civil Aviation Organization that are substantially compatible with standards of the Secretary for new subsonic aircraft in regulations of the Secretary at parts 36 and 91 of title 14, Code of Federal Regulations, prescribed between January 2, 1977, and January 1, 1982.
 
-    (b) __Compliance at Phased Rate.—__ 
+    (b)  __Compliance at Phased Rate__  __.—__ 
 
     The Secretary shall require each air carrier and foreign air carrier providing foreign air transportation to comply with the noise standards at a phased rate similar to the rate for aircraft registered in the United States.
 
-    (c) __Nondiscrimination.—__ 
+    (c)  __Nondiscrimination__  __.—__ 
 
     The requirement for air carriers providing foreign air transportation may not be more stringent than the requirement for foreign air carriers.
 
@@ -123,11 +123,11 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
 [Pub. L. 106–181, title VII, § 726][/us/pl/106/181/s726], Apr. 5, 2000, [114 Stat. 167][/us/stat/114/167], provided that:
 
->     “(a) __Development of New Standards.—__ 
+>     “(a)  __Development of New Standards__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall continue to work to develop through the International Civil Aviation Organization new performance standards for aircraft and aircraft engines that will lead to a further reduction in aircraft noise levels.
 
->     “(b) __Goals To Be Considered in Developing New Standards.—__ 
+>     “(b)  __Goals To Be Considered in Developing New Standards__  __.—__ 
 
 >     In negotiating standards under subsection (a), the Secretary shall give high priority to developing standards that—
 
@@ -141,7 +141,7 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
 >         “(5) continue the use of a balanced approach to address aircraft environmental issues, taking into account aircraft technology, land use planning, economic feasibility, and airspace operational improvements.
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than July 1, 2000, and annually thereafter, the Secretary shall transmit to Congress a report regarding the application of new standards or technologies to reduce aircraft noise levels.”
 
@@ -149,19 +149,19 @@ Feb. 18, 1980, Pub. L. 96–193, § 302(a), 94 Stat. 56.  </td>
 
 [Pub. L. 102–581, title III, § 304][/us/pl/102/581/s304], Oct. 31, 1992, [106 Stat. 4896][/us/stat/106/4896], as amended by [Pub. L. 109–155, title VII, § 706(b)][/us/pl/109/155/s706/b], Dec. 30, 2005, [119 Stat. 2937][/us/stat/119/2937], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall jointly conduct a research program to develop new technologies for quieter subsonic jet aircraft engines and airframes.
 
->     “(b) __Goal.—__ 
+>     “(b)  __Goal__  __.—__ 
 
 >     The goal of the research program established by subsection (a) is to develop by the year 2010 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
 
->     “(c) __Participation.—__ 
+>     “(c)  __Participation__  __.—__ 
 
 >     In carrying out the program established by subsection (a), the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall encourage the participation of representatives of the aviation industry and academia.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall jointly submit to Congress, on an annual basis during the term of the program established by subsection (a), a report on the progress being made under the program toward meeting the goal described in subsection (b).”
 

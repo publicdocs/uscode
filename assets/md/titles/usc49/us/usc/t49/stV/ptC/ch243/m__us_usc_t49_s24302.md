@@ -35,11 +35,11 @@
 
         (5) The Secretary may be represented at Board meetings by the Secretary’s designee.
 
-    (b) __Pay and Expenses.—__ 
+    (b)  __Pay and Expenses__  __.—__ 
 
     Each director not employed by the United States Government or Amtrak is entitled to reasonable pay when performing Board duties. Each director not employed by the United States Government is entitled to reimbursement from Amtrak for necessary travel, reasonable secretarial and professional staff support, and subsistence expenses incurred in attending Board meetings.
 
-    (c) __Travel.—__ 
+    (c)  __Travel__  __.—__ 
 
         (1) Each director not employed by the United States Government shall be subject to the same travel and reimbursable business travel expense policies and guidelines that apply to Amtrak’s executive management when performing Board duties.
 
@@ -47,15 +47,15 @@
 
         (3) The report submitted under paragraph (2) shall include a detailed justification for any travel or reimbursable business travel expense that deviates from Amtrak’s travel and reimbursable business travel expense policies and guidelines.
 
-    (d) __Vacancies.—__ 
+    (d)  __Vacancies__  __.—__ 
 
     A vacancy on the Board is filled in the same way as the original selection, except that an individual appointed by the President of the United States under subsection (a)(1)(C) of this section to fill a vacancy occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of that term. A vacancy required to be filled by appointment under subsection (a)(1)(C) must be filled not later than 120 days after the vacancy occurs.
 
-    (e) __Quorum.—__ 
+    (e)  __Quorum__  __.—__ 
 
     A majority of the members serving shall constitute a quorum for doing business.
 
-    (f) __Bylaws.—__ 
+    (f)  __Bylaws__  __.—__ 
 
     The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
 

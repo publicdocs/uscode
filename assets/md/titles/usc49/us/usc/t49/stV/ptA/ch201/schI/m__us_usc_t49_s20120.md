@@ -15,7 +15,7 @@
 
 ## § 20120. Enforcement report
 
-    (a)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (b) has been enacted.__  __ </sup></sup> __  __In General.—__ 
+    (a)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (b) has been enacted.__  __ </sup></sup> __   __In General__  __.—__ 
 
     Beginning not later than December 31, 2009, the Secretary of Transportation shall make available to the public and publish on its public website an annual report that—
 

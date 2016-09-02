@@ -15,11 +15,11 @@
 
 ## § 22704. Transparency; coordination; review
 
-    (a) __Preparation.—__ 
+    (a)  __Preparation__  __.—__ 
 
     A State shall provide adequate and reasonable notice and opportunity for comment and other input to the public, rail carriers, commuter and transit authorities operating in, or affected by rail operations within the State, units of local government, and other interested parties in the preparation and review of its State rail plan.
 
-    (b) __Intergovernmental Coordination.—__ 
+    (b)  __Intergovernmental Coordination__  __.—__ 
 
     A State shall review the freight and passenger rail service activities and initiatives by regional planning agencies, regional transportation authorities, and municipalities within the State, or in the region in which the State is located, while preparing the plan, and shall include any recommendations made by such agencies, authorities, and municipalities as deemed appropriate by the State.
 

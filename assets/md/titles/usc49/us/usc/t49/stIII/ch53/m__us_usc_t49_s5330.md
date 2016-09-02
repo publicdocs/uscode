@@ -15,7 +15,7 @@
 
 ## § 5330. State safety oversight
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section shall only apply to—
 
@@ -23,11 +23,11 @@
 
         (2) States that are designing rail fixed guideway public transportation systems that will not be subject to regulation by the Federal Railroad Administration.
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
     The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under [section 5307 of this title][/us/usc/t49/s5307] for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
 
-    (c) __State Requirements.—__ 
+    (c)  __State Requirements__  __.—__ 
 
     A State meets the requirements of this section if the State—
 
@@ -43,11 +43,11 @@
 
             (C) to require corrective action to correct or eliminate those conditions.
 
-    (d) __Multistate Involvement.—__ 
+    (d)  __Multistate Involvement__  __.—__ 
 
     When more than one State is subject to this section in connection with a single public transportation authority, the affected States shall ensure uniform safety standards and enforcement or shall designate an entity (except the public transportation authority) to ensure uniform safety standards and enforcement and to meet the requirements of subsection (c) of this section.
 
-    (e) __Availability of Withheld Amounts.—__ 
+    (e)  __Availability of Withheld Amounts__  __.—__ 
 
         (1) An amount withheld under subsection (b) of this section remains available for apportionment for use in the State until the end of the 2d fiscal year after the fiscal year for which the amount may be appropriated.
 

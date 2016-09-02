@@ -15,15 +15,15 @@
 
 ## § 45303. Administrative provisions
 
-    (a) __Fees Payable to Administrator.—__ 
+    (a)  __Fees Payable to Administrator__  __.—__ 
 
     All fees imposed and amounts collected under this chapter for services performed, or materials furnished, by the Federal Aviation Administration are payable to the Administrator of the Federal Aviation Administration.
 
-    (b) __Refunds.—__ 
+    (b)  __Refunds__  __.—__ 
 
     The Administrator may refund any fee paid by mistake or any amount paid in excess of that required.
 
-    (c) __Receipts Credited to Account.—__ 
+    (c)  __Receipts Credited to Account__  __.—__ 
 
     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], all fees and amounts collected by the Administration, except insurance premiums and other fees charged for the provision of insurance and deposited in the Aviation Insurance Revolving Fund and interest earned on investments of such Fund, and except amounts which on September 30, 1996, are required to be credited to the general fund of the Treasury (whether imposed under this section or not)—
 
@@ -33,7 +33,7 @@
 
         (3) shall remain available until expended.
 
-    (d) __Annual Budget Report by Administrator.—__ 
+    (d)  __Annual Budget Report by Administrator__  __.—__ 
 
     The Administrator shall, on the same day each year as the President submits the annual budget to Congress, provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
@@ -47,11 +47,11 @@
 
         (5) such other information as those committees consider necessary.
 
-    (e) __Development of Cost Accounting System.—__ 
+    (e)  __Development of Cost Accounting System__  __.—__ 
 
     The Administration shall develop a cost accounting system that adequately and accurately reflects the investments, operating and overhead costs, revenues, and other financial measurement and reporting aspects of its operations.
 
-    (f) __Compensation to Carriers for Acting as Collection Agents.—__ 
+    (f)  __Compensation to Carriers for Acting as Collection Agents__  __.—__ 
 
     The Administration shall prescribe regulations to ensure that any air carrier required, pursuant to the Air Traffic Management System Performance Improvement Act of 1996 or any amendments made by that Act, to collect a fee imposed on another party by the Administrator may collect from such other party an additional uniform amount that the Administrator determines reflects the necessary and reasonable expenses (net of interest accruing to the carrier after collection and before remittance) incurred in collecting and handling the fee.
 

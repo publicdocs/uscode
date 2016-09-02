@@ -15,17 +15,17 @@
 
 ## § 44925. Deployment and use of detection equipment at airport screening checkpoints
 
-    (a) __Weapons and Explosives.—__ 
+    (a)  __Weapons and Explosives__  __.—__ 
 
     The Secretary of Homeland Security shall give a high priority to developing, testing, improving, and deploying, at airport screening checkpoints, equipment that detects nonmetallic, chemical, biological, and radiological weapons, and explosives, in all forms, on individuals and in their personal property. The Secretary shall ensure that the equipment alone, or as part of an integrated system, can detect under realistic operating conditions the types of weapons and explosives that terrorists would likely try to smuggle aboard an air carrier aircraft.
 
     (b) __Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 90 days after the date of enactment of this section, the Assistant Secretary of Homeland Security (Transportation Security Administration) shall submit to the appropriate congressional committees a strategic plan to promote the optimal utilization and deployment of explosive detection equipment at airports to screen individuals and their personal property. Such equipment includes walk-through explosive detection portals, document scanners, shoe scanners, and backscatter x-ray scanners. The plan may be submitted in a classified format.
 
-        (2) __Content.—__ 
+        (2)  __Content__  __.—__ 
 
         The strategic plan shall include, at minimum—
 
@@ -41,15 +41,15 @@
 
             (F) a description of any recommended legislative actions.
 
-        (3) __Implementation.—__ 
+        (3)  __Implementation__  __.—__ 
 
         The Secretary shall begin implementation of the strategic plan within one year after the date of enactment of this paragraph.
 
-    (c) __Portal Detection Systems.—__ 
+    (c)  __Portal Detection Systems__  __.—__ 
 
     There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
 
-    (d) __Interim Action.—__ 
+    (d)  __Interim Action__  __.—__ 
 
     Until measures are implemented that enable the screening of all passengers for explosives, the Assistant Secretary shall provide, by such means as the Assistant Secretary considers appropriate, explosives detection screening for all passengers identified for additional screening and their personal property that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
 

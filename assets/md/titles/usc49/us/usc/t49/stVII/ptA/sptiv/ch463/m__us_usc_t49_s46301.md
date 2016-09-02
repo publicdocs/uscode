@@ -15,7 +15,7 @@
 
 ## § 46301. Civil penalties
 
-    (a) __General Penalty.—__ 
+    (a)  __General Penalty__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (2) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41719) continues or, if applicable, for each flight involving the violation (other than a violation of section 41719).
 
-        (3) __Penalty for diversion of aviation revenues.—__ 
+        (3)  __Penalty for diversion of aviation revenues__  __.—__ 
 
         The amount of a civil penalty assessed under this section for a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b] (or any assurance made under such section) or [section 47133 of this title][/us/usc/t49/s47133] may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
-        (4) __Aviation security violations.—__ 
+        (4)  __Aviation security violations__  __.—__ 
 
         Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
 
@@ -67,17 +67,17 @@
 
             (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
-        (6) __Failure To__  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __Collect__  __ <sup>\[__  __2__  __\]</sup> __  __Airport__  __ <sup>\[__  __2__  __\]</sup> __  __Security__  __ <sup>\[__  __2__  __\]</sup> __  __Badges__  __ <sup>\[__  __2__  __\]</sup> __  __.—__ 
+        (6)  __Failure To __  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __ Collect __  __ <sup>\[__  __2__  __\]</sup> __  __ Airport __  __ <sup>\[__  __2__  __\]</sup> __  __ Security __  __ <sup>\[__  __2__  __\]</sup> __  __ Badges __  __ <sup>\[__  __2__  __\]</sup> __  __.—__ 
 
         Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
-    (b) __Smoke Alarm Device Penalty.—__ 
+    (b)  __Smoke Alarm Device Penalty__  __.—__ 
 
         (1) A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
 
         (2) An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
 
-    (c) __Procedural Requirements.—__ 
+    (c)  __Procedural Requirements__  __.—__ 
 
         (1)
 
@@ -93,7 +93,7 @@
 
         (2) The Secretary shall give written notice of the finding of a violation and the civil penalty under paragraph (1) of this subsection.
 
-    (d) __Administrative Imposition of Penalties.—__ 
+    (d)  __Administrative Imposition of Penalties__  __.—__ 
 
         (1)
 
@@ -181,7 +181,7 @@
 
         (9) This subsection applies only to a violation occurring after August 25, 1992.
 
-    (e) __Penalty Considerations.—__ 
+    (e)  __Penalty Considerations__  __.—__ 
 
     In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider—
 
@@ -191,7 +191,7 @@
 
         (3) other matters that justice requires.
 
-    (f) __Compromise and Setoff.—__ 
+    (f)  __Compromise and Setoff__  __.—__ 
 
         (1)
 
@@ -207,11 +207,11 @@
 
         (2) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
 
-    (g) __Judicial Review.—__ 
+    (g)  __Judicial Review__  __.—__ 
 
     An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under [section 46110 of this title][/us/usc/t49/s46110].
 
-    (h) __Nonapplication.—__ 
+    (h)  __Nonapplication__  __.—__ 
 
         (1)
 
@@ -223,7 +223,7 @@
 
         (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-    (i) __Small Business Concern Defined.—__ 
+    (i)  __Small Business Concern Defined__  __.—__ 
 
     In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 

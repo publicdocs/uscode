@@ -15,11 +15,11 @@
 
 ## § 45302. Fees involving aircraft not providing air transportation
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to aircraft not used to provide air transportation.
 
-    (b) __General Authority and Maximum Fees.—__ 
+    (b)  __General Authority and Maximum Fees__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may impose fees to pay for the costs of issuing airman certificates to pilots and certificates of registration of aircraft and processing forms for major repairs and alterations of fuel tanks and fuel systems of aircraft. The following fees may not be more than the amounts specified:
 
@@ -31,21 +31,21 @@
 
         (4) $7.50 for processing a form for a major repair or alteration of a fuel tank or fuel system of an aircraft.
 
-    (c) __Adjustments.—__ 
+    (c)  __Adjustments__  __.—__ 
 
     The Administrator shall adjust the maximum fees established by subsection (b) of this section for changes in the Consumer Price Index of All Urban Consumers published by the Secretary of Labor.
 
-    (d) __Credit to Account and Availability.—__ 
+    (d)  __Credit to Account and Availability__  __.—__ 
 
     Money collected from fees imposed under this section shall be credited to the account in the Treasury from which the Administrator incurs expenses in carrying out chapter 441 and sections 44701–44716 of this title (except sections 44701(c), 44703(f)(2), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 44713(d)(2)). The money is available to the Administrator to pay expenses for which the fees are collected.
 
-    (e) __Effective Date.—__ 
+    (e)  __Effective Date__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2),1 and 44713(d)(2) of this title take effect.
 
-        (2) __Effect of imposition of other fees.—__ 
+        (2)  __Effect of imposition of other fees__  __.—__ 
 
         A fee may not be imposed for a service or activity under this section during any period in which a fee for the same service or activity is imposed under section 45305.
 

@@ -17,7 +17,7 @@
 
     (a) __Denial of Certificate.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2) of this subsection and subsection (e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
 
@@ -27,13 +27,13 @@
 
             (C) subject to a controlling or ownership interest of an individual described in subparagraph (A) or (B).
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Notwithstanding paragraph (1), the Administrator may issue a certificate under this chapter to a person described in paragraph (1) if issuance of the certificate will facilitate law enforcement efforts.
 
     (b) __Revocation of Certificate.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in subsections (f) and (g), the Administrator shall issue an order revoking a certificate issued under this chapter if the Administrator finds that the holder of the certificate or an individual who has a controlling or ownership interest in the holder—
 
@@ -41,11 +41,11 @@
 
             (B) knowingly, and with the intent to defraud, carried out or facilitated an activity punishable under a law described in paragraph (1)(A).
 
-        (2) __No authority to review violation.—__ 
+        (2)  __No authority to review violation__  __.—__ 
 
         In carrying out paragraph (1), the Administrator may not review whether a person violated a law described in paragraph (1)(A).
 
-    (c) __Notice Requirement.—__ 
+    (c)  __Notice Requirement__  __.—__ 
 
     Before the Administrator revokes a certificate under subsection (b), the Administrator shall—
 
@@ -53,17 +53,17 @@
 
         (2) provide the holder of the certificate an opportunity to be heard on why the certificate should not be revoked.
 
-    (d) __Appeal.—__ 
+    (d)  __Appeal__  __.—__ 
 
     The provisions of section 44710(d) apply to the appeal of a revocation order under subsection (b). For the purpose of applying that section to the appeal, “person” shall be substituted for “individual” each place it appears.
 
     (e) __Acquittal or Reversal.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may not revoke, and the National Transportation Safety Board may not affirm a revocation of, a certificate under subsection (b)(1)(B) if the holder of the certificate or the individual referred to in subsection (b)(1) is acquitted of all charges directly related to the violation.
 
-        (2) __Reissuance.—__ 
+        (2)  __Reissuance__  __.—__ 
 
         The Administrator may reissue a certificate revoked under subsection (b) of this section to the former holder if—
 
@@ -75,7 +75,7 @@
 
                 (ii) the conviction of the former holder or such individual of the violation on which the revocation was based is reversed.
 
-    (f) __Waiver.—__ 
+    (f)  __Waiver__  __.—__ 
 
     The Administrator may waive revocation of a certificate under subsection (b) if—
 
@@ -83,7 +83,7 @@
 
         (2) the waiver will facilitate law enforcement efforts.
 
-    (g) __Amendment of Certificate.—__ 
+    (g)  __Amendment of Certificate__  __.—__ 
 
     If the holder of a certificate issued under this chapter is other than an individual and the Administrator finds that—
 

@@ -15,11 +15,11 @@
 
 ## § 31310. Disqualifications
 
-    (a) __Blood Alcohol Concentration Level.—__ 
+    (a)  __Blood Alcohol Concentration Level__  __.—__ 
 
     In this section, the blood alcohol concentration level at or above which an individual when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol is .04 percent.
 
-    (b) __First Violation or Committing Felony.—__ 
+    (b)  __First Violation or Committing Felony__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to be placarded under [section 5103 of this title][/us/usc/t49/s5103], the Secretary shall disqualify the individual for at least 3 years.
 
-    (c) __Second and Multiple Violations.—__ 
+    (c)  __Second and Multiple Violations__  __.—__ 
 
         (1)
 
@@ -57,11 +57,11 @@
 
         (2) The Secretary may prescribe regulations establishing guidelines (including conditions) under which a disqualification for life under paragraph (1) of this subsection may be reduced to a period of not less than 10 years.
 
-    (d) __Controlled Substance Violations.—__ 
+    (d)  __Controlled Substance Violations__  __.—__ 
 
     The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
 
-    (e) __Serious Traffic Violations.—__ 
+    (e)  __Serious Traffic Violations__  __.—__ 
 
         (1) The Secretary shall disqualify from operating a commercial motor vehicle for at least 60 days an individual who, in a 3-year period, commits 2 serious traffic violations involving a commercial motor vehicle operated by the individual.
 
@@ -69,17 +69,17 @@
 
     (f) __Emergency Disqualification.—__ 
 
-        (1) __Limited duration.—__ 
+        (1)  __Limited duration__  __.—__ 
 
         The Secretary shall disqualify an individual from operating a commercial motor vehicle for not to exceed 30 days if the Secretary determines that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 521 or section 5102).
 
-        (2) __After notice and hearing.—__ 
+        (2)  __After notice and hearing__  __.—__ 
 
         The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 521 or section 5102).
 
     (g) __Noncommercial Motor Vehicle Convictions.—__ 
 
-        (1) __Issuance of regulations.—__ 
+        (1)  __Issuance of regulations__  __.—__ 
 
         The Secretary shall issue regulations providing for the disqualification by the Secretary from operating a commercial motor vehicle of an individual who holds a commercial driver’s license and who has been convicted of—
 
@@ -87,15 +87,15 @@
 
             (B) a drug or alcohol related offense involving a motor vehicle (other than a commercial motor vehicle).
 
-        (2) __Requirements for regulations.—__ 
+        (2)  __Requirements for regulations__  __.—__ 
 
         Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periods based on the seriousness of the offenses on which the convictions are based.
 
-    (h) __State Disqualification.—__ 
+    (h)  __State Disqualification__  __.—__ 
 
     Notwithstanding subsections (b) through (g) of this section, the Secretary does not have to disqualify an individual from operating a commercial motor vehicle if the State that issued the individual a license authorizing the operation has disqualified the individual from operating a commercial motor vehicle under subsections (b) through (g). Revocation, suspension, or cancellation of the license is deemed to be disqualification under this subsection.
 
-    (i) __Out-of-Service Orders.—__ 
+    (i)  __Out-of-Service Orders__  __.—__ 
 
         (1)
 
@@ -117,11 +117,11 @@
 
     (j) __Grade-Crossing Violations.—__ 
 
-        (1) __Sanctions.—__ 
+        (1)  __Sanctions__  __.—__ 
 
         The Secretary shall issue regulations establishing sanctions and penalties relating to violations, by persons operating commercial motor vehicles, of laws and regulations pertaining to railroad-highway grade crossings.
 
-        (2) __Minimum requirements.—__ 
+        (2)  __Minimum requirements__  __.—__ 
 
         The regulations issued under paragraph (1) shall, at a minimum, require that—
 
@@ -129,7 +129,7 @@
 
             (B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
-    (k) __Foreign Commercial Drivers.—__ 
+    (k)  __Foreign Commercial Drivers__  __.—__ 
 
     A foreign commercial driver shall be subject to disqualification under this section.
 

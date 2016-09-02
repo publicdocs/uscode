@@ -15,11 +15,11 @@
 
 ## § 44501. Plans and policy
 
-    (a) __Long Range Plans and Policy Requirements.—__ 
+    (a)  __Long Range Plans and Policy Requirements__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall make long range plans and policy for the orderly development and use of the navigable airspace, and the orderly development and location of air navigation facilities, that will best meet the needs of, and serve the interests of, civil aeronautics and the national defense, except for needs of the armed forces that are peculiar to air warfare and primarily of military concern.
 
-    (b) __Airway Capital Investment Plan.—__ 
+    (b)  __Airway Capital Investment Plan__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall review, revise, and publish a national airways system plan, known as the Airway Capital Investment Plan, before the beginning of each fiscal year. The plan shall set forth—
 
@@ -55,7 +55,7 @@
 
         (5) a list of capital projects that are part of the Next Generation Air Transportation System and funded by amounts appropriated under section 48101(a).
 
-    (c) __National Aviation Research Plan.—__ 
+    (c)  __National Aviation Research Plan__  __.—__ 
 
         (1) The Administrator of the Federal Aviation Administration shall prepare and publish annually a national aviation research plan and submit the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives. The plan shall be submitted not later than the date of submission of the President’s budget to Congress.
 
@@ -233,11 +233,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >     “(a) __National Facilities Realignment and Consolidation Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration shall develop a report, to be known as the National Facilities Realignment and Consolidation Report, in accordance with the requirements of this subsection.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the report shall be—
 
@@ -245,7 +245,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >             “(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         The report shall include—
 
@@ -261,7 +261,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >                 “(iii) the proposed timing for implementation.
 
->         “(4) __Input.—__ 
+>         “(4)  __Input__  __.—__ 
 
 >         The report shall be developed by the Administrator (or the Administrator’s designee)—
 
@@ -275,15 +275,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >                 “(ii) industry stakeholders.
 
->         “(5) __Submission to congress.—__ 
+>         “(5)  __Submission to congress__  __.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
->         “(6) __Public notice and comment.—__ 
+>         “(6)  __Public notice and comment__  __.—__ 
 
 >         The Administrator shall publish the report in the Federal Register and allow 45 days for the submission of public comments.
 
->     “(b) __Report to Congress Containing Recommendations of Administrator.—__ 
+>     “(b)  __Report to Congress Containing Recommendations of Administrator__  __.—__ 
 
 >     Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
@@ -291,13 +291,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >         “(2) copies of any public comments received by the Administrator under subsection (a)(6).
 
->     “(c) __Realignment and Consolidation of FAA Services and Facilities.—__ 
+>     “(c)  __Realignment and Consolidation of FAA Services and Facilities__  __.—__ 
 
 >     Except as provided in subsection (d), the Administrator shall realign and consolidate the services and facilities of the FAA in accordance with the recommendations included in the report submitted under subsection (b).
 
 >     “(d) __Congressional Disapproval.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator may not carry out a recommendation for realignment or consolidation of services or facilities of the FAA that is included in the report submitted under subsection (b) if a joint resolution of disapproval is enacted disapproving such recommendation before the earlier of—
 
@@ -305,21 +305,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >             “(B) the adjournment of Congress sine die for the session during which the report is transmitted.
 
->         “(2) __Computation of 30-day period.—__ 
+>         “(2)  __Computation of 30-day period__  __.—__ 
 
 >         For purposes of paragraph (1)(A), the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in computation of the 30-day period.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __FAA.—__ 
+>         “(1)  __FAA__  __.—__ 
 
 >         The term ‘FAA’ means the Federal Aviation Administration.
 
 >         “(2) __Realignment; consolidation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The terms ‘realignment’ and ‘consolidation’ include any action that—
 
@@ -329,7 +329,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(d); added Nov. 3, 1988, 
 
 >                 “(iii) combines the results described in clauses (i) and (ii).
 
->             “(B) __Exclusion.—__ 
+>             “(B)  __Exclusion__  __.—__ 
 
 >             The terms do not include a reduction in personnel resulting from workload adjustments.”
 

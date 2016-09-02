@@ -15,7 +15,7 @@
 
 ## § 5905. Liens
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     If a person involved in the intermodal transportation of a loaded container or trailer for which a certification is required by [section 5902(b) of this title][/us/usc/t49/s5902/b] is required, because of a violation of a State’s gross vehicle weight laws or regulations, to post a bond or pay a fine, penalty, cost (including storage), or interest resulting from—
 
@@ -29,7 +29,7 @@
 
         then the person posting the bond, or paying the fine, penalty, costs (including storage), or interest has a lien against the contents equal to the amount of the bond, fine, penalty, cost (including storage), or interest incurred, until the person receives a payment of that amount from the owner or beneficial owner of the contents, or from the person responsible for making or forwarding the certification, or transferring the information from the certification to another document.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) A lien under this section does not authorize a person to dispose of the contents of a loaded container or trailer until the person who tendered the container or trailer to the first carrier, or the owner or beneficial owner of the contents, is given a reasonable opportunity to establish responsibility for the bond, fine, penalty, cost (including storage), or interest. The lien shall remain in effect until the lien holder has received payment for all costs and expenses described in subsection (a) of this section.
 

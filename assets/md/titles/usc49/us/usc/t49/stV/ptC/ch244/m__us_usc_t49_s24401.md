@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Applicant.—__ 
+    (1)  __Applicant__  __.—__ 
 
     The term “applicant” means a State (including the District of Columbia), a group of States, an Interstate Compact, or a public agency established by one or more States and having responsibility for providing intercity passenger rail service.
 
-    (2) __Capital project.—__ 
+    (2)  __Capital project__  __.—__ 
 
     The term “capital project” means a project or program in a State rail plan developed under chapter 227 of this title for—
 
@@ -33,7 +33,7 @@
 
         (D) the first-dollar liability costs for insurance related to the provision of intercity passenger rail service under section 24404.
 
-    (3) __Intercity passenger rail service.—__ 
+    (3)  __Intercity passenger rail service__  __.—__ 
 
     The term “intercity passenger rail service” means intercity rail passenger transportation, as defined in [section 24102 of this title][/us/usc/t49/s24102].
 

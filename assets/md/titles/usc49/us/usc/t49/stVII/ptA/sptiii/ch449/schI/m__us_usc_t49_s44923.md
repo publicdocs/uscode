@@ -15,7 +15,7 @@
 
 ## § 44923. Airport security improvement projects
 
-    (a) __Grant Authority.—__ 
+    (a)  __Grant Authority__  __.—__ 
 
     Subject to the requirements of this section, the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall make grants to airport sponsors—
 
@@ -27,83 +27,83 @@
 
         (4) for other airport security capital improvement projects.
 
-    (b) __Applications.—__ 
+    (b)  __Applications__  __.—__ 
 
     A sponsor seeking a grant under this section shall submit to the Under Secretary an application in such form and containing such information as the Under Secretary prescribes.
 
-    (c) __Approval.—__ 
+    (c)  __Approval__  __.—__ 
 
     The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Under Secretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
 
     (d) __Letters of Intent.—__ 
 
-        (1) __Issuance.—__ 
+        (1)  __Issuance__  __.—__ 
 
         The Under Secretary shall issue a letter of intent to a sponsor committing to obligate from future budget authority an amount, not more than the Federal Government’s share of the project’s cost, for an airport security improvement project (including interest costs and costs of formulating the project).
 
-        (2) __Schedule.—__ 
+        (2)  __Schedule__  __.—__ 
 
         A letter of intent under this subsection shall establish a schedule under which the Under Secretary will reimburse the sponsor for the Government’s share of the project’s costs, as amounts become available, if the sponsor, after the Under Secretary issues the letter, carries out the project without receiving amounts under this section.
 
-        (3) __Notice to under secretary.—__ 
+        (3)  __Notice to under secretary__  __.—__ 
 
         A sponsor that has been issued a letter of intent under this subsection shall notify the Under Secretary of the sponsor’s intent to carry out a project before the project begins.
 
-        (4) __Notice to congress.—__ 
+        (4)  __Notice to congress__  __.—__ 
 
         The Under Secretary shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
 
-        (5) __Limitations.—__ 
+        (5)  __Limitations__  __.—__ 
 
         A letter of intent issued under this subsection is not an obligation of the Government under [section 1501 of title 31][/us/usc/t31/s1501], and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
 
-        (6) __Statutory construction.—__ 
+        (6)  __Statutory construction__  __.—__ 
 
         Nothing in this subsection shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 
     (e) __Federal Share.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Government’s share of the cost of a project under this section shall be 90 percent for a project at a medium or large hub airport and 95 percent for a project at any other airport.
 
-        (2) __Existing letters of intent.—__ 
+        (2)  __Existing letters of intent__  __.—__ 
 
         The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
 
-    (f) __Sponsor Defined.—__ 
+    (f)  __Sponsor Defined__  __.—__ 
 
     In this section, the term “sponsor” has the meaning given that term in section 47102.
 
-    (g) __Applicability of Certain Requirements.—__ 
+    (g)  __Applicability of Certain Requirements__  __.—__ 
 
     The requirements that apply to grants and letters of intent issued under chapter 471 (other than section 47102(3)) shall apply to grants and letters of intent issued under this section.
 
     (h) __Aviation Security Capital Fund.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is established within the Department of Homeland Security a fund to be known as the Aviation Security Capital Fund. The first $250,000,000 derived from fees received under section 44940(a)(1) in each of fiscal years 2004 through 2028 shall be available to be deposited in the Fund. The Under Secretary shall impose the fee authorized by section 44940(a)(1) so as to collect at least $250,000,000 in each of such fiscal years for deposit into the Fund. Amounts in the Fund shall be available to the Under Secretary to make grants under this section.
 
-        (2) __Allocation.—__ 
+        (2)  __Allocation__  __.—__ 
 
         Of the amount made available under paragraph (1) for a fiscal year, not less than $200,000,000 shall be allocated to fulfill letters of intent issued under subsection (d).
 
-        (3) __Discretionary grants.—__ 
+        (3)  __Discretionary grants__  __.—__ 
 
         Of the amount made available under paragraph (1) for a fiscal year, up to $50,000,000 shall be used to make discretionary grants, including other transaction agreements for airport security improvement projects, with priority given to small hub airports and nonhub airports.
 
-    (i) __Leveraged Funding.—__ 
+    (i)  __Leveraged Funding__  __.—__ 
 
     For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued by or on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
 
     (j) __Authorization of Appropriations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $400,000,000 for each of fiscal years 2005, 2006, and 2007, and $450,000,000 for each of fiscal years 2008 through 2011  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Such sums shall remain available until expended.
 
-        (2) __Allocations.—__ 
+        (2)  __Allocations__  __.—__ 
 
         50 percent of amounts appropriated pursuant to this subsection for a fiscal year shall be used for making allocations under subsection (h)(2) and 50 percent of such amounts shall be used for making discretionary grants under subsection (h)(3).
 
@@ -139,15 +139,15 @@
 
 [Pub. L. 110–53, title XVI, § 1604(b)][/us/pl/110/53/s1604/b], Aug. 3, 2007, [121 Stat. 480][/us/stat/121/480], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Administrator of the Transportation Security Administration shall establish a prioritization schedule for airport security improvement projects described in [section 44923 of title 49][/us/usc/t49/s44923], United States Code, based on risk and other relevant factors, to be funded under that section. The schedule shall include both hub airports referred to in paragraphs (29), (31), and (42) of section 40102\[(a)\] of such title and nonhub airports (as defined in section 47102(13) \[now section 47102(14)\] of such title).
 
->     “(2) __Airports that have incurred eligible costs.—__ 
+>     “(2)  __Airports that have incurred eligible costs__  __.—__ 
 
 >     The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under [section 44923 of title 49][/us/usc/t49/s44923], United States Code, in reimbursement of those costs but that have not received such a grant.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act, the Administrator shall provide a copy of the prioritization schedule, a corresponding timeline, and a description of the funding allocation under [section 44923 of title 49][/us/usc/t49/s44923], United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives.”
 

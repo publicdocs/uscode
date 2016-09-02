@@ -19,7 +19,7 @@
 
     (b) The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States, in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of lands crossed by transportation activities or facilities.
 
-    (c) __Approval of Programs and Projects.—__ 
+    (c)  __Approval of Programs and Projects__  __.—__ 
 
     Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
@@ -31,19 +31,19 @@
 
         (1) __Requirements.—__ 
 
-            (A) __Requirements for historic sites.—__ 
+            (A)  __Requirements for historic sites__  __.—__ 
 
             The requirements of this section shall be considered to be satisfied with respect to an area described in paragraph (2) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area.
 
-            (B) __Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—__ 
+            (B)  __Requirements for parks, recreation areas, and wildlife or waterfowl refuges__  __.—__ 
 
             The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
 
-            (C) __Criteria.—__ 
+            (C)  __Criteria__  __.—__ 
 
             In making any determination under this subsection, the Secretary shall consider to be part of a transportation program or project any avoidance, minimization, mitigation, or enhancement measures that are required to be implemented as a condition of approval of the transportation program or project.
 
-        (2) __Historic sites.—__ 
+        (2)  __Historic sites__  __.—__ 
 
         With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
 
@@ -59,7 +59,7 @@
 
             (C) the finding of the Secretary has been developed in consultation with parties consulting as part of the process referred to in subparagraph (A).
 
-        (3) __Parks, recreation areas, and wildlife or waterfowl refuges.—__ 
+        (3)  __Parks, recreation areas, and wildlife or waterfowl refuges__  __.—__ 
 
         With respect to parks, recreation areas, or wildlife or waterfowl refuges, the Secretary may make a finding of de minimis impact only if—
 

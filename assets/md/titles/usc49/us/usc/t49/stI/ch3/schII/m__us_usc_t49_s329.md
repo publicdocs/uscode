@@ -47,11 +47,11 @@
 
     (e) __Incidents and Complaints Involving Passenger and Baggage Security Screening.—__ 
 
-        (1) __Publication of data.—__ 
+        (1)  __Publication of data__  __.—__ 
 
         The Secretary of Transportation shall publish data on incidents and complaints involving passenger and baggage security screening in a manner comparable to other consumer complaint and incident data.
 
-        (2) __Monthly reports from secretary of homeland security.—__ 
+        (2)  __Monthly reports from secretary of homeland security__  __.—__ 
 
         To assist in the publication of data under paragraph (1), the Secretary of Transportation may request the Secretary of Homeland Security to periodically report on the number of complaints about security screening received by the Secretary of Homeland Security.
 

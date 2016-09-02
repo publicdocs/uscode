@@ -15,7 +15,7 @@
 
 ## § 5562. Assistance projects
 
-    (a) __Requirements To Provide Assistance.—__ 
+    (a)  __Requirements To Provide Assistance__  __.—__ 
 
     The Secretary of Transportation shall provide financial, technical, and advisory assistance under this chapter to—
 
@@ -27,11 +27,11 @@
 
         (4) encourage State and local governments, local and regional transportation authorities, common carriers, philanthropic organizations, and other responsible persons to develop plans to convert rail passenger terminals into intermodal transportation terminals and civic and cultural activity centers.
 
-    (b) __Effect on Eligibility.—__ 
+    (b)  __Effect on Eligibility__  __.—__ 
 
     This chapter does not affect the eligibility of any rail passenger terminal for preservation or reuse assistance under another program or law.
 
-    (c) __Acquiring Space.—__ 
+    (c)  __Acquiring Space__  __.—__ 
 
     The Secretary may acquire space under subsection (a)(3) of this section only after consulting with the Advisory Council on Historic Preservation and the Chairman of the National Endowment for the Arts.
 

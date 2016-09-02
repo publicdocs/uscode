@@ -15,11 +15,11 @@
 
 ## § 32706. Inspections, investigations, and records
 
-    (a) __Authority To Inspect and Investigate.—__ 
+    (a)  __Authority To Inspect and Investigate__  __.—__ 
 
     Subject to [section 32707 of this title][/us/usc/t49/s32707], the Secretary of Transportation may conduct an inspection or investigation necessary to carry out this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall cooperate with State and local officials to the greatest extent possible in conducting an inspection or investigation. The Secretary may give the Attorney General information about a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
-    (b) __Entry, Inspection, and Impoundment.—__ 
+    (b)  __Entry, Inspection, and Impoundment__  __.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
         (2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness. The written notice may consist of a warrant issued under [section 32707 of this title][/us/usc/t49/s32707].
 
-    (c) __Reasonable Compensation.—__ 
+    (c)  __Reasonable Compensation__  __.—__ 
 
     When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
 
-    (d) __Records and Information Requirements.—__ 
+    (d)  __Records and Information Requirements__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary to require a dealer or distributor to provide information on a regular periodic basis.
 
-    (e) __Administrative Authority and Civil Actions To Enforce.—__ 
+    (e)  __Administrative Authority and Civil Actions To Enforce__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
         (3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 
-    (f) __Prohibitions.—__ 
+    (f)  __Prohibitions__  __.—__ 
 
     A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
 

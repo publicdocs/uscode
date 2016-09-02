@@ -17,7 +17,7 @@
 
     (a) __Risk Reduction.—__ 
 
-        (1) __Program authorized.—__ 
+        (1)  __Program authorized__  __.—__ 
 
         The Secretary of Transportation may develop and implement a hazardous material technical assessment, research and development, and analysis program for the purpose of—
 
@@ -25,7 +25,7 @@
 
             (B) identifying and evaluating new technologies to facilitate the safe, secure, and efficient transportation of hazardous material.
 
-        (2) __Coordination.—__ 
+        (2)  __Coordination__  __.—__ 
 
         In developing the program under paragraph (1), the Secretary shall—
 
@@ -33,7 +33,7 @@
 
             (B) coordinate with other modal administrations, as appropriate.
 
-    (b) __Cooperation.—__ 
+    (b)  __Cooperation__  __.—__ 
 
     In carrying out subsection (a), the Secretary shall work cooperatively with regulated and other entities, including shippers, carriers, emergency responders, State and local officials, and academic institutions.
 

@@ -15,7 +15,7 @@
 
 ## § 60108. Inspection and maintenance
 
-    (a) __Plans.—__ 
+    (a)  __Plans__  __.—__ 
 
         (1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
@@ -33,7 +33,7 @@
 
         (3) A plan required under this subsection shall be made available to the Secretary or State authority on request under [section 60117 of this title][/us/usc/t49/s60117].
 
-    (b) __Inspection and Testing.—__ 
+    (b)  __Inspection and Testing__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (3) Testing under this subsection shall use the most appropriate technology practicable.
 
-    (c) __Pipeline Facilities Offshore and in Other Waters.—__ 
+    (c)  __Pipeline Facilities Offshore and in Other Waters__  __.—__ 
 
         (1)
 
@@ -123,7 +123,7 @@
 
         (8) If, after reviewing existing Federal and State regulations for hazardous liquid gathering lines located offshore in the United States, including within the inlets of the Gulf of Mexico, the Secretary determines it is appropriate, the Secretary shall issue regulations, after notice and an opportunity for a hearing, subjecting offshore hazardous liquid gathering lines and hazardous liquid gathering lines located within the inlets of the Gulf of Mexico to the same standards and regulations as other hazardous liquid gathering lines. The regulations issued under this paragraph shall not apply to production pipelines or flow lines.
 
-    (d) __Replacing Cast Iron Gas Pipelines.—__ 
+    (d)  __Replacing Cast Iron Gas Pipelines__  __.—__ 
 
         (1)
 
@@ -699,11 +699,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
 >     “(a) __Leak Detection Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report on leak detection systems utilized by operators of hazardous liquid pipeline facilities and transportation-related flow lines.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report shall include—
 
@@ -713,7 +713,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
 >     “(b) __Rulemaking Requirements.—__ 
 
->         “(1) __Review period defined.—__ 
+>         “(1)  __Review period defined__  __.—__ 
 
 >         In this subsection, the term ‘review period’ means the period beginning on the date of enactment of this Act \[Jan. 3, 2012\] and ending on the earlier of—
 
@@ -721,11 +721,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
 >             “(B) the date that is 2 years after the date of enactment of this Act.
 
->         “(2) __Congressional authority.—__ 
+>         “(2)  __Congressional authority__  __.—__ 
 
 >         In order to provide Congress the necessary time to review the results of the report required by subsection (a) and implement appropriate recommendations, the Secretary, during the review period, shall not issue final regulations described in paragraph (3).
 
->         “(3) __Standards.—__ 
+>         “(3)  __Standards__  __.—__ 
 
 >         As soon as practicable following the review period, if the report required by subsection (a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
 
@@ -735,11 +735,11 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 13(c); added Oct. 24, 1992, 
 
 >         “(4) __Savings clause.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of this subsection, the Secretary, during the review period, may issue final regulations described in paragraph (3) if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the regulations will address the risk or hazard.
 
->             “(B) __Imminent hazard defined.—__ 
+>             “(B)  __Imminent hazard defined__  __.—__ 
 
 >             In subparagraph (A), the term ‘imminent hazard’ means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.”
 

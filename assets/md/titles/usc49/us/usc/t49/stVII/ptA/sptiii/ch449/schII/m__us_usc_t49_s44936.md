@@ -15,7 +15,7 @@
 
 ## § 44936. Employment investigations and restrictions
 
-    (a) __Employment Investigation Requirement.—__ 
+    (a)  __Employment Investigation Requirement__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
                 (ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
-            (D) __Exemption.—__ 
+            (D)  __Exemption__  __.—__ 
 
             An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
 
@@ -53,7 +53,7 @@
 
         (3) The Under Secretary shall provide for the periodic audit of the effectiveness of criminal history record checks conducted under paragraph (1) of this subsection.
 
-    (b) __Prohibited Employment.—__ 
+    (b)  __Prohibited Employment__  __.—__ 
 
         (1)
 
@@ -119,7 +119,7 @@
 
         (3) An air carrier, foreign air carrier, airport operator, or government may employ, or authorize or contract for the services of, an individual in a position described in subsection (a)(1) of this section without carrying out the investigation required under this section, if the Under Secretary approves a plan to employ the individual that provides alternate security arrangements.
 
-    (c) __Fingerprinting and Record Check Information.—__ 
+    (c)  __Fingerprinting and Record Check Information__  __.—__ 
 
         (1) If the Under Secretary requires an identification and criminal history record check, to be conducted by the Attorney General, as part of an investigation under this section, the Under Secretary shall designate an individual to obtain fingerprints and submit those fingerprints to the Attorney General. The Attorney General may make the results of a check available to an individual the Under Secretary designates. Before designating an individual to obtain and submit fingerprints or receive results of a check, the Under Secretary shall consult with the Attorney General. All Federal agencies shall cooperate with the Under Secretary and the Under Secretary’s designee in the process of collecting and submitting fingerprints.
 
@@ -145,11 +145,11 @@
 
             (B) may complete and correct the information contained in the check before a final employment decision is made based on the check.
 
-    (d) __Fees and Charges.—__ 
+    (d)  __Fees and Charges__  __.—__ 
 
     The Under Secretary and the Attorney General shall establish reasonable fees and charges to pay expenses incurred in carrying out this section. The employer of the individual being investigated shall pay the costs of a record check of the individual. Money collected under this section shall be credited to the account in the Treasury from which the expenses were incurred and are available to the Under Secretary and the Attorney General for those expenses.
 
-    (e) __When Investigation or Record Check Not Required.—__ 
+    (e)  __When Investigation or Record Check Not Required__  __.—__ 
 
     This section does not require an investigation or record check when the investigation or record check is prohibited by a law of a foreign country.
 
@@ -433,21 +433,21 @@ Oct. 28, 1991, Pub. L. 102–143, § 346, 105 Stat. 949.  </td>
 
 >     “(a) __Expansion of FAA Electronic Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], the Administrator of the Federal Aviation Administration shall develop, in consultation with the Office of Personnel Management and the Federal Bureau of Investigation, the pilot program for individual criminal history record checks (known as the electronic fingerprint transmission pilot project) into an aviation industry-wide program.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Administrator shall not require any airport, air carrier, or screening company to participate in the program described in subsection (a) if the airport, air carrier, or screening company determines that it would not be cost effective for it to participate in the program and notifies the Administrator of that determination.
 
 >     “(b) __Application of Expanded Program.—__ 
 
->         “(1) __Interim report.—__ 
+>         “(1)  __Interim report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Nov. 22, 2000\], the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the status of the Administrator’s efforts to utilize the program described in subsection (a).
 
->         “(2) __Notification concerning sufficiency of operation.—__ 
+>         “(2)  __Notification concerning sufficiency of operation__  __.—__ 
 
 >         If the Administrator determines that the program described in subsection (a) is not sufficiently operational 2 years after the date of enactment of this Act to permit its utilization in accordance with subsection (a), the Administrator shall notify the committees referred to in paragraph (1) of that determination.”
 

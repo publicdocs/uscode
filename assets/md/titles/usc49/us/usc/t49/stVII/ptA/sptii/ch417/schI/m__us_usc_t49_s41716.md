@@ -15,7 +15,7 @@
 
 ## § 41716. Interim slot rules at New York airports
 
-    (a) __Exemptions for Air Service to Small and Nonhub Airports.—__ 
+    (a)  __Exemptions for Air Service to Small and Nonhub Airports__  __.—__ 
 
     Subject to section 41714(i), the Secretary of Transportation shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports) to any air carrier to provide nonstop air transportation, using an aircraft with a certificated maximum seating capacity of less than 71, between LaGuardia Airport or John F. Kennedy International Airport and a small hub airport or nonhub airport—
 
@@ -25,15 +25,15 @@
 
         (3) if the air transportation to be provided under the exemption will be provided with a regional jet as replacement of turboprop air transportation that was being provided during the week of November 1, 1999.
 
-    (b) __Exemptions for New Entrant and Limited Incumbent Air Carriers.—__ 
+    (b)  __Exemptions for New Entrant and Limited Incumbent Air Carriers__  __.—__ 
 
     Subject to section 41714(i), the Secretary shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to any new entrant air carrier or limited incumbent air carrier to provide air transportation to or from LaGuardia Airport or John F. Kennedy International Airport if the number of slot exemptions granted under this subsection to such air carrier with respect to such airport when added to the slots and slot exemptions held by such air carrier with respect to such airport does not exceed 20; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardia Airport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport.
 
-    (c) __Stage 3 Aircraft Required.—__ 
+    (c)  __Stage __  __3__  __ Aircraft Required__  __.—__ 
 
     An exemption may not be granted under this section with respect to any aircraft that is not a Stage 3 aircraft (as defined by the Secretary).
 
-    (d) __Preservation of Certain Existing Slot-Related Air Service.—__ 
+    (d)  __Preservation of Certain Existing Slot-Related Air Service__  __.—__ 
 
     An air carrier that provides air transportation of passengers from LaGuardia Airport or John F. Kennedy International Airport to a small hub airport or nonhub airport, or to an airport that is smaller than a nonhub airport, on or before the date of the enactment of this subsection pursuant to an exemption from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), or where slots were issued to an air carrier conditioned on a specific airport being served, may not terminate air transportation for that route before July 1, 2003, unless—
 

@@ -15,7 +15,7 @@
 
 ## § 80110. Duty to deliver goods
 
-    (a) __General Rules.—__ 
+    (a)  __General Rules__  __.—__ 
 
     Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consignee named in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—
 
@@ -25,7 +25,7 @@
 
         (3) agrees to sign, on delivery of the goods, a receipt for delivery if requested by the carrier.
 
-    (b) __Persons to Whom Goods May Be Delivered.—__ 
+    (b)  __Persons to Whom Goods May Be Delivered__  __.—__ 
 
     Subject to [section 80111 of this title][/us/usc/t49/s80111], a common carrier may deliver the goods covered by a bill of lading to—
 
@@ -41,7 +41,7 @@
 
             (B) the bill has been indorsed to that person or in blank by the consignee or another indorsee.
 
-    (c) __Common Carrier Claims of Title and Possession.—__ 
+    (c)  __Common Carrier Claims of Title and Possession__  __.—__ 
 
     A claim by a common carrier that the carrier has title to goods or right to their possession is an excuse for nondelivery of the goods only if the title or right is derived from—
 
@@ -49,11 +49,11 @@
 
         (2) the carrier’s lien.
 
-    (d) __Adverse Claims.—__ 
+    (d)  __Adverse Claims__  __.—__ 
 
     If a person other than the consignee or the person in possession of a bill of lading claims title to or possession of goods and the common carrier knows of the claim, the carrier is not required to deliver the goods to any claimant until the carrier has had a reasonable time to decide the validity of the adverse claim or to bring a civil action to require all claimants to interplead.
 
-    (e) __Interpleader.—__ 
+    (e)  __Interpleader__  __.—__ 
 
     If at least 2 persons claim title to or possession of the goods, the common carrier may—
 
@@ -61,7 +61,7 @@
 
         (2) require those claimants to interplead as a defense in an action brought against the carrier for nondelivery.
 
-    (f) __Third Person Claims Not a Defense.—__ 
+    (f)  __Third Person Claims Not a Defense__  __.—__ 
 
     Except as provided in subsections (b), (d), and (e) of this section, title or a right of a third person is not a defense to an action brought by the consignee of a nonnegotiable bill of lading or by the holder of a negotiable bill against the common carrier for failure to deliver the goods on demand unless enforced by legal process.
 

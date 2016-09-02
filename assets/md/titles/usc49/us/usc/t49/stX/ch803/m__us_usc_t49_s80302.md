@@ -15,7 +15,7 @@
 
 ## § 80302. Prohibitions
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “contraband” means—
 
@@ -61,7 +61,7 @@
 
             (D) any good bearing a counterfeit mark (as defined in [section 2320 of title 18][/us/usc/t18/s2320]).
 
-    (b) __Prohibitions.—__ 
+    (b)  __Prohibitions__  __.—__ 
 
     A person may not—
 

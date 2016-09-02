@@ -15,27 +15,27 @@
 
 ## § 703. Administrative provisions
 
-    (a) __Executive Reorganization.—__ 
+    (a)  __Executive Reorganization__  __.—__ 
 
     Chapter 9 of title 5, United States Code, shall apply to the Board in the same manner as it does to an independent regulatory agency, and the Board shall be an establishment of the United States Government.
 
-    (b) __Open Meetings.—__ 
+    (b)  __Open Meetings__  __.—__ 
 
     For purposes of [section 552b of title 5][/us/usc/t5/s552b], United States Code, the Board shall be deemed to be an agency.
 
-    (c) __Independence.—__ 
+    (c)  __Independence__  __.—__ 
 
     In the performance of their functions, the members, employees, and other personnel of the Board shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent of any other part of the Department of Transportation.
 
-    (d) __Representation by Attorneys.—__ 
+    (d)  __Representation by Attorneys__  __.—__ 
 
     Attorneys designated by the Chairman of the Board may appear for, and represent the Board in, any civil action brought in connection with any function carried out by the Board pursuant to this chapter or subtitle IV or as otherwise authorized by law.
 
-    (e) __Admission To Practice.—__ 
+    (e)  __Admission To Practice__  __.—__ 
 
     Subject to [section 500 of title 5][/us/usc/t5/s500], the Board may regulate the admission of individuals to practice before it and may impose a reasonable admission fee.
 
-    (f) __Budget Requests.—__ 
+    (f)  __Budget Requests__  __.—__ 
 
     In each annual request for appropriations by the President, the Secretary of Transportation shall identify the portion thereof intended for the support of the Board and include a statement by the Board—
 
@@ -43,7 +43,7 @@
 
         (2) an assessment of the budgetary needs of the Board.
 
-    (g) __Direct Transmittal to Congress.—__ 
+    (g)  __Direct Transmittal to Congress__  __.—__ 
 
     The Board shall transmit to Congress copies of budget estimates, requests, and information (including personnel needs), legislative recommendations, prepared testimony for congressional hearings, and comments on legislation at the same time they are sent to the Secretary of Transportation. An officer of an agency may not impose conditions on or impair communications by the Board with Congress, or a committee or Member of Congress, about the information.
 

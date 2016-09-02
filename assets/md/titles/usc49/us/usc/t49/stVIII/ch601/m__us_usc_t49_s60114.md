@@ -15,7 +15,7 @@
 
 ## § 60114. One-call notification systems
 
-    (a) __Minimum Requirements.—__ 
+    (a)  __Minimum Requirements__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishing and operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
 
@@ -37,15 +37,15 @@
 
         (9) a requirement for sanctions substantially the same as provided under sections 60120 and 60122 of this title.
 
-    (b) __Marking Facilities.—__ 
+    (b)  __Marking Facilities__  __.—__ 
 
     On notification by an operator of a damage prevention program or by a person planning to carry out demolition, excavation, tunneling, or construction in the vicinity of a pipeline facility, the operator of the facility shall mark accurately, in a reasonable and timely way, the location of the pipeline facilities in the vicinity of the demolition, excavation, tunneling, or construction.
 
-    (c) __Relationship to Other Laws.—__ 
+    (c)  __Relationship to Other Laws__  __.—__ 
 
     This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.
 
-    (d) __Prohibition Applicable to Excavators.—__ 
+    (d)  __Prohibition Applicable to Excavators__  __.—__ 
 
     A person who engages in demolition, excavation, tunneling, or construction—
 
@@ -61,15 +61,15 @@
 
             (B) if the damage results in the escape of any flammable, toxic, or corrosive gas or liquid, may not fail to promptly report to other appropriate authorities by calling the 911 emergency telephone number.
 
-    (e) __Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—__ 
+    (e)  __Prohibition Applicable to Underground Pipeline Facility Owners and Operators__  __.—__ 
 
     Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
 
-    (f) __Limitation.—__ 
+    (f)  __Limitation__  __.—__ 
 
     The Secretary may not conduct an enforcement proceeding under subsection (d) for a violation within the boundaries of a State that has the authority to impose penalties described in section 60134(b)(7) against persons who violate that State’s damage prevention laws, unless the Secretary has determined that the State’s enforcement is inadequate to protect safety, consistent with this chapter, and until the Secretary issues, through a rulemaking proceeding, the procedures for determining inadequate State enforcement of penalties.
 
-    (g) __Technology Development Grants.—__ 
+    (g)  __Technology Development Grants__  __.—__ 
 
     The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
 

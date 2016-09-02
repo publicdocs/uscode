@@ -15,7 +15,7 @@
 
 ## § 5123. Civil penalty
 
-    (a) __Penalty.—__ 
+    (a)  __Penalty__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (4) A separate violation occurs for each day the violation, committed by a person that transports or causes to be transported hazardous material, continues.
 
-    (b) __Hearing Requirement.—__ 
+    (b)  __Hearing Requirement__  __.—__ 
 
     The Secretary may find that a person has violated this chapter or a regulation prescribed or order, special permit, or approval issued under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving the person written notice of the amount of the penalty.
 
-    (c) __Penalty Considerations.—__ 
+    (c)  __Penalty Considerations__  __.—__ 
 
     In determining the amount of a civil penalty under this section, the Secretary shall consider—
 
@@ -45,19 +45,19 @@
 
         (3) other matters that justice requires.
 
-    (d) __Civil Actions To Collect.—__ 
+    (d)  __Civil Actions To Collect__  __.—__ 
 
     The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty under this section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 ([33 U.S.C. 2705][/us/usc/t33/s2705]). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.
 
-    (e) __Compromise.—__ 
+    (e)  __Compromise__  __.—__ 
 
     The Secretary may compromise the amount of a civil penalty imposed under this section before referral to the Attorney General.
 
-    (f) __Setoff.—__ 
+    (f)  __Setoff__  __.—__ 
 
     The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-    (g) __Depositing Amounts Collected.—__ 
+    (g)  __Depositing Amounts Collected__  __.—__ 
 
     Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -69,15 +69,15 @@
 
     (i) __Prohibition on Hazardous Material Operations After Nonpayment of Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (2), a person subject to the jurisdiction of the Secretary under this chapter who fails to pay a civil penalty assessed under this chapter, or fails to arrange and abide by an acceptable payment plan for such civil penalty, may not conduct any activity regulated under this chapter beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty unless the person has filed a formal administrative or judicial appeal of the penalty.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11.
 
-        (3) __Rulemaking.—__ 
+        (3)  __Rulemaking__  __.—__ 
 
         Not later than 2 years after the date of enactment of this subsection, the Secretary, after providing notice and an opportunity for public comment, shall issue regulations that—
 
@@ -281,11 +281,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 110(a)(2), 88 Stat. 2160.  </td>
 
 [Pub. L. 109–59, title VII, § 7120(d)][/us/pl/109/59/s7120/d], Aug. 10, 2005, [119 Stat. 1906][/us/stat/119/1906], provided that:
 
->     “(1) __Hearing requirement.—__ 
+>     “(1)  __Hearing requirement__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 10, 2005\], and shall apply with respect to violations described in [section 5123(a) of title 49][/us/usc/t49/s5123/a], United States Code (as amended by this section), that occur on or after that date.
 
->     “(2) __Civil actions to collect.—__ 
+>     “(2)  __Civil actions to collect__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in [section 5123(a) of title 49][/us/usc/t49/s5123/a], United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
 

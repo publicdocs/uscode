@@ -15,11 +15,11 @@
 
 ## § 31309. Commercial driver’s license information system
 
-    (a) __General Requirement.—__ 
+    (a)  __General Requirement__  __.—__ 
 
     The Secretary of Transportation shall maintain an information system that will serve as a clearinghouse and depository of information about the licensing, identification, and disqualification of operators of commercial motor vehicles. The system shall be coordinated with activities carried out under section 31106. The Secretary shall consult with the States in carrying out this section.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
         (1)
 
@@ -39,17 +39,17 @@
 
         (2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver’s license or learner’s permit under section 31308(3).
 
-    (c) __Availability of Information.—__ 
+    (c)  __Availability of Information__  __.—__ 
 
     Information in the information system shall be made available and subject to review and correction in accordance with the policy developed under section 31106(e).
 
-    (d) __Fee System.—__ 
+    (d)  __Fee System__  __.—__ 
 
     The Secretary may establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
 
     (e) __Modernization Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
 
@@ -63,17 +63,17 @@
 
             (E) provides a schedule for modernization of the system.
 
-        (2) __Consultation.—__ 
+        (2)  __Consultation__  __.—__ 
 
         The plan shall be developed in consultation with representatives of the motor carrier industry, State safety enforcement agencies, and State licensing agencies designated by the Secretary.
 
-        (3) __State funding of future efforts.—__ 
+        (3)  __State funding of future efforts__  __.—__ 
 
         The plan shall specify that States will fund future efforts to modernize the commercial driver’s information system.
 
         (4) __Deadline for state participation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The plan shall specify—
 
@@ -81,7 +81,7 @@
 
                 (ii) that States must use the systems to receive and submit conviction and disqualification data.
 
-            (B) __Factors to consider.—__ 
+            (B)  __Factors to consider__  __.—__ 
 
             In establishing the date under subparagraph (A), the Secretary shall consider the following:
 
@@ -89,11 +89,11 @@
 
                 (ii) Time necessary to install, and test the operation of, such technology and equipment.
 
-        (5) __Implementation.—__ 
+        (5)  __Implementation__  __.—__ 
 
         The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
 
-    (f) __Funding.—__ 
+    (f)  __Funding__  __.—__ 
 
     At the Secretary’s discretion, a State may use, subject to section 31313(a), the funds made available to the State under section 31313 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
 
@@ -307,23 +307,23 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 
 >     “(c) __Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] may make a grant to a State or organization representing agencies and officials of a State in a fiscal year to modernize the commercial driver’s license information system of the State to be compatible with the modernized commercial driver’s license information system under [section 31309 of title 49][/us/usc/t49/s31309], United States Code, if the State is in substantial compliance with the requirements of section 31311 of such title and this section, as determined by the Secretary.
 
->         “(2) __Criteria.—__ 
+>         “(2)  __Criteria__  __.—__ 
 
 >         The Secretary shall establish criteria for the distribution of grants and notify each State annually of such criteria.
 
->         “(3) __Use of grant.—__ 
+>         “(3)  __Use of grant__  __.—__ 
 
 >         A State may use a grant under this subsection only to implement improvements that are consistent with the modernization plan developed by the Secretary.
 
->         “(4) __Government share.—__ 
+>         “(4)  __Government share__  __.—__ 
 
 >         A grant under this subsection to a State or organization may not be for more than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver’s license information system of the State to be compatible with the modernized commercial driver’s license information system under [section 31309 of title 49][/us/usc/t49/s31309], United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section—
 
@@ -341,15 +341,15 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 
 >     “(e) __Contract Authority and Availability.—__ 
 
->         “(1) __Period of availability.—__ 
+>         “(1)  __Period of availability__  __.—__ 
 
 >         The amounts made available under subsection (d) shall remain available until expended.
 
->         “(2) __Initial date of availability.—__ 
+>         “(2)  __Initial date of availability__  __.—__ 
 
 >         Amounts authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) by subsection (d) shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
->         “(3) __Contract authority.—__ 
+>         “(3)  __Contract authority__  __.—__ 
 
 >         Approval by the Secretary of a grant with funds made available under subsection (d) imposes upon the United States a contractual obligation for payment of the Government’s share of costs incurred in carrying out the objectives of the grant.”
 
@@ -359,11 +359,11 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 
 >     “(a) __Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall carry out a pilot program in cooperation with 1 or more States to improve upon the timely exchange of pertinent driver performance and safety records data to motor carriers.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the program shall be to—
 
@@ -373,11 +373,11 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 
 >             “(C) assess methods for the efficient exchange of driver safety data available from existing State information systems and sources.
 
->         “(3) __Completion date.—__ 
+>         “(3)  __Completion date__  __.—__ 
 
 >         The pilot program shall end on the last day of the 18-month period beginning on the date of initiation of the pilot program.
 
->     “(b) __Rulemaking.—__ 
+>     “(b)  __Rulemaking__  __.—__ 
 
 >     After completion of the pilot program, the Secretary shall initiate, if appropriate, a rulemaking to revise the information system under [section 31309 of title 49][/us/usc/t49/s31309], United States Code, to take into account the results of the pilot program.”
 

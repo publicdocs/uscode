@@ -19,7 +19,7 @@
 
     (1) __Private benefit.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “private benefit”—
 
@@ -27,13 +27,13 @@
 
             (ii) shall be determined on a project-by-project basis, based upon an agreement between the parties.
 
-        (B) __Consultation.—__ 
+        (B)  __Consultation__  __.—__ 
 
         The Secretary may seek the advice of the States and rail carriers in further defining this term.
 
     (2) __Public benefit.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “public benefit”—
 
@@ -41,15 +41,15 @@
 
             (ii) shall be determined on a project-by-project basis, based upon an agreement between the parties.
 
-        (B) __Consultation.—__ 
+        (B)  __Consultation__  __.—__ 
 
         The Secretary may seek the advice of the States and rail carriers in further defining this term.
 
-    (3) __State.—__ 
+    (3)  __State__  __.—__ 
 
     The term “State” means any of the 50 States and the District of Columbia.
 
-    (4) __State rail transportation authority.—__ 
+    (4)  __State rail transportation authority__  __.—__ 
 
     The term “State rail transportation authority” means the State agency or official responsible under the direction of the Governor of the State or a State law for preparation, maintenance, coordination, and administration of the State rail plan.
 

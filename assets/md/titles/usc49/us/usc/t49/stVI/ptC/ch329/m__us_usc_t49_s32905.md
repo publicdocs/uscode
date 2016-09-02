@@ -15,11 +15,11 @@
 
 ## § 32905. Manufacturing incentives for alternative fuel automobiles
 
-    (a) __Dedicated Automobiles.—__ 
+    (a)  __Dedicated Automobiles__  __.—__ 
 
     Except as provided in subsection (c) of this section or [section 32904(a)(2) of this title][/us/usc/t49/s32904/a/2], for any model of dedicated automobile manufactured by a manufacturer after model year 1992, the fuel economy measured for that model shall be based on the fuel content of the alternative fuel used to operate the automobile. A gallon of a liquid alternative fuel used to operate a dedicated automobile is deemed to contain .15 gallon of fuel.
 
-    (b) __Dual Fueled Automobiles.—__ 
+    (b)  __Dual Fueled Automobiles__  __.—__ 
 
     Except as provided in subsection (d) of this section or [section 32904(a)(2) of this title][/us/usc/t49/s32904/a/2], for any model of dual fueled automobile manufactured by a manufacturer in model years 1993 through 2019, the Administrator of the Environmental Protection Agency shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
@@ -33,11 +33,11 @@
 
             (B) measured based on the fuel content of B20 when operating the model on B20, which is deemed to contain 0.15 gallon of fuel.
 
-    (c) __Gaseous Fuel Dedicated Automobiles.—__ 
+    (c)  __Gaseous Fuel Dedicated Automobiles__  __.—__ 
 
     For any model of gaseous fuel dedicated automobile manufactured by a manufacturer after model year 1992, the Administrator shall measure the fuel economy for that model based on the fuel content of the gaseous fuel used to operate the automobile. One hundred cubic feet of natural gas is deemed to contain .823 gallon equivalent of natural gas. The Secretary of Transportation shall determine the appropriate gallon equivalent of other gaseous fuels. A gallon equivalent of gaseous fuel is deemed to have a fuel content of .15 gallon of fuel.
 
-    (d) __Gaseous Fuel Dual Fueled Automobiles.—__ 
+    (d)  __Gaseous Fuel Dual Fueled Automobiles__  __.—__ 
 
     For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993 through 2019, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
@@ -45,11 +45,11 @@
 
         (2) .5 divided by the fuel economy measured under subsection (c) of this section when operating the model on gaseous fuel.
 
-    (e) __Fuel Economy Calculations.—__ 
+    (e)  __Fuel Economy Calculations__  __.—__ 
 
     The Administrator shall calculate the manufacturer’s average fuel economy under [section 32904(a)(1) of this title][/us/usc/t49/s32904/a/1] for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
 
-    (f) __Fuel Economy Incentive Requirements.—__ 
+    (f)  __Fuel Economy Incentive Requirements__  __.—__ 
 
     In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 

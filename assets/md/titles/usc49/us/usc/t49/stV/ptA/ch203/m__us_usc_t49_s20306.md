@@ -15,11 +15,11 @@
 
 ## § 20306. Exemption for technological improvements
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Subject to subsection (b) of this section, the Secretary of Transportation may exempt from the requirements of this chapter railroad equipment or equipment that will be operated on rails, when those requirements preclude the development or implementation of more efficient railroad transportation equipment or other transportation innovations under existing law.
 
-    (b) __Conditions for Exemption.—__ 
+    (b)  __Conditions for Exemption__  __.—__ 
 
     The Secretary may grant an exemption under subsection (a) of this section only on the basis of—
 

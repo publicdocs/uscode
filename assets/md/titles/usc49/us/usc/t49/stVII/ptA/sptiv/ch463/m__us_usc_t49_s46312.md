@@ -15,7 +15,7 @@
 
 ## § 46312. Transporting hazardous material
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person, in violation of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary of Transportation under this part or chapter 51—
 
@@ -23,7 +23,7 @@
 
         (2) recklessly causes the transportation in air commerce of the property.
 
-    (b) __Knowledge of Regulations.—__ 
+    (b)  __Knowledge of Regulations__  __.—__ 
 
     For purposes of subsection (a), knowledge by the person of the existence of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary under this part or chapter 51 is not an element of an offense under this section but shall be considered in mitigation of the penalty.
 

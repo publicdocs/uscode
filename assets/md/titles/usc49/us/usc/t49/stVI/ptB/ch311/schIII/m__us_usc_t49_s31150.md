@@ -15,7 +15,7 @@
 
 ## § 31150. Safety performance history screening
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation shall provide persons conducting preemployment screening services for the motor carrier industry electronic access to the following reports contained in the Motor Carrier Management Information System:
 
@@ -25,7 +25,7 @@
 
         (3) Serious driver-related safety violation inspection reports.
 
-    (b) __Conditions on Providing Access.—__ 
+    (b)  __Conditions on Providing Access__  __.—__ 
 
     Before providing a person access to the Motor Carrier Management Information System under subsection (a), the Secretary shall—
 
@@ -37,11 +37,11 @@
 
         (4) provide a procedure for the operator-applicant to correct inaccurate information in the System in a timely manner.
 
-    (c) __Design.—__ 
+    (c)  __Design__  __.—__ 
 
     The process for providing access to the Motor Carrier Management Information System under subsection (a) shall be designed to assist the motor carrier industry in assessing an individual operator’s crash and serious safety violation inspection history as a preemployment condition. Use of the process shall not be mandatory and may only be used during the preemployment assessment of an operator-applicant.
 
-    (d) __Serious Driver-Related Safety Violation Defined.—__ 
+    (d)  __Serious Driver-Related Safety Violation Defined__  __.—__ 
 
     In this section, the term “serious driver-related violation” means a violation by an operator of a commercial motor vehicle that the Secretary determines will result in the operator being prohibited from continuing to operate a commercial motor vehicle until the violation is corrected.
 

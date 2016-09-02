@@ -15,7 +15,7 @@
 
 ## § 60122. Civil penalties
 
-    (a) __General Penalties.—__ 
+    (a)  __General Penalties__  __.—__ 
 
         (1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b), 60114(d), or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $200,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $2,000,000.
 
@@ -23,7 +23,7 @@
 
         (3) A person violating section 60129, or an order issued thereunder, is liable to the Government for a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
 
-    (b) __Penalty Considerations.—__ 
+    (b)  __Penalty Considerations__  __.—__ 
 
     In determining the amount of a civil penalty under this section—
 
@@ -45,21 +45,21 @@
 
             (B) other matters that justice requires.
 
-    (c) __Collection and Compromise.—__ 
+    (c)  __Collection and Compromise__  __.—__ 
 
         (1) The Secretary may request the Attorney General to bring a civil action in an appropriate district court of the United States to collect a civil penalty imposed under this section.
 
         (2) The Secretary may compromise the amount of a civil penalty imposed under this section before referral to the Attorney General.
 
-    (d) __Setoff.—__ 
+    (d)  __Setoff__  __.—__ 
 
     The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-    (e) __Deposit in Treasury.—__ 
+    (e)  __Deposit in Treasury__  __.—__ 
 
     Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 
-    (f) __Prohibition on Multiple Penalties for Same Act.—__ 
+    (f)  __Prohibition on Multiple Penalties for Same Act__  __.—__ 
 
     Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 

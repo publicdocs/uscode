@@ -87,7 +87,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(k), 105 Stat. 2155.  </td>
 
 [Pub. L. 105–277, div. C, title I, § 109][/us/pl/105/277/s109], Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586], provided that:
 
->     “(a) __Registration of Trailers.—__ 
+>     “(a)  __Registration of Trailers__  __.—__ 
 
 >     A State that requires annual registration of container chassis and the apportionment of fees for such registrations in accordance with the International Registration Plan (as defined under [section 31701 of title 49][/us/usc/t49/s31701], United States Code) shall not limit the operation, or require the registration, in the State of a container chassis (or impose fines or penalties on the operation of a container chassis for being operated in the State without a registration issued by the State) if such chassis—
 
@@ -95,19 +95,19 @@ Dec. 18, 1991, Pub. L. 102–240, § 4008(k), 105 Stat. 2155.  </td>
 
 >         “(2) is operating under a trip permit issued by the State.
 
->     “(b) __Limitation on Registration of Trailers.—__ 
+>     “(b)  __Limitation on Registration of Trailers__  __.—__ 
 
 >     A State described in subsection (a) may not deny the use of trip permits for the operation in the State of a container chassis that is registered under the laws of another State.
 
->     “(c) __Safety Regulation.—__ 
+>     “(c)  __Safety Regulation__  __.—__ 
 
 >     This section shall apply to registration requirements only and shall not affect the ability of the State to regulate for safety.
 
->     “(d) __Penalties.—__ 
+>     “(d)  __Penalties__  __.—__ 
 
 >     No State described in subsection (a), political subdivision of such a State, or person may impose or collect any fee, penalty, fine, or other form of damages which is based in whole or in part upon the nonpayment of a State registration fee (including related weight and licensing fees assessed as part of registration) attributable to a container chassis operated in the State (and registered in another State) before the date of enactment of this Act \[Oct. 21, 1998\], unless it is shown by the State, political subdivision, or person that such container chassis was not operated in the State under a trip permit issued by the State.
 
->     “(e) __Container Chassis Defined.—__ 
+>     “(e)  __Container Chassis Defined__  __.—__ 
 
 >     In this section, the term ‘container chassis’ means a trailer, semi-trailer, or auxiliary axle used exclusively for the transportation of ocean shipping containers.”
 

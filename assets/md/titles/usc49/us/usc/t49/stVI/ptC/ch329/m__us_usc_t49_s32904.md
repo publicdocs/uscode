@@ -15,7 +15,7 @@
 
 ## § 32904. Calculation of average fuel economy
 
-    (a) __Method of Calculation.—__ 
+    (a)  __Method of Calculation__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
                 (iv) the specific patterns of use of electric vehicles compared to petroleum-fueled vehicles.
 
-    (b) __Separate Calculations for Passenger Automobiles Manufactured Domestically and Not Domestically.—__ 
+    (b)  __Separate Calculations for Passenger Automobiles Manufactured Domestically and Not Domestically__  __.—__ 
 
         (1)
 
@@ -107,15 +107,15 @@
 
                 (iv) the model or models are manufactured domestically before the end of the 4th model year covered by the plan.
 
-    (c) __Testing and Calculation Procedures.—__ 
+    (c)  __Testing and Calculation Procedures__  __.—__ 
 
     The Administrator shall measure fuel economy for each model and calculate average fuel economy for a manufacturer under testing and calculation procedures prescribed by the Administrator. However, except under [section 32908 of this title][/us/usc/t49/s32908], the Administrator shall use the same procedures for passenger automobiles the Administrator used for model year 1975 (weighted 55 percent urban cycle and 45 percent highway cycle), or procedures that give comparable results. A measurement of fuel economy or a calculation of average fuel economy (except under section 32908) shall be rounded off to the nearest .1 of a mile a gallon. The Administrator shall decide on the quantity of other fuel that is equivalent to one gallon of gasoline. To the extent practicable, fuel economy tests shall be carried out with emissions tests under section 206 of the Clean Air Act ([42 U.S.C. 7525][/us/usc/t42/s7525]).
 
-    (d) __Effective Date of Procedure or Amendment.—__ 
+    (d)  __Effective Date of Procedure or Amendment__  __.—__ 
 
     The Administrator shall prescribe a procedure under this section, or an amendment (except a technical or clerical amendment) in a procedure, at least 12 months before the beginning of the model year to which the procedure or amendment applies.
 
-    (e) __Reports and Consultation.—__ 
+    (e)  __Reports and Consultation__  __.—__ 
 
     The Administrator shall report measurements and calculations under this section to the Secretary of Transportation and shall consult and coordinate with the Secretary in carrying out this section.
 
@@ -429,11 +429,11 @@ In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe ru
 
 [Pub. L. 110–140, title I, § 113(b)][/us/pl/110/140/s113/b], (c), Dec. 19, 2007, [121 Stat. 1508][/us/stat/121/1508], provided that:
 
->     “(b) __Effect of Repeal on Existing Exemptions.—__ 
+>     “(b)  __Effect of Repeal on Existing Exemptions__  __.—__ 
 
 >     Any exemption granted under [section 32904(b)(6) of title 49][/us/usc/t49/s32904/b/6], United States Code, prior to the date of the enactment of this Act \[Dec. 19, 2007\] shall remain in effect subject to its terms through model year 2013.
 
->     “(c) __Accrual and Use of Credits.—__ 
+>     “(c)  __Accrual and Use of Credits__  __.—__ 
 
 >     Any manufacturer holding an exemption under [section 32904(b)(6) of title 49][/us/usc/t49/s32904/b/6], United States Code, prior to the date of the enactment of this Act may accrue and use credits under sections 32903 and 32905 of such title beginning with model year 2011.”
 

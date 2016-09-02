@@ -17,27 +17,27 @@
 
     (a) __Certificate Required.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No person may serve as a flight attendant aboard an aircraft of an air carrier unless that person holds a certificate of demonstrated proficiency from the Administrator of the Federal Aviation Administration. Upon the request of the Administrator or an authorized representative of the National Transportation Safety Board or another Federal agency, a person who holds such a certificate shall present the certificate for inspection within a reasonable period of time after the date of the request.
 
-        (2) __Special rule for current flight attendants.—__ 
+        (2)  __Special rule for current flight attendants__  __.—__ 
 
         An individual serving as a flight attendant on the effective date of this section may continue to serve aboard an aircraft as a flight attendant until completion by that individual of the required recurrent or requalification training and subsequent certification under this section.
 
-        (3) __Treatment of flight attendant after notification.—__ 
+        (3)  __Treatment of flight attendant after notification__  __.—__ 
 
         On the date that the Administrator is notified by an air carrier that an individual has the demonstrated proficiency to be a flight attendant, the individual shall be treated for purposes of this section as holding a certificate issued under the section.
 
-    (b) __Issuance of Certificate.—__ 
+    (b)  __Issuance of Certificate__  __.—__ 
 
     The Administrator shall issue a certificate of demonstrated proficiency under this section to an individual after the Administrator is notified by the air carrier that the individual has successfully completed all the training requirements for flight attendants approved by the Administrator.
 
-    (c) __Designation of Person To Determine Successful Completion of Training.—__ 
+    (c)  __Designation of Person To Determine Successful Completion of Training__  __.—__ 
 
     In accordance with part 183 of chapter 14, Code of Federal Regulation, the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
 
-    (d) __Specifications Relating to Certificates.—__ 
+    (d)  __Specifications Relating to Certificates__  __.—__ 
 
     Each certificate issued under this section shall—
 
@@ -51,13 +51,13 @@
 
         (5) be issued not later than 120 days after the Administrator receives notification from the air carrier of demonstrated proficiency and, in the case of an individual serving as flight attendant on the effective date of this section, not later than 1 year after such effective date.
 
-    (e) __Approval of Training Programs.—__ 
+    (e)  __Approval of Training Programs__  __.—__ 
 
     Air carrier flight attendant training programs shall be subject to approval by the Administrator. All flight attendant training programs approved by the Administrator in the 1-year period ending on the date of enactment of this section shall be treated as providing a demonstrated proficiency for purposes of meeting the certification requirements of this section.
 
     (f) __Minimum Language Skills.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No person may serve as a flight attendant aboard an aircraft of an air carrier, unless that person has demonstrated to an individual qualified to determine proficiency the ability to read, speak, and write English well enough to—
 
@@ -69,11 +69,11 @@
 
             (D) carry out written and oral instructions regarding the proper performance of their duties.
 
-        (2) __Foreign flights.—__ 
+        (2)  __Foreign flights__  __.—__ 
 
         The requirements of paragraph (1) do not apply to a flight attendant serving solely between points outside the United States.
 
-    (g) __Flight Attendant Defined.—__ 
+    (g)  __Flight Attendant Defined__  __.—__ 
 
     In this section, the term “flight attendant” means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 

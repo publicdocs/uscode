@@ -15,7 +15,7 @@
 
 ## § 5112. Highway routing of hazardous material
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) limitations and requirements related to highway routing.
 
-    (b) __Standards for States and Indian Tribes.—__ 
+    (b)  __Standards for States and Indian Tribes__  __.—__ 
 
         (1)
 
@@ -99,13 +99,13 @@
 
     (c) __List of Route Designations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In coordination with the States, the Secretary shall update and publish periodically a list of currently effective hazardous material highway route designations.
 
         (2) __State responsibilities.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each State shall submit to the Secretary, in a form and manner to be determined by the Secretary and in accordance with subparagraph (B)—
 
@@ -113,7 +113,7 @@
 
                 (ii) a list of the State’s currently effective hazardous material highway route designations.
 
-            (B) __Frequency.—__ 
+            (B)  __Frequency__  __.—__ 
 
             Each State shall submit the information described in subparagraph (A)(ii)—
 
@@ -121,7 +121,7 @@
 
                 (ii) not later than 60 days after a hazardous material highway route designation is established, amended, or discontinued.
 
-    (d) __Dispute Resolution.—__ 
+    (d)  __Dispute Resolution__  __.—__ 
 
         (1) The Secretary shall prescribe regulations for resolving a dispute related to through highway routing or to an agreement with a proposed highway route designation, limitation, or requirement between or among States, political subdivisions of different States, or Indian tribes.
 
@@ -139,11 +139,11 @@
 
             (B) A State or Indian tribe adversely affected by a decision of the Secretary under this subsection may bring a civil action for judicial review of the decision in an appropriate district court of the United States not later than 89 days after the day the decision becomes final.
 
-    (e) __Relationship to Other Laws.—__ 
+    (e)  __Relationship to Other Laws__  __.—__ 
 
     This section and regulations prescribed under this section do not affect sections 31111 and 31113 of this title or [section 127 of title 23][/us/usc/t23/s127].
 
-    (f) __Existing Radioactive Material Routing Regulations.—__ 
+    (f)  __Existing Radioactive Material Routing Regulations__  __.—__ 
 
     The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 

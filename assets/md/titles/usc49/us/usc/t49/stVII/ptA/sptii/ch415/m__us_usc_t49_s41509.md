@@ -15,7 +15,7 @@
 
 ## § 41509. Authority of the Secretary of Transportation to suspend, cancel, and reject tariffs for foreign air transportation
 
-    (a) __Cancellation and Rejection.—__ 
+    (a)  __Cancellation and Rejection__  __.—__ 
 
         (1) On the initiative of the Secretary of Transportation or on a complaint filed with the Secretary, the Secretary may conduct a hearing to decide whether a price for foreign air transportation contained in an existing or newly filed tariff of an air carrier or foreign air carrier, a classification, rule, or practice affecting that price, or the value of the transportation provided under that price, is lawful. The Secretary may begin the hearing at once and without an answer or another formal pleading by the air carrier or foreign air carrier, but only after reasonable notice. If, after the hearing, the Secretary decides that the price, classification, rule, or practice is or will be unreasonable or unreasonably discriminatory, the Secretary may cancel or reject the tariff and prevent the use of the price, classification, rule, or practice.
 
@@ -41,7 +41,7 @@
 
             (H) other factors.
 
-    (b) __Suspension.—__ 
+    (b)  __Suspension__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (3) The suspension of a newly filed tariff may be for periods totaling not more than 365 days after the date the tariff otherwise would go into effect. The suspension of an existing tariff may be for periods totaling not more than 365 days after the effective date of the suspension. The Secretary may rescind at any time the suspension of a newly filed tariff and allow the price, classification, rule, or practice to go into effect.
 
-    (c) __Effective Tariffs and Prices When Tariff Is Suspended, Canceled, or Rejected.—__ 
+    (c)  __Effective Tariffs and Prices When Tariff Is Suspended, Canceled, or Rejected__  __.—__ 
 
         (1) If a tariff is suspended pending the outcome of a proceeding under subsection (a) of this section and the Secretary does not take final action in the proceeding during the suspension period, the tariff goes into effect at the end of that period subject to cancellation when the proceeding is concluded.
 
@@ -71,7 +71,7 @@
 
         (3) If an existing tariff is suspended or canceled, the affected air carrier or foreign air carrier, for the purpose of operations during the period of suspension or pending effectiveness of a new tariff, may file another tariff containing a price or another classification, rule, or practice affecting the price, or the value of the transportation provided under the price, that is in effect (and not subject to a suspension order) for any air carrier providing the same transportation.
 
-    (d) __Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price.—__ 
+    (d)  __Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price__  __.—__ 
 
     When the Secretary finds that the government or an aeronautical authority of a foreign country has refused to allow an air carrier to charge a price contained in a tariff filed and published under [section 41504 of this title][/us/usc/t49/s41504] for foreign air transportation to the foreign country—
 
@@ -85,7 +85,7 @@
 
         (2) a foreign air carrier may continue to provide foreign air transportation to the foreign country only if the government or aeronautical authority of the foreign country allows an air carrier to start or continue foreign air transportation to the foreign country at the prices designated by the Secretary.
 
-    (e) __Standard Foreign Fare Level.—__ 
+    (e)  __Standard Foreign Fare Level__  __.—__ 
 
         (1)
 
@@ -109,11 +109,11 @@
 
             (B) 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 
-    (f) __Submission of Orders to President.—__ 
+    (f)  __Submission of Orders to President__  __.—__ 
 
     The Secretary shall submit to the President an order made under this section suspending, canceling, or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
 
-    (g) __Compliance as Condition of Certificate or Permit.—__ 
+    (g)  __Compliance as Condition of Certificate or Permit__  __.—__ 
 
     This section and compliance with an order of the Secretary under this section are conditions to any certificate or permit held by an air carrier or foreign air carrier. An air carrier or foreign air carrier may provide foreign air transportation only as long as the carrier maintains prices for that transportation that comply with this section and orders of the Secretary under this section.
 

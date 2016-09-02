@@ -15,7 +15,7 @@
 
 ## § 33104. Designation of high theft vehicle lines and parts
 
-    (a) __Designation, Nonapplication, Selection, and Procedures.—__ 
+    (a)  __Designation, Nonapplication, Selection, and Procedures__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (6) A passenger motor vehicle line subject on October 25, 1992, to parts marking requirements under sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act ([Public Law 92–513][/us/pl/92/513], [86 Stat. 947][/us/stat/86/947]), as added by section 101(a) of the Motor Vehicle Theft Law Enforcement Act of 1984 ([Public Law 98–547][/us/pl/98/547], [98 Stat. 2756][/us/stat/98/2756]), continues to be subject to the requirements of this section and [section 33102 of this title][/us/usc/t49/s33102] unless the line is exempted under [section 33106 of this title][/us/usc/t49/s33106].
 
-    (b) __Determining Theft Rate for Passenger Vehicles.—__ 
+    (b)  __Determining Theft Rate for Passenger Vehicles__  __.—__ 
 
         (1) In this subsection, “new passenger motor vehicle thefts”, when used in reference to a calendar year, means thefts in the United States in that year of passenger motor vehicles with the same model-year designation as that calendar year.
 
@@ -55,11 +55,11 @@
 
         (5) The Secretary periodically (but not more often than once every 2 years) may redetermine and prescribe by regulation the median theft rate under this subsection.
 
-    (c) __Providing Information.—__ 
+    (c)  __Providing Information__  __.—__ 
 
     The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theft lines and the major parts to be subject to the standard.
 
-    (d) __Application.—__ 
+    (d)  __Application__  __.—__ 
 
     Except as provided in [section 33106 of this title][/us/usc/t49/s33106], the Secretary may not make the standard inapplicable to a line that has been subject to the standard.
 

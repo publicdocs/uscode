@@ -15,11 +15,11 @@
 
 ## § 31147. Limitations on authority
 
-    (a) __Traffic Regulations.—__ 
+    (a)  __Traffic Regulations__  __.—__ 
 
     This subchapter does not authorize the Secretary of Transportation to prescribe traffic safety regulations or preempt State traffic regulations. However, the Secretary may prescribe traffic regulations to the extent their subject matter was regulated under parts 390–399 of title 49, Code of Federal Regulations, on October 30, 1984.
 
-    (b) __Regulating the Manufacturing of Vehicles.—__ 
+    (b)  __Regulating the Manufacturing of Vehicles__  __.—__ 
 
     This subchapter does not authorize the Secretary to regulate the manufacture of commercial motor vehicles for any purpose, including fuel economy, safety, or emission control.
 

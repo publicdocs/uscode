@@ -15,7 +15,7 @@
 
 ## § 21108. Pilot projects
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     As of the date of enactment of the Rail Safety Improvement Act of 2008, a railroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
 
@@ -25,15 +25,15 @@
 
         to enable the establishment of one or more pilot projects to demonstrate the possible benefits of implementing alternatives to the strict application of the requirements of this chapter, including requirements concerning maximum on-duty and minimum off-duty periods.
 
-    (b) __Granting of Waivers.—__ 
+    (b)  __Granting of Waivers__  __.—__ 
 
     The Secretary may, after notice and opportunity for comment, approve such waivers described in subsection (a) for a period not to exceed two years, if the Secretary determines that such a waiver of compliance is in the public interest and is consistent with railroad safety.
 
-    (c) __Extensions.—__ 
+    (c)  __Extensions__  __.—__ 
 
     Any such waiver, based on a new petition, may be extended for additional periods of up to two years, after notice and opportunity for comment. An explanation of any waiver granted under this section shall be published in the Federal Register.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     The Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, no later than December 31, 2012, or, if no projects are completed prior to December 31, 2012, no later than 6 months after the completion of a pilot project, a report that—
 
@@ -43,7 +43,7 @@
 
         (3) recommends any appropriate legislative changes to this chapter.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
 

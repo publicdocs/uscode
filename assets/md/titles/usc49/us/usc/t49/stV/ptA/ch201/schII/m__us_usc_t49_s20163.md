@@ -15,11 +15,11 @@
 
 ## § 20163. Certification of train conductors
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe regulations to establish a program requiring the certification of train conductors. In prescribing such regulations, the Secretary shall require that train conductors be trained, in accordance with the training standards developed pursuant to section 20162.
 
-    (b) __Program Requirements.—__ 
+    (b)  __Program Requirements__  __.—__ 
 
     In developing the regulations required by subsection (a), the Secretary may consider the requirements of section 20135(b) through (e).
 

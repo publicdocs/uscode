@@ -15,7 +15,7 @@
 
 ## § 5104. Representation and tampering
 
-    (a) __Representation.—__ 
+    (a)  __Representation__  __.—__ 
 
     A person may represent, by marking or otherwise, that—
 
@@ -23,7 +23,7 @@
 
         (2) hazardous material is present in a package, container, motor vehicle, rail freight car, aircraft, or vessel only if the material is present.
 
-    (b) __Tampering.—__ 
+    (b)  __Tampering__  __.—__ 
 
     No person may alter, remove, destroy, or otherwise tamper unlawfully with—
 

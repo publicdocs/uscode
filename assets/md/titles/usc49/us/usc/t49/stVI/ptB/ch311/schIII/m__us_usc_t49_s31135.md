@@ -15,17 +15,17 @@
 
 ## § 31135. Duties of employers and employees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each employer and employee shall comply with regulations on commercial motor vehicle safety prescribed by the Secretary of Transportation under this subchapter that apply to the employer’s or employee’s conduct.
 
     (b) __Noncompliance.—__ 
 
-        (1) __Motor carriers.—__ 
+        (1)  __Motor carriers__  __.—__ 
 
         Two or more motor carriers, employers, or persons shall not use common ownership, common management, common control, or common familial relationship to enable any or all such motor carriers, employers, or persons to avoid compliance, or mask or otherwise conceal non-compliance, or a history of non-compliance, with regulations prescribed under this subchapter or an order of the Secretary issued under this subchapter.
 
-        (2) __Pattern.—__ 
+        (2)  __Pattern__  __.—__ 
 
         If the Secretary finds that a motor carrier, employer, or person engaged in a pattern or practice of avoiding compliance, or masking or otherwise concealing noncompliance, with regulations prescribed under this subchapter, the Secretary—
 
@@ -33,23 +33,23 @@
 
             (B) shall take into account such non-compliance for purposes of determining civil penalty amounts under section 521(b)(2)(D).
 
-        (3) __Officers.—__ 
+        (3)  __Officers__  __.—__ 
 
         If the Secretary finds, after notice and an opportunity for proceeding, that an officer of a motor carrier, employer, or owner or operator has engaged in a pattern or practice of, or assisted a motor carrier, employer, or owner or operator in avoiding compliance, or masking or otherwise concealing noncompliance, while serving as an officer or such motor carrier, employer, or owner or operator, the Secretary may suspend, amend, or revoke any part of a registration granted to the officer individually under section 13902 or 31134.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Not later than 1 year after the date of enactment of this subsection, the Secretary shall by regulation establish standards to implement subsection (b).
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Motor carrier.—__ 
+        (1)  __Motor carrier__  __.—__ 
 
         The term “motor carrier” has the meaning such term has under section 13102.
 
-        (2) __Officer.—__ 
+        (2)  __Officer__  __.—__ 
 
         The term “officer” means an owner, director, chief executive officer, chief operating officer, chief financial officer, safety director, vehicle maintenance supervisor, and driver supervisor of a motor carrier, regardless of the title attached to those functions, and any person, however designated, exercising controlling influence over the operations of a motor carrier.
 

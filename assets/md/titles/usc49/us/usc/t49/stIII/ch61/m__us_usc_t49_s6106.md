@@ -15,7 +15,7 @@
 
 ## § 6106. Grants to States
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary may make a grant of financial assistance to a State that qualifies under section 6104(b) to assist in improving—
 
@@ -33,11 +33,11 @@
 
         (7) compliance and enforcement under the State one-call notification program.
 
-    (b) __State Action Taken Into Account.—__ 
+    (b)  __State Action Taken Into Account__  __.—__ 
 
     In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.
 
-    (c) __Funding for One-Call Notification Systems.—__ 
+    (c)  __Funding for One-Call Notification Systems__  __.—__ 
 
     A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.
 

@@ -15,15 +15,15 @@
 
 ## § 44905. Information about threats to civil aviation
 
-    (a) __Providing Information.—__ 
+    (a)  __Providing Information__  __.—__ 
 
     Under guidelines the Secretary of Transportation prescribes, an air carrier, airport operator, ticket agent, or individual employed by an air carrier, airport operator, or ticket agent, receiving information (except a communication directed by the United States Government) about a threat to civil aviation shall provide the information promptly to the Secretary.
 
-    (b) __Flight Cancellation.—__ 
+    (b)  __Flight Cancellation__  __.—__ 
 
     If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Under Secretary of Transportation for Security shall cancel the flight or series of flights.
 
-    (c) __Guidelines on Public Notice.—__ 
+    (c)  __Guidelines on Public Notice__  __.—__ 
 
         (1)
 
@@ -53,19 +53,19 @@
 
             (G) other factors the Under Secretary considers appropriate.
 
-    (d) __Guidelines on Notice to Crews.—__ 
+    (d)  __Guidelines on Notice to Crews__  __.—__ 
 
     The Under Secretary shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
 
-    (e) __Limitation on Notice to Selective Travelers.—__ 
+    (e)  __Limitation on Notice to Selective Travelers__  __.—__ 
 
     Notice of a threat to civil aviation may be provided to selective potential travelers only if the threat applies only to those travelers.
 
-    (f) __Restricting Access to Information.—__ 
+    (f)  __Restricting Access to Information__  __.—__ 
 
     In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Under Secretary shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
 
-    (g) __Distribution of Guidelines.—__ 
+    (g)  __Distribution of Guidelines__  __.—__ 
 
     The guidelines developed under this section shall be distributed for use by appropriate officials of the Department of Transportation, the Department of State, the Department of Justice, and air carriers.
 

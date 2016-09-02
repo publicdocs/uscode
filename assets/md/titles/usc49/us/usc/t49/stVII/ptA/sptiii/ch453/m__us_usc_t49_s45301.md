@@ -15,7 +15,7 @@
 
 ## § 45301. General provisions
 
-    (a) __Schedule of Fees.—__ 
+    (a)  __Schedule of Fees__  __.—__ 
 
     The Administrator shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
 
@@ -25,15 +25,15 @@
 
     (b) __Establishment and Adjustment of Fees.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In establishing and adjusting fees under this section, the Administrator shall ensure that the fees are reasonably related to the Administration’s costs, as determined by the Administrator, of providing the services rendered.
 
-        (2) __Services for which costs may be recovered.—__ 
+        (2)  __Services for which costs may be recovered__  __.—__ 
 
         Services for which costs may be recovered under this section include the costs of air traffic control, navigation, weather services, training, and emergency services that are available to facilitate safe transportation over the United States and the costs of other services provided by the Administrator, or by programs financed by the Administrator, to flights that neither take off nor land in the United States.
 
-        (3) __Limitations on judicial review.—__ 
+        (3)  __Limitations on judicial review__  __.—__ 
 
         Notwithstanding [section 702 of title 5][/us/usc/t5/s702] or any other provision of law, the following actions and other matters shall not be subject to judicial review:
 
@@ -43,23 +43,23 @@
 
             (C) An allocation of costs by the Administrator under paragraph (1) to services provided, and the processes and procedures applied by the Administrator when establishing such allocation.
 
-        (4) __Aircraft altitude.—__ 
+        (4)  __Aircraft altitude__  __.—__ 
 
         Nothing in this section shall require the Administrator to take into account aircraft altitude in establishing any fee for aircraft operations in en route or oceanic airspace.
 
-        (5) __Costs defined.—__ 
+        (5)  __Costs defined__  __.—__ 
 
         In this subsection, the term “costs” includes operation and maintenance costs, leasing costs, and overhead expenses associated with the services provided and the facilities and equipment used in providing such services.
 
-    (c) __Use of Experts and Consultants.—__ 
+    (c)  __Use of Experts and Consultants__  __.—__ 
 
     In developing the system, the Administrator may consult with such nongovernmental experts as the Administrator may employ and the Administrator may utilize the services of experts and consultants under [section 3109 of title 5][/us/usc/t5/s3109] without regard to the limitation imposed by the last sentence of section 3109(b) of such title, and may contract on a sole source basis, notwithstanding any other provision of law to the contrary. Notwithstanding any other provision of law to the contrary, the Administrator may retain such experts under a contract awarded on a basis other than a competitive basis and without regard to any such provisions requiring competitive bidding or precluding sole source contract authority.
 
-    (d) __Production-Certification Related Service Defined.—__ 
+    (d)  __Production-Certification Related Service Defined__  __.—__ 
 
     In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
-    (e) __Adjustment of Fees.—__ 
+    (e)  __Adjustment of Fees__  __.—__ 
 
     In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
 
@@ -97,23 +97,23 @@
 
 >     “(a) __Adoption and Legalization of Certain Rules.—__ 
 
->         “(1) __Applicability and effect of certain law.—__ 
+>         “(1)  __Applicability and effect of certain law__  __.—__ 
 
 >         Notwithstanding section 141(d)(1) of the Aviation and Transportation Security Act \[[Pub. L. 107–71][/us/pl/107/71]\] ([49 U.S.C. 44901][/us/usc/t49/s44901] note), [section 45301(b)(1)(B) of title 49][/us/usc/t49/s45301/b/1/B], United States Code, is deemed to apply to and to have effect with respect to the authority of the Administrator of the Federal Aviation Administration with respect to the interim final rule and final rule, relating to overflight fees, issued by the Administrator on May 30, 2000, and August 13, 2001, respectively.
 
->         “(2) __Adoption and legalization.—__ 
+>         “(2)  __Adoption and legalization__  __.—__ 
 
 >         The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act of Congress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
 
->         “(3) __Fees to which applicable.—__ 
+>         “(3)  __Fees to which applicable__  __.—__ 
 
 >         This subsection applies to fees assessed after November 19, 2001, and before April 8, 2003, and fees collected after the requirements of subsection (b) have been met.
 
->     “(b) __Deferred Collection of Fees.—__ 
+>     “(b)  __Deferred Collection of Fees__  __.—__ 
 
 >     The Administrator shall defer collecting fees under [section 45301(a)(1) of title 49][/us/usc/t49/s45301/a/1], United States Code, until the Administrator (1) reports to Congress responding to the issues raised by the court in Air Transport Association of Canada v. Federal Aviation Administration and Administrator, FAA, decided on April 8, 2003, and (2) consults with users and other interested parties regarding the consistency of the fees established under such section with the international obligations of the United States.
 
->     “(c) __Enforcement.—__ 
+>     “(c)  __Enforcement__  __.—__ 
 
 >     The Administrator shall take an appropriate enforcement action under subtitle VII of title 49, United States Code, against any user that does not pay a fee under section 45301(a)(1) of such title.”
 

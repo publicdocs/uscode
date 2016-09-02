@@ -19,7 +19,7 @@
 
         (1) __Airport and airway trust fund guarantee.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The total budget resources made available from the Airport and Airway Trust Fund each fiscal year pursuant to sections 48101, 48102, 48103, and 106(k) shall—
 
@@ -35,19 +35,19 @@
 
                 Such amounts may be used only for the aviation investment programs listed in subsection (b)(1).
 
-            (B) __Guarantee.—__ 
+            (B)  __Guarantee__  __.—__ 
 
             No funds may be appropriated or limited for aviation investment programs listed in subsection (b)(1) unless the amount described in subparagraph (A) has been provided.
 
-        (2) __Additional authorizations of appropriations from the general fund.—__ 
+        (2)  __Additional authorizations of appropriations from the general fund__  __.—__ 
 
         In any fiscal year through fiscal year 2015, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Total budget resources.—__ 
+        (1)  __Total budget resources__  __.—__ 
 
         The term “total budget resources” means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided in this title and for which appropriations are provided pursuant to authorizations contained in this title:
 
@@ -59,17 +59,17 @@
 
             (D) 69–8104–0–7–402 (Trust Fund Share of Operations).
 
-        (2) __Estimated level of receipts plus interest.—__ 
+        (2)  __Estimated level of receipts plus interest__  __.—__ 
 
         The term “estimated level of receipts plus interest” means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President’s budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 ([Public Law 99–177][/us/pl/99/177]) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code.
 
     (c) __Enforcement of Guarantees.—__ 
 
-        (1) __Total airport and airway trust fund funding.—__ 
+        (1)  __Total airport and airway trust fund funding__  __.—__ 
 
         It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
 
-        (2) __Capital priority.—__ 
+        (2)  __Capital priority__  __.—__ 
 
         It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2015 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 

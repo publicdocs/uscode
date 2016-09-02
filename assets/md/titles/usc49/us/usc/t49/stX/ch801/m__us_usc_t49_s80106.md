@@ -15,15 +15,15 @@
 
 ## § 80106. Transfer without negotiation
 
-    (a) __Delivery and Agreement.—__ 
+    (a)  __Delivery and Agreement__  __.—__ 
 
     The holder of a bill of lading may transfer the bill without negotiating it by delivery and agreement to transfer title to the bill or to the goods represented by it. Subject to the agreement, the person to whom the bill is transferred has title to the goods against the transferor.
 
-    (b) __Compelling Indorsement.—__ 
+    (b)  __Compelling Indorsement__  __.—__ 
 
     When a negotiable bill of lading is transferred for value by delivery without being negotiated and indorsement of the transferor is essential for negotiation, the transferee may compel the transferor to indorse the bill unless a contrary intention appears. The negotiation is effective when the indorsement is made.
 
-    (c) __Effect of Notification.—__ 
+    (c)  __Effect of Notification__  __.—__ 
 
         (1)
 

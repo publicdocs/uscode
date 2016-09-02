@@ -15,7 +15,7 @@
 
 ## § 1155. Aviation penalties
 
-    (a) __Civil Penalty.—__ 
+    (a)  __Civil Penalty__  __.—__ 
 
         (1) A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
 
@@ -27,7 +27,7 @@
 
         (5) A civil penalty under this subsection may be collected by bringing a civil action against the person liable for the penalty. The action shall conform as nearly as practicable to a civil action in admiralty.
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
     A person that knowingly and without authority removes, conceals, or withholds a part of a civil aircraft involved in an accident, or property on the aircraft at the time of the accident, shall be fined under title 18, imprisoned for not more than 10 years, or both.
 

@@ -15,11 +15,11 @@
 
 ## § 24310. Management accountability
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Within 3 years after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, and 2 years thereafter, the Inspector General of the Department of Transportation shall complete an overall assessment of the progress made by Amtrak management and the Department of Transportation in implementing the provisions of that Act.
 
-    (b) __Assessment.—__ 
+    (b)  __Assessment__  __.—__ 
 
     The management assessment undertaken by the Inspector General may include a review of—
 

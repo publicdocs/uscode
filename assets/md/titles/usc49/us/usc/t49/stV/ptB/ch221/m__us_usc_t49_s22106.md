@@ -15,15 +15,15 @@
 
 ## § 22106. Limitations on financial assistance
 
-    (a) __Grants and Loans.—__ 
+    (a)  __Grants and Loans__  __.—__ 
 
     A State shall use financial assistance for projects under this chapter to make a grant or lend money to the owner of rail property, or a rail carrier providing rail transportation, related to a project being assisted.
 
-    (b) __State Use of Repaid Funds and Contingent Interest Recoveries.—__ 
+    (b)  __State Use of Repaid Funds and Contingent Interest Recoveries__  __.—__ 
 
     The State shall place the United States Government’s share of money that is repaid and any contingent interest that is recovered in an interest-bearing account. The repaid money, contingent interest, and any interest thereof  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “thereon”. </sup></sup>  shall be considered to be State funds. The State shall use such funds to make other grants and loans, consistent with the purposes for which financial assistance may be used under subsection (a), as the State considers to be appropriate.
 
-    (c) __Encouraging Participation.—__ 
+    (c)  __Encouraging Participation__  __.—__ 
 
     To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, and local communities in paying the State share of assistance costs.
 

@@ -15,15 +15,15 @@
 
 ## § 5120. International uniformity of standards and requirements
 
-    (a) __Participation in International Forums.—__ 
+    (a)  __Participation in International Forums__  __.—__ 
 
     Subject to guidance and direction from the Secretary of State, the Secretary of Transportation shall participate in international forums that establish or recommend mandatory standards and requirements for transporting hazardous material in international commerce.
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     The Secretary may consult with interested authorities to ensure that, to the extent practicable, regulations the Secretary prescribes under sections 5103(b), 5104, 5110, and 5112 of this title are consistent with standards and requirements related to transporting hazardous material that international authorities adopt.
 
-    (c) __Differences With International Standards and Requirements.—__ 
+    (c)  __Differences With International Standards and Requirements__  __.—__ 
 
     This section—
 

@@ -15,7 +15,7 @@
 
 ## § 14303. Consolidation, merger, and acquisition of control of motor carriers of passengers
 
-    (a) __Approval Required.—__ 
+    (a)  __Approval Required__  __.—__ 
 
     The following transactions involving motor carriers of passengers subject to jurisdiction under subchapter I of chapter 135 may be carried out only with the approval of the Board:
 
@@ -29,7 +29,7 @@
 
         (5) Acquisition of control of a carrier by a person that is not a carrier but that controls any number of carriers.
 
-    (b) __Standard for Approval.—__ 
+    (b)  __Standard for Approval__  __.—__ 
 
     The Board shall approve and authorize a transaction under this section when it finds the transaction is consistent with the public interest. The Board shall consider at least the following:
 
@@ -41,35 +41,35 @@
 
         The Board may impose conditions governing the transaction.
 
-    (c) __Determination of Completeness of Application.—__ 
+    (c)  __Determination of Completeness of Application__  __.—__ 
 
     Within 30 days after the date on which an application is filed under this section, the Board shall either publish a notice of the application in the Federal Register or reject the application if it is incomplete.
 
-    (d) __Comments.—__ 
+    (d)  __Comments__  __.—__ 
 
     Written comments about an application may be filed with the Board within 45 days after the date on which notice of the application is published under subsection (c).
 
-    (e) __Deadlines.—__ 
+    (e)  __Deadlines__  __.—__ 
 
     The Board shall conclude evidentiary proceedings by the 240th day after the date on which notice of the application is published under subsection (c). The Board shall issue a final decision by the 180th day after the conclusion of the evidentiary proceedings. The Board may extend a time period under this subsection; except that the total of all such extensions with respect to any application shall not exceed 90 days.
 
-    (f) __Effect of Approval.—__ 
+    (f)  __Effect of Approval__  __.—__ 
 
     A carrier or corporation participating in or resulting from a transaction approved by the Board under this section, or exempted by the Board from the application of this section pursuant to section 13541, may carry out the transaction, own and operate property, and exercise control or franchises acquired through the transaction without the approval of a State authority. A carrier, corporation, or person participating in the approved or exempted transaction is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the transaction, hold, maintain, and operate property, and exercise control or franchises acquired through the transaction.
 
-    (g) __Limitation on Applicability.—__ 
+    (g)  __Limitation on Applicability__  __.—__ 
 
     This section shall not apply to transactions involving carriers whose aggregate gross operating revenues were not more than $2,000,000 during a period of 12 consecutive months ending not more than 6 months before the date of the agreement of the parties.
 
-    (h) __Applicability of Certain Provisions.—__ 
+    (h)  __Applicability of Certain Provisions__  __.—__ 
 
     When the Board approves and authorizes a transaction under this section in which a person not a carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 acquires control of at least 1 carrier subject to such jurisdiction, the person is subject, as a carrier, to the following provisions of this title that apply to the carrier being acquired by that person, to the extent specified by the Board: sections 504(f), 14121–14123, 14901(a), and 14907.
 
-    (i) __Interim Approval.—__ 
+    (i)  __Interim Approval__  __.—__ 
 
     Pending determination of an application filed under this section, the Board may approve, for a period of not more than 180 days, the operation of the properties sought to be acquired by the person proposing in the application to acquire those properties, when it appears that failure to do so may result in destruction of or injury to those properties or substantially interfere with their future usefulness in providing adequate and continuous service to the public. Transportation provided by a motor carrier under a grant of approval under this subsection is subject to this part.
 
-    (j) __Supplemental Orders.—__ 
+    (j)  __Supplemental Orders__  __.—__ 
 
     When cause exists, the Board may issue appropriate orders supplemental to an order made in a proceeding under this section.
 

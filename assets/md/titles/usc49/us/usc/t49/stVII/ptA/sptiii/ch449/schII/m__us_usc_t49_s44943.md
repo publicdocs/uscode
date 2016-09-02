@@ -15,21 +15,21 @@
 
 ## § 44943. Performance management system
 
-    (a) __Establishing a Fair and Equitable System for Measuring Staff Performance.—__ 
+    (a)  __Establishing a Fair and Equitable System for Measuring Staff Performance__  __.—__ 
 
     The Under Secretary for Transportation Security shall establish a performance management system which strengthens the organization’s effectiveness by providing for the establishment of goals and objectives for managers, employees, and organizational performance consistent with the performance plan.
 
     (b) __Establishing Management Accountability for Meeting Performance Goals.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each year, the Secretary and Under Secretary of Transportation for Security shall enter into an annual performance agreement that shall set forth organizational and individual performance goals for the Under Secretary.
 
-        (2) __Goals.—__ 
+        (2)  __Goals__  __.—__ 
 
         Each year, the Under Secretary and each senior manager who reports to the Under Secretary shall enter into an annual performance agreement that sets forth organization and individual goals for those managers. All other employees hired under the authority of the Under Secretary shall enter into an annual performance agreement that sets forth organization and individual goals for those employees.
 
-    (c) __Performance-Based Service Contracting.—__ 
+    (c)  __Performance-Based Service Contracting__  __.—__ 
 
     To the extent contracts, if any, are used to implement the Aviation Security Act, the Under Secretary for Transportation Security shall, to the extent practical, maximize the use of performance-based service contracts. These contracts should be consistent with guidelines published by the Office of Federal Procurement Policy.
 

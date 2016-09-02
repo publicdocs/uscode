@@ -15,7 +15,7 @@
 
 ## § 49105. Capital improvements, construction, and rehabilitation
 
-    (a) __Sense of Congress.—__ 
+    (a)  __Sense of Congress__  __.—__ 
 
     It is the sense of Congress that the Metropolitan Washington Airports Authority—
 
@@ -23,7 +23,7 @@
 
         (2) to the extent practicable, should cause the improvement, construction, and rehabilitation proposed by the Secretary of Transportation to be completed at Washington Dulles International Airport and Ronald Reagan Washington National Airport within 5 years after March 30, 1988.
 
-    (b) __Secretary’s Assistance.—__ 
+    (b)  __Secretary’s Assistance__  __.—__ 
 
     The Secretary shall assist the 3 airports serving the District of Columbia metropolitan area in planning for operational and capital improvements at those airports and shall accelerate consideration of applications for United States Government financial assistance by whichever of the 3 airports is most in need of increasing airside capacity.
 

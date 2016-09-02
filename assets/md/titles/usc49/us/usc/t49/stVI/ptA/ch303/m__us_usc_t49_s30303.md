@@ -15,15 +15,15 @@
 
 ## § 30303. State participation
 
-    (a) __Notification.—__ 
+    (a)  __Notification__  __.—__ 
 
     A State may become a participating State under this chapter by notifying the Secretary of Transportation of its intention to be bound by [section 30304 of this title][/us/usc/t49/s30304].
 
-    (b) __Withdrawal.—__ 
+    (b)  __Withdrawal__  __.—__ 
 
     A participating State may end its status as a participating State by notifying the Secretary of its withdrawal from participation in the National Driver Register.
 
-    (c) __Form and Way of Notification.—__ 
+    (c)  __Form and Way of Notification__  __.—__ 
 
     Notification by a State under this section shall be made in the form and way the Secretary prescribes by regulation.
 

@@ -15,7 +15,7 @@
 
 ## § 20160. National crossing inventory
 
-    (a) __Initial Reporting of Information About Previously Unreported Crossings.—__ 
+    (a)  __Initial Reporting of Information About Previously Unreported Crossings__  __.—__ 
 
     Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008 or 6 months after a new crossing becomes operational, whichever occurs later, each railroad carrier shall—
 
@@ -35,15 +35,15 @@
 
         (2) A railroad carrier that sells a crossing or any part of a crossing on or after the date of enactment of the Rail Safety Improvement Act of 2008 shall, not later than the date that is 18 months after the date of enactment of that Act or 3 months after the sale, whichever occurs later, or as otherwise specified by the Secretary, report to the Secretary current information, as specified by the Secretary, concerning the change in ownership of the crossing or part of the crossing.
 
-    (c) __Rulemaking Authority.—__ 
+    (c)  __Rulemaking Authority__  __.—__ 
 
     The Secretary shall prescribe the regulations necessary to implement this section. The Secretary may enforce each provision of the Department of Transportation’s statement of the national highway-rail crossing inventory policy, procedures, and instruction for States and railroads that is in effect on the date of enactment of the Rail Safety Improvement Act of 2008, until such provision is superseded by a regulation issued under this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Crossing.—__ 
+        (1)  __Crossing__  __.—__ 
 
         The term “crossing” means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks either at grade or grade-separated, where—
 
@@ -51,7 +51,7 @@
 
             (B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated.
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
 

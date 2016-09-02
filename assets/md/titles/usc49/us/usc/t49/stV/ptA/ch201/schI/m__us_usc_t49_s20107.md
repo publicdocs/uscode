@@ -15,7 +15,7 @@
 
 ## § 20107. Inspection and investigation
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     To carry out this part, the Secretary of Transportation may take actions the Secretary considers necessary, including—
 
@@ -23,13 +23,13 @@
 
         (2) delegate to a public entity or qualified person the inspection, examination, and testing of railroad equipment, facilities, rolling stock, operations, and persons.
 
-    (b) __Entry and Inspection.—__ 
+    (b)  __Entry and Inspection__  __.—__ 
 
     In carrying out this part, an officer, employee, or agent of the Secretary, at reasonable times and in a reasonable way, may enter and inspect railroad equipment, facilities, rolling stock, operations, and relevant records. When requested, the officer, employee, or agent shall display proper credentials. During an inspection, the officer, employee, or agent is an employee of the United States Government under chapter 171 of title 28.
 
     (c) __Railroad Radio Communications.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To carry out the Secretary’s responsibilities under this part and under chapter 51, the Secretary may authorize officers, employees, or agents of the Secretary to conduct, with or without making their presence known, the following activities in circumstances the Secretary finds to be reasonable:
 
@@ -49,11 +49,11 @@
 
             (E) Recording the communication by any means, including writing and tape recording.
 
-        (2) __Accident and incident prevention and investigation.—__ 
+        (2)  __Accident and incident prevention and investigation__  __.—__ 
 
         The Secretary, and officers, employees, and agents of the Department of Transportation authorized by the Secretary, may engage in the activities authorized by paragraph (1) for the purpose of accident and incident prevention and investigation.
 
-        (3) __Use of information.—__ 
+        (3)  __Use of information__  __.—__ 
 
             (A)
 
@@ -71,7 +71,7 @@
 
             (E) Nothing in this subsection shall be construed to impair or otherwise affect the authority of the United States to intercept a communication, and collect, retain, analyze, use, and disseminate the information obtained thereby, under a provision of law other than this subsection.
 
-        (4) __Application with other law.—__ 
+        (4)  __Application with other law__  __.—__ 
 
         Section 705 of the Communications Act of 1934 ([47 U.S.C. 605][/us/usc/t47/s605]) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
 

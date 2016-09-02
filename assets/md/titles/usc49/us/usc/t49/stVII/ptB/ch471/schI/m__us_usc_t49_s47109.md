@@ -15,7 +15,7 @@
 
 ## § 47109. United States Government’s share of project costs
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as otherwise provided in this section, the United States Government’s share of allowable project costs is—
 
@@ -29,7 +29,7 @@
 
         (5) for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (b) __Increased Government Share.—__ 
+    (b)  __Increased Government Share__  __.—__ 
 
     If, under subsection (a) of this section, the Government’s share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government’s share under subsection (a) of this section shall be increased by the lesser of—
 
@@ -41,7 +41,7 @@
 
     (c) __Grandfather Rule.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of any project approved after September 30, 2003, at a small hub airport or nonhub airport that is located in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, the Government’s share of allowable costs of the project shall be increased by the same ratio as the basic share of allowable costs of a project divided into the increased (Public Lands States) share of allowable costs of a project as shown on documents of the Federal Aviation Administration dated August 3, 1979, at airports for which the general share was 80 percent on August 3, 1979. This subsection shall apply only if—
 
@@ -49,19 +49,19 @@
 
             (B) the application under subsection (b), does not increase the Government’s share of allowable costs of the project.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b).
 
-    (d) __Special Rule for Privately Owned Reliever Airports.—__ 
+    (d)  __Special Rule for Privately Owned Reliever Airports__  __.—__ 
 
     If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
 
-    (e) __Special Rule for Transition From Small Hub to Medium Hub Status.—__ 
+    (e)  __Special Rule for Transition From Small Hub to Medium Hub Status__  __.—__ 
 
     If the status of a small hub airport changes to a medium hub airport, the Government’s share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
 
-    (f) __Special Rule for Economically Distressed Communities.—__ 
+    (f)  __Special Rule for Economically Distressed Communities__  __.—__ 
 
     The Government’s share of allowable project costs shall be 95 percent for a project at an airport that—
 

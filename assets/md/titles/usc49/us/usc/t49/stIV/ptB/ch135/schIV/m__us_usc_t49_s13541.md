@@ -15,7 +15,7 @@
 
 ## § 13541. Authority to exempt transportation or services
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In any matter subject to jurisdiction under this part, the Secretary or the Board, as applicable, shall exempt a person, class of persons, or a transaction or service from the application, in whole or in part, of a provision of this part, or use this exemption authority to modify the application of a provision of this part as it applies to such person, class, transaction, or service, when the Secretary or Board finds that the application of that provision—
 
@@ -25,29 +25,29 @@
 
         (3) is in the public interest.
 
-    (b) __Initiation of Proceeding.—__ 
+    (b)  __Initiation of Proceeding__  __.—__ 
 
     The Secretary or Board, as applicable, may, where appropriate, begin a proceeding under this section on the Secretary’s or Board’s own initiative or on application by an interested party.
 
-    (c) __Period of Exemption.—__ 
+    (c)  __Period of Exemption__  __.—__ 
 
     The Secretary or Board, as applicable, may specify the period of time during which an exemption granted under this section is effective.
 
-    (d) __Revocation.—__ 
+    (d)  __Revocation__  __.—__ 
 
     The Secretary or Board, as applicable, may revoke an exemption, to the extent specified, on finding that application of a provision of this part to the person, class, or transportation is necessary to carry out the transportation policy of section 13101.
 
     (e) __Limitations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The exemption authority under this section may not be used to relieve a person from the application of, and compliance with, any law, rule, regulation, standard, or order pertaining to cargo loss and damage, insurance, safety fitness, or activities approved under section 13703 or 14302 or not terminated under section 13907(d)(2).
 
-        (2) __Water carriers.—__ 
+        (2)  __Water carriers__  __.—__ 
 
         The Secretary or Board, as applicable, may not exempt a water carrier from the application of, or compliance with, section 13701 or 13702 for transportation in the non-contiguous domestic trade.
 
-    (f) __Continuation of Certain Existing Exemptions for Water Carriers.—__ 
+    (f)  __Continuation of Certain Existing Exemptions for Water Carriers__  __.—__ 
 
     The Secretary or Board, as applicable, shall not regulate or exercise jurisdiction under this part over the transportation by water carrier in the non-contiguous domestic trade of any cargo or type of cargo or service which was not subject to regulation by, or under the jurisdiction of, either the Federal Maritime Commission or Interstate Commerce Commission under Federal law in effect on November 1, 1995.
 

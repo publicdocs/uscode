@@ -15,7 +15,7 @@
 
 ## § 21302. Chapter 201 accident and incident violations and chapter 203–209 violations
 
-    (a) __Penalty.—__ 
+    (a)  __Penalty__  __.—__ 
 
         (1) Subject to [section 21304 of this title][/us/usc/t49/s21304], a person violating a regulation prescribed or order issued under chapter 201 of this title related to accident and incident reporting or investigation, or violating chapters 203–209 of this title or a regulation or requirement prescribed or order issued under chapters 203–209, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. A separate violation occurs for each day the violation continues.
 
@@ -33,7 +33,7 @@
 
         (4) If the Secretary does not compromise the amount of the civil penalty, the Secretary shall refer the matter to the Attorney General for collection.
 
-    (b) __Civil Actions To Collect.—__ 
+    (b)  __Civil Actions To Collect__  __.—__ 
 
     The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section. The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
 

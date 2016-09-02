@@ -15,11 +15,11 @@
 
 ## § 49112. Separability and effect of judicial order
 
-    (a) __Separability.—__ 
+    (a)  __Separability__  __.—__ 
 
     If any provision of this chapter, or the application of a provision of this chapter to a person or circumstance, is held invalid, the remainder of this chapter and the application of the provision to other persons or circumstances is not affected.
 
-    (b) __Effect of Judicial Order.—__ 
+    (b)  __Effect of Judicial Order__  __.—__ 
 
         (1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of [Public Law 104–264][/us/pl/104/264]; [110 Stat. 3274][/us/stat/110/3274]) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title from the day after the day the order is issued.
 

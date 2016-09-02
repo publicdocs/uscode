@@ -17,19 +17,19 @@
 
     (a) __Civil Actions.—__ 
 
-        (1) __Civil actions to enforce this chapter.—__ 
+        (1)  __Civil actions to enforce this chapter__  __.—__ 
 
         At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122. The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.
 
-        (2) __Civil actions to require compliance with subpoenas or allow for inspections.—__ 
+        (2)  __Civil actions to require compliance with subpoenas or allow for inspections__  __.—__ 
 
         At the request of the Secretary, the Attorney General may bring a civil action in a district court of the United States to require a person to comply immediately with a subpena or to allow an officer, employee, or agent authorized by the Secretary to enter the premises, and inspect the records and property, of the person to decide whether the person is complying with this chapter. The action may be brought in the judicial district in which the defendant resides, is found, or does business. The court may punish a failure to obey the order as a contempt of court.
 
-    (b) __Jury Trial Demand.—__ 
+    (b)  __Jury Trial Demand__  __.—__ 
 
     In a trial for criminal contempt for violating an injunction issued under this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
-    (c) __Effect on Tort Liability.—__ 
+    (c)  __Effect on Tort Liability__  __.—__ 
 
     This chapter does not affect the tort liability of any person.
 

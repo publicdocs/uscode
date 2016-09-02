@@ -15,15 +15,15 @@
 
 ## § 46105. Regulations and orders
 
-    (a) __Effectiveness of Orders.—__ 
+    (a)  __Effectiveness of Orders__  __.—__ 
 
     Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary, Under Secretary, or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary, Under Secretary, or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary, Under Secretary, or Administrator decides.
 
-    (b) __Contents and Service of Orders.—__ 
+    (b)  __Contents and Service of Orders__  __.—__ 
 
     An order of the Secretary, Under Secretary, or Administrator shall include the findings of fact on which the order is based and shall be served on the parties to the proceeding and the persons affected by the order.
 
-    (c) __Emergencies.—__ 
+    (c)  __Emergencies__  __.—__ 
 
     When the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action, the Administrator, on the initiative of the Administrator or on complaint, may prescribe regulations and issue orders immediately to meet the emergency, with or without notice and without regard to this part and subchapter II of chapter 5 of title 5. The Administrator shall begin a proceeding immediately about an emergency under this subsection and give preference, when practicable, to the proceeding.
 

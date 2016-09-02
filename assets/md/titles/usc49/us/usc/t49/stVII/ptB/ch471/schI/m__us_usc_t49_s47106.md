@@ -15,7 +15,7 @@
 
 ## § 47106. Project grant application approval conditioned on satisfaction of project requirements
 
-    (a) __Project Grant Application Approval.—__ 
+    (a)  __Project Grant Application Approval__  __.—__ 
 
     The Secretary of Transportation may approve an application under this subchapter for a project grant only if the Secretary is satisfied that—
 
@@ -43,7 +43,7 @@
 
             (E) the potential for cost savings or the generation of revenue.
 
-    (b) __Airport Development Project Grant Application Approval.—__ 
+    (b)  __Airport Development Project Grant Application Approval__  __.—__ 
 
     The Secretary may approve an application under this subchapter for an airport development project grant for an airport only if the Secretary is satisfied that—
 
@@ -53,7 +53,7 @@
 
         (3) the application provides touchdown zone and centerline runway lighting, high intensity runway lighting, or land necessary for installing approach light systems that the Secretary, considering the category of the airport and the kind and volume of traffic using it, decides is necessary for safe and efficient use of the airport by aircraft.
 
-    (c) __Environmental Requirements.—__ 
+    (c)  __Environmental Requirements__  __.—__ 
 
         (1)
 
@@ -83,7 +83,7 @@
 
         (4) The Secretary may make a finding under paragraph (1)(B) of this subsection only after completely reviewing the matter. The review and finding must be a matter of public record.
 
-    (d) __Withholding Approval.—__ 
+    (d)  __Withholding Approval__  __.—__ 
 
         (1)
 
@@ -103,7 +103,7 @@
 
         (3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
 
-    (e) __Reports Relating to Construction of Certain New Hub Airports.—__ 
+    (e)  __Reports Relating to Construction of Certain New Hub Airports__  __.—__ 
 
     At least 90 days prior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
 
@@ -115,19 +115,19 @@
 
     (f) __Competition Plans.—__ 
 
-        (1) __Prohibition.—__ 
+        (1)  __Prohibition__  __.—__ 
 
         Beginning in fiscal year 2001, no passenger facility charge may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, and whether the airport intends to build or acquire gates that would be used as common facilities.
 
-        (3) __Special rule for fiscal year 2002.—__ 
+        (3)  __Special rule for fiscal year 2002__  __.—__ 
 
         This subsection does not apply to any passenger facility fee approved, or grant made, in fiscal year 2002 if the fee or grant is to be used to improve security at a covered airport.
 
-        (4) __Covered airport defined.—__ 
+        (4)  __Covered airport defined__  __.—__ 
 
         In this subsection, the term “covered airport” means a commercial service airport—
 
@@ -135,7 +135,7 @@
 
             (B) at which one or two air carriers control more than 50 percent of the passenger boardings.
 
-    (g) __Consultation With Secretary of Homeland Security.—__ 
+    (g)  __Consultation With Secretary of Homeland Security__  __.—__ 
 
     The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
@@ -431,11 +431,11 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
 [Pub. L. 106–181, title III, § 310][/us/pl/106/181/s310], Apr. 5, 2000, [114 Stat. 128][/us/stat/114/128], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall conduct a study of Federal environmental requirements related to the planning and approval of airport improvement projects.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     In conducting the study, the Secretary, at a minimum, shall assess—
 
@@ -447,11 +447,11 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, § 519(b) (related to applicati
 
 >         “(4) the time line for conducting such environmental reviews.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of other appropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects.”
 

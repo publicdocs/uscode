@@ -15,11 +15,11 @@
 
 ## § 30105. Restriction on lobbying activities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     No funds appropriated to the Secretary for the National Highway Traffic Safety Administration shall be available for any activity specifically designed to urge a State or local legislator to favor or oppose the adoption of any specific legislative proposal pending before any State or local legislative body.
 
-    (b) __Appearance as Witness Not Barred.—__ 
+    (b)  __Appearance as Witness Not Barred__  __.—__ 
 
     Subsection (a) does not prohibit officers or employees of the United States from testifying before any State or local legislative body in response to the invitation of any member of that legislative body or a State executive office.
 

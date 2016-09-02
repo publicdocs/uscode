@@ -15,11 +15,11 @@
 
 ## § 44513. Regional centers of air transportation excellence
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may make grants to institutions of higher education to establish and operate regional centers of air transportation excellence. The locations shall be distributed in a geographically fair way.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
         (1)
 
@@ -45,11 +45,11 @@
 
         (2) In conducting research described in paragraph (1)(A) of this subsection, each center may make contracts with nonprofit research organizations and other appropriate persons.
 
-    (c) __Applications.—__ 
+    (c)  __Applications__  __.—__ 
 
     An institution of higher education interested in receiving a grant under this section may submit an application to the Administrator. The application must be in the form and contain the information that the Administrator requires by regulation.
 
-    (d) __Selection Criteria.—__ 
+    (d)  __Selection Criteria__  __.—__ 
 
     The Administrator shall select recipients of grants under this section on the basis of the following criteria:
 
@@ -65,19 +65,19 @@
 
         (6) the projects the applicant proposes to carry out under the grant.
 
-    (e) __Expenditure Agreements.—__ 
+    (e)  __Expenditure Agreements__  __.—__ 
 
     A grant may be made under this section in a fiscal year only if the recipient makes an agreement with the Administrator that the Administrator requires to ensure that the recipient will maintain its total expenditures from all other sources for establishing and operating the center and related research activities at a level at least equal to the average level of those expenditures in the 2 fiscal years of the recipient occurring immediately before November 5, 1990.
 
-    (f) __Government’s Share of Costs.—__ 
+    (f)  __Government’s Share of Costs__  __.—__ 
 
     The United States Government’s share of establishing and operating a center and all related research activities that grant recipients carry out shall not exceed 50 percent of the costs, except that the Administrator may increase such share to a maximum of 75 percent of the costs for a fiscal year if the Administrator determines that a center would be unable to carry out the authorized activities described in this section without additional funds.
 
-    (g) __Allocating Amounts.—__ 
+    (g)  __Allocating Amounts__  __.—__ 
 
     The Administrator shall allocate amounts made available to carry out this section in a geographically fair way.
 
-    (h) __Annual Report.—__ 
+    (h)  __Annual Report__  __.—__ 
 
     The Administrator shall transmit annually to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at the time of the President’s budget request a report that lists—
 
@@ -151,7 +151,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(i); added Nov. 5, 1990, 
 
 [Pub. L. 112–95, title IX, § 908][/us/pl/112/95/s908], Feb. 14, 2012, [126 Stat. 140][/us/stat/126/140], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Using amounts made available under [section 48102(a) of title 49][/us/usc/t49/s48102/a], United States Code, the Administrator \[of the Federal Aviation Administration\] may establish a center of excellence to conduct research on—
 
@@ -159,7 +159,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(i); added Nov. 5, 1990, 
 
 >         “(2) any other aviation human resource issue pertinent to developing and maintaining a safe and efficient air transportation system.
 
->     “(b) __Activities.—__ 
+>     “(b)  __Activities__  __.—__ 
 
 >     Activities conducted under this section may include the following:
 

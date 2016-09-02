@@ -15,11 +15,11 @@
 
 ## § 5502. Intermodal Transportation Advisory Board
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     The Intermodal Transportation Advisory Board is a board in the Office of the Secretary of Transportation.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The Board consists of the Secretary, who serves as chairman, and the Administrator, or the Administrator’s designee, of—
 
@@ -35,7 +35,7 @@
 
         (6) the Federal Motor Carrier Safety Administration.
 
-    (c) __Duties and Powers.—__ 
+    (c)  __Duties and Powers__  __.—__ 
 
     The Board shall provide recommendations for carrying out the duties of the Secretary described in [section 301(3) of this title][/us/usc/t49/s301/3].
 

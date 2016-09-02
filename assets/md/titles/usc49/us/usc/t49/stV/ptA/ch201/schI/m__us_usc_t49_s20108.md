@@ -15,15 +15,15 @@
 
 ## § 20108. Research, development, testing, and training
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall carry out, as necessary, research, development, testing, evaluation, and training for every area of railroad safety.
 
-    (b) __Contracts.—__ 
+    (b)  __Contracts__  __.—__ 
 
     To carry out this part, the Secretary may make contracts for, and carry out, research, development, testing, evaluation, and training (particularly for those areas of railroad safety found to need prompt attention).
 
-    (c) __Amounts From Non-Government Sources for Training Safety Employees.—__ 
+    (c)  __Amounts From Non-Government Sources for Training Safety Employees__  __.—__ 
 
     The Secretary may request, receive, and expend amounts received from non-United States Government sources for expenses incurred in training safety employees of private industry, State and local authorities, or other public authorities, except State rail safety inspectors participating in training under [section 20105 of this title][/us/usc/t49/s20105].
 

@@ -15,7 +15,7 @@
 
 ## § 46502. Aircraft piracy
 
-    (a) __In Special Aircraft Jurisdiction.—__ 
+    (a)  __In Special Aircraft Jurisdiction__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) notwithstanding [section 3559(b) of title 18][/us/usc/t18/s3559/b], if the death of another individual results from the commission or attempt, shall be put to death or imprisoned for life.
 
-    (b) __Outside Special Aircraft Jurisdiction.—__ 
+    (b)  __Outside Special Aircraft Jurisdiction__  __.—__ 
 
         (1)
 
@@ -185,17 +185,17 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(n)(1), (3); added Aug. 5
 
 [Pub. L. 109–177, title II, § 211][/us/pl/109/177/s211], Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Section 60003 of the Violent Crime Control and Law Enforcement Act of 1994 ([Public Law 103–322][/us/pl/103/322]), is amended, as of the time of its enactment \[Sept. 13, 1994\], by adding at the end the following:    “ ‘(c) \[Omitted, see below.\]’.
 
->     “(b) __Severability Clause.—__ 
+>     “(b)  __Severability Clause__  __.—__ 
 
 >     If any provision of section 60003(b)(2) of the Violent Crime and Law Enforcement Act of 1994 ([Public Law 103–322][/us/pl/103/322]) \[repealed [section 46503 of this title][/us/usc/t49/s46503]\], or the application thereof to any person or any circumstance is held invalid, the remainder of such section and the application of such section to other persons or circumstances shall not be affected thereby.”
 
 [Pub. L. 103–322, title VI, § 60003(c)][/us/pl/103/322/s60003/c], as added by [Pub. L. 109–177, title II, § 211(a)][/us/pl/109/177/s211/a], Mar. 9, 2006, [120 Stat. 230][/us/stat/120/230], provided that:
 
->     “(c) __Death Penalty Procedures for Certain Previous Aircraft Piracy Violations.—__ 
+>     “(c)  __Death Penalty Procedures for Certain Previous Aircraft Piracy Violations__  __.—__ 
 
 >     An individual convicted of violating [section 46502 of title 49][/us/usc/t49/s46502], United States Code, or its predecessor, may be sentenced to death in accordance with the procedures established in chapter 228 of title 18, United States Code, if for any offense committed before the enactment of the Violent Crime Control and Law Enforcement Act of 1994 ([Public Law 103–322][/us/pl/103/322]) \[Sept. 13, 1994\], but after the enactment of the Antihijacking Act of 1974 ([Public Law 93–366][/us/pl/93/366]) \[Aug. 5, 1974\], it is determined by the finder of fact, before consideration of the factors set forth in sections 3591(a)(2) and 3592(a) and (c) of title 18, United States Code, that one or more of the factors set forth in former [section 46503(c)(2) of title 49][/us/usc/t49/s46503/c/2], United States Code, or its predecessor, has been proven by the Government to exist, beyond a reasonable doubt, and that none of the factors set forth in former [section 46503(c)(1) of title 49][/us/usc/t49/s46503/c/1], United States Code, or its predecessor, has been proven by the defendant to exist, by a preponderance of the information. The meaning of the term ‘especially heinous, cruel, or depraved’, as used in the factor set forth in former [section 46503(c)(2)(B)(iv) of title 49][/us/usc/t49/s46503/c/2/B/iv], United States Code, or its predecessor, shall be narrowed by adding the limiting language ‘in that it involved torture or serious physical abuse to the victim’, and shall be construed as when that term is used in [section 3592(c)(6) of title 18][/us/usc/t18/s3592/c/6], United States Code.”
 

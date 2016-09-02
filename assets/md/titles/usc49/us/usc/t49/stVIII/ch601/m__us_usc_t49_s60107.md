@@ -15,7 +15,7 @@
 
 ## § 60107. State pipeline safety grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 80 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
 
@@ -23,15 +23,15 @@
 
         (2) to act as an agent of the Secretary on interstate gas pipeline facilities or interstate hazardous liquid pipeline facilities.
 
-    (b) __Payments.—__ 
+    (b)  __Payments__  __.—__ 
 
     After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for the 3 fiscal years prior to the fiscal year in which the Secretary makes the payment, except when the Secretary waives this requirement. For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence.
 
-    (c) __Apportionment and Method of Payment.—__ 
+    (c)  __Apportionment and Method of Payment__  __.—__ 
 
     The Secretary shall apportion the amount appropriated to carry out this section among the States. A payment may be made under this section in installments, in advance, or on a reimbursable basis.
 
-    (d) __Additional Authority and Considerations.—__ 
+    (d)  __Additional Authority and Considerations__  __.—__ 
 
         (1)
 

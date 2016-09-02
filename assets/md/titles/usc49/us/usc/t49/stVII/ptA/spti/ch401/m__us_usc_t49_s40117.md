@@ -15,19 +15,19 @@
 
 ## § 40117. Passenger facility charges
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Airport, commercial service airport, and public agency.—__ 
+        (1)  __Airport, commercial service airport, and public agency__  __.—__ 
 
         The terms “airport”, “commercial service airport”, and “public agency” have the meaning those terms have under section 47102.
 
-        (2) __Eligible agency.—__ 
+        (2)  __Eligible agency__  __.—__ 
 
         The term “eligible agency” means a public agency that controls a commercial service airport.
 
-        (3) __Eligible airport-related project.—__ 
+        (3)  __Eligible airport-related project__  __.—__ 
 
         The term “eligible airport-related project” means any of the following projects:
 
@@ -45,19 +45,19 @@
 
             (G) A project for converting vehicles and ground support equipment used at a commercial service airport to low-emission technology (as defined in section 47102) or to use cleaner burning conventional fuels, retrofitting of any such vehicles or equipment that are powered by a diesel or gasoline engine with emission control technologies certified or verified by the Environmental Protection Agency to reduce emissions, or acquiring for use at a commercial service airport vehicles and ground support equipment that include low-emission technology or use cleaner burning fuels if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act ([42 U.S.C. 7501(2)][/us/usc/t42/s7501/2])) or a maintenance area referred to in section 175A of such Act ([42 U.S.C. 7505a][/us/usc/t42/s7505a]) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
-        (4) __Ground support equipment.—__ 
+        (4)  __Ground support equipment__  __.—__ 
 
         The term “ground support equipment” means service and maintenance equipment used at an airport to support aeronautical operations and related activities.
 
-        (5) __Passenger facility charge.—__ 
+        (5)  __Passenger facility charge__  __.—__ 
 
         The term “passenger facility charge” means a charge or charge  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “fee”. </sup></sup>  imposed under this section.
 
-        (6) __Passenger facility revenue.—__ 
+        (6)  __Passenger facility revenue__  __.—__ 
 
         The term “passenger facility revenue” means revenue derived from a passenger facility charge.
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
         (1) The Secretary of Transportation may authorize under this section an eligible agency to impose a passenger facility charge of $1, $2, or $3 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project, to be carried out in connection with the airport or any other airport the agency controls.
 
@@ -73,17 +73,17 @@
 
             (B) that the project cannot be paid for from funds reasonably expected to be available for the programs referred to in section 48103.
 
-        (5) __Maximum cost for certain low-emission technology projects.—__ 
+        (5)  __Maximum cost for certain low-emission technology projects__  __.—__ 
 
         The maximum cost that may be financed by imposition of a passenger facility charge under this section for a project described in subsection (a)(3)(G) with respect to a vehicle or ground support equipment may not exceed the incremental amount of the project cost that is greater than the cost of acquiring a vehicle or equipment that is not low-emission and would be used for the same purpose, or the cost of low-emission retrofitting, as determined by the Secretary.
 
-        (6) __Debt service for certain projects.—__ 
+        (6)  __Debt service for certain projects__  __.—__ 
 
         In addition to the uses specified in paragraphs (1) and (4), the Secretary may authorize a passenger facility charge imposed under paragraph (1) or (4) to be used for making payments for debt service on indebtedness incurred to carry out at the airport a project that is not an eligible airport-related project if the Secretary determines that such use is necessary due to the financial need of the airport.
 
         (7) __Noise mitigation for certain schools.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility charge imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at which such building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
 
@@ -97,11 +97,11 @@
 
                 (v) the project otherwise meets the requirements of this section for authorization of a passenger facility charge.
 
-            (B) __Eligible project costs.—__ 
+            (B)  __Eligible project costs__  __.—__ 
 
             In subparagraph (A)(iv), the term “eligible project costs” means the difference between the cost of standard school construction and the cost of construction necessary to mitigate classroom noise to the standards of the Federal Aviation Administration.
 
-    (c) __Applications.—__ 
+    (c)  __Applications__  __.—__ 
 
         (1) An eligible agency must submit to the Secretary an application for authority to impose a passenger facility charge. The application shall contain information and be in the form that the Secretary may require by regulation.
 
@@ -141,7 +141,7 @@
 
         (4) After receiving an application, the Secretary may provide notice and an opportunity to air carriers, foreign air carriers, and other interested persons to comment on the application. The Secretary shall make a final decision on the application not later than 120 days after receiving it.
 
-    (d) __Limitations on Approving Applications.—__ 
+    (d)  __Limitations on Approving Applications__  __.—__ 
 
     The Secretary may approve an application that an eligible agency has submitted under subsection (c) of this section to finance a specific project only if the Secretary finds, based on the application, that—
 
@@ -161,7 +161,7 @@
 
         (4) in the case of an application to impose a charge of more than $3.00 for an eligible surface transportation or terminal project, the agency has made adequate provision for financing the airside needs of the airport, including runways, taxiways, aprons, and aircraft gates.
 
-    (e) __Limitations on Imposing Charges.—__ 
+    (e)  __Limitations on Imposing Charges__  __.—__ 
 
         (1)
 
@@ -187,7 +187,7 @@
 
             (F) enplaning at an airport if the passenger did not pay for the air transportation which resulted in such enplanement due to charter arrangements and payment by the Department of Defense.
 
-    (f) __Limitations on Contracts, Leases, and Use Agreements.—__ 
+    (f)  __Limitations on Contracts, Leases, and Use Agreements__  __.—__ 
 
         (1) A contract between an air carrier or foreign air carrier and an eligible agency made at any time may not impair the authority of the agency to impose a passenger facility charge or to use the passenger facility revenue as provided in this section.
 
@@ -195,7 +195,7 @@
 
         (3) A lease or use agreement of an air carrier or foreign air carrier related to a project whose construction or expansion was financed with a passenger facility charge may not restrict the eligible agency from financing, developing, or assigning new capacity at the airport with passenger facility revenue.
 
-    (g) __Treatment of Revenue.—__ 
+    (g)  __Treatment of Revenue__  __.—__ 
 
         (1) Passenger facility revenue is not airport revenue for purposes of establishing a price under a contract between an eligible agency and an air carrier or foreign air carrier.
 
@@ -205,7 +205,7 @@
 
         (4) Passenger facility revenues that are held by an air carrier or an agent of the carrier after collection of a passenger facility charge constitute a trust fund that is held by the air carrier or agent for the beneficial interest of the eligible agency imposing the charge. Such carrier or agent holds neither legal nor equitable interest in the passenger facility revenues except for any handling fee or retention of interest collected on unremitted proceeds as may be allowed by the Secretary.
 
-    (h) __Compliance.—__ 
+    (h)  __Compliance__  __.—__ 
 
         (1) As necessary to ensure compliance with this section, the Secretary shall prescribe regulations requiring recordkeeping and auditing of accounts maintained by an air carrier or foreign air carrier and its agent collecting a passenger facility charge and by the eligible agency imposing the charge.
 
@@ -213,7 +213,7 @@
 
         (3) The Secretary may set off amounts necessary to ensure compliance with this section against amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility charge is excessive or that passenger facility revenue is not being used as provided in this section.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations necessary to carry out this section. The regulations—
 
@@ -245,31 +245,31 @@
 
                 (ii) in a community which has a population of less than 10,000 and is not connected by a land highway or vehicular way to the land-connected National Highway System within a State.
 
-    (j) __Limitation on Certain Actions.—__ 
+    (j)  __Limitation on Certain Actions__  __.—__ 
 
     A State, political subdivision of a State, or authority of a State or political subdivision that is not the eligible agency may not tax, regulate, or prohibit or otherwise attempt to control in any manner, the imposition or collection of a passenger facility charge or the use of the revenue from the passenger facility charge.
 
     (k) __Competition Plans.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Beginning in fiscal year 2001, no eligible agency may impose a passenger facility charge under this section with respect to a covered airport (as such term is defined in section 47106(f)) unless the agency has submitted to the Secretary a written competition plan in accordance with such section. This subsection does not apply to passenger facility charges in effect before the date of the enactment of this subsection.
 
-        (2) __Secretary shall ensure implementation and compliance.—__ 
+        (2)  __Secretary shall ensure implementation and compliance__  __.—__ 
 
         The Secretary shall review any plan submitted under paragraph (1) to ensure that it meets the requirements of this section, and shall review its implementation from time-to-time to ensure that each covered airport successfully implements its plan.
 
     (l) __Pilot Program for Passenger Facility Charge Authorizations at Nonhub Airports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish a pilot program to test alternative procedures for authorizing eligible agencies for nonhub airports to impose passenger facility charges. An eligible agency may impose in accordance with the provisions of this subsection a passenger facility charge under this section. For purposes of the pilot program, the procedures in this subsection shall apply instead of the procedures otherwise provided in this section.
 
-        (2) __Notice and opportunity for consultation.—__ 
+        (2)  __Notice and opportunity for consultation__  __.—__ 
 
         The eligible agency must provide reasonable notice and an opportunity for consultation to air carriers and foreign air carriers in accordance with subsection (c)(2) and must provide reasonable notice and opportunity for public comment in accordance with subsection (c)(3).
 
-        (3) __Notice of intention.—__ 
+        (3)  __Notice of intention__  __.—__ 
 
         The eligible agency must submit to the Secretary a notice of intention to impose a passenger facility charge under this subsection. The notice shall include—
 
@@ -279,49 +279,49 @@
 
             (C) the level of the passenger facility charge that is proposed.
 
-        (4) __Acknowledgement of receipt and indication of objection.—__ 
+        (4)  __Acknowledgement of receipt and indication of objection__  __.—__ 
 
         The Secretary shall acknowledge receipt of the notice and indicate any objection to the imposition of a passenger facility charge under this subsection for any project identified in the notice within 30 days after receipt of the eligible agency’s notice.
 
-        (5) __Authority to impose charge.—__ 
+        (5)  __Authority to impose charge__  __.—__ 
 
         Unless the Secretary objects within 30 days after receipt of the eligible agency’s notice, the eligible agency is authorized to impose a passenger facility charge in accordance with the terms of its notice under this subsection.
 
-        (6) __Regulations.—__ 
+        (6)  __Regulations__  __.—__ 
 
         Not later than 180 days after the date of enactment of this subsection, the Secretary shall propose such regulations as may be necessary to carry out this subsection.
 
-        (7) __Acknowledgement not an order.—__ 
+        (7)  __Acknowledgement not an order__  __.—__ 
 
         An acknowledgement issued under paragraph (4) shall not be considered an order issued by the Secretary for purposes of section 46110.
 
     (m) __Financial Management of Charges.—__ 
 
-        (1) __Handling of charges.—__ 
+        (1)  __Handling of charges__  __.—__ 
 
         A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for charges collected under this section by such carrier or any of its agents for the benefit of the eligible agencies entitled to such revenue.
 
-        (2) __Trust fund status.—__ 
+        (2)  __Trust fund status__  __.—__ 
 
         If a covered air carrier or its agent fails to segregate passenger facility revenue in violation of the subsection, the trust fund status of such revenue shall not be defeated by an inability of any party to identify and trace the precise funds in the accounts of the air carrier.
 
-        (3) __Prohibition.—__ 
+        (3)  __Prohibition__  __.—__ 
 
         A covered air carrier and its agents may not grant to any third party any security or other interest in passenger facility revenue.
 
-        (4) __Compensation to eligible entities.—__ 
+        (4)  __Compensation to eligible entities__  __.—__ 
 
         A covered air carrier that fails to comply with any requirement of this subsection, or otherwise unnecessarily causes an eligible entity to expend funds, through litigation or otherwise, to recover or retain payment of passenger facility revenue to which the eligible entity is otherwise entitled shall be required to compensate the eligible agency for the costs so incurred.
 
-        (5) __Interest on amounts.—__ 
+        (5)  __Interest on amounts__  __.—__ 
 
         A covered air carrier that collects passenger facility charges is entitled to receive the interest on passenger facility charge accounts if the accounts are established and maintained in compliance with this subsection.
 
-        (6) __Existing regulations.—__ 
+        (6)  __Existing regulations__  __.—__ 
 
         The provisions of section 158.49 of title 14, Code of Federal Regulations, that permit the commingling of passenger facility charges with other air carrier revenue shall not apply to a covered air carrier.
 
-        (7) __Covered air carrier defined.—__ 
+        (7)  __Covered air carrier defined__  __.—__ 
 
         In this section, the term “covered air carrier” means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 

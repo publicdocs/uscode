@@ -15,11 +15,11 @@
 
 ## § 44712. Emergency locator transmitters
 
-    (a) __Installation.—__ 
+    (a)  __Installation__  __.—__ 
 
     An emergency locator transmitter must be installed on a fixed-wing powered civil aircraft for use in air commerce.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     Prior to January 1, 2002, subsection (a) does not apply to—
 
@@ -37,9 +37,9 @@
 
         (7) aircraft equipped to carry only one individual.
 
-    (c) __Nonapplication Beginning on__  __January 1, 2002__  __.—__ 
+    (c)  __Nonapplication Beginning on January__  __1, 2002.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), on and after January 1, 2002, subsection (a) does not apply to—
 
@@ -59,7 +59,7 @@
 
             (H) aircraft equipped to carry only one individual.
 
-        (2) __Delay in implementation.—__ 
+        (2)  __Delay in implementation__  __.—__ 
 
         The Administrator of the Federal Aviation Administration may continue to implement subsection (b) rather than subsection (c) for a period not to exceed 2 years after January 1, 2002, if the Administrator finds such action is necessary to promote—
 
@@ -67,11 +67,11 @@
 
             (B) other safety objectives.
 
-    (d) __Compliance.—__ 
+    (d)  __Compliance__  __.—__ 
 
     An aircraft meets the requirement of subsection (a) if it is equipped with an emergency locator transmitter that transmits on the 121.5/243 megahertz frequency or the 406 megahertz frequency or with other equipment approved by the Secretary for meeting the requirement of subsection (a).
 
-    (e) __Removal.—__ 
+    (e)  __Removal__  __.—__ 
 
     The Administrator shall prescribe regulations specifying the conditions under which an aircraft subject to subsection (a) of this section may operate when its emergency locator transmitter has been removed for inspection, repair, alteration, or replacement.
 
@@ -197,21 +197,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 601(d)(3); added Nov. 9, 197
 
 [Pub. L. 112–95, title III, § 347][/us/pl/112/95/s347], Feb. 14, 2012, [126 Stat. 82][/us/stat/126/82], provided that:
 
->     “(a) __Inspection.—__ 
+>     “(a)  __Inspection__  __.—__ 
 
 >     As part of the annual inspection of general aviation aircraft, the Administrator of the Federal Aviation Administration shall require a detailed inspection of each emergency locator transmitter (in this section referred to as an ‘ELT’) installed in general aviation aircraft operating in the United States to ensure that the ELT is mounted and retained in accordance with the manufacturer’s specifications.
 
 >     “(b) __Mounting and Retention.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall determine if the ELT mounting requirements and retention tests specified by Technical Standard Orders C91a and C126 are adequate to assess retention capabilities in ELT designs.
 
->         “(2) __Revision.—__ 
+>         “(2)  __Revision__  __.—__ 
 
 >         Based on the determination under paragraph (1), the Administrator shall make any necessary revisions to the requirements and retention tests referred to in paragraph (1) to ensure that ELTs are properly retained in the event of an aircraft accident.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Upon the completion of any revisions under subsection (b)(2), the Administrator shall submit a report on the implementation of this section to—
 

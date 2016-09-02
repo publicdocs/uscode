@@ -15,7 +15,7 @@
 
 ## § 5563. Conversion of certain rail passenger terminals
 
-    (a) __Authority To Provide Assistance.—__ 
+    (a)  __Authority To Provide Assistance__  __.—__ 
 
     The Secretary of Transportation may provide financial assistance to convert a rail passenger terminal to an intermodal transportation terminal under [section 5562(a)(1) of this title][/us/usc/t49/s5562/a/1] only if—
 
@@ -45,11 +45,11 @@
 
         (5) the terminal and the conversion project meet other criteria prescribed by the Secretary of Transportation after consultation with the Council and Chairman.
 
-    (b) __Architectural Integrity.—__ 
+    (b)  __Architectural Integrity__  __.—__ 
 
     The Secretary of Transportation must employ consultants on whether the architectural integrity of the rail passenger terminal will be preserved under subsection (a)(3) of this section. The Secretary may decide that the architectural integrity will be preserved only if the consultants concur. The Council and Chairman shall recommend consultants to be employed by the Secretary. The consultants also may make recommendations referred to in subsection (a)(4) of this section.
 
-    (c) __Government’s Share of Costs.—__ 
+    (c)  __Government’s Share of Costs__  __.—__ 
 
     The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of converting a rail passenger terminal into an intermodal transportation terminal.
 

@@ -15,7 +15,7 @@
 
 ## § 22105. Sharing project costs
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) A State may pay more than its required percentage share of the costs of a project under this chapter. When a State, or a person acting for a State, pays more than the State share of the costs of its projects during a fiscal year, the excess amount shall be applied to the State share for the costs of the State projects for later fiscal years.
 
-    (b) __Agreements To Combine Amounts.—__ 
+    (b)  __Agreements To Combine Amounts__  __.—__ 
 
     States may agree to combine any part of the amounts made available under this chapter to carry out a project that is eligible for assistance under this chapter when—
 

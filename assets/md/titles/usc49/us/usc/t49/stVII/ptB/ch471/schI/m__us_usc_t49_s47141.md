@@ -15,7 +15,7 @@
 
 ## § 47141. Compatible land use planning and projects by State and local governments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Transportation may make grants, from amounts set aside under section 47117(e)(1)(A), to States and units of local government for development and implementation of land use compatibility plans and implementation of land use compatibility projects resulting from those plans for the purposes of making the use of land areas around large hub airports and medium hub airports compatible with aircraft operations. The Secretary may make a grant under this section for a land use compatibility plan or a project resulting from such plan only if—
 
@@ -23,7 +23,7 @@
 
         (2) the land use plan or project meets the requirements of this section.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
     In order to receive a grant under this section, a State or unit of local government must—
 
@@ -33,7 +33,7 @@
 
         (3) provide written assurance to the Secretary that it will achieve, to the maximum extent possible, compatible land uses consistent with Federal land use compatibility criteria under section 47502(3) and that those compatible land uses will be maintained.
 
-    (c) __Assurances.—__ 
+    (c)  __Assurances__  __.—__ 
 
     The Secretary shall require a State or unit of local government to which a grant may be made under this section for a land use plan or a project resulting from such plan to provide—
 
@@ -53,15 +53,15 @@
 
         (2) such other assurances as the Secretary determines to be necessary to carry out this section.
 
-    (d) __Guidelines.—__ 
+    (d)  __Guidelines__  __.—__ 
 
     The Secretary shall establish guidelines to administer this section in accordance with the purposes and conditions described in this section. The Secretary may require a State or unit of local government to which a grant may be made under this section to provide progress reports and other information as the Secretary determines to be necessary to carry out this section.
 
-    (e) __Eligible Projects.—__ 
+    (e)  __Eligible Projects__  __.—__ 
 
     The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurances required by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
 
-    (f) __Sunset.—__ 
+    (f)  __Sunset__  __.—__ 
 
     This section shall not be in effect after September 30, 2015.
 
@@ -149,11 +149,11 @@
 
 [Pub. L. 112–95, title VIII, § 822][/us/pl/112/95/s822], Feb. 14, 2012, [126 Stat. 128][/us/stat/126/128], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish a pilot program under which operators of up to 4 public-use airports may receive grants for activities related to the redevelopment of airport properties in accordance with the requirements of this section.
 
->     “(b) __Grants.—__ 
+>     “(b)  __Grants__  __.—__ 
 
 >     Under the pilot program, the Administrator may make a grant in a fiscal year, from funds made available for grants under [section 47117(e)(1)(A) of title 49][/us/usc/t49/s47117/e/1/A], United States Code, to an airport operator for a project—
 
@@ -161,7 +161,7 @@
 
 >         “(2) to encourage airport-compatible land uses and generate economic benefits to the local airport authority and adjacent community.
 
->     “(c) __Eligibility.—__ 
+>     “(c)  __Eligibility__  __.—__ 
 
 >     An airport operator shall be eligible to participate in the pilot program if—
 
@@ -175,15 +175,15 @@
 
 >             “(B) the probability of a clear economic benefit to neighboring local jurisdictions and financial return to the airport through the implementation of those plans.
 
->     “(d) __Distribution.—__ 
+>     “(d)  __Distribution__  __.—__ 
 
 >     The Administrator shall seek to award grants under the pilot program to airport operators representing different geographic areas of the United States.
 
->     “(e) __Partnership With Neighboring Local Jurisdictions.—__ 
+>     “(e)  __Partnership With Neighboring Local Jurisdictions__  __.—__ 
 
 >     An airport operator shall use grant funds made available under the pilot program only in partnership with neighboring local jurisdictions.
 
->     “(f) __Grant Requirements.—__ 
+>     “(f)  __Grant Requirements__  __.—__ 
 
 >     The Administrator may not make a grant to an airport operator under the pilot program unless the grant is—
 
@@ -193,7 +193,7 @@
 
 >         “(3) subject to a requirement that, in determining the part of the proceeds from disposing of land that is subject to repayment and reinvestment requirements under section 47107(c)(2)(A) of such title, the total amount of a grant issued under the pilot program that is attributable to the redevelopment of such land shall be added to other amounts that must be repaid or reinvested under that section upon disposal of such land by the airport operator.
 
->     “(g) __Exceptions to Repayment and Reinvestment Requirements.—__ 
+>     “(g)  __Exceptions to Repayment and Reinvestment Requirements__  __.—__ 
 
 >     Amounts paid to the Secretary of Transportation under subsection (f)(3)—
 
@@ -219,23 +219,23 @@
 
 >     “(h) __Federal Share.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Federal share of the allowable costs of a project carried out under the pilot program shall be 80 percent.
 
->         “(2) __Allowable costs.—__ 
+>         “(2)  __Allowable costs__  __.—__ 
 
 >         In determining the allowable costs, the Administrator shall deduct from the total costs of the activities described in subsection (b) that portion of the costs which is equal to that portion of the total property to be redeveloped under this section that is not owned or to be acquired by the airport operator pursuant to the noise compatibility program or that is not owned by the affected neighboring local jurisdictions or other public entities.
 
->     “(i) __Maximum Amount.—__ 
+>     “(i)  __Maximum Amount__  __.—__ 
 
 >     Not more than $5,000,000 of the funds made available for grants under section 47117(e)(1)(A) of such title may be expended under the pilot program for any single public-use airport.
 
->     “(j) __Use of Passenger Revenue.—__ 
+>     “(j)  __Use of Passenger Revenue__  __.—__ 
 
 >     An airport operator participating in the pilot program may use passenger facility revenue collected under section 40117 of such title to pay any project cost described in subsection (b) that is not financed by a grant under the pilot program.
 
->     “(k) __Sunset.—__ 
+>     “(k)  __Sunset__  __.—__ 
 
 >     This section shall not be in effect after September 30, 2015.”
 

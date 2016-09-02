@@ -243,23 +243,23 @@ In subsection (b)(2), the words “In addition to the Administrator of the Feder
 
 >     “(a) __In General.—__ 
 
->         “(1) __Elimination.—__ 
+>         “(1)  __Elimination__  __.—__ 
 
 >         The Secretary \[of Transportation\] shall eliminate any programmatic decisionmaking responsibility of the regional offices of the Federal Highway Administration for the Federal-aid highway program as part of the Administration’s efforts to restructure its field organization.
 
->         “(2) __Activities.—__ 
+>         “(2)  __Activities__  __.—__ 
 
 >         In carrying out paragraph (1), the Secretary shall eliminate regional offices, create technical resource centers, and, to the maximum extent practicable, delegate authority to State offices of the Federal Highway Administration.
 
->     “(b) __Preference.—__ 
+>     “(b)  __Preference__  __.—__ 
 
 >     In locating the technical resource centers, the Secretary shall give preference to cities that house, on the date of enactment of this Act \[June 9, 1998\], the Federal Highway Administration regional offices and are in locations that minimize the travel distance between the technical resource centers and the Federal Highway Administration division offices that will be served by the new technical resource centers.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     The Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a detailed implementation plan to carry out this section not later than September 30, 1998, and thereafter provide periodic progress reports on carrying out this section to such Committees.
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     The Secretary shall begin implementation of the plan transmitted under subsection (c) not later than December 31, 1998.”
 

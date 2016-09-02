@@ -15,19 +15,19 @@
 
 ## § 60123. Criminal penalties
 
-    (a) __General Penalty.—__ 
+    (a)  __General Penalty__  __.—__ 
 
     A person knowingly and willfully violating section 60114(b), 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-    (b) __Penalty for Damaging or Destroying Facility.—__ 
+    (b)  __Penalty for Damaging or Destroying Facility__  __.—__ 
 
     A person knowingly and willfully damaging or destroying an interstate gas pipeline facility, an interstate hazardous liquid pipeline facility, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce, or attempting or conspiring to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
-    (c) __Penalty for Damaging or Destroying Sign.—__ 
+    (c)  __Penalty for Damaging or Destroying Sign__  __.—__ 
 
     A person knowingly and willfully defacing, damaging, removing, or destroying a pipeline sign or right-of-way marker required by a law or regulation of the United States shall be fined under title 18, imprisoned for not more than one year, or both.
 
-    (d) __Penalty for Not Using One-Call Notification System or Not Heeding Location Information or Markings.—__ 
+    (d)  __Penalty for Not Using One-Call Notification System or Not Heeding Location Information or Markings__  __.—__ 
 
     A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person—
 

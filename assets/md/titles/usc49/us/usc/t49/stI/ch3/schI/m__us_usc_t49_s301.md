@@ -101,25 +101,25 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(a), 80 Stat. 933.  </td>
 
 [Pub. L. 112–141, div. A, title I, § 1534][/us/pl/112/141/s1534], July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
 
->     “(a) __Best Practices.—__ 
+>     “(a)  __Best Practices__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall compile, and make available to the public on the website of the Department \[of Transportation\], best practices on how States, public transportation agencies, and other public officials can work with the private sector in the development, financing, construction, and operation of transportation facilities.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The best practices compiled under subsection (a) shall include polices and techniques to ensure that the interests of the traveling public and State and local governments are protected in any agreement entered into with the private sector for the development, financing, construction, and operation of transportation facilities.
 
->     “(c) __Technical Assistance.—__ 
+>     “(c)  __Technical Assistance__  __.—__ 
 
 >     The Secretary, on request, may provide technical assistance to States, public transportation agencies, and other public officials regarding proposed public-private partnership agreements for the development, financing, construction, and operation of transportation facilities, including assistance in analyzing whether the use of a public-private partnership agreement would provide value compared with traditional public delivery methods.
 
 >     “(d) __Standard Transaction Contracts.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary shall develop standard public-private partnership transaction model contracts for the most popular types of public-private partnerships for the development, financing, construction, and operation of transportation facilities.
 
->         “(2) __Use.—__ 
+>         “(2)  __Use__  __.—__ 
 
 >         The Secretary shall encourage States, public transportation agencies, and other public officials to use the model contracts as a base template when developing their own public-private partnership agreements for the development, financing, construction, and operation of transportation facilities.”
 
@@ -143,11 +143,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(a), 80 Stat. 933.  </td>
 
 [Pub. L. 105–178, title III, § 3034][/us/pl/105/178/s3034], June 9, 1998, [112 Stat. 386][/us/stat/112/386], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General shall conduct a study of Federal departments and agencies (other than the Department of Transportation) that receive Federal financial assistance for non-emergency transportation services.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     In conducting the study, the Comptroller General shall—
 
@@ -157,7 +157,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(a), 80 Stat. 933.  </td>
 
 >         “(3) identify the projects and activities funded using such financial assistance.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation.”
 

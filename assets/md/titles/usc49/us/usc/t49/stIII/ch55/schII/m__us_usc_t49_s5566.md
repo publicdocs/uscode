@@ -15,7 +15,7 @@
 
 ## § 5566. Records and audits
 
-    (a) __Record Requirements.—__ 
+    (a)  __Record Requirements__  __.—__ 
 
     Each recipient of financial assistance under this chapter shall keep records required by the Secretary of Transportation. The records shall disclose—
 
@@ -27,7 +27,7 @@
 
         (4) any other records that will make an effective audit easier.
 
-    (b) __Audits and Inspections.—__ 
+    (b)  __Audits and Inspections__  __.—__ 
 
     For 3 years after a project is completed, the Secretary and the Comptroller General may audit and inspect records of a recipient that the Secretary or Comptroller General decides may be related or pertinent to the financial assistance.
 

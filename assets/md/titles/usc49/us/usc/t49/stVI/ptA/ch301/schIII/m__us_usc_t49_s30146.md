@@ -15,7 +15,7 @@
 
 ## § 30146. Release of motor vehicles and bonds
 
-    (a) __Compliance Certification and Bond.—__ 
+    (a)  __Compliance Certification and Bond__  __.—__ 
 
         (1) Except as provided in subsections (c) and (d) of this section, an importer registered under [section 30141(c) of this title][/us/usc/t49/s30141/c] may license or register an imported motor vehicle for use on public streets, roads, or highways, or release custody of a motor vehicle imported by the registered importer or imported by an individual under [section 30142 of this title][/us/usc/t49/s30142] and altered by the registered importer to meet applicable motor vehicle safety standards prescribed under this chapter to a person for license or registration for use on public streets, roads, or highways, only after 30 days after the registered importer certifies to the Secretary of Transportation, in the way the Secretary prescribes, that the motor vehicle complies with each standard prescribed in the year the vehicle was manufactured and that applies in that year to that vehicle. A vehicle may not be released if the Secretary gives written notice before the end of the 30-day period that the Secretary will inspect the vehicle under subsection (c) of this section.
 
@@ -29,11 +29,11 @@
 
         (3) Each registered importer shall include on each motor vehicle released under this subsection a label prescribed by the Secretary of Transportation identifying the importer and stating that the vehicle has been altered by the importer to comply with the standards applicable to the vehicle.
 
-    (b) __Reliance on Manufacturer’s Certification.—__ 
+    (b)  __Reliance on Manufacturer’s Certification__  __.—__ 
 
     In making a certification under subsection (a)(1) of this section, the registered importer may rely on the manufacturer’s certification for the model to which the motor vehicle involved is substantially similar if the importer certifies that any alteration made by the importer did not affect the compliance of the safety features of the vehicle and the importer keeps records verifying the certification for the period the Secretary of Transportation prescribes.
 
-    (c) __Evidence of Compliance.—__ 
+    (c)  __Evidence of Compliance__  __.—__ 
 
         (1)
 
@@ -45,11 +45,11 @@
 
         (2) The Secretary of Transportation shall inspect periodically a representative number of motor vehicles for which certifications have been filed under subsection (a)(1) of this section. In carrying out a motor vehicle testing program under this chapter, the Secretary shall include a representative number of motor vehicles for which certifications have been filed under subsection (a)(1).
 
-    (d) __Challenging the Certification.—__ 
+    (d)  __Challenging the Certification__  __.—__ 
 
     A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “misrepresentation.” </sup></sup>  The vehicle and bond may be released only after the Secretary is satisfied with the certification and any modification of the certification.
 
-    (e) __Bond Release.—__ 
+    (e)  __Bond Release__  __.—__ 
 
     A release of a bond required under [section 30141(d) of this title][/us/usc/t49/s30141/d] is deemed an acceptance of a certification or completion of an inspection under this section but is not a decision by the Secretary of Transportation under section 30118(a) or (b) of this title of compliance with applicable motor vehicle safety standards prescribed under this chapter.
 

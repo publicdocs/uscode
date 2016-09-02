@@ -15,7 +15,7 @@
 
 ## § 44913. Explosive detection
 
-    (a) __Deployment and Purchase of Equipment.—__ 
+    (a)  __Deployment and Purchase of Equipment__  __.—__ 
 
         (1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
 
@@ -25,7 +25,7 @@
 
         (4) This subsection does not prohibit the Under Secretary from purchasing or deploying explosive detection equipment described in paragraph (1) of this subsection.
 
-    (b) __Grants.—__ 
+    (b)  __Grants__  __.—__ 
 
     The Secretary of Transportation may provide grants to continue the Explosive Detection K-9 Team Training Program to detect explosives at airports and on aircraft.
 
@@ -151,11 +151,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 529, 96 Stat. 699; Dec. 30, 1987, Pub. L. 
 
 [Pub. L. 108–458, title IV, § 4024][/us/pl/108/458/s4024], Dec. 17, 2004, [118 Stat. 3724][/us/stat/118/3724], provided that:
 
->     “(a) __Plan and Guidelines.—__ 
+>     “(a)  __Plan and Guidelines__  __.—__ 
 
 >     The Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop a plan and guidelines for implementing improved explosive detection system equipment.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purpose of research and development of improved explosive detection systems for aviation security under [section 44913 of title 49][/us/usc/t49/s44913], United States Code.”
 
@@ -163,21 +163,21 @@ Sept. 3, 1982, Pub. L. 97–248, § 529, 96 Stat. 699; Dec. 30, 1987, Pub. L. 
 
 [Pub. L. 104–264, title III, § 303][/us/pl/104/264/s303], Oct. 9, 1996, [110 Stat. 3250][/us/stat/110/3250], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall enter into an arrangement with the Director of the National Academy of Sciences (or if the National Academy of Sciences is not available, the head of another equivalent entity) to conduct a study in accordance to this section.
 
 >     “(b) __Panel of Experts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out a study under this section, the Director of the National Academy of Sciences (or the head of another equivalent entity) shall establish a panel (hereinafter in this section referred to as the ‘panel’).
 
->         “(2) __Expertise.—__ 
+>         “(2)  __Expertise__  __.—__ 
 
 >         Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panel has an appropriate number of representatives of the areas specified in the preceding sentence.
 
->     “(c) __Study.—__ 
+>     “(c)  __Study__  __.—__ 
 
 >     The panel, in consultation with the National Science and Technology Council, representatives of appropriate Federal agencies, and appropriate members of the private sector, shall—
 
@@ -189,7 +189,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 529, 96 Stat. 699; Dec. 30, 1987, Pub. L. 
 
 >         “(4) on the basis of the assessments and determinations made under paragraphs (1), (2), and (3), identify the most promising technologies for the improvement of the efficiency and cost-effectiveness of weapons and explosive detection.
 
->     “(d) __Cooperation.—__ 
+>     “(d)  __Cooperation__  __.—__ 
 
 >     The National Science and Technology Council shall take such actions as may be necessary to facilitate, to the maximum extent practicable and upon request of the Director of the National Academy of Sciences (or the head of another equivalent entity), the cooperation of representatives of appropriate Federal agencies, as provided for in subsection (c), in providing the panel, for the study under this section—
 
@@ -197,11 +197,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 529, 96 Stat. 699; Dec. 30, 1987, Pub. L. 
 
 >         “(2) to the extent allowable by law, resources and facilities.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     The Director of the National Academy of Sciences (or the head of another equivalent entity) shall, pursuant to an arrangement entered into under subsection (a), submit to the Administrator such reports as the Administrator considers to be appropriate. Upon receipt of a report under this subsection, the Administrator shall submit a copy of the report to the appropriate committees of Congress.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for each of fiscal years 1997 through 2001 such sums as may be necessary to carry out this section.”
 

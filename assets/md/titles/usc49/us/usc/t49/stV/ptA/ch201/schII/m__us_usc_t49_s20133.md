@@ -15,7 +15,7 @@
 
 ## § 20133. Passenger cars
 
-    (a) __Minimum Standards.—__ 
+    (a)  __Minimum Standards__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations establishing minimum standards for the safety of cars used by railroad carriers to transport passengers. Before prescribing such regulations, the Secretary shall consider—
 
@@ -31,17 +31,17 @@
 
         The Secretary may make applicable some or all of the standards established under this subsection to cars existing at the time the regulations are prescribed, as well as to new cars, and the Secretary shall explain in the rulemaking document the basis for making such standards applicable to existing cars.
 
-    (b) __Initial and Final Regulations.—__ 
+    (b)  __Initial and Final Regulations__  __.—__ 
 
         (1) The Secretary shall prescribe initial regulations under subsection (a) within 3 years after November 2, 1994. The initial regulations may exempt equipment used by tourist, historic, scenic, and excursion railroad carriers to transport passengers.
 
         (2) The Secretary shall prescribe final regulations under subsection (a) within 5 years after November 2, 1994.
 
-    (c) __Personnel.—__ 
+    (c)  __Personnel__  __.—__ 
 
     The Secretary may establish within the Department of Transportation 2 additional full-time equivalent positions beyond the number permitted under existing law to assist with the drafting, prescribing, and implementation of regulations under this section.
 
-    (d) __Consultation.—__ 
+    (d)  __Consultation__  __.—__ 
 
     In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
 

@@ -17,15 +17,15 @@
 
     (a) __Publication.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of the Federal Aviation Administration may arrange for the publication of aeronautical maps and charts necessary for the safe and efficient movement of aircraft in air navigation, using the facilities and assistance of departments, agencies, and instrumentalities of the United States Government as far as practicable.
 
-        (2) __Navigation routes.—__ 
+        (2)  __Navigation routes__  __.—__ 
 
         In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
-    (b) __Indemnification.—__ 
+    (b)  __Indemnification__  __.—__ 
 
     The Government shall make an agreement to indemnify any person that publishes a map or chart for use in aeronautics from any part of a claim arising out of the depiction by the person on the map or chart of a defective or deficient flight procedure or airway if the flight procedure or airway was—
 
@@ -35,7 +35,7 @@
 
         (3) not obviously defective or deficient.
 
-    (c) __Authority of Office of Aeronautical Charting and Cartography.—__ 
+    (c)  __Authority of Office of Aeronautical Charting and Cartography__  __.—__ 
 
     Effective October 1, 2000, the Administrator is vested with and shall exercise the functions, powers, and duties of the Secretary of Commerce and other officers of the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for the safe and efficient navigation of air commerce, under the following authorities:
 
@@ -43,7 +43,7 @@
 
         (2) Section 6082 of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([33 U.S.C. 883j][/us/usc/t33/s883j]).
 
-    (d) __Authority.—__ 
+    (d)  __Authority__  __.—__ 
 
     In order that full public benefit may be derived from the dissemination of data resulting from activities under this section and of related data from other sources, the Administrator may—
 
@@ -57,51 +57,51 @@
 
     (e) __Contracts, Cooperative Agreements, Grants, and Other Agreements.—__ 
 
-        (1) __Contracts.—__ 
+        (1)  __Contracts__  __.—__ 
 
         The Administrator is authorized to contract with qualified organizations for the performance of any part of the authorized functions of the Office of Aeronautical Charting and Cartography when the Administrator deems such procedure to be in the public interest and will not compromise public safety.
 
-        (2) __Cooperative agreements, grants, and other agreements.—__ 
+        (2)  __Cooperative agreements, grants, and other agreements__  __.—__ 
 
         The Administrator is authorized to enter into cooperative agreements, grants, reimbursable agreements, memoranda of understanding and other agreements, with a State, subdivision of a State, Federal agency, public or private organization, or individual, to carry out the purposes of this section.
 
     (f) __Special Services and Products.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator is authorized, at the request of a State, subdivision of a State, Federal agency, public or private organization, or individual, to conduct special services, including making special studies, or developing special publications or products on matters relating to navigation, transportation, or public safety.
 
-        (2) __Fees.—__ 
+        (2)  __Fees__  __.—__ 
 
         The Administrator shall assess a fee for any special service provided under paragraph (1). A fee shall be not more than the actual or estimated full cost of the service. A fee may be reduced or waived for research organizations, educational organizations, or non-profit organizations, when the Administrator determines that reduction or waiver of the fee is in the best interest of the Government by furthering public safety.
 
     (g) __Sale and Dissemination of Aeronautical Products.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Aeronautical products created or maintained under the authority of this section shall be sold at prices established annually by the Administrator consistent with the following:
 
-            (A) __Maximum price.—__ 
+            (A)  __Maximum price__  __.—__ 
 
             Subject to subparagraph (B), the price of an aeronautical product sold to the public shall be not more than necessary to recover all costs attributable to: (i) data base management and processing; (ii) compilation; (iii) printing or other types of reproduction; and (iv) dissemination of the product.
 
-            (B) __Adjustment of price.—__ 
+            (B)  __Adjustment of price__  __.—__ 
 
             The Administrator shall adjust the price of an aeronautical product and service sold to the public as necessary to avoid any adverse impact on aviation safety attributable to the price specified under this paragraph.
 
-            (C) __Costs attributable to acquisition of aeronautical data.—__ 
+            (C)  __Costs attributable to acquisition of aeronautical data__  __.—__ 
 
             A price established under this paragraph may not include costs attributable to the acquisition of aeronautical data.
 
-            (D) __Continuation of prices.—__ 
+            (D)  __Continuation of prices__  __.—__ 
 
             The price of any product created under subsection (d) may correspond to the price of a comparable product produced by a department of the United States Government as that price was in effect on September 30, 2000, and may remain in effect until modified by regulation under [section 9701 of title 31][/us/usc/t31/s9701], United States Code.
 
-        (2) __Publication of prices.—__ 
+        (2)  __Publication of prices__  __.—__ 
 
         The Administrator shall publish annually the prices at which aeronautical products are sold to the public.
 
-        (3) __Distribution.—__ 
+        (3)  __Distribution__  __.—__ 
 
         The Administrator may distribute aeronautical products and provide aeronautical services—
 
@@ -111,11 +111,11 @@
 
             (C) at reduced or no charge where, in the judgment of the Administrator, furnishing the aeronautical product or service to a recipient is a reasonable exchange for voluntary contribution of information by the recipient to the activities under this section.
 
-        (4) __Fees.—__ 
+        (4)  __Fees__  __.—__ 
 
         The fees provided for in this subsection are for the purpose of reimbursing the Government for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performance of functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
 
-        (5) __Crediting amounts received.—__ 
+        (5)  __Crediting amounts received__  __.—__ 
 
         Notwithstanding any other provision of law, amounts received for the sale of products created and services performed under this section shall be fully credited to the account of the Federal Aviation Administration that funded the provision of the products or services and shall remain available until expended.
 
@@ -261,7 +261,7 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
 [Pub. L. 106–181, title VI, § 604][/us/pl/106/181/s604], Apr. 5, 2000, [114 Stat. 152][/us/stat/114/152], provided that:
 
->     “(a) __Continued Effectiveness of Directives.—__ 
+>     “(a)  __Continued Effectiveness of Directives__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, privileges, and financial assistance that—
 
@@ -273,27 +273,27 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
 >     “(b) __Continued Effectiveness of Pending Actions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The provisions of this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending on the date of transfer before the Department of Commerce or the National Oceanic and Atmospheric Administration, or any officer of such Department or Administration, with respect to functions transferred by this title, but such proceedings or applications, to the extent that they relate to functions transferred, shall be continued in accord with transition guidelines promulgated by the Administrator of the Federal Aviation Administration under the authority of this section. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Federal Aviation Administration, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.
 
->         “(2) __Transition guidelines.—__ 
+>         “(2)  __Transition guidelines__  __.—__ 
 
 >         The Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the Federal Aviation Administration are authorized to issue transition guidelines providing for the orderly transfer of proceedings and otherwise to accomplish the orderly transfer of functions, personnel and property under this title.
 
->     “(c) __Continued Effectiveness of Judicial Actions.—__ 
+>     “(c)  __Continued Effectiveness of Judicial Actions__  __.—__ 
 
 >     No cause of action by or against the Department of Commerce or the National Oceanic and Atmospheric Administration with respect to functions transferred by this title, or by or against any officer thereof in the official’s capacity, shall abate by reason of the enactment of this title. Causes of action and actions with respect to a function or office transferred by this title, or other proceedings may be asserted by or against the United States or an official of the Federal Aviation Administration, as may be appropriate, and, in an action pending when this title takes effect, the court may at any time, on its own motion or that of any party, enter an order that will give effect to the provisions of this subsection.
 
->     “(d) __Substitution or Addition of Parties to Judicial Actions.—__ 
+>     “(d)  __Substitution or Addition of Parties to Judicial Actions__  __.—__ 
 
 >     If, on the date of transfer, the Department of Commerce or the National Oceanic and Atmospheric Administration, or any officer of the Department or Administration in an official capacity, is a party to an action, and under this title any function relating to the action of the Department, Administration, or officer is transferred to the Federal Aviation Administration, then such action shall be continued with the Administrator of the Federal Aviation Administration substituted or added as a party.
 
->     “(e) __Continued Jurisdiction Over Actions Transferred.—__ 
+>     “(e)  __Continued Jurisdiction Over Actions Transferred__  __.—__ 
 
 >     Orders and actions of the Administrator of the Federal Aviation Administration in the exercise of functions transferred by this title shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Department of Commerce or the National Oceanic and Atmospheric Administration, or any office or officer of such Department or Administration, in the exercise of such functions immediately preceding their transfer.
 
->     “(f) __Liabilities and Obligations.—__ 
+>     “(f)  __Liabilities and Obligations__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall assume all liabilities and obligations (tangible and incorporeal, present and executory) associated with the functions transferred under this title on the date of transfer, including leases, permits, licenses, contracts, agreements, claims, tariffs, accounts receivable, accounts payable, financial assistance, and litigation relating to such obligations, regardless whether judgment has been entered, damages awarded, or appeal taken.”
 
@@ -307,11 +307,11 @@ In subsection (a)(1), the word “Administrator” in section 307(b) of the Fede
 
 [Pub. L. 106–181, title VI, § 602][/us/pl/106/181/s602], Apr. 5, 2000, [114 Stat. 149][/us/stat/114/149], provided that:
 
->     “(a) __Transfer of Office.—__ 
+>     “(a)  __Transfer of Office__  __.—__ 
 
 >     Effective October 1, 2000, the Office of Aeronautical Charting and Cartography of the National Oceanic and Atmospheric Administration, Department of Commerce, is transferred to the Federal Aviation Administration.
 
->     “(b) __Other Transfers.—__ 
+>     “(b)  __Other Transfers__  __.—__ 
 
 >     Effective October 1, 2000, the personnel employed in connection with, and the assets, liabilities, contracts, property, equipment, facilities, records, and unexpended balance of appropriations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the function and offices, or portions of offices, transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and [section 1307 of Title 44][/us/usc/t44/s1307], Public Printing and Documents, and enacting provisions set out as notes under this section\], including all Senior Executive Service positions, subject to [section 1531 of title 31][/us/usc/t31/s1531], United States Code, are transferred to the Administrator of the Federal Aviation Administration for appropriate allocation. Personnel employed in connection with functions transferred by this title transfer under any applicable law and regulation relating to transfer of functions. Unexpended funds transferred under this section shall be used only for the purposes for which the funds were originally authorized and appropriated, except that funds may be used for expenses associated with the transfer authorized by this title.”
 

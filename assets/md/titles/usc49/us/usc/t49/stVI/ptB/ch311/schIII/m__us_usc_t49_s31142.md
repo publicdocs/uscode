@@ -15,15 +15,15 @@
 
 ## § 31142. Inspection of vehicles
 
-    (a) __Inspection of Safety Equipment.—__ 
+    (a)  __Inspection of Safety Equipment__  __.—__ 
 
     On the instruction of an authorized enforcement official of a State or of the United States Government, a commercial motor vehicle is required to pass an inspection of all safety equipment required under the regulations issued under section 31136.
 
-    (b) __Inspection of Vehicles and Record Retention.—__ 
+    (b)  __Inspection of Vehicles and Record Retention__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations on Government standards for inspection of commercial motor vehicles and retention by employers of records of an inspection. The standards shall provide for annual or more frequent inspections of a commercial motor vehicle unless the Secretary finds that another inspection system is as effective as an annual or more frequent inspection system. Regulations prescribed under this subsection are deemed to be regulations prescribed under [section 31136 of this title][/us/usc/t49/s31136].
 
-    (c) __Preemption.—__ 
+    (c)  __Preemption__  __.—__ 
 
         (1)
 
@@ -45,15 +45,15 @@
 
             (B) after making a decision under clause (A) of this paragraph, provides the State with a 6-month period to improve the enforcement of the program to achieve the objectives of this section.
 
-    (d) __Inspection To Be Accepted as Adequate in All States.—__ 
+    (d)  __Inspection To Be Accepted as Adequate in All States__  __.—__ 
 
     A periodic inspection of a commercial motor vehicle under the Government standards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
 
-    (e) __Effect of Government Standards.—__ 
+    (e)  __Effect of Government Standards__  __.—__ 
 
     The Government standards prescribed under subsection (b) of this section may not be enforced as the standards apply to the inspection of commercial motor vehicles in a State enforcing a program described in subsection (c)(1)(B) or (C) of this section if the Secretary decides that it is in the public interest and consistent with public safety for the Government standards not to be enforced as they apply to that inspection.
 
-    (f) __Application of State Regulations to Government-Leased Vehicles and Operators.—__ 
+    (f)  __Application of State Regulations to Government-Leased Vehicles and Operators__  __.—__ 
 
     A State receiving financial assistance under [section 31102 of this title][/us/usc/t49/s31102] in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
 

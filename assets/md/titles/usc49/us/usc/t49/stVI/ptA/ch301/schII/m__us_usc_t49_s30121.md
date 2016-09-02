@@ -15,7 +15,7 @@
 
 ## § 30121. Provisional notification and civil actions to enforce
 
-    (a) __Provisional Notification.—__ 
+    (a)  __Provisional Notification__  __.—__ 
 
         (1)
 
@@ -35,13 +35,13 @@
 
         (2) A notification under this subsection does not relieve a manufacturer of liability for not giving notification required by an order under [section 30118(b) of this title][/us/usc/t49/s30118/b].
 
-    (b) __Civil Actions for Not Notifying.—__ 
+    (b)  __Civil Actions for Not Notifying__  __.—__ 
 
         (1) A manufacturer that does not notify owners and purchasers under section 30119(c) and (d) of this title is liable to the United States Government for a civil penalty, unless the manufacturer prevails in a civil action referred to in subsection (a) of this section or the court in that action enjoins enforcement of the order. Enforcement may be enjoined only if the court decides that the failure to notify is reasonable and that the manufacturer has demonstrated the likelihood of prevailing on the merits. If enforcement is enjoined, the manufacturer is not liable during the time the order is stayed.
 
         (2) A manufacturer that does not notify owners and purchasers as required under subsection (a) of this section is liable for a civil penalty regardless of whether the manufacturer prevails in an action on the validity of the order issued under [section 30118(b) of this title][/us/usc/t49/s30118/b].
 
-    (c) __Orders to Manufacturers.—__ 
+    (c)  __Orders to Manufacturers__  __.—__ 
 
     If the Secretary prevails in a civil action referred to in subsection (a) of this section, the Secretary shall order the manufacturer—
 
@@ -51,7 +51,7 @@
 
         (3) if notification was required under subsection (a) of this section, to reimburse an owner or purchaser for reasonable and necessary expenses (in an amount that is not more than the amount specified in the order of the Secretary under subsection (a)) incurred for repairing the defect or noncompliance during the period beginning on the date that notification was required to be issued and ending on the date the owner or purchaser receives the notification under this subsection.
 
-    (d) __Venue.—__ 
+    (d)  __Venue__  __.—__ 
 
     Notwithstanding [section 30163(c) of this title][/us/usc/t49/s30163/c], a civil action about an order issued under [section 30118(b) of this title][/us/usc/t49/s30118/b] must be brought in the United States district court for a judicial district in the State in which the manufacturer is incorporated or the District of Columbia. On motion of a party, the court may transfer the action to another district court if good cause is shown. All actions related to the same order under section 30118(b) shall be consolidated in an action in one judicial district under an order of the court in which the first action was brought. If the first action is transferred to another court, that court shall issue the consolidation order.
 

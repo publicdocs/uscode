@@ -17,11 +17,11 @@
 
     (a) __Basic Security Training.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each air carrier providing scheduled passenger air transportation shall carry out a training program for flight and cabin crew members to prepare the crew members for potential threat conditions.
 
-        (2) __Program elements.—__ 
+        (2)  __Program elements__  __.—__ 
 
         An air carrier training program under this subsection shall include, at a minimum, elements that address each of the following:
 
@@ -45,33 +45,33 @@
 
             (J) Any other subject matter considered appropriate by the Under Secretary.
 
-        (3) __Approval.—__ 
+        (3)  __Approval__  __.—__ 
 
         An air carrier training program under this subsection shall be subject to approval by the Under Secretary.
 
-        (4) __Minimum standards.—__ 
+        (4)  __Minimum standards__  __.—__ 
 
         Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the Under Secretary may establish minimum standards for the training provided under this subsection and for recurrent training.
 
-        (5) __Existing programs.—__ 
+        (5)  __Existing programs__  __.—__ 
 
         Notwithstanding paragraphs (3) and (4), any training program of an air carrier to prepare flight and cabin crew members for potential threat conditions that was approved by the Administrator or the Under Secretary before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act may continue in effect until disapproved or ordered modified by the Under Secretary.
 
-        (6) __Monitoring.—__ 
+        (6)  __Monitoring__  __.—__ 
 
         The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall review an air carrier’s training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier’s training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
 
-        (7) __Updates.—__ 
+        (7)  __Updates__  __.—__ 
 
         The Under Secretary, in consultation with the Administrator, shall order air carriers to modify training programs under this subsection to reflect new or different security threats.
 
     (b) __Advanced Self-Defense Training.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the Under Secretary shall develop and provide a voluntary training program for flight and cabin crew members of air carriers providing scheduled passenger air transportation.
 
-        (2) __Program elements.—__ 
+        (2)  __Program elements__  __.—__ 
 
         The training program under this subsection shall include both classroom and effective hands-on training in the following elements of self-defense:
 
@@ -89,27 +89,27 @@
 
             (G) Any other element of training that the Under Secretary considers appropriate.
 
-        (3) __Participation not required.—__ 
+        (3)  __Participation not required__  __.—__ 
 
         A crew member shall not be required to participate in the training program under this subsection.
 
-        (4) __Compensation.—__ 
+        (4)  __Compensation__  __.—__ 
 
         Neither the Federal Government nor an air carrier shall be required to compensate a crew member for participating in the training program under this subsection.
 
-        (5) __Fees.—__ 
+        (5)  __Fees__  __.—__ 
 
         A crew member shall not be required to pay a fee for the training program under this subsection.
 
-        (6) __Consultation.—__ 
+        (6)  __Consultation__  __.—__ 
 
         In developing the training program under this subsection, the Under Secretary shall consult with law enforcement personnel and security experts who have expertise in self-defense training, terrorism experts, representatives of air carriers, the director of self-defense training in the Federal Air Marshals Service, flight attendants, labor organizations representing flight attendants, and educational institutions offering law enforcement training programs.
 
-        (7) __Designation of tsa official.—__ 
+        (7)  __Designation of tsa official__  __.—__ 
 
         The Under Secretary shall designate an official in the Transportation Security Administration to be responsible for implementing the training program under this subsection. The official shall consult with air carriers and labor organizations representing crew members before implementing the program to ensure that it is appropriate for situations that may arise on board an aircraft during a flight.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     Actions by crew members under this section shall be subject to the provisions of section 44903(k).
 

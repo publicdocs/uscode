@@ -15,7 +15,7 @@
 
 ## § 41732. Basic essential air service
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Basic essential air service provided under [section 41733 of this title][/us/usc/t49/s41733] is scheduled air transportation of passengers and cargo—
 
@@ -23,7 +23,7 @@
 
         (2) to a small hub or nonhub airport, when in Alaska or when the nearest hub airport is more than 400 miles from an eligible place.
 
-    (b) __Minimum Requirements.—__ 
+    (b)  __Minimum Requirements__  __.—__ 
 
     Basic essential air service shall include at least the following:
 

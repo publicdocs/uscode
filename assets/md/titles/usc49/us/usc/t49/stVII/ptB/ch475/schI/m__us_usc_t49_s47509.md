@@ -15,23 +15,23 @@
 
 ## § 47509. Research program on quiet aircraft technology for propeller and rotor driven aircraft
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall conduct a study to identify technologies for noise reduction of propeller driven aircraft and rotorcraft.
 
-    (b) __Goal.—__ 
+    (b)  __Goal__  __.—__ 
 
     The goal of the study conducted under subsection (a) is to determine the status of research and development now underway in the area of quiet technology for propeller driven aircraft and rotorcraft, including technology that is cost beneficial, and to determine whether a research program to supplement existing research activities is necessary.
 
-    (c) __Participation.—__ 
+    (c)  __Participation__  __.—__ 
 
     In conducting the study required under subsection (a), the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall encourage the participation of the Department of Defense, the Department of the Interior, the airtour industry, the aviation industry, academia and other appropriate groups.
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     Not less than 280 days after August 23, 1994, the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall transmit to Congress a report on the results of the study required under subsection (a).
 
-    (e) __Research and Development Program.—__ 
+    (e)  __Research and Development Program__  __.—__ 
 
     If the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration determine that additional research and development is necessary and would substantially contribute to the development of quiet aircraft technology, then the agencies shall conduct an appropriate research program in consultation with the entities listed in subsection (c) to develop safe, effective, and economical noise reduction technology (including technology that can be applied to existing propeller driven aircraft and rotorcraft) that would result in aircraft that operate at substantially reduced levels of noise to reduce the impact of such aircraft and rotorcraft on the resources of national parks and other areas.
 

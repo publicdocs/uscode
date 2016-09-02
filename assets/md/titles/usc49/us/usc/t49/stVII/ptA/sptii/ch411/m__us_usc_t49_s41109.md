@@ -15,7 +15,7 @@
 
 ## § 41109. Terms of certificates
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1) Each certificate issued under [section 41102 of this title][/us/usc/t49/s41102] shall specify the type of transportation to be provided.
 
@@ -33,7 +33,7 @@
 
         (5) As prescribed by regulation by the Secretary, an air carrier other than a charter air carrier may provide charter trips or other special services without regard to the places named or type of transportation specified in its certificate.
 
-    (b) __Modifying Terms.—__ 
+    (b)  __Modifying Terms__  __.—__ 
 
         (1)
 

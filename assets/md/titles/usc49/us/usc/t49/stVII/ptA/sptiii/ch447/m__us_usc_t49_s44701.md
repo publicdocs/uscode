@@ -15,7 +15,7 @@
 
 ## § 44701. General requirements
 
-    (a) __Promoting Safety.—__ 
+    (a)  __Promoting Safety__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall promote safe flight of civil aircraft in air commerce by prescribing—
 
@@ -37,7 +37,7 @@
 
         (5) regulations and minimum standards for other practices, methods, and procedure the Administrator finds necessary for safety in air commerce and national security.
 
-    (b) __Prescribing Minimum Safety Standards.—__ 
+    (b)  __Prescribing Minimum Safety Standards__  __.—__ 
 
     The Administrator may prescribe minimum safety standards for—
 
@@ -45,11 +45,11 @@
 
         (2) operating an airport serving any passenger operation of air carrier aircraft designed for at least 31 passenger seats.
 
-    (c) __Reducing and Eliminating Accidents.—__ 
+    (c)  __Reducing and Eliminating Accidents__  __.—__ 
 
     The Administrator shall carry out this chapter in a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
 
-    (d) __Considerations and Classification of Regulations and Standards.—__ 
+    (d)  __Considerations and Classification of Regulations and Standards__  __.—__ 
 
     When prescribing a regulation or standard under subsection (a) or (b) of this section or any of sections 44702–44716 of this title, the Administrator shall—
 
@@ -65,19 +65,19 @@
 
     (e) __Bilateral Exchanges of Safety Oversight Responsibilities.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
 
-        (2) __Relinquishment and acceptance of responsibility.—__ 
+        (2)  __Relinquishment and acceptance of responsibility__  __.—__ 
 
         The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
 
-        (3) __Conditions.—__ 
+        (3)  __Conditions__  __.—__ 
 
         The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection on any conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
 
-        (4) __Registered aircraft defined.—__ 
+        (4)  __Registered aircraft defined__  __.—__ 
 
         In this subsection, the term “registered aircraft” means—
 
@@ -85,7 +85,7 @@
 
             (B) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
 
-    (f) __Exemptions.—__ 
+    (f)  __Exemptions__  __.—__ 
 
     The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
 
@@ -327,11 +327,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __In General.—__ 
 
->         “(1) __Definition.—__ 
+>         “(1)  __Definition__  __.—__ 
 
 >         In this section, the term ‘NOTAM’ means Notices to Airmen.
 
->         “(2) __Improvements.—__ 
+>         “(2)  __Improvements__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2012\], the Administrator of the Federal Aviation Administration shall begin a Notice to Airmen Improvement Program (in this section referred to as the ‘NOTAM Improvement Program’)—
 
@@ -341,7 +341,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(C) to apply filters so that pilots can prioritize critical flight safety information from other airspace system information.
 
->     “(b) __Goals of Program.—__ 
+>     “(b)  __Goals of Program__  __.—__ 
 
 >     The goals of the NOTAM Improvement Program are—
 
@@ -355,11 +355,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(5) to provide a filtering mechanism similar to that provided by the Department of Defense Notices to Airmen.
 
->     “(c) __Advice From Private Sector Groups.—__ 
+>     “(c)  __Advice From Private Sector Groups__  __.—__ 
 
 >     The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
 
->     “(d) __Phase-in and Completion.—__ 
+>     “(d)  __Phase-in and Completion__  __.—__ 
 
 >     The improvements required by this section shall be phased in as quickly as practicable and shall be completed not later than the date that is 1 year after the date of the enactment of this Act \[Aug. 3, 2012\].”
 
@@ -367,7 +367,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title III, § 313][/us/pl/112/95/s313], Feb. 14, 2012, [126 Stat. 67][/us/stat/126/67], provided that:
 
->     “(a) __Establishment of Advisory Panel.—__ 
+>     “(a)  __Establishment of Advisory Panel__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall establish an advisory panel comprised of both Government and industry representatives to—
 
@@ -375,7 +375,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(2) develop recommendations to address the findings in the report and other concerns raised by interested parties, including representatives of the aviation industry.
 
->     “(b) __Matters To Be Considered.—__ 
+>     “(b)  __Matters To Be Considered__  __.—__ 
 
 >     The advisory panel shall—
 
@@ -385,7 +385,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(3) develop recommendations to improve communications between the Administration’s Flight Standards Service and Aircraft Certification Service and applicants and certificate and approval holders for the identification and resolution of potentially adverse issues in an expeditious and fair manner.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the advisory panel, together with an explanation of how the Administrator will implement the recommendations of the advisory panel and measure the effectiveness of the recommendations.”
 
@@ -393,7 +393,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title III, § 315][/us/pl/112/95/s315], Feb. 14, 2012, [126 Stat. 68][/us/stat/126/68], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall modify the Flight Standards Evaluation Program—
 
@@ -401,11 +401,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(2) to prohibit an individual from participating in a review or audit of an office with responsibility for an air carrier under the program if the individual, at any time in the 5-year period preceding the date of the review or audit, had responsibility for inspecting, or overseeing the inspection of, the operations of that carrier.
 
->     “(b) __Annual Report to Congress.—__ 
+>     “(b)  __Annual Report to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Flight Standards Evaluation Program, including the Administrator’s findings and recommendations with respect to the program.
 
->     “(c) __Flight Standards Evaluation Program Defined.—__ 
+>     “(c)  __Flight Standards Evaluation Program Defined__  __.—__ 
 
 >     In this section, the term ‘Flight Standards Evaluation Program’ means the program established by the Federal Aviation Administration in FS 1100.1B CHG3, including any subsequent revisions thereto.”
 
@@ -413,7 +413,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title III, § 343][/us/pl/112/95/s343], Feb. 14, 2012, [126 Stat. 80][/us/stat/126/80], provided that:
 
->     “(a) __Reviews.—__ 
+>     “(a)  __Reviews__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall establish a process by which the air transportation oversight system database of the Administration is reviewed by regional teams of employees of the Administration, including at least one employee on each team representing aviation safety inspectors, on a monthly basis to ensure that—
 
@@ -423,11 +423,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(b) __Monthly Team Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A regional team of employees conducting a monthly review of the air transportation oversight system database under subsection (a) shall submit to the Administrator, the Associate Administrator for Aviation Safety, and the Director of Flight Standards Service a report each month on the results of the review.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         A report submitted under paragraph (1) shall identify—
 
@@ -435,7 +435,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(B) any corrective actions taken or proposed to be taken in response to the trends.
 
->     “(c) __Biannual Reports to Congress.—__ 
+>     “(c)  __Biannual Reports to Congress__  __.—__ 
 
 >     The Administrator, on a biannual basis, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the reviews of the air transportation oversight system database conducted under this section, including copies of reports received under subsection (b).”
 
@@ -443,15 +443,15 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title III, § 345][/us/pl/112/95/s345], Feb. 14, 2012, [126 Stat. 81][/us/stat/126/81], provided that:
 
->     “(a) __Rulemaking on Applicability of Part 121 Duty Periods and Flight Time Limitations to Part 91 Operations.—__ 
+>     “(a)  __Rulemaking on Applicability of Part __  __121__  __ Duty Periods and Flight Time Limitations to Part __  __91__  __ Operations__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding, if such a proceeding has not already been initiated, to require a flight crewmember who is employed by an air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or from any other air carrier conducting operations under part 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 121 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 121 of such title.
 
->     “(b) __Rulemaking on Applicability of Part 135 Duty Periods and Flight Time Limitations to Part 91 Operations.—__ 
+>     “(b)  __Rulemaking on Applicability of Part __  __135__  __ Duty Periods and Flight Time Limitations to Part __  __91__  __ Operations__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall initiate a rulemaking proceeding to require a flight crewmember who is employed by an air carrier conducting operations under part 135 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or any other air carrier conducting operations under part 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 135 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 135 of such title.
 
->     “(c) __Separate Rulemaking Proceedings Required.—__ 
+>     “(c)  __Separate Rulemaking Proceedings Required__  __.—__ 
 
 >     The rulemaking proceeding required under subsection (b) shall be separate from the rulemaking proceeding required under subsection (a).”
 
@@ -459,11 +459,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title VI, § 606][/us/pl/112/95/s606], Feb. 14, 2012, [126 Stat. 113][/us/stat/126/113], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than October 1, 2012, the Administrator of the Federal Aviation Administration shall implement, in as cost-effective a manner as possible, the staffing model for aviation safety inspectors developed pursuant to the National Academy of Sciences study entitled ‘Staffing Standards for Aviation Safety Inspectors’. In doing so, the Administrator shall consult with interested persons, including the exclusive bargaining representative for aviation safety inspectors certified under [section 7111 of title 5][/us/usc/t5/s7111], United States Code.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1 of each year beginning after September 30, 2012, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, the staffing model described in subsection (a).”
 
@@ -471,17 +471,17 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 112–95, title VIII, § 828][/us/pl/112/95/s828], Feb. 14, 2012, [126 Stat. 133][/us/stat/126/133], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, including a designee of the Secretary, may not issue or enforce any regulation or other requirement regarding the transportation by aircraft of lithium metal cells or batteries or lithium ion cells or batteries, whether transported separately or packed with or contained in equipment, if the requirement is more stringent than the requirements of the ICAO Technical Instructions.
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __Passenger carrying aircraft.—__ 
+>         “(1)  __Passenger carrying aircraft__  __.—__ 
 
 >         Notwithstanding subsection (a), the Secretary may enforce the prohibition on transporting primary (non-rechargeable) lithium batteries and cells aboard passenger carrying aircraft set forth in special provision A100 under section 172.102(c)(2) of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 14, 2012\]).
 
->         “(2) __Credible reports.—__ 
+>         “(2)  __Credible reports__  __.—__ 
 
 >         Notwithstanding subsection (a), if the Secretary obtains a credible report with respect to a safety incident from a national or international governmental regulatory or investigating body that demonstrates that the presence of lithium metal cells or batteries or lithium ion cells or batteries on an aircraft, whether transported separately or packed with or contained in equipment, in accordance with the requirements of the ICAO Technical Instructions, has substantially contributed to the initiation or propagation of an onboard fire, the Secretary—
 
@@ -503,7 +503,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >                 “(iii) the regulation imposes the least disruptive and least expensive variation from existing requirements while adequately addressing identified deficiencies.
 
->     “(c) __ICAO Technical Instructions Defined.—__ 
+>     “(c)  __ICAO Technical Instructions Defined__  __.—__ 
 
 >     In this section, the term ‘ICAO Technical Instructions’ means the International Civil Aviation Organization Technical Instructions for the Safe Transport of Dangerous Goods by Air (as amended, including amendments adopted after the date of enactment of this Act \[Feb. 14, 2012\]).”
 
@@ -513,39 +513,39 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 201. __DEFINITIONS.__ 
 
->     “(a) __\[sic\] Definitions.—__ 
+>     “(a) __\[sic\]__  __Definitions__  __.—__ 
 
 >     In this title, the following definitions apply:
 
->         “(1) __Advanced qualification program.—__ 
+>         “(1)  __Advanced qualification program__  __.—__ 
 
 >         The term ‘advanced qualification program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–54A, dated June 23, 2006, including any subsequent revisions thereto.
 
->         “(2) __Air carrier.—__ 
+>         “(2)  __Air carrier__  __.—__ 
 
 >         The term ‘air carrier’ has the meaning given that term in [section 40102 of title 49][/us/usc/t49/s40102], United States Code.
 
->         “(3) __Aviation safety action program.—__ 
+>         “(3)  __Aviation safety action program__  __.—__ 
 
 >         The term ‘aviation safety action program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–66B, dated November 15, 2002, including any subsequent revisions thereto.
 
->         “(4) __Flight crewmember.—__ 
+>         “(4)  __Flight crewmember__  __.—__ 
 
 >         The term ‘flight crewmember’ has the meaning given the term ‘flightcrew member’ in part 1 of title 14, Code of Federal Regulations.
 
->         “(5) __Flight operational quality assurance program.—__ 
+>         “(5)  __Flight operational quality assurance program__  __.—__ 
 
 >         The term ‘flight operational quality assurance program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–82, dated April 12, 2004, including any subsequent revisions thereto.
 
->         “(6) __Line operations safety audit.—__ 
+>         “(6)  __Line operations safety audit__  __.—__ 
 
 >         The term ‘line operations safety audit’ means the procedure referenced by the Federal Aviation Administration in Advisory Circular 120–90, dated April 27, 2006, including any subsequent revisions thereto.
 
->         “(7) __Part 121 air carrier.—__ 
+>         “(7)  __Part 121 air carrier__  __.—__ 
 
 >         The term ‘part 121 air carrier’ means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
 
->         “(8) __Part 135 air carrier.—__ 
+>         “(8)  __Part 135 air carrier__  __.—__ 
 
 >         The term ‘part 135 air carrier’ means an air carrier that holds a certificate issued under part 135 of title 14, Code of Federal Regulations.
 
@@ -559,15 +559,15 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 204. __FAA TASK FORCE ON AIR CARRIER SAFETY AND PILOT TRAINING.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall establish a special task force to be known as the FAA Task Force on Air Carrier Safety and Pilot Training (in this section referred to as the ‘Task Force’).
 
->     “(b) __Composition.—__ 
+>     “(b)  __Composition__  __.—__ 
 
 >     The Task Force shall consist of members appointed by the Administrator and shall include air carrier representatives, labor union representatives, and aviation safety experts with knowledge of foreign and domestic regulatory requirements for flight crewmember education and training.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The duties of the Task Force shall include, at a minimum, evaluating best practices in the air carrier industry and providing recommendations in the following areas:
 
@@ -579,7 +579,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(4) Mentoring and information sharing between air carriers.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Aug. 1, 2010\], and before the last day of each one-year period thereafter until termination of the Task Force, the Task Force shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing—
 
@@ -593,21 +593,21 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(5) the progress of air carriers in developing specific programs to share safety data and ensure implementation of the most effective safety practices.
 
->     “(e) __Termination.—__ 
+>     “(e)  __Termination__  __.—__ 
 
 >     The Task Force shall terminate on September 30, 2012.
 
->     “(f) __Applicability of Federal Advisory Committee Act.—__ 
+>     “(f)  __Applicability of Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Task Force.
 
 > “SEC. 205. __AVIATION SAFETY INSPECTORS AND OPERATIONAL RESEARCH ANALYSTS.__ 
 
->     “(a) __Review by DOT Inspector General.—__ 
+>     “(a)  __Review by DOT Inspector General__  __.—__ 
 
 >     Not later than 9 months after the date of enactment of this Act \[Aug. 1, 2010\], the Inspector General of the Department of Transportation shall conduct a review of the aviation safety inspectors and operational research analysts of the Federal Aviation Administration assigned to part 121 air carriers and submit to the Administrator of the Federal Aviation Administration a report on the results of the review.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purpose of the review shall be, at a minimum—
 
@@ -635,7 +635,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __Aviation Rulemaking Committee.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration shall convene an aviation rulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
 
@@ -651,17 +651,17 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(F) Such other actions as the aviation rulemaking committee determines appropriate to enhance flight crewmember professional development.
 
->         “(2) __Compliance with sterile cockpit rule.—__ 
+>         “(2)  __Compliance with sterile cockpit rule__  __.—__ 
 
 >         Leadership and command training described in paragraphs (1)(D) and (1)(E) shall include instruction on compliance with flight crewmember duties under part 121.542 of title 14, Code of Federal Regulations.
 
 >         “(3) __Streamlined program review.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             As part of the rulemaking required by subsection (b), the Administrator shall establish a streamlined review process for part 121 air carriers that have in effect, as of the date of enactment of this Act \[Aug. 1, 2010\], the programs described in paragraph (1).
 
->             “(B) __Expedited approvals.—__ 
+>             “(B)  __Expedited approvals__  __.—__ 
 
 >             Under the streamlined review process, the Administrator shall—
 
@@ -669,7 +669,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >                 “(ii) expedite the approval of the programs that the Administrator determines meet such requirements.
 
->     “(b) __Rulemaking.—__ 
+>     “(b)  __Rulemaking__  __.—__ 
 
 >     The Administrator shall issue—
 
@@ -679,11 +679,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 207. __FLIGHT CREWMEMBER PAIRING AND CREW RESOURCE MANAGEMENT TECHNIQUES.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall conduct a study on aviation industry best practices with regard to flight crewmember pairing, crew resource management techniques, and pilot commuting.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Aug. 1, 2010\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
@@ -691,7 +691,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __Rulemaking Proceedings.—__ 
 
->         “(1) __Stall and upset recognition and recovery training.—__ 
+>         “(1)  __Stall and upset recognition and recovery training__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require part 121 air carriers to provide flight crewmembers with ground training and flight training or flight simulator training—
 
@@ -699,11 +699,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(B) to recognize and avoid an upset of an aircraft or, if not avoided, to execute such techniques as available data indicate are appropriate to recover from the upset in a given make, model, and series of aircraft.
 
->         “(2) __Remedial training programs.—__ 
+>         “(2)  __Remedial training programs__  __.—__ 
 
 >         The Administrator shall conduct a rulemaking proceeding to require part 121 air carriers to establish remedial training programs for flight crewmembers who have demonstrated performance deficiencies or experienced failures in the training environment.
 
->         “(3) __Deadlines.—__ 
+>         “(3)  __Deadlines__  __.—__ 
 
 >         The Administrator shall—
 
@@ -713,11 +713,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(b) __Stick Pusher Training and Weather Event Training.—__ 
 
->         “(1) __Multidisciplinary panel.—__ 
+>         “(1)  __Multidisciplinary panel__  __.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act, the Administrator shall convene a multidisciplinary panel of specialists in aircraft operations, flight crewmember training, human factors, and aviation safety to study and submit to the Administrator a report on methods to increase the familiarity of flight crewmembers with, and improve the response of flight crewmembers to, stick pusher systems, icing conditions, and microburst and windshear weather events.
 
->         “(2) __Report to congress and ntsb.—__ 
+>         “(2)  __Report to congress and ntsb__  __.—__ 
 
 >         Not later than one year after the date on which the Administrator convenes the panel, the Administrator shall—
 
@@ -725,39 +725,39 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(B) with respect to stick pusher systems, initiate appropriate actions to implement the recommendations of the panel.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Flight training and flight simulator.—__ 
+>         “(1)  __Flight training and flight simulator__  __.—__ 
 
 >         The terms ‘flight training’ and ‘flight simulator’ have the meanings given those terms in part 61.1 of title 14, Code of Federal Regulations (or any successor regulation).
 
->         “(2) __Stall.—__ 
+>         “(2)  __Stall__  __.—__ 
 
 >         The term ‘stall’ means an aerodynamic loss of lift caused by exceeding the critical angle of attack.
 
->         “(3) __Stick pusher.—__ 
+>         “(3)  __Stick pusher__  __.—__ 
 
 >         The term ‘stick pusher’ means a device that, at or near a stall, applies a nose down pitch force to an aircraft’s control columns to attempt to decrease the aircraft’s angle of attack.
 
->         “(4) __Upset.—__ 
+>         “(4)  __Upset__  __.—__ 
 
 >         The term ‘upset’ means an unusual aircraft attitude.
 
 > “SEC. 209. __FAA RULEMAKING ON TRAINING PROGRAMS.__ 
 
->     “(a) __Completion of Rulemaking on Training Programs.—__ 
+>     “(a)  __Completion of Rulemaking on Training Programs__  __.—__ 
 
 >     Not later than 14 months after the date of enactment of this Act \[Aug. 1, 2010\], the Administrator of the Federal Aviation Administration shall issue a final rule with respect to the notice of proposed rulemaking published in the Federal Register on January 12, 2009 (74 Fed. Reg. 1280; relating to training programs for flight crewmembers and aircraft dispatchers).
 
->     “(b) __Expert Panel To Review Part 121 and Part 135 Training Hours.—__ 
+>     “(b)  __Expert Panel To Review Part__  __121__  __and Part__  __135 Training Hours.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act, the Administrator shall convene a multidisciplinary expert panel comprised of, at a minimum, air carrier representatives, training facility representatives, instructional design experts, aircraft manufacturers, safety organization representatives, and labor union representatives.
 
->         “(2) __Assessment and recommendations.—__ 
+>         “(2)  __Assessment and recommendations__  __.—__ 
 
 >         The panel shall assess and make recommendations concerning—
 
@@ -775,11 +775,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(G) crew leadership training.
 
->         “(3) __Best practices.—__ 
+>         “(3)  __Best practices__  __.—__ 
 
 >         In making recommendations under subsection (b)(2), the panel shall consider, if appropriate, best practices in the aviation industry with respect to training protocols, methods, and procedures.
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than one year after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the National Transportation Safety Board a report based on the findings of the panel.
 
@@ -795,11 +795,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __Flight and Duty Time Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In accordance with paragraph (3), the Administrator of the Federal Aviation Administration shall issue regulations, based on the best available scientific information, to specify limitations on the hours of flight and duty time allowed for pilots to address problems relating to pilot fatigue.
 
->         “(2) __Matters to be addressed.—__ 
+>         “(2)  __Matters to be addressed__  __.—__ 
 
 >         In conducting the rulemaking proceeding under this subsection, the Administrator shall consider and review the following:
 
@@ -829,7 +829,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(M) Any other matters the Administrator considers appropriate.
 
->         “(3) __Rulemaking.—__ 
+>         “(3)  __Rulemaking__  __.—__ 
 
 >         The Administrator shall issue—
 
@@ -839,11 +839,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(b) __Fatigue Risk Management Plan.—__ 
 
->         “(1) __Submission of fatigue risk management plan by part 121 air carriers.—__ 
+>         “(1)  __Submission of fatigue risk management plan by part 121 air carriers__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, each part 121 air carrier shall submit to the Administrator for review and acceptance a fatigue risk management plan for the carrier’s pilots.
 
->         “(2) __Contents of plan.—__ 
+>         “(2)  __Contents of plan__  __.—__ 
 
 >         A fatigue risk management plan submitted by a part 121 air carrier under paragraph (1) shall include the following:
 
@@ -867,35 +867,35 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >                 “(ii) to mitigate performance errors.
 
->         “(3) __Review.—__ 
+>         “(3)  __Review__  __.—__ 
 
 >         Not later than 12 months after the date of enactment of this Act, the Administrator shall review and accept or reject the fatigue risk management plans submitted under this subsection. If the Administrator rejects a plan, the Administrator shall provide suggested modifications for resubmission of the plan.
 
 >         “(4) __Plan updates.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A part 121 air carrier shall update its fatigue risk management plan under paragraph (1) every 2 years and submit the update to the Administrator for review and acceptance.
 
->             “(B) __Review.—__ 
+>             “(B)  __Review__  __.—__ 
 
 >             Not later than 12 months after the date of submission of a plan update under subparagraph (A), the Administrator shall review and accept or reject the update. If the Administrator rejects an update, the Administrator shall provide suggested modifications for resubmission of the update.
 
->         “(5) __Compliance.—__ 
+>         “(5)  __Compliance__  __.—__ 
 
 >         A part 121 air carrier shall comply with the fatigue risk management plan of the air carrier that is accepted by the Administrator under this subsection.
 
->         “(6) __Civil penalties.—__ 
+>         “(6)  __Civil penalties__  __.—__ 
 
 >         A violation of this subsection by a part 121 air carrier shall be treated as a violation of chapter 447 of title 49, United States Code, for purposes of the application of civil penalties under chapter 463 of that title.
 
 >     “(c) __Effect of Commuting on Fatigue.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
 
->         “(2) __Study.—__ 
+>         “(2)  __Study__  __.—__ 
 
 >         In conducting the study, the National Academy of Sciences shall consider—
 
@@ -913,15 +913,15 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(G) any other matters as the Administrator considers appropriate.
 
->         “(3) __Preliminary findings.—__ 
+>         “(3)  __Preliminary findings__  __.—__ 
 
 >         Not later than 120 days after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit to the Administrator its preliminary findings under the study.
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than 9 months after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit a report to the Administrator containing its findings under the study and any recommendations for regulatory or administrative actions by the Federal Aviation Administration concerning commuting by pilots.
 
->         “(5) __Rulemaking.—__ 
+>         “(5)  __Rulemaking__  __.—__ 
 
 >         Following receipt of the report of the National Academy of Sciences under paragraph (4), the Administrator shall—
 
@@ -931,11 +931,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 213. __VOLUNTARY SAFETY PROGRAMS.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Aug. 1, 2010\], the Administrator of the Federal Aviation Administration shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the aviation safety action program, the flight operational quality assurance program, the line operations safety audit, and the advanced qualification program.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report shall include—
 
@@ -979,11 +979,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 214. __ASAP AND FOQA IMPLEMENTATION PLAN.__ 
 
->     “(a) __Development and Implementation Plan.—__ 
+>     “(a)  __Development and Implementation Plan__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall develop and implement a plan to facilitate the establishment of an aviation safety action program and a flight operational quality assurance program by all part 121 air carriers.
 
->     “(b) __Matters To Be Considered.—__ 
+>     “(b)  __Matters To Be Considered__  __.—__ 
 
 >     In developing the plan under subsection (a), the Administrator shall consider—
 
@@ -993,21 +993,21 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(3) how part 121 air carriers and aviation safety inspectors can better utilize data from such database as accident and incident prevention tools.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Aug. 1, 2010\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a copy of the plan developed under subsection (a) and an explanation of how the Administration will implement the plan.
 
->     “(d) __Deadline for Beginning Implementation of Plan.—__ 
+>     “(d)  __Deadline for Beginning Implementation of Plan__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act, the Administrator shall begin implementation of the plan developed under subsection (a).
 
 > “SEC. 215. __SAFETY MANAGEMENT SYSTEMS.__ 
 
->     “(a) __Rulemaking.—__ 
+>     “(a)  __Rulemaking__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require all part 121 air carriers to implement a safety management system.
 
->     “(b) __Matters To Consider.—__ 
+>     “(b)  __Matters To Consider__  __.—__ 
 
 >     In conducting the rulemaking under subsection (a), the Administrator shall consider, at a minimum, including each of the following as a part of the safety management system:
 
@@ -1019,7 +1019,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(4) An advanced qualification program.
 
->     “(c) __Deadlines.—__ 
+>     “(c)  __Deadlines__  __.—__ 
 
 >     The Administrator shall issue—
 
@@ -1027,7 +1027,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(2) not later than 24 months after the date of enactment of this Act, a final rule under subsection (a).
 
->     “(d) __Safety Management System Defined.—__ 
+>     “(d)  __Safety Management System Defined__  __.—__ 
 
 >     In this section, the term ‘safety management system’ means the program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
 
@@ -1035,17 +1035,17 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __Requirements.—__ 
 
->         “(1) __Rulemaking proceeding.—__ 
+>         “(1)  __Rulemaking proceeding__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require part 121 air carriers to develop and implement means and methods for ensuring that flight crewmembers have proper qualifications and experience.
 
 >         “(2) __Minimum requirements.—__ 
 
->             “(A) __Prospective flight crewmembers.—__ 
+>             “(A)  __Prospective flight crewmembers__  __.—__ 
 
 >             Rules issued under paragraph (1) shall ensure that prospective flight crewmembers undergo comprehensive preemployment screening, including an assessment of the skills, aptitudes, airmanship, and suitability of each applicant for a position as a flight crewmember in terms of functioning effectively in the air carrier’s operational environment.
 
->             “(B) __All flight crewmembers.—__ 
+>             “(B)  __All flight crewmembers__  __.—__ 
 
 >             Rules issued under paragraph (1) shall ensure that, after the date that is 3 years after the date of enactment of this Act \[Aug. 1, 2010\], all flight crewmembers—
 
@@ -1053,7 +1053,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >                 “(ii) have appropriate multi-engine aircraft flight experience, as determined by the Administrator.
 
->     “(b) __Deadlines.—__ 
+>     “(b)  __Deadlines__  __.—__ 
 
 >     The Administrator shall issue—
 
@@ -1061,17 +1061,17 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(2) not later than 24 months after such date of enactment, a final rule under subsection (a).
 
->     “(c) __Default.—__ 
+>     “(c)  __Default__  __.—__ 
 
 >     The requirement that each flight crewmember for a part 121 air carrier hold an airline transport pilot certificate under part 61 of title 14, Code of Federal Regulations, shall begin to apply on the date that is 3 years after the date of enactment of this Act even if the Administrator fails to meet a deadline established under this section.
 
 > “SEC. 217. __AIRLINE TRANSPORT PILOT CERTIFICATION.__ 
 
->     “(a) __Rulemaking Proceeding.—__ 
+>     “(a)  __Rulemaking Proceeding__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to amend part 61 of title 14, Code of Federal Regulations, to modify requirements for the issuance of an airline transport pilot certificate.
 
->     “(b) __Minimum Requirements.—__ 
+>     “(b)  __Minimum Requirements__  __.—__ 
 
 >     To be qualified to receive an airline transport pilot certificate pursuant to subsection (a), an individual shall—
 
@@ -1093,23 +1093,23 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(c) __Flight Hours.—__ 
 
->         “(1) __Numbers of flight hours.—__ 
+>         “(1)  __Numbers of flight hours__  __.—__ 
 
 >         The total flight hours required by the Administrator under subsection (b)(1) shall be at least 1,500 flight hours.
 
->         “(2) __Flight hours in difficult operational conditions.—__ 
+>         “(2)  __Flight hours in difficult operational conditions__  __.—__ 
 
 >         The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that may be encountered by an air carrier to enable a pilot to operate safely in such conditions.
 
->     “(d) __Credit Toward Flight Hours.—__ 
+>     “(d)  __Credit Toward Flight Hours__  __.—__ 
 
 >     The Administrator may allow specific academic training courses, beyond those required under subsection (b)(2), to be credited toward the total flight hours required under subsection (c). The Administrator may allow such credit based on a determination by the Administrator that allowing a pilot to take specific academic training courses will enhance safety more than requiring the pilot to fully comply with the flight hours requirement.
 
->     “(e) __Recommendations of Expert Panel.—__ 
+>     “(e)  __Recommendations of Expert Panel__  __.—__ 
 
 >     In conducting the rulemaking proceeding under this section, the Administrator shall review and consider the assessment and recommendations of the expert panel to review part 121 and part 135 training hours established by section 209(b) of this Act.
 
->     “(f) __Deadline.—__ 
+>     “(f)  __Deadline__  __.—__ 
 
 >     Not later than 36 months after the date of enactment of this Act \[Aug. 1, 2010\], the Administrator shall issue a final rule under subsection (a).”
 
@@ -1119,11 +1119,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General shall conduct a study of the training of the aviation safety inspectors of the Federal Aviation Administration (in this section referred to as ‘FAA inspectors’).
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The study shall include—
 
@@ -1135,11 +1135,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(D) the amount of travel that is required of FAA inspectors in receiving training.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
->     “(b) __Sense of the House.—__ 
+>     “(b)  __Sense of the House__  __.—__ 
 
 >     It is the sense of the House of Representatives that—
 
@@ -1151,11 +1151,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >     “(c) __Workload of Inspectors.—__ 
 
->         “(1) __Study by national academy of sciences.—__ 
+>         “(1)  __Study by national academy of sciences__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The study shall include the following:
 
@@ -1163,7 +1163,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(B) The approximate cost and length of time for developing such models.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 12 months after the initiation of the arrangements under subsection (a), the National Academy of Sciences shall transmit to Congress a report on the results of the study.”
 
@@ -1171,11 +1171,11 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 106–181, title V, § 513][/us/pl/106/181/s513], Apr. 5, 2000, [114 Stat. 144][/us/stat/114/144], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than August 1, 2000, the Administrator \[of the Federal Aviation Administration\] shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of the Federal Aviation Administration in implementing the air transportation oversight system, including in detail the training of inspectors under the system, the number of inspectors using the system, air carriers subject to the system, and the budget for the system.
 
->     “(b) __Required Contents.—__ 
+>     “(b)  __Required Contents__  __.—__ 
 
 >     At a minimum, the report shall indicate—
 
@@ -1185,7 +1185,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(3) the Administration’s efforts in collaboration with the aviation industry to develop and validate safety performance measures and appropriate risk weightings for such system.
 
->     “(c) __Update.—__ 
+>     “(c)  __Update__  __.—__ 
 
 >     Not later than August 1, 2002, the Administrator shall update the report submitted under this section and transmit the updated report to the committees referred to in subsection (a).”
 
@@ -1193,17 +1193,17 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 [Pub. L. 106–181, title VII, § 732][/us/pl/106/181/s732], Apr. 5, 2000, [114 Stat. 168][/us/stat/114/168], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Beginning on the date of the enactment of this Act \[Apr. 5, 2000\], flight operations conducted by Alaska guide pilots shall be regulated under the general operating and flight rules contained in part 91 of title 14, Code of Federal Regulations.
 
 >     “(b) __Rulemaking Proceeding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator \[of the Federal Aviation Administration\] shall conduct a rulemaking proceeding and issue a final rule to modify the general operating and flight rules referred to in subsection (a) by establishing special rules applicable to the flight operations conducted by Alaska guide pilots.
 
->         “(2) __Contents of rules.—__ 
+>         “(2)  __Contents of rules__  __.—__ 
 
 >         A final rule issued by the Administrator under paragraph (1) shall require Alaska guide pilots—
 
@@ -1221,19 +1221,19 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(G) to take such other actions as the Administrator determines necessary for safety.
 
->         “(3) __Consideration.—__ 
+>         “(3)  __Consideration__  __.—__ 
 
 >         In making a determination to impose a requirement under paragraph (2)(G), the Administrator shall take into account the unique conditions associated with air travel in the State of Alaska to ensure that such requirements are not unduly burdensome.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Letter of authorization.—__ 
+>         “(1)  __Letter of authorization__  __.—__ 
 
 >         The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilot certifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
 
->         “(2) __Alaska guide pilot.—__ 
+>         “(2)  __Alaska guide pilot__  __.—__ 
 
 >         The term ‘Alaska guide pilot’ means a pilot who—
 
@@ -1257,7 +1257,7 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 > “SEC. 3. __REPORTS REGARDING DEATHS ON AIRCRAFT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the 1-year period beginning on the 90th day following the date of the enactment of this Act \[Apr. 24, 1998\], a major air carrier shall make a good faith effort to obtain, and shall submit quarterly reports to the Administrator of the Federal Aviation Administration on, the following:
 
@@ -1271,21 +1271,21 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >         “(5) Such other information as the Administrator may request as necessary to aid in a decision as to whether or not to require automatic external defibrillators in airports or on aircraft operated by air carriers, or both.
 
->     “(b) __Format.—__ 
+>     “(b)  __Format__  __.—__ 
 
 >     The Administrator may specify a format for reports to be submitted under this section.
 
 > “SEC. 4. __DECISION ON AUTOMATIC EXTERNAL DEFIBRILLATORS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 120 days after the last day of the 1-year period described in section 3, the Administrator of the Federal Aviation Administration shall make a decision on whether or not to require automatic external defibrillators on passenger aircraft operated by air carriers and whether or not to require automatic external defibrillators at airports.
 
->     “(b) __Form of Decision.—__ 
+>     “(b)  __Form of Decision__  __.—__ 
 
 >     A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     If the Administrator decides that automatic external defibrillators should be required—
 
@@ -1311,21 +1311,21 @@ In this section, the word “Administrator” in sections 601(a)–(c) and 604 o
 
 >             “(C) the associated equipment and medication that should be required at the airport.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     The Administrator may not require automatic external defibrillators on helicopters and on aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less.
 
->     “(e) __Special Rule.—__ 
+>     “(e)  __Special Rule__  __.—__ 
 
 >     If the Administrator decides that automatic external defibrillators should be required at airports, the proposed rulemaking or recommendation shall provide that the airports are responsible for providing the defibrillators.
 
 > “SEC. 5. __LIMITATIONS ON LIABILITY.__ 
 
->     “(a) __Liability of Air Carriers.—__ 
+>     “(a)  __Liability of Air Carriers__  __.—__ 
 
 >     An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is not an employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
 
->     “(b) __Liability of Individuals.—__ 
+>     “(b)  __Liability of Individuals__  __.—__ 
 
 >     An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
 

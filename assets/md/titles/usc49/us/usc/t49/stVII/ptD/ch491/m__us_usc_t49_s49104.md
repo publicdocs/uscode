@@ -15,7 +15,7 @@
 
 ## § 49104. Lease of Metropolitan Washington Airports
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The lease between the Secretary of Transportation and the Metropolitan Washington Airports Authority under section 6005(a) of the Metropolitan Washington Airports Act of 1986 ([Public Law 99–500][/us/pl/99/500]; [100 Stat. 1783–375][/us/stat/100/1783-375]; [Public Law 99–591][/us/pl/99/591]; [100 Stat. 3341–378][/us/stat/100/3341-378]), for the Metropolitan Washington Airports must provide during its 50-year term at least the following:
 
@@ -85,15 +85,15 @@
 
         (11) The Secretary shall include other terms applicable to the parties to the lease that are consistent with, and carry out, this chapter.
 
-    (b) __Payments.—__ 
+    (b)  __Payments__  __.—__ 
 
     Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
 
-    (c) __Enforcement of Lease Provisions.—__ 
+    (c)  __Enforcement of Lease Provisions__  __.—__ 
 
     The district courts of the United States have jurisdiction to compel the Airports Authority and its officers and employees to comply with the terms of the lease. The Attorney General or an aggrieved party may bring an action on behalf of the Government.
 
-    (d) __Extension of Lease.—__ 
+    (d)  __Extension of Lease__  __.—__ 
 
     The Secretary and the Airports Authority may at any time negotiate an extension of the lease.
 

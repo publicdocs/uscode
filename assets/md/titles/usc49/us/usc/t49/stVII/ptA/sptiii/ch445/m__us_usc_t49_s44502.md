@@ -15,7 +15,7 @@
 
 ## § 44502. General facilities and personnel authority
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -31,15 +31,15 @@
 
         (4) __Purchase of instrument landing system.—__ 
 
-            (A) __Establishment of program.—__ 
+            (A)  __Establishment of program__  __.—__ 
 
             The Secretary shall purchase precision approach instrument landing system equipment for installation at airports on an expedited basis.
 
-            (B) __Authorization.—__ 
+            (B)  __Authorization__  __.—__ 
 
             No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
 
-        (5) __Improvements on leased properties.—__ 
+        (5)  __Improvements on leased properties__  __.—__ 
 
         The Administrator may make improvements to real property leased for no or nominal consideration for an air navigation facility, regardless of whether the cost of making the improvements exceeds the cost of leasing the real property, if—
 
@@ -49,23 +49,23 @@
 
             (C) the interest of the United States Government in the improvements is protected.
 
-    (b) __Certification of Necessity.—__ 
+    (b)  __Certification of Necessity__  __.—__ 
 
     Except for Government money expended under this part or for a military purpose, Government money may be expended to acquire, establish, construct, operate, repair, alter, or maintain an air navigation facility only if the Administrator of the Federal Aviation Administration certifies in writing that the facility is reasonably necessary for use in air commerce or for the national defense. An interested person may apply for a certificate for a facility to be acquired, established, constructed, operated, repaired, altered, or maintained by or for the person.
 
-    (c) __Ensuring Conformity With Plans and Policies.—__ 
+    (c)  __Ensuring Conformity With Plans and Policies__  __.—__ 
 
         (1) To ensure conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under [section 40103(b)(1) of this title][/us/usc/t49/s40103/b/1], a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
 
         (2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice on the effects of the establishment, construction, or alteration on the use of airspace by aircraft.
 
-    (d) __Public Use and Emergency Assistance.—__ 
+    (d)  __Public Use and Emergency Assistance__  __.—__ 
 
         (1) The head of a department, agency, or instrumentality of the Government having jurisdiction over an air navigation facility owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for public use of the facility.
 
         (2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
 
-    (e) __Transfers of Instrument Landing Systems.—__ 
+    (e)  __Transfers of Instrument Landing Systems__  __.—__ 
 
     An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
 
@@ -431,27 +431,27 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 [Pub. L. 108–176, title I, § 182][/us/pl/108/176/s182], Dec. 12, 2003, [117 Stat. 2515][/us/stat/117/2515], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to test the cost effectiveness and feasibility of long-term financing of modernization of major air traffic control systems, the Administrator of the Federal Aviation Administration may establish a pilot program to test innovative financing techniques through amending, subject to [section 1341 of title 31][/us/usc/t31/s1341], United States Code, a contract for more than one, but not more than 20, fiscal years to purchase and install air traffic control equipment for the Administration. Such amendments may be for more than one, but not more than 10, fiscal years.
 
->     “(b) __Cancellation.—__ 
+>     “(b)  __Cancellation__  __.—__ 
 
 >     A contract described in subsection (a) may include a cancellation provision if the Administrator determines that such a provision is necessary and in the best interest of the United States. Any such provision shall include a cancellation liability schedule that covers reasonable and allocable costs incurred by the contractor through the date of cancellation plus reasonable profit, if any, on those costs. Any such provision shall not apply if the contract is terminated by default of the contractor.
 
->     “(c) __Contract Provisions.—__ 
+>     “(c)  __Contract Provisions__  __.—__ 
 
 >     If feasible and practicable for the pilot program, the Administrator may make an advance contract provision to achieve economic-lot purchases and more efficient production rates.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     The Administrator may not amend a contract under this section until the program for the terminal automation replacement systems has been rebaselined in accordance with the acquisition management system of the Administration.
 
->     “(e) __Annual Reports.—__ 
+>     “(e)  __Annual Reports__  __.—__ 
 
 >     At the end of each fiscal year during the term of the pilot program, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on how the Administrator has implemented in such fiscal year the pilot program, the number and types of contracts or contract amendments that are entered into under the program, and the program’s cost effectiveness.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Out of amounts appropriated under section 48101 \[probably means [section 48101 of title 49][/us/usc/t49/s48101], United States Code\] for fiscal year 2004, such sums as may be necessary shall be available to carry out this section.”
 
@@ -459,15 +459,15 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 [Pub. L. 106–181, title I, § 124][/us/pl/106/181/s124], Apr. 5, 2000, [114 Stat. 75][/us/stat/114/75], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] shall enter into a cooperative research and development agreement to study the benefits of utilizing enhanced vision technologies to replace, enhance, or add to conventional airport approach and runway lighting systems.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology to meet the operational requirements of the intended application.
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     Not later than 180 days after the conclusion of work under the research agreements, the Administrator shall transmit to Congress a report on the potential of enhanced vision technology to satisfy the operational requirements of the Federal Aviation Administration and a schedule for the development of performance standards for certification appropriate to the application of the enhanced vision technologies. If the Administrator certifies an enhanced vision technology as meeting such performance standards, the technology shall be treated as a navigation aid or other aid for purposes of [section 47102(3)(B)(i) of title 49][/us/usc/t49/s47102/3/B/i], United States Code.”
 
@@ -507,13 +507,13 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 [Pub. L. 103–260, title IV, § 401][/us/pl/103/260/s401], May 26, 1994, [108 Stat. 702][/us/stat/108/702], provided that:
 
->     “(a) __In general.—__ 
+>     “(a)  __In general__  __.—__ 
 
 >     Notwithstanding the termination of the personnel demonstration project for certain Federal Aviation Administration employees on June 17, 1994, pursuant to [section 4703 of title 5][/us/usc/t5/s4703], United States Code, the Federal Aviation Administration, subject to subsection (d), shall continue to pay quarterly retention allowance payments in accordance with subsection (b) to those employees who are entitled to quarterly retention allowance payments under the demonstration project as of June 16, 1994.
 
 >     “(b) __Computation Rules.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amount of each quarterly retention allowance payment to which an employee is entitled under subsection (a) shall be the amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994, reduced by that portion of the amount of any increase in the employee’s annual rate of basic pay subsequent to June 17, 1994, from any source, which is allocable to the quarter for which the allowance is to be paid (or, if applicable, to that portion of the quarter for which the allowance is to be paid). For purposes of the preceding sentence, the increase in an employee’s annual rate of basic pay includes—
 
@@ -531,11 +531,11 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 >             “(G) any other increase in annual rate of basic pay under any other provision of law.
 
->         “(2) __Section rule.—__ 
+>         “(2)  __Section rule__  __.—__ 
 
 >         In the case of an employee on leave without pay or other similar status for any part of the quarter prior to June 17, 1994, based on which the amount of the allowance payments for such employee under subsection (a) are computed, the ‘amount of the last quarterly retention allowance payment paid to such employee under the personnel demonstration project prior to June 17, 1994’ shall, for purposes of paragraph (1), be deemed to be the amount of the allowance which would have been payable to such employee for such quarter under such project had such employee been in pay status throughout such quarter.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     An employee’s entitlement to quarterly retention allowance payments under this section shall cease when—
 
@@ -545,11 +545,11 @@ In subsection (e), the words “or compact” are omitted as surplus. The words 
 
 >         whichever is earlier.
 
->     “(d) __Special Payment Rule.—__ 
+>     “(d)  __Special Payment Rule__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration may make payment for the costs incurred under the program established by subsection (a) for the period between June 18, 1994, and September 30, 1994, following the end of the first full pay period that begins on or after October 1, 1994, subject to appropriations made available in fiscal year 1995.
 
->     “(e) __Study of Recruitment and Retention Incentives.—__ 
+>     “(e)  __Study of Recruitment and Retention Incentives__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall conduct a study of impediments that may exist to achieving appropriate air traffic controller staffing levels at hard-to-staff facilities. In conducting such study, the Administrator shall identify and evaluate the extent to which special incentives, of a financial or non-financial nature, could be useful in recruiting or retaining air traffic controllers at such facilities. The Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives not later than 180 days after the date of enactment of this Act \[May 26, 1994\] a report on (1) the results of such study, (2) planned administrative actions, and (3) any recommended legislation.”
 

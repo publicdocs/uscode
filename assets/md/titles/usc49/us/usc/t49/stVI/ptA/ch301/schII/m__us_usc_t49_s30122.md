@@ -15,15 +15,15 @@
 
 ## § 30122. Making safety devices and elements inoperative
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “motor vehicle repair business” means a person holding itself out to the public to repair for compensation a motor vehicle or motor vehicle equipment.
 
-    (b) __Prohibition.—__ 
+    (b)  __Prohibition__  __.—__ 
 
     A manufacturer, distributor, dealer, or motor vehicle repair business may not knowingly make inoperative any part of a device or element of design installed on or in a motor vehicle or motor vehicle equipment in compliance with an applicable motor vehicle safety standard prescribed under this chapter unless the manufacturer, distributor, dealer, or repair business reasonably believes the vehicle or equipment will not be used (except for testing or a similar purpose during maintenance or repair) when the device or element is inoperative.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of Transportation may prescribe regulations—
 

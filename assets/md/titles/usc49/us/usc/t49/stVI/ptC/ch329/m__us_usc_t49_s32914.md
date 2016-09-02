@@ -15,11 +15,11 @@
 
 ## § 32914. Collecting civil penalties
 
-    (a) __Civil Actions.—__ 
+    (a)  __Civil Actions__  __.—__ 
 
     If a person does not pay a civil penalty after it becomes a final order of the Secretary of Transportation or a judgment of a court of appeals of the United States for a circuit, the Attorney General shall bring a civil action in an appropriate district court of the United States to collect the penalty. The validity and appropriateness of the final order imposing the penalty is not reviewable in the action.
 
-    (b) __Priority of Claims.—__ 
+    (b)  __Priority of Claims__  __.—__ 
 
     A claim of a creditor against a bankrupt or insolvent manufacturer of automobiles has priority over a claim of the United States Government against the manufacturer for a civil penalty under [section 32912(b) of this title][/us/usc/t49/s32912/b] when the creditor’s claim is for credit extended before a final judgment (without regard to section 32913(b)(1) and (2) of this title) in an action to collect under subsection (a) of this section.
 

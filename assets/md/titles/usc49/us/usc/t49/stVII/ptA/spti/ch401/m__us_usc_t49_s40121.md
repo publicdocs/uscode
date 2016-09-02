@@ -15,7 +15,7 @@
 
 ## § 40121. Air traffic control modernization reviews
 
-    (a) __Required Terminations of Acquisitions.—__ 
+    (a)  __Required Terminations of Acquisitions__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall terminate any acquisition program initiated after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and funded under the Facilities and Equipment account that—
 
@@ -25,7 +25,7 @@
 
         (3) is more than 50 percent behind schedule as determined in accordance with the schedule goal established for the program.
 
-    (b) __Authorized Termination of Acquisition Programs.—__ 
+    (b)  __Authorized Termination of Acquisition Programs__  __.—__ 
 
     The Administrator shall consider terminating, under the authority of subsection (a), any substantial acquisition program that—
 
@@ -37,15 +37,15 @@
 
     (c) __Exceptions and Report.—__ 
 
-        (1) __Continuance of program, etc.—__ 
+        (1)  __Continuance of program, etc__  __.—__ 
 
         Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
 
-        (2) __Department of defense.—__ 
+        (2)  __Department of defense__  __.—__ 
 
         The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under [section 40110(d)(2) of this title][/us/usc/t49/s40110/d/2] when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
 
-        (3) __Report.—__ 
+        (3)  __Report__  __.—__ 
 
         If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 

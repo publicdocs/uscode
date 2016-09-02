@@ -15,7 +15,7 @@
 
 ## § 80502. Transportation of animals
 
-    (a) __Confinement.—__ 
+    (a)  __Confinement__  __.—__ 
 
         (1) Except as provided in this section, a rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel transporting animals from a place in a State, the District of Columbia, or a territory or possession of the United States through or to a place in another State, the District of Columbia, or a territory or possession, may not confine animals in a vehicle or vessel for more than 28 consecutive hours without unloading the animals for feeding, water, and rest.
 
@@ -29,7 +29,7 @@
 
         (3) Time spent in loading and unloading animals is not included as part of a period of confinement under this subsection.
 
-    (b) __Unloading, Feeding, Watering, and Rest.—__ 
+    (b)  __Unloading, Feeding, Watering, and Rest__  __.—__ 
 
     Animals being transported shall be unloaded in a humane way into pens equipped for feeding, water, and rest for at least 5 consecutive hours. The owner or person having custody of the animals shall feed and water the animals. When the animals are not fed and watered by the owner or person having custody, the rail carrier, express carrier, or common carrier (except by air or water), the receiver, trustee, or lessee of one of those carriers, or the owner or master of a vessel transporting the animals—
 
@@ -39,11 +39,11 @@
 
         (3) is not liable for detaining the animals for a reasonable period to comply with subsection (a) of this section.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     This section does not apply when animals are transported in a vehicle or vessel in which the animals have food, water, space, and an opportunity for rest.
 
-    (d) __Civil Penalty.—__ 
+    (d)  __Civil Penalty__  __.—__ 
 
     A rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel that knowingly and willfully violates this section is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation. On learning of a violation, the Attorney General shall bring a civil action to collect the penalty in the district court of the United States for the judicial district in which the violation occurred or the defendant resides or does business.
 

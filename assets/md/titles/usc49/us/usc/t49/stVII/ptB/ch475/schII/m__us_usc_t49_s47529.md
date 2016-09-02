@@ -15,7 +15,7 @@
 
 ## § 47529. Nonaddition rule
 
-    (a) __General Limitations.—__ 
+    (a)  __General Limitations__  __.—__ 
 
     Except as provided in subsection (b) of this section and [section 47530 of this title][/us/usc/t49/s47530], a person may operate a civil subsonic turbojet aircraft with a maximum weight of more than 75,000 pounds that is imported into the United States after November 4, 1990, only if the aircraft—
 
@@ -23,11 +23,11 @@
 
         (2) was purchased by the person importing the aircraft into the United States under a legally binding contract made before November 5, 1990.
 
-    (b) __Exemptions.—__ 
+    (b)  __Exemptions__  __.—__ 
 
     The Secretary of Transportation may provide an exemption from subsection (a) of this section to permit a person to obtain modifications to an aircraft to meet the stage 3 noise levels.
 
-    (c) __Aircraft Deemed Not Imported.—__ 
+    (c)  __Aircraft Deemed Not Imported__  __.—__ 
 
     In this section, an aircraft is deemed not to have been imported into the United States if the aircraft—
 

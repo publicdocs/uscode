@@ -15,7 +15,7 @@
 
 ## § 30167. Disclosure of information by the Secretary of Transportation
 
-    (a) __Confidentiality of Information.—__ 
+    (a)  __Confidentiality of Information__  __.—__ 
 
     Information obtained under this chapter related to a confidential matter referred to in [section 1905 of title 18][/us/usc/t18/s1905] may be disclosed only in the following ways:
 
@@ -27,15 +27,15 @@
 
         (4) to the public when the Secretary of Transportation decides that disclosure is necessary to carry out [section 30101 of this title][/us/usc/t49/s30101].
 
-    (b) __Defect and Noncompliance Information.—__ 
+    (b)  __Defect and Noncompliance Information__  __.—__ 
 
     Subject to subsection (a) of this section, the Secretary shall disclose information obtained under this chapter related to a defect or noncompliance that the Secretary decides will assist in carrying out sections 30117(b) and 30118–30121 of this title or that is required to be disclosed under [section 30118(a) of this title][/us/usc/t49/s30118/a]. A requirement to disclose information under this subsection is in addition to the requirements of [section 552 of title 5][/us/usc/t5/s552].
 
-    (c) __Information About Manufacturer’s Increased Costs.—__ 
+    (c)  __Information About Manufacturer’s Increased Costs__  __.—__ 
 
     A manufacturer opposing an action of the Secretary under this chapter because of increased cost shall submit to the Secretary information about the increased cost, including the manufacturer’s cost and the cost to retail purchasers, that allows the public and the Secretary to evaluate the manufacturer’s statement. The Secretary shall evaluate the information promptly and, subject to subsection (a) of this section, shall make the information and evaluation available to the public. The Secretary shall publish a notice in the Federal Register that the information is available.
 
-    (d) __Withholding Information From Congress.—__ 
+    (d)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 

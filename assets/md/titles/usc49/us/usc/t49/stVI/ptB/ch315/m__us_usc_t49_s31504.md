@@ -15,7 +15,7 @@
 
 ## § 31504. Identification of motor vehicles
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation may—
 
@@ -23,7 +23,7 @@
 
         (2) require each of those motor private carriers and motor carriers of migrant workers to pay the reasonable cost of the plate.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A motor private carrier or a motor carrier of migrant workers may use an identification plate only as authorized by the Secretary.
 

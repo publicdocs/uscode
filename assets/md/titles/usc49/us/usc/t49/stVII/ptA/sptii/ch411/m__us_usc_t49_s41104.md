@@ -15,13 +15,13 @@
 
 ## § 41104. Additional limitations and requirements of charter air carriers
 
-    (a) __Restrictions.—__ 
+    (a)  __Restrictions__  __.—__ 
 
     The Secretary of Transportation may prescribe a regulation or issue an order restricting the marketability, flexibility, accessibility, or variety of charter air transportation provided under a certificate issued under [section 41102 of this title][/us/usc/t49/s41102] only to the extent required by the public interest. A regulation prescribed or order issued under this subsection may not be more restrictive than a regulation related to charter air transportation that was in effect on October 1, 1978.
 
     (b) __Scheduled Operations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraphs (3) and (4), an air carrier, including an indirect air carrier, may not provide, in aircraft designed for more than 9 passenger seats, regularly scheduled charter air transportation, for which the public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flight, to or from an airport that—
 
@@ -35,19 +35,19 @@
 
                 (ii) is located within 20 nautical miles (22 statute miles) of 3 or more airports that each annually account for at least 1 percent of the total United States passenger enplanements and at least 2 of which are operated by the sponsor of the reliever airport.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer’s representative.
 
-        (3) __Exception.—__ 
+        (3)  __Exception__  __.—__ 
 
         This subsection does not apply to any airport in the State of Alaska or to any airport outside the United States.
 
-        (4) __Waivers.—__ 
+        (4)  __Waivers__  __.—__ 
 
         The Secretary may waive the application of paragraph (1)(B) in cases in which the Secretary determines that the public interest so requires.
 
-    (c) __Alaska.—__ 
+    (c)  __Alaska__  __.—__ 
 
     An air carrier holding a certificate issued under [section 41102 of this title][/us/usc/t49/s41102] may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issued under section 41102 to a citizen of the United States who, before July 1, 1977—
 
@@ -55,7 +55,7 @@
 
         (2) conducted air transport operations between places in Alaska with aircraft with a certificate for gross takeoff weight of more than 40,000 pounds.
 
-    (d) __Suspensions.—__ 
+    (d)  __Suspensions__  __.—__ 
 
         (1) The Secretary shall suspend for not more than 30 days any part of the certificate of a charter air carrier if the Secretary decides that the failure of the carrier to comply with the requirements described in sections 41110(e) and 41112 of this title, or a regulation or order of the Secretary under section 41110(e) or 41112, requires immediate suspension in the interest of the rights, welfare, or safety of the public. The Secretary may act under this paragraph without notice or a hearing.
 

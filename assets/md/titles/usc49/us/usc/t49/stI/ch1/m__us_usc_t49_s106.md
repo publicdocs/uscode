@@ -43,11 +43,11 @@
 
     (f) __Authority of the Secretary and the Administrator.—__ 
 
-        (1) __Authority of the secretary.—__ 
+        (1)  __Authority of the secretary__  __.—__ 
 
         Except as provided in paragraph (2), the Secretary of Transportation shall carry out the duties and powers, and controls the personnel and activities, of the Administration. Neither the Secretary nor the Administrator may submit decisions for the approval of, or be bound by the decisions or recommendations of, a committee, board, or organization established by executive order.
 
-        (2) __Authority of the administrator.—__ 
+        (2)  __Authority of the administrator__  __.—__ 
 
         The Administrator—
 
@@ -71,11 +71,11 @@
 
         (3) __Regulations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no later than 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
 
-            (B) __Approval of secretary of transportation.—__ 
+            (B)  __Approval of secretary of transportation__  __.—__ 
 
                 (i)
 
@@ -91,7 +91,7 @@
 
                 (iv) The Administrator shall submit a copy of any regulation requiring approval by the Secretary under clause (i) to the Secretary, who shall either approve it or return it to the Administrator with comments within 45 days after receiving it.
 
-            (C) __Periodic review.—__ 
+            (C)  __Periodic review__  __.—__ 
 
                 (i) Beginning on the date which is 3 years after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall review any unusually burdensome regulation issued by the Administrator after such date of enactment beginning not later than 3 years after the effective date of the regulation to determine if the cost assumptions were accurate, the benefit of the regulations, and the need to continue such regulations in force in their present form.
 
@@ -101,7 +101,7 @@
 
                 (iv) The periodic review of regulations may be performed by advisory committees and the Management Advisory Council established under subsection (p).
 
-        (4) __Definition of political appointee.—__ 
+        (4)  __Definition of political appointee__  __.—__ 
 
         For purposes of this subsection, the term “political appointee” means any individual who—
 
@@ -111,7 +111,7 @@
 
             (C) is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
 
-    (g) __Duties and Powers of Administrator.—__ 
+    (g)  __Duties and Powers of Administrator__  __.—__ 
 
         (1)
 
@@ -131,7 +131,7 @@
 
     (k) __Authorization of Appropriations for Operations.—__ 
 
-        (1) __Salaries, operations, and maintenance.—__ 
+        (1)  __Salaries, operations, and maintenance__  __.—__ 
 
         There is authorized to be appropriated to the Secretary of Transportation for salaries, operations, and maintenance of the Administration—
 
@@ -145,7 +145,7 @@
 
             Such sums shall remain available until expended.
 
-        (2) __Authorized expenditures.—__ 
+        (2)  __Authorized expenditures__  __.—__ 
 
         Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
 
@@ -155,53 +155,53 @@
 
             (C) Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
 
-        (3) __Administering program within available funding.—__ 
+        (3)  __Administering program within available funding__  __.—__ 
 
         Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
     (l) __Personnel and Services.—__ 
 
-        (1) __Officers and employees.—__ 
+        (1)  __Officers and employees__  __.—__ 
 
         Except as provided in subsections (a) and (g) of section 40122, the Administrator is authorized, in the performance of the functions of the Administrator, to appoint, transfer, and fix the compensation of such officers and employees, including attorneys, as may be necessary to carry out the functions of the Administrator and the Administration. In fixing compensation and benefits of officers and employees, the Administrator shall not engage in any type of bargaining, except to the extent provided for in section 40122(a), nor shall the Administrator be bound by any requirement to establish such compensation or benefits at particular levels.
 
-        (2) __Experts and consultants.—__ 
+        (2)  __Experts and consultants__  __.—__ 
 
         The Administrator is authorized to obtain the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109].
 
-        (3) __Transportation and per diem expenses.—__ 
+        (3)  __Transportation and per diem expenses__  __.—__ 
 
         The Administrator is authorized to pay transportation expenses, and per diem in lieu of subsistence expenses, in accordance with chapter 57 of title 5.
 
-        (4) __Use of personnel from other agencies.—__ 
+        (4)  __Use of personnel from other agencies__  __.—__ 
 
         The Administrator is authorized to utilize the services of personnel of any other Federal agency (as such term is defined under [section 551(1) of title 5][/us/usc/t5/s551/1]).
 
         (5) __Voluntary services.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             In exercising the authority to accept gifts and voluntary services under [section 326 of this title][/us/usc/t49/s326], and without regard to [section 1342 of title 31][/us/usc/t31/s1342], the Administrator may not accept voluntary and uncompensated services if such services are used to displace Federal employees employed on a full-time, part-time, or seasonal basis.
 
-            (B) __Incidental expenses.—__ 
+            (B)  __Incidental expenses__  __.—__ 
 
             The Administrator is authorized to provide for incidental expenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
 
-            (C) __Limited treatment as federal employees.—__ 
+            (C)  __Limited treatment as federal employees__  __.—__ 
 
             An individual who provides voluntary services under this subsection shall not be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
 
-        (6) __Contracts.—__ 
+        (6)  __Contracts__  __.—__ 
 
         The Administrator is authorized to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the functions of the Administrator and the Administration. The Administrator may enter into such contracts, leases, cooperative agreements, and other transactions with any Federal agency (as such term is defined in [section 551(1) of title 5][/us/usc/t5/s551/1]) or any instrumentality of the United States, any State, territory, or possession, or political subdivision thereof, any other governmental entity, or any person, firm, association, corporation, or educational institution, on such terms and conditions as the Administrator may consider appropriate.
 
-    (m) __Cooperation by Administrator.—__ 
+    (m)  __Cooperation by Administrator__  __.—__ 
 
     With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in [section 551(1) of title 5][/us/usc/t5/s551/1]) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, with or without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 
     (n) __Acquisition.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator is authorized—
 
@@ -219,21 +219,21 @@
 
             (C) to provide by contract or otherwise for eating facilities and other necessary facilities for the welfare of employees of the Administration at the installations of the Administration, and to acquire, operate, and maintain equipment for these facilities.
 
-        (2) __Title.—__ 
+        (2)  __Title__  __.—__ 
 
         Title to any property or interest therein acquired pursuant to this subsection shall be held by the Government of the United States.
 
-    (o) __Transfers of Funds.—__ 
+    (o)  __Transfers of Funds__  __.—__ 
 
     The Administrator is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in [section 551(1) of title 5][/us/usc/t5/s551/1]) to carry out functions transferred by law to the Administrator or functions transferred pursuant to law to the Administrator on or after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996.
 
     (p) __Management Advisory Council and Air Traffic Services Board.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         Within 3 months after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall establish an advisory council which shall be known as the Federal Aviation Management Advisory Council (in this subsection referred to as the “Council”). With respect to Administration management, policy, spending, funding, and regulatory matters affecting the aviation industry, the Council may submit comments, recommended modifications, and dissenting views to the Administrator. The Administrator shall include in any submission to Congress, the Secretary, or the general public, and in any submission for publication in the Federal Register, a description of the comments, recommended modifications, and dissenting views received from the Council, together with the reasons for any differences between the views of the Council and the views or actions of the Administrator.
 
-        (2) __Membership.—__ 
+        (2)  __Membership__  __.—__ 
 
         The Council shall consist of 13 members, who shall consist of—
 
@@ -251,13 +251,13 @@
 
             (D) 1 member appointed, from among individuals who are the leaders of their respective unions of air traffic control system employees, by the Secretary of Transportation.
 
-        (3) __Qualifications.—__ 
+        (3)  __Qualifications__  __.—__ 
 
         No officer or employee of the United States Government may be appointed to the Council under paragraph (2)(C) or to the Air Traffic Services Committee.
 
         (4) __Functions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
                 (i) The Council shall provide advice and counsel to the Administrator on issues which affect or are affected by the operations of the Administrator. The Council shall function as an oversight resource for management, policy, spending, and regulatory matters under the jurisdiction of the Administration.
 
@@ -265,21 +265,21 @@
 
                 (iii) The Council shall review the process through which the Administration determines to use advisory circulars and service bulletins.
 
-            (B) __Meetings.—__ 
+            (B)  __Meetings__  __.—__ 
 
             The Council shall meet on a regular and periodic basis or at the call of the chairman or of the Administrator.
 
-            (C) __Access to documents and staff.—__ 
+            (C)  __Access to documents and staff__  __.—__ 
 
             The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under [section 552 of title 5][/us/usc/t5/s552] (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of [section 1905 of title 18][/us/usc/t18/s1905], pertaining to unauthorized disclosure of such information.
 
-        (5) __Federal advisory committee act not to apply.—__ 
+        (5)  __Federal advisory committee act not to apply__  __.—__ 
 
         The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, or such aviation rulemaking committees as the Administrator shall designate.
 
         (6) __Administrative matters.—__ 
 
-            (A) __Terms of members appointed under paragraph (2)(c).—__ 
+            (A)  __Terms of members appointed under paragraph (2)(c)__  __.—__ 
 
             Members of the Council appointed under paragraph (2)(C) shall be appointed for a term of 3 years. Of the members first appointed by the President under paragraph (2)(C)—
 
@@ -289,37 +289,37 @@
 
                 (iii) 3 shall be appointed for terms of 3 years.
 
-            (B) __Term for air traffic control representative.—__ 
+            (B)  __Term for air traffic control representative__  __.—__ 
 
             The member appointed under paragraph (2)(D) shall be appointed for a term of 3 years, except that the term of such individual shall end whenever the individual no longer meets the requirements of paragraph (2)(D).
 
-            (C) __Terms for air traffic services committee members.—__ 
+            (C)  __Terms for air traffic services committee members__  __.—__ 
 
             The members appointed to the Air Traffic Services Committee shall be appointed for a term of 5 years, except that the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).
 
-            (D) __Reappointment.—__ 
+            (D)  __Reappointment__  __.—__ 
 
             An individual may not be appointed to the Committee to more than two 5-year terms.
 
-            (E) __Vacancy.—__ 
+            (E)  __Vacancy__  __.—__ 
 
             Any vacancy on the Council or Committee shall be filled in the same manner as the original appointment, except that any vacancy caused by a member appointed by the President under paragraph (2)(C)(i) shall be filled by the Secretary in accordance with paragraph (2)(C)(ii). Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed for the remainder of that term.
 
-            (F) __Continuation in office.—__ 
+            (F)  __Continuation in office__  __.—__ 
 
             A member of the Council or Committee whose term expires shall continue to serve until the date on which the member’s successor takes office.
 
-            (G) __Removal.—__ 
+            (G)  __Removal__  __.—__ 
 
             Any member of the Council appointed under paragraph (2)(D) may be removed for cause by the President or Secretary whoever makes the appointment. Any member of the Committee may be removed for cause by the Secretary.
 
             (H) __Claims against members of committee.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A member appointed to the Committee shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member of the Committee.
 
-                (ii) __Effect on other law.—__ 
+                (ii)  __Effect on other law__  __.—__ 
 
                 This subparagraph shall not be construed—
 
@@ -331,33 +331,33 @@
 
             (I) __Ethical considerations.—__ 
 
-                (i) __Financial disclosure.—__ 
+                (i)  __Financial disclosure__  __.—__ 
 
                 During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
-                (ii) __Restrictions on post-employment.—__ 
+                (ii)  __Restrictions on post-employment__  __.—__ 
 
                 For purposes of [section 207(c) of title 18][/us/usc/t18/s207/c], an individual who is a member of the Committee shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Committee; except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
 
-            (J) __Chairman; vice chairman.—__ 
+            (J)  __Chairman; vice chairman__  __.—__ 
 
             The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
-            (K) __Travel and per diem.—__ 
+            (K)  __Travel and per diem__  __.—__ 
 
             Each member of the Council or Committee shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
 
-            (L) __Detail of personnel from the administration.—__ 
+            (L)  __Detail of personnel from the administration__  __.—__ 
 
             The Administrator shall make available to the Council or Committee such staff, information, and administrative services and assistance as may reasonably be required to enable the Council or Committee to carry out its responsibilities under this subsection.
 
         (7) __Air traffic services committee.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             The Administrator shall establish a committee that is independent of the Council by converting the Air Traffic Services Subcommittee of the Council, as in effect on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, into such committee. The committee shall be known as the Air Traffic Services Committee (in this subsection referred to as the “Committee”).
 
-            (B) __Membership and qualifications.—__ 
+            (B)  __Membership and qualifications__  __.—__ 
 
             Subject to paragraph (6)(C), the Committee shall consist of five members, one of whom shall be the Administrator and shall serve as chairperson. The remaining members shall be appointed by the President with the advice and consent of the Senate and—
 
@@ -381,7 +381,7 @@
 
                     (VI) Labor relations.
 
-            (C) __Prohibitions on members of committee.—__ 
+            (C)  __Prohibitions on members of committee__  __.—__ 
 
             No member of the Committee may—
 
@@ -393,19 +393,19 @@
 
             (D) __General responsibilities.—__ 
 
-                (i) __Oversight.—__ 
+                (i)  __Oversight__  __.—__ 
 
                 The Committee shall oversee the administration, management, conduct, direction, and supervision of the air traffic control system.
 
-                (ii) __Confidentiality.—__ 
+                (ii)  __Confidentiality__  __.—__ 
 
                 The Committee shall ensure that appropriate confidentiality is maintained in the exercise of its duties.
 
-            (E) __Specific responsibilities.—__ 
+            (E)  __Specific responsibilities__  __.—__ 
 
             The Committee shall have the following specific responsibilities:
 
-                (i) __Strategic plans.—__ 
+                (i)  __Strategic plans__  __.—__ 
 
                 To review, approve, and monitor the strategic plan for the air traffic control system, including the establishment of—
 
@@ -415,7 +415,7 @@
 
                     (III) annual and long-range strategic plans.
 
-                (ii) __Modernization and improvement.—__ 
+                (ii)  __Modernization and improvement__  __.—__ 
 
                 To review and approve—
 
@@ -423,7 +423,7 @@
 
                     (II) procurements of air traffic control equipment in excess of $100,000,000.
 
-                (iii) __Operational plans.—__ 
+                (iii)  __Operational plans__  __.—__ 
 
                 To review the operational functions of the air traffic control system, including—
 
@@ -433,7 +433,7 @@
 
                     (III) plans for training and education.
 
-                (iv) __Management.—__ 
+                (iv)  __Management__  __.—__ 
 
                 To—
 
@@ -447,7 +447,7 @@
 
                     (V) review the performance and compensation of managers responsible for major acquisition projects, including the ability of the managers to meet schedule and budget targets.
 
-                (v) __Budget.—__ 
+                (v)  __Budget__  __.—__ 
 
                 To—
 
@@ -459,17 +459,17 @@
 
             (F) __Committee personnel matters and expenses.—__ 
 
-                (i) __Personnel matters.—__ 
+                (i)  __Personnel matters__  __.—__ 
 
                 The Committee may appoint and terminate for purposes of employment by the Committee any personnel that may be necessary to enable the Committee to perform its duties, and may procure temporary and intermittent services under section 40122.
 
-                (ii) __Travel expenses.—__ 
+                (ii)  __Travel expenses__  __.—__ 
 
                 Each member of the Committee shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
 
             (G) __Administrative matters.—__ 
 
-                (i) __Powers of chair.—__ 
+                (i)  __Powers of chair__  __.—__ 
 
                 Except as otherwise provided by a majority vote of the Committee, the powers of the chairperson shall include—
 
@@ -481,47 +481,47 @@
 
                     (IV) developing rules for the conduct of business.
 
-                (ii) __Meetings.—__ 
+                (ii)  __Meetings__  __.—__ 
 
                 The Committee shall meet at least quarterly and at such other times as the chairperson determines appropriate.
 
-                (iii) __Quorum.—__ 
+                (iii)  __Quorum__  __.—__ 
 
                 Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
 
             (H) __Reports.—__ 
 
-                (i) __Annual.—__ 
+                (i)  __Annual__  __.—__ 
 
                 The Committee shall each year report with respect to the conduct of its responsibilities under this title to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
-                (ii) __Additional report.—__ 
+                (ii)  __Additional report__  __.—__ 
 
                 If a determination by the Committee under subparagraph (D)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Committee shall report such determination to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
-                (iii) __Action of administrator on report.—__ 
+                (iii)  __Action of administrator on report__  __.—__ 
 
                 Not later than 60 days after the date of a report of the Committee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Committee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
-                (iv) __Comptroller general’s report.—__ 
+                (iv)  __Comptroller general’s report__  __.—__ 
 
                 Not later than April 30, 2003, the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Committee in improving the performance of the air traffic control system.
 
-            (I) __Authorization.—__ 
+            (I)  __Authorization__  __.—__ 
 
             There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
 
-        (8) __Air traffic control system defined.—__ 
+        (8)  __Air traffic control system defined__  __.—__ 
 
         In this section, the term “air traffic control system” has the meaning such term has under section 40102(a).
 
     (q) __Aircraft Noise Ombudsman.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There shall be in the Administration an Aircraft Noise Ombudsman.
 
-        (2) __General duties and responsibilities.—__ 
+        (2)  __General duties and responsibilities__  __.—__ 
 
         The Ombudsman shall—
 
@@ -531,7 +531,7 @@
 
             (C) be consulted when the Administration proposes changes in aircraft routes so as to minimize any increases in aircraft noise over populated areas.
 
-        (3) __Number of full-time equivalent employees.—__ 
+        (3)  __Number of full-time equivalent employees__  __.—__ 
 
         The appointment of an Ombudsman under this subsection shall not result in an increase in the number of full-time equivalent employees in the Administration.
 
@@ -539,49 +539,49 @@
 
         (1) __In general.—__ 
 
-            (A) __Appointment.—__ 
+            (A)  __Appointment__  __.—__ 
 
             There shall be a Chief Operating Officer for the air traffic control system to be appointed by the Administrator, with the approval of the Air Traffic Services Committee. The Chief Operating Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
 
-            (B) __Qualifications.—__ 
+            (B)  __Qualifications__  __.—__ 
 
             The Chief Operating Officer shall have a demonstrated ability in management and knowledge of or experience in aviation.
 
-            (C) __Term.—__ 
+            (C)  __Term__  __.—__ 
 
             The Chief Operating Officer shall be appointed for a term of 5 years.
 
-            (D) __Removal.—__ 
+            (D)  __Removal__  __.—__ 
 
             The Chief Operating Officer shall serve at the pleasure of the Administrator, except that the Administrator shall make every effort to ensure stability and continuity in the leadership of the air traffic control system.
 
-            (E) __Vacancy.—__ 
+            (E)  __Vacancy__  __.—__ 
 
             Any individual appointed to fill a vacancy in the position of Chief Operating Officer occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
 
         (2) __Compensation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Chief Operating Officer shall be paid at an annual rate of basic pay to be determined by the Administrator, with the approval of the Air Traffic Services Committee. The annual rate may not exceed the annual compensation paid under [section 102 of title 3][/us/usc/t3/s102]. The Chief Operating Officer shall be subject to the post-employment provisions of [section 207 of title 18][/us/usc/t18/s207] as if the position of Chief Operating Officer were described in section 207(c)(2)(A)(i) of that title.
 
-            (B) __Bonus.—__ 
+            (B)  __Bonus__  __.—__ 
 
             In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Operating Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief Operating Officer’s performance in relation to the performance goals set forth in the performance agreement described in paragraph (3).
 
-        (3) __Annual performance agreement.—__ 
+        (3)  __Annual performance agreement__  __.—__ 
 
         The Administrator and the Chief Operating Officer, in consultation with the Air Traffic Services Committee, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief Operating Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
 
-        (4) __Annual performance report.—__ 
+        (4)  __Annual performance report__  __.—__ 
 
         The Chief Operating Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual management report containing such information as may be prescribed by the Secretary.
 
-        (5) __Responsibilities.—__ 
+        (5)  __Responsibilities__  __.—__ 
 
         The Administrator may delegate to the Chief Operating Officer, or any other authority within the Administration responsibilities, including the following:
 
-            (A) __Strategic plans.—__ 
+            (A)  __Strategic plans__  __.—__ 
 
             To implement the strategic plan of the Administration for the air traffic control system in order to further—
 
@@ -593,7 +593,7 @@
 
                 (iv) methods of the Administration to accelerate air traffic control modernization and improvements in aviation safety related to air traffic control.
 
-            (B) __Operations.—__ 
+            (B)  __Operations__  __.—__ 
 
             To oversee the day-to-day operational functions of the Administration for air traffic control, including—
 
@@ -605,7 +605,7 @@
 
                 (iv) the management of cost-reimbursable contracts.
 
-            (C) __Budget.—__ 
+            (C)  __Budget__  __.—__ 
 
             To—
 
@@ -619,45 +619,45 @@
 
         (1) __In general.—__ 
 
-            (A) __Appointment.—__ 
+            (A)  __Appointment__  __.—__ 
 
             There shall be a Chief NextGen Officer appointed by the Administrator, with the approval of the Secretary. The Chief NextGen Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
 
-            (B) __Qualifications.—__ 
+            (B)  __Qualifications__  __.—__ 
 
             The Chief NextGen Officer shall have a demonstrated ability in management and knowledge of or experience in aviation and systems engineering.
 
-            (C) __Term.—__ 
+            (C)  __Term__  __.—__ 
 
             The Chief NextGen Officer shall be appointed for a term of 5 years.
 
-            (D) __Removal.—__ 
+            (D)  __Removal__  __.—__ 
 
             The Chief NextGen Officer shall serve at the pleasure of the Administrator, except that the Administrator shall make every effort to ensure stability and continuity in the leadership of the implementation of NextGen.
 
-            (E) __Vacancy.—__ 
+            (E)  __Vacancy__  __.—__ 
 
             Any individual appointed to fill a vacancy in the position of Chief NextGen Officer occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
 
         (2) __Compensation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Chief NextGen Officer shall be paid at an annual rate of basic pay to be determined by the Administrator. The annual rate may not exceed the annual compensation paid under [section 102 of title 3][/us/usc/t3/s102]. The Chief NextGen Officer shall be subject to the postemployment provisions of [section 207 of title 18][/us/usc/t18/s207] as if the position of Chief NextGen Officer were described in section 207(c)(2)(A)(i) of that title.
 
-            (B) __Bonus.—__ 
+            (B)  __Bonus__  __.—__ 
 
             In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief NextGen Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief NextGen Officer’s performance in relation to the performance goals set forth in the performance agreement described in paragraph (3).
 
-        (3) __Annual performance agreement.—__ 
+        (3)  __Annual performance agreement__  __.—__ 
 
         The Administrator and the Chief NextGen Officer, in consultation with the Federal Aviation Management Advisory Council, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief NextGen Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
 
-        (4) __Annual performance report.—__ 
+        (4)  __Annual performance report__  __.—__ 
 
         The Chief NextGen Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual management report containing such information as may be prescribed by the Secretary.
 
-        (5) __Responsibilities.—__ 
+        (5)  __Responsibilities__  __.—__ 
 
         The responsibilities of the Chief NextGen Officer include the following:
 
@@ -685,41 +685,41 @@
 
             (H) Coordinating with the NextGen Joint Planning and Development Office with respect to facilitating cooperation among all Federal agencies whose operations and interests are affected by the implementation of NextGen.
 
-        (6) __Exception.—__ 
+        (6)  __Exception__  __.—__ 
 
         If the Administrator appoints as the Chief NextGen Officer, pursuant to paragraph (1)(A), an Executive Schedule employee covered by [section 5315 of title 5][/us/usc/t5/s5315], then paragraphs (1)(B), (1)(C), (2), and (3) of this subsection shall not apply to such employee.
 
-        (7) __Nextgen defined.—__ 
+        (7)  __Nextgen defined__  __.—__ 
 
         For purposes of this subsection, the term “NextGen” means the Next Generation Air Transportation System.
 
     (t) __Aviation Safety Whistleblower Investigation Office.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the Federal Aviation Administration (in this subsection referred to as the “Agency”) an Aviation Safety Whistleblower Investigation Office (in this subsection referred to as the “Office”).
 
         (2) __Director.—__ 
 
-            (A) __Appointment.—__ 
+            (A)  __Appointment__  __.—__ 
 
             The head of the Office shall be the Director, who shall be appointed by the Secretary of Transportation.
 
-            (B) __Qualifications.—__ 
+            (B)  __Qualifications__  __.—__ 
 
             The Director shall have a demonstrated ability in investigations and knowledge of or experience in aviation.
 
-            (C) __Term.—__ 
+            (C)  __Term__  __.—__ 
 
             The Director shall be appointed for a term of 5 years.
 
-            (D) __Vacancies.—__ 
+            (D)  __Vacancies__  __.—__ 
 
             Any individual appointed to fill a vacancy in the position of the Director occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
 
         (3) __Complaints and investigations.—__ 
 
-            (A) __Authority of director.—__ 
+            (A)  __Authority of director__  __.—__ 
 
             The Director shall—
 
@@ -729,7 +729,7 @@
 
                 (iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions.
 
-            (B) __Disclosure of identities.—__ 
+            (B)  __Disclosure of identities__  __.—__ 
 
             The Director shall not disclose the identity of an individual who submits a complaint or information under subparagraph (A)(i) unless—
 
@@ -737,27 +737,27 @@
 
                 (ii) the Director determines, in the course of an investigation, that the disclosure is required by regulation, statute, or court order, or is otherwise unavoidable, in which case the Director shall provide the individual reasonable advanced notice of the disclosure.
 
-            (C) __Independence of director.—__ 
+            (C)  __Independence of director__  __.—__ 
 
             The Secretary, the Administrator, or any officer or employee of the Agency may not prevent or prohibit the Director from initiating, carrying out, or completing any assessment of a complaint or information submitted under subparagraph (A)(i) or from reporting to Congress on any such assessment.
 
-            (D) __Access to information.—__ 
+            (D)  __Access to information__  __.—__ 
 
             In conducting an assessment of a complaint or information submitted under subparagraph (A)(i), the Director shall have access to all records, reports, audits, reviews, documents, papers, recommendations, and other material of the Agency necessary to determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety may have occurred.
 
-        (4) __Responses to recommendations.—__ 
+        (4)  __Responses to recommendations__  __.—__ 
 
         Not later than 60 days after the date on which the Administrator receives a report with respect to an investigation, the Administrator shall respond to a recommendation made by the Director under paragraph (3)(A)(iii) in writing and retain records related to any further investigations or corrective actions taken in response to the recommendation.
 
-        (5) __Incident reports.—__ 
+        (5)  __Incident reports__  __.—__ 
 
         If the Director determines there is a substantial likelihood that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred that requires immediate corrective action, the Director shall report the potential violation expeditiously to the Administrator and the Inspector General of the Department of Transportation.
 
-        (6) __Reporting of criminal violations to inspector general.—__ 
+        (6)  __Reporting of criminal violations to inspector general__  __.—__ 
 
         If the Director has reasonable grounds to believe that there has been a violation of Federal criminal law, the Director shall report the violation expeditiously to the Inspector General.
 
-        (7) __Annual reports to congress.—__ 
+        (7)  __Annual reports to congress__  __.—__ 
 
         Not later than October 1 of each year, the Director shall submit to Congress a report containing—
 
@@ -1417,15 +1417,15 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 [Pub. L. 106–181, title III, § 302(d)][/us/pl/106/181/s302/d], Apr. 5, 2000, [114 Stat. 121][/us/stat/114/121], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 5, 2000\].
 
->     “(2) __Initial nominations to air traffic services subcommittee.—__ 
+>     “(2)  __Initial nominations to air traffic services subcommittee__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall make the initial appointments of the Air Traffic Services Subcommittee of the Aviation Management Advisory Council not later than 3 months after the date of the enactment of this Act.
 
->     “(3) __Effect on actions prior to appointment of subcommittee.—__ 
+>     “(3)  __Effect on actions prior to appointment of subcommittee__  __.—__ 
 
 >     Nothing in this section shall be construed to invalidate the actions and authority of the Federal Aviation Administration prior to the appointment of the members of the Air Traffic Services Subcommittee.”
 
@@ -1441,11 +1441,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 [Pub. L. 104–264, § 3][/us/pl/104/264/s3], Oct. 9, 1996, [110 Stat. 3215][/us/stat/110/3215], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise specifically provided, this Act \[see Tables for classification\] and the amendments made by this Act apply only to fiscal years beginning after September 30, 1996.
 
->     “(b) __Limitation on Statutory Construction.—__ 
+>     “(b)  __Limitation on Statutory Construction__  __.—__ 
 
 >     Nothing in this Act or any amendment made by this Act shall be construed as affecting funds made available for a fiscal year ending before October 1, 1996.”
 
@@ -1467,7 +1467,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 [Pub. L. 112–95, title VIII, § 812][/us/pl/112/95/s812], Feb. 14, 2012, [126 Stat. 124][/us/stat/126/124], provided that:
 
->     “(a) __Agency Review.—__ 
+>     “(a)  __Agency Review__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall undertake a thorough review of each program, office, and organization within the Administration, including the Air Traffic Organization, to identify—
 
@@ -1481,7 +1481,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 >         “(5) ineffectual or outdated policies.
 
->     “(b) __Actions To Streamline and Reform FAA.—__ 
+>     “(b)  __Actions To Streamline and Reform FAA__  __.—__ 
 
 >     Not later than 120 days after the date of enactment of this Act, the Administrator shall undertake such actions as may be necessary to address the Administrator’s findings under subsection (a), including—
 
@@ -1495,11 +1495,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 >         “(5) reforming or eliminating ineffectual or outdated policies.
 
->     “(c) __Authority.—__ 
+>     “(c)  __Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Administrator shall have the authority to undertake the actions required under subsection (b).
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 150 days after the date of enactment of this Act, the Administrator shall submit to Congress a report on the actions taken by the Administrator under this section, including any recommendations for legislative or administrative actions.”
 
@@ -1507,21 +1507,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
 
 [Pub. L. 112–95, title VIII, § 825][/us/pl/112/95/s825], Feb. 14, 2012, [126 Stat. 131][/us/stat/126/131], provided that:
 
->     “(a) __Earmark Defined.—__ 
+>     “(a)  __Earmark Defined__  __.—__ 
 
 >     In this section, the term ‘earmark’ means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate, or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, or other expenditure with or to an entity or a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
 
->     “(b) __Rescission.—__ 
+>     “(b)  __Rescission__  __.—__ 
 
 >     If any earmark relating to the Federal Aviation Administration has more than 90 percent of applicable appropriated amounts remaining available for obligation at the end of the 9th fiscal year beginning after the fiscal year in which those amounts were appropriated, the unobligated portion of those amounts is rescinded effective at the end of that 9th fiscal year, except that the Administrator of the Federal Aviation Administration may delay any such rescission if the Administrator determines that an obligation with respect to those amounts is likely to occur during the 12-month period beginning on the last day of that 9th fiscal year.
 
 >     “(c) __Identification and Report.—__ 
 
->         “(1) __Agency identification.—__ 
+>         “(1)  __Agency identification__  __.—__ 
 
 >         At the end of each fiscal year, the Administrator shall identify and report to the Director of the Office of Management and Budget every earmark related to the Administration and with respect to which there is an unobligated balance of appropriated amounts.
 
->         “(2) __Annual report.—__ 
+>         “(2)  __Annual report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Director shall submit to Congress and make available to the public on the Internet Web site of the Office a report that includes—
 
@@ -1859,15 +1859,15 @@ Sec. 2. Purpose. The FAA’s primary mission is to ensure the safety, security, 
 
 > “In this title \[see Effective Date of 1996 Amendment note set out above\], the following definitions apply:
 
->     “(1) __Administration.—__ 
+>     “(1)  __Administration__  __.—__ 
 
 >     The term ‘Administration’ means the Federal Aviation Administration.
 
->     “(2) __Administrator.—__ 
+>     “(2)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 

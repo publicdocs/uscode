@@ -17,11 +17,11 @@
 
     (a) __Formula Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013 and $8,595,000,000 for fiscal year 2014.
 
-        (2) __Allocation of funds.—__ 
+        (2)  __Allocation of funds__  __.—__ 
 
         Of the amounts made available under paragraph (1)—
 
@@ -47,47 +47,47 @@
 
             (K) $518,700,000 for fiscal year 2013 and $525,900,000 for fiscal year 2014 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
 
-    (b) __Research, Development Demonstration and Deployment Projects.—__ 
+    (b)  __Research, Development Demonstration and Deployment Projects__  __.—__ 
 
     There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013 and $70,000,000 for fiscal year 2014.
 
-    (c) __Transit Cooperative Research Program.—__ 
+    (c)  __Transit Cooperative Research Program__  __.—__ 
 
     There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
 
-    (d) __Technical Assistance and Standards Development.—__ 
+    (d)  __Technical Assistance and Standards Development__  __.—__ 
 
     There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
 
-    (e) __Human Resources and Training.—__ 
+    (e)  __Human Resources and Training__  __.—__ 
 
     There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013 and $5,000,000 for fiscal year 2014.
 
-    (f) __Emergency Relief Program.—__ 
+    (f)  __Emergency Relief Program__  __.—__ 
 
     There are authorized to be appropriated such sums as are necessary to carry out section 5324.
 
-    (g) __Capital Investment Grants.—__ 
+    (g)  __Capital Investment Grants__  __.—__ 
 
     There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013 and $1,907,000,000 for fiscal year 2014.
 
     (h) __Administration.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013 and $104,000,000 for fiscal year 2014.
 
-        (2) __Section 5329.—__ 
+        (2)  __Section 5329__  __.—__ 
 
         Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 shall be available to carry out section 5329.
 
-        (3) __Section 5326.—__ 
+        (3)  __Section 5326__  __.—__ 
 
         Of the amounts made available under paragraph (2), not less than $1,000,000 shall be available to carry out section 5326.
 
     (i) __Oversight.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Of the amounts made available to carry out this chapter for a fiscal year, the Secretary may use not more than the following amounts for the activities described in paragraph (2):
 
@@ -105,7 +105,7 @@
 
             (G) 0.75 percent of amounts made available to carry out section 5337(c).
 
-        (2) __Activities.—__ 
+        (2)  __Activities__  __.—__ 
 
         The activities described in this paragraph are as follows:
 
@@ -115,25 +115,25 @@
 
             (C) Activities to provide technical assistance generally, and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section.
 
-        (3) __Government share of costs.—__ 
+        (3)  __Government share of costs__  __.—__ 
 
         The Government shall pay the entire cost of carrying out a contract under this subsection.
 
-        (4) __Availability of certain funds.—__ 
+        (4)  __Availability of certain funds__  __.—__ 
 
         Funds made available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement.
 
     (j) __Grants as Contractual Obligations.—__ 
 
-        (1) __Grants financed from highway trust fund.—__ 
+        (1)  __Grants financed from highway trust fund__  __.—__ 
 
         A grant or contract that is approved by the Secretary and financed with amounts made available from the Mass Transit Account of the Highway Trust Fund pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project.
 
-        (2) __Grants financed from general fund.—__ 
+        (2)  __Grants financed from general fund__  __.—__ 
 
         A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
 
-    (k) __Availability of Amounts.—__ 
+    (k)  __Availability of Amounts__  __.—__ 
 
     Amounts made available by or appropriated under this section shall remain available until expended.
 

@@ -15,7 +15,7 @@
 
 ## § 24103. Enforcement
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -39,11 +39,11 @@
 
         (2) An employee affected by any conduct or threat referred to in paragraph (1) of this subsection, or an authorized employee representative, may bring the civil action if the conduct or threat involves a labor agreement.
 
-    (b) __Review of Discontinuance or Reduction.—__ 
+    (b)  __Review of Discontinuance or Reduction__  __.—__ 
 
     A discontinuance of a route, a train, or transportation, or a reduction in the frequency of transportation, by Amtrak is reviewable only in a civil action for equitable relief brought by the Attorney General.
 
-    (c) __Venue.—__ 
+    (c)  __Venue__  __.—__ 
 
     Except as otherwise prohibited by law, a civil action under this section may be brought in the judicial district in which Amtrak or the rail carrier resides or is found.
 

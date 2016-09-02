@@ -15,7 +15,7 @@
 
 ## § 32907. Reports and tests of manufacturers
 
-    (a) __Manufacturer Reports.—__ 
+    (a)  __Manufacturer Reports__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (4) This subsection does not apply to a manufacturer for a model year for which the manufacturer is subject to an alternative average fuel economy standard under [section 32902(d) of this title][/us/usc/t49/s32902/d].
 
-    (b) __Records, Reports, Tests, Information, and Inspection.—__ 
+    (b)  __Records, Reports, Tests, Information, and Inspection__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary or the Administrator of the Environmental Protection Agency to carry out this chapter, a manufacturer shall keep records, make reports, conduct tests, and provide items and information. On request and display of proper credentials, an officer or employee designated by the Secretary or Administrator may inspect automobiles and records of the manufacturer. An inspection shall be made at a reasonable time and in a reasonable way.
 

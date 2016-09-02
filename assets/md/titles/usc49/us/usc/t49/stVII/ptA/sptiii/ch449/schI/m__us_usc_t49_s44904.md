@@ -15,11 +15,11 @@
 
 ## § 44904. Domestic air transportation system security
 
-    (a) __Assessing Threats.—__ 
+    (a)  __Assessing Threats__  __.—__ 
 
     The Under Secretary of Transportation for Security and the Director of the Federal Bureau of Investigation jointly shall assess current and potential threats to the domestic air transportation system. The assessment shall include consideration of the extent to which there are individuals with the capability and intent to carry out terrorist or related unlawful acts against that system and the ways in which those individuals might carry out those acts. The Under Secretary and the Director jointly shall decide on and carry out the most effective method for continuous analysis and monitoring of security threats to that system.
 
-    (b) __Assessing Security.—__ 
+    (b)  __Assessing Security__  __.—__ 
 
     In coordination with the Director, the Under Secretary shall carry out periodic threat and vulnerability assessments on security at each airport that is part of the domestic air transportation system. Each assessment shall include consideration of—
 
@@ -33,7 +33,7 @@
 
         (5) coordination of the activities of security personnel of the Transportation Security Administration, the United States Customs Service, the Immigration and Naturalization Service, and air carriers, and of other law enforcement personnel.
 
-    (c) __Modal Security Plan for Aviation.—__ 
+    (c)  __Modal Security Plan for Aviation__  __.—__ 
 
     In addition to the requirements set forth in subparagraphs (B) through (F) of section 114(t)(3), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the modal security plan for aviation prepared under section 114(t)  <sup>\[1\]</sup>  shall—
 
@@ -41,11 +41,11 @@
 
         (2) include a threat matrix document that outlines each threat to the United States civil aviation system and the corresponding layers of security in place to address such threat.
 
-    (d) __Operational Criteria.—__ 
+    (d)  __Operational Criteria__  __.—__ 
 
     Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),1 the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) 1 and shall approve best practices guidelines for airport assets.
 
-    (e) __Improving Security.—__ 
+    (e)  __Improving Security__  __.—__ 
 
     The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
 

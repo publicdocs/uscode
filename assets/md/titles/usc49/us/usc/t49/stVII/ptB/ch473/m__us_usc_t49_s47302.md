@@ -15,7 +15,7 @@
 
 ## § 47302. Providing airport and airway property in foreign territories
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Subject to the concurrence of the Secretary of State and the consideration of objectives of the International Civil Aviation Organization—
 
@@ -23,11 +23,11 @@
 
         (2) the Secretary of Commerce may acquire, establish, and construct meteorological facilities in foreign territory.
 
-    (b) __Specific Appropriations Required.—__ 
+    (b)  __Specific Appropriations Required__  __.—__ 
 
     Except for airport property transferred under [section 47304(b) of this title][/us/usc/t49/s47304/b], an airport (as defined in [section 40102(a) of this title][/us/usc/t49/s40102/a]) may be acquired, established, or constructed under subsection (a) of this section only if amounts have been appropriated specifically for the airport.
 
-    (c) __Accepting Foreign Payments.—__ 
+    (c)  __Accepting Foreign Payments__  __.—__ 
 
     The Secretary of Transportation or Commerce, as appropriate, may accept payment from a government of a foreign country or international organization for facilities or services sold or provided the government or organization under this chapter. The amount received may be credited to the appropriation current when the expenditures are or were paid, the appropriation current when the amount is received, or both.
 

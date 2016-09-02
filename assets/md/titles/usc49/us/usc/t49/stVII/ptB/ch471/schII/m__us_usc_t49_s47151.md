@@ -15,7 +15,7 @@
 
 ## § 47151. Authority to transfer an interest in surplus property
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Subject to sections 47152 and 47153 of this title, a department, agency, or instrumentality of the executive branch of the United States Government or a wholly owned Government corporation may convey to a State, political subdivision of a State, or tax-supported organization any interest in surplus property—
 
@@ -31,19 +31,19 @@
 
         (2) if the Administrator of General Services approves the conveyance and decides the interest is not best suited for industrial use.
 
-    (b) __Ensuring Compliance.—__ 
+    (b)  __Ensuring Compliance__  __.—__ 
 
     Only the Secretary may ensure compliance with an instrument conveying an interest in surplus property under this subchapter. The Secretary may amend the instrument to correct the instrument or to make the conveyance comply with law.
 
-    (c) __Disposing of Interests Not Conveyed Under This Subchapter.—__ 
+    (c)  __Disposing of Interests Not Conveyed Under This Subchapter__  __.—__ 
 
     An interest in surplus property that could be used at a public airport but that is not conveyed under this subchapter shall be disposed of under other applicable law.
 
-    (d) __Waiver of Condition.—__ 
+    (d)  __Waiver of Condition__  __.—__ 
 
     Before the Secretary may waive any condition imposed on an interest in surplus property conveyed under subsection (a) that such interest be used for an aeronautical purpose, the Secretary must provide notice to the public not less than 30 days before waiving such condition.
 
-    (e) __Requests by Public Agencies.—__ 
+    (e)  __Requests by Public Agencies__  __.—__ 
 
     Except with respect to a request made by another department, agency, or instrumentality of the executive branch of the United States Government, such a department, agency, or instrumentality shall give priority consideration to a request made by a public agency (as defined in section 47102) for surplus property described in subsection (a) for use at a public airport.
 

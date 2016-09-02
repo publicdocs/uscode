@@ -15,7 +15,7 @@
 
 ## § 80503. Payments for inspection and quarantine services
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) The head of a department, agency, or instrumentality of the United States Government providing services under paragraph (2) of this subsection shall collect the amount paid for the services and deposit the amount in the Treasury. The amount shall be credited to the appropriation of the department, agency, or instrumentality against which the expense of those services was charged.
 
-    (b) __Limitations on Reimbursement.—__ 
+    (b)  __Limitations on Reimbursement__  __.—__ 
 
         (1) An owner or operator of an aircraft is required to reimburse the head of a department, agency, or instrumentality of the Government for the expenses of performing an inspection or quarantine service related to the aircraft at a place of inspection during regular service hours on a Sunday or holiday only to the same extent that an owner or operator makes reimbursement for the service during regular service hours on a weekday. The head of the department, agency, or instrumentality may not assess an owner or operator of an aircraft for administrative overhead expenses for inspection or quarantine service provided by the department, agency, or instrumentality at an entry airport.
 

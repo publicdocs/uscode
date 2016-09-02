@@ -15,7 +15,7 @@
 
 ## § 21109. Regulatory authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In order to improve safety and reduce employee fatigue, the Secretary may prescribe regulations—
 
@@ -35,11 +35,11 @@
 
         (5) to require other changes to railroad operating and scheduling practices, including unscheduled duty calls, that could affect employee fatigue and railroad safety.
 
-    (b) __Regulations Governing the Hours of Service of Train Employees of Commuter and Intercity Passenger Railroad Carriers.—__ 
+    (b)  __Regulations Governing the Hours of Service of Train Employees of Commuter and Intercity Passenger Railroad Carriers__  __.—__ 
 
     Within 3 years after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary shall prescribe regulations and issue orders to establish hours of service requirements for train employees engaged in commuter rail passenger transportation and intercity rail passenger transportation (as defined in [section 24102 of this title][/us/usc/t49/s24102]) that may differ from the requirements of this chapter. Such regulations and orders may address railroad operating and scheduling practices, including unscheduled duty calls, communications during time off duty, and time spent waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release, that could affect employee fatigue and railroad safety.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     In issuing regulations under subsection (a) the Secretary shall consider scientific and medical research related to fatigue and fatigue abatement, railroad scheduling and operating practices that improve safety or reduce employee fatigue, a railroad’s use of new or novel technology intended to reduce or eliminate human error, the variations in freight and passenger railroad scheduling practices and operating conditions, the variations in duties and operating conditions for employees subject to this chapter, a railroad’s required or voluntary use of fatigue management plans covering employees subject to this chapter, and any other relevant factors.
 
@@ -53,7 +53,7 @@
 
     (e) __Pilot Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary shall conduct at least 2 pilot projects of sufficient size and scope to analyze specific practices which may be used to reduce fatigue for train and engine and other railroad employees as follows:
 
@@ -61,11 +61,11 @@
 
             (B) A pilot project at a railroad or railroad facility to evaluate the efficacy of requiring railroads who use employee scheduling practices that subject employees to periods of unscheduled duty calls to assign employees to defined or specific unscheduled call shifts that are followed by shifts not subject to call, as a method for reducing employee fatigue.
 
-        (2) __Waiver.—__ 
+        (2)  __Waiver__  __.—__ 
 
         The Secretary may temporarily waive the requirements of this section, if necessary, to complete a pilot project under this subsection.
 
-    (f) __Duty Call Defined.—__ 
+    (f)  __Duty Call Defined__  __.—__ 
 
     In this section the term “duty call” means a telephone call that a railroad places to an employee to notify the employee of his or her assigned shift time.
 

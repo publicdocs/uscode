@@ -17,7 +17,7 @@
 
     (a) __Motor Carriers of Passengers.—__ 
 
-        (1) __Limitation on state law.—__ 
+        (1)  __Limitation on state law__  __.—__ 
 
         No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to—
 
@@ -29,27 +29,27 @@
 
             This paragraph shall not apply to intrastate commuter bus operations, or to intrastate bus transportation of any nature in the State of Hawaii.
 
-        (2) __Matters not covered.—__ 
+        (2)  __Matters not covered__  __.—__ 
 
         Paragraph (1) shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle, or the authority of a State to regulate carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization.
 
     (b) __Freight Forwarders and Brokers.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Subject to paragraph (2) of this subsection, no State or political subdivision thereof and no intrastate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to intrastate rates, intrastate routes, or intrastate services of any freight forwarder or broker.
 
-        (2) __Continuation of hawaii’s authority.—__ 
+        (2)  __Continuation of hawaii’s authority__  __.—__ 
 
         Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii to continue to regulate a motor carrier operating within the State of Hawaii.
 
     (c) __Motor Carriers of Property.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Except as provided in paragraphs (2) and (3), a State, political subdivision of a State, or political authority of 2 or more States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of any motor carrier (other than a carrier affiliated with a direct air carrier covered by section 41713(b)(4)) or any motor private carrier, broker, or freight forwarder with respect to the transportation of property.
 
-        (2) __Matters not covered.—__ 
+        (2)  __Matters not covered__  __.—__ 
 
         Paragraph (1)—
 
@@ -61,7 +61,7 @@
 
         (3) __State standard transportation practices.—__ 
 
-            (A) __Continuation.—__ 
+            (A)  __Continuation__  __.—__ 
 
             Paragraph (1) shall not affect any authority of a State, political subdivision of a State, or political authority of 2 or more States to enact or enforce a law, regulation, or other provision, with respect to the intrastate transportation of property by motor carriers, related to—
 
@@ -77,7 +77,7 @@
 
                 if such law, regulation, or provision meets the requirements of subparagraph (B).
 
-            (B) __Requirements.—__ 
+            (B)  __Requirements__  __.—__ 
 
             A law, regulation, or provision of a State, political subdivision, or political authority meets the requirements of this subparagraph if—
 
@@ -85,21 +85,21 @@
 
                 (ii) the law, regulation, or provision only applies to a carrier upon request of such carrier.
 
-            (C) __Election.—__ 
+            (C)  __Election__  __.—__ 
 
             Notwithstanding any other provision of law, a carrier affiliated with a direct air carrier through common controlling ownership may elect to be subject to a law, regulation, or provision of a State, political subdivision, or political authority under this paragraph.
 
-        (4) __Nonapplicability to hawaii.—__ 
+        (4)  __Nonapplicability to hawaii__  __.—__ 
 
         This subsection shall not apply with respect to the State of Hawaii.
 
-        (5) __Limitation on statutory construction.—__ 
+        (5)  __Limitation on statutory construction__  __.—__ 
 
         Nothing in this section shall be construed to prevent a State from requiring that, in the case of a motor vehicle to be towed from private property without the consent of the owner or operator of the vehicle, the person towing the vehicle have prior written authorization from the property owner or lessee (or an employee or agent thereof) or that such owner or lessee (or an employee or agent thereof) be present at the time the vehicle is towed from the property, or both.
 
     (d) __Pre-Arranged Ground Transportation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard or other provision having the force and effect of law requiring a license or fee on account of the fact that a motor vehicle is providing pre-arranged ground transportation service if the motor carrier providing such service—
 
@@ -115,11 +115,11 @@
 
                 (ii) transportation by the motor carrier from one State, including intermediate stops in another State, to a destination in the original State.
 
-        (2) __Intermediate stop defined.—__ 
+        (2)  __Intermediate stop defined__  __.—__ 
 
         In this section, the term “intermediate stop”, with respect to transportation by a motor carrier, means a pause in the transportation in order for one or more passengers to engage in personal or business activity, but only if the driver providing the transportation to such passenger or passengers does not, before resuming the transportation of such passenger (or at least 1 of such passengers), provide transportation to any other person not included among the passengers being transported when the pause began.
 
-        (3) __Matters not covered.—__ 
+        (3)  __Matters not covered__  __.—__ 
 
         Nothing in this subsection shall be construed—
 

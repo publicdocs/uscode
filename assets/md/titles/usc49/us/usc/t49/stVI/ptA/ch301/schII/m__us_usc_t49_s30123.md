@@ -15,17 +15,17 @@
 
 ## § 30123. Tires
 
-    (a) __Regrooved Tire Limitations.—__ 
+    (a)  __Regrooved Tire Limitations__  __.—__ 
 
         (1) In this subsection, “regrooved tire” means a tire with a new tread produced by cutting into the tread of a worn tire.
 
         (2) The Secretary may authorize the sale, offer for sale, introduction for sale, or delivery for introduction in interstate commerce, of a regrooved tire or a motor vehicle equipped with regrooved tires if the Secretary decides the tires are designed and made in a way consistent with [section 30101 of this title][/us/usc/t49/s30101]. A person may not sell, offer for sale, introduce for sale, or deliver for introduction in interstate commerce, a regrooved tire or a vehicle equipped with regrooved tires unless authorized by the Secretary.
 
-    (b) __Uniform Quality Grading System, Nomenclature, and Marketing Practices.—__ 
+    (b)  __Uniform Quality Grading System, Nomenclature, and Marketing Practices__  __.—__ 
 
     The Secretary shall prescribe through standards a uniform quality grading system for motor vehicle tires to help consumers make an informed choice when purchasing tires. The Secretary also shall cooperate with industry and the Federal Trade Commission to the greatest extent practicable to eliminate deceptive and confusing tire nomenclature and marketing practices. A tire standard or regulation prescribed under this chapter supersedes an order or administrative interpretation of the Commission.
 
-    (c) __Maximum Load Standards.—__ 
+    (c)  __Maximum Load Standards__  __.—__ 
 
     The Secretary shall require a motor vehicle to be equipped with tires that meet maximum load standards when the vehicle is loaded with a reasonable amount of luggage and the total number of passengers the vehicle is designed to carry. The vehicle shall be equipped with those tires by the manufacturer or by the first purchaser when the vehicle is first bought in good faith other than for resale.
 
@@ -205,11 +205,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
 [Pub. L. 106–414, § 11][/us/pl/106/414/s11], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
 
->     “(a) __Tire Labeling.—__ 
+>     “(a)  __Tire Labeling__  __.—__ 
 
 >     Within 30 days after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall initiate a rulemaking proceeding to improve the labeling of tires required by [section 30123 of title 49][/us/usc/t49/s30123], United States Code\[,\] to assist consumers in identifying tires that may be the subject of a decision under section 30118(b) \[of title 49\] or a notice required under section 30118(c). The Secretary shall complete the rulemaking not later than June 1, 2002.
 
->     “(b) __Inflation Levels and Load Limits.—__ 
+>     “(b)  __Inflation Levels and Load Limits__  __.—__ 
 
 >     In the rulemaking initiated under subsection (a), the Secretary may take whatever additional action is appropriate to ensure that the public is aware of the importance of observing motor vehicle tire load limits and maintaining proper tire inflation levels for the safe operation of a motor vehicle. Such additional action may include a requirement that the manufacturer of motor vehicles provide the purchasers of the motor vehicles information on appropriate tire inflation levels and load limits if the Secretary determines that requiring such manufacturers to provide such information is the most appropriate way such information can be provided.”
 

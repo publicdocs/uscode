@@ -17,7 +17,7 @@
 
     (a) __Reasonableness.—__ 
 
-        (1) __Certain household goods transportation; joint rates involving water transportation.—__ 
+        (1)  __Certain household goods transportation; joint rates involving water transportation__  __.—__ 
 
         A rate, classification, rule, or practice related to transportation or service provided by a carrier subject to jurisdiction under chapter 135 for transportation or service involving—
 
@@ -29,33 +29,33 @@
 
             must be reasonable.
 
-        (2) __Through routes and divisions of joint rates.—__ 
+        (2)  __Through routes and divisions of joint rates__  __.—__ 
 
         Through routes and divisions of joint rates for such transportation or service must be reasonable.
 
-    (b) __Prescription by Board for Violations.—__ 
+    (b)  __Prescription by Board for Violations__  __.—__ 
 
     When the Board finds it necessary to stop or prevent a violation of subsection (a), the Board shall prescribe the rate, classification, rule, practice, through route, or division of joint rates to be applied for such transportation or service.
 
-    (c) __Filing of Complaint.—__ 
+    (c)  __Filing of Complaint__  __.—__ 
 
     A complaint that a rate, classification, rule, or practice in noncontiguous domestic trade violates subsection (a) may be filed with the Board.
 
     (d) __Zone of Reasonableness.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For purposes of this section, a rate or division of a motor carrier for service in noncontiguous domestic trade or water carrier for port-to-port service in that trade is reasonable if the aggregate of increases and decreases in any such rate or division is not more than 7.5 percent above, or more than 10 percent below, the rate or division in effect 1 year before the effective date of the proposed rate or division.
 
-        (2) __Adjustments to the zone.—__ 
+        (2)  __Adjustments to the zone__  __.—__ 
 
         The percentage specified in paragraph (1) shall be increased or decreased, as the case may be, by the percentage change in the Producers Price Index, as published by the Department of Labor, that has occurred during the most recent 1-year period before the date the rate or division in question first took effect.
 
-        (3) __Determinations after complaint.—__ 
+        (3)  __Determinations after complaint__  __.—__ 
 
         The Board shall determine whether any rate or division of a carrier or service in noncontiguous domestic trade which is not within the range described in paragraph (1) is reasonable if a complaint is filed under subsection (c) or section 13702(b)(6).
 
-        (4) __Reparations.—__ 
+        (4)  __Reparations__  __.—__ 
 
         Upon a finding of violation of subsection (a), the Board shall award reparations to the complaining shipper or shippers in an amount equal to all sums assessed and collected that exceed the determined reasonable rate, division, rate structure, or tariff. Upon complaint from any governmental agency or authority and upon a finding or violation of subsection (a), the Board shall make such orders as are just and shall require the carrier to return, to the extent practicable, to shippers all amounts plus interest, which the Board finds to have been assessed and collected in violation of subsection (a).
 

@@ -15,7 +15,7 @@
 
 ## § 41737. Compensation guidelines, limitations, and claims
 
-    (a) __Compensation Guidelines.—__ 
+    (a)  __Compensation Guidelines__  __.—__ 
 
         (1)
 
@@ -33,11 +33,11 @@
 
         (2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special, segregated element of the compensation provided to a carrier under this subchapter.
 
-    (b) __Required Finding.—__ 
+    (b)  __Required Finding__  __.—__ 
 
     The Secretary may pay compensation to an air carrier for providing air service or air transportation under this subchapter only if the Secretary finds the carrier is able to provide the service or transportation in a reliable way.
 
-    (c) __Claims.—__ 
+    (c)  __Claims__  __.—__ 
 
     Not later than 15 days after receiving a written claim from an air carrier for compensation under this subchapter, the Secretary shall—
 
@@ -45,7 +45,7 @@
 
         (2) if denying the claim, notify the carrier of the denial and the reasons for the denial.
 
-    (d) __Authority To Make Agreements and Incur Obligations.—__ 
+    (d)  __Authority To Make Agreements and Incur Obligations__  __.—__ 
 
         (1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government’s share of the compensation.
 
@@ -53,15 +53,15 @@
 
     (e) __Adjustments to Account for Significantly Increased Costs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Secretary determines that air carriers are experiencing significantly increased costs in providing air service or air transportation for which compensation is being paid under this subchapter, the Secretary may increase the rates of compensation payable under this subchapter without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
 
-        (2) __Readjustment if costs subsequently decline.—__ 
+        (2)  __Readjustment if costs subsequently decline__  __.—__ 
 
         If an adjustment is made under paragraph (1), and total unit costs subsequently decrease to at least the total unit cost reflected in the compensation rate, then the Secretary may reverse the adjustment previously made under paragraph (1) without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
 
-        (3) __Significantly increased costs defined.—__ 
+        (3)  __Significantly increased costs defined__  __.—__ 
 
         In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier’s internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
 

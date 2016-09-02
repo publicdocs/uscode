@@ -15,15 +15,15 @@
 
 ## § 5313. Transit cooperative research program
 
-    (a) __Cooperative Research Program.—__ 
+    (a)  __Cooperative Research Program__  __.—__ 
 
     The amounts made available under section 5338(c) are available for a public transportation cooperative research program. The Secretary shall establish an independent governing board for the program. The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
 
-    (b) __Federal Assistance.—__ 
+    (b)  __Federal Assistance__  __.—__ 
 
     The Secretary may make grants to, and cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary decides are appropriate.
 
-    (c) __Government’s Share.—__ 
+    (c)  __Government’s Share__  __.—__ 
 
     If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this section, the Secretary shall establish a Government share consistent with that benefit.
 

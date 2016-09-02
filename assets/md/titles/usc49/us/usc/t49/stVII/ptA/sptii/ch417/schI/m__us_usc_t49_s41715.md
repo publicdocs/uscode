@@ -15,7 +15,7 @@
 
 ## § 41715. Phase-out of slot rules at certain airports
 
-    (a) __Termination.—__ 
+    (a)  __Termination__  __.—__ 
 
     The rules contained in subparts S and K of part 93, title 14, Code of Federal Regulations, shall not apply—
 
@@ -23,7 +23,7 @@
 
         (2) after January 1, 2007, at LaGuardia Airport or John F. Kennedy International Airport.
 
-    (b) __Statutory Construction.—__ 
+    (b)  __Statutory Construction__  __.—__ 
 
     Nothing in this section and sections 41714 and 41716–41718 shall be construed—
 
@@ -33,11 +33,11 @@
 
     (c) __Factors To Consider.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Before the award of slot exemptions under sections 41714 and 41716–41718, the Secretary of Transportation may consider, among other determining factors, whether the petitioning air carrier’s proposal provides the maximum benefit to the United States economy, including the number of United States jobs created by the air carrier, its suppliers, and related activities. The Secretary should give equal consideration to the consumer benefits associated with the award of such exemptions.
 
-        (2) __Applicability.—__ 
+        (2)  __Applicability__  __.—__ 
 
         Paragraph (1) does not apply in any case in which the air carrier requesting the slot exemption is proposing to use under the exemption a type of aircraft for which there is not a competing United States manufacturer.
 

@@ -15,11 +15,11 @@
 
 ## § 20301. Definition and nonapplication
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this chapter, “vehicle” means a car, locomotive, tender, or similar vehicle.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     This chapter does not apply to the following:
 

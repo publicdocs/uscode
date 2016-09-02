@@ -15,7 +15,7 @@
 
 ## § 21106. Limitations on employee sleeping quarters
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A railroad carrier and its officers and agents—
 
@@ -23,15 +23,15 @@
 
         (2) may not begin, after July 7, 1976, construction or reconstruction of sleeping quarters referred to in clause (1) of this section in an area or in the immediate vicinity of an area, as determined under regulations prescribed by the Secretary of Transportation, in which railroad switching or humping operations are performed.
 
-    (b) __Camp Cars.—__ 
+    (b)  __Camp Cars__  __.—__ 
 
     Not later than December 31, 2009, any railroad carrier that uses camp cars shall fully retrofit or replace such cars in compliance with subsection (a).
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Not later than April 1, 2010, the Secretary of Transportation, in coordination with the Secretary of Labor, shall prescribe regulations to implement subsection (a)(1) to protect the safety and health of any employees and individuals employed to maintain the right of way of a railroad carrier that uses camp cars, which shall require that all camp cars comply with those regulations by December 31, 2010. In prescribing the regulations, the Secretary shall assess the action taken by any railroad carrier to fully retrofit or replace its camp cars pursuant to this section.
 
-    (d) __Compliance and Enforcement.—__ 
+    (d)  __Compliance and Enforcement__  __.—__ 
 
     The Secretary shall determine whether a railroad carrier has fully retrofitted or replaced a camp car pursuant to subsection (b) and shall prohibit the use of any non-compliant camp car. The Secretary may assess civil penalties pursuant to chapter 213 for violations of this section.
 

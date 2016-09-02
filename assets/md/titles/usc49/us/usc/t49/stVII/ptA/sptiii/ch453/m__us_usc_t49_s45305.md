@@ -15,7 +15,7 @@
 
 ## § 45305. Registration, certification, and related fees
 
-    (a) __General Authority and Fees.—__ 
+    (a)  __General Authority and Fees__  __.—__ 
 
     Subject to subsection (b), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
 
@@ -41,13 +41,13 @@
 
         (11) Providing a legal opinion pertaining to aircraft registration or recordation.
 
-    (b) __Limitation on Collection.—__ 
+    (b)  __Limitation on Collection__  __.—__ 
 
     No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
 
     (c) __Fees Credited as Offsetting Collections.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any fee authorized to be collected under this section shall—
 
@@ -57,11 +57,11 @@
 
             (C) remain available until expended.
 
-        (2) __Continuing appropriations.—__ 
+        (2)  __Continuing appropriations__  __.—__ 
 
         The Administrator may continue to assess, collect, and spend fees established under this section during any period in which the funding for the Federal Aviation Administration is provided under an Act providing continuing appropriations in lieu of the Administration’s regular appropriations.
 
-        (3) __Adjustments.—__ 
+        (3)  __Adjustments__  __.—__ 
 
         The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
 

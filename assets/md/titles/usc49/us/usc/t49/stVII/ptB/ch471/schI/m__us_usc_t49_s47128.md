@@ -15,11 +15,11 @@
 
 ## § 47128. State block grant program
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 
-    (b) __Applications and Selection.—__ 
+    (b)  __Applications and Selection__  __.—__ 
 
     A State wishing to participate in the program must submit an application to the Secretary. The Secretary shall select a State on the basis of its application only after—
 
@@ -33,11 +33,11 @@
 
         (5) finding that the State has agreed to provide the Secretary with program information the Secretary requires.
 
-    (c) __Safety and Security Needs and Needs of System.—__ 
+    (c)  __Safety and Security Needs and Needs of System__  __.—__ 
 
     Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
-    (d) __Environmental Analysis and Coordination Requirements.—__ 
+    (d)  __Environmental Analysis and Coordination Requirements__  __.—__ 
 
     A Federal agency, other than the Federal Aviation Administration, that is responsible for issuing an approval, license, or permit to ensure compliance with a Federal environmental requirement applicable to a project or activity to be carried out by a State using amounts from a block grant made under this section shall—
 

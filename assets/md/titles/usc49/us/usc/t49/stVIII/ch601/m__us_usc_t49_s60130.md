@@ -17,15 +17,15 @@
 
     (a) __Grant Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under [Public Law 93–153][/us/pl/93/153] ([43 U.S.C. 1651][/us/usc/t43/s1651] et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
 
-        (2) __Demonstration grants.—__ 
+        (2)  __Demonstration grants__  __.—__ 
 
         At least the first 3 grants awarded under this section shall be demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
 
-        (3) __Dissemination of technical findings.—__ 
+        (3)  __Dissemination of technical findings__  __.—__ 
 
         Each recipient of a grant under this section shall ensure that—
 
@@ -33,21 +33,21 @@
 
             (B) open communication between the grant recipients, local operators, local communities, and other interested parties is encouraged.
 
-        (4) __Technical assistance defined.—__ 
+        (4)  __Technical assistance defined__  __.—__ 
 
         In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
 
-    (b) __Prohibited Uses.—__ 
+    (b)  __Prohibited Uses__  __.—__ 
 
     Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
 
     (c) __Annual Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         The report shall include—
 
@@ -57,7 +57,7 @@
 
             (C) a description of how each grant was used by the recipient.
 
-    (d) __Authorization of Appropriations.—__ 
+    (d)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 

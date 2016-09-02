@@ -79,11 +79,11 @@ Reorg. Plan No. 2 of 1968, eff. July 1, 1968, § 3, 82 Stat. 1369.  </td>
 
 [Pub. L. 102–240, title III, § 3004(a)][/us/pl/102/240/s3004/a], (b), Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088], provided that:
 
->     “(a) __Redesignation of UMTA.—__ 
+>     “(a)  __Redesignation of UMTA__  __.—__ 
 
 >     The Urban Mass Transportation Administration of the Department of Transportation shall be known and designated as the ‘Federal Transit Administration’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
 

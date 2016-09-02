@@ -15,17 +15,17 @@
 
 ## § 5329. Public transportation safety program
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “recipient” means a State or local governmental authority, or any other operator of a public transportation system, that receives financial assistance under this chapter.
 
     (b) __National Public Transportation Safety Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall create and implement a national public transportation safety plan to improve the safety of all public transportation systems that receive funding under this chapter.
 
-        (2) __Contents of plan.—__ 
+        (2)  __Contents of plan__  __.—__ 
 
         The national public transportation safety plan under paragraph (1) shall include—
 
@@ -51,17 +51,17 @@
 
     (c) __Public Transportation Safety Certification Training Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish a public transportation safety certification training program for Federal and State employees, or other designated personnel, who conduct safety audits and examinations of public transportation systems and employees of public transportation agencies directly responsible for safety oversight.
 
-        (2) __Interim provisions.—__ 
+        (2)  __Interim provisions__  __.—__ 
 
         Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection.
 
     (d) __Public Transportation Agency Safety Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Effective 1 year after the effective date of a final rule issued by the Secretary to carry out this subsection, each recipient or State, as described in paragraph (3), shall certify that the recipient or State has established a comprehensive agency safety plan that includes, at a minimum—
 
@@ -85,27 +85,27 @@
 
                 (ii) continuing safety education and training.
 
-        (2) __Interim agency safety plan.—__ 
+        (2)  __Interim agency safety plan__  __.—__ 
 
         A system safety plan developed pursuant to part 659 of title 49, Code of Federal Regulations, as in effect on the date of enactment of the Federal Public Transportation Act of 2012, shall remain in effect until such time as this subsection takes effect.
 
         (3) __Public transportation agency safety plan drafting and certification.—__ 
 
-            (A) __Section 5311.—__ 
+            (A)  __Section 5311__  __.—__ 
 
             For a recipient receiving assistance under section 5311, a State safety plan may be drafted and certified by the recipient or a State.
 
-            (B) __Section 5307.—__ 
+            (B)  __Section 5307__  __.—__ 
 
             Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a rule designating recipients of assistance under section 5307 that are small public transportation providers or systems that may have their State safety plans drafted or certified by a State.
 
     (e) __State Safety Oversight Program.—__ 
 
-        (1) __Applicability.—__ 
+        (1)  __Applicability__  __.—__ 
 
         This subsection applies only to eligible States.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this subsection, the term “eligible State” means a State that has—
 
@@ -113,7 +113,7 @@
 
             (B) a rail fixed guideway public transportation system in the engineering or construction phase of development within the jurisdiction of the State that will not be subject to regulation by the Federal Railroad Administration.
 
-        (3) __In general.—__ 
+        (3)  __In general__  __.—__ 
 
         In order to obligate funds apportioned under section 5338 to carry out this chapter, effective 3 years after the date on which a final rule under this subsection becomes effective, an eligible State shall have in effect a State safety oversight program approved by the Secretary under which the State—
 
@@ -131,7 +131,7 @@
 
         (4) __State safety oversight agency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each State safety oversight program shall establish a State safety oversight agency that—
 
@@ -157,7 +157,7 @@
 
                     (III) the board of directors, or equivalent entity, of any rail fixed guideway public transportation system that the State safety oversight agency oversees.
 
-            (B) __Waiver.—__ 
+            (B)  __Waiver__  __.—__ 
 
             At the request of an eligible State, the Secretary may waive clauses (i) and (iii) of subparagraph (A) for eligible States with 1 or more rail fixed guideway systems in revenue operations, design, or construction, that—
 
@@ -165,7 +165,7 @@
 
                 (ii) provide fewer than 10,000,000 combined actual and projected unlinked passenger trips per year.
 
-        (5) __Programs for multi-state rail fixed guideway public transportation systems.—__ 
+        (5)  __Programs for multi-state rail fixed guideway public transportation systems__  __.—__ 
 
         An eligible State that has within the jurisdiction of the eligible State a rail fixed guideway public transportation system that operates in more than 1 eligible State shall—
 
@@ -175,31 +175,31 @@
 
         (6) __Grants.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall make grants to eligible States to develop or carry out State safety oversight programs under this subsection. Grant funds may be used for program operational and administrative expenses, including employee training activities.
 
             (B) __Apportionment.—__ 
 
-                (i) __Formula.—__ 
+                (i)  __Formula__  __.—__ 
 
                 The amount made available for State safety oversight under section 5336(h) shall be apportioned among eligible States under a formula to be established by the Secretary. Such formula shall take into account fixed guideway vehicle revenue miles, fixed guideway route miles, and fixed guideway vehicle passenger miles attributable to all rail fixed guideway systems not subject to regulation by the Federal Railroad Administration within each eligible State.
 
-                (ii) __Administrative requirements.—__ 
+                (ii)  __Administrative requirements__  __.—__ 
 
                 Grant funds apportioned to States under this paragraph shall be subject to uniform administrative requirements for grants and cooperative agreements to State and local governments under part 18 of title 49, Code of Federal Regulations, and shall be subject to the requirements of this chapter as the Secretary determines appropriate.
 
             (C) __Government share.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Government share of the reasonable cost of a State safety oversight program developed or carried out using a grant under this paragraph shall be 80 percent.
 
-                (ii) __In-kind contributions.—__ 
+                (ii)  __In-kind contributions__  __.—__ 
 
                 Any calculation of the non-Government share of a State safety oversight program shall include in-kind contributions by an eligible State.
 
-                (iii) __Non-government share.—__ 
+                (iii)  __Non-government share__  __.—__ 
 
                 The non-Government share of the cost of a State safety oversight program developed or carried out using a grant under this paragraph may not be met by—
 
@@ -209,25 +209,25 @@
 
                     (III) any revenues earned by a public transportation agency.
 
-                (iv) __Safety training program.—__ 
+                (iv)  __Safety training program__  __.—__ 
 
                 Recipients of funds made available to carry out sections 5307 and 5311 may use not more than 0.5 percent of their formula funds to pay not more than 80 percent of the cost of participation in the public transportation safety certification training program established under subsection (c), by an employee of a State safety oversight agency or a recipient who is directly responsible for safety oversight.
 
         (7) __Certification process.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall determine whether or not each State safety oversight program meets the requirements of this subsection and the State safety oversight program is adequate to promote the purposes of this section.
 
-            (B) __Issuance of certifications and denials.—__ 
+            (B)  __Issuance of certifications and denials__  __.—__ 
 
             The Secretary shall issue a certification to each eligible State that the Secretary determines under subparagraph (A) adequately meets the requirements of this subsection, and shall issue a denial of certification to each eligible State that the Secretary determines under subparagraph (A) does not adequately meet the requirements of this subsection.
 
-            (C) __Disapproval.—__ 
+            (C)  __Disapproval__  __.—__ 
 
             If the Secretary determines that a State safety oversight program does not meet the requirements of this subsection and denies certification, the Secretary shall transmit to the eligible State a written explanation and allow the eligible State to modify and resubmit the State safety oversight program for approval.
 
-            (D) __Failure to correct.—__ 
+            (D)  __Failure to correct__  __.—__ 
 
             If the Secretary determines that a modification by an eligible State of the State safety oversight program is not sufficient to certify the program, the Secretary—
 
@@ -243,7 +243,7 @@
 
                     (III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only for safety-related improvements on such systems, until the State safety oversight program has been certified.
 
-        (8) __Evaluation of program and annual report.—__ 
+        (8)  __Evaluation of program and annual report__  __.—__ 
 
         The Secretary shall continually evaluate the implementation of a State safety oversight program by a State safety oversight agency, and shall submit on or before July 1 of each year to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
@@ -251,7 +251,7 @@
 
             (B) the certification status of each State safety oversight program, including what steps a State program that has been denied certification must take in order to be certified.
 
-        (9) __Federal oversight.—__ 
+        (9)  __Federal oversight__  __.—__ 
 
         The Secretary shall—
 
@@ -261,7 +261,7 @@
 
             (C) issue rules to carry out this subsection.
 
-    (f) __Authority of Secretary.—__ 
+    (f)  __Authority of Secretary__  __.—__ 
 
     In carrying out this section, the Secretary may—
 
@@ -293,7 +293,7 @@
 
     (g) __Enforcement Actions.—__ 
 
-        (1) __Types of enforcement actions.—__ 
+        (1)  __Types of enforcement actions__  __.—__ 
 
         The Secretary may take enforcement action against an eligible State, as defined in subsection (e), that does not comply with Federal law with respect to the safety of the public transportation system, including—
 
@@ -307,11 +307,11 @@
 
         (2) __Use or withholding of funds.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary may require the use of funds in accordance with paragraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
 
-            (B) __Notice.—__ 
+            (B)  __Notice__  __.—__ 
 
             Before withholding funds from a recipient, the Secretary shall provide to the recipient—
 
@@ -321,21 +321,21 @@
 
     (h) __Cost-benefit Analysis.—__ 
 
-        (1) __Analysis required.—__ 
+        (1)  __Analysis required__  __.—__ 
 
         In carrying out this section, the Secretary shall take into consideration the costs and benefits of each action the Secretary proposes to take under this section.
 
-        (2) __Waiver.—__ 
+        (2)  __Waiver__  __.—__ 
 
         The Secretary may waive the requirement under this subsection if the Secretary determines that such a waiver is in the public interest.
 
-    (i) __Consultation by the Secretary of Homeland Security.—__ 
+    (i)  __Consultation by the Secretary of Homeland Security__  __.—__ 
 
     The Secretary of Homeland Security shall consult with the Secretary of Transportation before the Secretary of Homeland Security issues a rule or order that the Secretary of Transportation determines affects the safety of public transportation design, construction, or operations.
 
     (j) __Actions Under State Law.—__ 
 
-        (1) __Rule of construction.—__ 
+        (1)  __Rule of construction__  __.—__ 
 
         Nothing in this section shall be construed to preempt an action under State law seeking damages for personal injury, death, or property damage alleging that a party has failed to comply with—
 
@@ -343,15 +343,15 @@
 
             (B) its own program, rule, or standard that it created pursuant to a rule or order issued by the Secretary.
 
-        (2) __Effective date.—__ 
+        (2)  __Effective date__  __.—__ 
 
         This subsection shall apply to any cause of action under State law arising from an event or activity occurring on or after the date of enactment of the Federal Public Transportation Act of 2012.
 
-        (3) __Jurisdiction.—__ 
+        (3)  __Jurisdiction__  __.—__ 
 
         Nothing in this section shall be construed to create a cause of action under Federal law on behalf of an injured party or confer Federal question jurisdiction for a State law cause of action.
 
-    (k) __National Public Transportation Safety Report.—__ 
+    (k)  __National Public Transportation Safety Report__  __.—__ 
 
     Not later than 3 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
 

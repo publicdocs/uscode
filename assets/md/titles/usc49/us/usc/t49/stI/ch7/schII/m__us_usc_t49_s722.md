@@ -15,15 +15,15 @@
 
 ## § 722. Board action
 
-    (a) __Effective Date of Actions.—__ 
+    (a)  __Effective Date of Actions__  __.—__ 
 
     Unless otherwise provided in subtitle IV, the Board may determine, within a reasonable time, when its actions, other than an action ordering the payment of money, take effect.
 
-    (b) __Terminating and Changing Actions.—__ 
+    (b)  __Terminating and Changing Actions__  __.—__ 
 
     An action of the Board remains in effect under its own terms or until superseded. The Board may change, suspend, or set aside any such action on notice. Notice may be given in a manner determined by the Board. A court of competent jurisdiction may suspend or set aside any such action.
 
-    (c) __Reconsidering Actions.—__ 
+    (c)  __Reconsidering Actions__  __.—__ 
 
     The Board may, at any time on its own initiative because of material error, new evidence, or substantially changed circumstances—
 
@@ -35,7 +35,7 @@
 
         An interested party may petition to reopen and reconsider an action of the Board under this subsection under regulations of the Board.
 
-    (d) __Finality of Actions.—__ 
+    (d)  __Finality of Actions__  __.—__ 
 
     Notwithstanding subtitle IV, an action of the Board under this section is final on the date on which it is served, and a civil action to enforce, enjoin, suspend, or set aside the action may be filed after that date.
 

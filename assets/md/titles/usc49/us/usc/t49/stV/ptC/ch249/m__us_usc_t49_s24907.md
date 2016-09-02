@@ -15,15 +15,15 @@
 
 ## § 24907. Note and mortgage
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To secure amounts expended by the United States Government to acquire and improve rail property designated under section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 716(c)(1)(C)][/us/usc/t45/s716/c/1/C] and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede [section 24904 of this title][/us/usc/t49/s24904].
 
-    (b) __Exemptions From Laws and Regulations.—__ 
+    (b)  __Exemptions From Laws and Regulations__  __.—__ 
 
     The note and agreement under subsection (a) of this section, and a transaction related to the note or agreement, are exempt from any United States, State, or local law or regulation that regulates securities or the issuance of securities. The note, agreement, or transaction under this section has the same immunities from other laws that section 601 of the Act ([45 U.S.C. 791][/us/usc/t45/s791]) gives to transactions that comply with or carry out the final system plan. The transfer of rail property because of the note, agreement, or transaction has the same exemptions, privileges, and immunities that the Act ([45 U.S.C. 701][/us/usc/t45/s701] et seq.) gives to a transfer ordered or approved by the special court under section 303(b) of the Act ([45 U.S.C. 743(b)][/us/usc/t45/s743/b]).
 
-    (c) __Immunity From Liability and Indemnification.—__ 
+    (c)  __Immunity From Liability and Indemnification__  __.—__ 
 
     Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
 

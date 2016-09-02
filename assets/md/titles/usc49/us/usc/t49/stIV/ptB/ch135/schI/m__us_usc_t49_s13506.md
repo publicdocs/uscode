@@ -15,7 +15,7 @@
 
 ## § 13506. Miscellaneous motor carrier transportation exemptions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Neither the Secretary nor the Board has jurisdiction under this part over—
 
@@ -85,7 +85,7 @@
 
         (15) transportation of broken, crushed, or powdered glass.
 
-    (b) __Exempt Unless Otherwise Necessary.—__ 
+    (b)  __Exempt Unless Otherwise Necessary__  __.—__ 
 
     Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 

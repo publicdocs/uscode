@@ -15,11 +15,11 @@
 
 ## § 41719. Air service termination notice
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An air carrier may not terminate interstate air transportation from a nonhub airport included on the Secretary of Transportation’s latest published list of such airports, unless such air carrier has given the Secretary at least 45 days’ notice before such termination.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     The requirements of subsection (a) shall not apply when—
 
@@ -33,23 +33,23 @@
 
         (5) the carrier involved makes alternative arrangements, such as a change of aircraft size, or other types of arrangements with a part 121 or part 135 air carrier, that continues uninterrupted service from the affected nonhub airport.
 
-    (c) __Waivers for Regional/Commuter Carriers.—__ 
+    (c)  __Waivers for Regional/Commuter Carriers__  __.—__ 
 
     Before January 1, 1995, the Secretary shall establish terms and conditions under which regional/commuter carriers can be excluded from the termination notice requirement.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Part 121 air carrier.—__ 
+        (1)  __Part 121 air carrier__  __.—__ 
 
         The term “part 121 air carrier” means an air carrier to which part 121 of title 14, Code of Federal Regulations, applies.
 
-        (2) __Part 135 air carrier.—__ 
+        (2)  __Part 135 air carrier__  __.—__ 
 
         The term “part 135 air carrier” means an air carrier to which part 135 of title 14, Code of Federal Regulations, applies.
 
-        (3) __Regional/commuter carriers.—__ 
+        (3)  __Regional/commuter carriers__  __.—__ 
 
         The term “regional/commuter carrier” means—
 
@@ -57,7 +57,7 @@
 
             (B) a part 121 air carrier that provides air transportation exclusively with aircraft having a seating capacity of no more than 70 passengers.
 
-        (4) __Termination.—__ 
+        (4)  __Termination__  __.—__ 
 
         The term “termination” means the cessation of all service at an airport by an air carrier.
 

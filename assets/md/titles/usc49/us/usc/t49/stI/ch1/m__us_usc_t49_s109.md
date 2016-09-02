@@ -15,37 +15,37 @@
 
 ## § 109. Maritime Administration
 
-    (a) __Organization and Mission.—__ 
+    (a)  __Organization and Mission__  __.—__ 
 
     The Maritime Administration is an administration in the Department of Transportation. The mission of the Maritime Administration is to foster, promote, and develop the merchant maritime industry of the United States.
 
-    (b) __Maritime Administrator.—__ 
+    (b)  __Maritime Administrator__  __.—__ 
 
     The head of the Maritime Administration is the Maritime Administrator, who is appointed by the President by and with the advice and consent of the Senate. The Administrator shall report directly to the Secretary of Transportation and carry out the duties prescribed by the Secretary.
 
-    (c) __Deputy Maritime Administrator.—__ 
+    (c)  __Deputy Maritime Administrator__  __.—__ 
 
     The Maritime Administration shall have a Deputy Maritime Administrator, who is appointed in the competitive service by the Secretary, after consultation with the Administrator. The Deputy Administrator shall carry out the duties prescribed by the Administrator. The Deputy Administrator shall be Acting Administrator during the absence or disability of the Administrator and, unless the Secretary designates another individual, during a vacancy in the office of Administrator.
 
-    (d) __Duties and Powers Vested in Secretary.—__ 
+    (d)  __Duties and Powers Vested in Secretary__  __.—__ 
 
     All duties and powers of the Maritime Administration are vested in the Secretary.
 
-    (e) __Regional Offices.—__ 
+    (e)  __Regional Offices__  __.—__ 
 
     The Maritime Administration shall have regional offices for the Atlantic, Gulf, Great Lakes, and Pacific port ranges, and may have other regional offices as necessary. The Secretary shall appoint a qualified individual as Director of each regional office. The Secretary shall carry out appropriate activities and programs of the Maritime Administration through the regional offices.
 
-    (f) __Interagency and Industry Relations.—__ 
+    (f)  __Interagency and Industry Relations__  __.—__ 
 
     The Secretary shall establish and maintain liaison with other agencies, and with representative trade organizations throughout the United States, concerned with the transportation of commodities by water in the export and import foreign commerce of the United States, for the purpose of securing preference to vessels of the United States for the transportation of those commodities.
 
-    (g) __Detailing Officers From Armed Forces.—__ 
+    (g)  __Detailing Officers From Armed Forces__  __.—__ 
 
     To assist the Secretary in carrying out duties and powers relating to the Maritime Administration, not more than five officers of the armed forces may be detailed to the Secretary at any one time, in addition to details authorized by any other law. During the period of a detail, the Secretary shall pay the officer an amount that, when added to the officer’s pay and allowances as an officer in the armed forces, makes the officer’s total pay and allowances equal to the amount that would be paid to an individual performing work the Secretary considers to be of similar importance, difficulty, and responsibility as that performed by the officer during the detail.
 
     (h) __Contracts, Cooperative Agreements, and Audits.—__ 
 
-        (1) __Contracts and cooperative agreements.—__ 
+        (1)  __Contracts and cooperative agreements__  __.—__ 
 
         In the same manner that a private corporation may make a contract within the scope of its authority under its charter, the Secretary may make contracts and cooperative agreements for the United States Government and disburse amounts to—
 
@@ -53,21 +53,21 @@
 
             (B) protect, preserve, and improve collateral held by the Secretary to secure indebtedness.
 
-        (2) __Audits.—__ 
+        (2)  __Audits__  __.—__ 
 
         The financial transactions of the Secretary under paragraph (1) shall be audited by the Comptroller General. The Comptroller General shall allow credit for an expenditure shown to be necessary because of the nature of the business activities authorized by this section or subtitle V of title 46. At least once a year, the Comptroller General shall report to Congress any departure by the Secretary from this section or subtitle V of title 46.
 
-    (i) __Grant Administrative Expenses.—__ 
+    (i)  __Grant Administrative Expenses__  __.—__ 
 
     Except as otherwise provided by law, the administrative and related expenses for the administration of any grant programs by the Maritime Administrator may not exceed 3 percent.
 
-    (j) __Authorization of Appropriations.—__ 
+    (j)  __Authorization of Appropriations__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this subsection, there are authorized to be appropriated such amounts as may be necessary to carry out the duties and powers of the Secretary relating to the Maritime Administration.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         Only those amounts specifically authorized by law may be appropriated for the use of the Maritime Administration for—
 
@@ -89,7 +89,7 @@
 
             (I) other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
 
-        (3) __Training Vessels.—__ 
+        (3)  __Training Vessels__  __.—__ 
 
         Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
 
@@ -449,19 +449,19 @@ Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)], Dec. 22,
 
 [Pub. L. 111–84, div. C, title XXXV, § 3516][/us/pl/111/84/s3516], Oct. 28, 2009, [123 Stat. 2725][/us/stat/123/2725], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Marine transportation system.—__ 
+>         “(1)  __Marine transportation system__  __.—__ 
 
 >         The term ‘marine transportation system’ means the navigable water transportation system of the United States, including the vessels, ports (and intermodal connections thereto), and shipyards and other vessel repair facilities that are components of that system.
 
->         “(2) __Marine view system.—__ 
+>         “(2)  __Marine view system__  __.—__ 
 
 >         The term ‘Marine View system’ means the information system of the Maritime Administration known as Marine View.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 
@@ -469,7 +469,7 @@ Pub. L. 100–202, § 101(a) [title V (4th proviso on p. 1329–28)], Dec. 22,
 
 >         “(2) to provide support for the strategic requirements of the marine transportation system and its contribution to the economic viability of the United States.
 
->     “(c) __Expansion of Marine View System.—__ 
+>     “(c)  __Expansion of Marine View System__  __.—__ 
 
 >     To accomplish the purposes of this section, the Secretary of Transportation shall expand the Marine View system so that such system is able to identify, collect, integrate, secure, protect, store, and securely distribute throughout the marine transportation system information that—
 

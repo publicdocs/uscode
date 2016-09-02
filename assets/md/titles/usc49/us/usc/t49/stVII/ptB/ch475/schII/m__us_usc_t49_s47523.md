@@ -15,11 +15,11 @@
 
 ## § 47523. National aviation noise policy
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
     Not later than July 1, 1991, the Secretary of Transportation shall establish by regulation a national aviation noise policy that considers this subchapter, including the phaseout and nonaddition of stage 2 aircraft as provided in this subchapter and dates for carrying out that policy and reporting requirements consistent with this subchapter and law existing as of November 5, 1990.
 
-    (b) __Detailed Economic Analysis.—__ 
+    (b)  __Detailed Economic Analysis__  __.—__ 
 
     The policy shall be based on a detailed economic analysis of the impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
 

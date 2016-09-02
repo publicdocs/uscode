@@ -15,7 +15,7 @@
 
 ## § 5565. Encouraging the development of plans for converting certain rail passenger terminals
 
-    (a) __General Grant Authority.—__ 
+    (a)  __General Grant Authority__  __.—__ 
 
     The Secretary of Transportation may make a grant of financial assistance to a qualified person (including a governmental authority) to encourage the development of plans for converting a rail passenger terminal under [section 5562(a)(4) of this title][/us/usc/t49/s5562/a/4]. To receive assistance under this section, the person must—
 
@@ -25,11 +25,11 @@
 
         (3) complete the designs and plans for the conversion within the period of time prescribed by the Secretary.
 
-    (b) __Preference.—__ 
+    (b)  __Preference__  __.—__ 
 
     In making a grant under this section, the Secretary of Transportation shall give preferential consideration to an applicant whose completed designs and plans will be carried out within 3 years after their completion.
 
-    (c) __Maximizing Conversion and Continued Public Use.—__ 
+    (c)  __Maximizing Conversion and Continued Public Use__  __.—__ 
 
         (1)
 

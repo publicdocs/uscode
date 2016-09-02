@@ -15,7 +15,7 @@
 
 ## § 26104. Authorization of appropriations
 
-    (a) __Fiscal Years 2006 Through 2013.—__ 
+    (a)  __Fiscal Years__  __2006__  __Through__  __2013.—__ 
 
     There are authorized to be appropriated to the Secretary—
 
@@ -25,7 +25,7 @@
 
         for each of the fiscal years 2006 through 2013.
 
-    (b) __Funds To Remain Available.—__ 
+    (b)  __Funds To Remain Available__  __.—__ 
 
     Funds made available under this section shall remain available until expended.
 

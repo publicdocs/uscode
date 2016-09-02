@@ -15,7 +15,7 @@
 
 ## § 47131. Annual report
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Not later than June 1 of each year, the Secretary of Transportation shall submit to Congress a report on activities carried out under this subchapter during the prior fiscal year. The report shall include—
 
@@ -29,7 +29,7 @@
 
         (5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, the timelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
 
-    (b) __Special Rule for Listing Noncompliant Airports.—__ 
+    (b)  __Special Rule for Listing Noncompliant Airports__  __.—__ 
 
     The Secretary does not have to conduct an audit or make a final determination before including an airport on the list referred to in subsection (a)(5).
 

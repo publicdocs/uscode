@@ -15,7 +15,7 @@
 
 ## § 30504. Reporting requirements
 
-    (a) __Junk Yard and Salvage Yard Operators.—__ 
+    (a)  __Junk Yard and Salvage Yard Operators__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (B) issued a verification under [section 33110 of this title][/us/usc/t49/s33110] stating that the automobile or parts from the automobile are not reported as stolen.
 
-    (b) __Insurance Carriers.—__ 
+    (b)  __Insurance Carriers__  __.—__ 
 
     Beginning at a time established by the Attorney General that is not sooner than the 3d month before the establishment or designation of the System, an individual or entity engaged in business as an insurance carrier shall file a monthly report with the operator. The report may be filed directly or through a designated agent. The report shall contain an inventory of all automobiles of the current model year or any of the 4 prior model years that the carrier, during the prior month, has obtained possession of and has decided are junk automobiles or salvage automobiles. The inventory shall contain—
 
@@ -49,7 +49,7 @@
 
         (4) the name of the owner of the automobile at the time of the filing of the report.
 
-    (c) __Procedures and Practices.—__ 
+    (c)  __Procedures and Practices__  __.—__ 
 
     The Attorney General shall establish by regulation procedures and practices to facilitate reporting in the least burdensome and costly fashion.
 

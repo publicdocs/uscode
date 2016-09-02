@@ -15,7 +15,7 @@
 
 ## § 20504. Inspection, testing, and investigation
 
-    (a) __Systems in Use.—__ 
+    (a)  __Systems in Use__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) has no financial interest in a railroad carrier or in a concern dealing in railroad supplies.
 
-    (b) __Systems Submitted for Investigation and Testing.—__ 
+    (b)  __Systems Submitted for Investigation and Testing__  __.—__ 
 
     The Secretary may investigate, test, and report on the use of and need for a signal system, without cost to the United States Government, when the system is submitted in completed shape for investigation and testing.
 

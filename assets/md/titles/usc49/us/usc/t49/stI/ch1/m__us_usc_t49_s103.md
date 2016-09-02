@@ -15,31 +15,31 @@
 
 ## § 103. Federal Railroad Administration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Railroad Administration is an administration in the Department of Transportation.
 
-    (b) __Safety.—__ 
+    (b)  __Safety__  __.—__ 
 
     To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.
 
-    (c) __Safety as Highest Priority.—__ 
+    (c)  __Safety as Highest Priority__  __.—__ 
 
     In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in railroad transportation.
 
-    (d) __Administrator.—__ 
+    (d)  __Administrator__  __.—__ 
 
     The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in railroad safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
 
-    (e) __Deputy Administrator.—__ 
+    (e)  __Deputy Administrator__  __.—__ 
 
     The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
-    (f) __Chief Safety Officer.—__ 
+    (f)  __Chief Safety Officer__  __.—__ 
 
     The Administration shall have an Associate Administrator for Railroad Safety appointed in the career service by the Secretary. The Associate Administrator shall be the Chief Safety Officer of the Administration. The Associate Administrator shall carry out the duties and powers prescribed by the Administrator.
 
-    (g) __Duties and Powers of the Administrator.—__ 
+    (g)  __Duties and Powers of the Administrator__  __.—__ 
 
     The Administrator shall carry out—
 
@@ -49,15 +49,15 @@
 
         (3) other duties and powers prescribed by the Secretary.
 
-    (h) __Limitation.—__ 
+    (h)  __Limitation__  __.—__ 
 
     A duty or power specified in subsection (g)(1) may be transferred to another part of the Department of Transportation or another Federal Government entity only when specifically provided by law. A decision of the Administrator in carrying out the duties or powers of the Administration and involving notice and hearing required by law is administratively final.
 
-    (i) __Authorities.—__ 
+    (i)  __Authorities__  __.—__ 
 
     Subject to the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions at the Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
-    (j) __Additional Duties of the Administrator.—__ 
+    (j)  __Additional Duties of the Administrator__  __.—__ 
 
     The Administrator shall—
 
@@ -77,15 +77,15 @@
 
     (k) __Performance Goals and Reports.—__ 
 
-        (1) __Performance goals.—__ 
+        (1)  __Performance goals__  __.—__ 
 
         In conjunction with the objectives established and activities undertaken under subsection (j) of this section, the Administrator shall develop a schedule for achieving specific, measurable performance goals.
 
-        (2) __Resource needs.—__ 
+        (2)  __Resource needs__  __.—__ 
 
         The strategy and annual plans shall include estimates of the funds and staff resources needed to accomplish each goal and the additional duties required under subsection (j).
 
-        (3) __Submission with president’s budget.—__ 
+        (3)  __Submission with president’s budget__  __.—__ 
 
         Beginning with fiscal year 2010 and each fiscal year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the same time as the President’s budget submission, the Administration’s performance goals and schedule developed under paragraph (1), including an assessment of the progress of the Administration toward achieving its performance goals.
 
@@ -269,11 +269,11 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 
 [Pub. L. 110–432, div. A, title III, § 307][/us/pl/110/432/s307], Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall update the Federal Railroad Administration’s public website to better facilitate the ability of the public, including those individuals who are not regular users of the public website, to find current information regarding the Federal Railroad Administration’s activities.
 
->     “(b) __Public Reporting of Violations.—__ 
+>     “(b)  __Public Reporting of Violations__  __.—__ 
 
 >     On the Federal Railroad Administration’s public website’s home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration.”
 

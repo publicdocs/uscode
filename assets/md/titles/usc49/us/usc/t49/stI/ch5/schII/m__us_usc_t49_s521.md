@@ -31,21 +31,21 @@
 
         (1) __Notice.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator’s intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to [section 554 of title 5][/us/usc/t5/s554], following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
-            (B) __Nonapplicability to reporting and recordkeeping violations.—__ 
+            (B)  __Nonapplicability to reporting and recordkeeping violations__  __.—__ 
 
             Subparagraph (A) shall not apply to reporting and recordkeeping violations.
 
         (2) __Civil Penalty.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act that is a violation of regulations issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502] shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each offense. Notwithstanding any other provision of this section (except subparagraph (C)), no civil penalty shall be assessed under this section against an employee for a violation in an amount exceeding $2,500.
 
-            (B) __Recordkeeping and reporting violations.—__ 
+            (B)  __Recordkeeping and reporting violations__  __.—__ 
 
             A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under [section 504 of this title][/us/usc/t49/s504] or under any regulation issued by the Secretary pursuant to subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502] about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person—
 
@@ -53,25 +53,25 @@
 
                 (ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowingly makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
 
-            (C) __Violations pertaining to cdls.—__ 
+            (C)  __Violations pertaining to cdls__  __.—__ 
 
             Any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act which is a violation of section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title shall be liable to the United States for a civil penalty not to exceed $2,500 for each offense.
 
-            (D) __Determination of amount.—__ 
+            (D)  __Determination of amount__  __.—__ 
 
             The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
             (E)
 
-                (i) __Copying of records and access to equipment, lands, and buildings.—__ 
+                (i)  __Copying of records and access to equipment, lands, and buildings__  __.—__ 
 
                 A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operator of a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect and copy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. In the case of a motor carrier, the Secretary may also place the violator’s motor carrier operations out of service. It shall be a defense to a penalty that the records did not exist at the time of the Secretary’s request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
 
-                (ii) __Place out of service.—__ 
+                (ii)  __Place out of service__  __.—__ 
 
                 The Secretary may by regulation adopt procedures for placing out of service the commercial motor vehicle of a foreign-domiciled motor carrier that fails to promptly allow the Secretary to inspect and copy a record or inspect equipment, land, buildings, or other property.
 
-            (F) __Penalty for violations relating to out of service orders.—__ 
+            (F)  __Penalty for violations relating to out of service orders__  __.—__ 
 
             A motor carrier or employer (as defined in section 31132) that operates a commercial motor vehicle in commerce in violation of a prohibition on transportation under [section 31144(c) of this title][/us/usc/t49/s31144/c] or an imminent hazard out of service order issued under subsection (b)(5) of this section or [section 5121(d) of this title][/us/usc/t49/s5121/d] shall be liable for a civil penalty not to exceed $25,000.
 
@@ -87,11 +87,11 @@
 
         (6) __Criminal Penalties.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any person who knowingly and willfully violates any provision of subchapter III of chapter 311 (except sections 31138 and 31139) or [section 31502 of this title][/us/usc/t49/s31502], or a regulation issued under any of those provisions shall, upon conviction, be subject for each offense to a fine not to exceed $25,000 or imprisonment for a term not to exceed one year, or both, except that, if such violator is an employee, the violator shall only be subject to penalty if, while operating a commercial motor vehicle, the violator’s activities have led or could have led to death or serious injury, in which case the violator shall be subject, upon conviction, to a fine not to exceed $2,500.
 
-            (B) __Violations pertaining to cdls.—__ 
+            (B)  __Violations pertaining to cdls__  __.—__ 
 
             Any person who knowingly and willfully violates—
 
@@ -105,11 +105,11 @@
 
         (8) __Prohibition on operation in interstate commerce after nonpayment of penalties.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for such civil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
-            (B) __Regulations.—__ 
+            (B)  __Regulations__  __.—__ 
 
             Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and an opportunity for public comment, shall issue regulations setting forth procedures for ordering commercial motor vehicle owners and operators delinquent in paying civil penalties to cease operations until payment has been made.
 
@@ -135,11 +135,11 @@
 
                 (iii) The Secretary’s designee or an authorized State official carrying out motor carrier safety enforcement activities under section 31102, shall immediately notify the owner of a commercial motor vehicle of the impoundment and the opportunity for review of the impoundment. A review shall be provided in accordance with [section 554 of title 5][/us/usc/t5/s554], except that the review shall occur not later than 10 days after the impoundment.
 
-            (B) __Issuance of regulations.—__ 
+            (B)  __Issuance of regulations__  __.—__ 
 
             The Secretary shall promulgate regulations on the use of impoundment or immobilization of commercial motor vehicles as a means of enforcing additional out-of-service orders issued under chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder. Regulations promulgated under this subparagraph shall include consideration of public safety, the protection of passengers and cargo, inconvenience to passengers, and the security of the commercial motor vehicle.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             In this paragraph, the term “impoundment” or “impounding” means the seizing and taking into custody of a commercial motor vehicle or the immobilizing of a commercial motor vehicle through the attachment of a locking device or other mechanical or electronic means.
 
@@ -353,11 +353,11 @@ Revised Section  </td>
 
 [Pub. L. 106–159, title II, § 222][/us/pl/106/159/s222], Dec. 9, 1999, [113 Stat. 1769][/us/stat/113/1769], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation should ensure that motor carriers operate safely by imposing civil penalties at a level calculated to ensure prompt and sustained compliance with Federal motor carrier safety and commercial driver’s license laws.
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     The Secretary—
 
@@ -365,17 +365,17 @@ Revised Section  </td>
 
 >         “(2) shall assess the maximum civil penalty for each violation of a law referred to in subsection (a) by any person who is found to have committed a pattern of violations of critical or acute regulations issued to carry out such a law or to have previously committed the same or a related violation of critical or acute regulations issued to carry out such a law.
 
->     “(c) __Extraordinary Circumstances.—__ 
+>     “(c)  __Extraordinary Circumstances__  __.—__ 
 
 >     If the Secretary determines and documents that extraordinary circumstances exist which merit the assessment of any civil penalty lower than any level established under subsection (b), the Secretary may assess such lower penalty. In cases where a person has been found to have previously committed the same or a related violation of critical or acute regulations issued to carry out a law referred to in subsection (a), extraordinary circumstances may be found to exist when the Secretary determines that repetition of such violation does not demonstrate a failure to take appropriate remedial action.
 
 >     “(d) __Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall conduct a study of the effectiveness of the revised civil penalties established in the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178], see Tables for classification\] and this Act \[see Tables for classification\] in ensuring prompt and sustained compliance with Federal motor carrier safety and commercial driver’s license laws.
 
->         “(2) __Submission to congress.—__ 
+>         “(2)  __Submission to congress__  __.—__ 
 
 >         The Secretary shall transmit the results of such study and any recommendations to Congress by September 30, 2002.”
 

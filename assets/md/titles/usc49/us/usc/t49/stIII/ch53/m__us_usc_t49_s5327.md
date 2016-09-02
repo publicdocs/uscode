@@ -15,7 +15,7 @@
 
 ## § 5327. Project management oversight
 
-    (a) __Project Management Plan Requirements.—__ 
+    (a)  __Project Management Plan Requirements__  __.—__ 
 
     To receive Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan. The plan shall provide for—
 
@@ -45,17 +45,17 @@
 
         (13) safety and security management.
 
-    (b) __Plan Approval.—__ 
+    (b)  __Plan Approval__  __.—__ 
 
         (1) The Secretary shall approve a plan not later than 60 days after it is submitted. If the approval cannot be completed within 60 days, the Secretary shall notify the recipient, explain the reasons for the delay, and estimate the additional time that will be required.
 
         (2) The Secretary shall inform the recipient of the reasons when a plan is disapproved.
 
-    (c) __Access to Sites and Records.—__ 
+    (c)  __Access to Sites and Records__  __.—__ 
 
     Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(i) with access to the construction sites and records of the recipient when reasonably necessary.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
 

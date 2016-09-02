@@ -15,11 +15,11 @@
 
 ## § 32305. Information and assistance from other departments, agencies, and instrumentalities
 
-    (a) __Authority To Request.—__ 
+    (a)  __Authority To Request__  __.—__ 
 
     The Secretary of Transportation may request information necessary to carry out this chapter from a department, agency, or instrumentality of the United States Government. The head of the department, agency, or instrumentality shall provide the information.
 
-    (b) __Detailing Personnel.—__ 
+    (b)  __Detailing Personnel__  __.—__ 
 
     The head of a department, agency, or instrumentality may detail, on a reimbursable basis, personnel to assist the Secretary in carrying out this chapter.
 

@@ -15,7 +15,7 @@
 
 ## § 20109. Employee protections
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee’s lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
@@ -41,7 +41,7 @@
 
         (7) to accurately report hours on duty pursuant to chapter 211.
 
-    (b) __Hazardous Safety or Security Conditions.—__ 
+    (b)  __Hazardous Safety or Security Conditions__  __.—__ 
 
         (1)
 
@@ -73,57 +73,57 @@
 
     (c) __Prompt Medical Attention.—__ 
 
-        (1) __Prohibition.—__ 
+        (1)  __Prohibition__  __.—__ 
 
         A railroad carrier or person covered under this section may not deny, delay, or interfere with the medical or first aid treatment of an employee who is injured during the course of employment. If transportation to a hospital is requested by an employee who is injured during the course of employment, the railroad shall promptly arrange to have the injured employee transported to the nearest hospital where the employee can receive safe and appropriate medical care.
 
-        (2) __Discipline.—__ 
+        (2)  __Discipline__  __.—__ 
 
         A railroad carrier or person covered under this section may not discipline, or threaten discipline to, an employee for requesting medical or first aid treatment, or for following orders or a treatment plan of a treating physician, except that a railroad carrier’s refusal to permit an employee to return to work following medical treatment shall not be considered a violation of this section if the refusal is pursuant to Federal Railroad Administration medical standards for fitness of duty or, if there are no pertinent Federal Railroad Administration standards, a carrier’s medical standards for fitness for duty. For purposes of this paragraph, the term “discipline” means to bring charges against a person in a disciplinary proceeding, suspend, terminate, place on probation, or make note of reprimand on an employee’s record.
 
     (d) __Enforcement Action.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
 
         (2) __Procedure.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any action under paragraph (1) shall be governed under the rules and procedures set forth in section 42121(b), including:
 
-                (i) __Burdens of proof.—__ 
+                (i)  __Burdens of proof__  __.—__ 
 
                 Any action brought under (d)(1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “subsection”. </sup></sup>  shall be governed by the legal burdens of proof set forth in section 42121(b).
 
-                (ii) __Statute of limitations.—__ 
+                (ii)  __Statute of limitations__  __.—__ 
 
                 An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a), (b), or (c) of this section occurs.
 
-                (iii) __Civil actions to enforce.—__ 
+                (iii)  __Civil actions to enforce__  __.—__ 
 
                 If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121. <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup> 
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             Notification made under section 42121(b)(1) shall be made to the person named in the complaint and the person’s employer.
 
-        (3) __De novo review.—__ 
+        (3)  __De novo review__  __.—__ 
 
         With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
-        (4) __Appeals.—__ 
+        (4)  __Appeals__  __.—__ 
 
         Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b), <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should not appear. </sup></sup>  may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 
     (e) __Remedies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An employee prevailing in any action under subsection (d) shall be entitled to all relief necessary to make the employee whole.
 
-        (2) __Damages.—__ 
+        (2)  __Damages__  __.—__ 
 
         Relief in an action under subsection (d) (including an action described in subsection (d)(3)) shall include—
 
@@ -133,19 +133,19 @@
 
             (C) compensatory damages, including compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
-        (3) __Possible relief.—__ 
+        (3)  __Possible relief__  __.—__ 
 
         Relief in any action under subsection (d) may include punitive damages in an amount not to exceed $250,000.
 
-    (f) __Election of Remedies.—__ 
+    (f)  __Election of Remedies__  __.—__ 
 
     An employee may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the railroad carrier.
 
-    (g) __No Preemption.—__ 
+    (g)  __No Preemption__  __.—__ 
 
     Nothing in this section preempts or diminishes any other safeguards against discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
 
-    (h) __Rights Retained by Employee.—__ 
+    (h)  __Rights Retained by Employee__  __.—__ 
 
     Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 
@@ -157,15 +157,15 @@
 
     (j) __Process for Reporting Security Problems to the Department of Homeland Security.—__ 
 
-        (1) __Establishment of process.—__ 
+        (1)  __Establishment of process__  __.—__ 
 
         The Secretary of Homeland Security shall establish through regulations, after an opportunity for notice and comment, a process by which any person may report to the Secretary of Homeland Security regarding railroad security problems, deficiencies, or vulnerabilities.
 
-        (2) __Acknowledgment of receipt.—__ 
+        (2)  __Acknowledgment of receipt__  __.—__ 
 
         If a report submitted under paragraph (1) identifies the person making the report, the Secretary of Homeland Security shall respond promptly to such person and acknowledge receipt of the report.
 
-        (3) __Steps to address problem.—__ 
+        (3)  __Steps to address problem__  __.—__ 
 
         The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
@@ -367,11 +367,11 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 212(f); added June 22, 1988,
 
 [Pub. L. 110–432, div. A, title IV, § 410][/us/pl/110/432/s410], Oct. 16, 2008, [122 Stat. 4887][/us/stat/122/4887], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, as appropriate, shall require each Class I railroad carrier, each intercity passenger railroad carrier, and each commuter railroad carrier to develop and submit for approval to the Secretary a critical incident stress plan that provides for debriefing, counseling, guidance, and other appropriate support services to be offered to an employee affected by a critical incident.
 
->     “(b) __Plan Requirements.—__ 
+>     “(b)  __Plan Requirements__  __.—__ 
 
 >     Each such plan shall include provisions for—
 
@@ -381,7 +381,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 212(f); added June 22, 1988,
 
 >         “(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
 
->     “(c) __Secretary To Define What Constitutes A Critical Incident.—__ 
+>     “(c)  __Secretary To Define What Constitutes A Critical Incident__  __.—__ 
 
 >     Within 30 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall initiate a rulemaking proceeding to define the term ‘critical incident’ for the purposes of this section.”
 

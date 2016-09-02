@@ -15,15 +15,15 @@
 
 ## § 45103. Prohibited service
 
-    (a) __Use of Alcohol or a Controlled Substance.—__ 
+    (a)  __Use of Alcohol or a Controlled Substance__  __.—__ 
 
     An individual may not use alcohol or a controlled substance after October 28, 1991, in violation of law or a United States Government regulation and serve as an airman, crewmember, airport security screening employee, air carrier employee responsible for safety-sensitive functions (as decided by the Administrator of the Federal Aviation Administration), or employee of the Administration with responsibility for safety-sensitive functions.
 
-    (b) __Rehabilitation Required To Resume Service.—__ 
+    (b)  __Rehabilitation Required To Resume Service__  __.—__ 
 
     Notwithstanding subsection (a) of this section, an individual found to have used alcohol or a controlled substance after October 28, 1991, in violation of law or a Government regulation may serve as an airman, crewmember, airport security screening employee, air carrier employee responsible for safety-sensitive functions (as decided by the Administrator), or employee of the Administration with responsibility for safety-sensitive functions only if the individual completes a rehabilitation program described in [section 45105 of this title][/us/usc/t49/s45105].
 
-    (c) __Performance of Prior Duties Prohibited.—__ 
+    (c)  __Performance of Prior Duties Prohibited__  __.—__ 
 
     An individual who served as an airman, crewmember, airport security screening employee, air carrier employee responsible for safety-sensitive functions (as decided by the Administrator), or employee of the Administration with responsibility for safety-sensitive functions and who was found by the Administrator to have used alcohol or a controlled substance after October 28, 1991, in violation of law or a Government regulation may not carry out the duties related to air transportation that the individual carried out before the finding of the Administrator if the individual—
 

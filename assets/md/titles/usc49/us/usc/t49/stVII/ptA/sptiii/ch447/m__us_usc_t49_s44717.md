@@ -15,7 +15,7 @@
 
 ## § 44717. Aging aircraft
 
-    (a) __Inspections and Reviews.—__ 
+    (a)  __Inspections and Reviews__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall prescribe regulations that ensure the continuing airworthiness of aging aircraft. The regulations prescribed under subsection (a) of this section—
 
@@ -27,13 +27,13 @@
 
         (4) shall establish procedures to be followed in carrying out an inspection.
 
-    (b) __When and How Inspections and Reviews Shall Be Carried Out.—__ 
+    (b)  __When and How Inspections and Reviews Shall Be Carried Out__  __.—__ 
 
         (1) Inspections and reviews required under subsection (a)(1) of this section shall be carried out as part of each heavy maintenance check of the aircraft conducted after the 14th year in which the aircraft has been in service.
 
         (2) Inspections under subsection (a)(1) of this section shall be carried out as provided under section 44701(a)(2)(B) and (C) of this title.
 
-    (c) __Aircraft Maintenance Safety Programs.—__ 
+    (c)  __Aircraft Maintenance Safety Programs__  __.—__ 
 
     The Administrator shall establish—
 
@@ -49,7 +49,7 @@
 
         (3) a program to ensure that air carriers demonstrate to the Administrator their commitment and technical competence to ensure the airworthiness of aircraft that the carriers operate.
 
-    (d) __Foreign Air Transportation.—__ 
+    (d)  __Foreign Air Transportation__  __.—__ 
 
         (1)
 

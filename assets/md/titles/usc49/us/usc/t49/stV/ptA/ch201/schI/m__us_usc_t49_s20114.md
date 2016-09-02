@@ -15,15 +15,15 @@
 
 ## § 20114. Judicial procedures
 
-    (a) __Criminal Contempt.—__ 
+    (a)  __Criminal Contempt__  __.—__ 
 
     In a trial for criminal contempt for violating an injunction or restraining order issued under this chapter, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
-    (b) __Subpenas For Witnesses.—__ 
+    (b)  __Subpenas For Witnesses__  __.—__ 
 
     A subpena for a witness required to attend a district court of the United States in an action brought under this chapter may be served in any judicial district.
 
-    (c) __Review of Agency Action.—__ 
+    (c)  __Review of Agency Action__  __.—__ 
 
     Except as provided in [section 20104(c) of this title][/us/usc/t49/s20104/c], a proceeding to review a final action of the Secretary of Transportation under this part or, as applicable to railroad safety, chapter 51 or 57 of this title shall be brought in the appropriate court of appeals as provided in chapter 158 of title 28.
 

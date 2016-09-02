@@ -15,7 +15,7 @@
 
 ## § 41111. Simplified procedure to apply for, amend, modify, suspend, and transfer certificates
 
-    (a) __General Requirements.—__ 
+    (a)  __General Requirements__  __.—__ 
 
         (1)
 
@@ -27,11 +27,11 @@
 
         (2) Regulations under this section shall provide for notice and an opportunity for each interested person to file appropriate written evidence and argument. An oral evidentiary hearing is not required to be provided under this section.
 
-    (b) __When Simplified Procedure Used.—__ 
+    (b)  __When Simplified Procedure Used__  __.—__ 
 
     The Secretary may use the simplified procedure to act on an application for a certificate to provide air transportation under [section 41102 of this title][/us/usc/t49/s41102], or to amend, modify, suspend, or transfer any part of that certificate under section 41105 or 41110(a) or (c) of this title, when the Secretary decides the use of the procedure is in the public interest.
 
-    (c) __Contents.—__ 
+    (c)  __Contents__  __.—__ 
 
         (1)
 

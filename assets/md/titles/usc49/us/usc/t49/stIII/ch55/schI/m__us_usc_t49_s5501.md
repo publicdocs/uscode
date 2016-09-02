@@ -15,11 +15,11 @@
 
 ## § 5501. National Intermodal Transportation System policy
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     It is the policy of the United States Government to develop a National Intermodal Transportation System that is economically efficient and environmentally sound, provides the foundation for the United States to compete in the global economy, and will move individuals and property in an energy efficient way.
 
-    (b) __System Characteristics.—__ 
+    (b)  __System Characteristics__  __.—__ 
 
         (1) The National Intermodal Transportation System shall consist of all forms of transportation in a unified, interconnected manner, including the transportation systems of the future, to reduce energy consumption and air pollution while promoting economic development and supporting the United States’ preeminent position in international commerce.
 
@@ -39,7 +39,7 @@
 
         (9) The National Intermodal Transportation System must be the centerpiece of a national investment commitment to create the new wealth of the United States for the 21st century.
 
-    (c) __Distribution and Posting.—__ 
+    (c)  __Distribution and Posting__  __.—__ 
 
     The Secretary of Transportation shall distribute copies of the policy in subsections (a) and (b) of this section to each employee of the Department of Transportation and ensure that the policy is posted in all offices of the Department.
 

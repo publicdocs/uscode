@@ -15,7 +15,7 @@
 
 ## § 41731. Definitions
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In this subchapter—
 
@@ -49,23 +49,23 @@
 
         (2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in [section 41732 of this title][/us/usc/t49/s41732].
 
-    (b) __Limitation on Authority To Decide a Place Not an Eligible Place.—__ 
+    (b)  __Limitation on Authority To Decide a Place Not an Eligible Place__  __.—__ 
 
     The Secretary may not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
 
-    (c) __Exception for Locations in Alaska and Hawaii.—__ 
+    (c)  __Exception for Locations in Alaska and Hawaii__  __.—__ 
 
     Subparagraphs (B), (C), and (D) of subsection (a)(1) shall not apply with respect to locations in the State of Alaska or the State of Hawaii.
 
-    (d) __Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport.—__ 
+    (d)  __Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport__  __.—__ 
 
     Subsection (a)(1)(B) shall not apply with respect to locations that are more than 175 driving miles from the nearest large or medium hub airport.
 
-    (e) __Waivers.—__ 
+    (e)  __Waivers__  __.—__ 
 
     For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary’s satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
 
-    (f) __Definition.—__ 
+    (f)  __Definition__  __.—__ 
 
     For purposes of subsection (a)(1)(B), the term “enplanements” means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.
 
@@ -237,11 +237,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 [Pub. L. 108–176, title IV, § 406][/us/pl/108/176/s406], Dec. 12, 2003, [117 Stat. 2545][/us/stat/117/2545], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation shall establish a pilot program under which the Secretary may require air carriers providing service with compensation under subchapter II of chapter 417 of title 49, United States Code, and major air carriers (as defined in section 41716(a)(2) of such title) serving large hub airports (as defined in section 40102 of such title) to participate in multiple code-share arrangements consistent with normal industry practice whenever and wherever the Secretary determines that such multiple code-sharing arrangements would improve air transportation services.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     The Secretary may not require air carriers to participate in the pilot program under this section for more than 10 communities receiving service under subchapter II of chapter 417 of title 49, United States Code.”
 
@@ -249,11 +249,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 [Pub. L. 108–176, title IV, § 409][/us/pl/108/176/s409], Dec. 12, 2003, [117 Stat. 2547][/us/stat/117/2547], as amended by [Pub. L. 110–190, § 4(d)(1)][/us/pl/110/190/s4/d/1], Feb. 28, 2008, [122 Stat. 644][/us/stat/122/644]; [Pub. L. 110–330, § 5(k)][/us/pl/110/330/s5/k], Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–69, § 5(k)][/us/pl/111/69/s5/k], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–249, § 5(k)][/us/pl/111/249/s5/k], Sept. 30, 2010, [124 Stat. 2628][/us/stat/124/2628]; [Pub. L. 112–30, title II, § 205(k)][/us/pl/112/30/s205/k], Sept. 16, 2011, [125 Stat. 358][/us/stat/125/358]; [Pub. L. 112–91, § 5(k)][/us/pl/112/91/s5/k], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IV, § 431][/us/pl/112/95/s431], Feb. 14, 2012, [126 Stat. 100][/us/stat/126/100], provided that:
 
->     “(a) __Request for Secretarial Review.—__ 
+>     “(a)  __Request for Secretarial Review__  __.—__ 
 
 >     An eligible place (as defined in [section 41731 of title 49][/us/usc/t49/s41731], United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[[Pub. L. 106–69][/us/pl/106/69]\] ([49 U.S.C. 41731][/us/usc/t49/s41731] note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[[Pub. L. 106–181][/us/pl/106/181]\] ([49 U.S.C. 41731][/us/usc/t49/s41731] note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
->     “(b) __Determination of Mileage.—__ 
+>     “(b)  __Determination of Mileage__  __.—__ 
 
 >     In reviewing an action under subsection (a), the highway mileage between an eligible place and the nearest medium hub airport or large hub airport is the highway mileage of the most commonly used route between the place and the medium hub airport or large hub airport. In identifying such route, the Secretary shall identify the most commonly used route for a community by—
 
@@ -261,7 +261,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 >         “(2) considering the certification of the Governor of a State or the Governor’s designee as to the most commonly used route.
 
->     “(c) __Eligibility Determination.—__ 
+>     “(c)  __Eligibility Determination__  __.—__ 
 
 >     Not later than 60 days after receiving a request under subsection (a), the Secretary shall—
 
@@ -269,7 +269,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 >         “(2) issue a final order with respect to the eligibility of such place for essential air service compensation under subchapter II of chapter 417 of title 49, United States Code.
 
->     “(d) __Limitation on Period of Final Order.—__ 
+>     “(d)  __Limitation on Period of Final Order__  __.—__ 
 
 >     A final order issued under subsection (c) shall terminate on September 30, 2015.”
 
@@ -283,7 +283,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 [Pub. L. 106–181, title II, § 207][/us/pl/106/181/s207], Apr. 5, 2000, [114 Stat. 94][/us/stat/114/94], provided that:
 
->     “(a) __Review of Marketing Practices That Adversely Affect Service to Small or Medium Communities.—__ 
+>     “(a)  __Review of Marketing Practices That Adversely Affect Service to Small or Medium Communities__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary \[of Transportation\] shall review the marketing practices of air carriers that may inhibit the availability of quality, affordable air transportation services to small- and medium-sized communities, including—
 
@@ -299,11 +299,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(k)(2)–(5); added Oct. 
 
 >         “(6) any other marketing practice that may have the same effect.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     If the Secretary finds, after conducting the review, that marketing practices inhibit the availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
 
->     “(c) __Statutory Construction.—__ 
+>     “(c)  __Statutory Construction__  __.—__ 
 
 >     Nothing in this section expands the authority or jurisdiction of the Secretary to issue regulations under chapter 417 of title 49, United States Code, or under any other law.”
 

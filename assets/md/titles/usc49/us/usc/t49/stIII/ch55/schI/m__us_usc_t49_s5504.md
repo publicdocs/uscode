@@ -15,19 +15,19 @@
 
 ## § 5504. Model intermodal transportation plans
 
-    (a) __Grants.—__ 
+    (a)  __Grants__  __.—__ 
 
     The Secretary of Transportation shall make grants to States to develop model State intermodal transportation plans that are consistent with the policy set forth in [section 302(e) of this title][/us/usc/t49/s302/e]. The model plans shall include systems for collecting data related to intermodal transportation.
 
-    (b) __Distribution.—__ 
+    (b)  __Distribution__  __.—__ 
 
     The Secretary shall award grants to States under this section that represent a variety of geographic regions and transportation needs, patterns, and modes.
 
-    (c) __Plan Submission.—__ 
+    (c)  __Plan Submission__  __.—__ 
 
     As a condition to a State receiving a grant under this section, the Secretary shall require that the State provide assurances that the State will submit to the Secretary a State intermodal transportation plan not later than 18 months after the date of receipt of the grant.
 
-    (d) __Grant Amounts.—__ 
+    (d)  __Grant Amounts__  __.—__ 
 
     The Secretary shall reserve, from amounts deducted under [section 104(a) of title 23][/us/usc/t23/s104/a], $3,000,000 to make grants under this section. The total amount that a State may receive in grants under this section may not be more than $500,000.
 

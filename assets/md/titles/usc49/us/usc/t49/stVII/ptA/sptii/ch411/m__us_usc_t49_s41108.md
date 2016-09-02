@@ -15,7 +15,7 @@
 
 ## § 41108. Applications for certificates
 
-    (a) __Form, Contents, and Proof of Service.—__ 
+    (a)  __Form, Contents, and Proof of Service__  __.—__ 
 
     To be issued a certificate of public convenience and necessity under [section 41102 of this title][/us/usc/t49/s41102], a citizen of the United States must apply to the Secretary of Transportation. The application must—
 
@@ -23,7 +23,7 @@
 
         (2) be accompanied by proof of service on interested persons as required by regulations of the Secretary and on each community that may be affected by the issuance of the certificate.
 
-    (b) __Notice, Response, and Actions on Applications.—__ 
+    (b)  __Notice, Response, and Actions on Applications__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (5) If a citizen applying for a certificate does not meet the procedural schedule adopted by the Secretary in a proceeding, the Secretary may extend the period for acting under paragraphs (3) and (4) of this subsection by a period equal to the period of delay caused by the citizen. In addition to an extension under this paragraph, an initial or recommended decision under paragraph (3) of this subsection may be delayed for not more than 30 days in extraordinary circumstances.
 
-    (c) __Proof Requirements.—__ 
+    (c)  __Proof Requirements__  __.—__ 
 
         (1) A citizen applying for a certificate must prove that the citizen is fit, willing, and able to provide the transportation referred to in [section 41102 of this title][/us/usc/t49/s41102] and to comply with this part.
 

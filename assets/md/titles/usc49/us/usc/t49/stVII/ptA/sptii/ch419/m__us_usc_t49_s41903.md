@@ -15,7 +15,7 @@
 
 ## § 41903. Duty to provide certain transportation of mail
 
-    (a) __Air Carriers.—__ 
+    (a)  __Air Carriers__  __.—__ 
 
     Subject to subsection (b) of this section, an air carrier authorized by its certificate to transport mail by aircraft between places in Alaska shall—
 
@@ -23,7 +23,7 @@
 
         (2) transport mail between the places authorized in the certificate for transportation of mail when required, and under regulations prescribed, by the United States Postal Service.
 
-    (b) __Maximum Mail Load.—__ 
+    (b)  __Maximum Mail Load__  __.—__ 
 
     The Secretary of Transportation may prescribe the maximum mail load for a schedule or for an aircraft or type of aircraft for the transportation of mail by aircraft between places in Alaska. If the Postal Service tenders to an air carrier mail exceeding the maximum load for transportation by the carrier under a schedule designated or required to be established for the transportation of mail under [section 41902(c) of this title][/us/usc/t49/s41902/c], the carrier, as nearly in accordance with the schedule as the Secretary decides is possible, shall—
 

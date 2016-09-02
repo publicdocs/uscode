@@ -49,11 +49,11 @@
 
     (b) __Statement of Goals and Recommendations.—__ 
 
-        (1) __Statement of goals.—__ 
+        (1)  __Statement of goals__  __.—__ 
 
         The Commission shall develop a statement of goals concerning the future of Northeast Corridor rail infrastructure and operations based on achieving expanded and improved intercity, commuter, and freight rail services operating with greater safety and reliability, reduced travel times, increased frequencies and enhanced intermodal connections designed to address airport and highway congestion, reduce transportation energy consumption, improve air quality, and increase economic development of the Northeast Corridor region.
 
-        (2) __Recommendations.—__ 
+        (2)  __Recommendations__  __.—__ 
 
         The Commission shall develop recommendations based on the statement developed under this section addressing, as appropriate—
 
@@ -79,7 +79,7 @@
 
     (c) __Access Costs.—__ 
 
-        (1) __Development of formula.—__ 
+        (1)  __Development of formula__  __.—__ 
 
         Within 2 years after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Commission shall—
 
@@ -99,15 +99,15 @@
 
             (D) at the request of a Commission member, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through non-binding mediation to reach an agreement under this section.
 
-        (2) __Implementation.—__ 
+        (2)  __Implementation__  __.—__ 
 
         Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the formula proposed in paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with the timetable, the Commission shall petition the Surface Transportation Board to determine the appropriate compensation amounts for such services in accordance with [section 24904(c) of this title][/us/usc/t49/s24904/c]. The Surface Transportation Board shall enforce its determination on the party or parties involved.
 
-        (3) __Revisions.—__ 
+        (3)  __Revisions__  __.—__ 
 
         The Commission may make necessary revisions to the formula developed under paragraph (1), including revisions based on Amtrak’s financial accounting system developed pursuant to section 203 of the Passenger Rail Investment and Improvement Act of 2008.
 
-    (d) __Transmission of Statement of Goals and Recommendations.—__ 
+    (d)  __Transmission of Statement of Goals and Recommendations__  __.—__ 
 
     The Commission shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
@@ -115,13 +115,13 @@
 
         (2) the recommendations developed under subsection (b) and the formula and timetable developed under subsection (c)(1) annually.
 
-    (e) __Authorization of Appropriations.—__ 
+    (e)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Commission such sums as may be necessary for the period encompassing fiscal years 2009 through 2013 to carry out this section.
 
     (f) __Northeast Corridor Safety Committee.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall establish a Northeast Corridor Safety Committee composed of members appointed by the Secretary. The members shall be representatives of—
 
@@ -139,11 +139,11 @@
 
             (G) other individuals and organizations the Secretary decides have a significant interest in rail safety or security.
 
-        (2) __Function; meetings.—__ 
+        (2)  __Function; meetings__  __.—__ 
 
         The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line.
 
-        (3) __Report.—__ 
+        (3)  __Report__  __.—__ 
 
         At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
 

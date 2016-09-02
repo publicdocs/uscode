@@ -15,11 +15,11 @@
 
 ## § 41713. Preemption of authority over prices, routes, and service
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “State” means a State, the District of Columbia, and a territory or possession of the United States.
 
-    (b) __Preemption.—__ 
+    (b)  __Preemption__  __.—__ 
 
         (1) Except as provided in this subsection, a State, political subdivision of a State, or political authority of at least 2 States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier that may provide air transportation under this subpart.
 
@@ -29,11 +29,11 @@
 
         (4) __Transportation by air carrier or carrier affiliated with a direct air carrier.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             Except as provided in subparagraph (B), a State, political subdivision of a State, or political authority of 2 or more States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier or carrier affiliated with a direct air carrier through common controlling ownership when such carrier is transporting property by aircraft or by motor vehicle (whether or not such property has had or will have a prior or subsequent air movement).
 
-            (B) __Matters not covered.—__ 
+            (B)  __Matters not covered__  __.—__ 
 
             Subparagraph (A)—
 
@@ -41,7 +41,7 @@
 
                 (ii) does not apply to the transportation of household goods, as defined in [section 13102 of this title][/us/usc/t49/s13102].
 
-            (C) __Applicability of paragraph (1).—__ 
+            (C)  __Applicability of paragraph (1)__  __.—__ 
 
             This paragraph shall not limit the applicability of paragraph (1).
 

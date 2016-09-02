@@ -15,11 +15,11 @@
 
 ## § 24902. Goals and requirements
 
-    (a) __Managing Costs and Revenues.—__ 
+    (a)  __Managing Costs and Revenues__  __.—__ 
 
     Amtrak shall manage its operating costs, pricing policies, and other factors with the goal of having revenues derived each fiscal year from providing intercity rail passenger transportation over the Northeast Corridor route between the District of Columbia and Boston, Massachusetts, equal at least the operating costs of providing that transportation in that fiscal year.
 
-    (b) __Priorities in Selecting and Scheduling Projects.—__ 
+    (b)  __Priorities in Selecting and Scheduling Projects__  __.—__ 
 
     When selecting and scheduling specific projects, Amtrak shall apply the following considerations, in the following order of priority:
 
@@ -37,23 +37,23 @@
 
         (7) Planning should focus on completing activities that will provide immediate benefits to users of the Northeast Corridor.
 
-    (c) __Compatibility With Future Improvements and Production of Maximum Labor Benefits.—__ 
+    (c)  __Compatibility With Future Improvements and Production of Maximum Labor Benefits__  __.—__ 
 
     Improvements under this section shall be compatible with future improvements in transportation and shall produce the maximum labor benefit from hiring individuals presently unemployed.
 
-    (d) __Automatic Train Control Systems.—__ 
+    (d)  __Automatic Train Control Systems__  __.—__ 
 
     A train operating on the Northeast Corridor main line or between the main line and Atlantic City shall be equipped with an automatic train control system designed to slow or stop the train in response to an external signal.
 
-    (e) __High-Speed Transportation.—__ 
+    (e)  __High-Speed Transportation__  __.—__ 
 
     If practicable, Amtrak shall establish intercity rail passenger transportation in the Northeast Corridor that carries out section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976 ([Public Law 94–210][/us/pl/94/210], [90 Stat. 121][/us/stat/90/121]).
 
-    (f) __Equipment Development.—__ 
+    (f)  __Equipment Development__  __.—__ 
 
     Amtrak shall develop economical and reliable equipment compatible with track, operating, and marketing characteristics of the Northeast Corridor, including the capability to meet reliable trip times under section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976 ([Public Law 94–210][/us/pl/94/210], [90 Stat. 121][/us/stat/90/121]) in regularly scheduled revenue transportation in the Corridor, when the Northeast Corridor improvement program is completed. Amtrak must decide that equipment complies with this subsection before buying equipment with financial assistance of the Government. Amtrak shall submit a request for an authorization of appropriations for production of the equipment.
 
-    (g) __Agreements for Off-Corridor Routing of Rail Freight Transportation.—__ 
+    (g)  __Agreements for Off-Corridor Routing of Rail Freight Transportation__  __.—__ 
 
         (1) Amtrak may make an agreement with a rail freight carrier or a regional transportation authority under which the carrier will carry out an alternate off-corridor routing of rail freight transportation over rail lines in the Northeast Corridor between the District of Columbia and New York metropolitan areas, including intermediate points. The agreement shall be for at least 5 years.
 
@@ -61,7 +61,7 @@
 
         (3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Surface Transportation Board. Not later than 90 days after the application, the Board shall decide on the terms of an agreement if it decides that doing so is necessary to carry out this chapter. The decision of the Board is binding on the other parties.
 
-    (h) __Coordination.—__ 
+    (h)  __Coordination__  __.—__ 
 
         (1)
 
@@ -73,11 +73,11 @@
 
         (2) If the Secretary finds significant noncompliance with this section, the Secretary may deny financing to a noncomplying program until the noncompliance is corrected.
 
-    (i) __Completion.—__ 
+    (i)  __Completion__  __.—__ 
 
     Amtrak shall give the highest priority to completing the program.
 
-    (j) __Applicable Procedures.—__ 
+    (j)  __Applicable Procedures__  __.—__ 
 
     No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
@@ -587,37 +587,37 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 
 [Pub. L. 110–432, div. B, title II, § 211][/us/pl/110/432/s211], Oct. 16, 2008, [122 Stat. 4920][/us/stat/122/4920], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Within 6 months after the date of enactment of this Act \[Oct. 16, 2008\], Amtrak, in consultation with the Secretary \[of Transportation\] and the States (including the District of Columbia) that make up the Northeast Corridor (as defined in [section 24102 of title 49][/us/usc/t49/s24102], United States Code), shall prepare a capital spending plan for capital projects required to return the railroad right-of-way (including track, signals, and auxiliary structures), facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018, consistent with the funding levels authorized in this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\], and shall submit the plan to the Secretary.
 
 >     “(b) __Review and Approval by the Secretary.—__ 
 
->         “(1) __60-day approval process.—__ 
+>         “(1) __60-__  __day approval process__  __.—__ 
 
 >         The Secretary shall complete the review of the capital spending plan and approve or disapprove the plan within 60 days after the date on which Amtrak submits the plan. During review, the Secretary may seek comments from the Commission established under [section 24905 of title 49][/us/usc/t49/s24905], United States Code, and other Northeast Corridor users regarding the plan. If the Secretary disapproves the plan or determines that the plan is incomplete or deficient, the Secretary shall include the reason for disapproval or the incomplete items or deficiencies in a notice to Amtrak.
 
->         “(2) __15-day modification period.—__ 
+>         “(2) __15-__  __day modification period__  __.—__ 
 
 >         Within 15 days after receiving notification from the Secretary under paragraph (1), Amtrak shall submit a modified plan for the Secretary’s review.
 
->         “(3) __Revised requests.—__ 
+>         “(3)  __Revised requests__  __.—__ 
 
 >         Within 15 days after receiving a modified plan from Amtrak, the Secretary shall either approve the modified plan, or, if the Secretary finds that the plan is still incomplete or deficient, the Secretary shall identify in writing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the remaining deficiencies and recommend a process for resolving the outstanding portions of the plan.
 
->     “(c) __Plan Updates.—__ 
+>     “(c)  __Plan Updates__  __.—__ 
 
 >     The plan shall be updated at least annually and the Secretary shall review and approve such updates, in accordance with the procedures described in subsection (b).
 
->     “(d) __Grants.—__ 
+>     “(d)  __Grants__  __.—__ 
 
 >     The Secretary shall make grants to Amtrak with funds authorized by section 101(c) \[[122 Stat. 4908][/us/stat/122/4908]\] for Northeast Corridor capital investments contained within the capital spending plan prepared by Amtrak and approved by the Secretary.
 
->     “(e) __Oversight.—__ 
+>     “(e)  __Oversight__  __.—__ 
 
 >     Using the funds authorized by section 101(d) \[[122 Stat. 4908][/us/stat/122/4908]\], the Secretary shall review Amtrak’s capital expenditures funded by this section to ensure that such expenditures are consistent with the capital spending plan and that Amtrak is providing adequate project management oversight and fiscal controls.
 
->     “(f) __Eligibility of Expenditures.—__ 
+>     “(f)  __Eligibility of Expenditures__  __.—__ 
 
 >     The Federal share of expenditures for capital improvements under this section may not exceed 100 percent.”
 

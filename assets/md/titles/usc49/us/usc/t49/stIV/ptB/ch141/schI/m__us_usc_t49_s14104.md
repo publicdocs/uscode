@@ -17,17 +17,17 @@
 
     (a) __General Regulatory Authority.—__ 
 
-        (1) __Paperwork minimization.—__ 
+        (1)  __Paperwork minimization__  __.—__ 
 
         The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapter I of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall be minimized to the maximum extent feasible consistent with the protection of individual shippers.
 
         (2) __Performance standards.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Regulations of the Secretary protecting individual shippers shall include, where appropriate, reasonable performance standards for the transportation of household goods subject to jurisdiction under subchapter I of chapter 135.
 
-            (B) __Factors to consider.—__ 
+            (B)  __Factors to consider__  __.—__ 
 
             In establishing performance standards under this paragraph, the Secretary shall take into account at least the following—
 
@@ -43,7 +43,7 @@
 
                 (vi) the need to set the level of performance at a level designed to encourage carriers to offer service responsive to shipper needs.
 
-        (3) __Limitations on statutory construction.—__ 
+        (3)  __Limitations on statutory construction__  __.—__ 
 
         Nothing in this section shall be construed to limit the Secretary’s authority to require reports from motor carriers providing transportation of household goods or to require such carriers to provide specified information to consumers concerning their past performance.
 
@@ -51,37 +51,37 @@
 
         (1) __Required to be in writing.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as otherwise provided in this subsection, every motor carrier providing transportation of household goods described in section 13102(10)(A) as a household goods motor carrier and subject to jurisdiction under subchapter I of chapter 135 shall conduct a physical survey of the household goods to be transported on behalf of a prospective individual shipper and shall provide the shipper with a written estimate of charges for the transportation and all related services.
 
-            (B) __Waiver.—__ 
+            (B)  __Waiver__  __.—__ 
 
             A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection and preservation requirements of the Secretary as are applicable to bills of lading.
 
             (C) __Estimate.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Notwithstanding a waiver under subparagraph (B), a carrier’s statement of charges for transportation must be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier’s household goods agent preparing the estimate.
 
-                (ii) __Binding.—__ 
+                (ii)  __Binding__  __.—__ 
 
                 A binding estimate under this paragraph must indicate that the carrier and shipper are bound by such charges. The carrier may impose a charge for providing a written binding estimate.
 
-                (iii) __Nonbinding.—__ 
+                (iii)  __Nonbinding__  __.—__ 
 
                 A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper’s shipment and the carrier’s lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
 
-        (2) __Other information.—__ 
+        (2)  __Other information__  __.—__ 
 
         At the time that a motor carrier provides the written estimate required by paragraph (1), the motor carrier shall provide the shipper a copy of the Department of Transportation publication FMCSA–ESA–03–005 (or its successor publication) entitled “Ready to Move?”. Before the execution of a contract for service, the motor carrier shall provide the shipper copy of the Department of Transportation publication OCE 100, entitled “Your Rights and Responsibilities When You Move” required by section 375.213 of title 49, Code of Federal Regulations (or any successor regulation).
 
-        (3) __Applicability of antitrust laws.—__ 
+        (3)  __Applicability of antitrust laws__  __.—__ 
 
         Any charge for an estimate of charges provided by a motor carrier to a shipper for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 shall be subject to the antitrust laws, as defined in the first section of the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12]).
 
-    (c) __Flexibility in Weighing Shipments.—__ 
+    (c)  __Flexibility in Weighing Shipments__  __.—__ 
 
     The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both the tare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
 

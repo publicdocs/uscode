@@ -31,15 +31,15 @@
 
         (7) Federal Railroad Administration regulations establishing performance standards for processor-based signal and train control systems provide a suitable framework for qualification of new or novel technology at highway-rail grade crossings, and the Federal Highway Administration’s Manual on Uniform Traffic Control Devices provides an appropriate means of determining highway user interface with such new technology.
 
-    (b) __Policy.—__ 
+    (b)  __Policy__  __.—__ 
 
     It is the policy of the United States to encourage the development of new technology that can prevent loss of life and injuries at highway-rail grade crossings. The Secretary of Transportation is designated to carry out this policy in consultation with States and necessary public and private entities.
 
-    (c) __Submission of New Technology Proposals.—__ 
+    (c)  __Submission of New Technology Proposals__  __.—__ 
 
     Railroad carriers and railroad suppliers may submit for review and approval to the Secretary such new technology designed to improve safety at highway-rail grade crossings. The Secretary shall approve by order the new technology designed to improve safety at highway-rail grade crossings in accordance with Federal Railroad Administration standards for the development and use of processor-based signal and train control systems and shall consider the effects on safety of highway-user interface with the new technology.
 
-    (d) __Effect of Secretarial Approval.—__ 
+    (d)  __Effect of Secretarial Approval__  __.—__ 
 
     If the Secretary approves by order new technology to provide warning to highway users at a highway-rail grade crossing and such technology is installed at a highway-rail grade crossing in accordance with the conditions of the approval, this determination preempts any State statute or regulation concerning the adequacy of the technology in providing warning at the crossing.
 

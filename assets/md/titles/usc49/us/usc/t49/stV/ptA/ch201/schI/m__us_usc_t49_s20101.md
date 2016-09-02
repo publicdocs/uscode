@@ -97,7 +97,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
 [Pub. L. 110–432, div. A, title I, § 102][/us/pl/110/432/s102], Oct. 16, 2008, [122 Stat. 4852][/us/stat/122/4852], provided that:
 
->     “(a) __Safety Goals.—__ 
+>     “(a)  __Safety Goals__  __.—__ 
 
 >     In conjunction with existing federally-required and voluntary strategic planning efforts ongoing at the Department and the Federal Railroad Administration as of the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall develop a long-term strategy for improving railroad safety to cover a period of not less than 5 years. The strategy shall include an annual plan and schedule for achieving, at a minimum, the following goals:
 
@@ -113,21 +113,21 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
 >         “(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic failures and other bridge and tunnel failures.
 
->     “(b) __Resource Needs.—__ 
+>     “(b)  __Resource Needs__  __.—__ 
 
 >     The strategy and annual plan shall include estimates of the funds and staff resources needed to accomplish the goals established by subsection (a). Such estimates shall also include the staff skills and training required for timely and effective accomplishment of each such goal.
 
->     “(c) __Submission With the President’s Budget.—__ 
+>     “(c)  __Submission With the President’s Budget__  __.—__ 
 
 >     The Secretary shall submit the strategy and annual plan to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure at the same time as the President’s budget submission.
 
 >     “(d) __Achievement of Goals.—__ 
 
->         “(1) __Progress assessment.—__ 
+>         “(1)  __Progress assessment__  __.—__ 
 
 >         No less frequently than annually, the Secretary shall assess the progress of the Department toward achieving the strategic goals described in subsection (a). The Secretary shall identify any deficiencies in achieving the goals within the strategy and develop and institute measures to remediate such deficiencies. The Secretary and the Administrator shall convey their assessment to the employees of the Federal Railroad Administration and shall identify any deficiencies that should be remediated before the next progress assessment.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         Beginning in 2009, not later than November 1 of each year, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the performance of the Federal Railroad Administration containing the progress assessment required by paragraph (1) toward achieving the goals of the railroad safety strategy and annual plans under subsection (a).”
 

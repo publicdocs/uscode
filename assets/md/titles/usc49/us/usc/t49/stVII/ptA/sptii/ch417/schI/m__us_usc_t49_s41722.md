@@ -15,7 +15,7 @@
 
 ## § 41722. Delay reduction actions
 
-    (a) __Scheduling Reduction Meetings.—__ 
+    (a)  __Scheduling Reduction Meetings__  __.—__ 
 
     The Secretary of Transportation may request that air carriers meet with the Administrator of the Federal Aviation Administration to discuss flight reductions at severely congested airports to reduce overscheduling and flight delays during hours of peak operation if—
 
@@ -23,7 +23,7 @@
 
         (2) the Secretary determines that the meeting is necessary to meet a serious transportation need or achieve an important public benefit.
 
-    (b) __Meeting Conditions.—__ 
+    (b)  __Meeting Conditions__  __.—__ 
 
     Any meeting under subsection (a)—
 
@@ -33,15 +33,15 @@
 
         (3) shall be limited to discussions involving the airports and time periods described in the Administrator’s determination.
 
-    (c) __Flight Reduction Targets.—__ 
+    (c)  __Flight Reduction Targets__  __.—__ 
 
     Before any such meeting is held, the Administrator shall establish flight reduction targets for the meeting and notify the attending air carriers of those targets not less than 48 hours before the meeting.
 
-    (d) __Delay Reduction Offers.—__ 
+    (d)  __Delay Reduction Offers__  __.—__ 
 
     An air carrier attending the meeting shall make any offer to meet a flight reduction target to the Administrator rather than to another carrier.
 
-    (e) __Transcript.—__ 
+    (e)  __Transcript__  __.—__ 
 
     The Administrator shall ensure that a transcript of the meeting is kept and made available to the public not later than 3 business days after the conclusion of the meeting.
 
@@ -55,7 +55,7 @@
 
 [Pub. L. 112–95, title IV, § 413][/us/pl/112/95/s413], Feb. 14, 2012, [126 Stat. 89][/us/stat/126/89], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If the Administrator of the Federal Aviation Administration determines that—
 
@@ -65,11 +65,11 @@
 
 >         the Administrator shall convene a meeting of such carriers to reduce pursuant to [section 41722 of title 49][/us/usc/t49/s41722], United States Code, on a voluntary basis, the number of such operations so as not to exceed the maximum departure and arrival rate.
 
->     “(b) __No Agreement.—__ 
+>     “(b)  __No Agreement__  __.—__ 
 
 >     If the air carriers participating in a meeting with respect to an airport under subsection (a) are not able to agree to a reduction in the number of flights to and from the airport so as not to exceed the maximum departure and arrival rate, the Administrator shall take such action as is necessary to ensure such reduction is implemented.
 
->     “(c) __Subsequent Schedule Increases.—__ 
+>     “(c)  __Subsequent Schedule Increases__  __.—__ 
 
 >     Subsequent to any reduction in operations under subsection (a) or (b) at an airport, if the Administrator determines that the hourly number of aircraft operations at that airport is less than the amount that can be handled safely and efficiently, the Administrator shall ensure that priority is given to United States air carriers in permitting additional aircraft operations with respect to that hour.”
 

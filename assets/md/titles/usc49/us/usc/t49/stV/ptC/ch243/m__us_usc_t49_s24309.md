@@ -15,7 +15,7 @@
 
 ## § 24309. Retaining and maintaining facilities
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,11 +23,11 @@
 
         (2) downgrading a facility means reducing a track classification as specified in the Federal Railroad Administration track safety standards or altering a facility so that the time required for rail passenger transportation to be provided over the route on which a facility is located may be increased.
 
-    (b) __Approval Required for Downgrading or Disposal.—__ 
+    (b)  __Approval Required for Downgrading or Disposal__  __.—__ 
 
     A facility of a rail carrier or regional transportation authority that Amtrak used to provide rail passenger transportation on February 1, 1979, or on January 1, 1997, may be downgraded or disposed of only after approval by the Secretary of Transportation under this section.
 
-    (c) __Notification and Analysis.—__ 
+    (c)  __Notification and Analysis__  __.—__ 
 
         (1) A rail carrier intending to downgrade or dispose of a facility Amtrak currently is not using to provide transportation shall notify Amtrak of its intention. If, not later than 60 days after Amtrak receives the notice, Amtrak and the carrier do not agree to retain or maintain the facility or to convey an interest in the facility to Amtrak, the carrier may apply to the Secretary for approval to downgrade or dispose of the facility.
 
@@ -47,7 +47,7 @@
 
             (F) the feasibility of applying effective internal cost controls to the facility and route served by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
 
-    (d) __Approval of Application and Payment of Avoidable Costs.—__ 
+    (d)  __Approval of Application and Payment of Avoidable Costs__  __.—__ 
 
         (1) If Amtrak does not object to an application not later than 30 days after it is submitted, the Secretary shall approve the application promptly.
 
@@ -67,7 +67,7 @@
 
             (F) the possibility of increased ridership on a rail line that connects with the route.
 
-    (e) __Compliance With Other Obligations.—__ 
+    (e)  __Compliance With Other Obligations__  __.—__ 
 
     Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
 

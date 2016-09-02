@@ -15,7 +15,7 @@
 
 ## § 32704. Service, repair, and replacement
 
-    (a) __Adjusting Mileage.—__ 
+    (a)  __Adjusting Mileage__  __.—__ 
 
     A person may service, repair, or replace an odometer of a motor vehicle if the mileage registered by the odometer remains the same as before the service, repair, or replacement. If the mileage cannot remain the same—
 
@@ -23,7 +23,7 @@
 
         (2) the owner of the vehicle or agent of the owner shall attach a written notice to the left door frame of the vehicle specifying the mileage before the service, repair, or replacement and the date of the service, repair, or replacement.
 
-    (b) __Removing or Altering Notice.—__ 
+    (b)  __Removing or Altering Notice__  __.—__ 
 
     A person may not, with intent to defraud, remove or alter a notice attached to a motor vehicle as required by this section.
 

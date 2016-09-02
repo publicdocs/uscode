@@ -17,7 +17,7 @@
 
     (a) __Losses.—__ 
 
-        (1) __Actions against united states.—__ 
+        (1)  __Actions against united states__  __.—__ 
 
         A person may bring a civil action in a district court of the United States or in the United States Court of Federal Claims against the United States Government when—
 
@@ -29,25 +29,25 @@
 
                 (ii) the person has paid to the insured party, with the approval of the Secretary of Transportation, an amount for a physical damage loss that the Secretary has determined is a loss covered by insurance issued under this chapter (other than section 44305(b)).
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter.
 
-        (3) __Procedure.—__ 
+        (3)  __Procedure__  __.—__ 
 
         To the extent applicable, the procedure in an action brought under [section 1346(a)(2) of title 28][/us/usc/t28/s1346/a/2], United States Code, applies to an action under this subsection.
 
-    (b) __Venue and Joinder.—__ 
+    (b)  __Venue and Joinder__  __.—__ 
 
         (1) A civil action under subsection (a) of this section may be brought in the judicial district for the District of Columbia or in the judicial district in which the plaintiff or the agent of the plaintiff resides if the plaintiff resides in the United States. If the plaintiff does not reside in the United States, the action may be brought in the judicial district for the District of Columbia or in the judicial district in which the Attorney General agrees to accept service.
 
         (2) An interested person may be joined as a party to a civil action brought under subsection (a) of this section initially or on motion of either party to the action.
 
-    (c) __Time Requirements.—__ 
+    (c)  __Time Requirements__  __.—__ 
 
     When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28][/us/usc/t28/s2401], a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 
-    (d) __Interpleader.—__ 
+    (d)  __Interpleader__  __.—__ 
 
         (1) If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia or in the judicial district in which any party resides.
 

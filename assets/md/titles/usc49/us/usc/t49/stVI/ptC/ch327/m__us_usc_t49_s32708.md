@@ -15,7 +15,7 @@
 
 ## § 32708. Confidentiality of information
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Information obtained by the Secretary of Transportation under this chapter related to a confidential matter referred to in [section 1905 of title 18][/us/usc/t18/s1905] may be disclosed only—
 
@@ -23,7 +23,7 @@
 
         (2) in a proceeding under this chapter.
 
-    (b) __Withholding Information From Congress.—__ 
+    (b)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 

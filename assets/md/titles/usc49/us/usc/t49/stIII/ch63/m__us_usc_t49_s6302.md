@@ -15,23 +15,23 @@
 
 ## § 6302. Bureau of Transportation Statistics
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Research and Innovative Technology Administration the Bureau of Transportation Statistics.
 
     (b) __Director.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The Bureau shall be headed by a Director, who shall be appointed in the competitive service by the Secretary.
 
-        (2) __Qualifications.—__ 
+        (2)  __Qualifications__  __.—__ 
 
         The Director shall be appointed from among individuals who are qualified to serve as the Director by virtue of their training and experience in the collection, analysis, and use of transportation statistics.
 
         (3) __Duties.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Director shall—
 
@@ -39,7 +39,7 @@
 
                 (ii) be responsible for carrying out the duties described in subparagraph (B).
 
-            (B) __Duties.—__ 
+            (B)  __Duties__  __.—__ 
 
             The Director shall—
 
@@ -131,7 +131,7 @@
 
                 (x) ensure that the statistics published under this section are readily accessible to the public, consistent with applicable security constraints and confidentiality interests.
 
-    (c) __Access to Federal Data.—__ 
+    (c)  __Access to Federal Data__  __.—__ 
 
     In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
 

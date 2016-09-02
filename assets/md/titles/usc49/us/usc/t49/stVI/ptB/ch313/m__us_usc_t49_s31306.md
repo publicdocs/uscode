@@ -15,11 +15,11 @@
 
 ## § 31306. Alcohol and controlled substances testing
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section and section 31306a, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802][/us/usc/t21/s802]) specified by the Secretary of Transportation.
 
-    (b) __Testing Program for Operators of Commercial Motor Vehicles.—__ 
+    (b)  __Testing Program for Operators of Commercial Motor Vehicles__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
             (B) may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle.
 
-    (c) __Testing and Laboratory Requirements.—__ 
+    (c)  __Testing and Laboratory Requirements__  __.—__ 
 
     In carrying out subsection (b) of this section, the Secretary of Transportation shall develop requirements that shall—
 
@@ -63,23 +63,23 @@
 
         (8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
-    (d) __Testing as Part of Medical Examination.—__ 
+    (d)  __Testing as Part of Medical Examination__  __.—__ 
 
     The Secretary of Transportation may provide that testing under subsection (a) of this section for operators subject to subpart E of part 391 of title 49, Code of Federal Regulations, be conducted as part of the medical examination required under that subpart.
 
-    (e) __Rehabilitation.—__ 
+    (e)  __Rehabilitation__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of operators of commercial motor vehicles who are found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which those operators shall be required to participate in a program. This section does not prevent a motor carrier from establishing a program under this section in cooperation with another motor carrier.
 
-    (f) __Sanctions.—__ 
+    (f)  __Sanctions__  __.—__ 
 
     The Secretary of Transportation shall decide on appropriate sanctions for a commercial motor vehicle operator who is found, based on tests conducted and confirmed under this section, to have used alcohol or a controlled substance in violation of law or a Government regulation but who is not under the influence of alcohol or a controlled substance as provided in this chapter.
 
-    (g) __Effect on State and Local Government Regulations.—__ 
+    (g)  __Effect on State and Local Government Regulations__  __.—__ 
 
     A State or local government may not prescribe or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section may not be construed to preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
-    (h) __International Obligations and Foreign Laws.—__ 
+    (h)  __International Obligations and Foreign Laws__  __.—__ 
 
     In prescribing regulations under this section, the Secretary of Transportation—
 
@@ -87,11 +87,11 @@
 
         (2) shall consider applicable laws and regulations of foreign countries.
 
-    (i) __Other Regulations Allowed.—__ 
+    (i)  __Other Regulations Allowed__  __.—__ 
 
     This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by commercial motor vehicle employees.
 
-    (j) __Application of Penalties.—__ 
+    (j)  __Application of Penalties__  __.—__ 
 
     This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
 
@@ -313,7 +313,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
 [Pub. L. 106–159, title II, § 226][/us/pl/106/159/s226], Dec. 9, 1999, [113 Stat. 1771][/us/stat/113/1771], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall conduct a study of the feasibility and merits of—
 
@@ -321,7 +321,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
 >         “(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver’s commercial driver’s license on whether the State has on record any verified positive controlled substances test on such driver.
 
->     “(b) __Study Factors.—__ 
+>     “(b)  __Study Factors__  __.—__ 
 
 >     In carrying out the study under this section, the Secretary shall assess—
 
@@ -337,7 +337,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
 >             “(B) to expunge information from their records after a reasonable period of time.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall submit to Congress a report on the study carried out under this section, together with such recommendations as the Secretary determines appropriate.”
 
@@ -345,11 +345,11 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Oct. 28
 
 [Pub. L. 105–178, title IV, § 4020][/us/pl/105/178/s4020], June 9, 1998, [112 Stat. 414][/us/stat/112/414], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall conduct a study of the feasibility of utilizing law enforcement officers for conducting post-accident alcohol testing of commercial motor vehicle operators under [section 31306 of title 49][/us/usc/t49/s31306], United States Code, as a method of obtaining more timely information. The study shall also assess the impact of the current post-accident alcohol testing requirements on motor carrier employers, including any burden that employers may encounter in meeting the testing requirements of such section 31306.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate.”
 

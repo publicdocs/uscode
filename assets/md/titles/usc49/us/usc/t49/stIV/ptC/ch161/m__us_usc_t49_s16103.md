@@ -15,11 +15,11 @@
 
 ## § 16103. Unlawful disclosure of information
 
-    (a) __General Prohibition.—__ 
+    (a)  __General Prohibition__  __.—__ 
 
     A pipeline carrier providing transportation subject to this part, or an officer, agent, or employee of that carrier, or another person authorized to receive information from that carrier, that knowingly discloses to another person, except the shipper or consignee, or a person who solicits or knowingly receives information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier for transportation provided under this part without the consent of the shipper or consignee, if that information may be used to the detriment of the shipper or consignee or may disclose improperly, to a competitor the business transactions of the shipper or consignee, is liable to the United States for a civil penalty of not more than $1,000.
 
-    (b) __Limitation on Statutory Construction.—__ 
+    (b)  __Limitation on Statutory Construction__  __.—__ 
 
     This part does not prevent a pipeline carrier providing transportation under this part from giving information—
 
@@ -29,7 +29,7 @@
 
         (3) to another carrier or its agent to adjust mutual traffic accounts in the ordinary course of business.
 
-    (c) __Board Employee.—__ 
+    (c)  __Board Employee__  __.—__ 
 
     An employee of the Board delegated to make an inspection or examination under section 15722 who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall be fined under title 18 or imprisoned for not more than 6 months, or both.
 

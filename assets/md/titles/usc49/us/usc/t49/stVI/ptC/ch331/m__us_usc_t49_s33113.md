@@ -15,7 +15,7 @@
 
 ## § 33113. Theft reports
 
-    (a) __Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—__ 
+    (a)  __Truck, Multipurpose Passenger Vehicle, and Motorcycle Report__  __.—__ 
 
     Not later than October 25, 1995, the Secretary of Transportation shall submit a report to Congress that includes—
 
@@ -43,7 +43,7 @@
 
         (6) recommendations on whether, and to what extent, the identification of trucks, multipurpose passenger vehicles, and motorcycles should be required by law.
 
-    (b) __Motor Vehicle Report.—__ 
+    (b)  __Motor Vehicle Report__  __.—__ 
 
     Not later than October 25, 1997, the Secretary shall submit a report to Congress that includes—
 
@@ -113,7 +113,7 @@
 
             (D) ending the standards for all future motor vehicles.
 
-    (c) __Bases of Reports.—__ 
+    (c)  __Bases of Reports__  __.—__ 
 
         (1)
 

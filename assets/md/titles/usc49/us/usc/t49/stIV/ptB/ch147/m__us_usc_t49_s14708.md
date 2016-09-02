@@ -15,49 +15,49 @@
 
 ## § 14708. Dispute settlement program for household goods carriers
 
-    (a) __Offering Shippers Arbitration.—__ 
+    (a)  __Offering Shippers Arbitration__  __.—__ 
 
     As a condition of registration under section 13902 or 13903, a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 must agree to offer in accordance with this section to shippers of household goods arbitration as a means of settling disputes between such carriers and shippers of household goods concerning damage or loss to the household goods transported and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods.
 
     (b) __Arbitration Requirements.—__ 
 
-        (1) __Prevention of special advantage.—__ 
+        (1)  __Prevention of special advantage__  __.—__ 
 
         The arbitration that is offered must be designed to prevent a carrier from having any special advantage in any case in which the claimant resides or does business at a place distant from the carrier’s principal or other place of business.
 
-        (2) __Notice of arbitration procedure.—__ 
+        (2)  __Notice of arbitration procedure__  __.—__ 
 
         The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons for whom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
 
-        (3) __Provision of forms.—__ 
+        (3)  __Provision of forms__  __.—__ 
 
         Upon request of a shipper, the carrier must promptly provide such forms and other information as are necessary for initiating an action to resolve a dispute under arbitration.
 
-        (4) __Independence of arbitrator.—__ 
+        (4)  __Independence of arbitrator__  __.—__ 
 
         Each person authorized to arbitrate or otherwise settle disputes must be independent of the parties to the dispute and must be capable, as determined under such regulations as the Secretary may issue, to resolve such disputes fairly and expeditiously. The carrier must ensure that each person chosen to settle the disputes is authorized and able to obtain from the shipper or carrier any material and relevant information to the extent necessary to carry out a fair and expeditious decisionmaking process.
 
-        (5) __Apportionment of costs.—__ 
+        (5)  __Apportionment of costs__  __.—__ 
 
         No shipper may be charged more than half of the cost for instituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
 
-        (6) __Requests.—__ 
+        (6)  __Requests__  __.—__ 
 
         The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
 
-        (7) __Oral presentation of evidence.—__ 
+        (7)  __Oral presentation of evidence__  __.—__ 
 
         The arbitrator may provide for an oral presentation of a dispute concerning transportation of household goods by a party to the dispute (or a party’s representative), but such oral presentation may be made only if all parties to the dispute expressly agree to such presentation and the date, time, and location of such presentation.
 
-        (8) __Deadline for decision.—__ 
+        (8)  __Deadline for decision__  __.—__ 
 
         The arbitrator must, as expeditiously as possible but at least within 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
 
-    (c) __Limitation on Use of Materials.—__ 
+    (c)  __Limitation on Use of Materials__  __.—__ 
 
     Materials and information obtained in the course of a decision making process to settle a dispute by arbitration under this section may not be used to bring an action under section 14905.
 
-    (d) __Attorney’s Fees to Shippers.—__ 
+    (d)  __Attorney’s Fees to Shippers__  __.—__ 
 
     In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, the shipper shall be awarded reasonable attorney’s fees if—
 
@@ -73,7 +73,7 @@
 
             (C) the court proceeding is to enforce a decision rendered through arbitration under this section and is instituted after the period for performance under such decision has elapsed.
 
-    (e) __Attorney’s Fees to Carriers.—__ 
+    (e)  __Attorney’s Fees to Carriers__  __.—__ 
 
     In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney’s fees by the court only if the shipper brought such action in bad faith—
 
@@ -87,11 +87,11 @@
 
             (B) a decision resolving such dispute is rendered.
 
-    (f) __Limitation of Applicability to Collect-on-Delivery Transportation.—__ 
+    (f)  __Limitation of Applicability to Collect-on-Delivery Transportation__  __.—__ 
 
     The provisions of this section shall apply only in the case of collect-on-delivery transportation of household goods.
 
-    (g) __Review by Secretary.—__ 
+    (g)  __Review by Secretary__  __.—__ 
 
     Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 

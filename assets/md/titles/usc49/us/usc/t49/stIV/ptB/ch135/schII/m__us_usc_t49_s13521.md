@@ -15,7 +15,7 @@
 
 ## § 13521. General jurisdiction
 
-    (a) __General Rules.—__ 
+    (a)  __General Rules__  __.—__ 
 
     The Secretary and the Board have jurisdiction over transportation insofar as water carriers are concerned—
 
@@ -39,7 +39,7 @@
 
             (C) when the transportation is by water carrier from a place outside the United States, the transportation is provided by water carrier from a place in the United States to another place in the United States after transshipment to a place in the United States from a place outside the United States.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the terms “State” and “United States” include the territories and possessions of the United States.
 

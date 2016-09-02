@@ -15,19 +15,19 @@
 
 ## § 44732. Prohibition on personal use of electronic devices on flight deck
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     It is unlawful for a flight crewmember of an aircraft used to provide air transportation under part 121 of title 14, Code of Federal Regulations, to use a personal wireless communications device or laptop computer while at the flight crewmember’s duty station on the flight deck of such an aircraft while the aircraft is being operated.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) shall not apply to the use of a personal wireless communications device or laptop computer for a purpose directly related to operation of the aircraft, or for emergency, safety-related, or employment-related communications, in accordance with procedures established by the air carrier and the Administrator of the Federal Aviation Administration.
 
-    (c) __Enforcement.—__ 
+    (c)  __Enforcement__  __.—__ 
 
     In addition to the penalties provided under section 46301 applicable to any violation of this section, the Administrator of the Federal Aviation Administration may enforce compliance with this section under section 44709 by amending, modifying, suspending, or revoking a certificate under this chapter.
 
-    (d) __Personal Wireless Communications Device Defined.—__ 
+    (d)  __Personal Wireless Communications Device Defined__  __.—__ 
 
     In this section, the term “personal wireless communications device” means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 ([47 U.S.C. 332(c)(7)(C)(i)][/us/usc/t47/s332/c/7/C/i])) are transmitted.
 

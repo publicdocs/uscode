@@ -15,11 +15,11 @@
 
 ## § 31134. Requirement for registration and USDOT number
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Upon application, and subject to subsections (b) and (c), the Secretary shall register an employer or person subject to the safety jurisdiction of this subchapter. An employer or person may operate a commercial motor vehicle in interstate commerce only if the employer or person is registered by the Secretary under this section and receives a USDOT number. Nothing in this section shall preclude registration by the Secretary of an employer or person not engaged in interstate commerce. An employer or person subject to jurisdiction under subchapter I of chapter 135 of this title shall apply for commercial registration under [section 13902 of this title][/us/usc/t49/s13902].
 
-    (b) __Withholding Registration.—__ 
+    (b)  __Withholding Registration__  __.—__ 
 
     The Secretary shall register an employer or person under subsection (a) only if the Secretary determines that—
 
@@ -31,7 +31,7 @@
 
         (3) the employer or person has disclosed to the Secretary any relationship involving common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter.
 
-    (c) __Revocation or Suspension of Registration.—__ 
+    (c)  __Revocation or Suspension of Registration__  __.—__ 
 
     The Secretary shall revoke the registration of an employer or person issued under subsection (a) after notice and an opportunity for a proceeding, or suspend the registration after giving notice of the suspension to the employer or person, if the Secretary determines that—
 
@@ -43,11 +43,11 @@
 
         (4) the employer or person refused to submit to the safety review required by [section 31144(g) of this title][/us/usc/t49/s31144/g].
 
-    (d) __Periodic Registration Update.—__ 
+    (d)  __Periodic Registration Update__  __.—__ 
 
     The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-    (e) __State Authority.—__ 
+    (e)  __State Authority__  __.—__ 
 
     Nothing in this section shall be construed as affecting the authority of a State to issue a Department of Transportation number under State law to a person operating in intrastate commerce.
 

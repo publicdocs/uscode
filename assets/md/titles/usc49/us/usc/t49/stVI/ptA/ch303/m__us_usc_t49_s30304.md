@@ -15,7 +15,7 @@
 
 ## § 30304. Reports by chief driver licensing officials
 
-    (a) __Individuals Covered.—__ 
+    (a)  __Individuals Covered__  __.—__ 
 
     As soon as practicable, the chief driver licensing official of each participating State shall submit to the Secretary of Transportation a report containing the information specified by subsection (b) of this section for each individual—
 
@@ -35,7 +35,7 @@
 
             (D) perjury or knowingly making a false affidavit or statement to officials about activities governed by a law or regulation on the operation of a motor vehicle.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (2) A report under subsection (a) of this section about an event that occurs during the 2-year period before the State becomes a participating State is sufficient if the report contains all of the information that is available to the chief driver licensing official when the State becomes a participating State.
 
-    (c) __Time for Filing.—__ 
+    (c)  __Time for Filing__  __.—__ 
 
     If a report under subsection (a) of this section is about an event that occurs—
 
@@ -57,11 +57,11 @@
 
         (2) after the State becomes a participating State, the report shall be submitted not later than 31 days after the motor vehicle department of the State receives any information specified in subsection (b)(1) of this section that is the subject of the report.
 
-    (d) __Events Occurring Before Participation.—__ 
+    (d)  __Events Occurring Before Participation__  __.—__ 
 
     This section does not require a State to report information about an event that occurs before the 2-year period before the State becomes a participating State.
 
-    (e) __Driver Record Inquiry.—__ 
+    (e)  __Driver Record Inquiry__  __.—__ 
 
     Before issuing a motor vehicle operator’s license to an individual or renewing such a license, a State shall request from the Secretary information from the National Driver Register under section 30302 and the commercial driver’s license information system under section 31309 on the individual’s driving record.
 

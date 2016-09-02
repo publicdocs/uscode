@@ -15,7 +15,7 @@
 
 ## § 40115. Withholding information
 
-    (a) __Objections to Disclosure.—__ 
+    (a)  __Objections to Disclosure__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) have an adverse effect on the competitive position of an air carrier in foreign air transportation.
 
-    (b) __Withholding Information From Congress.—__ 
+    (b)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
 

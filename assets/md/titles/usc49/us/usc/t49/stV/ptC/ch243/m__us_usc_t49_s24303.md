@@ -15,15 +15,15 @@
 
 ## § 24303. Officers
 
-    (a) __Appointment and Terms.—__ 
+    (a)  __Appointment and Terms__  __.—__ 
 
     Amtrak has a President and other officers that are named and appointed by the board of directors of Amtrak. An officer of Amtrak must be a citizen of the United States. Officers of Amtrak serve at the pleasure of the board.
 
-    (b) __Pay.—__ 
+    (b)  __Pay__  __.—__ 
 
     The board may fix the pay of the officers of Amtrak. An officer may not be paid more than the general level of pay for officers of rail carriers with comparable responsibility. The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.
 
-    (c) __Conflicts of Interest.—__ 
+    (c)  __Conflicts of Interest__  __.—__ 
 
     When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation of this subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.
 

@@ -357,11 +357,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\], in coordination with the Secretary of Defense, and in consultation with the States and other relevant stakeholders, shall commence a study to assess Federal and State regulatory, economic, and administrative challenges faced by members and former members of the Armed Forces, who received safety training and operated qualifying motor vehicles during their service, in obtaining commercial driver’s licenses (as defined in [section 31301(3) of title 49][/us/usc/t49/s31301/3], United States Code).
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         The study under this subsection shall—
 
@@ -379,11 +379,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the commencement of the study under subsection (a), the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Financial Services of the House of Representatives that contains the findings and recommendations from the study.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include—
 
@@ -393,11 +393,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >             “(C) a plan to implement the recommendations for which the Secretary has authority.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Defense and in cooperation with the States, shall implement the recommendations identified in subsection (b) and establish accelerated licensing procedures to assist veterans to acquire commercial driver’s licenses.
 
->     “(d) __Accelerated Licensing Procedures.—__ 
+>     “(d)  __Accelerated Licensing Procedures__  __.—__ 
 
 >     The procedures established under subsection (a) shall be designed to be applicable to any veteran who—
 
@@ -405,19 +405,19 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >         “(2) obtained, during military service, documented driving experience that, in the determination of the Secretary, makes the use of accelerated licensing procedures appropriate.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Commercial driver’s license.—__ 
+>         “(1)  __Commercial driver’s license__  __.—__ 
 
 >         The term ‘commercial driver’s license’ has the meaning given that term in [section 31301 of title 49][/us/usc/t49/s31301], United States Code.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given that term in [section 31301 of title 49][/us/usc/t49/s31301], United States Code.
 
->         “(3) __Veteran.—__ 
+>         “(3)  __Veteran__  __.—__ 
 
 >         The term ‘veteran’ has the meaning given that term in [section 101 of title 38][/us/usc/t38/s101], United States Code.”
 
@@ -429,15 +429,15 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 [Pub. L. 109–59, title IV, § 4134][/us/pl/109/59/s4134], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], as amended by [Pub. L. 111–147, title IV, § 422(h)][/us/pl/111/147/s422/h], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(h)][/us/pl/111/322/s2202/h], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(h)][/us/pl/112/5/s202/h], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(g)][/us/pl/112/30/s122/g], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(g)][/us/pl/112/102/s202/g], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(g)][/us/pl/112/140/s202/g], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(g)][/us/pl/112/141/s32603/g], July 6, 2012, [126 Stat. 808][/us/stat/126/808], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall establish a grant program for persons to train operators of commercial motor vehicles (as defined in [section 31301 of title 49][/us/usc/t49/s31301], United States Code). The purpose of the program shall be to train operators and future operators in the safe use of such vehicles.
 
->     “(b) __Federal Share.—__ 
+>     “(b)  __Federal Share__  __.—__ 
 
 >     The Federal share of the cost for which a grant is made under this section shall be 80 percent.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2014 to carry out this section.”
 
@@ -445,7 +445,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 [Pub. L. 109–59, title IV, § 4135][/us/pl/109/59/s4135], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall convene a task force to study and address current impediments and foreseeable challenges to the commercial driver’s license program’s effectiveness and measures needed to realize the full safety potential of the commercial driver’s license program, including such issues as—
 
@@ -463,15 +463,15 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >         “(7) timely notification from judicial bodies concerning traffic and criminal convictions of commercial driver’s license holders.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     Members of the task force should include State motor vehicle administrators, organizations representing government agencies or officials, members of the Judicial Conference, representatives of the trucking industry, representatives of labor organizations, safety advocates, and other significant stakeholders.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, on behalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     From the funds amounts made available by section 4101(c)(1) \[[119 Stat. 1715][/us/stat/119/1715]\], $200,000 shall be available for each of fiscal years 2006 and 2007 to carry out this section.”
 

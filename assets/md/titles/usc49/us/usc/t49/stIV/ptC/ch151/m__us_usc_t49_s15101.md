@@ -15,7 +15,7 @@
 
 ## § 15101. Transportation policy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the national defense, it is the policy of the United States Government to oversee the modes of transportation and in overseeing those modes—
 
@@ -31,7 +31,7 @@
 
         (6) to encourage fair wages and working conditions in the transportation industry.
 
-    (b) __Administration To Carry Out Policy.—__ 
+    (b)  __Administration To Carry Out Policy__  __.—__ 
 
     This part shall be administered and enforced to carry out the policy of this section.
 

@@ -15,7 +15,7 @@
 
 ## § 31312. Decertification authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If the Secretary of Transportation determines that a State is in substantial noncompliance with this chapter, the Secretary shall issue an order to—
 
@@ -23,11 +23,11 @@
 
         (2) prohibit that State from issuing any commercial driver’s licenses until such time the Secretary determines such State is in substantial compliance with this chapter.
 
-    (b) __Effect on Other States.—__ 
+    (b)  __Effect on Other States__  __.—__ 
 
     A State (other than a State subject to an order under subsection (a)) may issue a non-resident commercial driver’s license to an individual domiciled in a State that is prohibited from such activities under subsection (a) if that individual meets all requirements of this chapter and the nonresident licensing requirements of the issuing State.
 
-    (c) __Previously Issued Licenses.—__ 
+    (c)  __Previously Issued Licenses__  __.—__ 
 
     Nothing in this section shall be construed as invalidating or otherwise affecting commercial driver’s licenses issued by a State before the date of issuance of an order under subsection (a) with respect to the State.
 

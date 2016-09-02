@@ -15,11 +15,11 @@
 
 ## § 40112. Multiyear procurement contracts for property
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Notwithstanding [section 1341(a)(1)(B) of title 31][/us/usc/t31/s1341/a/1/B] and to the extent that amounts otherwise are available for obligation, the Administrator of the Federal Aviation Administration may make a contract of more than one but not more than 5 fiscal years to purchase property, except a contract to construct, alter, or make a major repair or improvement to real property.
 
-    (b) __Required Findings.—__ 
+    (b)  __Required Findings__  __.—__ 
 
     The Administrator may make a contract under this section if the Administrator finds that—
 
@@ -33,7 +33,7 @@
 
         (5) the estimates of the contract costs and the anticipated savings from the contract are realistic.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
 
@@ -53,7 +53,7 @@
 
             (B) ending a prime contract when performance is deficient with respect to cost, quality, or schedule.
 
-    (d) __Contract Provisions.—__ 
+    (d)  __Contract Provisions__  __.—__ 
 
         (1)
 
@@ -67,13 +67,13 @@
 
         (2) If feasible and practicable, an advance procurement contract may be made to achieve economic-lot purchases and more efficient production rates.
 
-    (e) __Cancellation Payment and Notice of Cancellation Ceiling.—__ 
+    (e)  __Cancellation Payment and Notice of Cancellation Ceiling__  __.—__ 
 
         (1) If a contract under this section provides that performance is subject to an appropriation being made, it also may provide for a cancellation payment to be made to the contractor if the appropriation is not made.
 
         (2) Before awarding a contract under this section containing a cancellation ceiling of more than $100,000,000, the Administrator shall give written notice of the proposed contract and cancellation ceiling to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The contract may not be awarded until the end of the 30-day period beginning on the date of the notice.
 
-    (f) __Ending Contracts.—__ 
+    (f)  __Ending Contracts__  __.—__ 
 
     A contract made under this section shall be ended if amounts are not made available to continue the contract into a subsequent fiscal year. The cost of ending the contract may be paid from—
 

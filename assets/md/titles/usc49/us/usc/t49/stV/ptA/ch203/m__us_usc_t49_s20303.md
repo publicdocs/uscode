@@ -15,7 +15,7 @@
 
 ## § 20303. Moving defective and insecure vehicles needing repairs
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     A vehicle that is equipped in compliance with this chapter whose equipment becomes defective or insecure nevertheless may be moved when necessary to make repairs, without a penalty being imposed under [section 21302 of this title][/us/usc/t49/s21302], from the place at which the defect or insecurity was first discovered to the nearest available place at which the repairs can be made—
 
@@ -23,11 +23,11 @@
 
         (2) at the option of a connecting railroad carrier, on the railroad line of the connecting carrier, if not farther than the place of repair described in clause (1) of this subsection.
 
-    (b) __Use of Chains Instead of Drawbars.—__ 
+    (b)  __Use of Chains Instead of Drawbars__  __.—__ 
 
     A vehicle in a revenue train or in association with commercially-used vehicles may be moved under this section with chains instead of drawbars only when the vehicle contains livestock or perishable freight.
 
-    (c) __Liability.—__ 
+    (c)  __Liability__  __.—__ 
 
     The movement of a vehicle under this section is at the risk only of the railroad carrier doing the moving. This section does not relieve a carrier from liability in a proceeding to recover damages for death or injury of a railroad employee arising from the movement of a vehicle with equipment that is defective, insecure, or not maintained in compliance with this chapter.
 

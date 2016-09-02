@@ -17,7 +17,7 @@
 
     (a)
 
-        (1) __Disclosure Requirements.—__ 
+        (1)  __Disclosure Requirements__  __.—__ 
 
         Under regulations prescribed by the Secretary of Transportation that include the way in which information is disclosed and retained under this section, a person transferring ownership of a motor vehicle shall give the transferee the following written disclosure:
 
@@ -37,7 +37,7 @@
 
         (5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until such time as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
 
-    (b) __Mileage Statement Requirement for Licensing.—__ 
+    (b)  __Mileage Statement Requirement for Licensing__  __.—__ 
 
         (1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor’s title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
 
@@ -83,7 +83,7 @@
 
             (B) Subparagraph (A) of this paragraph does not require a State to verify, or preclude a State from verifying, the mileage information contained in the title.
 
-    (c) __Leased Motor Vehicles.—__ 
+    (c)  __Leased Motor Vehicles__  __.—__ 
 
         (1) For a leased motor vehicle, the regulations prescribed under subsection (a) of this section shall require written disclosure about mileage to be made by the lessee to the lessor when the lessor transfers ownership of that vehicle.
 
@@ -99,11 +99,11 @@
 
         (4) If the lessor transfers ownership of a leased motor vehicle without obtaining possession of the vehicle, the lessor, in making the disclosure required by subsection (a) of this section, may indicate on the title the mileage disclosed by the lessee under paragraph (1) of this subsection unless the lessor has reason to believe that the disclosure by the lessee does not reflect the actual mileage of the vehicle.
 
-    (d) __State Alternate Vehicle Mileage Disclosure Requirements.—__ 
+    (d)  __State Alternate Vehicle Mileage Disclosure Requirements__  __.—__ 
 
     The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
 
-    (e) __Auction Sales.—__ 
+    (e)  __Auction Sales__  __.—__ 
 
     If a motor vehicle is sold at an auction, the auction company conducting the auction shall maintain the following records for at least 4 years after the date of the sale:
 
@@ -113,13 +113,13 @@
 
         (3) the odometer reading on the date the auction company took possession of the motor vehicle.
 
-    (f) __Application and Revision of State Law.—__ 
+    (f)  __Application and Revision of State Law__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
 
         (2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-    (g) __Electronic Disclosures.—__ 
+    (g)  __Electronic Disclosures__  __.—__ 
 
     Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
 

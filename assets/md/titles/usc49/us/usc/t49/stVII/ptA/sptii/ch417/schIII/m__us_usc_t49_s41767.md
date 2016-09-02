@@ -15,11 +15,11 @@
 
 ## § 41767. Termination
 
-    (a) __Authority To Issue Federal Credit Instruments.—__ 
+    (a)  __Authority To Issue Federal Credit Instruments__  __.—__ 
 
     The authority of the Secretary of Transportation to issue Federal credit instruments under section 41763 shall terminate on the date that is 5 years after the date of the enactment of this subchapter.
 
-    (b) __Continuation of Authority To Administer Program for Existing Federal Credit Instruments.—__ 
+    (b)  __Continuation of Authority To Administer Program for Existing Federal Credit Instruments__  __.—__ 
 
     On and after the termination date, the Secretary shall continue to administer the program established under this subchapter for Federal credit instruments issued under this subchapter before the termination date until all obligations associated with such instruments have been satisfied.
 

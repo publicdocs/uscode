@@ -15,11 +15,11 @@
 
 ## § 40107. Presidential transfers
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The President may transfer to the Administrator of the Federal Aviation Administration a duty, power, activity, or facility of a department, agency, or instrumentality of the executive branch of the United States Government, or an officer or unit of a department, agency, or instrumentality of the executive branch, related primarily to selecting, developing, testing, evaluating, establishing, operating, or maintaining a system, procedure, facility, or device for safe and efficient air navigation and air traffic control. In making a transfer, the President may transfer records and property and make officers and employees from the department, agency, instrumentality, or unit available to the Administrator.
 
-    (b) __During War.—__ 
+    (b)  __During War__  __.—__ 
 
     If war occurs, the President by executive order may transfer to the Secretary of Defense a duty, power, activity, or facility of the Administrator. In making the transfer, the President may transfer records, property, officers, and employees of the Administration to the Department of Defense.
 

@@ -15,7 +15,7 @@
 
 ## § 24305. General authority
 
-    (a) __Acquisition and Operation of Equipment and Facilities.—__ 
+    (a)  __Acquisition and Operation of Equipment and Facilities__  __.—__ 
 
         (1) Amtrak may acquire, operate, maintain, and make contracts for the operation and maintenance of equipment and facilities necessary for intercity and commuter rail passenger transportation, the transportation of mail and express, and auto-ferry transportation.
 
@@ -35,7 +35,7 @@
 
             (B) Subparagraph (A) shall not apply to transportation funded predominantly by a State or local government, or to ticket selling agreements.
 
-    (b) __Maintenance and Rehabilitation.—__ 
+    (b)  __Maintenance and Rehabilitation__  __.—__ 
 
     Amtrak may maintain and rehabilitate rail passenger equipment and shall maintain a regional maintenance plan that includes—
 
@@ -51,7 +51,7 @@
 
         (6) other elements or activities Amtrak considers appropriate.
 
-    (c) __Miscellaneous Authority.—__ 
+    (c)  __Miscellaneous Authority__  __.—__ 
 
     Amtrak may—
 
@@ -67,7 +67,7 @@
 
         (6) buy or lease rail rolling stock and develop and demonstrate improved rolling stock.
 
-    (d) __Through Routes and Joint Fares.—__ 
+    (d)  __Through Routes and Joint Fares__  __.—__ 
 
         (1) Establishing through routes and joint fares between Amtrak and other intercity rail passenger carriers and motor carriers of passengers is consistent with the public interest and the transportation policy of the United States. Congress encourages establishing those routes and fares.
 
@@ -75,11 +75,11 @@
 
         (3) Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
 
-    (e) __Rail Police.—__ 
+    (e)  __Rail Police__  __.—__ 
 
     Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
 
-    (f) __Domestic Buying Preferences.—__ 
+    (f)  __Domestic Buying Preferences__  __.—__ 
 
         (1) In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
 
@@ -419,7 +419,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 [Pub. L. 111–117, div. A, title I, § 159][/us/pl/111/117/s159], Dec. 16, 2009, [123 Stat. 3061][/us/stat/123/3061], as amended by [Pub. L. 111–212, title III, § 3009][/us/pl/111/212/s3009], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340], provided that:
 
->     “(a) __Amtrak Security Evaluation.—__ 
+>     “(a)  __Amtrak Security Evaluation__  __.—__ 
 
 >     No later than 180 days after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall submit a report to Congress that contains—
 
@@ -429,11 +429,11 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 >     “(b) __Developement and Implementation of Guidance and Procedures.—__ 
 
->         “(1) __In General.—__ 
+>         “(1)  __In General__  __.—__ 
 
 >         Not later than one year after the enactment of this Act \[Dec. 16, 2009\], Amtrak, in consultation with the Assistant Secretary, shall develop and implement guidance and procedures to carry out the duties and responsibilities of firearm storage and carriage in checked baggage cars and at Amtrak stations that accept checked baggage.
 
->         “(2) __Scope.—__ 
+>         “(2)  __Scope__  __.—__ 
 
 >         The guidance and procedures developed under paragraph (1) shall—
 
@@ -485,7 +485,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 [Pub. L. 105–134, title I, § 108][/us/pl/105/134/s108], Dec. 2, 1997, [111 Stat. 2574][/us/stat/111/2574], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law (other than [section 24305(a)(3) of title 49][/us/usc/t49/s24305/a/3], United States Code), Amtrak and motor carriers of passengers are authorized—
 
@@ -493,7 +493,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(k); added Oct. 5, 1978,
 
 >         “(2) to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation.
 
->     “(b) __Review.—__ 
+>     “(b)  __Review__  __.—__ 
 
 >     The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest.”
 

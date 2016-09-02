@@ -15,7 +15,7 @@
 
 ## § 40110. General procurement authority
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In carrying out this part, the Administrator of the Federal Aviation Administration—
 
@@ -35,19 +35,19 @@
 
     (b) __Purchase of Housing Units.—__ 
 
-        (1) __Authority.—__ 
+        (1)  __Authority__  __.—__ 
 
         In carrying out this part, the Administrator may purchase a housing unit (including a condominium or a housing unit in a building owned by a cooperative) that is located outside the contiguous United States if the cost of the unit is $300,000 or less.
 
-        (2) __Adjustments for inflation.—__ 
+        (2)  __Adjustments for inflation__  __.—__ 
 
         For fiscal years beginning after September 30, 1997, the Administrator may adjust the dollar amount specified in paragraph (1) to take into account increases in local housing costs.
 
-        (3) __Continuing obligations.—__ 
+        (3)  __Continuing obligations__  __.—__ 
 
         Notwithstanding [section 1341 of title 31][/us/usc/t31/s1341], the Administrator may purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
 
-        (4) __Certification to congress.—__ 
+        (4)  __Certification to congress__  __.—__ 
 
         The Administrator may purchase a housing unit under paragraph (1) only if, at least 30 days before completing the purchase, the Administrator transmits to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
@@ -57,11 +57,11 @@
 
             (C) a certification that purchasing the housing unit is the most cost-beneficial means of providing necessary accommodations in carrying out this part.
 
-        (5) __Payment of fees.—__ 
+        (5)  __Payment of fees__  __.—__ 
 
         The Administrator may pay, when due, fees resulting from the purchase of a housing unit under this subsection from any amounts made available to the Administrator.
 
-    (c) __Duties and Powers.—__ 
+    (c)  __Duties and Powers__  __.—__ 
 
     When carrying out subsection (a) of this section, the Administrator of the Federal Aviation Administration may—
 
@@ -75,7 +75,7 @@
 
     (d) __Acquisition Management System.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In consultation with such non-governmental experts in acquisition management systems as the Administrator may employ, and notwithstanding provisions of Federal acquisition law, the Administrator shall develop and implement an acquisition management system for the Administration that addresses the unique needs of the agency and, at a minimum, provides for—
 
@@ -83,7 +83,7 @@
 
             (B) the resolution of bid protests and contract disputes related thereto, using consensual alternative dispute resolution techniques to the maximum extent practicable.
 
-        (2) __Applicability of federal acquisition law.—__ 
+        (2)  __Applicability of federal acquisition law__  __.—__ 
 
         The following provisions of Federal acquisition law shall not apply to the new acquisition management system developed and implemented pursuant to paragraph (1):
 
@@ -101,7 +101,7 @@
 
             (G) The Federal Acquisition Regulation and any laws not listed in subparagraphs (A) through (F) providing authority to promulgate regulations in the Federal Acquisition Regulation.
 
-        (3) __Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41.—__ 
+        (3)  __Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41__  __.—__ 
 
         Notwithstanding paragraph (2)(B), chapter 21 of title 41 shall apply to the new acquisition management system developed and implemented under paragraph (1) with the following modifications:
 
@@ -113,21 +113,21 @@
 
             (D) In the administration of the acquisition management system, the Administrator may take adverse personnel action under section 27(e)(3)(A)(iv) of the Office of Federal Procurement Policy Act 1 in accordance with the procedures contained in the Administration’s personnel management system.
 
-        (4) __Adjudication of certain bid protests and contract disputes.—__ 
+        (4)  __Adjudication of certain bid protests and contract disputes__  __.—__ 
 
         A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office of Dispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to [section 504 of title 5][/us/usc/t5/s504].
 
     (e) __Prohibition on Release of Offeror Proposals.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Except as provided in paragraph (2), a proposal in the possession or control of the Administrator may not be made available to any person under [section 552 of title 5][/us/usc/t5/s552].
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
-        (3) __Proposal defined.—__ 
+        (3)  __Proposal defined__  __.—__ 
 
         In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
@@ -393,19 +393,19 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 [Pub. L. 106–181, title VII, § 704][/us/pl/106/181/s704], Apr. 5, 2000, [114 Stat. 157][/us/stat/114/157], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator \[of the Federal Aviation Administration\] may carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities.
 
->     “(b) __Period of Contracts.—__ 
+>     “(b)  __Period of Contracts__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Administrator may enter into a contract under the program to lease aviation equipment or facilities for a period of greater than 5 years.
 
->     “(c) __Number of Contracts.—__ 
+>     “(c)  __Number of Contracts__  __.—__ 
 
 >     The Administrator may not enter into more that \[than\] 10 contracts under the program.
 
->     “(d) __Types of Contracts.—__ 
+>     “(d)  __Types of Contracts__  __.—__ 
 
 >     The contracts to be evaluated under the program may include contracts for telecommunication services that are provided through the use of a satellite, requirements related to oceanic and air traffic control, air-to-ground radio communications, and air traffic control tower construction.”
 
@@ -431,11 +431,11 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 [Pub. L. 103–355, title V, § 5063][/us/pl/103/355/s5063], Oct. 13, 1994, [108 Stat. 3356][/us/stat/108/3356], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Transportation may conduct a test of alternative and innovative procurement procedures in carrying out acquisitions for one of the modernization programs under the Airway Capital Investment Plan prepared pursuant to [section 44501(b) of title 49][/us/usc/t49/s44501/b], United States Code. In conducting such test, the Secretary shall consult with the Administrator for Federal Procurement Policy.
 
->     “(b) __Pilot Program Implementation.—__ 
+>     “(b)  __Pilot Program Implementation__  __.—__ 
 
 >         (1) The Secretary of Transportation should prescribe policies and procedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
 
@@ -449,7 +449,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 >             “(B) reduce data requirements from the current program review reporting requirements.
 
->     “(c) __Special Authorities.—__ 
+>     “(c)  __Special Authorities__  __.—__ 
 
 >     The authority provided by subsection (a) shall include authority for the Secretary of Transportation—
 
@@ -465,7 +465,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 >             before the effective date of such provision (or amendment) to the extent that the Secretary determines necessary to test the application of such waiver or exception to procurements of items other than commercial items.
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     Subsection (c) applies with respect to—
 
@@ -473,7 +473,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 >         “(2) a contract that is awarded before such date and is to be performed (or may be performed), in whole or in part, after such date.
 
->     “(e) __Procedures Authorized.—__ 
+>     “(e)  __Procedures Authorized__  __.—__ 
 
 >     The test conducted under this section may include any of the following procedures:
 
@@ -499,7 +499,7 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 >             “(C) a contract is awarded after a streamlined competition that is limited to all sources that timely provided product information in response to the notice or, if appropriate, to those sources determined most capable based on the qualification-based factors included in an invitation to submit information pursuant to subparagraph (A).
 
->     “(f) __Waiver of Procurement Regulations.—__ 
+>     “(f)  __Waiver of Procurement Regulations__  __.—__ 
 
 >         (1)
 
@@ -535,15 +535,15 @@ In this section, the word “Administrator” in section 303(a)–(d) of the Fed
 
 >                 “(ii) Section 18 (\[former\] [41 U.S.C. 416][/us/usc/t41/s416]) \[see [41 U.S.C. 1708][/us/usc/t41/s1708]\].
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     In this section, the term ‘commercial item’ has the meaning provided that term in section 4(12) of the Office of Federal Procurement Policy Act \[see [41 U.S.C. 103][/us/usc/t41/s103]\].
 
->     “(h) __Expiration of Authority.—__ 
+>     “(h)  __Expiration of Authority__  __.—__ 
 
 >     The authority to conduct the test under subsection (a) and to award contracts under such test shall expire 4 years after the date of the enactment of this Act. Contracts entered into before such authority expires shall remain in effect, notwithstanding the expiration of the authority to conduct the test under this section.
 
->     “(i) __Rule of Construction.—__ 
+>     “(i)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a).”
 

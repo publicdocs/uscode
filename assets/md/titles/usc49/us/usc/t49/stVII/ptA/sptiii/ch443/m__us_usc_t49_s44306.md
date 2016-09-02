@@ -15,19 +15,19 @@
 
 ## § 44306. Premiums and limitations on coverage and claims
 
-    (a) __Premiums Based on Risk.—__ 
+    (a)  __Premiums Based on Risk__  __.—__ 
 
     To the extent practical, the premium charged for insurance or reinsurance under this chapter shall be based on consideration of the risk involved.
 
-    (b) __Allowances in Setting Premium Rates for Reinsurance.—__ 
+    (b)  __Allowances in Setting Premium Rates for Reinsurance__  __.—__ 
 
     In setting premium rates for reinsurance, the Secretary may make allowances to the insurance carrier for expenses incurred in providing services and facilities that the Secretary considers good business practices, except for payments by the insurance carrier for the stimulation or solicitation of insurance business.
 
-    (c) __Time Limits.—__ 
+    (c)  __Time Limits__  __.—__ 
 
     The Secretary of Transportation may provide insurance and reinsurance under this chapter for a period of not more than 1 year. The period may be extended for additional periods of not more than 1 year each only if the President decides, before each additional period, that the continued operation of the aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
-    (d) __Maximum Insured Amount.—__ 
+    (d)  __Maximum Insured Amount__  __.—__ 
 
     The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 

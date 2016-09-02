@@ -15,7 +15,7 @@
 
 ## § 30119. Notification procedures
 
-    (a) __Contents of Notification.—__ 
+    (a)  __Contents of Notification__  __.—__ 
 
     Notification by a manufacturer required under [section 30118 of this title][/us/usc/t49/s30118] of a defect or noncompliance shall contain—
 
@@ -33,11 +33,11 @@
 
         (7) other information the Secretary prescribes by regulation.
 
-    (b) __Earliest Remedy Date.—__ 
+    (b)  __Earliest Remedy Date__  __.—__ 
 
     The date specified by a manufacturer in a notification under subsection (a)(5) of this section or [section 30121(c)(2) of this title][/us/usc/t49/s30121/c/2] is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
-    (c) __Time for Notification.—__ 
+    (c)  __Time for Notification__  __.—__ 
 
     Notification required under [section 30118 of this title][/us/usc/t49/s30118] shall be given within a reasonable time—
 
@@ -45,7 +45,7 @@
 
         (2) after the manufacturer first decides that a safety-related defect or noncompliance exists under [section 30118(c) of this title][/us/usc/t49/s30118/c].
 
-    (d) __Means of Providing Notification.—__ 
+    (d)  __Means of Providing Notification__  __.—__ 
 
         (1)
 
@@ -69,11 +69,11 @@
 
     (e) __Additional Notification.—__ 
 
-        (1) __Second notification.—__ 
+        (1)  __Second notification__  __.—__ 
 
         If the Secretary decides that a notification sent by a manufacturer under this section has not resulted in an adequate number of motor vehicles or items of replacement equipment being returned for remedy, the Secretary may order the manufacturer to send a 2d notification in the way the Secretary prescribes by regulation.
 
-        (2) __Additional notifications.—__ 
+        (2)  __Additional notifications__  __.—__ 
 
         If the Secretary determines, after taking into account the severity of the defect or noncompliance, that the second notification by a manufacturer does not result in an adequate number of motor vehicles or items of replacement equipment being returned for remedy, the Secretary may order the manufacturer—
 
@@ -85,7 +85,7 @@
 
             (B) to emphasize the magnitude of the safety risk caused by the defect or noncompliance in such notification.
 
-    (f) __Notification by Lessor to Lessee.—__ 
+    (f)  __Notification by Lessor to Lessee__  __.—__ 
 
         (1) In this subsection, “leased motor vehicle” means a motor vehicle that is leased to a person for at least 4 months by a lessor that has leased at least 5 motor vehicles in the 12 months before the date of the notification.
 

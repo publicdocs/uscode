@@ -15,11 +15,11 @@
 
 ## § 701. Establishment of Board
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is hereby established within the Department of Transportation the Surface Transportation Board.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
         (1) The Board shall consist of 3 members, to be appointed by the President, by and with the advice and consent of the Senate. Not more than 2 members may be appointed from the same political party.
 
@@ -35,7 +35,7 @@
 
         (7) A vacancy in the membership of the Board does not impair the right of the remaining members to exercise all of the powers of the Board. The Board may designate a member to act as Chairman during any period in which there is no Chairman designated by the President.
 
-    (c) __Chairman.—__ 
+    (c)  __Chairman__  __.—__ 
 
         (1) There shall be at the head of the Board a Chairman, who shall be designated by the President from among the members of the Board. The Chairman shall receive compensation at the rate prescribed for level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314].
 
@@ -69,7 +69,7 @@
 
 [Pub. L. 104–88, title II, § 204][/us/pl/104/88/s204], Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
 
->     “(a) __Legal Documents.—__ 
+>     “(a)  __Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, grants, loans, contracts, agreements, certificates, licenses, and privileges—
 
@@ -79,7 +79,7 @@
 
 >         shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based on provisions of law repealed and not substantively reenacted by this Act.
 
->     “(b) __Proceedings.—__ 
+>     “(b)  __Proceedings__  __.—__ 
 
 >         (1) The provisions of this Act shall not affect any proceedings or any application for any license pending before the Interstate Commerce Commission at the time this Act takes effect \[see Effective Date note above\], insofar as those functions are retained and transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
@@ -95,7 +95,7 @@
 
 >         “(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 U.S.C. App. 843 et seq.\] or the Shipping Act, 1916 \[former 46 U.S.C. App. 801 et seq., see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101], Shipping\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
 
->     “(c) __Suits.—__ 
+>     “(c)  __Suits__  __.—__ 
 
 >         (1) This Act shall not affect suits commenced before the date of the enactment of this Act \[Dec. 29, 1995\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
@@ -103,11 +103,11 @@
 
 >         “(3) If the court in a suit described in paragraph (1) remands a case to the Board or the Secretary, subsequent proceedings related to such case shall proceed in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
->     “(d) __Continuance of Actions Against Officers.—__ 
+>     “(d)  __Continuance of Actions Against Officers__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Interstate Commerce Commission shall abate by reason of the enactment of this Act. No cause of action by or against the Interstate Commerce Commission, or by or against any officer thereof in his official capacity, shall abate by reason of enactment of this Act.
 
->     “(e) __Exercise of Authorities.—__ 
+>     “(e)  __Exercise of Authorities__  __.—__ 
 
 >     Except as otherwise provided by law, an officer or employee of the Board may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.”
 
@@ -127,15 +127,15 @@
 
 [Pub. L. 104–88, title II, § 203][/us/pl/104/88/s203], Dec. 29, 1995, [109 Stat. 941][/us/stat/109/941], provided that:
 
->     “(a) __To Board.—__ 
+>     “(a)  __To Board__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Board \[Surface Transportation Board\] by this Act shall be transferred to the Board for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Interstate Commerce Commission shall also be transferred to the Board. Such unexpended balances, allocations, and other funds, together with any unobligated balances from user fees collected by the Commission during fiscal year 1996, may be used to pay for the closedown of the Commission and severance costs for Commission personnel, regardless of whether those costs are incurred at the Commission or at the Board.
 
->     “(b) __To Secretary.—__ 
+>     “(b)  __To Secretary__  __.—__ 
 
 >     Except as otherwise provided in this Act and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Secretary by this Act shall be transferred to the Secretary for use in connection with the functions transferred.
 
->     “(c) __Separated Employees.—__ 
+>     “(c)  __Separated Employees__  __.—__ 
 
 >     Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list (competitive service) or the priority employment list (excepted service).”
 

@@ -15,7 +15,7 @@
 
 ## § 46101. Complaints and investigations
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1) A person may file a complaint in writing with the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) about a person violating this part or a requirement prescribed under this part. Except as provided in subsection (b) of this section, the Secretary, Under Secretary, or Administrator shall investigate the complaint if a reasonable ground appears to the Secretary, Under Secretary, or Administrator for the investigation.
 
@@ -31,7 +31,7 @@
 
         (4) After notice and an opportunity for a hearing and subject to [section 40105(b) of this title][/us/usc/t49/s40105/b], the Secretary of Transportation, Under Secretary, or Administrator shall issue an order to compel compliance with this part if the Secretary, Under Secretary, or Administrator finds in an investigation under this subsection that a person is violating this part.
 
-    (b) __Complaints Against Members of Armed Forces.—__ 
+    (b)  __Complaints Against Members of Armed Forces__  __.—__ 
 
     The Secretary of Transportation, Under Secretary, or Administrator shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receiving the complaint, the Secretary of that department shall inform the Secretary of Transportation, Under Secretary, or Administrator of the action taken on the complaint, including any corrective or disciplinary action taken.
 

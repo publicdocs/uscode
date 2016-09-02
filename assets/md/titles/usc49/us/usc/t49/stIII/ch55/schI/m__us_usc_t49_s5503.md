@@ -15,19 +15,19 @@
 
 ## § 5503. Office of Intermodalism
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
 
-    (b) __Director.—__ 
+    (b)  __Director__  __.—__ 
 
     The head of the Office is a Director who shall be appointed by the Secretary.
 
-    (c) __Duties and Powers.—__ 
+    (c)  __Duties and Powers__  __.—__ 
 
     The Director shall carry out the duties of the Secretary described in [section 301(3) of this title][/us/usc/t49/s301/3].
 
-    (d) __Research.—__ 
+    (d)  __Research__  __.—__ 
 
     The Director shall—
 
@@ -35,13 +35,13 @@
 
         (2) carry out additional research needs identified by the Director.
 
-    (e) __Technical Assistance.—__ 
+    (e)  __Technical Assistance__  __.—__ 
 
     The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data by States and metropolitan planning organizations. Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.
 
     (f) __National Intermodal System Improvement Plan.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director, in consultation with the advisory board established under section 5502 and other public and private transportation interests, shall develop a plan to improve the national intermodal transportation system. The plan shall include—
 
@@ -59,7 +59,7 @@
 
             (G) specific near and long-term goals for the national intermodal transportation system.
 
-        (2) __Progress reports.—__ 
+        (2)  __Progress reports__  __.—__ 
 
         The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
 
@@ -71,11 +71,11 @@
 
             (D) make policy and legislative recommendations the Director believes are necessary and appropriate to achieve the goals of the plan.
 
-        (3) __Plan development funding.—__ 
+        (3)  __Plan development funding__  __.—__ 
 
         Such sums as may be necessary from the administrative expenses of the Research and Innovative Technology Administration shall be reserved by the Secretary of Transportation each year for the purpose of completing and updating the plan to improve the national intermodal transportation plan.
 
-    (g) __Impact Measurement Methodology; Impact Review.—__ 
+    (g)  __Impact Measurement Methodology; Impact Review__  __.—__ 
 
     The Director and the Director of the Bureau of Transportation Statistics shall jointly—
 
@@ -97,11 +97,11 @@
 
             (F) the economy and employment.
 
-    (h) __Administrative and Clerical Support.—__ 
+    (h)  __Administrative and Clerical Support__  __.—__ 
 
     The Director shall provide administrative and clerical support to the Intermodal Transportation Advisory Board.
 
-    (i) __Authorization of Appropriations.—__ 
+    (i)  __Authorization of Appropriations__  __.—__ 
 
     There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
 

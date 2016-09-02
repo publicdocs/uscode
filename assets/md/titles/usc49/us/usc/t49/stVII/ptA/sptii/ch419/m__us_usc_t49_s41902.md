@@ -15,11 +15,11 @@
 
 ## § 41902. Schedules for certain transportation of mail
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Except as provided in section 41906  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and [section 5402 of title 39][/us/usc/t39/s5402], an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
-    (b) __Statements on Places and Schedules.—__ 
+    (b)  __Statements on Places and Schedules__  __.—__ 
 
     Every air carrier shall file with the United States Postal Service a statement showing—
 
@@ -29,7 +29,7 @@
 
         (3) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each such place.
 
-    (c) __Designating and Additional Schedules.—__ 
+    (c)  __Designating and Additional Schedules__  __.—__ 
 
     The Postal Service may—
 
@@ -37,7 +37,7 @@
 
         (2) require the carrier to establish additional schedules for the transportation of mail between those places.
 
-    (d) __Changing Schedules.—__ 
+    (d)  __Changing Schedules__  __.—__ 
 
     A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days’ notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
 

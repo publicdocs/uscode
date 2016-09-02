@@ -15,11 +15,11 @@
 
 ## § 15503. Authority and criteria: rates, classifications, rules, and practices prescribed by Board
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     When the Board, after a full hearing, decides that a rate charged or collected by a pipeline carrier for transportation subject to this part, or that a classification, rule, or practice of that carrier, does or will violate this part, the Board may prescribe the rate, classification, rule, or practice to be followed. In prescribing the rate, classification, rule, or practice, the Board may utilize rate reasonableness procedures that provide an effective simulation of a market-based price for a stand alone pipeline. The Board may order the carrier to stop the violation. When a rate, classification, rule, or practice is prescribed under this subsection, the affected carrier may not publish, charge, or collect a different rate and shall adopt the classification and observe the rule or practice prescribed by the Board.
 
-    (b) __Factors To Consider.—__ 
+    (b)  __Factors To Consider__  __.—__ 
 
     When prescribing a rate, classification, rule, or practice for transportation or service by a pipeline carrier, the Board shall consider, among other factors—
 
@@ -29,7 +29,7 @@
 
         (3) the availability of other economic transportation alternatives.
 
-    (c) __Proceeding.—__ 
+    (c)  __Proceeding__  __.—__ 
 
     The Board may begin a proceeding under this section on complaint. A complaint under this section must contain a full statement of the facts and the reasons for the complaint and must be made under oath.
 

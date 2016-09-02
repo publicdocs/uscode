@@ -15,7 +15,7 @@
 
 ## § 41705. Discrimination against handicapped individuals
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In providing air transportation, an air carrier, including (subject to section 40105(b)) any foreign air carrier, may not discriminate against an otherwise qualified individual on the following grounds:
 
@@ -25,25 +25,25 @@
 
         (3) the individual is regarded as having such an impairment.
 
-    (b) __Each Act Constitutes Separate Offense.—__ 
+    (b)  __Each Act Constitutes Separate Offense__  __.—__ 
 
     For purposes of section 46301, a separate violation occurs under this section for each individual act of discrimination prohibited by subsection (a).
 
     (c) __Investigation of Complaints.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall investigate each complaint of a violation of subsection (a).
 
-        (2) __Publication of data.—__ 
+        (2)  __Publication of data__  __.—__ 
 
         The Secretary shall publish disability-related complaint data in a manner comparable to other consumer complaint data.
 
-        (3) __Review and report.—__ 
+        (3)  __Review and report__  __.—__ 
 
         The Secretary shall regularly review all complaints received by air carriers alleging discrimination on the basis of disability and shall report annually to Congress on the results of such review.
 
-        (4) __Technical assistance.—__ 
+        (4)  __Technical assistance__  __.—__ 
 
         Not later than 180 days after the date of the enactment of this subsection, the Secretary shall—
 

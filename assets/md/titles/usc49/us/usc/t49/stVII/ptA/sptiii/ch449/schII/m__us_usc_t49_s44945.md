@@ -15,25 +15,25 @@
 
 ## § 44945. Disposition of unclaimed money and clothing
 
-    (a) __Disposition of Unclaimed Money.—__ 
+    (a)  __Disposition of Unclaimed Money__  __.—__ 
 
     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], unclaimed money recovered at any airport security checkpoint shall be retained by the Transportation Security Administration and shall remain available until expended for the purpose of providing civil aviation security as required in this chapter.
 
     (b) __Disposition of Unclaimed Clothing.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In disposing of unclaimed clothing recovered at any airport security checkpoint, the Assistant Secretary shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
 
-        (2) __Agreements.—__ 
+        (2)  __Agreements__  __.—__ 
 
         In implementing paragraph (1), the Assistant Secretary may enter into agreements with airport authorities.
 
-        (3) __Other charitable arrangements.—__ 
+        (3)  __Other charitable arrangements__  __.—__ 
 
         Nothing in this subsection shall prevent an airport or the Transportation Security Administration from donating unclaimed clothing to a charitable organization of their choosing.
 
-        (4) __Limitation.—__ 
+        (4)  __Limitation__  __.—__ 
 
         Nothing in this subsection shall create a cost to the Government.
 

@@ -15,11 +15,11 @@
 
 ## § 41901. General authority
 
-    (a) __Title 39.—__ 
+    (a)  __Title__  __39.—__ 
 
     The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(e) and (f) of title 39, and in foreign air transportation under section 5402(b) and (c) of title 39.
 
-    (b) __Authority To Prescribe Prices.—__ 
+    (b)  __Authority To Prescribe Prices__  __.—__ 
 
     Except as provided in [section 5402 of title 39][/us/usc/t39/s5402], on the initiative of the Secretary of Transportation or on petition by the Postal Service or an air carrier, the Secretary shall prescribe and publish—
 
@@ -29,11 +29,11 @@
 
         (3) the effective date of the prices.
 
-    (c) __Other Transportation.—__ 
+    (c)  __Other Transportation__  __.—__ 
 
     In prescribing prices under subsection (b) of this section, the Secretary may include transportation other than by aircraft that is incidental to transportation of mail by aircraft or necessary because of emergency conditions related to aircraft operations.
 
-    (d) __Authority To Prescribe Different Prices.—__ 
+    (d)  __Authority To Prescribe Different Prices__  __.—__ 
 
     Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
 
@@ -41,11 +41,11 @@
 
         (2) standards related to the character and quality of service to be provided that are prescribed by or under law.
 
-    (e) __Statements on Prices.—__ 
+    (e)  __Statements on Prices__  __.—__ 
 
     A petition for prescribing a reasonable price under this section must include a statement of the price the petitioner believes is reasonable.
 
-    (f) __Statements on Required Services.—__ 
+    (f)  __Statements on Required Services__  __.—__ 
 
     The Postal Service shall introduce as part of the record in every proceeding under this section a comprehensive statement of the services to be required of the air carrier and other information the Postal Service has that the Secretary considers material to the proceeding.
 

@@ -15,7 +15,7 @@
 
 ## § 24307. Special transportation
 
-    (a) __Reduced Fare Program.—__ 
+    (a)  __Reduced Fare Program__  __.—__ 
 
     Amtrak shall maintain a reduced fare program for the following:
 
@@ -31,7 +31,7 @@
 
             (C) are regarded as having an impairment.
 
-    (b) __Employee Transportation.—__ 
+    (b)  __Employee Transportation__  __.—__ 
 
         (1)
 
@@ -161,11 +161,11 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 
 [Pub. L. 110–432, div. B, title II, § 219][/us/pl/110/432/s219], Oct. 16, 2008, [122 Stat. 4931][/us/stat/122/4931], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Amtrak, in consultation with station owners and other railroads operating service through the existing stations that it serves, shall evaluate the improvements necessary to make these stations readily accessible to and usable by individuals with disabilities, as required by such section 242(e)(2) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12162(e)(2)][/us/usc/t42/s12162/e/2]). The evaluation shall include, for each applicable station, improvements required to bring it into compliance with the applicable parts of such section 242(e)(2), any potential barriers to achieving compliance, including issues related to passenger rail station platforms, the estimated cost of the improvements necessary, the identification of the responsible person (as defined in section 241(5) of that Act ([42 U.S.C. 12161(5)][/us/usc/t42/s12161/5])), and the earliest practicable date when such improvements can be made. The evaluation shall also include a detailed plan and schedule for bringing all applicable stations into compliance with the applicable parts of section 242(e)(2) by the 2010 statutory deadline for station accessibility. Amtrak shall submit the evaluation to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; the Department of Transportation; and the National Council on Disability by February 1, 2009, along with recommendations for funding the necessary improvements. Should the Department of Transportation issue any rule related to transportation for individuals with disabilities by intercity passenger rail after Amtrak submits its evaluation, Amtrak shall, within 120 days after the date that such rule is published, submit to the above parties a supplemental evaluation on any impact of the rule on its cost and schedule for achieving full compliance.
 
->     “(b) __Accessibility Improvements and Barrier Removal for People With Disabilities.—__ 
+>     “(b)  __Accessibility Improvements and Barrier Removal for People With Disabilities__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary \[of Transportation\] for the use of Amtrak such sums as may be necessary to improve the accessibility of facilities, including rail platforms, and services.”
 
@@ -175,11 +175,11 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 
 [Pub. L. 105–134, title IV, § 406(a)][/us/pl/105/134/s406/a], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586], provided that:
 
->     “(1) __Access improvements at certain shared stations.—__ 
+>     “(1)  __Access improvements at certain shared stations__  __.—__ 
 
 >     Amtrak is responsible for its share, if any, of the costs of accessibility improvements required by the Americans With Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\] at any station jointly used by Amtrak and a commuter authority.
 
->     “(2) __Certain requirements not to apply until 1998.—__ 
+>     “(2)  __Certain requirements not to apply until 1998__  __.—__ 
 
 >     Amtrak shall not be subject to any requirement under subsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 ([42 U.S.C. 12162][/us/usc/t42/s12162]) until January 1, 1998.”
 

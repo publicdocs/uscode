@@ -15,13 +15,13 @@
 
 ## § 32902. Average fuel economy standards
 
-    (a) __Prescription of Standards by Regulation.—__ 
+    (a)  __Prescription of Standards by Regulation__  __.—__ 
 
     At least 18 months before the beginning of each model year, the Secretary of Transportation shall prescribe by regulation average fuel economy standards for automobiles manufactured by a manufacturer in that model year. Each standard shall be the maximum feasible average fuel economy level that the Secretary decides the manufacturers can achieve in that model year.
 
     (b) __Standards for Automobiles and Certain Other Vehicles.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Transportation, after consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall prescribe separate average fuel economy standards for—
 
@@ -33,19 +33,19 @@
 
         (2) __Fuel economy standards for automobiles.—__ 
 
-            (A) __Automobile fuel economy average for model years 2011 through 2020.—__ 
+            (A)  __Automobile fuel economy average for model years 2011 through 2020__  __.—__ 
 
             The Secretary shall prescribe a separate average fuel economy standard for passenger automobiles and a separate average fuel economy standard for non-passenger automobiles for each model year beginning with model year 2011 to achieve a combined fuel economy average for model year 2020 of at least 35 miles per gallon for the total fleet of passenger and non-passenger automobiles manufactured for sale in the United States for that model year.
 
-            (B) __Automobile fuel economy average for model years 2021 through 2030.—__ 
+            (B)  __Automobile fuel economy average for model years 2021 through 2030__  __.—__ 
 
             For model years 2021 through 2030, the average fuel economy required to be attained by each fleet of passenger and non-passenger automobiles manufactured for sale in the United States shall be the maximum feasible average fuel economy standard for each fleet for that model year.
 
-            (C) __Progress toward standard required.—__ 
+            (C)  __Progress toward standard required__  __.—__ 
 
             In prescribing average fuel economy standards under subparagraph (A), the Secretary shall prescribe annual fuel economy standard increases that increase the applicable average fuel economy standard ratably beginning with model year 2011 and ending with model year 2020.
 
-        (3) __Authority of the secretary.—__ 
+        (3)  __Authority of the secretary__  __.—__ 
 
         The Secretary shall—
 
@@ -53,7 +53,7 @@
 
             (B) issue regulations under this title prescribing average fuel economy standards for at least 1, but not more than 5, model years.
 
-        (4) __Minimum standard.—__ 
+        (4)  __Minimum standard__  __.—__ 
 
         In addition to any standard prescribed pursuant to paragraph (3), each manufacturer shall also meet the minimum standard for domestically manufactured passenger automobiles, which shall be the greater of—
 
@@ -61,11 +61,11 @@
 
             (B) 92 percent of the average fuel economy projected by the Secretary for the combined domestic and non-domestic passenger automobile fleets manufactured for sale in the United States by all manufacturers in the model year, which projection shall be published in the Federal Register when the standard for that model year is promulgated in accordance with this section.
 
-    (c) __Amending Passenger Automobile Standards.—__ 
+    (c)  __Amending Passenger Automobile Standards__  __.—__ 
 
     The Secretary of Transportation may prescribe regulations amending the standard under subsection (b) of this section for a model year to a level that the Secretary decides is the maximum feasible average fuel economy level for that model year. [Section 553 of title 5][/us/usc/t5/s553] applies to a proceeding to amend the standard. However, any interested person may make an oral presentation and a transcript shall be taken of that presentation.
 
-    (d) __Exemptions.—__ 
+    (d)  __Exemptions__  __.—__ 
 
         (1)
 
@@ -87,7 +87,7 @@
 
         (4) The Secretary of Transportation may prescribe the contents of an application for an exemption.
 
-    (e) __Emergency Vehicles.—__ 
+    (e)  __Emergency Vehicles__  __.—__ 
 
         (1)
 
@@ -101,17 +101,17 @@
 
         (2) A manufacturer may elect to have the fuel economy of an emergency vehicle excluded in applying a fuel economy standard under subsection (a), (b), (c), or (d) of this section. The election is made by providing written notice to the Secretary of Transportation and to the Administrator of the Environmental Protection Agency.
 
-    (f) __Considerations on Decisions on Maximum Feasible Average Fuel Economy.—__ 
+    (f)  __Considerations on Decisions on Maximum Feasible Average Fuel Economy__  __.—__ 
 
     When deciding maximum feasible average fuel economy under this section, the Secretary of Transportation shall consider technological feasibility, economic practicability, the effect of other motor vehicle standards of the Government on fuel economy, and the need of the United States to conserve energy.
 
-    (g) __Requirements for Other Amendments.—__ 
+    (g)  __Requirements for Other Amendments__  __.—__ 
 
         (1) The Secretary of Transportation may prescribe regulations amending an average fuel economy standard prescribed under subsection (a) or (d) of this section if the amended standard meets the requirements of subsection (a) or (d), as appropriate.
 
         (2) When the Secretary of Transportation prescribes an amendment under this section that makes an average fuel economy standard more stringent, the Secretary shall prescribe the amendment (and submit the amendment to Congress when required under subsection (c)(2) of this section) at least 18 months before the beginning of the model year to which the amendment applies.
 
-    (h) __Limitations.—__ 
+    (h)  __Limitations__  __.—__ 
 
     In carrying out subsections (c), (f), and (g) of this section, the Secretary of Transportation—
 
@@ -121,11 +121,11 @@
 
         (3) may not consider, when prescribing a fuel economy standard, the trading, transferring, or availability of credits under section 32903.
 
-    (i) __Consultation.—__ 
+    (i)  __Consultation__  __.—__ 
 
     The Secretary of Transportation shall consult with the Secretary of Energy in carrying out this section and [section 32903 of this title][/us/usc/t49/s32903].
 
-    (j) __Secretary of Energy Comments.—__ 
+    (j)  __Secretary of Energy Comments__  __.—__ 
 
         (1) Before issuing a notice proposing to prescribe or amend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
 
@@ -133,7 +133,7 @@
 
     (k) __Commercial Medium- and Heavy-Duty On-Highway Vehicles and Work Trucks.—__ 
 
-        (1) __Study.—__ 
+        (1)  __Study__  __.—__ 
 
         Not later than 1 year after the National Academy of Sciences publishes the results of its study under section 108 of the Ten-in-Ten Fuel Economy Act, the Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall examine the fuel efficiency of commercial medium- and heavy-duty on-highway vehicles and work trucks and determine—
 
@@ -145,11 +145,11 @@
 
             (D) such other factors and conditions that could have an impact on a program to improve commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency.
 
-        (2) __Rulemaking.—__ 
+        (2)  __Rulemaking__  __.—__ 
 
         Not later than 24 months after completion of the study required under paragraph (1), the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, by regulation, shall determine in a rulemaking proceeding how to implement a commercial medium- and heavy-duty on-highway vehicle and work truck fuel efficiency improvement program designed to achieve the maximum feasible improvement, and shall adopt and implement appropriate test methods, measurement metrics, fuel economy standards, and compliance and enforcement protocols that are appropriate, cost-effective, and technologically feasible for commercial medium- and heavy-duty on-highway vehicles and work trucks. The Secretary may prescribe separate standards for different classes of vehicles under this subsection.
 
-        (3) __Lead-time; regulatory stability.—__ 
+        (3)  __Lead-time; regulatory stability__  __.—__ 
 
         The commercial medium- and heavy-duty on-highway vehicle and work truck fuel economy standard adopted pursuant to this subsection shall provide not less than—
 
@@ -437,7 +437,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(i), (j); added Aug. 4, 1
 
 [Pub. L. 110–140, title I, § 107][/us/pl/110/140/s107], Dec. 19, 2007, [121 Stat. 1504][/us/stat/121/1504], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     As soon as practicable after the date of enactment of this Act \[Dec. 19, 2007\], the Secretary of Transportation shall execute an agreement with the National Academy of Sciences to develop a report evaluating vehicle fuel economy standards, including—
 
@@ -449,11 +449,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 502(i), (j); added Aug. 4, 1
 
 >         “(4) an assessment of how such technologies may be used to meet the new fuel economy standards under chapter 329 of title 49, United States Code, as amended by this subtitle \[subtitle A (§§ 101–113) of title I of [Pub. L. 110–140][/us/pl/110/140], see Short Title of 2007 Amendment note set out under [section 30101 of this title][/us/usc/t49/s30101]\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Academy shall submit the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with its findings and recommendations not later than 5 years after the date on which the Secretary executes the agreement with the Academy.
 
->     “(c) __Quinquennial Updates.—__ 
+>     “(c)  __Quinquennial Updates__  __.—__ 
 
 >     After submitting the initial report, the Academy shall update the report at 5 year intervals thereafter through 2025.”
 

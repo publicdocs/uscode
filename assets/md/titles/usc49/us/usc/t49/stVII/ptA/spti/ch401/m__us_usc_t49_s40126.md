@@ -15,11 +15,11 @@
 
 ## § 40126. Severable services contracts for periods crossing fiscal years
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may enter into a contract for procurement of severable services for a period that begins in 1 fiscal year and ends in the next fiscal year if (without regard to any option to extend the period of the contract) the contract period does not exceed 1 year.
 
-    (b) __Obligation of Funds.—__ 
+    (b)  __Obligation of Funds__  __.—__ 
 
     Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of subsection (a).
 

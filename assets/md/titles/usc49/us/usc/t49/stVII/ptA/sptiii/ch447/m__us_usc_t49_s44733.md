@@ -15,7 +15,7 @@
 
 ## § 44733. Inspection of repair stations located outside the United States
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 1 year after the date of enactment of this section, the Administrator of the Federal Aviation Administration shall establish and implement a safety assessment system for all part 145 repair stations based on the type, scope, and complexity of work being performed. The system shall—
 
@@ -25,11 +25,11 @@
 
         (3) require all maintenance safety or maintenance implementation agreements to provide an opportunity for the Administration to conduct independent inspections of covered part 145 repair stations when safety concerns warrant such inspections.
 
-    (b) __Notice to Congress of Negotiations.—__ 
+    (b)  __Notice to Congress of Negotiations__  __.—__ 
 
     The Administrator shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives not later than 30 days after initiating formal negotiations with foreign aviation authorities or other appropriate foreign government agencies on a new maintenance safety or maintenance implementation agreement.
 
-    (c) __Annual Report.—__ 
+    (c)  __Annual Report__  __.—__ 
 
     The Administrator shall publish an annual report on the Administration’s oversight of part 145 repair stations and implementation of the safety assessment system required under subsection (a). The report shall—
 
@@ -43,27 +43,27 @@
 
     (d) __Alcohol and Controlled Substances Testing Program Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of State and the Secretary of Transportation, acting jointly, shall request the governments of foreign countries that are members of the International Civil Aviation Organization to establish international standards for alcohol and controlled substances testing of persons that perform safety-sensitive maintenance functions on commercial air carrier aircraft.
 
-        (2) __Application to part 121 aircraft work.—__ 
+        (2)  __Application to part 121 aircraft work__  __.—__ 
 
         Not later than 1 year after the date of enactment of this section, the Administrator shall promulgate a proposed rule requiring that all part 145 repair station employees responsible for safety-sensitive maintenance functions on part 121 air carrier aircraft are subject to an alcohol and controlled substances testing program determined acceptable by the Administrator and consistent with the applicable laws of the country in which the repair station is located.
 
-    (e) __Annual Inspections.—__ 
+    (e)  __Annual Inspections__  __.—__ 
 
     The Administrator shall ensure that part 145 repair stations located outside the United States are inspected annually by Federal Aviation Administration safety inspectors, without regard to where the station is located, in a manner consistent with United States obligations under international agreements. The Administrator may carry out inspections in addition to the annual inspection required under this subsection based on identified risks.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Part 121 air carrier.—__ 
+        (1)  __Part 121 air carrier__  __.—__ 
 
         The term “part 121 air carrier” means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
 
-        (2) __Part 145 repair station.—__ 
+        (2)  __Part 145 repair station__  __.—__ 
 
         The term “part 145 repair station” means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
 

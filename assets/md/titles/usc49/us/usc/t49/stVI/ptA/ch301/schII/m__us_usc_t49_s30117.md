@@ -15,7 +15,7 @@
 
 ## § 30117. Providing information to, and maintaining records on, purchasers
 
-    (a) __Providing Information and Notice.—__ 
+    (a)  __Providing Information and Notice__  __.—__ 
 
     The Secretary of Transportation may require that each manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
 
@@ -23,7 +23,7 @@
 
         (2) to the first purchaser of a vehicle or equipment other than for resale when the vehicle or equipment is bought, in printed matter placed in the vehicle or attached to or accompanying the equipment.
 
-    (b) __Maintaining Purchaser Records and Procedures.—__ 
+    (b)  __Maintaining Purchaser Records and Procedures__  __.—__ 
 
         (1) A manufacturer of a motor vehicle or tire (except a retreaded tire) shall cause to be maintained a record of the name and address of the first purchaser of each vehicle or tire it produces and, to the extent prescribed by regulations of the Secretary, shall cause to be maintained a record of the name and address of the first purchaser of replacement equipment (except a tire) that the manufacturer produces. The Secretary may prescribe by regulation the records to be maintained and reasonable procedures for maintaining the records under this subsection, including procedures to be followed by distributors and dealers to assist the manufacturer in obtaining the information required by this subsection. A procedure shall be reasonable for the type of vehicle or tire involved, and shall provide reasonable assurance that a customer list of a distributor or dealer, or similar information, will be made available to a person (except the distributor or dealer) only when necessary to carry out this subsection and sections 30118–30121, 30166(f), and 30167(a) and (b) of this title. Availability of assistance from a distributor or dealer does not affect an obligation of a manufacturer under this subsection.
 
@@ -61,7 +61,7 @@
 
     (c) __Rollover Tests.—__ 
 
-        (1) __Development.—__ 
+        (1)  __Development__  __.—__ 
 
         Not later than 2 years from the date of the enactment of this subsection, the Secretary shall—
 
@@ -69,11 +69,11 @@
 
             (B) carry out a program of conducting such tests.
 
-        (2) __Test results.—__ 
+        (2)  __Test results__  __.—__ 
 
         As the Secretary develops a test under paragraph (1)(A), the Secretary shall conduct a rulemaking to determine how best to disseminate test results to the public.
 
-        (3) __Motor vehicles covered.—__ 
+        (3)  __Motor vehicles covered__  __.—__ 
 
         This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
 
@@ -209,11 +209,11 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 
 [Pub. L. 109–59, title X, § 10309(a)][/us/pl/109/59/s10309/a], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Transportation shall require the testing of 15-passenger vans as part of the rollover resistance program of the National Highway Traffic Safety Administration’s new car assessment program.
 
->     “(2) __15-passenger van defined.—__ 
+>     “(2) __15__  __-passenger van defined__  __.—__ 
 
 >     In this subsection, the term ‘15-passenger van’ means a vehicle that seats 10 to 14 passengers, not including the driver.”
 

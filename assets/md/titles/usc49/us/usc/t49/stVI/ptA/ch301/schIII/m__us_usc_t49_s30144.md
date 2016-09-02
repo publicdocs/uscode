@@ -15,7 +15,7 @@
 
 ## § 30144. Importing motor vehicles on a temporary basis
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     [Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to a motor vehicle imported on a temporary basis for personal use by an individual who is a member of—
 
@@ -27,7 +27,7 @@
 
         (2) the armed forces of a foreign country on assignment in the United States.
 
-    (b) __Verification.—__ 
+    (b)  __Verification__  __.—__ 
 
     The Secretary of Transportation or the Secretary of the Treasury may require verification, that the Secretary of Transportation considers appropriate, that an individual is a member described under subsection (a) of this section. The Secretary of Transportation shall ensure that a motor vehicle imported under this section will be exported (at no cost to the United States Government) or abandoned to the Government when the individual no longer—
 
@@ -35,7 +35,7 @@
 
         (2) is a member described under subsection (a) of this section.
 
-    (c) __Sale in the United States.—__ 
+    (c)  __Sale in the United States__  __.—__ 
 
     A motor vehicle imported under this section may not be sold when in the United States.
 

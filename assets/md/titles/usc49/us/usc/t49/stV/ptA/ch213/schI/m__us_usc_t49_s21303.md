@@ -15,7 +15,7 @@
 
 ## § 21303. Chapter 211 violations
 
-    (a) __Penalty.—__ 
+    (a)  __Penalty__  __.—__ 
 
         (1) Subject to [section 21304 of this title][/us/usc/t49/s21304], a person violating chapter 211 of this title, including section 21103 (as such section was in effect on the day before the date of enactment of the Rail Safety Improvement Act of 2008), or violating any provision of a waiver applicable to that person that has been granted under [section 21108 of this title][/us/usc/t49/s21108], is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. For a violation of [section 21106 of this title][/us/usc/t49/s21106], a separate violation occurs for each day a facility is not in compliance.
 
@@ -33,13 +33,13 @@
 
         (4) If the Secretary does not compromise the amount of the civil penalty, the Secretary shall refer the matter to the Attorney General for collection.
 
-    (b) __Civil Actions To Collect.—__ 
+    (b)  __Civil Actions To Collect__  __.—__ 
 
         (1) The Attorney General shall bring a civil action in a district court of the United States to collect a civil penalty that is referred to the Attorney General for collection under subsection (a) of this section after satisfactory information is presented to the Attorney General. The action may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If the action is against an individual, the action also may be brought in the judicial district in which the individual resides.
 
         (2) A civil action under this subsection must be brought not later than 2 years after the date of the violation unless administrative notification under [section 3711 of title 31][/us/usc/t31/s3711] is given within that 2-year period to the person committing the violation. However, even if notification is given, the action must be brought within the period specified in [section 2462 of title 28][/us/usc/t28/s2462].
 
-    (c) __Imputation of Knowledge.—__ 
+    (c)  __Imputation of Knowledge__  __.—__ 
 
     In any proceeding under this section, a railroad carrier is deemed to know the acts of its officers and agents.
 

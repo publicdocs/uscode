@@ -15,13 +15,13 @@
 
 ## § 31102. Grants to States
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards, and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
 
-    (b) __Motor Carrier Safety Assistance Program.—__ 
+    (b)  __Motor Carrier Safety Assistance Program__  __.—__ 
 
-        (1) __Program goal.—__ 
+        (1)  __Program goal__  __.—__ 
 
         The goal of the Motor Carrier Safety Assistance Program is to ensure that the Secretary, States, local government agencies, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient surface transportation system by—
 
@@ -105,11 +105,11 @@
 
         (4) __Maintenance of effort.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A plan submitted by a State under paragraph (2) shall provide that the total expenditure of amounts of the lead State agency responsible for implementing the plan will be maintained at a level at least equal to the average level of that expenditure for fiscal years 2004 and 2005.
 
-            (B) __Average level of state expenditures.—__ 
+            (B)  __Average level of state expenditures__  __.—__ 
 
             In estimating the average level of State expenditure under subparagraph (A), the Secretary—
 
@@ -117,11 +117,11 @@
 
                 (ii) shall require the State to exclude State matching amounts used to receive Government financing under this subsection.
 
-            (C) __Waiver.—__ 
+            (C)  __Waiver__  __.—__ 
 
             Upon the request of a State, the Secretary may waive or modify the requirements of this paragraph for 1 fiscal year, if the Secretary determines that a waiver is equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or a serious decline in the financial resources of the State motor carrier safety assistance program agency.
 
-    (c) __Use of Grants To Enforce Other Laws.—__ 
+    (c)  __Use of Grants To Enforce Other Laws__  __.—__ 
 
     A State may use amounts received under a grant under subsection (a)—
 
@@ -135,11 +135,11 @@
 
         (2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles if the number of motor carrier safety activities (including roadside safety inspections) conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2003, 2004, and 2005; except that the State may not use more than 5 percent of the basic amount the State receives under the grant under subsection (a) for enforcement activities relating to noncommercial motor vehicles described in this paragraph unless the Secretary determines a higher percentage will result in significant increases in commercial motor vehicle safety.
 
-    (d) __Continuous Evaluation of Plans.—__ 
+    (d)  __Continuous Evaluation of Plans__  __.—__ 
 
     On the basis of reports submitted by a State motor vehicle safety agency of a State with a plan approved under this section and the Secretary’s own investigations, the Secretary shall make a continuing evaluation of the way the State is carrying out the plan. If the Secretary finds, after notice and opportunity for comment, the State plan previously approved is not being followed or has become inadequate to ensure enforcement of the regulations, standards, or orders, the Secretary shall withdraw approval of the plan and notify the State. The plan stops being effective when the notice is received. A State adversely affected by the withdrawal may seek judicial review under chapter 7 of title 5. Notwithstanding the withdrawal, the State may retain jurisdiction in administrative or judicial proceedings begun before the withdrawal if the issues involved are not related directly to the reasons for the withdrawal.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate an annual report that—
 
@@ -375,23 +375,23 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
 [Pub. L. 106–159, title I, § 103(e)][/us/pl/106/159/s103/e], Dec. 9, 1999, [113 Stat. 1754][/us/stat/113/1754], provided that:
 
->     “(1) __Withholding of allocation for noncompliance.—__ 
+>     “(1)  __Withholding of allocation for noncompliance__  __.—__ 
 
 >     If a State is not in substantial compliance with each requirement of [section 31311 of title 49][/us/usc/t49/s31311], United States Code, the Secretary shall withhold all amounts that would be allocated, but for this paragraph, to the State from funds made available by or under this section (including any amendment made by this section).
 
->     “(2) __Period of availability of withheld funds.—__ 
+>     “(2)  __Period of availability of withheld funds__  __.—__ 
 
 >     Any funds withheld under paragraph (1) from any State shall remain available until June 30 of the fiscal year for which the funds are authorized to be appropriated.
 
->     “(3) __Allocation of withheld funds after compliance.—__ 
+>     “(3)  __Allocation of withheld funds after compliance__  __.—__ 
 
 >     If, before the last day of the period for which funds are withheld under paragraph (1) from allocation are to remain available for allocation to a State under paragraph (2), the Secretary determines that the State is in substantial compliance with each requirement of [section 31311 of title 49][/us/usc/t49/s31311], United States Code, the Secretary shall allocate to the State the withheld funds.
 
->     “(4) __Period of availability of subsequently allocated funds.—__ 
+>     “(4)  __Period of availability of subsequently allocated funds__  __.—__ 
 
 >     Any funds allocated pursuant to paragraph (3) shall remain available for expenditure until the last day of the first fiscal year following the fiscal year in which the funds are so allocated. Sums not expended at the end of such period are released to the Secretary for reallocation.
 
->     “(5) __Effect of noncompliance.—__ 
+>     “(5)  __Effect of noncompliance__  __.—__ 
 
 >     If, on June 30 of the fiscal year in which funds are withheld from allocation under paragraph (1), the State is not substantially complying with each requirement of [section 31311 of title 49][/us/usc/t49/s31311], United States Code, the funds are released to the Secretary for reallocation.”
 
@@ -399,7 +399,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
 [Pub. L. 105–178, title IV, § 4032][/us/pl/105/178/s4032], June 9, 1998, [112 Stat. 419][/us/stat/112/419], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under [section 31102 of title 49][/us/usc/t49/s31102], United States Code, due to nonconformity of State intrastate motor carrier, commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
 
@@ -409,11 +409,11 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
 >         “(3) the safety impacts, costs, and benefits of full participation in the program.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the results of the study.
 
->     “(c) __Adjustment of State Allocations.—__ 
+>     “(c)  __Adjustment of State Allocations__  __.—__ 
 
 >     The Secretary is authorized to adjust State allocations under [section 31103 of title 49][/us/usc/t49/s31103], United States Code, to reflect the results of the study.”
 

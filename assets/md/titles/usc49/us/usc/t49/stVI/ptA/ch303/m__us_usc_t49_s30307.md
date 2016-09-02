@@ -15,7 +15,7 @@
 
 ## § 30307. Criminal penalties
 
-    (a) __General Penalty.—__ 
+    (a)  __General Penalty__  __.—__ 
 
     A person (except an individual described in section 30305(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) shall be fined under title 18, imprisoned for not more than one year, or both, if—
 
@@ -25,7 +25,7 @@
 
         (3) the person willfully discloses the information knowing that disclosure is not authorized.
 
-    (b) __Information Penalty.—__ 
+    (b)  __Information Penalty__  __.—__ 
 
     A person knowingly and willfully requesting, or under false pretenses obtaining, information specified in section 30304(b)(1)(A) or (C) of this title from a person receiving the information under [section 30305 of this title][/us/usc/t49/s30305] shall be fined under title 18, imprisoned for not more than one year, or both.
 

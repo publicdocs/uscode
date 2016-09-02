@@ -15,11 +15,11 @@
 
 ## § 354. Investigative authority of Inspector General
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The statutory authority of the Inspector General of the Department of Transportation includes authority to conduct, pursuant to Federal criminal statutes, investigations of allegations that a person or entity has engaged in fraudulent or other criminal activity relating to the programs and operations of the Department or its operating administrations.
 
-    (b) __Regulated Entities.—__ 
+    (b)  __Regulated Entities__  __.—__ 
 
     The authority to conduct investigations referred to in subsection (a) extends to any person or entity subject to the laws and regulations of the Department or its operating administrations, whether or not they are recipients of funds from the Department or its operating administrations.
 

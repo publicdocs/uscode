@@ -15,13 +15,13 @@
 
 ## § 30305. Access to Register information
 
-    (a) __Referrals of Information Requests.—__ 
+    (a)  __Referrals of Information Requests__  __.—__ 
 
         (1) To carry out duties related to driver licensing, driver improvement, or transportation safety, the chief driver licensing official of a participating State may request the Secretary of Transportation to refer, electronically or by United States mail, a request for information about the motor vehicle driving record of an individual to the chief driver licensing official of a State of record.
 
         (2) The Secretary of Transportation shall relay, electronically or by United States mail, information received from the chief driver licensing official of a State of record in response to a request under paragraph (1) of this subsection to the chief driver licensing official of the participating State requesting the information. However, the Secretary may refuse to relay information to the chief driver licensing official of a participating State that does not comply with [section 30304 of this title][/us/usc/t49/s30304].
 
-    (b) __Requests To Obtain Information.—__ 
+    (b)  __Requests To Obtain Information__  __.—__ 
 
         (1) The Chairman of the National Transportation Safety Board and the Administrator of the Federal Highway Administration may request the chief driver licensing official of a State to obtain information under subsection (a) of this section about an individual who is the subject of an accident investigation conducted by the Board or the Administrator. The Chairman and the Administrator may receive the information.
 
@@ -55,7 +55,7 @@
 
         (12) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
 
-    (c) __Relationship to Other Laws.—__ 
+    (c)  __Relationship to Other Laws__  __.—__ 
 
     A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, and other applicable laws of the United States or a State, except that—
 
@@ -65,7 +65,7 @@
 
         (3) receipt of information by a person authorized by this section to receive the information is deemed to be a disclosure under [section 552a(c) of title 5][/us/usc/t5/s552a/c], except that the Secretary of Transportation is not required to retain the accounting made under section 552a(c)(1) for more than 7 years after the disclosure.
 
-    (d) __Availability of Information Provided Under Prior Law.—__ 
+    (d)  __Availability of Information Provided Under Prior Law__  __.—__ 
 
     Information provided by a State under the Act of July 14, 1960 ([Public Law 86–660][/us/pl/86/660], [74 Stat. 526][/us/stat/74/526]), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 ([Public Law 89–563][/us/pl/89/563], [80 Stat. 730][/us/stat/80/730]), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 

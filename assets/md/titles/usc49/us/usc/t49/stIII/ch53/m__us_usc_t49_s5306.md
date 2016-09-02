@@ -15,11 +15,11 @@
 
 ## § 5306. Private enterprise participation in metropolitan planning and transportation improvement programs and relationship to other limitations
 
-    (a) __Private Enterprise Participation.—__ 
+    (a)  __Private Enterprise Participation__  __.—__ 
 
     A plan or program required by section 5303, 5304, or 5305 of this title shall encourage to the maximum extent feasible, as determined by local policies, criteria, and decisionmaking, the participation of private enterprise. If equipment or a facility already being used in an urban area is to be acquired under this chapter, the program shall provide that it be improved so that it will better serve the transportation needs of the area.
 
-    (b) __Relationship to Other Limitations.—__ 
+    (b)  __Relationship to Other Limitations__  __.—__ 
 
     Sections 5303–5305 of this title do not authorize—
 

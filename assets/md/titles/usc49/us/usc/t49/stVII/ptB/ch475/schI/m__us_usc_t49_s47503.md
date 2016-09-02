@@ -15,7 +15,7 @@
 
 ## § 47503. Noise exposure maps
 
-    (a) __Submission and Preparation.—__ 
+    (a)  __Submission and Preparation__  __.—__ 
 
     An airport operator may submit to the Secretary of Transportation a noise exposure map showing the noncompatible uses in each area of the map on the date the map is submitted, a description of estimated aircraft operations during a forecast period that is at least 5 years in the future and how those operations will affect the map. The map shall—
 
@@ -23,7 +23,7 @@
 
         (2) comply with regulations prescribed under [section 47502 of this title][/us/usc/t49/s47502].
 
-    (b) __Revised Maps.—__ 
+    (b)  __Revised Maps__  __.—__ 
 
     If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction.
 
@@ -107,15 +107,15 @@ Feb. 18, 1980, Pub. L. 96–193, § 103(a), 94 Stat. 50.  </td>
 
 [Pub. L. 108–176, title III, § 322][/us/pl/108/176/s322], Dec. 12, 2003, [117 Stat. 2540][/us/stat/117/2540], provided that:
 
->     “(a) __Noise Disclosure System Implementation Study.—__ 
+>     “(a)  __Noise Disclosure System Implementation Study__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall conduct a study to determine the feasibility of developing a program under which prospective home buyers of property located in the vicinity of an airport could be notified of information derived from noise exposure maps that may affect the use and enjoyment of the property. The study shall assess the scope, administration, usefulness, and burdensomeness of any such program, the costs and benefits of such a program, and whether participation in such a program should be voluntary or mandatory.
 
->     “(b) __Public Availability of Noise Exposure Maps.—__ 
+>     “(b)  __Public Availability of Noise Exposure Maps__  __.—__ 
 
 >     The Administrator shall make noise exposure and land use information from noise exposure maps available to the public via the Internet on its website in an appropriate format.
 
->     “(c) __Noise Exposure Map.—__ 
+>     “(c)  __Noise Exposure Map__  __.—__ 
 
 >     In this section, the term ‘noise exposure map’ means a noise exposure map prepared under [section 47503 of title 49][/us/usc/t49/s47503], United States Code.”
 

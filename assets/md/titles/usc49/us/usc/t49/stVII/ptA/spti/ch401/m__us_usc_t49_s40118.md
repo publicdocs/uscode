@@ -15,7 +15,7 @@
 
 ## § 40118. Government-financed air transportation
 
-    (a) __Transportation by Air Carriers Holding Certificates.—__ 
+    (a)  __Transportation by Air Carriers Holding Certificates__  __.—__ 
 
     A department, agency, or instrumentality of the United States Government shall take necessary steps to ensure that the transportation of passengers and property by air is provided by an air carrier holding a certificate under [section 41102 of this title][/us/usc/t49/s41102] if—
 
@@ -37,7 +37,7 @@
 
             (B) reasonably available, if the transportation is between 2 places outside the United States.
 
-    (b) __Transportation by Foreign Air Carriers.—__ 
+    (b)  __Transportation by Foreign Air Carriers__  __.—__ 
 
     This section does not preclude the transportation of passengers and property by a foreign air carrier if the transportation is provided under a bilateral or multilateral air transportation agreement to which the Government and the government of a foreign country are parties if the agreement—
 
@@ -45,19 +45,19 @@
 
         (2) provides for the exchange of rights or benefits of similar magnitude.
 
-    (c) __Proof.—__ 
+    (c)  __Proof__  __.—__ 
 
     The Administrator of General Services shall prescribe regulations under which agencies may allow the expenditure of an appropriation for transportation in violation of this section only when satisfactory proof is presented showing the necessity for the transportation.
 
-    (d) __Certain Transportation by Air Outside the United States.—__ 
+    (d)  __Certain Transportation by Air Outside the United States__  __.—__ 
 
     Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State or the Administrator of the Agency for International Development may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
 
-    (e) __Relationship to Other Laws.—__ 
+    (e)  __Relationship to Other Laws__  __.—__ 
 
     This section does not affect the application of the antidiscrimination provisions of this part.
 
-    (f) __Prohibition of Certification or Contract Clause.—__ 
+    (f)  __Prohibition of Certification or Contract Clause__  __.—__ 
 
         (1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
 

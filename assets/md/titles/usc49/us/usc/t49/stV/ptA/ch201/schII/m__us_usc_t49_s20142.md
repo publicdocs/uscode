@@ -15,7 +15,7 @@
 
 ## § 20142. Track safety
 
-    (a) __Review of Existing Regulations.—__ 
+    (a)  __Review of Existing Regulations__  __.—__ 
 
     Not later than March 3, 1993, the Secretary of Transportation shall begin a review of Department of Transportation regulations related to track safety standards. The review at least shall include an evaluation of—
 
@@ -25,15 +25,15 @@
 
         (3) employee safety.
 
-    (b) __Revision of Regulations.—__ 
+    (b)  __Revision of Regulations__  __.—__ 
 
     Not later than September 1, 1995, the Secretary shall prescribe regulations and issue orders to revise track safety standards, considering safety information presented during the review under subsection (a) of this section and the report of the Comptroller General submitted under subsection (c) of this section.
 
-    (c) __Comptroller General’s Study and Report.—__ 
+    (c)  __Comptroller General’s Study and Report__  __.—__ 
 
     The Comptroller General shall study the effectiveness of the Secretary’s enforcement of track safety standards, with particular attention to recent relevant railroad accident experience and information. Not later than September 3, 1993, the Comptroller General shall submit a report to Congress and the Secretary on the results of the study, with recommendations for improving enforcement of those standards.
 
-    (d) __Identification of Internal Rail Defects.—__ 
+    (d)  __Identification of Internal Rail Defects__  __.—__ 
 
     In carrying out subsections (a) and (b), the Secretary shall consider whether or not to prescribe regulations and issue orders concerning—
 
@@ -43,7 +43,7 @@
 
     (e) __Track Standards.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Within 90 days after the date of enactment of this subsection, the Federal Railroad Administration shall—
 
@@ -53,7 +53,7 @@
 
             (C) establish a program to review continuous welded rail joint bar inspection data from railroads and Administration track inspectors periodically.
 
-        (2) __Inspection.—__ 
+        (2)  __Inspection__  __.—__ 
 
         Whenever the Administration determines that it is necessary or appropriate, the Administration may require railroads to increase the frequency of inspection, or improve the methods of inspection, of joint bars in continuous welded rail.
 
@@ -153,7 +153,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(s); added Sept. 3, 1992,
 
 [Pub. L. 110–432, div. A, title IV, § 403][/us/pl/110/432/s403], Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later that \[sic\] 2 years after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of a study to determine whether—
 
@@ -165,7 +165,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(s); added Sept. 3, 1992,
 
 >         “(4) the speed at which railroad track inspection vehicles operate and the scope of the territory they generally cover allow for proper inspection of the track and whether such speed and appropriate scope should be regulated by the Secretary.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In conducting the study the Secretary shall consider—
 
@@ -177,11 +177,11 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(s); added Sept. 3, 1992,
 
 >         “(4) other relevant information, as determined by the Secretary.
 
->     “(c) __Update of Regulations.—__ 
+>     “(c)  __Update of Regulations__  __.—__ 
 
 >     Not later than 2 years after the completion of the study required by subsection (a), the Secretary shall prescribe regulations based on the results of the study conducted under subsection (a).
 
->     “(d) __Concrete Cross Ties.—__ 
+>     “(d)  __Concrete Cross Ties__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall promulgate regulations for concrete cross ties. In developing the regulations for class 1 through 5 track, the Secretary may address, as appropriate—
 

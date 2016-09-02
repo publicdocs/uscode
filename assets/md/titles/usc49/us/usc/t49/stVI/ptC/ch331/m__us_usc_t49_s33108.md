@@ -15,7 +15,7 @@
 
 ## § 33108. Monitoring compliance of manufacturers
 
-    (a) __Records, Reports, Information, and Inspection.—__ 
+    (a)  __Records, Reports, Information, and Inspection__  __.—__ 
 
     To enable the Secretary of Transportation to decide whether a manufacturer of motor vehicles containing a part subject to a standard prescribed under section 33102 or 33103 of this title, or a manufacturer of major replacement parts subject to the standard, is complying with this chapter and the standard, the Secretary may require the manufacturer to—
 
@@ -27,11 +27,11 @@
 
         (4) allow an officer or employee designated by the Secretary to inspect the vehicles and parts and relevant records of the manufacturer.
 
-    (b) __Entry and Inspection.—__ 
+    (b)  __Entry and Inspection__  __.—__ 
 
     To enforce this chapter, an officer or employee designated by the Secretary, on presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, may inspect a facility in which motor vehicles containing major parts subject to the standard, or major replacement parts subject to the standard, are manufactured, held for introduction into interstate commerce, or held for sale after introduction into interstate commerce. An inspection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness.
 
-    (c) __Certification of Compliance.—__ 
+    (c)  __Certification of Compliance__  __.—__ 
 
         (1) A manufacturer of a motor vehicle subject to the standard, and a manufacturer of a major replacement part subject to the standard, shall provide at the time of delivery of the vehicle or part a certification that the vehicle or part conforms to the applicable motor vehicle theft prevention standard. The certification shall accompany the vehicle or part until its delivery to the first purchaser. The Secretary by regulation may prescribe the type and form of the certification.
 
@@ -45,7 +45,7 @@
 
             (C) exported.
 
-    (d) __Notification of Error.—__ 
+    (d)  __Notification of Error__  __.—__ 
 
     A manufacturer shall notify the Secretary if the manufacturer discovers that—
 

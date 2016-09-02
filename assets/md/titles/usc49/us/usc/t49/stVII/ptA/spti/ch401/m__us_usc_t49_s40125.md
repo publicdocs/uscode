@@ -15,19 +15,19 @@
 
 ## § 40125. Qualifications for public aircraft status
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Commercial purposes.—__ 
+        (1)  __Commercial purposes__  __.—__ 
 
         The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
 
-        (2) __Governmental function.—__ 
+        (2)  __Governmental function__  __.—__ 
 
         The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
 
-        (3) __Qualified non-crewmember.—__ 
+        (3)  __Qualified non-crewmember__  __.—__ 
 
         The term “qualified non-crewmember” means an individual, other than a member of the crew, aboard an aircraft—
 
@@ -35,17 +35,17 @@
 
             (B) whose presence is required to perform, or is associated with the performance of, a governmental function.
 
-        (4) __Armed forces.—__ 
+        (4)  __Armed forces__  __.—__ 
 
         The term “armed forces” has the meaning given such term by [section 101 of title 10][/us/usc/t10/s101].
 
-    (b) __Aircraft Owned by Governments.—__ 
+    (b)  __Aircraft Owned by Governments__  __.—__ 
 
     An aircraft described in subparagraph (A), (B), (C), or (D) of section 40102(a)(41) does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
 
     (c) __Aircraft Owned or Operated by the Armed Forces.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), an aircraft described in section 40102(a)(41)(E) qualifies as a public aircraft if—
 
@@ -55,11 +55,11 @@
 
             (C) the aircraft is chartered to provide transportation or other commercial air service to the armed forces and the Secretary of Defense (or the Secretary of the department in which the Coast Guard is operating) designates the operation of the aircraft as being required in the national interest.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         An aircraft that meets the criteria set forth in paragraph (1) and that is owned or operated by the National Guard of a State, the District of Columbia, or any territory or possession of the United States, qualifies as a public aircraft only to the extent that it is operated under the direct control of the Department of Defense.
 
-    (d) __Search and Rescue Purposes.—__ 
+    (d)  __Search and Rescue Purposes__  __.—__ 
 
     An aircraft described in section 40102(a)(41)(D) that is not exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of 1 of those governments, qualifies as a public aircraft if the Administrator determines that—
 

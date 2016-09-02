@@ -15,7 +15,7 @@
 
 ## § 31133. General powers of the Secretary of Transportation
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In carrying out this subchapter and regulations prescribed under [section 31102 of this title][/us/usc/t49/s31102], the Secretary of Transportation may—
 
@@ -39,11 +39,11 @@
 
         (10) perform other acts the Secretary considers appropriate.
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     In conducting inspections and investigations under subsection (a) of this section, the Secretary shall consult, as appropriate, with employers and employees and their authorized representatives and offer them a right of accompaniment.
 
-    (c) __Delegation.—__ 
+    (c)  __Delegation__  __.—__ 
 
     The Secretary may delegate to a State receiving a grant under [section 31102 of this title][/us/usc/t49/s31102] those duties and powers related to enforcement (including conducting investigations) of this subchapter and regulations prescribed under this subchapter that the Secretary considers appropriate.
 
@@ -135,29 +135,29 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
 [Pub. L. 106–159, title II, § 218][/us/pl/106/159/s218], Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], provided that:
 
->     “(a) __Development and Implementation.—__ 
+>     “(a)  __Development and Implementation__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall develop and implement appropriate staffing standards for Federal and State motor carrier safety inspectors in international border areas.
 
->     “(b) __Factors To Be Considered.—__ 
+>     “(b)  __Factors To Be Considered__  __.—__ 
 
 >     In developing standards under subsection (a), the Secretary shall consider volume of traffic, hours of operation of the border facility, types of commercial motor vehicles, types of cargo, delineation of responsibility between Federal and State inspectors, and such other factors as the Secretary determines appropriate.
 
->     “(c) __Maintenance of Effort.—__ 
+>     “(c)  __Maintenance of Effort__  __.—__ 
 
 >     The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000.
 
 >     “(d) __Border Commercial Motor Vehicle and Safety Enforcement Programs.—__ 
 
->         “(1) __Enforcement.—__ 
+>         “(1)  __Enforcement__  __.—__ 
 
 >         If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under \[former\] [section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
 
->         “(2) __Allocation.—__ 
+>         “(2)  __Allocation__  __.—__ 
 
 >         If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] [section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code, for such fiscal year.”
 

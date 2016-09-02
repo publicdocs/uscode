@@ -15,11 +15,11 @@
 
 ## § 5333. Labor standards
 
-    (a) __Prevailing Wages Requirement.—__ 
+    (a)  __Prevailing Wages Requirement__  __.—__ 
 
     The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, [64 Stat. 1267][/us/stat/64/1267]) and [section 3145 of title 40][/us/usc/t40/s3145].
 
-    (b) __Employee Protective Arrangements.—__ 
+    (b)  __Employee Protective Arrangements__  __.—__ 
 
         (1) As a condition of financial assistance under sections 5307–5312, 5316, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  5318, 5323(a)(1), 5323(b), 5323(d), 5328, <sup>\[1\]</sup>  5337, and 5338(b) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5316, <sup>\[1\]</sup>  5318, 5323(a)(1), 5323(b), 5323(d), 5328, <sup>\[1\]</sup>  5337, and 5338(b) shall specify the arrangements.
 

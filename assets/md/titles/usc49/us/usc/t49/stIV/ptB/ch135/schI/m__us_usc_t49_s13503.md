@@ -17,7 +17,7 @@
 
     (a) __Transportation by Carriers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
 
@@ -35,13 +35,13 @@
 
             (C) is incidental to transportation or service provided by the carrier or freight forwarder that is subject to jurisdiction under chapter 105 of this title or under subchapter II or III of this chapter.
 
-        (2) __Applicability of other provisions.—__ 
+        (2)  __Applicability of other provisions__  __.—__ 
 
         Transportation exempt from jurisdiction under paragraph (1) of this subsection is subject to jurisdiction under chapter 105 when provided by such a rail carrier, under subchapter II of this chapter when provided by such a water carrier, and under subchapter III of this chapter when provided by such a freight forwarder.
 
     (b) __Transportation by Agent.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except to the extent provided by paragraph (2) of this subsection, neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
 
@@ -59,7 +59,7 @@
 
                 (iv) a freight forwarder subject to jurisdiction under subchapter III of this chapter.
 
-        (2) __Treatment of transportation by principal.—__ 
+        (2)  __Treatment of transportation by principal__  __.—__ 
 
         Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
 

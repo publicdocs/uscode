@@ -17,27 +17,27 @@
 
     (a) __Program for Provision of Voluntary Services.—__ 
 
-        (1) __Program.—__ 
+        (1)  __Program__  __.—__ 
 
         The Under Secretary of Transportation for Transportation Security shall carry out a program to permit qualified law enforcement officers, firefighters, and emergency medical technicians to provide emergency services on commercial air flights during emergencies.
 
-        (2) __Requirements.—__ 
+        (2)  __Requirements__  __.—__ 
 
         The Under Secretary shall establish such requirements for qualifications of providers of voluntary services under the program under paragraph (1), including training requirements, as the Under Secretary considers appropriate.
 
-        (3) __Confidentiality of registry.—__ 
+        (3)  __Confidentiality of registry__  __.—__ 
 
         If as part of the program under paragraph (1) the Under Secretary requires or permits registration of law enforcement officers, firefighters, or emergency medical technicians who are willing to provide emergency services on commercial flights during emergencies, the Under Secretary shall take appropriate actions to ensure that the registry is available only to appropriate airline personnel and otherwise remains confidential.
 
-        (4) __Consultation.—__ 
+        (4)  __Consultation__  __.—__ 
 
         The Under Secretary shall consult with appropriate representatives of the commercial airline industry, and organizations representing community-based law enforcement, firefighters, and emergency medical technicians, in carrying out the program under paragraph (1), including the actions taken under paragraph (3).
 
-    (b) __Exemption From Liability.—__ 
+    (b)  __Exemption From Liability__  __.—__ 
 
     An individual shall not be liable for damages in any action brought in a Federal or State court that arises from an act or omission of the individual in providing or attempting to provide assistance in the case of an in-flight emergency in an aircraft of an air carrier if the individual meets such qualifications as the Under Secretary shall prescribe for purposes of this section.
 
-    (c) __Exception.—__ 
+    (c)  __Exception__  __.—__ 
 
     The exemption under subsection (b) shall not apply in any case in which an individual provides, or attempts to provide, assistance described in that paragraph in a manner that constitutes gross negligence or willful misconduct.
 

@@ -15,23 +15,23 @@
 
 ## § 13905. Effective periods of registration
 
-    (a) __Person Holding ICC Authority.—__ 
+    (a)  __Person Holding ICC Authority__  __.—__ 
 
     Any person having authority to provide transportation or service as a motor carrier, freight forwarder, or broker under this title, as in effect on December 31, 1995, shall be deemed, for purposes of this part, to be registered to provide such transportation or service under this part.
 
     (b) __Person Registered With Secretary.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), any person having registered with the Secretary to provide transportation or service as a motor carrier or motor private carrier under this title, as in effect on January 1, 2005, but not having registered pursuant to section 13902(a), shall be treated, for purposes of this part, to be registered to provide such transportation or service for purposes of sections 13908 and 14504a.
 
-        (2) __Exclusively intrastate operators.—__ 
+        (2)  __Exclusively intrastate operators__  __.—__ 
 
         Paragraph (1) does not apply to a motor carrier or motor private carrier (including a transporter of waste or recyclable materials) engaged exclusively in intrastate transportation operations.
 
     (c) __Effective Period.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904—
 
@@ -41,11 +41,11 @@
 
         (2) __Reissuance of registration.—__ 
 
-            (A) __Requirement.—__ 
+            (A)  __Requirement__  __.—__ 
 
             Not later than 4 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the Secretary shall require a freight forwarder or broker to renew its registration issued under this chapter.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Each registration renewal under subparagraph (A)—
 
@@ -55,11 +55,11 @@
 
     (d) __Suspension, Amendments, and Revocations.—__ 
 
-        (1) __Applications.—__ 
+        (1)  __Applications__  __.—__ 
 
         On application of the registrant, the Secretary may amend or revoke a registration.
 
-        (2) __Complaints and actions on secretary’s own initiative.—__ 
+        (2)  __Complaints and actions on secretary’s own initiative__  __.—__ 
 
         On complaint or on the Secretary’s own initiative and after notice and an opportunity for a proceeding, the Secretary may—
 
@@ -99,15 +99,15 @@
 
                 (i)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No cl. (ii) has been enacted. </sup></sup>  the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a period. </sup></sup> 
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         Paragraph (2)(B) shall not apply to a person who is unable to pay a civil penalty because the person is a debtor in a case under chapter 11 of title 11.
 
-        (4) __Regulations.—__ 
+        (4)  __Regulations__  __.—__ 
 
         Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and opportunity for public comment, shall issue regulations to provide for the suspension, amendment, or revocation of a registration under this part for failure to pay a civil penalty as provided in paragraph (2)(B).
 
-    (e) __Procedure.—__ 
+    (e)  __Procedure__  __.—__ 
 
     Except on application of the registrant, or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C), the Secretary may revoke a registration of a motor carrier, freight forwarder, or broker, only after—
 
@@ -117,7 +117,7 @@
 
     (f) __Expedited Procedure.—__ 
 
-        (1) __Protection of safety.—__ 
+        (1)  __Protection of safety__  __.—__ 
 
         Notwithstanding subchapter II of chapter 5 of title 5, the Secretary—
 
@@ -125,11 +125,11 @@
 
             (B) shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
 
-        (2) __Imminent hazard to public health.—__ 
+        (2)  __Imminent hazard to public health__  __.—__ 
 
         Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
 
-        (3) __Notice; period of suspension.—__ 
+        (3)  __Notice; period of suspension__  __.—__ 
 
         The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 

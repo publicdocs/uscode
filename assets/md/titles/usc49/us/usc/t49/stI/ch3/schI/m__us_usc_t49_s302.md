@@ -43,7 +43,7 @@
 
         (2) It is the policy of the United States to establish in the shortest time practicable a United States designed and constructed magnetic levitation transportation technology capable of operating along Federal-aid highway rights-of-way, as part of a national transportation system of the United States.
 
-    (e) __Intermodal Transportation.—__ 
+    (e)  __Intermodal Transportation__  __.—__ 
 
     It is the policy of the United States Government to encourage and promote development of a national intermodal transportation system in the United States to move people and goods in an energy-efficient manner, provide the foundation for improved productivity growth, strengthen the Nation’s ability to compete in the global economy, and obtain the optimum yield from the Nation’s transportation resources.
 

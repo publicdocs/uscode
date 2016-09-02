@@ -15,11 +15,11 @@
 
 ## § 5121. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     To carry out this chapter, the Secretary may investigate, conduct tests, make reports, issue subpenas, conduct hearings, require the production of records and property, take depositions, and conduct research, development, demonstration, and training activities. Except as provided in subsections (c) and (d), after notice and an opportunity for a hearing, the Secretary may issue an order requiring compliance with this chapter or a regulation prescribed, or an order, special permit, or approval issued, under this chapter.
 
-    (b) __Records, Reports, and Information.—__ 
+    (b)  __Records, Reports, and Information__  __.—__ 
 
     A person subject to this chapter shall—
 
@@ -29,7 +29,7 @@
 
     (c) __Inspections and Investigations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A designated officer, employee, or agent of the Secretary—
 
@@ -61,11 +61,11 @@
 
                 (iii) any actions being taken as a result of a finding of noncompliance.
 
-        (2) __Display of credentials.—__ 
+        (2)  __Display of credentials__  __.—__ 
 
         An officer, employee, or agent acting under this subsection shall display proper credentials, in person or in writing, when requested.
 
-        (3) __Safe resumption of transportation.—__ 
+        (3)  __Safe resumption of transportation__  __.—__ 
 
         In instances when, as a result of an inspection or investigation under this subsection, an imminent hazard is not found to exist, the Secretary, in accordance with procedures set forth in regulations prescribed under subsection (e), shall assist—
 
@@ -75,11 +75,11 @@
 
     (d) __Emergency Orders.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
-        (2) __Written orders.—__ 
+        (2)  __Written orders__  __.—__ 
 
         The action of the Secretary under paragraph (1) shall be in a written emergency order that—
 
@@ -89,29 +89,29 @@
 
             (C) describes the standards and procedures for obtaining relief from the order.
 
-        (3) __Opportunity for review.—__ 
+        (3)  __Opportunity for review__  __.—__ 
 
         After taking action under paragraph (1), the Secretary shall provide for review of the action under [section 554 of title 5][/us/usc/t5/s554] if a petition for review is filed within 20 calendar days of the date of issuance of the order for the action.
 
-        (4) __Expiration of effectiveness of order.—__ 
+        (4)  __Expiration of effectiveness of order__  __.—__ 
 
         If a petition for review of an action is filed under paragraph (3) and the review under that paragraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
 
-        (5) __Out-of-service order defined.—__ 
+        (5)  __Out-of-service order defined__  __.—__ 
 
         In this subsection, the term “out-of-service order” means a requirement that an aircraft, vessel, motor vehicle, train, railcar, locomotive, other vehicle, transport unit, transport vehicle, freight container, potable tank, or other package not be moved until specified conditions have been met.
 
     (e) __Regulations.—__ 
 
-        (1) __Temporary regulations.—__ 
+        (1)  __Temporary regulations__  __.—__ 
 
         Not later than 60 days after the date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, the Secretary shall issue temporary regulations to carry out subsections (c) and (d). The temporary regulations shall expire on the date of issuance of the regulations under paragraph (2).
 
-        (2) __Final regulations.—__ 
+        (2)  __Final regulations__  __.—__ 
 
         Not later than 1 year after such date of enactment, the Secretary shall issue regulations to carry out subsections (c) and (d) in accordance with subchapter II of chapter 5 of title 5.
 
-        (3) __Matters to be addressed.—__ 
+        (3)  __Matters to be addressed__  __.—__ 
 
         The regulations issued under this subsection shall address—
 
@@ -129,7 +129,7 @@
 
             (D) the proper closure of packaging in accordance with the hazardous material regulations.
 
-    (f) __Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—__ 
+    (f)  __Facility, Staff, and Reporting System on Risks, Emergencies, and Actions__  __.—__ 
 
         (1)
 
@@ -143,7 +143,7 @@
 
         (2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
-    (g) __Grants and Cooperative Agreements.—__ 
+    (g)  __Grants and Cooperative Agreements__  __.—__ 
 
     The Secretary may enter into grants and cooperative agreements with a person, agency, or instrumentality of the United States, a unit of State or local government, an Indian tribe, a foreign government (in coordination with the Department of State), an educational institution, or other appropriate entity—
 
@@ -155,7 +155,7 @@
 
         (4) to otherwise carry out this chapter.
 
-    (h) __Report.—__ 
+    (h)  __Report__  __.—__ 
 
     The Secretary shall, once every 2 years, prepare and transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
 
@@ -349,11 +349,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 [Pub. L. 112–141, div. C, title III, § 33005][/us/pl/112/141/s33005], July 6, 2012, [126 Stat. 833][/us/stat/126/833], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibility and effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     In conducting pilot projects under this section, the Secretary—
 
@@ -375,7 +375,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 >             “(F) employees of persons who transport or offer for transportation hazardous material by air, highway, rail, and water.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary shall—
 
@@ -395,7 +395,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 >         “(2) submit a final report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that contains the results of the pilot projects carried out under this section, including the matters described in paragraph (1).
 
->     “(d) __Paperless Hazard Communications System Defined.—__ 
+>     “(d)  __Paperless Hazard Communications System Defined__  __.—__ 
 
 >     In this section, the term ‘paperless hazard communications system’ means the use of advanced communications methods, such as wireless communications devices, to convey hazard information between all parties in the transportation chain, including emergency responders and law enforcement personnel. The format of communication may be equivalent to that used by the carrier.”
 
@@ -403,7 +403,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 [Pub. L. 112–141, div. C, title III, § 33008][/us/pl/112/141/s33008], July 6, 2012, [126 Stat. 836][/us/stat/126/836], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary \[of Transportation\] shall develop uniform performance standards for training hazardous material inspectors and investigators on—
 
@@ -411,7 +411,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 >         “(2) how to identify noncompliance with regulations issued under chapter 51 of title 49, United States Code, and take appropriate enforcement action.
 
->     “(b) __Standards and Guidelines.—__ 
+>     “(b)  __Standards and Guidelines__  __.—__ 
 
 >     The Secretary may develop—
 
@@ -421,7 +421,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
 >         “(3) standard protocols to coordinate investigation efforts among Federal, State, and local jurisdictions on accidents or incidents involving the transportation of hazardous material.
 
->     “(c) __Availability.—__ 
+>     “(c)  __Availability__  __.—__ 
 
 >     The standards, protocols, and guidelines established under this section—
 

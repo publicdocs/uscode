@@ -15,7 +15,7 @@
 
 ## § 30162. Petitions by interested persons for standards and enforcement
 
-    (a) __Filing.—__ 
+    (a)  __Filing__  __.—__ 
 
     Any interested person may file a petition with the Secretary of Transportation requesting the Secretary to begin a proceeding—
 
@@ -23,15 +23,15 @@
 
         (2) to decide whether to issue an order under [section 30118(b) of this title][/us/usc/t49/s30118/b].
 
-    (b) __Statement of Facts.—__ 
+    (b)  __Statement of Facts__  __.—__ 
 
     The petition must state facts that the person claims establish that a motor vehicle safety standard or order referred to in subsection (a) of this section is necessary and briefly describe the order the Secretary should issue.
 
-    (c) __Proceedings.—__ 
+    (c)  __Proceedings__  __.—__ 
 
     The Secretary may hold a public hearing or conduct an investigation or proceeding to decide whether to grant the petition.
 
-    (d) __Actions of Secretary.—__ 
+    (d)  __Actions of Secretary__  __.—__ 
 
     The Secretary shall grant or deny a petition not later than 120 days after the petition is filed. If a petition is granted, the Secretary shall begin the proceeding promptly. If a petition is denied, the Secretary shall publish the reasons for the denial in the Federal Register.
 

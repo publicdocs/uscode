@@ -15,7 +15,7 @@
 
 ## § 30163. Actions by the Attorney General
 
-    (a) __Civil Actions To Enforce.—__ 
+    (a)  __Civil Actions To Enforce__  __.—__ 
 
     The Attorney General may bring a civil action in a United States district court to enjoin—
 
@@ -29,19 +29,19 @@
 
             (B) does not comply with an applicable motor vehicle safety standard prescribed under this chapter.
 
-    (b) __Prior Notice.—__ 
+    (b)  __Prior Notice__  __.—__ 
 
     When practicable, the Secretary of Transportation shall notify a person against whom a civil action under subsection (a) of this section is planned, give the person an opportunity to present that person’s views, and, except for a knowing and willful violation of this chapter, give the person a reasonable opportunity to remedy the defect or comply with the applicable motor vehicle safety standard prescribed under this chapter. Failure to give notice and an opportunity to remedy the defect or comply with the applicable motor vehicle safety standard prescribed under this chapter does not prevent a court from granting appropriate relief.
 
-    (c) __Venue.—__ 
+    (c)  __Venue__  __.—__ 
 
     Except as provided in [section 30121(d) of this title][/us/usc/t49/s30121/d], a civil action under this section or [section 30165(a) of this title][/us/usc/t49/s30165/a] may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found.
 
-    (d) __Jury Trial Demand.—__ 
+    (d)  __Jury Trial Demand__  __.—__ 
 
     In a trial for criminal contempt for violating an injunction or restraining order issued under subsection (a) of this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
-    (e) __Subpenas for Witnesses.—__ 
+    (e)  __Subpenas for Witnesses__  __.—__ 
 
     In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 

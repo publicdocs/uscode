@@ -15,7 +15,7 @@
 
 ## § 32306. Personnel
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     In carrying out this chapter, the Secretary of Transportation may—
 
@@ -23,7 +23,7 @@
 
         (2) make contracts with persons for research and preparation of reports.
 
-    (b) __Status of Advisory Committee Members.—__ 
+    (b)  __Status of Advisory Committee Members__  __.—__ 
 
     A member of an advisory committee appointed under [section 325 of this title][/us/usc/t49/s325] to carry out this chapter is a special United States Government employee under chapter 11 of title 18.
 

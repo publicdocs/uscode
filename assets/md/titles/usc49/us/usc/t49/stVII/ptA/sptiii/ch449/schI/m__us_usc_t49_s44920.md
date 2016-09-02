@@ -15,23 +15,23 @@
 
 ## § 44920. Security screening opt-out program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     On or after the last day of the 2-year period beginning on the date on which the Under Secretary transmits to Congress the certification required by section 110(c) of the Aviation and Transportation Security Act, an operator of an airport may submit to the Under Secretary an application to have the screening of passengers and property at the airport under section 44901 to be carried out by the screening personnel of a qualified private screening company under a contract entered into with the Under Secretary.
 
     (b) __Approval of Applications.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 120 days after the date of receipt of an application submitted by an airport operator under subsection (a), the Under Secretary shall approve or deny the application.
 
-        (2) __Standards.—__ 
+        (2)  __Standards__  __.—__ 
 
         The Under Secretary shall approve an application submitted by an airport operator under subsection (a) if the Under Secretary determines that the approval would not compromise security or detrimentally affect the cost-efficiency or the effectiveness of the screening of passengers or property at the airport.
 
         (3) __Reports on denials of applications.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Under Secretary denies an application submitted by an airport operator under subsection (a), the Under Secretary shall provide to the airport operator, not later than 60 days following the date of the denial, a written report that sets forth—
 
@@ -41,17 +41,17 @@
 
                 (iii) recommendations on how the airport operator can address the reasons for the denial.
 
-            (B) __Submission to congress.—__ 
+            (B)  __Submission to congress__  __.—__ 
 
             The Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
 
-    (c) __Qualified Private Screening Company.—__ 
+    (c)  __Qualified Private Screening Company__  __.—__ 
 
     A private screening company is qualified to provide screening services at an airport under this section if the company will only employ individuals to provide such services who meet all the requirements of this chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
 
     (d) __Standards for Private Screening Companies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary may enter into a contract with a private screening company to provide screening at an airport under this section only if the Under Secretary determines and certifies to Congress that—
 
@@ -59,19 +59,19 @@
 
             (B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
 
-        (2) __Waivers.—__ 
+        (2)  __Waivers__  __.—__ 
 
         The Under Secretary may waive the requirement of paragraph (1)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Under Secretary has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
-    (e) __Supervision of Screened Personnel.—__ 
+    (e)  __Supervision of Screened Personnel__  __.—__ 
 
     The Under Secretary shall provide Federal Government supervisors to oversee all screening at each airport at which screening services are provided under this section and provide Federal Government law enforcement officers at the airport pursuant to this chapter.
 
-    (f) __Termination of Contracts.—__ 
+    (f)  __Termination of Contracts__  __.—__ 
 
     The Under Secretary may terminate any contract entered into with a private screening company to provide screening services at an airport under this section if the Under Secretary finds that the company has failed repeatedly to comply with any standard, regulation, directive, order, law, or contract applicable to the hiring or training of personnel to provide such services or to the provision of screening at the airport.
 
-    (g) __Operator of Airport.—__ 
+    (g)  __Operator of Airport__  __.—__ 
 
     Notwithstanding any other provision of law, an operator of an airport shall not be liable for any claims for damages filed in State or Federal court (including a claim for compensatory, punitive, contributory, or indemnity damages) relating to—
 
@@ -87,7 +87,7 @@
 
         (3) Nothing in this section shall relieve any airport operator from liability for its own acts or omissions related to its security responsibilities, nor except as may be provided by the Support Anti-Terrorism by Fostering Effective Technologies Act of 2002 shall it relieve any qualified private screening company or its employees from any liability related to its own acts of negligence, gross negligence, or intentional wrongdoing.
 
-    (h) __Recommendations of Airport Operator.—__ 
+    (h)  __Recommendations of Airport Operator__  __.—__ 
 
     As part of any submission of an application for a private screening company to provide screening services at an airport, the airport operator shall provide to the Under Secretary a recommendation as to which company would best serve the security screening and passenger needs of the airport, along with a statement explaining the basis of the operator’s recommendation.
 

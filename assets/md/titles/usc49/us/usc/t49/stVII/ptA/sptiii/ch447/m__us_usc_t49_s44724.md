@@ -15,7 +15,7 @@
 
 ## § 44724. Manipulation of flight controls
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     No pilot in command of an aircraft may allow an individual who does not hold—
 
@@ -25,11 +25,11 @@
 
         to manipulate the controls of an aircraft if the pilot knows or should have known that the individual is attempting to set a record or engage in an aeronautical competition or aeronautical feat, as defined by the Administrator.
 
-    (b) __Revocation of Airmen Certificates.—__ 
+    (b)  __Revocation of Airmen Certificates__  __.—__ 
 
     The Administrator shall issue an order revoking a certificate issued to an airman under [section 44703 of this title][/us/usc/t49/s44703] if the Administrator finds that while acting as a pilot in command of an aircraft, the airman has permitted another individual to manipulate the controls of the aircraft in violation of subsection (a).
 
-    (c) __Pilot in Command Defined.—__ 
+    (c)  __Pilot in Command Defined__  __.—__ 
 
     In this section, the term “pilot in command” has the meaning given such term by section 1.1 of title 14, Code of Federal Regulations.
 

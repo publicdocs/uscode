@@ -15,17 +15,17 @@
 
 ## § 47134. Pilot program on private ownership of airports
 
-    (a) __Submission of Applications.—__ 
+    (a)  __Submission of Applications__  __.—__ 
 
     If a sponsor intends to sell or lease a general aviation airport or lease any other type of airport for a long term to a person (other than a public agency), the sponsor and purchaser or lessee may apply to the Secretary of Transportation for exemptions under this section.
 
-    (b) __Approval of Applications.—__ 
+    (b)  __Approval of Applications__  __.—__ 
 
     The Secretary may approve, with respect to not more than 10 airports, applications submitted under subsection (a) granting exemptions from the following provisions:
 
         (1) __Use of revenues.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary may grant an exemption to a sponsor from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the sponsor to recover from the sale or lease of the airport such amount as may be approved—
 
@@ -33,23 +33,23 @@
 
                 (ii) in the case of a nonprimary airport, by the Secretary after the airport has consulted with at least 65 percent of the owners of aircraft based at that airport, as determined by the Secretary.
 
-            (B) __Objection to exemption.—__ 
+            (B)  __Objection to exemption__  __.—__ 
 
             An air carrier shall be deemed to have approved a sponsor’s application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor’s application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
 
-            (C) __Landed weight defined.—__ 
+            (C)  __Landed weight defined__  __.—__ 
 
             In this paragraph, the term “landed weight” means the weight of aircraft transporting passengers or cargo, or both, in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
 
-        (2) __Repayment requirements.—__ 
+        (2)  __Repayment requirements__  __.—__ 
 
         The Secretary may grant an exemption to a sponsor from the provisions of sections 47107 and 47152 of this title (and any other law, regulation, or grant assurance) to the extent necessary to waive any obligation of the sponsor to repay to the Federal Government any grants, or to return to the Federal Government any property, received by the airport under this title, the Airport and Airway Improvement Act of 1982, or any other law.
 
-        (3) __Compensation from airport operations.—__ 
+        (3)  __Compensation from airport operations__  __.—__ 
 
         The Secretary may grant an exemption to a purchaser or lessee from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the purchaser or lessee to earn compensation from the operations of the airport.
 
-    (c) __Terms and Conditions.—__ 
+    (c)  __Terms and Conditions__  __.—__ 
 
     The Secretary may approve an application under subsection (b) only if the Secretary finds that the sale or lease agreement includes provisions satisfactory to the Secretary to ensure the following:
 
@@ -79,23 +79,23 @@
 
     (d) __Participation of Certain Airports.—__ 
 
-        (1) __General aviation airports.—__ 
+        (1)  __General aviation airports__  __.—__ 
 
         If the Secretary approves under subsection (b) applications with respect to 5 airports, one of the airports must be a general aviation airport.
 
-        (2) __Large hub airports.—__ 
+        (2)  __Large hub airports__  __.—__ 
 
         The Secretary may not approve under subsection (b) more than 1 application submitted by an airport that had 1 percent or more of the total passenger boardings (as defined in section 47102) in the United States in the preceding calendar year.
 
-    (e) __Required Finding That Approval Will Not Result in Unfair Methods of Competition.—__ 
+    (e)  __Required Finding That Approval Will Not Result in Unfair Methods of Competition__  __.—__ 
 
     The Secretary may approve an application under subsection (b) only if the Secretary finds that the approval will not result in unfair and deceptive practices or unfair methods of competition.
 
-    (f) __Interests of General Aviation Users.—__ 
+    (f)  __Interests of General Aviation Users__  __.—__ 
 
     In approving an application of an airport under this section, the Secretary shall ensure that the interests of general aviation users of the airport are not adversely affected.
 
-    (g) __Passenger Facility Fees; Apportionments; Service Charges.—__ 
+    (g)  __Passenger Facility Fees; Apportionments; Service Charges__  __.—__ 
 
     Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
 
@@ -105,27 +105,27 @@
 
         (3) collecting reasonable rental charges, landing fees, and other service charges from aircraft operators under [section 40116(e)(2) of this title][/us/usc/t49/s40116/e/2].
 
-    (h) __Effectiveness of Exemptions.—__ 
+    (h)  __Effectiveness of Exemptions__  __.—__ 
 
     An exemption granted under subsection (b) shall continue in effect only so long as the facilities sold or leased continue to be used for airport purposes.
 
-    (i) __Revocation of Exemptions.—__ 
+    (i)  __Revocation of Exemptions__  __.—__ 
 
     The Secretary may revoke an exemption issued to a purchaser or lessee of an airport under subsection (b)(3) if, after providing the purchaser or lessee with notice and an opportunity to be heard, the Secretary determines that the purchaser or lessee has knowingly violated any of the terms specified in subsection (c) for the sale or lease of the airport.
 
-    (j) __Nonapplication of Provisions to Airports Owned by Public Agencies.—__ 
+    (j)  __Nonapplication of Provisions to Airports Owned by Public Agencies__  __.—__ 
 
     The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
-    (k) __Audits.—__ 
+    (k)  __Audits__  __.—__ 
 
     The Secretary may conduct periodic audits of the financial records and operations of an airport receiving an exemption under this section.
 
-    (l) __Report.—__ 
+    (l)  __Report__  __.—__ 
 
     Not later than 2 years after the date of the initial approval of an application under this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on implementation of the program under this section.
 
-    (m) __General Aviation Airport Defined.—__ 
+    (m)  __General Aviation Airport Defined__  __.—__ 
 
     In this section, the term “general aviation airport” means an airport that is not a commercial service airport.
 

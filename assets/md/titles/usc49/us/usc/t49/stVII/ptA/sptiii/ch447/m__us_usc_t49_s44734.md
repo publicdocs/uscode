@@ -15,7 +15,7 @@
 
 ## § 44734. Training of flight attendants
 
-    (a) __Training Required.—__ 
+    (a)  __Training Required__  __.—__ 
 
     In addition to other training required under this chapter, each air carrier shall provide to flight attendants employed or contracted by such air carrier initial and annual training regarding—
 
@@ -25,19 +25,19 @@
 
         (3) dealing with disruptive passengers.
 
-    (b) __Situational Training.—__ 
+    (b)  __Situational Training__  __.—__ 
 
     In carrying out the training required under subsection (a), each air carrier shall provide to flight attendants situational training on the proper method for dealing with intoxicated passengers who act in a belligerent manner.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Air carrier.—__ 
+        (1)  __Air carrier__  __.—__ 
 
         The term “air carrier” means a person, including a commercial enterprise, that has been issued an air carrier operating certificate under section 44705.
 
-        (2) __Flight attendant.—__ 
+        (2)  __Flight attendant__  __.—__ 
 
         The term “flight attendant” has the meaning given that term in section 44728(g).
 

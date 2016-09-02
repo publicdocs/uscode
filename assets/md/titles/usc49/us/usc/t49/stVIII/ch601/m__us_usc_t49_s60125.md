@@ -17,25 +17,25 @@
 
     (a) __Gas and Hazardous Liquid.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants.
 
-        (2) __Trust fund amounts.—__ 
+        (2)  __Trust fund amounts__  __.—__ 
 
         In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated for each of fiscal years 2012 through 2015 from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 ([49 U.S.C. 60101][/us/usc/t49/s60101] note; [Public Law 107–355][/us/pl/107/355]), $18,573,000, of which $2,174,000 is for carrying out such section 12 and $4,558,000 is for making grants.
 
     (b) __Emergency Response Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may establish a program for making grants to State, county, and local governments in high consequence areas, as defined by the Secretary, for emergency response management, training, and technical assistance. To the extent that such grants are used to train emergency responders, such training shall ensure that emergency responders have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving gas or hazardous liquid pipelines, in accordance with existing regulations.
 
-        (2) __Authorization of appropriations.—__ 
+        (2)  __Authorization of appropriations__  __.—__ 
 
         There is authorized to be appropriated $10,000,000 for each of fiscal years 2012 through 2015 to carry out this subsection.
 
-    (c) __Crediting Appropriations for Expenditures for Training.—__ 
+    (c)  __Crediting Appropriations for Expenditures for Training__  __.—__ 
 
     The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 

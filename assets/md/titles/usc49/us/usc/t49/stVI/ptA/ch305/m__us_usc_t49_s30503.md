@@ -15,11 +15,11 @@
 
 ## § 30503. State participation
 
-    (a) __State Information.—__ 
+    (a)  __State Information__  __.—__ 
 
     Each State shall make titling information maintained by that State available for use in operating the National Motor Vehicle Title Information System established or designated under [section 30502 of this title][/us/usc/t49/s30502].
 
-    (b) __Verification Checks.—__ 
+    (b)  __Verification Checks__  __.—__ 
 
     Each State shall establish a practice of performing an instant title verification check before issuing a certificate of title to an individual or entity claiming to have purchased an automobile from an individual or entity in another State. The check shall consist of—
 
@@ -35,7 +35,7 @@
 
         (2) giving the operator an opportunity to communicate to the participating State the results of a search of the information.
 
-    (c) __Grants to States.—__ 
+    (c)  __Grants to States__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (2) The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.
 
-    (d) __Report to Congress.—__ 
+    (d)  __Report to Congress__  __.—__ 
 
     Not later than October 1, 1998, the Attorney General shall report to Congress on which States have met the requirements of this section. If a State has not met the requirements, the Attorney General shall describe the impediments that have resulted in the State’s failure to meet the requirements.
 

@@ -15,15 +15,15 @@
 
 ## § 351. Judicial review of actions in carrying out certain transferred duties and powers
 
-    (a) __Judicial Review.—__ 
+    (a)  __Judicial Review__  __.—__ 
 
     An action of the Secretary of Transportation in carrying out a duty or power transferred under the Department of Transportation Act ([Public Law 89–670][/us/pl/89/670], [80 Stat. 931][/us/stat/80/931]), or an action of the Administrator of the Federal Railroad Administration, the Federal Motor Carrier Safety Administration, or the Federal Aviation Administration in carrying out a duty or power specifically assigned to the Administrator by that Act, may be reviewed judicially to the same extent and in the same way as if the action had been an action by the department, agency, or instrumentality of the United States Government carrying out the duty or power immediately before the transfer or assignment.
 
-    (b) __Application of Procedural Requirements.—__ 
+    (b)  __Application of Procedural Requirements__  __.—__ 
 
     A statutory requirement related to notice, an opportunity for a hearing, action on the record, or administrative review that applied to a duty or power transferred by the Act applies to the Secretary or Administrator when carrying out the duty or power.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     This section does not apply to a duty or power transferred from the Interstate Commerce Commission to the Secretary under section 6(e)(1)–(4) and (6)(A) of the Act.
 

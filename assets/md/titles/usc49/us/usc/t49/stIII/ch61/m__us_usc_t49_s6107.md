@@ -15,11 +15,11 @@
 
 ## § 6107. Authorization of appropriations
 
-    (a) __For Grants to States.—__ 
+    (a)  __For Grants to States__  __.—__ 
 
     There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
 
-    (b) __For Administration.—__ 
+    (b)  __For Administration__  __.—__ 
 
     There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.
 

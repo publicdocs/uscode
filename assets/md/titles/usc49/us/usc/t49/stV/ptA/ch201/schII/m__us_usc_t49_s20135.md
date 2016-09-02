@@ -15,11 +15,11 @@
 
 ## § 20135. Licensing or certification of locomotive operators
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations and issue orders to establish a program requiring the licensing or certification, after one year after the program is established, of any operator of a locomotive.
 
-    (b) __Program Requirements.—__ 
+    (b)  __Program Requirements__  __.—__ 
 
     The program established under subsection (a) of this section—
 
@@ -47,7 +47,7 @@
 
             (B) to make the request provided for in [section 30305(b)(4) of this title][/us/usc/t49/s30305/b/4] for information to be sent to the individual’s employer, prospective employer, or the Secretary, as the Secretary requires.
 
-    (c) __Waivers.—__ 
+    (c)  __Waivers__  __.—__ 
 
         (1) The Secretary shall prescribe standards and establish procedures for waiving subsection (b)(4) of this section for an individual or class of individuals who the Secretary decides are not currently unfit to operate a locomotive. However, the Secretary may waive subsection (b)(4) for an individual or class of individuals with a conviction, cancellation, revocation, or suspension described in paragraph (2)(A) or (B) of this subsection only if the individual or class, after the conviction, cancellation, revocation, or suspension, successfully completes a rehabilitation program established by a railroad carrier or approved by the Secretary.
 
@@ -59,11 +59,11 @@
 
             (B) the cancellation, revocation, or suspension of the individual’s motor vehicle operator’s license for operating a motor vehicle when under the influence of, or impaired by, alcohol or a controlled substance.
 
-    (d) __Opportunity for Hearing.—__ 
+    (d)  __Opportunity for Hearing__  __.—__ 
 
     An individual denied a license or certification or whose license or certification is conditioned on requirements prescribed under subsection (b)(4) of this section shall be entitled to a hearing under [section 20103(e) of this title][/us/usc/t49/s20103/e] to decide whether the license has been properly denied or conditioned.
 
-    (e) __Opportunity to Examine and Comment on Information.—__ 
+    (e)  __Opportunity to Examine and Comment on Information__  __.—__ 
 
     The Secretary, employer, or prospective employer, as appropriate, shall make information obtained under subsection (b)(6) of this section available to the individual. The individual shall be given an opportunity to comment in writing about the information. Any comment shall be included in any record or file maintained by the Secretary, employer, or prospective employer that contains information to which the comment is related.
 

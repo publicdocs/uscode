@@ -15,25 +15,25 @@
 
 ## § 28103. Limitations on rail passenger transportation liability
 
-    (a) __Limitations.—__ 
+    (a)  __Limitations__  __.—__ 
 
         (1) Notwithstanding any other statutory or common law or public policy, or the nature of the conduct giving rise to damages or liability, in a claim for personal injury to a passenger, death of a passenger, or damage to property of a passenger arising from or in connection with the provision of rail passenger transportation, or from or in connection with any rail passenger transportation operations over or rail passenger transportation use of right-of-way or facilities owned, leased, or maintained by any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State, punitive damages, to the extent permitted by applicable State law, may be awarded in connection with any such claim only if the plaintiff establishes by clear and convincing evidence that the harm that is the subject of the action was the result of conduct carried out by the defendant with a conscious, flagrant indifference to the rights or safety of others. If, in any case wherein death was caused, the law of the place where the act or omission complained of occurred provides, or has been construed to provide, for damages only punitive in nature, this paragraph shall not apply.
 
         (2) The aggregate allowable awards to all rail passengers, against all defendants, for all claims, including claims for punitive damages, arising from a single accident or incident, shall not exceed $200,000,000.
 
-    (b) __Contractual Obligations.—__ 
+    (b)  __Contractual Obligations__  __.—__ 
 
     A provider of rail passenger transportation may enter into contracts that allocate financial responsibility for claims.
 
-    (c) __Mandatory Coverage.—__ 
+    (c)  __Mandatory Coverage__  __.—__ 
 
     Amtrak shall maintain a total minimum liability coverage for claims through insurance and self-insurance of at least $200,000,000 per accident or incident.
 
-    (d) __Effect on Other Laws.—__ 
+    (d)  __Effect on Other Laws__  __.—__ 
 
     This section shall not affect the damages that may be recovered under the Act of April 27, 1908 ([45 U.S.C. 51][/us/usc/t45/s51] et seq.; popularly known as the “Federal Employers’ Liability Act”) or under any workers compensation Act.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     For purposes of this section—
 

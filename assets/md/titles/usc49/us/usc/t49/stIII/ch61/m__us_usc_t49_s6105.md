@@ -15,25 +15,25 @@
 
 ## § 6105. Implementation of best practices guidelines
 
-    (a) __Adoption of Best Practices.—__ 
+    (a)  __Adoption of Best Practices__  __.—__ 
 
     The Secretary of Transportation shall encourage States, operators of one-call notification programs, excavators (including all government and contract excavators), and underground facility operators to adopt and implement practices identified in the best practices report entitled “Common Ground”, as periodically updated.
 
-    (b) __Technical Assistance.—__ 
+    (b)  __Technical Assistance__  __.—__ 
 
     The Secretary shall provide technical assistance to and participate in programs sponsored by a non-profit organization specifically established for the purpose of reducing construction-related damage to underground facilities.
 
     (c) __Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make grants to a non-profit organization described in subsection (b).
 
-        (2) __Authorization of appropriations.—__ 
+        (2)  __Authorization of appropriations__  __.—__ 
 
         In addition to amounts authorized under section 6107, there is authorized to be appropriated for making grants under this subsection $500,000 for each of fiscal years 2003 through 2006. Such sums shall remain available until expended.
 
-        (3) __General revenue funding.—__ 
+        (3)  __General revenue funding__  __.—__ 
 
         Any sums appropriated under this subsection shall be derived from general revenues and may not be derived from amounts collected under section 60301.
 

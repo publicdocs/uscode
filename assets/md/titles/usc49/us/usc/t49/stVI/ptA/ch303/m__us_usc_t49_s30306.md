@@ -15,11 +15,11 @@
 
 ## § 30306. National Driver Register Advisory Committee
 
-    (a) __Organization.—__ 
+    (a)  __Organization__  __.—__ 
 
     There is a National Driver Register Advisory Committee.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Committee shall advise the Secretary of Transportation on—
 
@@ -27,7 +27,7 @@
 
         (2) the effectiveness of the Register in assisting States in exchanging information about motor vehicle driving records.
 
-    (c) __Composition and Appointment.—__ 
+    (c)  __Composition and Appointment__  __.—__ 
 
     The Committee is composed of 15 members appointed by the Secretary as follows:
 
@@ -37,17 +37,17 @@
 
         (3) 9 members, geographically representative of the participating States, appointed from among individuals who are chief driver licensing officials of participating States.
 
-    (d) __Terms.—__ 
+    (d)  __Terms__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, the term of each member is 3 years.
 
         (2) A vacancy on the Committee shall be filled in the same way as an original appointment. A member appointed to fill a vacancy serves for the remainder of the term of that member’s predecessor. After a member’s term ends, the member may continue to serve until a successor takes office.
 
-    (e) __Pay and Expenses.—__ 
+    (e)  __Pay and Expenses__  __.—__ 
 
     Members of the Committee serve without pay. However, the Secretary may reimburse a member for reasonable travel expenses incurred by the member in attending meetings of the Committee.
 
-    (f) __Meetings, Chairman, Vice Chairman, and Quorum.—__ 
+    (f)  __Meetings, Chairman, Vice Chairman, and Quorum__  __.—__ 
 
         (1) The Committee shall meet at least once a year.
 
@@ -57,15 +57,15 @@
 
         (4) The Committee shall meet at the call of the Chairman or a majority of the members.
 
-    (g) __Personnel and Services.—__ 
+    (g)  __Personnel and Services__  __.—__ 
 
     The Secretary may provide the Committee with personnel, penalty mail privileges, and similar services the Secretary considers necessary to assist the Committee in carrying out its duties and powers under this section.
 
-    (h) __Reports.—__ 
+    (h)  __Reports__  __.—__ 
 
     At least once a year, the Committee shall submit to the Secretary a report on the matters specified in subsection (b) of this section. The report shall include any recommendations of the Committee for changes in the Register.
 
-    (i) __Relationship to Other Laws.—__ 
+    (i)  __Relationship to Other Laws__  __.—__ 
 
     The Committee is exempt from sections 10(e) and (f) and 14 of the Federal Advisory Committee Act (5 App. U.S.C.).
 

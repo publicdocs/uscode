@@ -15,7 +15,7 @@
 
 ## § 47121. Records and audits
 
-    (a) __Records.—__ 
+    (a)  __Records__  __.—__ 
 
     A sponsor shall keep the records the Secretary of Transportation requires. The Secretary may require records—
 
@@ -31,23 +31,23 @@
 
         (2) that make it easier to carry out an audit.
 
-    (b) __Audits and Examinations.—__ 
+    (b)  __Audits and Examinations__  __.—__ 
 
     The Secretary and the Comptroller General may audit and examine records of a sponsor that are related to a grant made under this subchapter.
 
-    (c) __Authority of Comptroller General.—__ 
+    (c)  __Authority of Comptroller General__  __.—__ 
 
     When an independent audit is made of the accounts of a sponsor under this subchapter related to the disposition of the proceeds of the grant or related to the plan or program for which the grant was given or used, the sponsor shall submit a certified copy of the audit to the Secretary not more than 6 months after the end of the fiscal year for which the audit was made. The Comptroller General may report to Congress describing the results of each audit conducted or reviewed by the Comptroller General under this section during the prior fiscal year.
 
-    (d) __Audit Requirement.—__ 
+    (d)  __Audit Requirement__  __.—__ 
 
     The Secretary may require a sponsor to conduct an appropriate audit as a condition for receiving a grant under this subchapter.
 
-    (e) __Annual Review.—__ 
+    (e)  __Annual Review__  __.—__ 
 
     The Secretary shall review annually the recordkeeping and reporting requirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
 
-    (f) __Withholding Information From Congress.—__ 
+    (f)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize the Secretary or the Comptroller General to withhold information from a committee of Congress authorized to have the information.
 

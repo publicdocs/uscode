@@ -15,7 +15,7 @@
 
 ## § 5336. Apportionment of appropriations for formula grants
 
-    (a) __Based on Urbanized Area Population.—__ 
+    (a)  __Based on Urbanized Area Population__  __.—__ 
 
     Of the amount apportioned under subsection (h)(4) to carry out section 5307—
 
@@ -29,7 +29,7 @@
 
         (2) 90.68 percent shall be apportioned each fiscal year only in urbanized areas with populations of at least 200,000 as provided in subsections (b) and (c) of this section.
 
-    (b) __Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Passenger Miles.—__ 
+    (b)  __Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Passenger Miles__  __.—__ 
 
         (1) In this subsection, “fixed guideway vehicle revenue miles” and “fixed guideway directional route miles” include passenger ferry operations directly or under contract by the designated recipient.
 
@@ -63,7 +63,7 @@
 
             (E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 22.27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
 
-    (c) __Based on Bus Vehicle Revenue Miles and Passenger Miles.—__ 
+    (c)  __Based on Bus Vehicle Revenue Miles and Passenger Miles__  __.—__ 
 
     Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
 
@@ -99,7 +99,7 @@
 
             (B) the total number of bus passenger miles traveled multiplied by the total number of bus passenger miles traveled for each dollar of operating cost in all areas.
 
-    (d) __Date of Apportionment.—__ 
+    (d)  __Date of Apportionment__  __.—__ 
 
     The Secretary shall—
 
@@ -107,11 +107,11 @@
 
         (2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
 
-    (e) __Amounts Not Apportioned to Designated Recipients.—__ 
+    (e)  __Amounts Not Apportioned to Designated Recipients__  __.—__ 
 
     The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient, as defined in section 5302(4).
 
-    (f) __Transfers of Apportionments.—__ 
+    (f)  __Transfers of Apportionments__  __.—__ 
 
         (1) The Governor of a State may transfer any part of the State’s apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
@@ -123,11 +123,11 @@
 
         (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
-    (g) __Period of Availability to Recipients.—__ 
+    (g)  __Period of Availability to Recipients__  __.—__ 
 
     An amount apportioned under this section may be obligated by the recipient for 5 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 5-year period, an amount that is not obligated at the end of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
 
-    (h) __Apportionments.—__ 
+    (h)  __Apportionments__  __.—__ 
 
     Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
 
@@ -143,15 +143,15 @@
 
     (i) __Small Transit Intensive Cities Formula.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Eligible area.—__ 
+            (A)  __Eligible area__  __.—__ 
 
             The term “eligible area” means an urbanized area with a population of less than 200,000 that meets or exceeds in one or more performance categories the industry average for all urbanized areas with a population of at least 200,000 but not more than 999,999, as determined by the Secretary in accordance with subsection (c)(2).
 
-            (B) __Performance category.—__ 
+            (B)  __Performance category__  __.—__ 
 
             The term “performance category” means each of the following:
 
@@ -169,7 +169,7 @@
 
         (2) __Apportionment.—__ 
 
-            (A) __Apportionment formula.—__ 
+            (A)  __Apportionment formula__  __.—__ 
 
             The amount to be apportioned under subsection (h)(3) shall be apportioned among eligible areas in the ratio that—
 
@@ -177,11 +177,11 @@
 
                 (ii) the aggregate number of performance categories for which all eligible areas meet or exceed the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999.
 
-            (B) __Data used in formula.—__ 
+            (B)  __Data used in formula__  __.—__ 
 
             The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
-    (j) __Apportionment Formula.—__ 
+    (j)  __Apportionment Formula__  __.—__ 
 
     The amounts apportioned under subsection (h)(2) shall be apportioned among urbanized areas as follows:
 

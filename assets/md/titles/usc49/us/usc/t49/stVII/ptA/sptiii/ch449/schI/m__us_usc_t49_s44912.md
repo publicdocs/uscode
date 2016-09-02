@@ -15,7 +15,7 @@
 
 ## § 44912. Research and development
 
-    (a) __Program Requirement.—__ 
+    (a)  __Program Requirement__  __.—__ 
 
         (1) The Under Secretary of Transportation for Security shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
 
@@ -55,7 +55,7 @@
 
             (B) make cooperative agreements with governmental authorities the Under Secretary decides are appropriate.
 
-    (b) __Review of Threats.—__ 
+    (b)  __Review of Threats__  __.—__ 
 
         (1)
 
@@ -85,7 +85,7 @@
 
         (2) The Under Secretary shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
 
-    (c) __Scientific Advisory Panel.—__ 
+    (c)  __Scientific Advisory Panel__  __.—__ 
 
         (1) The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering, and Development Advisory Committee, to review, comment on, advise the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft, commercial aviation facilities, commercial aviation personnel and passengers, and other components of the commercial aviation system by the next generation of terrorist weapons.
 
@@ -251,7 +251,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(3)–(8); added Nov. 
 
 [Pub. L. 107–71, title I, § 137][/us/pl/107/71/s137], Nov. 19, 2001, [115 Stat. 637][/us/stat/115/637], as amended by [Pub. L. 110–53, title XVI, § 1608][/us/pl/110/53/s1608], Aug. 3, 2007, [121 Stat. 484][/us/stat/121/484], provided that:
 
->     “(a) __Funding.—__ 
+>     “(a)  __Funding__  __.—__ 
 
 >     To augment the programs authorized in [section 44912(a)(1) of title 49][/us/usc/t49/s44912/a/1], United States Code, there is authorized to be appropriated an additional $50,000,000 for each of fiscal years 2006 through 2011 and such sums as are necessary for each fiscal year thereafter to the Transportation Security Administration, for research, development, testing, and evaluation of the following technologies which may enhance transportation security in the future. Grants to industry, academia, and Government entities to carry out the provisions of this section shall be available for fiscal years 2006 through 2011 for—
 
@@ -277,15 +277,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 316(d)(3)–(8); added Nov. 
 
 >         “(7) acceleration of research, development, testing, and evaluation of aircraft hardening materials, and techniques to reduce the vulnerability of aircraft to terrorist attack.
 
->     “(b) __Grants.—__ 
+>     “(b)  __Grants__  __.—__ 
 
 >     Grants awarded under this subtitle \[probably should be “this section”\] shall identify potential outcomes of the research, and propose a method for quantitatively assessing effective increases in security upon completion of the research program. At the conclusion of each grant, the grant recipient shall submit a final report to the Transportation Security Administration that shall include sufficient information to permit the Under Secretary of Transportation for Security to prepare a cost-benefit analysis of potential improvements to airport security based upon deployment of the proposed technology. The Under Secretary shall begin awarding grants under this subtitle within 90 days of the date of enactment of this Act \[Nov. 19, 2001\].
 
->     “(c) __Budget Submission.—__ 
+>     “(c)  __Budget Submission__  __.—__ 
 
 >     A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grants awarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation’s annual budget submission.
 
->     “(d) __Defense Research.—__ 
+>     “(d)  __Defense Research__  __.—__ 
 
 >     There is authorized to be appropriated $20,000,000 to the Transportation Security Administration to issue research grants in conjunction with the Defense Advanced Research Projects Agency. Grants may be awarded under this section for—
 

@@ -15,15 +15,15 @@
 
 ## § 353. Toxicological testing of officers and employees
 
-    (a) __Collecting Specimens.—__ 
+    (a)  __Collecting Specimens__  __.—__ 
 
     When the Secretary of Transportation or the head of a component of the Department of Transportation conducts post-accident or post-incident toxicological testing of an officer or employee of the Department, the Secretary or head shall collect the specimen from the officer or employee as soon as practicable after the accident or incident. The Secretary or head shall try to collect the specimen not later than 4 hours after the accident or incident.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
     The head of each component shall submit a report to the Secretary on the circumstances about the amount of time required to collect the specimen for a toxicological test conducted on an officer or employee who is reasonably associated with the circumstances of an accident or incident under the investigative jurisdiction of the National Transportation Safety Board.
 
-    (c) __Noncompliance Not a Defense.—__ 
+    (c)  __Noncompliance Not a Defense__  __.—__ 
 
     An officer or employee required to submit to toxicological testing may not assert failure to comply with this section as a claim, cause of action, or defense in an administrative or judicial proceeding.
 

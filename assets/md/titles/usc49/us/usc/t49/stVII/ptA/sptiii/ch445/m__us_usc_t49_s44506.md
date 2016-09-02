@@ -15,7 +15,7 @@
 
 ## § 44506. Air traffic controllers
 
-    (a) __Research on Effect of Automation on Performance.—__ 
+    (a)  __Research on Effect of Automation on Performance__  __.—__ 
 
     To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
@@ -29,7 +29,7 @@
 
         (5) new technologies and procedures for exploiting automated communication systems, including Mode S Transponders, to improve information transfers between air traffic controllers and aircraft pilots.
 
-    (b) __Research on Human Factor Aspects of Automation.—__ 
+    (b)  __Research on Human Factor Aspects of Automation__  __.—__ 
 
     The Administrators of the Federal Aviation Administration and National Aeronautics and Space Administration may make an agreement for the use of the National Aeronautics and Space Administration’s unique human factor facilities and expertise in conducting research activities to study the human factor aspects of the highly automated environment for the next generation of air traffic controllers. The research activities shall include investigating—
 
@@ -39,7 +39,7 @@
 
         (3) air traffic controller workload and performance measures, including the development of predictive models.
 
-    (c) __Collegiate Training Initiative.—__ 
+    (c)  __Collegiate Training Initiative__  __.—__ 
 
         (1) The Administrator of the Federal Aviation Administration may maintain the Collegiate Training Initiative program by making new agreements and continuing existing agreements with institutions of higher education (as defined by the Administrator) under which the institutions prepare students for the position of air traffic controller with the Department of Transportation (as defined in [section 2109 of title 5][/us/usc/t5/s2109]). The Administrator may establish standards for the entry of institutions into the program and for their continued participation.
 
@@ -51,7 +51,7 @@
 
     (d) __Air Traffic Control Specialist Qualification Training.—__ 
 
-        (1) __Appointment of air traffic control specialists.—__ 
+        (1)  __Appointment of air traffic control specialists__  __.—__ 
 
         The Administrator is authorized to appoint a qualified air traffic control specialist candidate for placement in an airport traffic control facility if the candidate has—
 
@@ -59,25 +59,25 @@
 
             (B) satisfied all other applicable qualification requirements for an air traffic control specialist position, including successful completion of orientation training at the Federal Aviation Administration Academy.
 
-        (2) __Compensation and benefits.—__ 
+        (2)  __Compensation and benefits__  __.—__ 
 
         An individual appointed under paragraph (1) shall receive the same compensation and benefits, and be treated in the same manner as, any other individual appointed as a developmental air traffic controller.
 
-        (3) __Report.—__ 
+        (3)  __Report__  __.—__ 
 
         Not later than 2 years after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall submit to Congress a report that evaluates the effectiveness of the air traffic control specialist qualification training provided pursuant to this section, including the graduation rates of candidates who received a CTO certificate and are working in airport traffic control facilities.
 
-        (4) __Additional appointments.—__ 
+        (4)  __Additional appointments__  __.—__ 
 
         If the Administrator determines that air traffic control specialists appointed pursuant to this subsection are more successful in carrying out the duties of an air traffic controller than air traffic control specialists hired from the general public without any such certification, the Administrator shall increase, to the maximum extent practicable, the number of appointments of candidates who possess such certification.
 
         (5) __Reimbursement for travel expenses associated with certifications.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the Administrator may accept reimbursement from an educational entity that provides training to an air traffic control specialist candidate to cover reasonable travel expenses of the Administrator associated with issuing certifications to such candidates.
 
-            (B) __Treatment of reimbursements.—__ 
+            (B)  __Treatment of reimbursements__  __.—__ 
 
             Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any reimbursement authorized to be collected under subparagraph (A) shall—
 
@@ -87,7 +87,7 @@
 
                 (iii) remain available until expended.
 
-    (e) __Staffing Report.—__ 
+    (e)  __Staffing Report__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
@@ -249,21 +249,21 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 108–176, title II, § 221][/us/pl/108/176/s221], Dec. 12, 2003, [117 Stat. 2526][/us/stat/117/2526], provided that:
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     Beginning with the submission of the Budget of the United States to the Congress for fiscal year 2005, the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure that describes the overall air traffic controller staffing plan, including strategies to address anticipated retirement and replacement of air traffic controllers.
 
 >     “(b) __Human Capital Workforce Strategy.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         The Administrator shall develop a comprehensive human capital workforce strategy to determine the most effective method for addressing the need for more air traffic controllers that is identified in the June 2002 report of the General Accounting Office \[now Government Accountability Office\].
 
->         “(2) __Completion date.—__ 
+>         “(2)  __Completion date__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall complete development of the strategy.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 30 days after the date on which the strategy is completed, the Administrator shall transmit to Congress a report describing the strategy.”
 

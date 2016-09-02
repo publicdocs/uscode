@@ -15,7 +15,7 @@
 
 ## § 40111. Multiyear procurement contracts for services and related items
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Notwithstanding [section 1341(a)(1)(B) of title 31][/us/usc/t31/s1341/a/1/B], the Administrator of the Federal Aviation Administration may make a contract of not more than 5 years for the following types of services and items of supply related to those services for which amounts otherwise would be available for obligation only in the fiscal year for which appropriated:
 
@@ -27,7 +27,7 @@
 
         (4) base services, including ground maintenance, aircraft refueling, bus transportation, and refuse collection and disposal.
 
-    (b) __Required Findings.—__ 
+    (b)  __Required Findings__  __.—__ 
 
     The Administrator may make a contract under this section only if the Administrator finds that—
 
@@ -37,7 +37,7 @@
 
         (3) the contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operation.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     When making a contract under this section, the Administrator shall be guided by the following:
 
@@ -51,7 +51,7 @@
 
             (B) reserving in the Administrator the right, on payment of the unamortized part of the cost of the plant or equipment, to take title to the plant or equipment under appropriate circumstances.
 
-    (d) __Ending Contracts.—__ 
+    (d)  __Ending Contracts__  __.—__ 
 
     A contract made under this section shall be ended if amounts are not made available to continue the contract into a subsequent fiscal year. The cost of ending the contract may be paid from—
 

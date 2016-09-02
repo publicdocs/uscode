@@ -15,15 +15,15 @@
 
 ## § 31314. Withholding amounts for State noncompliance
 
-    (a) __First Fiscal Year.—__ 
+    (a)  __First Fiscal Year__  __.—__ 
 
     The Secretary of Transportation shall withhold up to 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of [section 31311(a) of this title][/us/usc/t49/s31311/a].
 
-    (b) __Second Fiscal Year.—__ 
+    (b)  __Second Fiscal Year__  __.—__ 
 
     The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) 1 of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of [section 31311(a) of this title][/us/usc/t49/s31311/a].
 
-    (c) __Penalties Imposed in Fiscal Year 2012 and Thereafter.—__ 
+    (c)  __Penalties Imposed in Fiscal Year __  __2012__  __ and Thereafter__  __.—__ 
 
     Effective beginning on October 1, 2011—
 
@@ -31,7 +31,7 @@
 
         (2) the penalty for subsequent instances of noncompliance shall be not more than an amount equal to 8 percent of funds required to be apportioned to the noncompliant State under paragraphs (1) and (2) of [section 104(b) of title 23][/us/usc/t23/s104/b].
 
-    (d) __Availability for Apportionment.—__ 
+    (d)  __Availability for Apportionment__  __.—__ 
 
     Amounts withheld under this section from apportionment to a State after September 30, 1995, are not available for apportionment to the State.
 

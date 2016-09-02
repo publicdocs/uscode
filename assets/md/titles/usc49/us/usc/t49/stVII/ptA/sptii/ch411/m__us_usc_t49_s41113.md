@@ -15,11 +15,11 @@
 
 ## § 41113. Plans to address needs of families of passengers involved in aircraft accidents
 
-    (a) __Submission of Plans.—__ 
+    (a)  __Submission of Plans__  __.—__ 
 
     Each air carrier holding a certificate of public convenience and necessity under [section 41102 of this title][/us/usc/t49/s41102] shall submit to the Secretary and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in any aircraft accident involving an aircraft of the air carrier and resulting in a major loss of life.
 
-    (b) __Contents of Plans.—__ 
+    (b)  __Contents of Plans__  __.—__ 
 
     A plan to be submitted by an air carrier under subsection (a) shall include, at a minimum, the following:
 
@@ -63,19 +63,19 @@
 
         (18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier’s flight if that city is located in the United States.
 
-    (c) __Certificate Requirement.—__ 
+    (c)  __Certificate Requirement__  __.—__ 
 
     The Secretary may not approve an application for a certificate of public convenience and necessity under [section 41102 of this title][/us/usc/t49/s41102] unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
 
-    (d) __Limitation on Liability.—__ 
+    (d)  __Limitation on Liability__  __.—__ 
 
     An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminary passenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
 
-    (e) __Aircraft Accident and Passenger Defined.—__ 
+    (e)  __Aircraft Accident and Passenger Defined__  __.—__ 
 
     In this section, the terms “aircraft accident” and “passenger” have the meanings such terms have in [section 1136 of this title][/us/usc/t49/s1136].
 
-    (f) __Statutory Construction.—__ 
+    (f)  __Statutory Construction__  __.—__ 
 
     Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
@@ -123,11 +123,11 @@
 
 [Pub. L. 104–264, title VII, § 704][/us/pl/104/264/s704], Oct. 9, 1996, [110 Stat. 3268][/us/stat/110/3268], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
->     “(b) __Guidelines and Recommendations.—__ 
+>     “(b)  __Guidelines and Recommendations__  __.—__ 
 
 >     The task force established pursuant to subsection (a) shall develop—
 
@@ -153,7 +153,7 @@
 
 >             “(D) an analysis of the implications for personal privacy that would result if air carriers were required to take the steps described in subparagraph (A).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall transmit to Congress a report containing the model plan and recommendations developed by the task force under subsection (b).”
 

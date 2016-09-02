@@ -15,15 +15,15 @@
 
 ## § 28102. Limit on certain accident or incident liability
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     When a publicly financed commuter transportation authority established under Virginia law makes a contract to indemnify Amtrak for liability for operations conducted by or for the authority or to indemnify a rail carrier over whose tracks those operations are conducted, liability against Amtrak, the authority, or the carrier for all claims (including punitive damages) arising from an accident or incident in the District of Columbia related to those operations may not be more than the limits of the liability coverage the authority maintains to indemnify Amtrak or the carrier.
 
-    (b) __Minimum Required Liability Coverage.—__ 
+    (b)  __Minimum Required Liability Coverage__  __.—__ 
 
     A publicly financed commuter transportation authority referred to in subsection (a) of this section must maintain a total minimum liability coverage of at least $200,000,000.
 
-    (c) __Effectiveness.—__ 
+    (c)  __Effectiveness__  __.—__ 
 
     This section is effective only after Amtrak or a rail carrier seeking an indemnification contract under this section makes an operating agreement with a publicly financed commuter transportation authority established under Virginia law to provide access to its property for revenue transportation related to the operations of the authority.
 

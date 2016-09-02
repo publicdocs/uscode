@@ -15,7 +15,7 @@
 
 ## § 21311. Records and reports
 
-    (a) __Records and Reports Under Chapter 201.—__ 
+    (a)  __Records and Reports Under Chapter__  __201.—__ 
 
     A person shall be fined under title 18, imprisoned for not more than 2 years, or both, if the person knowingly and willfully—
 
@@ -29,7 +29,7 @@
 
         (5) files a false record or report with the Secretary of Transportation.
 
-    (b) __Accident and Incident Reports.—__ 
+    (b)  __Accident and Incident Reports__  __.—__ 
 
     A railroad carrier not filing a report in violation of [section 20901 of this title][/us/usc/t49/s20901] shall be fined not more than $2,500. A separate violation occurs for each day the violation continues.
 

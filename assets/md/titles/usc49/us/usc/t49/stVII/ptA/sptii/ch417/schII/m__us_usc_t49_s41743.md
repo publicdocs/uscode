@@ -15,11 +15,11 @@
 
 ## § 41743. Airports not receiving sufficient service
 
-    (a) __Small Community Air Service Development Program.—__ 
+    (a)  __Small Community Air Service Development Program__  __.—__ 
 
     The Secretary of Transportation shall establish a program that meets the requirements of this section for improving air carrier service to airports not receiving sufficient air carrier service.
 
-    (b) __Application Required.—__ 
+    (b)  __Application Required__  __.—__ 
 
     In order to participate in the program established under subsection (a), a community or consortium of communities shall submit an application to the Secretary in such form, at such time, and containing such information as the Secretary may require, including—
 
@@ -27,11 +27,11 @@
 
         (2) an analysis of the application of the criteria in subsection (c) to that community or consortium.
 
-    (c) __Criteria for Participation.—__ 
+    (c)  __Criteria for Participation__  __.—__ 
 
     In selecting communities, or consortia of communities, for participation in the program established under subsection (a), the Secretary shall apply the following criteria:
 
-        (1) __Size.—__ 
+        (1)  __Size__  __.—__ 
 
         For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport, and—
 
@@ -39,19 +39,19 @@
 
             (B) had unreasonably high air fares.
 
-        (2) __Characteristics.—__ 
+        (2)  __Characteristics__  __.—__ 
 
         The airport presents characteristics, such as geographic diversity or unique circumstances, that will demonstrate the need for, and feasibility of, the program established under subsection (a).
 
-        (3) __State limit.—__ 
+        (3)  __State limit__  __.—__ 
 
         Not more than 4 communities or consortia of communities, or a combination thereof, from the same State may be selected to participate in the program in any fiscal year.
 
-        (4) __Overall limit.—__ 
+        (4)  __Overall limit__  __.—__ 
 
         No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program. No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.
 
-        (5) __Priorities.—__ 
+        (5)  __Priorities__  __.—__ 
 
         The Secretary shall give priority to communities or consortia of communities where—
 
@@ -67,7 +67,7 @@
 
             (F) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
 
-    (d) __Types of Assistance.—__ 
+    (d)  __Types of Assistance__  __.—__ 
 
     The Secretary may use amounts made available under this section—
 
@@ -79,19 +79,19 @@
 
     (e) __Authority To Make Agreements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make agreements to provide assistance under this section.
 
-        (2) __Authorization of appropriations.—__ 
+        (2)  __Authorization of appropriations__  __.—__ 
 
         There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2015 to carry out this section. Such sums shall remain available until expended.
 
-    (f) __Additional Action.—__ 
+    (f)  __Additional Action__  __.—__ 
 
     Under the program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports to facilitate joint-fare arrangements consistent with normal industry practice.
 
-    (g) __Designation of Responsible Official.—__ 
+    (g)  __Designation of Responsible Official__  __.—__ 
 
     The Secretary shall designate an employee of the Department of Transportation—
 
@@ -105,7 +105,7 @@
 
         (5) to provide policy recommendations to the Secretary and Congress that will ensure that small communities have access to quality, affordable air transportation services.
 
-    (h) __Air Service Development Zone.—__ 
+    (h)  __Air Service Development Zone__  __.—__ 
 
     The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 

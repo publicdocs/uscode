@@ -15,7 +15,7 @@
 
 ## § 20152. Notification of grade crossing problems
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall require each railroad carrier to—
 
@@ -47,7 +47,7 @@
 
             (C) the grade crossing number assigned for that crossing by the National Highway-Rail Crossing Inventory established by the Department of Transportation.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     The Secretary may waive the requirement that the telephone service be toll-free for Class II and Class III rail carriers if the Secretary determines that toll-free service would be cost prohibitive or unnecessary.
 

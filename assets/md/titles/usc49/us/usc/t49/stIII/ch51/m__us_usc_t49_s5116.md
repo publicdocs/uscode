@@ -15,7 +15,7 @@
 
 ## § 5116. Planning and training grants, monitoring, and review
 
-    (a) __Planning Grants.—__ 
+    (a)  __Planning Grants__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
 
-    (b) __Training Grants.—__ 
+    (b)  __Training Grants__  __.—__ 
 
         (1) The Secretary shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material. To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
@@ -95,23 +95,23 @@
 
             (E) other factors the Secretary decides are appropriate to carry out this subsection.
 
-    (c) __Compliance With Certain Law.—__ 
+    (c)  __Compliance With Certain Law__  __.—__ 
 
     The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001][/us/usc/t42/s11001], 11003).
 
-    (d) __Applications.—__ 
+    (d)  __Applications__  __.—__ 
 
     A State or Indian tribe interested in receiving a grant under this section shall submit an application to the Secretary. The application must be submitted at the time, and contain information, the Secretary requires by regulation to carry out the objectives of this section.
 
-    (e) __Government’s Share of Costs.—__ 
+    (e)  __Government’s Share of Costs__  __.—__ 
 
     A grant under this section is for 80 percent of the cost the State or Indian tribe incurs in the fiscal year to carry out the activity for which the grant is made. Amounts of the State or tribe under subsections (a)(2)(A) and (b)(2)(A) of this section are not part of the non-Government share under this subsection.
 
-    (f) __Monitoring and Technical Assistance.—__ 
+    (f)  __Monitoring and Technical Assistance__  __.—__ 
 
     In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
-    (g) __Delegation of Authority.—__ 
+    (g)  __Delegation of Authority__  __.—__ 
 
     To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
 
@@ -123,11 +123,11 @@
 
         (4) any other ministerial duty associated with grants under this section.
 
-    (h) __Minimizing Duplication of Effort and Expenses.—__ 
+    (h)  __Minimizing Duplication of Effort and Expenses__  __.—__ 
 
     The Secretaries of Transportation, Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
 
-    (i) __Annual Registration Fee Account and Its Uses.—__ 
+    (i)  __Annual Registration Fee Account and Its Uses__  __.—__ 
 
     The Secretary of the Treasury shall establish an account in the Treasury (to be known as the “Hazardous Materials Emergency Preparedness Fund”) into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under [section 5108(g)(2)(C) of this title][/us/usc/t49/s5108/g/2/C]. Without further appropriation, amounts in the account are available—
 
@@ -179,7 +179,7 @@
 
         (8) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 
-    (k) __Reports.—__ 
+    (k)  __Reports__  __.—__ 
 
     The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
 

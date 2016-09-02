@@ -25,7 +25,7 @@
 
         (3) “motor carrier of migrant workers” means a motor carrier of migrant workers subject to the jurisdiction of the Secretary of Transportation under [section 31502(c) of this title][/us/usc/t49/s31502/c].
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     This chapter only applies in carrying out sections 20302(a)(1)(B) and (C), (2), and (3), (c), and (d)(1) and 20303 and chapters 205 (except section 20504(b)), 211, 213 (in carrying out those sections and chapters), and 315 of this title.
 

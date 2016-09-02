@@ -15,11 +15,11 @@
 
 ## § 5115. Training curriculum for the public sector
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9605][/us/usc/t42/s9605]), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001][/us/usc/t42/s11001]), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     The curriculum maintained and updated under subsection (a) of this section—
 
@@ -35,7 +35,7 @@
 
         (2) may include recommendations on material appropriate for use in a recommended course described in clause (1)(B) of this subsection.
 
-    (c) __Training on Complying With Legal Requirements.—__ 
+    (c)  __Training on Complying With Legal Requirements__  __.—__ 
 
     A recommended course described in subsection (b)(1)(B) of this section shall provide the training necessary for public sector employees to comply with—
 
@@ -45,7 +45,7 @@
 
         (3) standards related to emergency response training prescribed by the National Fire Protection Association and such other voluntary consensus standard-setting organizations as the Secretary of Transportation determines appropriate.
 
-    (d) __Distribution and Publication.—__ 
+    (d)  __Distribution and Publication__  __.—__ 
 
     With the National Response Team—
 

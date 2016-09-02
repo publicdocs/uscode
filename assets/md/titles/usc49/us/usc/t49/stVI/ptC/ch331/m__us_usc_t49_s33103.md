@@ -15,11 +15,11 @@
 
 ## § 33103. Theft prevention standard for other lines
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Not later than October 25, 1994, the Secretary of Transportation shall prescribe a vehicle theft standard that conforms to the requirements of this chapter for covered major parts that manufacturers install in passenger motor vehicles (except light duty trucks) in not more than 50 percent of the lines not designated under [section 33104 of this title][/us/usc/t49/s33104] as high theft lines.
 
-    (b) __Extension of Application.—__ 
+    (b)  __Extension of Application__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (2) The Secretary shall include as part of the regulatory proceeding under this subsection the finding of, and the record developed by, the Attorney General under subsection (c) of this section.
 
-    (c) __Initial Review of Effectiveness.—__ 
+    (c)  __Initial Review of Effectiveness__  __.—__ 
 
     Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
 
-    (d) __Long Range Review of Effectiveness.—__ 
+    (d)  __Long Range Review of Effectiveness__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (3) In making a finding under paragraph (1)(B) of this subsection, the Secretary shall consider the additional cost, competition, and available alternatives. If the Attorney General finds that the anti-theft devices are an effective substitute, the Secretary shall continue to grant exemptions under [section 33106 of this title][/us/usc/t49/s33106] for the model years after model year 2000 at one of the following levels that the Attorney General decides: at the level authorized before October 25, 1992, or at the level provided in [section 33106(b)(2)(C) of this title][/us/usc/t49/s33106/b/2/C] for model year 2000.
 
-    (e) __Effective Date of Standard.—__ 
+    (e)  __Effective Date of Standard__  __.—__ 
 
     A standard prescribed under this section takes effect at least 6 months after the date the standard is prescribed, except that the Secretary may prescribe an earlier effective date if the Secretary—
 
@@ -73,7 +73,7 @@
 
         (2) publishes the reasons for the decision.
 
-    (f) __Notification of Congress.—__ 
+    (f)  __Notification of Congress__  __.—__ 
 
     The Secretary and the Attorney General shall inform the appropriate legislative committees of Congress with jurisdiction over this part and [section 2322 of title 18][/us/usc/t18/s2322] of actions taken or planned under this section.
 

@@ -15,7 +15,7 @@
 
 ## § 33105. Cost limitations
 
-    (a) __Maximum Manufacturer Costs.—__ 
+    (a)  __Maximum Manufacturer Costs__  __.—__ 
 
     A standard under section 33102 or 33103 of this title may not impose—
 
@@ -23,7 +23,7 @@
 
         (2) on a manufacturer of major replacement parts, compliance costs for each part of more than the reasonable amount (but less than $15) that the Secretary of Transportation specifies in the standard.
 
-    (b) __Costs Involved in Engines and Transmissions.—__ 
+    (b)  __Costs Involved in Engines and Transmissions__  __.—__ 
 
     For a manufacturer engaged in identifying engines or transmissions on October 25, 1984, in a way that substantially complies with the standard—
 
@@ -31,7 +31,7 @@
 
         (2) the manufacturer may not be required under the standard to conform to any identification system for engines and transmissions that imposes greater costs on the manufacturer than are incurred under the identification system used by the manufacturer on October 25, 1984.
 
-    (c) __Cost Adjustments.—__ 
+    (c)  __Cost Adjustments__  __.—__ 
 
         (1)
 

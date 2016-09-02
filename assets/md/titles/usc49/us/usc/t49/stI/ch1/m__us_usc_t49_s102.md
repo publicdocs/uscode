@@ -31,7 +31,7 @@
 
     (e) __Assistant Secretaries; General Counsel.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The Department has 5 Assistant Secretaries and a General Counsel, including—
 
@@ -43,29 +43,29 @@
 
             (D) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
 
-        (2) __Duties and powers.—__ 
+        (2)  __Duties and powers__  __.—__ 
 
         The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are absent or unable to serve, or when the offices of the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are vacant.
 
     (f) __Deputy Assistant Secretary for Tribal Government Affairs.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         In accordance with Federal policies promoting Indian self determination, the Department of Transportation shall have, within the office of the Secretary, a Deputy Assistant Secretary for Tribal Government Affairs appointed by the President to plan, coordinate, and implement the Department of Transportation policy and programs serving Indian tribes and tribal organizations and to coordinate tribal transportation programs and activities in all offices and administrations of the Department and to be a participant in any negotiated rulemaking relating to, or having an impact on, projects, programs, or funding associated with the tribal transportation program.
 
         (2) __Reservation of trust obligations.—__ 
 
-            (A) __Responsibility of secretary.—__ 
+            (A)  __Responsibility of secretary__  __.—__ 
 
             In carrying out this title, the Secretary shall be responsible to exercise the trust obligations of the United States to Indians and Indian tribes to ensure that the rights of a tribe or individual Indian are protected.
 
-            (B) __Preservation of united states responsibility.—__ 
+            (B)  __Preservation of united states responsibility__  __.—__ 
 
             Nothing in this title shall absolve the United States from any responsibility to Indians and Indian tribes, including responsibilities derived from the trust relationship and any treaty, executive order, or agreement between the United States and an Indian tribe.
 
     (g) __Office of Climate Change and Environment.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the Department an Office of Climate Change and Environment to plan, coordinate, and implement—
 
@@ -73,7 +73,7 @@
 
             (B) department-wide research strategies and actions to address the impacts of climate change on transportation systems and infrastructure.
 
-        (2) __Clearinghouse.—__ 
+        (2)  __Clearinghouse__  __.—__ 
 
         The Office shall establish a clearinghouse of solutions, including cost-effective congestion reduction approaches, to reduce air pollution and transportation-related energy use and mitigate the effects of climate change.
 
@@ -243,21 +243,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
 [Pub. L. 109–59, title V, § 5510][/us/pl/109/59/s5510], Aug. 10, 2005, [119 Stat. 1828][/us/stat/119/1828], provided that:
 
->     “(a) __Notice of Reprogramming.—__ 
+>     “(a)  __Notice of Reprogramming__  __.—__ 
 
 >     If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
->     “(b) __Notice of Reorganization.—__ 
+>     “(b)  __Notice of Reorganization__  __.—__ 
 
 >     On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
 [Pub. L. 105–178, title V, § 5003][/us/pl/105/178/s5003], June 9, 1998, [112 Stat. 422][/us/stat/112/422], provided that:
 
->     “(a) __Notice of Reprogramming.—__ 
+>     “(a)  __Notice of Reprogramming__  __.—__ 
 
 >     If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
->     “(b) __Notice of Reorganization.—__ 
+>     “(b)  __Notice of Reorganization__  __.—__ 
 
 >     On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department of Transportation for which funds are authorized by this title or the amendments made by this title, the Secretary shall provide notice of such reorganization to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
@@ -265,11 +265,11 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
 [Pub. L. 102–240, title V, § 5004][/us/pl/102/240/s5004], Dec. 18, 1991, [105 Stat. 2160][/us/stat/105/2160], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall enter into an agreement with the National Academy of Public Administration to continue a study of options for organizing the Department of Transportation to increase the effectiveness of program delivery, reduce costs, and improve intermodal coordination among surface transportation-related agencies.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall report to Congress on the findings of the study continued under subsection (a) and recommend appropriate organizational changes no later than January 1, 1993. No organizational changes shall be implemented until such changes are approved by law.”
 

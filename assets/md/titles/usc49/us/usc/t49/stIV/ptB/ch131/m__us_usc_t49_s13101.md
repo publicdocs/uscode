@@ -15,7 +15,7 @@
 
 ## § 13101. Transportation policy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the United States Postal Service and national defense, it is the policy of the United States Government to oversee the modes of transportation and—
 
@@ -73,7 +73,7 @@
 
         (4) in overseeing transportation by water carrier, to encourage and promote service and price competition in the noncontiguous domestic trade.
 
-    (b) __Administration To Carry Out Policy.—__ 
+    (b)  __Administration To Carry Out Policy__  __.—__ 
 
     This part shall be administered and enforced to carry out the policy of this section and to promote the public interest.
 

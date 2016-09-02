@@ -15,7 +15,7 @@
 
 ## § 32901. Definitions
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In this chapter—
 
@@ -137,11 +137,11 @@
 
             (B) is not a medium-duty passenger vehicle (as defined in section 86.1803–01 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of the Ten-in-Ten Fuel Economy Act).
 
-    (b) __Authority To Change Percentage.—__ 
+    (b)  __Authority To Change Percentage__  __.—__ 
 
     The Secretary may prescribe regulations changing the percentage referred to in subsection (a)(1)(D) of this section to not less than 70 percent because of requirements relating to cold start, safety, or vehicle functions.
 
-    (c) __Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—__ 
+    (c)  __Minimum Driving Ranges for Dual Fueled Passenger Automobiles__  __.—__ 
 
         (1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
 
@@ -549,13 +549,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 [Pub. L. 111–32, title XIII][/us/pl/111/32], June 24, 2009, [123 Stat. 1909][/us/stat/123/1909], as amended by [Pub. L. 111–47][/us/pl/111/47], Aug. 7, 2009, [123 Stat. 1972][/us/stat/123/1972], provided that:
 
-> “Sec. 1301. __Short Title.—__ 
+> “Sec. 1301.  __Short Title__  __.—__ 
 
 > This title may be cited as the ‘Consumer Assistance to Recycle and Save Act of 2009’.
 
-> “Sec. 1302. __Consumer Assistance to Recycle and Save Program.—__ 
+> “Sec. 1302.  __Consumer Assistance to Recycle and Save Program__  __.—__ 
 
->     (a) __Establishment.—__ 
+>     (a)  __Establishment__  __.—__ 
 
 >     There is established in the National Highway Traffic Safety Administration a voluntary program to be known as the ‘Consumer Assistance to Recycle and Save Program’ through which the Secretary, in accordance with this section and the regulations promulgated under subsection (d), shall—
 
@@ -573,11 +573,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >         “(4) in consultation with the Secretary of the Treasury and the Inspector General of the Department of Transportation, establish and provide for the enforcement of measures to prevent and penalize fraud under the program.
 
->     “(b) __Qualifications for and Value of Vouchers.—__ 
+>     “(b)  __Qualifications for and Value of Vouchers__  __.—__ 
 
 >     A voucher issued under the Program shall have a value that may be applied to offset the purchase price or lease price for a qualifying lease of a new fuel efficient automobile as follows:
 
->         “(1) __$3,500 value.—__ 
+>         “(1) __$3,500__  __value__  __.—__ 
 
 >         The voucher may be used to offset the purchase price or lease price of the new fuel efficient automobile by $3,500 if—
 
@@ -595,7 +595,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >             “(D) the new fuel efficient automobile is a category 3 truck and the eligible trade-in vehicle is a category 3 truck of model year of 2001 or earlier and is of similar size or larger than the new fuel efficient automobile as determined in a manner prescribed by the Secretary.
 
->         “(2) __$4,500 value.—__ 
+>         “(2) __$4,500__  __value__  __.—__ 
 
 >         The voucher may be used to offset the purchase price or lease price of the new fuel efficient automobile by $4,500 if—
 
@@ -609,37 +609,37 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >         “(1) __Limitations.—__ 
 
->             “(A) __General period of eligibility.—__ 
+>             “(A)  __General period of eligibility__  __.—__ 
 
 >             A voucher issued under the Program shall be used only in connection with the purchase or qualifying lease of new fuel efficient automobiles that occur between July 1, 2009 and November 1, 2009.
 
->             “(B) __Number of vouchers per person and per trade-in vehicle.—__ 
+>             “(B)  __Number of vouchers per person and per trade-in vehicle__  __.—__ 
 
 >             Not more than 1 voucher may be issued for a single person and not more than 1 voucher may be issued for the joint registered owners of a single eligible trade-in vehicle.
 
->             “(C) __No combination of vouchers.—__ 
+>             “(C)  __No combination of vouchers__  __.—__ 
 
 >             Only 1 voucher issued under the Program may be applied toward the purchase or qualifying lease of a single new fuel efficient automobile.
 
->             “(D) __Cap on funds for category 3 trucks.—__ 
+>             “(D)  __Cap on funds for category 3 trucks__  __.—__ 
 
 >             Not more than 7.5 percent of the total funds made available for the Program shall be used for vouchers for the purchase or qualifying lease of category 3 trucks.
 
->             “(E) __Combination with other incentives permitted.—__ 
+>             “(E)  __Combination with other incentives permitted__  __.—__ 
 
 >             The availability or use of a Federal, State, or local incentive or a State-issued voucher for the purchase or lease of a new fuel efficient automobile shall not limit the value or issuance of a voucher under the Program to any person otherwise eligible to receive such a voucher.
 
->             “(F) __No additional fees.—__ 
+>             “(F)  __No additional fees__  __.—__ 
 
 >             A dealer participating in the program may not charge a person purchasing or leasing a new fuel efficient automobile any additional fees associated with the use of a voucher under the Program.
 
->             “(G) __Number and amount.—__ 
+>             “(G)  __Number and amount__  __.—__ 
 
 >             The total number and value of vouchers issued under the Program may not exceed the amounts appropriated for such purpose.
 
 >         “(2) __Disposition of eligible trade-in vehicles.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For each eligible trade-in vehicle surrendered to a dealer under the Program, the dealer shall certify to the Secretary, in such manner as the Secretary shall prescribe by rule, that the dealer—
 
@@ -653,7 +653,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >                          “(II) has not been, and will not be, sold, leased, exchanged, or otherwise disposed of for use as an automobile in the United States or in any other country.
 
->             “(B) __Savings provision.—__ 
+>             “(B)  __Savings provision__  __.—__ 
 
 >             Nothing in subparagraph (A) may be construed to preclude a person who is responsible for ensuring that the vehicle is crushed or shredded from—
 
@@ -661,11 +661,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >                 “(ii) retaining the proceeds from such sale.
 
->             “(C) __Coordination.—__ 
+>             “(C)  __Coordination__  __.—__ 
 
 >             The Secretary shall coordinate with the Attorney General to ensure that the National Motor Vehicle Title Information System and other publicly accessible systems are appropriately updated on a timely basis to reflect the crushing or shredding of vehicles under this section and appropriate reclassification of the vehicles’ titles. The commercial market shall also have electronic and commercial access to the vehicle identification numbers of vehicles that have been disposed of on a timely basis.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     Notwithstanding the requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code, the Secretary shall promulgate final regulations to implement the Program not later than 30 days after the date of the enactment of this Act \[June 24, 2009\]. Such regulations shall—
 
@@ -693,15 +693,15 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >     “(e) __Anti-Fraud Provisions.—__ 
 
->         “(1) __Violation.—__ 
+>         “(1)  __Violation__  __.—__ 
 
 >         It shall be unlawful for any person to violate any provision under this section or any regulations issued pursuant to subsection (d) (other than by making a clerical error).
 
->         “(2) __Penalties.—__ 
+>         “(2)  __Penalties__  __.—__ 
 
 >         Any person who commits a violation described in paragraph (1) shall be liable to the United States Government for a civil penalty of not more than $15,000 for each violation. The Secretary shall have the authority to assess and compromise such penalties, and shall have the authority to require from any entity the records and inspections necessary to enforce this program. In determining the amount of the civil penalty, the severity of the violation and the intent and history of the person committing the violation shall be taken into account.
 
->     “(f) __Information to Consumers and Dealers.—__ 
+>     “(f)  __Information to Consumers and Dealers__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[June 24, 2009\], and promptly upon the update of any relevant information, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall make available on an Internet website and through other means determined by the Secretary information about the Program, including—
 
@@ -715,11 +715,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >     “(g) __Record Keeping and Report.—__ 
 
->         “(1) __Database.—__ 
+>         “(1)  __Database__  __.—__ 
 
 >         The Secretary shall maintain a database of the vehicle identification numbers of all new fuel efficient vehicles purchased or leased and all eligible trade-in vehicles disposed of under the Program.
 
->         “(2) __Report on efficacy of the program.—__ 
+>         “(2)  __Report on efficacy of the program__  __.—__ 
 
 >         Not later than 60 days after the termination date described in subsection (c)(1)(A), the Secretary shall submit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efficacy of the Program, including—
 
@@ -737,21 +737,21 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >             “(C) an estimate of the overall economic and employment effects of the Program.
 
->         “(3) __Review of administration of the program by government accountability office and inspector general.—__ 
+>         “(3)  __Review of administration of the program by government accountability office and inspector general__  __.—__ 
 
 >         Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
 
 >     “(h) __Exclusion of Vouchers From Income.—__ 
 
->         “(1) __For purposes of all federal and state programs.—__ 
+>         “(1)  __For purposes of all federal and state programs__  __.—__ 
 
 >         A voucher issued under this program or any payment made for such a voucher pursuant to subsection (a)(3) shall not be regarded as income and shall not be regarded as a resource for the month of receipt of the voucher and the following 12 months, for purposes of determining the eligibility of the recipient of the voucher (or the recipient’s spouse or other family or household members) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal or State program.
 
->         “(2) __For purposes of taxation.—__ 
+>         “(2)  __For purposes of taxation__  __.—__ 
 
 >         A voucher issued under the program or any payment made for such a voucher pursuant to subsection (a)(3) shall not be considered as gross income of the purchaser of a vehicle for purposes of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\].
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     As used in this section—
 
@@ -827,7 +827,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, § 501(8), (9); added Dec. 22, 
 
 >         “(15) the term ‘voucher’ means an electronic transfer of funds to a dealer based on an eligible transaction under this program.
 
->     “(j) __Appropriation.—__ 
+>     “(j)  __Appropriation__  __.—__ 
 
 >     There is hereby appropriated to the Secretary of Transportation $1,000,000,000, of which up to $50,000,000 is available for administration, to remain available until expended to carry out this section.”
 

@@ -15,7 +15,7 @@
 
 ## § 24104. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There are authorized to be appropriated to the Secretary of Transportation—
 
@@ -31,7 +31,7 @@
 
         for the benefit of Amtrak for capital expenditures under chapters 243, 247, and 249 of this title, operating expenses, and payments described in subsection (c)(1)(A) through (C). In fiscal years following the fifth anniversary of the enactment of the Amtrak Reform and Accountability Act of 1997 no funds authorized for Amtrak shall be used for operating expenses other than those prescribed for tax liabilities under section 3221 of the Internal Revenue Code of 1986 that are more than the amount needed for benefits of individuals who retire from Amtrak and for their beneficiaries.
 
-    (b) __Operating Expenses.—__ 
+    (b)  __Operating Expenses__  __.—__ 
 
         (1) Not more than $381,000,000 may be appropriated to the Secretary for each of the fiscal years ending September 30, 1993, and September 30, 1994, for the benefit of Amtrak for operating expenses. Not more than 5 percent of the amounts appropriated for each fiscal year shall be used to pay operating expenses under section 24704  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for transportation in operation on September 30, 1992.
 
@@ -47,7 +47,7 @@
 
             (B) The expenditure by Amtrak of an amount appropriated under subparagraph (A) of this paragraph is deemed not to be an operating expense when calculating the revenue-to-operating expense ratio of Amtrak.
 
-    (c) __Mandatory Payments.—__ 
+    (c)  __Mandatory Payments__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (2) Amounts appropriated under this subsection are not a United States Government subsidy of Amtrak.
 
-    (d) __Payment to Amtrak.—__ 
+    (d)  __Payment to Amtrak__  __.—__ 
 
     Amounts appropriated under this section shall be paid to Amtrak under the budget request of the Secretary as approved or modified by Congress when the amounts are appropriated. A payment may not be made more frequently than once every 90 days, unless Amtrak, for good cause, requests more frequent payment before a 90-day period ends. In each fiscal year in which amounts are authorized to be appropriated under this section, amounts appropriated shall be paid to Amtrak as follows:
 
@@ -71,13 +71,13 @@
 
         (3) 25 percent on April 1.
 
-    (e) __Availability of Amounts and Early Appropriations.—__ 
+    (e)  __Availability of Amounts and Early Appropriations__  __.—__ 
 
         (1) Amounts appropriated under this section remain available until expended.
 
         (2) Amounts for capital acquisitions and improvements may be appropriated in a fiscal year before the fiscal year in which the amounts will be obligated.
 
-    (f) __Limitations on Use.—__ 
+    (f)  __Limitations on Use__  __.—__ 
 
     Amounts appropriated under this section may not be used to subsidize operating losses of commuter rail passenger or rail freight transportation.
 
@@ -239,7 +239,7 @@ Feb. 5, 1976, Pub. L. 94–210, § 704(b)(1) (related to § 601), 90 Stat. 1
 
 [Pub. L. 105–134, title II, § 209][/us/pl/105/134/s209], Dec. 2, 1997, [111 Stat. 2584][/us/stat/111/2584], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34], [26 U.S.C. 172][/us/usc/t26/s172] note\]—
 
@@ -247,7 +247,7 @@ Feb. 5, 1976, Pub. L. 94–210, § 704(b)(1) (related to § 601), 90 Stat. 1
 
 >         “(2) to offset other amounts used for any purpose other than the financing of such expenses.
 
->     “(b) __Report by ARC.—__ 
+>     “(b)  __Report by ARC__  __.—__ 
 
 >     The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997.”
 

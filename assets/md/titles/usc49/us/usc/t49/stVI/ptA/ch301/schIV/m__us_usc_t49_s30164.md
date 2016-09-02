@@ -15,15 +15,15 @@
 
 ## § 30164. Service of process; conditions on importation of vehicles and equipment
 
-    (a) __Designating Agents.—__ 
+    (a)  __Designating Agents__  __.—__ 
 
     A manufacturer offering a motor vehicle or motor vehicle equipment for import shall designate an agent on whom service of notices and process in administrative and judicial proceedings may be made. The designation shall be in writing and filed with the Secretary of Transportation. The designation may be changed in the same way as originally made.
 
-    (b) __Service.—__ 
+    (b)  __Service__  __.—__ 
 
     An agent may be served at the agent’s office or usual place of residence. Service on the agent is deemed to be service on the manufacturer. If a manufacturer does not designate an agent, service may be made by posting the notice or process in the office of the Secretary.
 
-    (c) __Identifying Information.—__ 
+    (c)  __Identifying Information__  __.—__ 
 
     A manufacturer (including an importer) offering a motor vehicle or motor vehicle equipment for import shall provide, upon request, such information that is necessary to identify and track the products as the Secretary, by rule, may specify, including—
 
@@ -31,7 +31,7 @@
 
         (2) each retailer or distributor to which the manufacturer directly supplied motor vehicles or motor vehicle equipment over which the Secretary has jurisdiction under this chapter.
 
-    (d) __Regulations on the Import of a Motor Vehicle.—__ 
+    (d)  __Regulations on the Import of a Motor Vehicle__  __.—__ 
 
     The Secretary may issue regulations that—
 
@@ -55,7 +55,7 @@
 
         (3) establish a process by which a manufacturer may petition for reinstatement of its ability to import motor vehicles or motor vehicle equipment.
 
-    (e) __Exception.—__ 
+    (e)  __Exception__  __.—__ 
 
     The requirements of subsections (c) and (d) shall not apply to original manufacturers (or wholly owned subsidiaries) of motor vehicles that, prior to the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012—
 
@@ -65,7 +65,7 @@
 
         (3) if applicable, have identified a current agent for service of process in accordance with part 551 of title 49, Code of Federal Regulations.
 
-    (f) __Rulemaking.—__ 
+    (f)  __Rulemaking__  __.—__ 
 
     In issuing regulations under this section, the Secretary shall seek to reduce duplicative requirements by coordinating with the Department of Homeland Security.
 

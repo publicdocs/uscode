@@ -15,7 +15,7 @@
 
 ## § 31502. Requirements for qualifications, hours of service, safety, and equipment standards
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies to transportation—
 
@@ -23,7 +23,7 @@
 
         (2) to the extent the transportation is in the United States and is between places in a foreign country, or between a place in a foreign country and a place in another foreign country.
 
-    (b) __Motor Carrier and Private Motor Carrier Requirements.—__ 
+    (b)  __Motor Carrier and Private Motor Carrier Requirements__  __.—__ 
 
     The Secretary of Transportation may prescribe requirements for—
 
@@ -31,7 +31,7 @@
 
         (2) qualifications and maximum hours of service of employees of, and standards of equipment of, a motor private carrier, when needed to promote safety of operation.
 
-    (c) __Migrant Worker Motor Carrier Requirements.—__ 
+    (c)  __Migrant Worker Motor Carrier Requirements__  __.—__ 
 
     The Secretary may prescribe requirements for the comfort of passengers, qualifications and maximum hours of service of operators, and safety of operation and equipment of a motor carrier of migrant workers. The requirements only apply to a carrier transporting a migrant worker—
 
@@ -39,13 +39,13 @@
 
         (2) across the boundary of a State, territory, or possession of the United States.
 
-    (d) __Considerations.—__ 
+    (d)  __Considerations__  __.—__ 
 
     Before prescribing or revising any requirement under this section, the Secretary shall consider the costs and benefits of the requirement.
 
     (e) __Exception.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of law, regulations issued under this section or section 31136 regarding—
 
@@ -57,11 +57,11 @@
 
             shall not apply to any driver of a utility service vehicle during an emergency period of not more than 30 days declared by an elected State or local government official under paragraph (2) in the area covered by the declaration.
 
-        (2) __Declaration of emergency.—__ 
+        (2)  __Declaration of emergency__  __.—__ 
 
         An elected State or local government official or elected officials of more than one State or local government jointly may issue an emergency declaration for purposes of paragraph (1) after notice to the Field Administrator of the Federal Motor Carrier Safety Administration with jurisdiction over the area covered by the declaration.
 
-        (3) __Incident report.—__ 
+        (3)  __Incident report__  __.—__ 
 
         Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
 
@@ -69,15 +69,15 @@
 
             (B) a utility service vehicle of the driver to which the declaration applied.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Driver of a utility service vehicle.—__ 
+            (A)  __Driver of a utility service vehicle__  __.—__ 
 
             The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the National Highway System Designation Act of 1995 ([49 U.S.C. 31136][/us/usc/t49/s31136] note; [109 Stat. 613][/us/stat/109/613]).
 
-            (B) __Utility service vehicle.—__ 
+            (B)  __Utility service vehicle__  __.—__ 
 
             The term “utility service vehicle” has the meaning that term has under section 345(e)(6) 1 of the National Highway System Designation Act of 1995 ([49 U.S.C. 31136][/us/usc/t49/s31136] note; 109 Stat  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>  614–615).
 
@@ -247,7 +247,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 204(a)(3a) (1st sentence); added Aug. 
 
 [Pub. L. 105–178, title IV, § 4012(b)][/us/pl/105/178/s4012/b], June 9, 1998, [112 Stat. 409][/us/stat/112/409], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] may not be construed—
 
@@ -255,23 +255,23 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 204(a)(3a) (1st sentence); added Aug. 
 
 >         “(B) to exempt any driver of a utility service vehicle from any applicable provision of law (including any regulation) established for the issuance, maintenance, or periodic renewal of a commercial driver’s license for that driver.
 
->     “(2) __Definitions.—__ 
+>     “(2)  __Definitions__  __.—__ 
 
 >     In this subsection, the following definitions apply:
 
->         “(A) __Commercial driver’s license.—__ 
+>         “(A)  __Commercial driver’s license__  __.—__ 
 
 >         The term ‘commercial driver’s license’ has the meaning that term has under [section 31301 of title 49][/us/usc/t49/s31301], United States Code.
 
->         “(B) __Driver of a utility service vehicle.—__ 
+>         “(B)  __Driver of a utility service vehicle__  __.—__ 
 
 >         The term ‘driver of a utility service vehicle’ has the meaning that term has under section 31502(e)(2) of such title \[probably should be section 31502(e)(4)(A) of such title\].
 
->         “(C) __Regulation.—__ 
+>         “(C)  __Regulation__  __.—__ 
 
 >         The term ‘regulation’ has the meaning that term has under section 31132 of such title.
 
->         “(D) __Utility service vehicle.—__ 
+>         “(D)  __Utility service vehicle__  __.—__ 
 
 >         The term ‘utility service vehicle’ has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 \[[Pub. L. 104–59][/us/pl/104/59]\] ([49 U.S.C. 31136][/us/usc/t49/s31136] note; [109 Stat. 614–615][/us/stat/109/614-615]).”
 

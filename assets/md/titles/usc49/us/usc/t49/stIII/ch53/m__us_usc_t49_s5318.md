@@ -15,25 +15,25 @@
 
 ## § 5318. Bus testing facility
 
-    (a) __Facility.—__ 
+    (a)  __Facility__  __.—__ 
 
     The Secretary shall maintain one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise.
 
-    (b) __Operation and Maintenance.—__ 
+    (b)  __Operation and Maintenance__  __.—__ 
 
     The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, a qualified person or organization to operate and maintain the facility. The contract, cooperative agreement, or grant may provide for the testing of rail cars and other public transportation vehicles at the facility.
 
-    (c) __Fees.—__ 
+    (c)  __Fees__  __.—__ 
 
     The person operating and maintaining the facility shall establish and collect fees for the testing of vehicles at the facility. The Secretary must approve the fees.
 
-    (d) __Availability of Amounts To Pay for Testing.—__ 
+    (d)  __Availability of Amounts To Pay for Testing__  __.—__ 
 
     The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, the operator of the facility under which the Secretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available to carry out this section. The entity having the vehicle tested shall pay 20 percent of the cost.
 
     (e) __Acquiring New Bus Models.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if—
 
@@ -47,7 +47,7 @@
 
                 (ii) the minimum safety performance standards established by the Secretary pursuant to section 5329(b).
 
-        (2) __Bus test “pass/fail” standard.—__ 
+        (2)  __Bus test “pass/fail” standard__  __.—__ 
 
         Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph”. </sup></sup>  (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a “pass/fail” standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work with the bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser’s specific requirements.
 

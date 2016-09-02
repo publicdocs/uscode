@@ -17,7 +17,7 @@
 
     (a) __Human Factors Training.—__ 
 
-        (1) __Air traffic controllers.—__ 
+        (1)  __Air traffic controllers__  __.—__ 
 
         The Administrator of the Federal Aviation Administration shall—
 
@@ -25,7 +25,7 @@
 
             (B) respond to the recommendations made by the National Research Council.
 
-        (2) __Pilots and flight crews.—__ 
+        (2)  __Pilots and flight crews__  __.—__ 
 
         The Administrator shall work with representatives of the aviation industry and appropriate aviation programs associated with universities to develop specific training curricula to address critical safety problems, including problems of pilots—
 
@@ -37,15 +37,15 @@
 
             (D) in landing and approaches, including nonprecision approaches and go-around procedures.
 
-    (b) __Test Program.—__ 
+    (b)  __Test Program__  __.—__ 
 
     The Administrator shall establish a test program in cooperation with air carriers to use model Jeppesen approach plates or other similar tools to improve precision-like landing approaches for aircraft.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Not later than 1 year after the date of the enactment of this section, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Administration’s efforts to encourage the adoption and implementation of advanced qualification programs for air carriers under this section.
 
-    (d) __Advanced Qualification Program Defined.—__ 
+    (d)  __Advanced Qualification Program Defined__  __.—__ 
 
     In this section, the term “advanced qualification program” means an alternative method for qualifying, training, certifying, and ensuring the competency of flight crews and other commercial aviation operations personnel subject to the training and evaluation requirements of parts 121 and 135 of title 14, Code of Federal Regulations.
 

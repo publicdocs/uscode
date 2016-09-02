@@ -15,27 +15,27 @@
 
 ## § 44517. Program to permit cost sharing of air traffic modernization projects
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the requirements of this section, the Secretary may carry out a program under which the Secretary may make grants to project sponsors for not more than 10 eligible projects per fiscal year for the purpose of improving aviation safety and enhancing mobility of the Nation’s air transportation system by encouraging non-Federal investment in critical air traffic control equipment and software.
 
-    (b) __Federal Share.—__ 
+    (b)  __Federal Share__  __.—__ 
 
     The Federal share of the cost of an eligible project carried out under the program shall not exceed 33 percent. The non-Federal share of the cost of an eligible project shall be provided from non-Federal sources, including revenues collected pursuant to section 40117.
 
-    (c) __Limitation on Grant Amounts.—__ 
+    (c)  __Limitation on Grant Amounts__  __.—__ 
 
     No eligible project may receive more than $5,000,000 in Federal funds under the program.
 
-    (d) __Funding.—__ 
+    (d)  __Funding__  __.—__ 
 
     The Secretary shall use amounts appropriated under section 48101(a) to carry out the program.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Eligible project.—__ 
+        (1)  __Eligible project__  __.—__ 
 
         The term “eligible project” means a project to purchase equipment or software relating to the Nation’s air traffic control system that is certified or approved by the Administrator of the Federal Aviation Administration and that promotes safety, efficiency, or mobility. Such projects may include—
 
@@ -45,15 +45,15 @@
 
             (C) equipment and software that enhance airspace control procedures or assist in en route surveillance, including oceanic and offshore flight tracking.
 
-        (2) __Project sponsor.—__ 
+        (2)  __Project sponsor__  __.—__ 
 
         The term “project sponsor” means any major user of the national airspace system, as determined by the Secretary, including a public-use airport or a joint venture between a public-use airport and one or more air carriers.
 
-    (f) __Transfers of Equipment.—__ 
+    (f)  __Transfers of Equipment__  __.—__ 
 
     Notwithstanding any other provision of law, and upon agreement by the Administrator, a project sponsor may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, or automation tools, the purchase of which was assisted by a grant made under this section, if such facilities, equipment or tools meet Federal Aviation Administration operation and maintenance criteria.
 
-    (g) __Guidelines.—__ 
+    (g)  __Guidelines__  __.—__ 
 
     The Administrator shall issue advisory guidelines on the implementation of the program. The guidelines shall not be subject to administrative rulemaking requirements under subchapter II of chapter 5 of title 5.
 

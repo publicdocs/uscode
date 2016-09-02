@@ -15,7 +15,7 @@
 
 ## § 46104. Evidence
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     In conducting a hearing or investigation under this part, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may—
 
@@ -27,11 +27,11 @@
 
         (4) receive evidence at a place in the United States the Secretary, Under Secretary, or Administrator designates.
 
-    (b) __Compliance With Subpenas.—__ 
+    (b)  __Compliance With Subpenas__  __.—__ 
 
     If a person disobeys a subpena, the Secretary, the Under Secretary, the Administrator, or a party to a proceeding before the Secretary, Under Secretary, or Administrator may petition a court of the United States to enforce the subpena. A judicial proceeding to enforce a subpena under this section may be brought in the jurisdiction in which the proceeding or investigation is conducted. The court may punish a failure to obey an order of the court to comply with the subpena as a contempt of court.
 
-    (c) __Depositions.—__ 
+    (c)  __Depositions__  __.—__ 
 
         (1) In a proceeding or investigation, the Secretary, Under Secretary, or Administrator may order a person to give testimony by deposition and to produce records. If a person fails to be deposed or to produce records, the order may be enforced in the same way a subpena may be enforced under subsection (b) of this section.
 
@@ -49,11 +49,11 @@
 
             (B) under letters rogatory issued by a court of competent jurisdiction at the request of the Secretary, Under Secretary, or Administrator.
 
-    (d) __Witness Fees and Mileage and Certain Foreign Country Expenses.—__ 
+    (d)  __Witness Fees and Mileage and Certain Foreign Country Expenses__  __.—__ 
 
     A witness summoned before the Secretary, Under Secretary, or Administrator or whose deposition is taken under this section and the individual taking the deposition are each entitled to the same fee and mileage that the witness and individual would have been paid for those services in a court of the United States. Under regulations of the Secretary, Under Secretary, or Administrator, the Secretary, Under Secretary, or Administrator shall pay the necessary expenses incident to executing, in another country, a commission or letter rogatory issued at the initiative of the Secretary, Under Secretary, or Administrator.
 
-    (e) __Designating Employees To Conduct Hearings.—__ 
+    (e)  __Designating Employees To Conduct Hearings__  __.—__ 
 
     When designated by the Secretary, Under Secretary, or Administrator, an employee appointed under [section 3105 of title 5][/us/usc/t5/s3105] may conduct a hearing, subpena witnesses, administer oaths, examine witnesses, and receive evidence at a place in the United States the Secretary, Under Secretary, or Administrator designates. On request of a party, the Secretary, Under Secretary, or Administrator shall hear or receive argument.
 

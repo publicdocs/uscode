@@ -15,15 +15,15 @@
 
 ## § 20151. Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy
 
-    (a) __Evaluation of Existing Laws.—__ 
+    (a)  __Evaluation of Existing Laws__  __.—__ 
 
     In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property, vandalism affecting railroad safety, and violations of highway-rail grade crossing signs, signals, markings, or other warning devices and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after the date of enactment of the Rail Safety Improvement Act of 2008. The Secretary shall revise the model prevention strategies and enforcement codes periodically.
 
-    (b) __Outreach Program for Trespassing and Vandalism Prevention.—__ 
+    (b)  __Outreach Program for Trespassing and Vandalism Prevention__  __.—__ 
 
     The Secretary shall develop and maintain a comprehensive outreach program to improve communications among Federal railroad safety inspectors, State inspectors certified by the Federal Railroad Administration, railroad police, and State and local law enforcement officers, for the purpose of addressing trespassing and vandalism problems on railroad property, and strengthening relevant enforcement strategies. This program shall be designed to increase public and police awareness of the illegality of, dangers inherent in, and the extent of, trespassing on railroad rights-of-way, to develop strategies to improve the prevention of trespassing and vandalism, and to improve the enforcement of laws relating to railroad trespass, vandalism, and safety.
 
-    (c) __Model Legislation.—__ 
+    (c)  __Model Legislation__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (2) Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary, after consultation with State and local governments and railroad carriers, shall develop and make available to State and local governments model State legislation providing for civil or criminal penalties, or both, for violations of highway-rail grade crossing signs, signals, markings, or other warning devices.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     In this section, the term “violation of highway-rail grade crossing signs, signals, markings, or other warning devices” includes any action by a motorist, unless directed by an authorized safety officer—
 

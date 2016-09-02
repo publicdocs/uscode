@@ -17,7 +17,7 @@
 
     (a) __Motor Carrier Generally.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this section, the Secretary of Transportation shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier using self-propelled vehicles the motor carrier owns, rents, or leases only if the Secretary determines that the person—
 
@@ -43,7 +43,7 @@
 
             (D) after the Secretary establishes a written proficiency examination pursuant to section 32101(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, has passed the written proficiency examination.
 
-        (2) __Additional registration requirements for household goods motor carriers.—__ 
+        (2)  __Additional registration requirements for household goods motor carriers__  __.—__ 
 
         In addition to meeting the requirements of paragraph (1), the Secretary may register a person to provide transportation of household goods as a household goods motor carrier only after that person—
 
@@ -55,31 +55,31 @@
 
             (D) discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
 
-        (3) __Consideration of evidence; findings.—__ 
+        (3)  __Consideration of evidence; findings__  __.—__ 
 
         The Secretary shall consider, and to the extent applicable, make findings on any evidence demonstrating that the registrant is unable to comply with any applicable requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2).
 
-        (4) __Withholding.—__ 
+        (4)  __Withholding__  __.—__ 
 
         If the Secretary determines that a registrant under this section does not meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
 
-        (5) __Limitation on complaints.—__ 
+        (5)  __Limitation on complaints__  __.—__ 
 
         The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
 
-        (6) __Separate registration required.—__ 
+        (6)  __Separate registration required__  __.—__ 
 
         A motor carrier may not broker transportation services unless the motor carrier has registered as a broker under this chapter.
 
     (b) __Motor Carriers of Passengers.—__ 
 
-        (1) __Registration of private recipients of governmental assistance.—__ 
+        (1)  __Registration of private recipients of governmental assistance__  __.—__ 
 
         The Secretary shall register under subsection (a)(1) a private recipient of governmental assistance to provide special or charter transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presented by any person objecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
 
         (2) __Registration of public recipients of governmental assistance.—__ 
 
-            (A) __Charter transportation.—__ 
+            (A)  __Charter transportation__  __.—__ 
 
             The Secretary shall register under subsection (a)(1) a public recipient of governmental assistance to provide special or charter transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that—
 
@@ -91,39 +91,39 @@
 
                     (II) the transportation is to be provided entirely in the area in which the public recipient provides regularly scheduled mass transportation services.
 
-            (B) __Regular-route transportation.—__ 
+            (B)  __Regular-route transportation__  __.—__ 
 
             The Secretary shall register under subsection (a)(1) a public recipient of governmental assistance to provide regular-route transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presented by any person objecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
 
-            (C) __Treatment of certain public recipients.—__ 
+            (C)  __Treatment of certain public recipients__  __.—__ 
 
             Any public recipient of governmental assistance which is providing or seeking to provide transportation of passengers subject to jurisdiction under subchapter I of chapter 135 shall, for purposes of this part, be treated as a person which is providing or seeking to provide transportation of passengers subject to such jurisdiction.
 
-        (3) __Intrastate transportation by interstate carriers.—__ 
+        (3)  __Intrastate transportation by interstate carriers__  __.—__ 
 
         A motor carrier of passengers that is registered by the Secretary under subsection (a) is authorized to provide regular-route transportation entirely in one State as a motor carrier of passengers if such intrastate transportation is to be provided on a route over which the carrier provides interstate transportation of passengers.
 
-        (4) __Preemption of state regulation regarding certain service.—__ 
+        (4)  __Preemption of state regulation regarding certain service__  __.—__ 
 
         No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard or other provision having the force and effect of law relating to the provision of pickup and delivery of express packages, newspapers, or mail in a commercial zone if the shipment has had or will have a prior or subsequent movement by bus in intrastate commerce and, if a city within the commercial zone, is served by a motor carrier of passengers providing regular-route transportation of passengers subject to jurisdiction under subchapter I of chapter 135.
 
-        (5) __Jurisdiction over certain intrastate transportation.—__ 
+        (5)  __Jurisdiction over certain intrastate transportation__  __.—__ 
 
         Subject to section 14501(a), any intrastate transportation authorized by this subsection shall be treated as transportation subject to jurisdiction under subchapter I of chapter 135 until such time as the carrier takes such action as is necessary to establish under the laws of such State rates, rules, and practices applicable to such transportation, but in no case later than the 30th day following the date on which the motor carrier of passengers first begins providing transportation entirely in one State under this paragraph.
 
-        (6) __Special operations.—__ 
+        (6)  __Special operations__  __.—__ 
 
         This subsection shall not apply to any regular-route transportation of passengers provided entirely in one State which is in the nature of a special operation.
 
-        (7) __Suspension or revocation.—__ 
+        (7)  __Suspension or revocation__  __.—__ 
 
         Intrastate transportation authorized under this subsection may be suspended or revoked by the Secretary under [section 13905 of this title][/us/usc/t49/s13905] at any time.
 
-        (8) __Definitions.—__ 
+        (8)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Public recipient of governmental assistance.—__ 
+            (A)  __Public recipient of governmental assistance__  __.—__ 
 
             The term “public recipient of governmental assistance” means—
 
@@ -139,13 +139,13 @@
 
                 which before, on, or after January 1, 1996, received governmental assistance for the purchase or operation of any bus.
 
-            (B) __Private recipient of government assistance.—__ 
+            (B)  __Private recipient of government assistance__  __.—__ 
 
             The term “private recipient of government assistance” means any person (other than a person described in subparagraph (A)) who before, on, or after January 1, 1996, received governmental financial assistance in the form of a subsidy for the purchase, lease, or operation of any bus.
 
     (c) __Restrictions on Motor Carriers Domiciled in or Owned or Controlled by Nationals of a Contiguous Foreign Country.—__ 
 
-        (1) __Prevention of discriminatory practices.—__ 
+        (1)  __Prevention of discriminatory practices__  __.—__ 
 
         If the President, or the delegate thereof, determines that an act, policy, or practice of a foreign country contiguous to the United States, or any political subdivision or any instrumentality of any such country is unreasonable or discriminatory and burdens or restricts United States transportation companies providing, or seeking to provide, motor carrier transportation to, from, or within such foreign country, the President or such delegate may—
 
@@ -153,15 +153,15 @@
 
             (B) notwithstanding any other provision of law, suspend, modify, amend, condition, or restrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
 
-        (2) __Equalization of treatment.—__ 
+        (2)  __Equalization of treatment__  __.—__ 
 
         Any action taken under paragraph (1)(A) to eliminate an act, policy, or practice shall be so devised so as to equal to the extent possible the burdens or restrictions imposed by such foreign country on United States transportation companies.
 
-        (3) __Removal or modification.—__ 
+        (3)  __Removal or modification__  __.—__ 
 
         The President, or the delegate thereof, may remove or modify in whole or in part any action taken under paragraph (1)(A) if the President or such delegate determines that such removal or modification is consistent with the obligations of the United States under a trade agreement or with United States transportation policy.
 
-        (4) __Protection of existing operations.—__ 
+        (4)  __Protection of existing operations__  __.—__ 
 
         Unless and until the President, or the delegate thereof, makes a determination under paragraph (1) or (3), nothing in this subsection shall affect—
 
@@ -169,25 +169,25 @@
 
             (B) any existing restrictions on operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country or any modifications thereof pursuant to section 6 of the Bus Regulatory Reform Act of 1982.
 
-        (5) __Publication; comment.—__ 
+        (5)  __Publication; comment__  __.—__ 
 
         Unless the President, or the delegate thereof, determines that expeditious action is required, the President shall publish in the Federal Register any determination under paragraph (1) or (3), together with a description of the facts on which such a determination is based and any proposed action to be taken pursuant to paragraph (1)(B) or (3), and provide an opportunity for public comment.
 
-        (6) __Delegation to secretary.—__ 
+        (6)  __Delegation to secretary__  __.—__ 
 
         The President may delegate any or all authority under this subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
 
-        (7) __Civil actions.—__ 
+        (7)  __Civil actions__  __.—__ 
 
         Either the Secretary or the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
 
-        (8) __Limitation on statutory construction.—__ 
+        (8)  __Limitation on statutory construction__  __.—__ 
 
         This subsection shall not be construed as affecting the requirement for all foreign motor carriers and foreign motor private carriers operating in the United States to comply with all applicable laws and regulations pertaining to fitness, safety of operations, financial responsibility, and taxes imposed by section 4481 of the Internal Revenue Code of 1986.
 
     (d) __Transition Rule.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Pending the implementation of the rulemaking required by section 13908, the Secretary may register a person under this section—
 
@@ -195,29 +195,29 @@
 
             (B) as a motor contract carrier if such person would have been issued a permit to provide transportation as a motor contract carrier under this subtitle on such day.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
         In this subsection, the terms “motor common carrier” and “motor contract carrier” have the meaning such terms had under section 10102 as such section was in effect on December 31, 1995.
 
-        (3) __Termination.—__ 
+        (3)  __Termination__  __.—__ 
 
         This subsection shall cease to be in effect on the transition termination date.
 
-    (e) __Penalties for Failure To Comply With Registration Requirements.—__ 
+    (e)  __Penalties for Failure To Comply With Registration Requirements__  __.—__ 
 
     In addition to other penalties available under law, motor carriers that fail to register their operations as required by this section or that operate beyond the scope of their registrations may be subject to the following penalties:
 
-        (1) __Out-of-service orders.—__ 
+        (1)  __Out-of-service orders__  __.—__ 
 
         If, upon inspection or investigation, the Secretary determines that a motor carrier providing transportation requiring registration under this section is operating without a registration or beyond the scope of its registration, the Secretary may order the motor carrier operations out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with [section 554 of title 5][/us/usc/t5/s554], United States Code; except that such review shall occur not later than 10 days after issuance of such order.
 
-        (2) __Permission for operations.—__ 
+        (2)  __Permission for operations__  __.—__ 
 
         A person domiciled in a country contiguous to the United States with respect to which an action under subsection (c)(1)(A) or (c)(1)(B) is in effect and providing transportation for which registration is required under this section shall maintain evidence of such registration in the motor vehicle when the person is providing the transportation. The Secretary shall not permit the operation in interstate commerce in the United States of any motor vehicle in which there is not a copy of the registration issued pursuant to this section.
 
     (f) __Modification of Carrier Registration.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         On and after the transition termination date, the Secretary—
 
@@ -227,7 +227,7 @@
 
             (C) shall issue any motor carrier registered under this section after that date a motor carrier certificate of registration that specifies whether the holder of the certificate may provide transportation of persons, household goods, other property, or any combination thereof.
 
-        (2) __Pre-existing certificates and permits.—__ 
+        (2)  __Pre-existing certificates and permits__  __.—__ 
 
         The Secretary shall redesignate any motor carrier certificate or permit issued before the transition termination date as a motor carrier certificate of registration. On and after the transition termination date, any person holding a motor carrier certificate of registration redesignated under this paragraph may provide both contract carriage (as defined in section 13102(4)(B)) and transportation under terms and conditions meeting the requirements of section 13710(a)(1). The Secretary may not, pursuant to any regulation or form issued before or after the transition termination date, make any distinction among holders of motor carrier certificates of registration on the basis of whether the holder would have been classified as a common carrier or as a contract carrier under—
 
@@ -235,25 +235,25 @@
 
             (B) any other provision of this title that was in effect before the transition termination date.
 
-        (3) __Transition termination date defined.—__ 
+        (3)  __Transition termination date defined__  __.—__ 
 
         In this section, the term “transition termination date” means the first day of January occurring more than 12 months after the date of enactment of the Unified Carrier Registration Act of 2005.
 
-    (g) __Motor Carrier Defined.—__ 
+    (g)  __Motor Carrier Defined__  __.—__ 
 
     In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
 
     (h) __Update of Registration.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall require a registrant to update its registration under this section not later than 30 days after a change in the registrant’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-        (2) __Motor carriers of passengers.—__ 
+        (2)  __Motor carriers of passengers__  __.—__ 
 
         In addition to the requirements of paragraph (1), the Secretary shall require a motor carrier of passengers to update its registration information, including numbers of vehicles, annual mileage, and individuals responsible for compliance with Federal safety regulations quarterly for the first 2 years after being issued a registration under this section.
 
-    (i) __Registration as Freight Forwarder or Broker Required.—__ 
+    (i)  __Registration as Freight Forwarder or Broker Required__  __.—__ 
 
     A motor carrier registered under this chapter—
 

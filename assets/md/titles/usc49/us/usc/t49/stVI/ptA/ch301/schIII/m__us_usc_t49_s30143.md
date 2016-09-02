@@ -15,7 +15,7 @@
 
 ## § 30143. Motor vehicles imported by individuals employed outside the United States
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “assigned place of employment” means—
 
@@ -23,7 +23,7 @@
 
         (2) for a member of the uniformed services, the individual’s permanent duty station.
 
-    (b) __General.—__ 
+    (b)  __General__  __.—__ 
 
     [Section 30112(a) of this title][/us/usc/t49/s30112/a] does not apply to a motor vehicle imported for personal use, and not for resale, by an individual—
 
@@ -37,7 +37,7 @@
 
         (5) who satisfies section 108(b)(3) of that Act as in effect on October 30, 1988.
 
-    (c) __Certification.—__ 
+    (c)  __Certification__  __.—__ 
 
     Subsection (b) of this section is carried out by certification in the form the Secretary of Transportation or the Secretary of the Treasury may prescribe.
 

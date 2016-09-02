@@ -15,11 +15,11 @@
 
 ## § 20140. Alcohol and controlled substances testing
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802][/us/usc/t21/s802]) specified by the Secretary of Transportation.
 
-    (b) __General.—__ 
+    (b)  __General__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations and issue orders requiring railroad carriers to conduct periodic recurring testing of railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
-    (c) __Testing and Laboratory Requirements.—__ 
+    (c)  __Testing and Laboratory Requirements__  __.—__ 
 
     In carrying out this section, the Secretary of Transportation shall develop requirements that shall—
 
@@ -65,11 +65,11 @@
 
         (8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
-    (d) __Rehabilitation.—__ 
+    (d)  __Rehabilitation__  __.—__ 
 
     The Secretary of Transportation shall prescribe regulations or issue orders establishing requirements for rehabilitation programs that at least provide for the identification and opportunity for treatment of railroad employees responsible for safety-sensitive functions (as decided by the Secretary) in need of assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. Each railroad carrier is encouraged to make such a program available to all of its employees in addition to employees responsible for safety-sensitive functions. This subsection does not prevent a railroad carrier from establishing a program under this subsection in cooperation with another railroad carrier.
 
-    (e) __International Obligations and Foreign Laws and Regulations.—__ 
+    (e)  __International Obligations and Foreign Laws and Regulations__  __.—__ 
 
     In carrying out this section, the Secretary of Transportation—
 
@@ -77,7 +77,7 @@
 
         (2) shall consider applicable laws and regulations of foreign countries.
 
-    (f) __Other Regulations Allowed.—__ 
+    (f)  __Other Regulations Allowed__  __.—__ 
 
     This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed or order issued before October 28, 1991, governing the use of alcohol or a controlled substance in railroad operations.
 

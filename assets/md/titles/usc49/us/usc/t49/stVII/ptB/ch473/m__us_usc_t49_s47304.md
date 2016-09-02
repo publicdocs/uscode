@@ -15,11 +15,11 @@
 
 ## § 47304. Transfer of airport and airway property
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     When requested by the government of a foreign country or an international organization, the Secretary of Transportation or Commerce, as appropriate, may transfer to the government or organization airport property and airway property operated and maintained under this chapter by the appropriate Secretary in foreign territory. The transfer shall be on terms the appropriate Secretary considers proper, including consideration agreed on through negotiations with the government or organization.
 
-    (b) __Property Installed or Controlled by Military.—__ 
+    (b)  __Property Installed or Controlled by Military__  __.—__ 
 
     Subject to terms to which the parties agree, the Secretary of a military department may transfer without charge to the Secretary of Transportation airport property and airway property (except meteorological facilities), and to the Secretary of Commerce meteorological facilities, that the Secretary of the military department installed or controls in territory outside the continental United States. The transfer may be made if consistent with the needs of national defense and—
 
@@ -27,7 +27,7 @@
 
         (2) the Secretary of Transportation or Commerce, as appropriate, decides that the transfer is or may be necessary to carry out this chapter.
 
-    (c) __Republic of Panama.—__ 
+    (c)  __Republic of Panama__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) Subsection (b) of this section (related to the Secretary of Transportation) and section 47302(a) and (b) of this title do not apply in carrying out this subsection.
 
-    (d) __Retaking Property for Military Requirement.—__ 
+    (d)  __Retaking Property for Military Requirement__  __.—__ 
 
         (1) When necessary for a military requirement, the Secretary of a military department immediately may retake property (with any improvements to it) transferred by the Secretary under subsection (b) or (c) of this section. The Secretary shall pay reasonable compensation to each person (or its successor in interest) that made an improvement to the property that was not made at the expense of the Government. The Secretary or a delegate of the Secretary shall decide on the amount of compensation.
 

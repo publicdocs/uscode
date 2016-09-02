@@ -15,7 +15,7 @@
 
 ## § 5108. Registration
 
-    (a) __Persons Required to File.—__ 
+    (a)  __Persons Required to File__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (4) The Secretary may waive the filing of a registration statement, or the payment of a fee, required under this subsection, or both, for any person not domiciled in the United States who solely offers hazardous materials for transportation to the United States from a place outside the United States if the country of which such person is a domiciliary does not require persons domiciled in the United States who solely offer hazardous materials for transportation to the foreign country from places in the United States to file registration statements, or to pay fees, for making such an offer.
 
-    (b) __Form, Contents, and Limitation on Filings.—__ 
+    (b)  __Form, Contents, and Limitation on Filings__  __.—__ 
 
         (1)
 
@@ -57,23 +57,23 @@
 
         (2) A person carrying out more than one activity, or an activity at more than one location, for which filing is required only has to file one registration statement to comply with subsection (a) of this section.
 
-    (c) __Filing.—__ 
+    (c)  __Filing__  __.—__ 
 
     Each person required to file a registration statement under subsection (a) shall file the statement in accordance with regulations prescribed by the Secretary.
 
-    (d) __Simplifying the Registration Process.—__ 
+    (d)  __Simplifying the Registration Process__  __.—__ 
 
     The Secretary may take necessary action to simplify the registration process under subsections (a)–(c) of this section and to minimize the number of applications, documents, and other information a person is required to file under this chapter and other laws of the United States.
 
-    (e) __Cooperation With Administrator.—__ 
+    (e)  __Cooperation With Administrator__  __.—__ 
 
     The Administrator of the Environmental Protection Agency shall assist the Secretary in carrying out subsections (a)–(g)(1) and (h) of this section by providing the Secretary with information the Secretary requests to carry out the objectives of subsections (a)–(g)(1) and (h).
 
-    (f) __Availability of Statements.—__ 
+    (f)  __Availability of Statements__  __.—__ 
 
     The Secretary shall make a registration statement filed under subsection (a) of this section available for inspection by any person for a fee the Secretary establishes. However, this subsection does not require the release of information described in [section 552(b) of title 5][/us/usc/t5/s552/b] or otherwise protected by law from disclosure to the public.
 
-    (g) __Fees.—__ 
+    (g)  __Fees__  __.—__ 
 
         (1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
@@ -105,15 +105,15 @@
 
             (C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under [section 5116(i) of this title][/us/usc/t49/s5116/i].
 
-        (3) __Fees on exempt persons.—__ 
+        (3)  __Fees on exempt persons__  __.—__ 
 
         Notwithstanding subsection (a)(4), the Secretary shall impose and collect a fee of $25 from a person who is required to register under this section but who is otherwise exempted by the Secretary from paying any fee under this section. The fee shall be used to pay the costs incurred by the Secretary in processing registration statements filed by such persons.
 
-    (h) __Maintaining Proof of Filing and Payment of Fees.—__ 
+    (h)  __Maintaining Proof of Filing and Payment of Fees__  __.—__ 
 
     The Secretary may prescribe regulations requiring a person required to file a registration statement under subsection (a) of this section to maintain proof of the filing and payment of fees imposed under subsection (g) of this section.
 
-    (i) __Relationship to Other Laws.—__ 
+    (i)  __Relationship to Other Laws__  __.—__ 
 
         (1) Chapter 35 of title 44 does not apply to an activity of the Secretary under subsections (a)–(g)(1) and (h) of this section.
 

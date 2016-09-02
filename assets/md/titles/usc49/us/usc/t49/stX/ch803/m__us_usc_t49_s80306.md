@@ -15,7 +15,7 @@
 
 ## § 80306. Relationship to other laws
 
-    (a) __Chapter as Additional Law.—__ 
+    (a)  __Chapter as Additional Law__  __.—__ 
 
     This chapter is in addition to another law—
 
@@ -23,7 +23,7 @@
 
         (2) providing for seizure, condemnation, or disposition of forfeited property, or the proceeds from the property.
 
-    (b) __Laws Applicable to Seizures and Forfeitures.—__ 
+    (b)  __Laws Applicable to Seizures and Forfeitures__  __.—__ 
 
     To the extent applicable and consistent with this chapter, the following apply to a seizure or forfeiture under this chapter:
 

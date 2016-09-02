@@ -15,7 +15,7 @@
 
 ## § 24403. Project management oversight
 
-    (a) __Project Management Plan Requirements.—__ 
+    (a)  __Project Management Plan Requirements__  __.—__ 
 
     To receive Federal financial assistance for a major capital project under this chapter, an applicant must prepare and carry out a project management plan approved by the Secretary of Transportation. The plan shall provide for—
 
@@ -51,7 +51,7 @@
 
         (3) The Federal Government shall pay the entire cost of carrying out a contract under this subsection.
 
-    (c) __Access to Sites and Records.—__ 
+    (c)  __Access to Sites and Records__  __.—__ 
 
     Each recipient of assistance under this chapter shall provide the Secretary and a contractor the Secretary chooses under subsection (b) of this section with access to the construction sites and records of the recipient when reasonably necessary.
 

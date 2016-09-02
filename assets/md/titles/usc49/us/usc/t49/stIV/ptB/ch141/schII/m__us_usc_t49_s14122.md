@@ -15,11 +15,11 @@
 
 ## § 14122. Records: form; inspection; preservation
 
-    (a) __Form of Records.—__ 
+    (a)  __Form of Records__  __.—__ 
 
     The Secretary or the Board, as applicable, may prescribe the form of records required to be prepared or compiled under this subchapter by carriers and brokers, including records related to movement of traffic and receipts and expenditures of money.
 
-    (b) __Right of Inspection.—__ 
+    (b)  __Right of Inspection__  __.—__ 
 
     The Secretary or Board, or an employee designated by the Secretary or Board, may on demand and display of proper credentials, in person or in writing—
 
@@ -33,7 +33,7 @@
 
             (B) a person controlling, controlled by, or under common control with a carrier if the Secretary or Board, as applicable, considers inspection relevant to that person’s relation to, or transaction with, that carrier.
 
-    (c) __Period for Preservation of Records.—__ 
+    (c)  __Period for Preservation of Records__  __.—__ 
 
     The Secretary or Board, as applicable, may prescribe the time period during which operating, accounting, and financial records must be preserved by carriers and brokers.
 

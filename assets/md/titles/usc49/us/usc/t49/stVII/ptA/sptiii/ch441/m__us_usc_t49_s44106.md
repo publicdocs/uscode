@@ -15,11 +15,11 @@
 
 ## § 44106. Revocation of aircraft certificates for controlled substance violations
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802][/us/usc/t21/s802]).
 
-    (b) __Revocations.—__ 
+    (b)  __Revocations__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) An aircraft owner that is not an individual is deemed to have permitted the use of the aircraft knowing that the aircraft was to be used for the activity described in paragraph (1)(A) of this subsection only if a majority of the individuals who control the owner of the aircraft or who are involved in forming the major policy of the owner permitted the use of the aircraft knowing that the aircraft was to be used for the activity described in paragraph (1)(A).
 
-    (c) __Advice to Holders and Opportunity To Answer.—__ 
+    (c)  __Advice to Holders and Opportunity To Answer__  __.—__ 
 
     Before the Administrator revokes a certificate under subsection (b) of this section, the Administrator shall—
 
@@ -39,7 +39,7 @@
 
         (2) provide the holder of the certificate an opportunity to answer the charges and state why the certificate should not be revoked.
 
-    (d) __Appeals.—__ 
+    (d)  __Appeals__  __.—__ 
 
         (1) A person whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and a hearing on the record. In conducting the hearing, the Board is not bound by the findings of fact of the Administrator.
 
@@ -53,7 +53,7 @@
 
         (3) A person substantially affected by an order of the Board under this subsection may seek judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to that judicial proceeding.
 
-    (e) __Acquittal.—__ 
+    (e)  __Acquittal__  __.—__ 
 
         (1) The Administrator may not revoke, and the Board may not affirm a revocation of, a certificate of registration under this section on the basis of an activity described in subsection (b)(1)(A) of this section if the holder of the certificate is acquitted of all charges related to a controlled substance in an indictment or information arising from the activity.
 

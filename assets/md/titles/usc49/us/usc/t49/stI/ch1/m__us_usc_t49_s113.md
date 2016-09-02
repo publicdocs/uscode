@@ -15,27 +15,27 @@
 
 ## § 113. Federal Motor Carrier Safety Administration
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Motor Carrier Safety Administration shall be an administration of the Department of Transportation.
 
-    (b) __Safety as Highest Priority.—__ 
+    (b)  __Safety as Highest Priority__  __.—__ 
 
     In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in motor carrier transportation.
 
-    (c) __Administrator.—__ 
+    (c)  __Administrator__  __.—__ 
 
     The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in motor carrier safety. The Administrator shall report directly to the Secretary of Transportation.
 
-    (d) __Deputy Administrator.—__ 
+    (d)  __Deputy Administrator__  __.—__ 
 
     The Administration shall have a Deputy Administrator appointed by the Secretary, with the approval of the President. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
-    (e) __Chief Safety Officer.—__ 
+    (e)  __Chief Safety Officer__  __.—__ 
 
     The Administration shall have an Assistant Federal Motor Carrier Safety Administrator appointed in the competitive service by the Secretary, with the approval of the President. The Assistant Administrator shall be the Chief Safety Officer of the Administration. The Assistant Administrator shall carry out the duties and powers prescribed by the Administrator.
 
-    (f) __Powers and Duties.—__ 
+    (f)  __Powers and Duties__  __.—__ 
 
     The Administrator shall carry out—
 
@@ -43,15 +43,15 @@
 
         (2) additional duties and powers prescribed by the Secretary.
 
-    (g) __Limitation on Transfer of Powers and Duties.—__ 
+    (g)  __Limitation on Transfer of Powers and Duties__  __.—__ 
 
     A duty or power specified in subsection (f)(1) may only be transferred to another part of the Department when specifically provided by law.
 
-    (h) __Effect of Certain Decisions.—__ 
+    (h)  __Effect of Certain Decisions__  __.—__ 
 
     A decision of the Administrator involving a duty or power specified in subsection (f)(1) and involving notice and hearing required by law is administratively final.
 
-    (i) __Consultation.—__ 
+    (i)  __Consultation__  __.—__ 
 
     The Administrator shall consult with the Federal Highway Administrator and with the National Highway Traffic Safety Administrator on matters related to highway and motor carrier safety.
 
@@ -97,11 +97,11 @@
 
 [Pub. L. 106–159, title I, § 106][/us/pl/106/159/s106], Dec. 9, 1999, [113 Stat. 1756][/us/stat/113/1756], provided that:
 
->     “(a) __Transfer of Assets and Personnel.—__ 
+>     “(a)  __Transfer of Assets and Personnel__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Tables for classification\] and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Federal Motor Carrier Safety Administration by this Act shall be transferred to the Administration for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds of the Office of Motor Carrier Safety (including any predecessor entity) shall also be transferred to the Administration.
 
->     “(b) __Legal Documents.—__ 
+>     “(b)  __Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
 
@@ -113,41 +113,41 @@
 
 >     “(c) __Proceedings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under [section 104 of this title][/us/usc/t49/s104]\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
->         “(2) __Statutory construction.—__ 
+>         “(2)  __Statutory construction__  __.—__ 
 
 >         Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any proceeding described in paragraph (1) under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
->         “(3) __Orderly transfer.—__ 
+>         “(3)  __Orderly transfer__  __.—__ 
 
 >         The Secretary is authorized to provide for the orderly transfer of pending proceedings from the Office.
 
 >     “(d) __Suits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This Act shall not affect suits commenced before the date of the enactment of this Act \[Dec. 9, 1999\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
->         “(2) __Suits by or against omcs.—__ 
+>         “(2)  __Suits by or against omcs__  __.—__ 
 
 >         Any suit by or against the Office begun before January 1, 2000, shall be continued, insofar as it involves a function retained and transferred under this Act, with the Administration (to the extent the suit involves functions transferred to the Administration under this Act) substituted for the Office.
 
->         “(3) __Remanded cases.—__ 
+>         “(3)  __Remanded cases__  __.—__ 
 
 >         If the court in a suit described in paragraph (1) remands a case to the Administration, subsequent proceedings related to such case shall proceed in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings.
 
->     “(e) __Continuance of Actions Against Officers.—__ 
+>     “(e)  __Continuance of Actions Against Officers__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Office shall abate by reason of the enactment of this Act. No cause of action by or against the Office, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
 
->     “(f) __Exercise of Authorities.—__ 
+>     “(f)  __Exercise of Authorities__  __.—__ 
 
 >     Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
 
->     “(g) __References.—__ 
+>     “(g)  __References__  __.—__ 
 
 >     Any reference to the Office in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Office or an officer or employee of the Office is deemed to refer to the Administration or a member or employee of the Administration, as appropriate.”
 

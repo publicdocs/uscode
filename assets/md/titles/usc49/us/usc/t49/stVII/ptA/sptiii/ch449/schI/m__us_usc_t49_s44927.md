@@ -15,15 +15,15 @@
 
 ## § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
 
-    (a) __Passenger Screening.—__ 
+    (a)  __Passenger Screening__  __.—__ 
 
     The Assistant Secretary, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and organizations identified by the Secretaries of Defense and Veteran  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Veterans”. </sup></sup>  Affairs that advocate on behalf of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, shall develop and implement a process to support and facilitate the ease of travel and to the extent possible provide expedited passenger screening services for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening. The process shall be designed to offer the individual private screening to the maximum extent practicable.
 
-    (b) __Operations Center.—__ 
+    (b)  __Operations Center__  __.—__ 
 
     As part of the process under subsection (a), the Assistant Secretary shall maintain an operations center to provide support and facilitate the movement of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening prior to boarding a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
 
-    (c) __Protocols.—__ 
+    (c)  __Protocols__  __.—__ 
 
     The Assistant Secretary shall—
 
@@ -31,15 +31,15 @@
 
         (2) upon receipt of a request under paragraph (1), require the operations center to notify the appropriate Federal Security Director of the request for expedited passenger screening services, as described in subsection (a), for that member or veteran.
 
-    (d) __Training.—__ 
+    (d)  __Training__  __.—__ 
 
     The Assistant Secretary shall integrate training on the protocols established under subsection (c) into the training provided to all employees who will regularly provide the passenger screening services described in subsection (a).
 
-    (e) __Rule of Construction.—__ 
+    (e)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall affect the authority of the Assistant Secretary to require additional screening of a severely injured or disabled member of the Armed Forces, a severely injured or disabled veteran, or their accompanying family members or nonmedical attendants, if intelligence, law enforcement, or other information indicates that additional screening is necessary.
 
-    (f) __Report.—__ 
+    (f)  __Report__  __.—__ 
 
     Not later than 1 year after the date of enactment of this section, and annually thereafter, the Assistant Secretary shall submit to Congress a report on the implementation of this section. Each report shall include each of the following:
 

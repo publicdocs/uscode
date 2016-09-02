@@ -15,37 +15,37 @@
 
 ## § 15904. Rights and remedies of persons injured by pipeline carriers
 
-    (a) __Enforcement of Orders.—__ 
+    (a)  __Enforcement of Orders__  __.—__ 
 
     A person injured because a pipeline carrier providing transportation or service subject to this part does not obey an order of the Board, except an order for the payment of money, may bring a civil action to enforce that order under this subsection.
 
     (b) __Liability of Carrier.—__ 
 
-        (1) __Excessive charges.—__ 
+        (1)  __Excessive charges__  __.—__ 
 
         A pipeline carrier providing transportation subject to this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
 
-        (2) __Damages.—__ 
+        (2)  __Damages__  __.—__ 
 
         A pipeline carrier providing transportation subject to this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part.
 
     (c) __Complaints.—__ 
 
-        (1) __Filing.—__ 
+        (1)  __Filing__  __.—__ 
 
         A person may file a complaint with the Board under section 15901(b) or bring a civil action under subsection (b) to enforce liability against a pipeline carrier providing transportation subject to this part.
 
-        (2) __Payment deadline.—__ 
+        (2)  __Payment deadline__  __.—__ 
 
         When the Board makes an award under subsection (b), the Board shall order the carrier to pay the amount awarded by a specific date. The Board may order a carrier providing transportation subject to this part to pay damages only when the proceeding is on complaint. The person for whose benefit an order of the Board requiring the payment of money is made may bring a civil action to enforce that order under this paragraph if the carrier does not pay the amount awarded by the date payment was ordered to be made.
 
     (d) __Civil Actions.—__ 
 
-        (1) __Complaint.—__ 
+        (1)  __Complaint__  __.—__ 
 
         When a person begins a civil action under subsection (b) to enforce an order of the Board requiring the payment of damages by a pipeline carrier providing transportation subject to this part, the text of the order of the Board must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
-        (2) __Attorney’s fees.—__ 
+        (2)  __Attorney’s fees__  __.—__ 
 
         The district court shall award a reasonable attorney’s fee as a part of the damages for which a carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
 

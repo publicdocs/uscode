@@ -15,7 +15,7 @@
 
 ## § 47173. Airport funding of FAA staff
 
-    (a) __Acceptance of Sponsor-Provided Funds.—__ 
+    (a)  __Acceptance of Sponsor-Provided Funds__  __.—__ 
 
     Notwithstanding any other provision of law, the Administrator of the Federal Aviation Administration may accept funds from an airport sponsor, including funds provided to the sponsor under section 47114(c), to hire additional staff or obtain the services of consultants—
 
@@ -29,11 +29,11 @@
 
         (5) to facilitate the timely processing, review, and completion of environmental activities associated with new or amended flight procedures, including performance-based navigation procedures, such as required navigation performance procedures and area navigation procedures.
 
-    (b) __Administrative Provision.—__ 
+    (b)  __Administrative Provision__  __.—__ 
 
     Instead of payment from an airport sponsor from funds apportioned to the sponsor under section 47114, the Administrator, with agreement of the sponsor, may transfer funds that would otherwise be apportioned to the sponsor under section 47114 to the account used by the Administrator for activities described in subsection (a).
 
-    (c) __Receipts Credited as Offsetting Collections.—__ 
+    (c)  __Receipts Credited as Offsetting Collections__  __.—__ 
 
     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], any funds accepted under this section, except funds transferred pursuant to subsection (b)—
 
@@ -43,7 +43,7 @@
 
         (3) shall remain available until expended.
 
-    (d) __Maintenance of Effort.—__ 
+    (d)  __Maintenance of Effort__  __.—__ 
 
     No funds may be accepted pursuant to subsection (a), or transferred pursuant to subsection (b), in any fiscal year in which the Federal Aviation Administration does not allocate at least the amount it expended in fiscal year 2002 (excluding amounts accepted pursuant to section 337 of the Department of Transportation and Related Agencies Appropriations Act, 2002 ([115 Stat. 862][/us/stat/115/862])) for the activities described in subsection (a).
 

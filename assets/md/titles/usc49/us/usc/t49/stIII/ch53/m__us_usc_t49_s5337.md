@@ -15,11 +15,11 @@
 
 ## § 5337. State of good repair grants
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions shall apply:
 
-        (1) __Fixed guideway.—__ 
+        (1)  __Fixed guideway__  __.—__ 
 
         The term “fixed guideway” means a public transportation facility—
 
@@ -33,15 +33,15 @@
 
             (E) for a bus rapid transit system.
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” means the 50 States, the District of Columbia, and Puerto Rico.
 
-        (3) __State of good repair.—__ 
+        (3)  __State of good repair__  __.—__ 
 
         The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
 
-        (4) __Transit asset management plan.—__ 
+        (4)  __Transit asset management plan__  __.—__ 
 
         The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
 
@@ -51,7 +51,7 @@
 
     (b) __General Authority.—__ 
 
-        (1) __Eligible projects.—__ 
+        (1)  __Eligible projects__  __.—__ 
 
         The Secretary may make grants under this section to assist State and local governmental authorities in financing capital projects to maintain public transportation systems in a state of good repair, including projects to replace and rehabilitate—
 
@@ -77,97 +77,97 @@
 
             (K) other replacement and rehabilitation projects the Secretary determines appropriate.
 
-        (2) __Inclusion in plan.—__ 
+        (2)  __Inclusion in plan__  __.—__ 
 
         A recipient shall include a project carried out under paragraph (1) in the transit asset management plan of the recipient upon completion of the plan.
 
     (c) __High Intensity Fixed Guideway State of Good Repair Formula.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Of the amount authorized or made available under section 5338(a)(2)(I), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
 
         (2) __Area share.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             50 percent of the amount described in paragraph (1) shall be apportioned for fixed guideway systems in accordance with this paragraph.
 
-            (B) __Share.—__ 
+            (B)  __Share__  __.—__ 
 
             A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
 
-            (C) __Recipient.—__ 
+            (C)  __Recipient__  __.—__ 
 
             For purposes of this paragraph, the term “recipient” means an entity that received funding under this section, as in effect for fiscal year 2011.
 
         (3) __Vehicle revenue miles and directional route miles.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             50 percent of the amount described in paragraph (1) shall be apportioned to recipients in accordance with this paragraph.
 
-            (B) __Vehicle revenue miles.—__ 
+            (B)  __Vehicle revenue miles__  __.—__ 
 
             A recipient in an urbanized area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway vehicle revenue miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all urbanized areas.
 
-            (C) __Directional route miles.—__ 
+            (C)  __Directional route miles__  __.—__ 
 
             A recipient in an urbanized area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway directional route miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all urbanized areas.
 
         (4) __Limitation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
 
-            (B) __Special rule for fiscal year 2013.—__ 
+            (B)  __Special rule for fiscal year 2013__  __.—__ 
 
             In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share that would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term “fixed guideway” under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
 
-        (5) __Use of funds.—__ 
+        (5)  __Use of funds__  __.—__ 
 
         Amounts made available under this subsection shall be available for the exclusive use of fixed guideway projects.
 
         (6) __Receiving apportionment.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             An area described in the amendment made by section 3028(a) of the Transportation Equity Act for the 21st Century ([Public Law 105–178][/us/pl/105/178]; [112 Stat. 366][/us/stat/112/366]) shall receive an individual apportionment under this subsection.
 
-        (7) __Apportionment requirements.—__ 
+        (7)  __Apportionment requirements__  __.—__ 
 
         For purposes of determining the number of fixed guideway vehicle revenue miles or fixed guideway directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of fixed guideway systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
 
     (d) __High Intensity Motorbus State of Good Repair.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “high intensity motorbus” means public transportation that is provided on a facility with access for other high-occupancy vehicles.
 
-        (2) __Apportionment.—__ 
+        (2)  __Apportionment__  __.—__ 
 
         Of the amount authorized or made available under section 5338(a)(2)(I), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus state of good repair in accordance with this subsection.
 
         (3) __Vehicle revenue miles and directional route miles.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The amount described in paragraph (2) shall be apportioned to each area in accordance with this paragraph.
 
-            (B) __Vehicle revenue miles.—__ 
+            (B)  __Vehicle revenue miles__  __.—__ 
 
             Each area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus vehicle revenue miles attributable to all areas.
 
-            (C) __Directional route miles.—__ 
+            (C)  __Directional route miles__  __.—__ 
 
             Each area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus directional route miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus directional route miles attributable to all areas.
 
-        (4) __Apportionment requirements.—__ 
+        (4)  __Apportionment requirements__  __.—__ 
 
         For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
 

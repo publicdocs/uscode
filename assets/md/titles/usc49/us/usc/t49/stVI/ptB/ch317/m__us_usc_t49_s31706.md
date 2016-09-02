@@ -15,15 +15,15 @@
 
 ## § 31706. Enforcement
 
-    (a) __Civil Actions.—__ 
+    (a)  __Civil Actions__  __.—__ 
 
     On request of the Secretary of Transportation, the Attorney General may bring a civil action in a court of competent jurisdiction to enforce compliance with sections 31704 and 31705 of this title.
 
-    (b) __Venue.—__ 
+    (b)  __Venue__  __.—__ 
 
     An action under this section may be brought only in the State in which an order is required to enforce compliance.
 
-    (c) __Relief.—__ 
+    (c)  __Relief__  __.—__ 
 
     Subject to [section 1341 of title 28][/us/usc/t28/s1341], the court, on a proper showing—
 

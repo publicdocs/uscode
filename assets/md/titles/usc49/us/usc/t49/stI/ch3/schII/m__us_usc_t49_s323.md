@@ -141,11 +141,11 @@ The text of 49:1343(d) (words after 1st comma) is omitted because of section 414
 
 [Pub. L. 112–141, div. C, title I, § 31308(b)][/us/pl/112/141/s31308/b], July 6, 2012, [126 Stat. 770][/us/stat/126/770], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Inspector General of the Department of Transportation shall conduct a study of the Department’s policies relating to post-employment restrictions on employees who perform functions related to transportation safety.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Inspector General shall submit a report containing the results of the study conducted under paragraph (1) to—
 
@@ -155,7 +155,7 @@ The text of 49:1343(d) (words after 1st comma) is omitted because of section 414
 
 >         “(C) the Secretary of Transportation.
 
->     “(3) __Use of results.—__ 
+>     “(3)  __Use of results__  __.—__ 
 
 >     The Secretary of Transportation shall review the results of the study conducted under paragraph (1) and take whatever action the Secretary determines to be appropriate.”
 

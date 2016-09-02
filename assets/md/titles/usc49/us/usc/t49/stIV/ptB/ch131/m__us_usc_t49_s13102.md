@@ -17,19 +17,19 @@
 
     In this part, the following definitions shall apply:
 
-    (1) __Board.—__ 
+    (1)  __Board__  __.—__ 
 
     The term “Board” means the Surface Transportation Board.
 
-    (2) __Broker.—__ 
+    (2)  __Broker__  __.—__ 
 
     The term “broker” means a person, other than a motor carrier or an employee or agent of a motor carrier, that as a principal or agent sells, offers for sale, negotiates for, or holds itself out by solicitation, advertisement, or otherwise as selling, providing, or arranging for, transportation by motor carrier for compensation.
 
-    (3) __Carrier.—__ 
+    (3)  __Carrier__  __.—__ 
 
     The term “carrier” means a motor carrier, a water carrier, and a freight forwarder.
 
-    (4) __Contract carriage.—__ 
+    (4)  __Contract carriage__  __.—__ 
 
     The term “contract carriage” means—
 
@@ -37,7 +37,7 @@
 
         (B) for transportation provided after December 31, 1995, service provided under an agreement entered into under section 14101(b).
 
-    (5) __Control.—__ 
+    (5)  __Control__  __.—__ 
 
     The term “control”, when referring to a relationship between persons, includes actual control, legal control, and the power to exercise control, through or by—
 
@@ -45,7 +45,7 @@
 
         (B) any other means.
 
-    (6) __Foreign motor carrier.—__ 
+    (6)  __Foreign motor carrier__  __.—__ 
 
     The term “foreign motor carrier” means a person (including a motor carrier of property but excluding a motor private carrier)—
 
@@ -57,7 +57,7 @@
 
         (B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
 
-    (7) __Foreign motor private carrier.—__ 
+    (7)  __Foreign motor private carrier__  __.—__ 
 
     The term “foreign motor private carrier” means a person (including a motor private carrier but excluding a motor carrier of property)—
 
@@ -69,7 +69,7 @@
 
         (B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
 
-    (8) __Freight forwarder.—__ 
+    (8)  __Freight forwarder__  __.—__ 
 
     The term “freight forwarder” means a person holding itself out to the general public (other than as a pipeline, rail, motor, or water carrier) to provide transportation of property for compensation and in the ordinary course of its business—
 
@@ -81,11 +81,11 @@
 
         The term does not include a person using transportation of an air carrier subject to part A of subtitle VII.
 
-    (9) __Highway.—__ 
+    (9)  __Highway__  __.—__ 
 
     The term “highway” means a road, highway, street, and way in a State.
 
-    (10) __Household goods.—__ 
+    (10)  __Household goods__  __.—__ 
 
     The term “household goods”, as used in connection with transportation, means personal effects and property used or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is—
 
@@ -93,13 +93,13 @@
 
         (B) arranged and paid for by another party.
 
-    (11) __Household goods freight forwarder.—__ 
+    (11)  __Household goods freight forwarder__  __.—__ 
 
     The term “household goods freight forwarder” means a freight forwarder of one or more of the following items: household goods, unaccompanied baggage, or used automobiles.
 
     (12) __Household goods motor carrier.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “household goods motor carrier” means a motor carrier that, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
 
@@ -111,15 +111,15 @@
 
             (iv) Loading and unloading at personal residences.
 
-        (B) __Inclusion.—__ 
+        (B)  __Inclusion__  __.—__ 
 
         The term includes any person that is considered to be a household goods motor carrier under regulations, determinations, and decisions of the Federal Motor Carrier Safety Administration that are in effect on the date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005.
 
-        (C) __Limited service exclusion.—__ 
+        (C)  __Limited service exclusion__  __.—__ 
 
         The term does not include a motor carrier when the motor carrier provides transportation of household goods in containers or trailers that are entirely loaded and unloaded by an individual (other than an employee or agent of the motor carrier).
 
-    (13) __Individual shipper.—__ 
+    (13)  __Individual shipper__  __.—__ 
 
     The term “individual shipper” means any person who—
 
@@ -131,11 +131,11 @@
 
         (D) pays his or her own tariff transportation charges.
 
-    (14) __Motor carrier.—__ 
+    (14)  __Motor carrier__  __.—__ 
 
     The term “motor carrier” means a person providing motor vehicle transportation for compensation.
 
-    (15) __Motor private carrier.—__ 
+    (15)  __Motor private carrier__  __.—__ 
 
     The term “motor private carrier” means a person, other than a motor carrier, transporting property by motor vehicle when—
 
@@ -145,31 +145,31 @@
 
         (C) the property is being transported for sale, lease, rent, or bailment or to further a commercial enterprise.
 
-    (16) __Motor vehicle.—__ 
+    (16)  __Motor vehicle__  __.—__ 
 
     The term “motor vehicle” means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on a highway in transportation, or a combination determined by the Secretary, but does not include a vehicle, locomotive, or car operated only on a rail, or a trolley bus operated by electric power from a fixed overhead wire, and providing local passenger transportation similar to street-railway service.
 
-    (17) __Noncontiguous domestic trade.—__ 
+    (17)  __Noncontiguous domestic trade__  __.—__ 
 
     The term “noncontiguous domestic trade” means transportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
 
-    (18) __Person.—__ 
+    (18)  __Person__  __.—__ 
 
     The term “person”, in addition to its meaning under [section 1 of title 1][/us/usc/t1/s1], includes a trustee, receiver, assignee, or personal representative of a person.
 
-    (19) __Pre-arranged ground transportation service.—__ 
+    (19)  __Pre-arranged ground transportation service__  __.—__ 
 
     The term “pre-arranged ground transportation service” means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
 
-    (20) __Secretary.—__ 
+    (20)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Transportation.
 
-    (21) __State.—__ 
+    (21)  __State__  __.—__ 
 
     The term “State” means the 50 States of the United States and the District of Columbia.
 
-    (22) __Taxicab service.—__ 
+    (22)  __Taxicab service__  __.—__ 
 
     The term “taxicab service” means passenger transportation in a motor vehicle having a capacity of not more than 8 passengers (including the driver), not operated on a regular route or between specified places, and that—
 
@@ -183,7 +183,7 @@
 
             (ii) does not primarily provide transportation to or from airports.
 
-    (23) __Transportation.—__ 
+    (23)  __Transportation__  __.—__ 
 
     The term “transportation” includes—
 
@@ -191,19 +191,19 @@
 
         (B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 
-    (24) __United states.—__ 
+    (24)  __United states__  __.—__ 
 
     The term “United States” means the States of the United States and the District of Columbia.
 
-    (25) __Vessel.—__ 
+    (25)  __Vessel__  __.—__ 
 
     The term “vessel” means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
 
-    (26) __Water carrier.—__ 
+    (26)  __Water carrier__  __.—__ 
 
     The term “water carrier” means a person providing water transportation for compensation.
 
-    (27) __Over-the-road bus.—__ 
+    (27)  __Over-the-road bus__  __.—__ 
 
     The term “over-the-road bus” means a bus characterized by an elevated passenger deck located over a baggage compartment.
 

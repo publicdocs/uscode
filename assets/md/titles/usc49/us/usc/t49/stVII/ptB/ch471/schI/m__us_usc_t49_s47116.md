@@ -15,11 +15,11 @@
 
 ## § 47116. Small airport fund
 
-    (a) __Existence and Amounts in Fund.—__ 
+    (a)  __Existence and Amounts in Fund__  __.—__ 
 
     The Secretary of Transportation has a small airport fund. The fund consists of 87.5 percent of amounts not apportioned under [section 47114 of this title][/us/usc/t49/s47114] because of section 47114(f).
 
-    (b) __Distribution of Amounts.—__ 
+    (b)  __Distribution of Amounts__  __.—__ 
 
     The Secretary may distribute amounts in the fund in each fiscal year for any purpose for which amounts are made available under [section 48103 of this title][/us/usc/t49/s48103] as follows:
 
@@ -33,25 +33,25 @@
 
             (B) two-thirds for grants to sponsors of each commercial service airport that each year has less than .05 percent of the total boardings in the United States in that year.
 
-    (c) __Authority To Receive Grant Not Dependent on Participation in Block Grant Pilot Program.—__ 
+    (c)  __Authority To Receive Grant Not Dependent on Participation in Block Grant Pilot Program__  __.—__ 
 
     An airport in a State participating in the State block grant pilot program under [section 47128 of this title][/us/usc/t49/s47128] may receive a grant under this section to the same extent the airport may receive a grant if the State were not participating in the program.
 
     (d) __Priority Consideration for Certain Projects.—__ 
 
-        (1) __Construction of new runways.—__ 
+        (1)  __Construction of new runways__  __.—__ 
 
         In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year proj­ects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
-        (2) __Airport development for turbine powered aircraft.—__ 
+        (2)  __Airport development for turbine powered aircraft__  __.—__ 
 
         In making grants to sponsors described in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
 
-    (e) __Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—__ 
+    (e)  __Set-Aside for Meeting Safety Terms in Airport Operating Certificates__  __.—__ 
 
     In the first fiscal year beginning after the effective date of regulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of the amounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
 
-    (f) __Notification of Source of Grant.—__ 
+    (f)  __Notification of Source of Grant__  __.—__ 
 
     Whenever the Secretary makes a grant under this section, the Secretary shall notify the recipient of the grant, in writing, that the source of the grant is from the small airport fund.
 

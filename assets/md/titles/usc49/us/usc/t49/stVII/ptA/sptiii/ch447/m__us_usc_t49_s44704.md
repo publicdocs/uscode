@@ -15,13 +15,13 @@
 
 ## § 44704. Type certificates, production certificates, airworthiness certificates,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and design and production organization certificates
 
-    (a) __Type Certificates.—__ 
+    (a)  __Type Certificates__  __.—__ 
 
-        (1) __Issuance, investigations, and tests.—__ 
+        (1)  __Issuance, investigations, and tests__  __.—__ 
 
         The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under [section 44701(a) of this title][/us/usc/t49/s44701/a]. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
-        (2) __Specifications.—__ 
+        (2)  __Specifications__  __.—__ 
 
         The Administrator may—
 
@@ -31,17 +31,17 @@
 
             (C) record on the certificate a numerical specification of the essential factors related to the performance of the aircraft, aircraft engine, or propeller for which the certificate is issued.
 
-        (3) __Special rules for new aircraft and appliances.—__ 
+        (3)  __Special rules for new aircraft and appliances__  __.—__ 
 
         Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
 
-        (4) __Limitation for aircraft manufactured before__  __august 5, 2004__  __.—__ 
+        (4)  __Limitation for aircraft manufactured before __  __august 5, 2004__  __.—__ 
 
         Paragraph (3) shall not apply to a person who began the manufacture of an aircraft before August 5, 2004, and who demonstrates to the satisfaction of the Administrator that such manufacture began before August 5, 2004, if the name of the holder of the type certificate for the aircraft does not appear on the airworthiness certificate or identification plate of the aircraft. The holder of the type certificate for the aircraft shall not be responsible for the continued airworthiness of the aircraft. A person may invoke the exception provided by this paragraph with regard to the manufacture of only one aircraft.
 
         (5) __Release of data.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding any other provision of law, the Administrator may make available upon request, to a person seeking to maintain the airworthiness or develop product improvements of an aircraft, engine, propeller, or appliance, engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate for such aircraft, engine, propeller, or appliance, without the consent of the owner of record, if the Administrator determines that—
 
@@ -51,33 +51,33 @@
 
                 (iii) making such data available will enhance aviation safety.
 
-            (B) __Engineering data defined.—__ 
+            (B)  __Engineering data defined__  __.—__ 
 
             In this section, the term “engineering data” as used with respect to an aircraft, engine, propeller, or appliance means type design drawing and specifications for the entire aircraft, engine, propeller, or appliance or change to the aircraft, engine, propeller, or appliance, including the original design data, and any associated supplier data for individual parts or components approved as part of the particular certificate for the aircraft, engine, propeller, or appliance.
 
-            (C) __Requirement to maintain data.—__ 
+            (C)  __Requirement to maintain data__  __.—__ 
 
             The Administrator shall maintain engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate that has been inactive for 3 or more years.
 
     (b) __Supplemental Type Certificates.—__ 
 
-        (1) __Issuance.—__ 
+        (1)  __Issuance__  __.—__ 
 
         The Administrator may issue a type certificate designated as a supplemental type certificate for a change to an aircraft, aircraft engine, propeller, or appliance.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         A supplemental type certificate issued under paragraph (1) shall consist of the change to the aircraft, aircraft engine, propeller, or appliance with respect to the previously issued type certificate for the aircraft, aircraft engine, propeller, or appliance.
 
-        (3) __Requirement.—__ 
+        (3)  __Requirement__  __.—__ 
 
         If the holder of a supplemental type certificate agrees to permit another person to use the certificate to modify an aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. A person may change an aircraft, aircraft engine, propeller, or appliance based on a supplemental type certificate only if the person requesting the change is the holder of the supplemental type certificate or has permission from the holder to make the change.
 
-    (c) __Production Certificates.—__ 
+    (c)  __Production Certificates__  __.—__ 
 
     The Administrator shall issue a production certificate authorizing the production of a duplicate of an aircraft, aircraft engine, propeller, or appliance for which a type certificate has been issued when the Administrator finds the duplicate will conform to the certificate. On receiving an application, the Administrator shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate. The Administrator may include in a production certificate terms required in the interest of safety.
 
-    (d) __Airworthiness Certificates.—__ 
+    (d)  __Airworthiness Certificates__  __.—__ 
 
         (1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
 
@@ -85,23 +85,23 @@
 
     (e) __Design and Production Organization Certificates.—__ 
 
-        (1) __Issuance.—__ 
+        (1)  __Issuance__  __.—__ 
 
         Beginning January 1, 2013, the Administrator may issue a certificate to a design organization, production organization, or design and production organization to authorize the organization to certify compliance of aircraft, aircraft engines, propellers, and appliances with the requirements and minimum standards prescribed under section 44701(a). An organization holding a certificate issued under this subsection shall be known as a certified design and production organization (in this subsection referred to as a “CDPO”).
 
-        (2) __Applications.—__ 
+        (2)  __Applications__  __.—__ 
 
         On receiving an application for a CDPO certificate, the Administrator shall examine and rate the organization submitting the application, in accordance with regulations to be prescribed by the Administrator, to determine whether the organization has adequate engineering, design, and production capabilities, standards, and safeguards to make certifications of compliance as described in paragraph (1).
 
-        (3) __Issuance of certificates based on cdpo findings.—__ 
+        (3)  __Issuance of certificates based on cdpo findings__  __.—__ 
 
         The Administrator may rely on certifications of compliance by a CDPO when making determinations under this section.
 
-        (4) __Public safety.—__ 
+        (4)  __Public safety__  __.—__ 
 
         The Administrator shall include in a CDPO certificate terms required in the interest of safety.
 
-        (5) __No effect on power of revocation.—__ 
+        (5)  __No effect on power of revocation__  __.—__ 
 
         Nothing in this subsection affects the authority of the Secretary of Transportation to revoke a certificate.
 
@@ -335,11 +335,11 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
 [Pub. L. 112–95, title III, § 312][/us/pl/112/95/s312], Feb. 14, 2012, [126 Stat. 66][/us/stat/126/66], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration, in consultation with representatives of the aviation industry, shall conduct an assessment of the certification and approval process under [section 44704 of title 49][/us/usc/t49/s44704], United States Code.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     In conducting the assessment, the Administrator shall consider—
 
@@ -355,15 +355,15 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
 >         “(6) the status of updating airworthiness requirements, including implementing recommendations in the Administration’s report entitled ‘Part 23—Small Airplane Certification Process Study’ (OK–09–3468, dated July 2009).
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process under section 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the assessment, together with an explanation of how the Administrator will implement recommendations made under subsection (c) and measure the effectiveness of the recommendations.
 
->     “(e) __Implementation of Recommendations.—__ 
+>     “(e)  __Implementation of Recommendations__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall begin to implement the recommendations made under subsection (c).”
 
@@ -373,7 +373,7 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
 >     “(a) __Preservation of Documents.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator of the Federal Aviation Administration shall take such actions as the Administrator determines necessary to preserve original aircraft type certificate engineering and technical data in the possession of the Federal Aviation Administration related to—
 
@@ -381,17 +381,17 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
 >             “(B) Group-2 approved aircraft type certificate numbers 2–1 through 2–544.
 
->         “(2) __Revision of order.—__ 
+>         “(2)  __Revision of order__  __.—__ 
 
 >         Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         The Administrator may carry out paragraph (1) in consultation with the Archivist of the United States and the Administrator of General Services.
 
 >     “(b) __Availability of Documents.—__ 
 
->         “(1) __Freedom of information act requests.—__ 
+>         “(1)  __Freedom of information act requests__  __.—__ 
 
 >         The Administrator shall make the documents to be preserved under subsection (a)(1) available to a person—
 
@@ -399,21 +399,21 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
 >             “(B) subject to a prohibition on use of the documents for commercial purposes.
 
->         “(2) __Trade secrets, commercial, and financial information.—__ 
+>         “(2)  __Trade secrets, commercial, and financial information__  __.—__ 
 
 >         Section 552(b)(4) of such title shall not apply to requests for documents to be made available pursuant to paragraph (1).
 
 >     “(c) __Holder of Type Certificate.—__ 
 
->         “(1) __Rights of holder.—__ 
+>         “(1)  __Rights of holder__  __.—__ 
 
 >         Nothing in this section shall affect the rights of a holder or owner of a type certificate identified in subsection (a)(1), nor require the holder or owner to provide, surrender, or preserve any original or duplicate engineering or technical data to or for the Federal Aviation Administration, a person, or the public.
 
->         “(2) __Liability.—__ 
+>         “(2)  __Liability__  __.—__ 
 
 >         There shall be no liability on the part of, and no cause of action of any nature shall arise against, a holder of a type certificate, its authorized representative, its agents, or its employees, or any firm, person, corporation, or insurer related to the type certificate data and documents identified in subsection (a)(1).
 
->         “(3) __Airworthiness.—__ 
+>         “(3)  __Airworthiness__  __.—__ 
 
 >         Notwithstanding any other provision of law, the holder of a type certificate identified in subsection (a)(1) shall only be responsible for Federal Aviation Administration regulation requirements related to type certificate data and documents identified in subsection (a)(1) for aircraft having a standard airworthiness certificate issued prior to the date the documents are released to a person by the Federal Aviation Administration under subsection (b)(1).”
 

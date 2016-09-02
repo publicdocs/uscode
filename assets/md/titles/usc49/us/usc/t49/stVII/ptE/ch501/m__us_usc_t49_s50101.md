@@ -15,11 +15,11 @@
 
 ## § 50101. Buying goods produced in the United States
 
-    (a) __Preference.—__ 
+    (a)  __Preference__  __.—__ 
 
     The Secretary of Transportation may obligate an amount that may be appropriated to carry out section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title for a project only if steel and manufactured goods used in the project are produced in the United States.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     The Secretary may waive subsection (a) of this section if the Secretary finds that—
 
@@ -37,7 +37,7 @@
 
         (4) including domestic material will increase the cost of the overall project by more than 25 percent.
 
-    (c) __Labor Costs.—__ 
+    (c)  __Labor Costs__  __.—__ 
 
     In this section, labor costs involved in final assembly are not included in calculating the cost of components.
 
@@ -145,13 +145,13 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 
 [Pub. L. 103–305, title III, § 305][/us/pl/103/305/s305], Aug. 23, 1994, [108 Stat. 1592][/us/stat/108/1592], provided that:
 
->     “(a) __Prohibition Against Fraudulent Use of ‘Made in America’ Labels.—__ 
+>     “(a)  __Prohibition Against Fraudulent Use of ‘Made in America’ Labels__  __.—__ 
 
 >         (1) A person shall not intentionally affix a label bearing the inscription of ‘Made in America’, or any inscription with that meaning, to any product sold in or shipped to the United States, if that product is not a domestic product.
 
 >         “(2) A person who violates paragraph (1) shall not be eligible for any contract for a procurement carried out with amounts authorized under this title \[enacting [section 47509 of this title][/us/usc/t49/s47509], amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and [section 40101 of this title][/us/usc/t49/s40101]\], including any subcontract under such a contract pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, or any successor procedures thereto.
 
->     “(b) __Compliance With Buy American Act.—__ 
+>     “(b)  __Compliance With Buy American Act__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the head of each office within the Federal Aviation Administration that conducts procurements shall ensure that such procurements are conducted in compliance with sections 2 through 4 of the Act of March 3, 1933 (\[former\] [41 U.S.C. 10a][/us/usc/t41/s10a] through 10c, popularly known as the ‘Buy American Act’ \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\]).
 
@@ -165,7 +165,7 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 
 >         “(3) The Secretary, before January 1, 1995, shall report to the Congress on procurements covered under this subsection of products that are not domestic products.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purposes of this section, the term ‘domestic product’ means a product—
 
@@ -179,11 +179,11 @@ Nov. 5, 1990, Pub. L. 101–508, § 9129, 104 Stat. 1388–371.  </td>
 
 [Pub. L. 103–305, title III, § 306][/us/pl/103/305/s306], Aug. 23, 1994, [108 Stat. 1593][/us/stat/108/1593], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that any recipient of a grant under this title \[enacting [section 47509 of this title][/us/usc/t49/s47509], amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and [section 40101 of this title][/us/usc/t49/s40101]\], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In allocating grants under this title, or under any amendment made by this title, the Secretary shall provide to each recipient a notice describing the statement made in subsection (a) by the Congress.”
 

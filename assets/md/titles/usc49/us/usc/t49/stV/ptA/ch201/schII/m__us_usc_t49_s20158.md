@@ -15,17 +15,17 @@
 
 ## § 20158. Railroad safety technology grants
 
-    (a) __Grant Program.—__ 
+    (a)  __Grant Program__  __.—__ 
 
     The Secretary of Transportation shall establish a grant program for the deployment of train control technologies, train control component technologies, processor-based technologies, electronically controlled pneumatic brakes, rail integrity inspection systems, rail integrity warning systems, switch position indicators and monitors, remote control power switch technologies, track integrity circuit technologies, and other new or novel railroad safety technology.
 
     (b) __Grant Criteria.—__ 
 
-        (1) __Eligibility.—__ 
+        (1)  __Eligibility__  __.—__ 
 
         Grants shall be made under this section to eligible passenger and freight railroad carriers, railroad suppliers, and State and local governments for projects described in subsection (a) that have a public benefit of improved safety and network efficiency.
 
-        (2) __Considerations.—__ 
+        (2)  __Considerations__  __.—__ 
 
         Priority shall be given to projects that—
 
@@ -35,15 +35,15 @@
 
             (C) benefit both passenger and freight safety and efficiency.
 
-        (3) __Implementation plans.—__ 
+        (3)  __Implementation plans__  __.—__ 
 
         Grants may not be awarded under this section to entities that fail to develop and submit to the Secretary the plans required by sections 20156(e)(2) and 20157.
 
-        (4) __Matching requirements.—__ 
+        (4)  __Matching requirements__  __.—__ 
 
         Federal funds for any eligible project under this section shall not exceed 80 percent of the total cost of such project.
 
-    (c) __Authorization of Appropriations.—__ 
+    (c)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Secretary of Transportation $50,000,000 for each of fiscal years 2009 through 2013 to carry out this section. Amounts appropriated pursuant to this section shall remain available until expended.
 

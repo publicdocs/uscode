@@ -15,7 +15,7 @@
 
 ## § 47139. Emission credits for air quality projects
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described in sections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
 
@@ -29,15 +29,15 @@
 
         (5) The establishment of a method to assure the Secretary that, for any specific airport project for which funding is being requested, the appropriate credits will be granted.
 
-    (b) __Assurance of Receipt of Credits.—__ 
+    (b)  __Assurance of Receipt of Credits__  __.—__ 
 
     As a condition for making a grant for a project described in section 47102(3)(K), 47102(3)(L), or 47140 or as a condition for granting approval to collect or use a passenger facility charge for a project described in section 40117(a)(3)(G), 47102(3)(K), 47102(3)(L), or 47140, the Secretary must receive assurance from the State in which the project is located, or from the Administrator of the Environmental Protection Agency where there is a Federal implementation plan, that the airport sponsor will receive appropriate emission credits in accordance with the conditions of this section.
 
-    (c) __Previously Approved Projects.—__ 
+    (c)  __Previously Approved Projects__  __.—__ 
 
     The Administrator of the Environmental Protection Agency, in consultation with the Secretary, shall determine how to provide appropriate emissions credits to airport projects previously approved under section 47136 consistent with the guidance and conditions specified in subsection (a).
 
-    (d) __State Authority Under CAA.—__ 
+    (d)  __State Authority Under CAA__  __.—__ 
 
     Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act ([42 U.S.C. 7416][/us/usc/t42/s7416]).
 

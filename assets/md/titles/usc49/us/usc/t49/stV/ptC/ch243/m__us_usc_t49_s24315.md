@@ -15,7 +15,7 @@
 
 ## § 24315. Reports and audits
 
-    (a) __Amtrak Annual Operations Report.—__ 
+    (a)  __Amtrak Annual Operations Report__  __.—__ 
 
     Not later than February 15 of each year, Amtrak shall submit to Congress a report that—
 
@@ -49,7 +49,7 @@
 
             (B) proposals by Amtrak to solve those problems.
 
-    (b) __Amtrak General and Legislative Annual Report.—__ 
+    (b)  __Amtrak General and Legislative Annual Report__  __.—__ 
 
         (1)
 
@@ -61,27 +61,27 @@
 
         (2) Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
 
-    (c) __Secretary’s Report on Effectiveness of This Part.—__ 
+    (c)  __Secretary’s Report on Effectiveness of This Part__  __.—__ 
 
     The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under [section 308(a) of this title][/us/usc/t49/s308/a].
 
-    (d) __Independent Audits.—__ 
+    (d)  __Independent Audits__  __.—__ 
 
     An independent certified public accountant shall audit the financial statements of Amtrak each year. The audit shall be carried out at the place at which the financial statements normally are kept and under generally accepted auditing standards. A report of the audit shall be included in the report required by subsection (a) of this section.
 
-    (e) __Comptroller General Audits.—__ 
+    (e)  __Comptroller General Audits__  __.—__ 
 
     The Comptroller General may conduct performance audits of the activities and transactions of Amtrak. Each audit shall be conducted at the place at which the Comptroller General decides and under generally accepted management principles. The Comptroller General may prescribe regulations governing the audit.
 
-    (f) __Availability of Records and Property of Amtrak and Rail Carriers.—__ 
+    (f)  __Availability of Records and Property of Amtrak and Rail Carriers__  __.—__ 
 
     Amtrak and, if required by the Comptroller General, a rail carrier with which Amtrak has made a contract for intercity rail passenger transportation shall make available for an audit under subsection (d) or (e) of this section all records and property of, or used by, Amtrak or the carrier that are necessary for the audit. Amtrak and the carrier shall provide facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Amtrak and the carrier may keep all reports and property.
 
-    (g) __Comptroller General’s Report to Congress.—__ 
+    (g)  __Comptroller General’s Report to Congress__  __.—__ 
 
     The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
 
-    (h) __Access to Records and Accounts.—__ 
+    (h)  __Access to Records and Accounts__  __.—__ 
 
     A State shall have access to Amtrak’s records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.
 

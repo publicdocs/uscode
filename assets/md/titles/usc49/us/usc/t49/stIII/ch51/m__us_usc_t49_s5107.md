@@ -15,7 +15,7 @@
 
 ## § 5107. Hazmat employee training requirements and grants
 
-    (a) __Training Requirements.—__ 
+    (a)  __Training Requirements__  __.—__ 
 
     The Secretary shall prescribe by regulation requirements for training that a hazmat employer must give hazmat employees of the employer on the safe loading, unloading, handling, storing, and transporting of hazardous material and emergency preparedness for responding to an accident or incident involving the transportation of hazardous material. The regulations—
 
@@ -23,7 +23,7 @@
 
         (2) may provide for different training for different classes or categories of hazardous material and hazmat employees.
 
-    (b) __Beginning and Completing Training.—__ 
+    (b)  __Beginning and Completing Training__  __.—__ 
 
     A hazmat employer shall begin the training of hazmat employees of the employer not later than 6 months after the Secretary prescribes the regulations under subsection (a) of this section. The training shall be completed within a reasonable period of time after—
 
@@ -31,7 +31,7 @@
 
         (2) the date on which an individual is to begin carrying out a duty or power of a hazmat employee if the individual is employed as a hazmat employee after the 6-month period.
 
-    (c) __Certification of Training.—__ 
+    (c)  __Certification of Training__  __.—__ 
 
     After completing the training, each hazmat employer shall certify, with documentation the Secretary may require by regulation, that the hazmat employees of the employer have received training and have been tested on appropriate transportation areas of responsibility, including at least one of the following:
 
@@ -53,7 +53,7 @@
 
         (9) preparing a shipping document for transporting hazardous material.
 
-    (d) __Coordination of Training Requirements.—__ 
+    (d)  __Coordination of Training Requirements__  __.—__ 
 
     In consultation with the Administrator of the Environmental Protection Agency and the Secretary of Labor, the Secretary shall ensure that the training requirements prescribed under this section do not conflict with or duplicate—
 
@@ -63,7 +63,7 @@
 
     (e) __Training Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the availability of funds under section 5128(c), the Secretary shall make grants under this subsection—
 
@@ -71,7 +71,7 @@
 
             (B) to the extent determined appropriate by the Secretary, for such instructors to train hazmat employees.
 
-        (2) __Eligibility.—__ 
+        (2)  __Eligibility__  __.—__ 
 
         A grant under this subsection shall be made through a competitive process to a nonprofit organization that demonstrates—
 
@@ -79,17 +79,17 @@
 
             (B) the ability to reach and involve in a training program a target population of hazmat employees.
 
-    (f) __Training of Certain Employees.—__ 
+    (f)  __Training of Certain Employees__  __.—__ 
 
     The Secretary shall ensure that maintenance-of-way employees and railroad signalmen receive general awareness and familiarization training and safety training pursuant to section 172.704 of title 49, Code of Federal Regulations.
 
-    (g) __Relationship to Other Laws.—__ 
+    (g)  __Relationship to Other Laws__  __.—__ 
 
         (1) Chapter 35 of title 44 does not apply to an activity of the Secretary under subsections (a)–(d) of this section.
 
         (2) An action of the Secretary under subsections (a)–(d) of this section and section 5106 is not an exercise, under section 4(b)(1) of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 653(b)(1)][/us/usc/t29/s653/b/1]), of statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
 
-    (h) __Existing Effort.—__ 
+    (h)  __Existing Effort__  __.—__ 
 
     No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
 

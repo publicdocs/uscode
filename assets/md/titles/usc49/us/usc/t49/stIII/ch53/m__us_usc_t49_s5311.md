@@ -15,21 +15,21 @@
 
 ## § 5311. Formula grants for rural areas
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     As used in this section, the following definitions shall apply:
 
-        (1) __Recipient.—__ 
+        (1)  __Recipient__  __.—__ 
 
         The term “recipient” means a State or Indian tribe that receives a Federal transit program grant directly from the Government.
 
-        (2) __Subrecipient.—__ 
+        (2)  __Subrecipient__  __.—__ 
 
         The term “subrecipient” means a State or local governmental authority, a nonprofit organization, or an operator of public transportation or intercity bus service that receives Federal transit program grant funds indirectly through a recipient.
 
     (b) __General Authority.—__ 
 
-        (1) __Grants authorized.—__ 
+        (1)  __Grants authorized__  __.—__ 
 
         Except as provided by paragraph (2), the Secretary may award grants under this section to recipients located in rural areas for—
 
@@ -45,15 +45,15 @@
 
         (2) __State program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A project eligible for a grant under this section shall be included in a State program for public transportation service projects, including agreements with private providers of public transportation service.
 
-            (B) __Submission to secretary.—__ 
+            (B)  __Submission to secretary__  __.—__ 
 
             Each State shall submit to the Secretary annually the program described in subparagraph (A).
 
-            (C) __Approval.—__ 
+            (C)  __Approval__  __.—__ 
 
             The Secretary may not approve the program unless the Secretary determines that—
 
@@ -63,19 +63,19 @@
 
         (3) __Rural transportation assistance program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall carry out a rural transportation assistance program in rural areas.
 
-            (B) __Grants and contracts.—__ 
+            (B)  __Grants and contracts__  __.—__ 
 
             In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(E) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
 
-            (C) __Projects of a national scope.—__ 
+            (C)  __Projects of a national scope__  __.—__ 
 
             Not more than 15 percent of the amounts available under subparagraph (B) may be used by the Secretary to carry out competitively selected projects of a national scope, with the remaining balance provided to the States.
 
-        (4) __Data collection.—__ 
+        (4)  __Data collection__  __.—__ 
 
         Each recipient under this section shall submit an annual report to the Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
 
@@ -95,7 +95,7 @@
 
     (c) __Apportionments.—__ 
 
-        (1) __Public transportation on indian reservations.—__ 
+        (1)  __Public transportation on indian reservations__  __.—__ 
 
         Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
 
@@ -105,7 +105,7 @@
 
         (2) __Appalachian development public transportation assistance program.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph—
 
@@ -113,15 +113,15 @@
 
                 (ii) the term “eligible recipient” means a State that participates in a program established under subtitle IV of title 40.
 
-            (B) __In general.—__ 
+            (B)  __In general__  __.—__ 
 
             The Secretary shall carry out a public transportation assistance program in the Appalachian region.
 
-            (C) __Apportionment.—__ 
+            (C)  __Apportionment__  __.—__ 
 
             Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(E) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
 
-            (D) __Special rule.—__ 
+            (D)  __Special rule__  __.—__ 
 
             An eligible recipient may use amounts that cannot be used for operating expenses under this paragraph for a highway project if—
 
@@ -131,49 +131,49 @@
 
         (3) __Remaining amounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
 
             (B) __Apportionment based on land area and population in nonurbanized areas.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 83.15 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
 
                 (ii) __Land area.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
 
-                    (II) __Maximum apportionment.—__ 
+                    (II)  __Maximum apportionment__  __.—__ 
 
                     No State shall receive more than 5 percent of the amount apportioned under subclause (I).
 
-                (iii) __Population.—__ 
+                (iii)  __Population__  __.—__ 
 
                 Each State shall receive an amount equal to 80 percent of the amount apportioned under clause (i), multiplied by the ratio of the population of rural areas in that State and divided by the population of all rural areas in the United States, as shown by the most recent decennial census of population.
 
             (C) __Apportionment based on land area, vehicle revenue miles, and low-income individuals in nonurbanized areas.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 16.85 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
 
-                (ii) __Land area.—__ 
+                (ii)  __Land area__  __.—__ 
 
                 Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
 
-                (iii) __Vehicle revenue miles.—__ 
+                (iii)  __Vehicle revenue miles__  __.—__ 
 
                 Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of vehicle revenue miles in rural areas in that State and divided by the vehicle revenue miles in all rural areas in the United States, as determined by national transit database reporting.
 
-                (iv) __Low-income individuals.—__ 
+                (iv)  __Low-income individuals__  __.—__ 
 
                 Each State shall receive an amount that is equal to 40.64 percent of the amount apportioned under clause (i), multiplied by the ratio of low-income individuals in rural areas in that State and divided by the number of low-income individuals in all rural areas in the United States, as shown by the Bureau of the Census.
 
-                (v) __Maximum apportionment.—__ 
+                (v)  __Maximum apportionment__  __.—__ 
 
                 No State shall receive—
 
@@ -181,17 +181,17 @@
 
                     (II) more than 5 percent of the amount apportioned under clause (iii).
 
-    (d) __Use for Local Transportation Service.—__ 
+    (d)  __Use for Local Transportation Service__  __.—__ 
 
     A State may use an amount apportioned under this section for a project included in a program under subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
 
-    (e) __Use for Administration, Planning, and Technical Assistance.—__ 
+    (e)  __Use for Administration, Planning, and Technical Assistance__  __.—__ 
 
     The Secretary may allow a State to use not more than 10 percent of the amount apportioned under this section to administer this section and provide technical assistance to a subrecipient, including project planning, program and management development, coordination of public transportation programs, and research the State considers appropriate to promote effective delivery of public transportation to a rural area.
 
     (f) __Intercity Bus Transportation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A State shall expend at least 15 percent of the amount made available in each fiscal year to carry out a program to develop and support intercity bus transportation. Eligible activities under the program include—
 
@@ -205,7 +205,7 @@
 
             (E) coordinating rural connections between small public transportation operations and intercity bus carriers.
 
-        (2) __Certification.—__ 
+        (2)  __Certification__  __.—__ 
 
         A State does not have to comply with paragraph (1) of this subsection in a fiscal year in which the Governor of the State certifies to the Secretary, after consultation with affected intercity bus service providers, that the intercity bus service needs of the State are being met adequately.
 
@@ -213,25 +213,25 @@
 
         (1) __Capital projects.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided by subparagraph (B), a grant awarded under this section for a capital project or project administrative expenses shall be for 80 percent of the net costs of the project, as determined by the Secretary.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             A State described in [section 120(b) of title 23][/us/usc/t23/s120/b] shall receive a Government share of the net costs in accordance with the formula under that section.
 
         (2) __Operating assistance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided by subparagraph (B), a grant made under this section for operating assistance may not exceed 50 percent of the net operating costs of the project, as determined by the Secretary.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             A State described in [section 120(b) of title 23][/us/usc/t23/s120/b] shall receive a Government share of the net operating costs equal to 62.5 percent of the Government share provided for under paragraph (1)(B).
 
-        (3) __Remainder.—__ 
+        (3)  __Remainder__  __.—__ 
 
         The remainder of net project costs—
 
@@ -243,25 +243,25 @@
 
             (D) in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
 
-        (4) __Use of certain funds.—__ 
+        (4)  __Use of certain funds__  __.—__ 
 
         For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)][/us/usc/t42/s603/a/5/C/vii]) shall not apply to Federal or State funds to be used for transportation purposes.
 
-        (5) __Limitation on operating assistance.—__ 
+        (5)  __Limitation on operating assistance__  __.—__ 
 
         A State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.
 
-    (h) __Transfer of Facilities and Equipment.—__ 
+    (h)  __Transfer of Facilities and Equipment__  __.—__ 
 
     With the consent of the recipient currently having a facility or equipment acquired with assistance under this section, a State may transfer the facility or equipment to any recipient eligible to receive assistance under this chapter if the facility or equipment will continue to be used as required under this section.
 
     (i) __Relationship to Other Laws.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Section 5333(b) applies to this section if the Secretary of Labor utilizes a special warranty that provides a fair and equitable arrangement to protect the interests of employees.
 
-        (2) __Rule of construction.—__ 
+        (2)  __Rule of construction__  __.—__ 
 
         This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
 
@@ -269,7 +269,7 @@
 
         (1) __Apportionment.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Of the amounts described in subsection (c)(1)(B)—
 
@@ -279,19 +279,19 @@
 
                 (iii) 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
 
-            (B) __Limitation.—__ 
+            (B)  __Limitation__  __.—__ 
 
             No recipient shall receive more than $300,000 of the amounts apportioned under subparagraph (A)(iii) in a fiscal year.
 
-            (C) __Remaining amounts.—__ 
+            (C)  __Remaining amounts__  __.—__ 
 
             Of the amounts made available under subparagraph (A)(iii), any amounts not apportioned under that subparagraph shall be allocated among Indian tribes receiving less than $300,000 in a fiscal year according to the formula specified in that clause.
 
-            (D) __Low-income individuals.—__ 
+            (D)  __Low-income individuals__  __.—__ 
 
             For purposes of subparagraph (A)(iii), the term “low-income individual” means an individual whose family income is at or below 100 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]), including any revision required by that section, for a family of the size involved.
 
-        (2) __Non-tribal service providers.—__ 
+        (2)  __Non-tribal service providers__  __.—__ 
 
         A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 

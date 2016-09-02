@@ -15,7 +15,7 @@
 
 ## § 20112. Enforcement by the Attorney General
 
-    (a) __Civil Actions.—__ 
+    (a)  __Civil Actions__  __.—__ 
 
     At the request of the Secretary of Transportation, the Attorney General may bring a civil action in a district court of the United States—
 
@@ -25,7 +25,7 @@
 
         (3) to enforce a subpoena, request for admissions, request for production of documents or other tangible things, or request for testimony by deposition issued by the Secretary under this part.
 
-    (b) __Venue.—__ 
+    (b)  __Venue__  __.—__ 
 
         (1) Except as provided in paragraph (2) of this subsection, a civil action under this section may be brought in the judicial district in which the violation occurred or the defendant has its principal executive office. If an action to collect a penalty is against an individual, the action also may be brought in the judicial district in which the individual resides.
 

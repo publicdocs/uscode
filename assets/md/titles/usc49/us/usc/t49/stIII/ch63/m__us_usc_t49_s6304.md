@@ -15,7 +15,7 @@
 
 ## § 6304. National Transportation Library
 
-    (a) __Purpose and Establishment.—__ 
+    (a)  __Purpose and Establishment__  __.—__ 
 
     To support the information management and decisionmaking needs of transportation officials at the Federal, State, and local levels, there is established in the Bureau a National Transportation Library which shall—
 
@@ -47,13 +47,13 @@
 
         (9) engage in such other activities as the Director determines to be necessary and as the resources of the Library permit.
 
-    (b) __Access.—__ 
+    (b)  __Access__  __.—__ 
 
     The Director shall publicize, facilitate, and promote access to the information products and services described in subsection (a), to improve the ability of the transportation community to share information and the ability of the Director to make statistics and other information readily accessible as required under section 6302(b)(3)(B)(x).
 
     (c) __Agreements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To carry out this section, the Director may enter into agreements with, award grants to, and receive amounts from, any—
 
@@ -65,11 +65,11 @@
 
             (D) individual.
 
-        (2) __Contracts, grants, and agreements.—__ 
+        (2)  __Contracts, grants, and agreements__  __.—__ 
 
         The Library may initiate and support specific information and data management, access, and exchange activities in connection with matters relating to the Department’s strategic goals, knowledge networking, and national and international cooperation, by entering into contracts or other agreements or awarding grants for the conduct of such activities.
 
-        (3) __Amounts.—__ 
+        (3)  __Amounts__  __.—__ 
 
         Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Research and Innovative Technology Administration’s general fund account, and remain available until expended.
 

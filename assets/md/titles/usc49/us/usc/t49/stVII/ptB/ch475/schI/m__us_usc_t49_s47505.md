@@ -15,7 +15,7 @@
 
 ## § 47505. Airport noise compatibility planning grants
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Transportation may make a grant to a sponsor of an airport to develop, for planning purposes, information necessary to prepare and submit—
 
@@ -23,7 +23,7 @@
 
         (2) a noise compatibility program under [section 47504 of this title][/us/usc/t49/s47504].
 
-    (b) __Availability of Amounts and Government’s Share of Costs.—__ 
+    (b)  __Availability of Amounts and Government’s Share of Costs__  __.—__ 
 
     A grant under subsection (a) of this section may be made from amounts available under [section 48103 of this title][/us/usc/t49/s48103]. The United States Government’s share of the grant is the percent for which a project for airport development at an airport would be eligible under section 47109(a) and (b) of this title.
 

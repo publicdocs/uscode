@@ -17,7 +17,7 @@
 
     (a) __Short Term Transition.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Within 180 days after the date of enactment of the Aviation and Transportation Security Act, the Under Secretary for Transportation Security may, in consultation with Congress—
 
@@ -25,7 +25,7 @@
 
             (B) provide Congress with an action plan, containing measurable goals and milestones, that outlines how those levels of performance will be achieved.
 
-        (2) __Basics of action plan.—__ 
+        (2)  __Basics of action plan__  __.—__ 
 
         The action plan shall clarify the responsibilities of the Transportation Security Administration, the Federal Aviation Administration and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 
@@ -39,7 +39,7 @@
 
                 (ii) In addition to meeting the requirements of GPRA, the performance plan should clarify the responsibilities of the Secretary, the Under Secretary for Transportation Security and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 
-            (B) __Performance report.—__ 
+            (B)  __Performance report__  __.—__ 
 
             Each year, consistent with the requirements of GPRA, the Under Secretary for Transportation Security shall prepare and submit to Congress an annual report including an evaluation of the extent goals and objectives were met. The report shall include the results achieved during the year relative to the goals established in the performance plan.
 

@@ -15,11 +15,11 @@
 
 ## § 22702. Authority
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Each State may prepare and maintain a State rail plan in accordance with the provisions of this chapter.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     The Secretary shall establish the minimum requirements for the preparation and periodic revision of a State rail plan, including that a State shall—
 

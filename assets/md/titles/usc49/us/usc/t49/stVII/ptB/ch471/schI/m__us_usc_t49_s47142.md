@@ -15,7 +15,7 @@
 
 ## § 47142. Design-build contracting
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may approve an application of an airport sponsor under this section to authorize the airport sponsor to award a design-build contract using a selection process permitted under applicable State or local law if—
 
@@ -31,11 +31,11 @@
 
         (6) the Administrator is satisfied that the selection process will be as open, fair, and objective as the competitive bid system and that at least 3 or more bids will be submitted for each project under the selection process.
 
-    (b) __Reimbursement of Costs.—__ 
+    (b)  __Reimbursement of Costs__  __.—__ 
 
     The Administrator may reimburse an airport sponsor for design and construction costs incurred before a grant is made pursuant to this section if the project is approved by the Administrator in advance and is carried out in accordance with all administrative and statutory requirements that would have been applicable under this chapter if the project were carried out after a grant agreement had been executed.
 
-    (c) __Design-Build Contract Defined.—__ 
+    (c)  __Design-Build Contract Defined__  __.—__ 
 
     In this section, the term “design-build contract” means an agreement that provides for both design and construction of a project by a contractor.
 

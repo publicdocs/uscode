@@ -15,7 +15,7 @@
 
 ## § 32709. Penalties and enforcement
 
-    (a) __Civil Penalty.—__ 
+    (a)  __Civil Penalty__  __.—__ 
 
         (1) A person that violates this chapter or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each motor vehicle or device involved in the violation. The maximum penalty under this subsection for a related series of violations is $1,000,000.
 
@@ -31,15 +31,15 @@
 
             (C) other matters that justice requires.
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
     A person that knowingly and willfully violates this chapter or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 3 years, or both. If the person is a corporation, the penalties of this subsection also apply to a director, officer, or individual agent of a corporation who knowingly and willfully authorizes, orders, or performs an act in violation of this chapter or a regulation prescribed or order issued under this chapter without regard to penalties imposed on the corporation.
 
-    (c) __Civil Actions by Attorney General.—__ 
+    (c)  __Civil Actions by Attorney General__  __.—__ 
 
     The Attorney General may bring a civil action to enjoin a violation of this chapter or a regulation prescribed or order issued under this chapter. The action may be brought in the United States district court for the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 
-    (d) __Civil Actions by States.—__ 
+    (d)  __Civil Actions by States__  __.—__ 
 
         (1)
 

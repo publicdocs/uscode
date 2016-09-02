@@ -15,7 +15,7 @@
 
 ## § 41511. Special prices for foreign air transportation
 
-    (a) __Free and Reduced Pricing.—__ 
+    (a)  __Free and Reduced Pricing__  __.—__ 
 
     This chapter does not prohibit an air carrier or foreign air carrier, under terms the Secretary of Transportation prescribes, from issuing or interchanging tickets or passes for free or reduced-price foreign air transportation to or for the following:
 
@@ -35,7 +35,7 @@
 
         (8) other individuals under other circumstances the Secretary prescribes by regulation.
 
-    (b) __Space-Available Basis.—__ 
+    (b)  __Space-Available Basis__  __.—__ 
 
     Under terms the Secretary prescribes, an air carrier or foreign air carrier may grant reduced-price foreign air transportation on a space-available basis to the following:
 

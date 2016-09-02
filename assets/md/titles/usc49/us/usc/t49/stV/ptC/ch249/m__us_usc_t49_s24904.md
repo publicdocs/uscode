@@ -15,7 +15,7 @@
 
 ## § 24904. General authority
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     To carry out this chapter and the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 701][/us/usc/t45/s701] et seq.), Amtrak may—
 
@@ -33,11 +33,11 @@
 
         (7) appoint a general manager of the Northeast Corridor improvement program.
 
-    (b) __Compensatory Agreements.—__ 
+    (b)  __Compensatory Agreements__  __.—__ 
 
     Rail freight and commuter rail passenger transportation provided under subsection (a)(3) of this section shall be provided under compensatory agreements with the responsible carriers.
 
-    (c) __Compensation for Transportation Over Certain Rights of Way and Facilities.—__ 
+    (c)  __Compensation for Transportation Over Certain Rights of Way and Facilities__  __.—__ 
 
         (1) An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
 

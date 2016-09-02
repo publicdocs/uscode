@@ -15,7 +15,7 @@
 
 ## § 80304. Administrative
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as provided in subsections (b), (c), and (d) of this section, the Secretary of the Treasury—
 
@@ -23,7 +23,7 @@
 
         (2) shall prescribe regulations to carry out this chapter.
 
-    (b) __In Guam.—__ 
+    (b)  __In Guam__  __.—__ 
 
     The Governor of Guam—
 
@@ -33,7 +33,7 @@
 
         (3) may prescribe regulations to carry out this chapter in Guam.
 
-    (c) __In Northern Mariana Islands.—__ 
+    (c)  __In Northern Mariana Islands__  __.—__ 
 
     The Governor of the Northern Mariana Islands—
 
@@ -43,11 +43,11 @@
 
         (3) may prescribe regulations to carry out this chapter in the Northern Mariana Islands.
 
-    (d) __Attorney General.—__ 
+    (d)  __Attorney General__  __.—__ 
 
     The Attorney General, or officers, employees, or agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  designated by the Attorney General, shall carry out the laws referred to in [section 80306(b) of this title][/us/usc/t49/s80306/b] to the extent that the violation of this chapter involves contraband described in section 80302(a)(2) or (a)(5).
 
-    (e) __Customs Laws on Seizure and Forfeiture.—__ 
+    (e)  __Customs Laws on Seizure and Forfeiture__  __.—__ 
 
     The Secretary, or the Governor of Guam or of the Northern Mariana Islands as provided in subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
 

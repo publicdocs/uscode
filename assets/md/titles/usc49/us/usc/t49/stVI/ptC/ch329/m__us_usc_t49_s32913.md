@@ -15,7 +15,7 @@
 
 ## § 32913. Compromising and remitting civil penalties
 
-    (a) __General Authority and Limitations.—__ 
+    (a)  __General Authority and Limitations__  __.—__ 
 
     The Secretary of Transportation may compromise or remit the amount of a civil penalty imposed under section 32912(a) or (b) of this title. However, the amount of a penalty imposed under section 32912(b) may be compromised or remitted only to the extent—
 
@@ -25,7 +25,7 @@
 
         (3) the Federal Trade Commission certifies under subsection (b)(1) of this section that a reduction in the penalty is necessary to prevent a substantial lessening of competition.
 
-    (b) __Certification by Commission.—__ 
+    (b)  __Certification by Commission__  __.—__ 
 
         (1) A manufacturer liable for a civil penalty under [section 32912(b) of this title][/us/usc/t49/s32912/b] may apply to the Commission for a certification that a reduction in the penalty is necessary to prevent a substantial lessening of competition in the segment of the motor vehicle industry subject to the standard that was violated. The Commission shall make the certification when it finds that reduction is necessary to prevent the lessening. The Commission shall state in the certification the maximum amount by which the penalty may be reduced.
 

@@ -15,7 +15,7 @@
 
 ## § 24301. Status and applicable laws
 
-    (a) __Status.—__ 
+    (a)  __Status__  __.—__ 
 
     Amtrak—
 
@@ -25,43 +25,43 @@
 
         (3) is not a department, agency, or instrumentality of the United States Government, and shall not be subject to title 31.
 
-    (b) __Principal Office and Place of Business.—__ 
+    (b)  __Principal Office and Place of Business__  __.—__ 
 
     The principal office and place of business of Amtrak are in the District of Columbia. Amtrak is qualified to do business in each State in which Amtrak carries out an activity authorized under this part. Amtrak shall accept service of process by certified mail addressed to the secretary of Amtrak at its principal office and place of business. Amtrak is a citizen only of the District of Columbia when deciding original jurisdiction of the district courts of the United States in a civil action.
 
-    (c) __Application of Subtitle IV.—__ 
+    (c)  __Application of Subtitle IV__  __.—__ 
 
     Subtitle IV of this title shall not apply to Amtrak, except for sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
-    (d) __Application of Safety and Employee Relations Laws and Regulations.—__ 
+    (d)  __Application of Safety and Employee Relations Laws and Regulations__  __.—__ 
 
     Laws and regulations governing safety, employee representation for collective bargaining purposes, the handling of disputes between carriers and employees, employee retirement, annuity, and unemployment systems, and other dealings with employees that apply to a rail carrier subject to part A of subtitle IV of this title apply to Amtrak.
 
-    (e) __Application of Certain Additional Laws.—__ 
+    (e)  __Application of Certain Additional Laws__  __.—__ 
 
     [Section 552 of title 5][/us/usc/t5/s552], this part, and, to the extent consistent with this part, the District of Columbia Business Corporation Act (D.C. Code § 29–301 et seq.) apply to Amtrak. [Section 552 of title 5][/us/usc/t5/s552], United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.
 
-    (f) __Tax Exemption for Certain Commuter Authorities.—__ 
+    (f)  __Tax Exemption for Certain Commuter Authorities__  __.—__ 
 
     A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passenger transportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
 
-    (g) __Nonapplication of Rate, Route, and Service Laws.—__ 
+    (g)  __Nonapplication of Rate, Route, and Service Laws__  __.—__ 
 
     A State or other law related to rates, routes, or service does not apply to Amtrak in connection with rail passenger transportation.
 
-    (h) __Nonapplication of Pay Period Laws.—__ 
+    (h)  __Nonapplication of Pay Period Laws__  __.—__ 
 
     A State or local law related to pay periods or days for payment of employees does not apply to Amtrak. Except when otherwise provided under a collective bargaining agreement, an employee of Amtrak shall be paid at least as frequently as the employee was paid on October 1, 1979.
 
-    (i) __Preemption Related to Employee Work Requirements.—__ 
+    (i)  __Preemption Related to Employee Work Requirements__  __.—__ 
 
     A State may not adopt or continue in force a law, rule, regulation, order, or standard requiring Amtrak to employ a specified number of individuals to perform a particular task, function, or operation.
 
-    (j) __Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment.—__ 
+    (j)  __Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment__  __.—__ 
 
     Prohibitions of law applicable to an agreement for the joint use or operation of facilities and equipment necessary to provide quick and efficient rail passenger transportation do not apply to a person making an agreement with Amtrak to the extent necessary to allow the person to make and carry out obligations under the agreement.
 
-    (k) __Exemption From Additional Taxes.—__ 
+    (k)  __Exemption From Additional Taxes__  __.—__ 
 
         (1)
 
@@ -79,15 +79,15 @@
 
         (2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility, or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
 
-    (l) __Exemption From Taxes Levied After__  __September 30, 1981__  __.—__ 
+    (l)  __Exemption From Taxes Levied After September__  __30, 1981.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
 
         (2) The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this subsection and may grant equitable or declaratory relief requested by Amtrak.
 
-    (m) __Waste Disposal.—__ 
+    (m)  __Waste Disposal__  __.—__ 
 
         (1)
 
@@ -99,11 +99,11 @@
 
         (2) Section 361 of the Public Health Service Act ([42 U.S.C. 264][/us/usc/t42/s264]) and other laws of the United States, States, and local governments do not apply to waste disposal from rail carrier vehicles operated in intercity rail passenger transportation. The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this paragraph and may grant equitable or declaratory relief requested by Amtrak.
 
-    (n) __Rail Transportation Treated Equally.—__ 
+    (n)  __Rail Transportation Treated Equally__  __.—__ 
 
     When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-    (o) __Applicability of District of Columbia Law.—__ 
+    (o)  __Applicability of District of Columbia Law__  __.—__ 
 
     Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
 

@@ -15,13 +15,13 @@
 
 ## § 5305. Planning programs
 
-    (a) __State Defined.—__ 
+    (a)  __State Defined__  __.—__ 
 
     In this section, the term “State” means a State of the United States, the District of Columbia, and Puerto Rico.
 
     (b) __General Authority.—__ 
 
-        (1) __Grants and agreements.—__ 
+        (1)  __Grants and agreements__  __.—__ 
 
         Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
 
@@ -31,7 +31,7 @@
 
             (C) conduct technical studies relating to public transportation.
 
-        (2) __Eligible activities.—__ 
+        (2)  __Eligible activities__  __.—__ 
 
         Activities eligible under paragraph (1) include the following:
 
@@ -43,7 +43,7 @@
 
             (D) Other similar and related activities preliminary to and in preparation for constructing, acquiring, or improving the operation of facilities and equipment.
 
-    (c) __Purpose.—__ 
+    (c)  __Purpose__  __.—__ 
 
     To the extent practicable, the Secretary shall ensure that amounts appropriated or made available under section 5338 to carry out this section and sections 5303, 5304, and 5306 are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
 
@@ -51,7 +51,7 @@
 
         (1) __Apportionment to states.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall apportion 80 percent of the amounts made available under subsection (g)(1) among the States to carry out sections 5303 and 5306 in the ratio that—
 
@@ -59,11 +59,11 @@
 
                 (ii) the total population of urbanized areas in all States, as shown by that census.
 
-            (B) __Minimum apportionment.—__ 
+            (B)  __Minimum apportionment__  __.—__ 
 
             Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
 
-        (2) __Allocation to mpo’s.—__ 
+        (2)  __Allocation to mpo’s__  __.—__ 
 
         Amounts apportioned to a State under paragraph (1) shall be made available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
 
@@ -77,11 +77,11 @@
 
         (3) __Supplemental amounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall apportion 20 percent of the amounts made available under subsection (g)(1) among the States to supplement allocations made under paragraph (1) for metropolitan planning organizations.
 
-            (B) __Formula.—__ 
+            (B)  __Formula__  __.—__ 
 
             The Secretary shall apportion amounts referred to in subparagraph (A) under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under sections 5303 and 5306 in certain urbanized areas.
 
@@ -89,7 +89,7 @@
 
         (1) __Apportionment to states.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  5304 and 5306 in the ratio that—
 
@@ -97,19 +97,19 @@
 
                 (ii) the population of urbanized areas in all States, as shown by that census.
 
-            (B) __Minimum apportionment.—__ 
+            (B)  __Minimum apportionment__  __.—__ 
 
             Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
 
-        (2) __Supplemental amounts.—__ 
+        (2)  __Supplemental amounts__  __.—__ 
 
         A State, as the State considers appropriate, may authorize part of the amount made available under this subsection to be used to supplement amounts made available under subsection (d).
 
-    (f) __Government Share of Costs.—__ 
+    (f)  __Government Share of Costs__  __.—__ 
 
     The Government share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
 
-    (g) __Allocation of Funds.—__ 
+    (g)  __Allocation of Funds__  __.—__ 
 
     Of the funds made available by or appropriated to carry out this section under section 5338(a)(2)(A) for a fiscal year—
 
@@ -117,7 +117,7 @@
 
         (2) 17.28 percent shall be available to carry out subsection (e).
 
-    (h) __Availability of Funds.—__ 
+    (h)  __Availability of Funds__  __.—__ 
 
     Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 

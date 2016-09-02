@@ -15,7 +15,7 @@
 
 ## § 31112. Property-carrying unit limitation
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -23,7 +23,7 @@
 
         (2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
-    (b) __General Limitations.—__ 
+    (b)  __General Limitations__  __.—__ 
 
     A State may not allow by any means the operation, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under [section 31111(e) of this title][/us/usc/t49/s31111/e], of any commercial motor vehicle combination (except a vehicle or load that cannot be dismantled easily or divided easily and that has been issued a special permit under applicable State law) with more than one property-carrying unit (not including the truck tractor) whose property-carrying units are more than—
 
@@ -31,7 +31,7 @@
 
         (2) the length of the property-carrying units of those commercial motor vehicle combinations, by specific configuration, in actual, lawful operation on a regular or periodic basis (including continuing seasonal operation) in that State before June 2, 1991.
 
-    (c) __Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska.—__ 
+    (c)  __Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska__  __.—__ 
 
     In addition to the vehicles allowed under subsection (b) of this section—
 
@@ -45,7 +45,7 @@
 
         (5) Nebraska may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the State of Nebraska.
 
-    (d) __Additional Limitations.—__ 
+    (d)  __Additional Limitations__  __.—__ 
 
         (1) A commercial motor vehicle combination whose operation in a State is not prohibited under subsections (b) and (c) of this section may continue to operate in the State on highways described in subsection (b) only if at least in compliance with all State laws, regulations, limitations, and conditions, including routing-specific and configuration-specific designations and all other restrictions in force in the State on June 1, 1991. However, subject to regulations prescribed by the Secretary under subsection (g)(2) of this section, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
@@ -55,7 +55,7 @@
 
         (4)  <sup>\[1\]</sup>  <sup><sup> 1 See 1996 Amendment note below. </sup></sup>  Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
 
-    (e) __List of State Length Limitations.—__ 
+    (e)  __List of State Length Limitations__  __.—__ 
 
         (1) Not later than February 16, 1992, each State shall submit to the Secretary for publication a complete list of State length limitations applicable to commercial motor vehicle combinations operating in the State on the highways described in subsection (b) of this section. The list shall indicate the applicable State laws and regulations associated with the length limitations. If a State does not submit the information as required, the Secretary shall complete and file the information for the State.
 
@@ -67,7 +67,7 @@
 
         (5) On the Secretary’s own motion or on request by any person (including a State), the Secretary shall review the list published under paragraph (4) of this subsection. If the Secretary decides there is reason to believe a mistake was made in the accuracy of the list, the Secretary shall begin a proceeding to decide whether a mistake was made. If the Secretary decides there was a mistake, the Secretary shall publish the correction.
 
-    (f) __Limitations on Statutory Construction.—__ 
+    (f)  __Limitations on Statutory Construction__  __.—__ 
 
     This section may not be construed—
 
@@ -77,7 +77,7 @@
 
         (3) to affect in any way the operation in a State of a commercial motor vehicle with more than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
         (1) In carrying out this section only, the Secretary shall define by regulation loads that cannot be dismantled easily or divided easily.
 

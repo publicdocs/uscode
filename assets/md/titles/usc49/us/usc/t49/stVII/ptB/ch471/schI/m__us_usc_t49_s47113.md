@@ -15,7 +15,7 @@
 
 ## § 47113. Minority and disadvantaged business participation
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -31,29 +31,29 @@
 
         (3) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632](o)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “632(p)”. </sup></sup> ).
 
-    (b) __General Requirement.—__ 
+    (b)  __General Requirement__  __.—__ 
 
     Except to the extent the Secretary decides otherwise, at least 10 percent of amounts available in a fiscal year under [section 48103 of this title][/us/usc/t49/s48103] shall be expended with small business concerns owned and controlled by socially and economically disadvantaged individuals or qualified HUBZone small business concerns.
 
-    (c) __Uniform Criteria.—__ 
+    (c)  __Uniform Criteria__  __.—__ 
 
     The Secretary shall establish minimum uniform criteria for State governments and airport sponsors to use in certifying whether a small business concern qualifies under this section. The criteria shall include on-site visits, personal interviews, licenses, analyses of stock ownership and bonding capacity, listings of equipment and work completed, resumes of principal owners, financial capacity, and type of work preferred.
 
-    (d) __Surveys and Lists.—__ 
+    (d)  __Surveys and Lists__  __.—__ 
 
     Each State or airport sponsor annually shall survey and compile a list of small business concerns referred to in subsection (b) of this section and the location of each concern in the State.
 
     (e) __Mandatory Training Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
 
-        (2) __Implementation.—__ 
+        (2)  __Implementation__  __.—__ 
 
         The training program may be implemented by one or more private entities approved by the Secretary.
 
-        (3) __Participants.—__ 
+        (3)  __Participants__  __.—__ 
 
         A person referred to in paragraph (1) is an official or agent of an airport sponsor—
 

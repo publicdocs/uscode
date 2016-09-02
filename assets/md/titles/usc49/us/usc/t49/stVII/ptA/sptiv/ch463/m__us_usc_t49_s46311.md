@@ -15,7 +15,7 @@
 
 ## § 46311. Unlawful disclosure of information
 
-    (a) __Criminal Penalty.—__ 
+    (a)  __Criminal Penalty__  __.—__ 
 
     The Secretary of Transportation, the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary, Under Secretary, or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Under Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
 
@@ -23,7 +23,7 @@
 
         (2) is withheld from public disclosure under [section 40115 of this title][/us/usc/t49/s40115].
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     Subsection (a) of this section does not apply if—
 
@@ -31,7 +31,7 @@
 
         (2) the Secretary, Under Secretary, Administrator, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
 
-    (c) __Withholding Information From Congress.—__ 
+    (c)  __Withholding Information From Congress__  __.—__ 
 
     This section does not authorize the Secretary, Under Secretary, or Administrator to withhold information from a committee of Congress authorized to have the information.
 

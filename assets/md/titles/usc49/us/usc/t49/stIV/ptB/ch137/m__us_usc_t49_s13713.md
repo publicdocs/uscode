@@ -15,11 +15,11 @@
 
 ## § 13713. Food and grocery transportation
 
-    (a) __Certain Compensation Prohibited.—__ 
+    (a)  __Certain Compensation Prohibited__  __.—__ 
 
     Notwithstanding any other provision of law, it shall not be unlawful for a seller of food and grocery products using a uniform zone delivered pricing system to compensate a customer who picks up purchased food and grocery products at the shipping point of the seller if such compensation is available to all customers of the seller on a nondiscriminatory basis and does not exceed the actual cost to the seller of delivery to such customer.
 
-    (b) __Sense of Congress.—__ 
+    (b)  __Sense of Congress__  __.—__ 
 
     It is the sense of the Congress that any savings accruing to a customer by reason of compensation permitted by subsection (a) of this section should be passed on to the ultimate consumer.
 

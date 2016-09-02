@@ -15,11 +15,11 @@
 
 ## § 24306. Mail, express, and auto-ferry transportation
 
-    (a) __Actions To Increase Revenues.—__ 
+    (a)  __Actions To Increase Revenues__  __.—__ 
 
     Amtrak shall take necessary action to increase its revenues from the transportation of mail and express. To increase its revenues, Amtrak may provide auto-ferry transportation as part of the basic passenger transportation authorized by this part.
 
-    (b) __Authority of Others To Provide Auto-Ferry Transportation.—__ 
+    (b)  __Authority of Others To Provide Auto-Ferry Transportation__  __.—__ 
 
     State and local laws and regulations that impair the provision of auto-ferry transportation do not apply to Amtrak or a rail carrier providing auto-ferry transportation. A rail carrier may not refuse to participate with Amtrak in providing auto-ferry transportation because a State or local law or regulation makes the transportation unlawful.
 

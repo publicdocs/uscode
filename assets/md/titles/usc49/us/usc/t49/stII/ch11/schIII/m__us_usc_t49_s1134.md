@@ -15,7 +15,7 @@
 
 ## § 1134. Inspections and autopsies
 
-    (a) __Entry and Inspection.—__ 
+    (a)  __Entry and Inspection__  __.—__ 
 
     An officer or employee of the National Transportation Safety Board—
 
@@ -23,13 +23,13 @@
 
         (2) during reasonable hours, may inspect any record, process, control, or facility related to an accident investigation under this chapter.
 
-    (b) __Inspection, Testing, Preservation, and Moving of Aircraft and Parts.—__ 
+    (b)  __Inspection, Testing, Preservation, and Moving of Aircraft and Parts__  __.—__ 
 
         (1) In investigating an aircraft accident under this chapter, the Board may inspect and test, to the extent necessary, any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce.
 
         (2) Any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce shall be preserved, and may be moved, only as provided by regulations of the Board.
 
-    (c) __Avoiding Unnecessary Interference and Preserving Evidence.—__ 
+    (c)  __Avoiding Unnecessary Interference and Preserving Evidence__  __.—__ 
 
     In carrying out subsection (a)(1) of this section, an officer or employee may examine or test any vehicle, vessel, rolling stock, track, or pipeline component. The examination or test shall be conducted in a way that—
 
@@ -37,15 +37,15 @@
 
         (2) to the maximum extent feasible, preserves evidence related to the accident, consistent with the needs of the investigation and with the cooperation of that owner or operator.
 
-    (d) __Exclusive Authority of Board.—__ 
+    (d)  __Exclusive Authority of Board__  __.—__ 
 
     Only the Board has the authority to decide on the way in which testing under this section will be conducted, including decisions on the person that will conduct the test, the type of test that will be conducted, and any individual who will witness the test. Those decisions are committed to the discretion of the Board. The Board shall make any of those decisions based on the needs of the investigation being conducted and, when applicable, subsections (a), (c), and (e) of this section.
 
-    (e) __Promptness of Tests and Availability of Results.—__ 
+    (e)  __Promptness of Tests and Availability of Results__  __.—__ 
 
     An inspection, examination, or test under subsection (a) or (c) of this section shall be started and completed promptly, and the results shall be made available.
 
-    (f) __Autopsies.—__ 
+    (f)  __Autopsies__  __.—__ 
 
         (1) The Board may order an autopsy to be performed and have other tests made when necessary to investigate an accident under this chapter. However, local law protecting religious beliefs related to autopsies shall be observed to the extent consistent with the needs of the accident investigation.
 

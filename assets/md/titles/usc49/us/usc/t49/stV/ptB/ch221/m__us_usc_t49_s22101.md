@@ -15,7 +15,7 @@
 
 ## § 22101. Financial assistance for State projects
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The Secretary of Transportation shall provide financial assistance to a State, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
 
@@ -25,11 +25,11 @@
 
         (3) building rail or rail-related facilities (including new connections between at least 2 existing rail lines, intermodal freight terminals, sidings, bridges, and relocation of existing lines) to improve the quality and efficiency of the rail freight transportation, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
-    (b) __Calculating Cost-Benefit Ratio.—__ 
+    (b)  __Calculating Cost-Benefit Ratio__  __.—__ 
 
     The Secretary shall establish a methodology for calculating the ratio of benefits to costs of projects proposed under this chapter. In establishing the methodology, the Secretary shall consider the need for equitable treatment of different regions of the United States and different commodities transported by rail. The establishment of the methodology is committed to the discretion of the Secretary.
 
-    (c) __Conditions.—__ 
+    (c)  __Conditions__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
             (B) finds that there is a reasonable expectation that the contractual guarantees will be fulfilled.
 
-    (d) __Limitations on Amounts.—__ 
+    (d)  __Limitations on Amounts__  __.—__ 
 
     A State may not receive more than 15 percent of the amounts provided in a fiscal year under this chapter. Not more than 20 percent of the amounts available under this chapter may be provided in a fiscal year for any one project.
 

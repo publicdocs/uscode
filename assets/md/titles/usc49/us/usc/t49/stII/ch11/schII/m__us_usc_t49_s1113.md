@@ -15,7 +15,7 @@
 
 ## § 1113. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpena or otherwise, necessary witnesses and evidence.
 
@@ -25,7 +25,7 @@
 
         (4) If a person disobeys a subpoena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpoena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena, order, or notice as a contempt of court.
 
-    (b) __Additional Powers.—__ 
+    (b)  __Additional Powers__  __.—__ 
 
         (1)
 
@@ -51,45 +51,45 @@
 
         (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
-    (c) __Submission of Certain Copies to Congress.—__ 
+    (c)  __Submission of Certain Copies to Congress__  __.—__ 
 
     When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress. The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.
 
-    (d) __Liaison Committees.—__ 
+    (d)  __Liaison Committees__  __.—__ 
 
     The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
 
-    (e) __Inquiries.—__ 
+    (e)  __Inquiries__  __.—__ 
 
     The Board, or an officer or employee of the Board designated by the Chairman, may conduct an inquiry to obtain information related to transportation safety after publishing notice of the inquiry in the Federal Register. The Board or designated officer or employee may require by order a department, agency, or instrumentality of the Government, a State or local governmental authority, or a person transporting individuals or property in commerce to submit to the Board a written report and answers to requests and questions related to a duty or power of the Board. The Board may prescribe the time within which the report and answers must be given to the Board or to the designated officer or employee. Copies of the report and answers shall be made available for public inspection.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Board may prescribe regulations to carry out this chapter.
 
     (g) __Overtime Pay.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the requirements of this section and notwithstanding paragraphs (1) and (2) of [section 5542(a) of title 5][/us/usc/t5/s5542/a], for an employee of the Board whose basic pay is at a rate which equals or exceeds the minimum rate of basic pay for GS–10 of the General Schedule, the Board may establish an overtime hourly rate of pay for the employee with respect to work performed at the scene of an accident (including travel to or from the scene) and other work that is critical to an accident investigation in an amount equal to one and one-half times the hourly rate of basic pay of the employee. All of such amount shall be considered to be premium pay.
 
-        (2) __Limitation on overtime pay to an employee.—__ 
+        (2)  __Limitation on overtime pay to an employee__  __.—__ 
 
         An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
 
-        (3) __Limitation on total amount of overtime pay.—__ 
+        (3)  __Limitation on total amount of overtime pay__  __.—__ 
 
         The Board may not make overtime payments under paragraph (1) for work performed in any fiscal year in a total amount that exceeds 1.5 percent of the amount appropriated to carry out this chapter for that fiscal year.
 
-        (4) __Basic pay defined.—__ 
+        (4)  __Basic pay defined__  __.—__ 
 
         In this subsection, the term “basic pay” includes any applicable locality-based comparability payment under [section 5304 of title 5][/us/usc/t5/s5304] (or similar provision of law) and any special rate of pay under [section 5305 of title 5][/us/usc/t5/s5305] (or similar provision of law).
 
-        (5) __Annual report.—__ 
+        (5)  __Annual report__  __.—__ 
 
         Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
 
-    (h) __Investigative Officers.—__ 
+    (h)  __Investigative Officers__  __.—__ 
 
     The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
 
@@ -387,11 +387,11 @@ Jan. 3, 1975, Pub. L. 93–633, § 304(b)(12), 88 Stat. 2171; July 19, 1988, P
 
 [Pub. L. 108–168, § 4][/us/pl/108/168/s4], Dec. 6, 2003, [117 Stat. 2033][/us/stat/117/2033], as amended by [Pub. L. 109–443, § 3][/us/pl/109/443/s3], Dec. 21, 2006, [120 Stat. 3298][/us/stat/120/3298], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49][/us/usc/t49/s1113/b/1/B], United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
 
->     “(b) __Report on Usage.—__ 
+>     “(b)  __Report on Usage__  __.—__ 
 
 >     On July 1 of each year, as part of the annual report required by [section 1117 of title 49][/us/usc/t49/s1117], United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform \[now Committee on Oversight and Government Reform\], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
 

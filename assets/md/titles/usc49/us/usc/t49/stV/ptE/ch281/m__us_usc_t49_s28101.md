@@ -15,7 +15,7 @@
 
 ## § 28101. Rail police officers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under regulations prescribed by the Secretary of Transportation, a rail police officer who is employed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
 
@@ -27,7 +27,7 @@
 
         (4) personnel, equipment, and material moving by rail that are vital to the national defense.
 
-    (b) __Assignment.—__ 
+    (b)  __Assignment__  __.—__ 
 
     A railroad police officer employed by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
 

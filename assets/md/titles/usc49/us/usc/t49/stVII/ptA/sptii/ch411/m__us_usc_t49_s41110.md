@@ -15,7 +15,7 @@
 
 ## § 41110. Effective periods and amendments, modifications, suspensions, and revocations of certificates
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1)
 
@@ -39,11 +39,11 @@
 
         (4) A certificate to provide foreign air transportation may not be amended, modified, suspended, or revoked under [section 41111 of this title][/us/usc/t49/s41111] if the holder of the certificate requests an oral evidentiary hearing or the Secretary finds, under all the facts and circumstances, that the hearing is required in the public interest.
 
-    (b) __All-Cargo Air Transportation.—__ 
+    (b)  __All-Cargo Air Transportation__  __.—__ 
 
     The Secretary may order that a certificate issued under [section 41103 of this title][/us/usc/t49/s41103] authorizing all-cargo air transportation is ineffective if, after notice and an opportunity for a hearing, the Secretary finds that the transportation is not provided to the minimum extent specified by the Secretary.
 
-    (c) __Foreign Air Transportation.—__ 
+    (c)  __Foreign Air Transportation__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) Paragraph (1)(B) of this subsection does not apply to a place provided seasonal transportation comparable to the transportation provided during the prior year.
 
-    (d) __Temporary Certificates.—__ 
+    (d)  __Temporary Certificates__  __.—__ 
 
     On application or on the initiative of the Secretary, the Secretary may—
 
@@ -63,7 +63,7 @@
 
         (2) amend, modify, suspend, or revoke the certificate or authority under subsection (a)(2) or (c) of this section if the air carrier has not provided, or is not providing, the transportation.
 
-    (e) __Continuing Requirements.—__ 
+    (e)  __Continuing Requirements__  __.—__ 
 
         (1) To hold a certificate issued under [section 41102 of this title][/us/usc/t49/s41102], an air carrier must continue to be fit, willing, and able to provide the transportation authorized by the certificate and to comply with this part and regulations of the Secretary.
 
@@ -75,7 +75,7 @@
 
             (B) does not file reports necessary for the Secretary to decide if the carrier is complying with the requirements of clause (A) of this paragraph.
 
-    (f) __Illegal Importation of Controlled Substances.—__ 
+    (f)  __Illegal Importation of Controlled Substances__  __.—__ 
 
     The Secretary—
 
@@ -89,7 +89,7 @@
 
         (2) when appropriate, shall amend, modify, suspend, or revoke the certificate of the carrier issued under this chapter.
 
-    (g) __Responses.—__ 
+    (g)  __Responses__  __.—__ 
 
     An interested person may file a response with the Secretary opposing or supporting the amendment, modification, suspension, or revocation of a certificate under subsection (a) of this section.
 

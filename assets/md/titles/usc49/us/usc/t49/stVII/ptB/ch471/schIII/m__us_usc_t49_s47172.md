@@ -15,11 +15,11 @@
 
 ## § 47172. Air traffic procedures for airport capacity enhancement projects at congested airports
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of the Federal Aviation Administration may consider prescribing flight procedures to avoid or minimize potentially significant adverse noise impacts of an airport capacity enhancement project at a congested airport that involves the construction of new runways or the reconfiguration of existing runways during the environmental planning process for the project. If the Administrator determines that noise mitigation flight procedures are consistent with safe and efficient use of the navigable airspace, the Administrator may commit, at the request of the airport sponsor and in a manner consistent with applicable Federal law, to prescribing such procedures in any record of decision approving the project.
 
-    (b) __Modification.—__ 
+    (b)  __Modification__  __.—__ 
 
     Notwithstanding any commitment by the Administrator under subsection (a), the Administrator may initiate changes to such procedures if necessary to maintain safety and efficiency in light of new information or changed circumstances.
 

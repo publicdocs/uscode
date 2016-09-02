@@ -15,21 +15,21 @@
 
 ## § 44921. Federal flight deck officer program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Under Secretary of Transportation for Security shall establish a program to deputize volunteer pilots of air carriers providing air transportation or intrastate air transportation as Federal law enforcement officers to defend the flight decks of aircraft of such air carriers against acts of criminal violence or air piracy. Such officers shall be known as “Federal flight deck officers”.
 
     (b) __Procedural Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 3 months after the date of enactment of this section, the Under Secretary shall establish procedural requirements to carry out the program under this section.
 
-        (2) __Commencement of program.—__ 
+        (2)  __Commencement of program__  __.—__ 
 
         Beginning 3 months after the date of enactment of this section, the Under Secretary shall begin the process of training and deputizing pilots who are qualified to be Federal flight deck officers as Federal flight deck officers under the program.
 
-        (3) __Issues to be addressed.—__ 
+        (3)  __Issues to be addressed__  __.—__ 
 
         The procedural requirements established under paragraph (1) shall address the following issues:
 
@@ -61,35 +61,35 @@
 
             (N) The Under Secretary’s decisions regarding the methods for implementing each of the foregoing procedural requirements shall be subject to review only for abuse of discretion.
 
-        (4) __Preference.—__ 
+        (4)  __Preference__  __.—__ 
 
         In selecting pilots to participate in the program, the Under Secretary shall give preference to pilots who are former military or law enforcement personnel.
 
-        (5) __Classified information.—__ 
+        (5)  __Classified information__  __.—__ 
 
         Notwithstanding [section 552 of title 5][/us/usc/t5/s552] but subject to [section 40119 of this title][/us/usc/t49/s40119], information developed under paragraph (3)(E) shall not be disclosed.
 
-        (6) __Notice to congress.—__ 
+        (6)  __Notice to congress__  __.—__ 
 
         The Under Secretary shall provide notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
 
-        (7) __Minimization of risk.—__ 
+        (7)  __Minimization of risk__  __.—__ 
 
         If the Under Secretary determines as a result of the analysis under paragraph (3)(E) that there is a significant risk of the catastrophic failure of an aircraft as a result of the discharge of a firearm, the Under Secretary shall take such actions as may be necessary to minimize that risk.
 
     (c) __Training, Supervision, and Equipment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary shall only be obligated to provide the training, supervision, and equipment necessary for a pilot to be a Federal flight deck officer under this section at no expense to the pilot or the air carrier employing the pilot.
 
         (2) __Training.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Under Secretary shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
 
-            (B) __Elements.—__ 
+            (B)  __Elements__  __.—__ 
 
             The training of a Federal flight deck officer shall include, at a minimum, the following elements:
 
@@ -101,25 +101,25 @@
 
             (C) __Training in use of firearms.—__ 
 
-                (i) __Standard.—__ 
+                (i)  __Standard__  __.—__ 
 
                 In order to be deputized as a Federal flight deck officer, a pilot must achieve a level of proficiency with a firearm that is required by the Under Secretary. Such level shall be comparable to the level of proficiency required of Federal air marshals.
 
-                (ii) __Conduct of training.—__ 
+                (ii)  __Conduct of training__  __.—__ 
 
                 The training of a Federal flight deck officer in the use of a firearm may be conducted by the Under Secretary or by a firearms training facility approved by the Under Secretary.
 
-                (iii) __Requalification.—__ 
+                (iii)  __Requalification__  __.—__ 
 
                 The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearm under the program. Such requalification shall occur at an interval required by the Under Secretary.
 
     (d) __Deputization.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer and whom the Under Secretary determines is qualified to be such an officer.
 
-        (2) __Qualification.—__ 
+        (2)  __Qualification__  __.—__ 
 
         A pilot is qualified to be a Federal flight deck officer under this section if—
 
@@ -129,51 +129,51 @@
 
             (C) the Under Secretary determines that the pilot has completed the training required by the Under Secretary.
 
-        (3) __Deputization by other federal agencies.—__ 
+        (3)  __Deputization by other federal agencies__  __.—__ 
 
         The Under Secretary may request another Federal agency to deputize, as Federal flight deck officers under this section, those pilots that the Under Secretary determines are qualified to be such officers.
 
-        (4) __Revocation.—__ 
+        (4)  __Revocation__  __.—__ 
 
         The Under Secretary may, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  (in the Under Secretary’s discretion) revoke the deputization of a pilot as a Federal flight deck officer if the Under Secretary finds that the pilot is no longer qualified to be such an officer.
 
-    (e) __Compensation.—__ 
+    (e)  __Compensation__  __.—__ 
 
     Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriers shall not be obligated to compensate a pilot for participating in the program or for the pilot’s training or qualification and requalification to carry firearms under the program.
 
     (f) __Authority To Carry Firearms.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary shall authorize a Federal flight deck officer to carry a firearm while engaged in providing air transportation or intrastate air transportation. Notwithstanding subsection (c)(1), the officer may purchase a firearm and carry that firearm aboard an aircraft of which the officer is the pilot in accordance with this section if the firearm is of a type that may be used under the program.
 
-        (2) __Preemption.—__ 
+        (2)  __Preemption__  __.—__ 
 
         Notwithstanding any other provision of Federal or State law, a Federal flight deck officer, whenever necessary to participate in the program, may carry a firearm in any State and from 1 State to another State.
 
-        (3) __Carrying firearms outside united states.—__ 
+        (3)  __Carrying firearms outside united states__  __.—__ 
 
         In consultation with the Secretary of State, the Under Secretary may take such action as may be necessary to ensure that a Federal flight deck officer may carry a firearm in a foreign country whenever necessary to participate in the program.
 
-    (g) __Authority To Use Force.—__ 
+    (g)  __Authority To Use Force__  __.—__ 
 
     Notwithstanding section 44903(d), the Under Secretary shall prescribe the standards and circumstances under which a Federal flight deck officer may use, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
 
     (h) __Limitation on Liability.—__ 
 
-        (1) __Liability of air carriers.—__ 
+        (1)  __Liability of air carriers__  __.—__ 
 
         An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of a Federal flight deck officer’s use of or failure to use a firearm.
 
-        (2) __Liability of federal flight deck officers.—__ 
+        (2)  __Liability of federal flight deck officers__  __.—__ 
 
         A Federal flight deck officer shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the officer in defending the flight deck of an aircraft against acts of criminal violence or air piracy unless the officer is guilty of gross negligence or willful misconduct.
 
-        (3) __Liability of federal government.—__ 
+        (3)  __Liability of federal government__  __.—__ 
 
         For purposes of an action against the United States with respect to an act or omission of a Federal flight deck officer in defending the flight deck of an aircraft, the officer shall be treated as an employee of the Federal Government under chapter 171 of title 28, relating to tort claims procedure.
 
-    (i) __Procedures Following Accidental Discharges.—__ 
+    (i)  __Procedures Following Accidental Discharges__  __.—__ 
 
     If an accidental discharge of a firearm under the pilot program results in the injury or death of a passenger or crew member on an aircraft, the Under Secretary—
 
@@ -181,7 +181,7 @@
 
         (2) if the Under Secretary determines that a shortcoming in standards, training, or procedures was responsible for the accidental discharge, the Under Secretary  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “the Under Secretary” probably should not appear. </sup></sup>  may temporarily suspend the program until the shortcoming is corrected.
 
-    (j) __Limitation on Authority of Air Carriers.—__ 
+    (j)  __Limitation on Authority of Air Carriers__  __.—__ 
 
     No air carrier shall prohibit or threaten any retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
 
@@ -191,15 +191,15 @@
 
     (k) __Applicability.—__ 
 
-        (1) __Exemption.—__ 
+        (1)  __Exemption__  __.—__ 
 
         This section shall not apply to air carriers operating under part 135 of title 14, Code of Federal Regulations, and to pilots employed by such carriers to the extent that such carriers and pilots are covered by section 135.119 of such title or any successor to such section.
 
-        (2) __Pilot defined.—__ 
+        (2)  __Pilot defined__  __.—__ 
 
         The term “pilot” means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
 
-        (3) __All-cargo air transportation.—__ 
+        (3)  __All-cargo air transportation__  __.—__ 
 
         In this section, the term “air transportation” includes all-cargo air transportation.
 

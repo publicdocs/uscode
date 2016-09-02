@@ -15,7 +15,7 @@
 
 ## § 60121. Actions by private persons
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (3) The Secretary, with the approval of the Attorney General, or the Attorney General may intervene in an action under paragraph (1) of this subsection.
 
-    (b) __Costs and Fees.—__ 
+    (b)  __Costs and Fees__  __.—__ 
 
     The court may award costs, reasonable expert witness fees, and a reasonable attorney’s fee to a prevailing plaintiff in a civil action under this section. The court may award costs to a prevailing defendant when the action is unreasonable, frivolous, or meritless. In this subsection, a reasonable attorney’s fee is a fee—
 
@@ -39,11 +39,11 @@
 
         (2) computed at the rate prevailing for providing similar services for actions brought in the court awarding the fee.
 
-    (c) __State Violations as Violations of This Chapter.—__ 
+    (c)  __State Violations as Violations of This Chapter__  __.—__ 
 
     In this section, a violation of a safety standard or practice of a State is deemed to be a violation of this chapter or a regulation prescribed or order issued under this chapter only to the extent the standard or practice is not more stringent than a comparable minimum safety standard prescribed under this chapter.
 
-    (d) __Additional Remedies.—__ 
+    (d)  __Additional Remedies__  __.—__ 
 
     A remedy under this section is in addition to any other remedies provided by law. This section does not restrict a right to relief that a person or a class of persons may have under another law or at common law.
 

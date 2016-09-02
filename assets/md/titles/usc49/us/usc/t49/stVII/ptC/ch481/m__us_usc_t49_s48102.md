@@ -15,7 +15,7 @@
 
 ## § 48102. Research and development
 
-    (a) __Authorization of Appropriations.—__ 
+    (a)  __Authorization of Appropriations__  __.—__ 
 
     Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502][/us/usc/t26/s9502]) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title and, for each of fiscal years 2012 through 2015, under subsection (g):
 
@@ -141,7 +141,7 @@
 
         (8) $168,000,000 for each of fiscal years 2012 through 2015.
 
-    (b) __Research Priorities.—__ 
+    (b)  __Research Priorities__  __.—__ 
 
         (1) The Administrator shall consider the advice and recommendations of the research advisory committee established by [section 44508 of this title][/us/usc/t49/s44508] in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
 
@@ -149,7 +149,7 @@
 
         (3) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under [section 44511 of this title][/us/usc/t49/s44511].
 
-    (c) __Transfers Between Categories.—__ 
+    (c)  __Transfers Between Categories__  __.—__ 
 
         (1) Not more than 10 percent of the net amount authorized for a category of projects and activities in a fiscal year under subsection (a) of this section may be transferred to or from that category in that fiscal year.
 
@@ -161,21 +161,21 @@
 
             (B) 30 days have passed after the explanation is submitted or each Committee notifies the Secretary in writing that it does not object to the proposed transfer.
 
-    (d) __Airport Capacity Research and Development.—__ 
+    (d)  __Airport Capacity Research and Development__  __.—__ 
 
         (1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
         (2) The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
-    (e) __Air Traffic Controller Performance Research.—__ 
+    (e)  __Air Traffic Controller Performance Research__  __.—__ 
 
     Necessary amounts may be appropriated to the Secretary out of amounts in the Fund available for research and development to conduct research under section 44506(a) and (b) of this title.
 
-    (f) __Availability of Amounts.—__ 
+    (f)  __Availability of Amounts__  __.—__ 
 
     Amounts appropriated under subsection (a) of this section remain available until expended.
 
-    (g) __Specific Authorizations.—__ 
+    (g)  __Specific Authorizations__  __.—__ 
 
     The following programs described in the research, engineering, and development account of the national aviation research plan required under section 44501(c) are authorized:
 
@@ -225,7 +225,7 @@
 
     (h) __Research Grants Program Involving Undergraduate Students.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
 
@@ -237,11 +237,11 @@
 
             (D) research on the impact of new technologies and procedures, particularly those related to aircraft flight deck and air traffic management functions, on training requirements for pilots and air traffic controllers.
 
-        (2) __Notice of criteria.—__ 
+        (2)  __Notice of criteria__  __.—__ 
 
         Within 6 months after the date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for a grant under this subsection, and for the awarding of such grants.
 
-        (3) __Principal criteria.—__ 
+        (3)  __Principal criteria__  __.—__ 
 
         The principal criteria for the awarding of grants under this subsection shall be—
 
@@ -251,7 +251,7 @@
 
             (C) the potential for participation by undergraduate students in the proposed research.
 
-        (4) __Competitive, merit-based evaluation.—__ 
+        (4)  __Competitive, merit-based evaluation__  __.—__ 
 
         Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
@@ -509,11 +509,11 @@ Nov. 3, 1988, Pub. L. 100–591, § 8(d), 102 Stat. 3016; Nov. 17, 1988, Pub. 
 
 [Pub. L. 105–155, § 4][/us/pl/105/155/s4], Feb. 11, 1998, [112 Stat. 6][/us/stat/112/6], provided that:
 
->     “(a) __Reprogramming.—__ 
+>     “(a)  __Reprogramming__  __.—__ 
 
 >     If any funds authorized by the amendments made by this Act \[amending this section\] are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science \[now Science, Space, and Technology\] and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
->     “(b) __Notice of Reorganization.—__ 
+>     “(b)  __Notice of Reorganization__  __.—__ 
 
 >     The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\], Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
 

@@ -15,7 +15,7 @@
 
 ## § 47101. Policies
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     It is the policy of the United States—
 
@@ -53,7 +53,7 @@
 
         (13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spent under [section 47107(b)(1) of this title][/us/usc/t49/s47107/b/1], including reasonable reserves and other funds to facilitate financing and cover contingencies.
 
-    (b) __National Transportation Policy.—__ 
+    (b)  __National Transportation Policy__  __.—__ 
 
         (1) It is a goal of the United States to develop a national intermodal transportation system that transports passengers and property in an efficient manner. The future economic direction of the United States depends on its ability to confront directly the enormous challenges of the global economy, declining productivity growth, energy vulnerability, air pollution, and the need to rebuild the infrastructure of the United States.
 
@@ -71,15 +71,15 @@
 
         (8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
 
-    (c) __Capacity Expansion and Noise Abatement.—__ 
+    (c)  __Capacity Expansion and Noise Abatement__  __.—__ 
 
     It is in the public interest to recognize the effects of airport capacity expansion projects on aircraft noise. Efforts to increase capacity through any means can have an impact on surrounding communities. Noncompatible land uses around airports must be reduced and efforts to mitigate noise must be given a high priority.
 
-    (d) __Consistency With Air Commerce and Safety Policies.—__ 
+    (d)  __Consistency With Air Commerce and Safety Policies__  __.—__ 
 
     Each airport and airway program should be carried out consistently with section 40101(a), (b), (d), and (f) of this title to foster competition, prevent unfair methods of competition in air transportation, maintain essential air transportation, and prevent unjust and discriminatory practices, including as the practices may be applied between categories and classes of aircraft.
 
-    (e) __Adequacy of Navigation Aids and Airport Facilities.—__ 
+    (e)  __Adequacy of Navigation Aids and Airport Facilities__  __.—__ 
 
     This subchapter should be carried out to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
 
@@ -87,7 +87,7 @@
 
         (2) heliports designated by the Secretary of Transportation to relieve congestion at commercial service airports by diverting aircraft passengers from fixed-wing aircraft to helicopter carriers.
 
-    (f) __Maximum Use of Safety Facilities.—__ 
+    (f)  __Maximum Use of Safety Facilities__  __.—__ 
 
     This subchapter should be carried out consistently with a comprehensive airspace system plan, giving highest priority to commercial service airports, to maximize the use of safety facilities, including installing, operating, and maintaining, to the extent possible with available money and considering other safety needs—
 
@@ -113,15 +113,15 @@
 
         (11) runway and taxiway incursion prevention devices, including integrated in-pavement lighting systems for runways and taxiways.
 
-    (g) __Intermodal Planning.—__ 
+    (g)  __Intermodal Planning__  __.—__ 
 
     To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall take each of the following actions:
 
-        (1) __Coordination in development of airport plans and programs.—__ 
+        (1)  __Coordination in development of airport plans and programs__  __.—__ 
 
         Cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
 
-        (2) __Goals for airport master and system plans.—__ 
+        (2)  __Goals for airport master and system plans__  __.—__ 
 
         Encourage airport sponsors and State and local officials to develop airport master plans and airport system plans that—
 
@@ -133,11 +133,11 @@
 
             (D) are integrated with metropolitan plans to ensure that airport development proposals include adequate consideration of land use and ground transportation access.
 
-        (3) __Representation of airport operators on mpo’s.—__ 
+        (3)  __Representation of airport operators on mpo’s__  __.—__ 
 
         Encourage metropolitan planning organizations, particularly in areas with populations greater than 200,000, to establish membership positions for airport operators.
 
-    (h) __Consultation.—__ 
+    (h)  __Consultation__  __.—__ 
 
     To carry out the policy of subsection (a)(6) of this section, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about any project included in a project grant application involving the location of an airport or runway, or a major runway extension, that may have a significant effect on—
 
@@ -547,11 +547,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
 >     “(a) __Strategic Runway Safety Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop and submit to Congress a report containing a strategic runway safety plan.
 
->         “(2) __Contents of plan.—__ 
+>         “(2)  __Contents of plan__  __.—__ 
 
 >         The strategic runway safety plan—
 
@@ -571,7 +571,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
 >             “(B) shall address the increased runway safety risk associated with the expected increased volume of air traffic.
 
->     “(b) __Process.—__ 
+>     “(b)  __Process__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall develop a process for tracking and investigating operational errors, losses of standard separation, and runway incursions that includes procedures for—
 
@@ -581,7 +581,7 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
 >         “(3) ensuring proper accountability.
 
->     “(c) __Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions.—__ 
+>     “(c)  __Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions__  __.—__ 
 
 >     Not later than June 30, 2012, the Administrator shall submit to Congress a report containing a plan for the installation and deployment of systems to alert air traffic controllers or flight crewmembers, or both, of potential runway incursions. The plan shall be integrated into the annual NextGen Implementation Plan of the Administration or any successor document.”
 
@@ -611,11 +611,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
 [Pub. L. 103–305, title V, § 520][/us/pl/103/305/s520], Aug. 23, 1994, [108 Stat. 1601][/us/stat/108/1601], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study on innovative approaches for using Federal funds to finance airport development as a means of supplementing financing available under the Airport Improvement Program.
 
->     “(b) __Matters To Be Considered.—__ 
+>     “(b)  __Matters To Be Considered__  __.—__ 
 
 >     In conducting the study under subsection (a), the Secretary shall consider, at a minimum, the following:
 
@@ -625,11 +625,11 @@ Sept. 3, 1982, Pub. L. 97–248, § 502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pu
 
 >         “(3) Means to lower the cost of financing airport development.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In considering innovative financing pursuant to this section, the Secretary may consult with airport owners and operators and public and private sector experts.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall transmit to Congress a report on the results of the study conducted under subsection (a).”
 

@@ -15,7 +15,7 @@
 
 ## § 44718. Structures interfering with air commerce
 
-    (a) __Notice.—__ 
+    (a)  __Notice__  __.—__ 
 
     By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice, in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
 
@@ -23,7 +23,7 @@
 
         (2) the efficient use and preservation of the navigable airspace and of airport traffic capacity at public-use airports.
 
-    (b) __Studies.—__ 
+    (b)  __Studies__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (2) On completing the study, the Secretary shall issue a report disclosing completely the extent of the adverse impact on the safe and efficient use of the navigable airspace that the Secretary finds will result from constructing or altering the structure.
 
-    (c) __Broadcast Applications and Tower Studies.—__ 
+    (c)  __Broadcast Applications and Tower Studies__  __.—__ 
 
     In carrying out laws related to a broadcast application and conducting an aeronautical study related to broadcast towers, the Administrator of the Federal Aviation Administration and the Federal Communications Commission shall take action necessary to coordinate efficiently—
 
@@ -51,15 +51,15 @@
 
     (d) __Limitation on Construction of Landfills.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No person shall construct or establish a municipal solid waste landfill (as defined in section 258.2 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subsection) that receives putrescible waste (as defined in section 257.3–8 of such title) within 6 miles of a public airport that has received grants under chapter 471 and is primarily served by general aviation aircraft and regularly scheduled flights of aircraft designed for 60 passengers or less unless the State aviation agency of the State in which the airport is located requests that the Administrator of the Federal Aviation Administration exempt the landfill from the application of this subsection and the Administrator determines that such exemption would have no adverse impact on aviation safety.
 
-        (2) __Limitation on applicability.—__ 
+        (2)  __Limitation on applicability__  __.—__ 
 
         Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
 
-    (e) __Review of Aeronautical Studies.—__ 
+    (e)  __Review of Aeronautical Studies__  __.—__ 
 
     The Administrator of the Federal Aviation Administration shall develop procedures to allow the Department of Defense and the Department of Homeland Security to review and comment on an aeronautical study conducted pursuant to subsection (b) prior to the completion of the study.
 
@@ -167,13 +167,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 [Pub. L. 111–383, div. A, title III, § 358][/us/pl/111/383/s358], Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III, § 331][/us/pl/112/81/s331], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X, § 1076(b)(1)][/us/pl/112/239/s1076/b/1], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that:
 
->     “(a) __Objective.—__ 
+>     “(a)  __Objective__  __.—__ 
 
 >     It shall be an objective of the Department of Defense to ensure that the robust development of renewable energy sources and the increased resiliency of the commercial electrical grid may move forward in the United States, while minimizing or mitigating any adverse impacts on military operations and readiness.
 
 >     “(b) __Designation of Senior Official and Lead Organization.—__ 
 
->         “(1) __Designation.—__ 
+>         “(1)  __Designation__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall designate a senior official of the Department of Defense, and a lead organization of the Department of Defense, to—
 
@@ -183,11 +183,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >             “(C) accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for a project submitted pursuant to such section.
 
->         “(2) __Resources.—__ 
+>         “(2)  __Resources__  __.—__ 
 
 >         The Secretary shall ensure that the senior official and lead organization designated under paragraph (1) are assigned such personnel and resources as the Secretary considers appropriate to carry out this section.
 
->     “(c) __Initial Actions.—__ 
+>     “(c)  __Initial Actions__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall—
 
@@ -207,11 +207,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >     “(d) __Comprehensive Review.—__ 
 
->         “(1) __Strategy required.—__ 
+>         “(1)  __Strategy required__  __.—__ 
 
 >         Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense, acting through the senior official and lead organization designated pursuant to subsection (b), shall develop a comprehensive strategy for addressing the military impacts of projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         In developing the strategy required by paragraph (1), the Secretary of Defense shall—
 
@@ -235,19 +235,19 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >     “(e) __Department of Defense Hazard Assessment.—__ 
 
->         “(1) __Preliminary assessment.—__ 
+>         “(1)  __Preliminary assessment__  __.—__ 
 
 >         The procedures established pursuant to subsection (c) shall ensure that not later than 30 days after receiving a proper application for a project filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, the Secretary of Defense shall review the project and provide a preliminary assessment of the level of risk of adverse impact on military operations and readiness that would arise from the project and the extent of mitigation that may be needed to address such risk.
 
->         “(2) __Determination of unacceptable risk.—__ 
+>         “(2)  __Determination of unacceptable risk__  __.—__ 
 
 >         The procedures established pursuant to subsection (c) shall ensure that the Secretary of Defense does not object to a project filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project would result in an unacceptable risk to the national security of the United States.
 
->         “(3) __Congressional notice requirement.—__ 
+>         “(3)  __Congressional notice requirement__  __.—__ 
 
 >         Not later than 30 days after making a determination of unacceptable risk under paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on such determination and the basis for such determination. Such a report shall include an explanation of the operational impact that led to the determination, a discussion of the mitigation options considered, and an explanation of why the mitigation options were not feasible or did not resolve the conflict.
 
->         “(4) __Non-delegation of determinations.—__ 
+>         “(4)  __Non-delegation of determinations__  __.—__ 
 
 >         The responsibility for making a determination of unacceptable risk under paragraph (2) may only be delegated to an appropriate senior officer of the Department of Defense, on the recommendation of the senior official designated pursuant to subsection (b). The following individuals are appropriate senior officers of the Department of Defense for the purposes of this paragraph:
 
@@ -259,11 +259,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >     “(f) __Reports.—__ 
 
->         “(1) __Report to congress.—__ 
+>         “(1)  __Report to congress__  __.—__ 
 
 >         Not later than March 15 each year from 2011 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken by the Department of Defense during the preceding year to implement this section and the comprehensive strategy developed pursuant to this section.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall include—
 
@@ -285,19 +285,19 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >             “(F) a description of the distance from a military installation that the Department of Defense will use to prescreen applicants under [section 44718 of title 49][/us/usc/t49/s44718], United States Code.
 
->     “(g) __Authority to Accept Contributions of Funds.—__ 
+>     “(g)  __Authority to Accept Contributions of Funds__  __.—__ 
 
 >     The Secretary of Defense is authorized to accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
 
->     “(h) __Effect of Department of Defense Hazard Assessment.—__ 
+>     “(h)  __Effect of Department of Defense Hazard Assessment__  __.—__ 
 
 >     An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under [section 44718 of title 49][/us/usc/t49/s44718], United States Code.
 
->     “(i) __Savings Provision.—__ 
+>     “(i)  __Savings Provision__  __.—__ 
 
 >     Nothing in this section shall be construed to affect or limit the application of, or any obligation to comply with, any environmental law, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     In this section:
 

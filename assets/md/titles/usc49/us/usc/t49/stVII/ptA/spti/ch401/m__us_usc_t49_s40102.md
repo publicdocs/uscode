@@ -15,7 +15,7 @@
 
 ## § 40102. Definitions
 
-    (a) __General Definitions.—__ 
+    (a)  __General Definitions__  __.—__ 
 
     In this part—
 
@@ -235,7 +235,7 @@
 
             (D) trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
 
-    (b) __Limited Definition.—__ 
+    (b)  __Limited Definition__  __.—__ 
 
     In subpart II of this part, “control” means control by any means.
 
@@ -947,11 +947,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
 > “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 
@@ -961,11 +961,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 101(36), 72 Stat. 739; Aug. 5, 1974, Pub. 
 
 > “In this Act \[see Short Title of 1994 Amendment note set out under [section 40101 of this title][/us/usc/t49/s40101]\], the following definitions apply:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Transportation.”
 

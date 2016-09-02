@@ -15,11 +15,11 @@
 
 ## § 46315. Lighting violations involving transporting controlled substances by aircraft not providing air transportation
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies only to aircraft not used to provide air transportation.
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
     A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if—
 

@@ -15,7 +15,7 @@
 
 ## § 5315. Private sector participation
 
-    (a) __General Purposes.—__ 
+    (a)  __General Purposes__  __.—__ 
 
     In the interest of fulfilling the general purposes of this chapter under section 5301(b), the Secretary shall—
 
@@ -25,7 +25,7 @@
 
         (3) promote transparency and public understanding of public-private partnerships affecting public transportation.
 
-    (b) __Actions to Promote Better Coordination Between Public and Private Sector Providers of Public Transportation.—__ 
+    (b)  __Actions to Promote Better Coordination Between Public and Private Sector Providers of Public Transportation__  __.—__ 
 
     The Secretary shall—
 
@@ -33,7 +33,7 @@
 
         (2) educate recipients of Federal transit grant assistance on laws and regulations under this chapter that impact private providers of public transportation.
 
-    (c) __Actions to Provide Technical Assistance for Alternative Project Delivery Methods.—__ 
+    (c)  __Actions to Provide Technical Assistance for Alternative Project Delivery Methods__  __.—__ 
 
     Upon request by a sponsor of a new fixed guideway capital project, the Secretary shall—
 
@@ -187,7 +187,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
 [Pub. L. 112–141, div. B, § 20013(b)][/us/pl/112/141/s20013/b], July 6, 2012, [126 Stat. 692][/us/stat/126/692], provided that:
 
->     “(1) __Identify impediments.—__ 
+>     “(1)  __Identify impediments__  __.—__ 
 
 >     The Secretary shall—
 
@@ -201,7 +201,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
 >             “(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
 
->     “(2) __Transparency.—__ 
+>     “(2)  __Transparency__  __.—__ 
 
 >     The Secretary shall develop guidance to promote greater transparency and public access to public-private partnership agreements involving recipients of Federal assistance under chapter 53 of title 49, United States Code, including—
 
@@ -217,19 +217,19 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
 >         “(F) any other issues the Secretary believes will increase transparency of public-private partnership agreements and protect the public interest.
 
->     “(3) __Assessment.—__ 
+>     “(3)  __Assessment__  __.—__ 
 
 >     In developing and implementing the guidance under paragraph (2), the Secretary shall encourage project sponsors to conduct assessments to determine whether use of a public-private partnership represents a better public and financial benefit than a similar transaction using public funding or public project delivery.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of enactment of this Act \[see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways\], the Secretary shall submit to Congress a report on the status of the procedures, approaches, and guidance developed and implemented under paragraphs (1) and (2).
 
->     “(5) __Rulemaking.—__ 
+>     “(5)  __Rulemaking__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Secretary shall issue rules to carry out the procedures and approaches developed under paragraph (1).
 
->     “(6) __Rule of construction.—__ 
+>     “(6)  __Rule of construction__  __.—__ 
 
 >     Nothing in this subsection may be construed to allow the Secretary to waive any requirement under—
 

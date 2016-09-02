@@ -15,11 +15,11 @@
 
 ## § 41708. Reports
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     To the extent the Secretary of Transportation finds necessary to carry out this subpart, this section and [section 41709 of this title][/us/usc/t49/s41709] apply to a person controlling an air carrier or affiliated (within the meaning of [section 11343(c) of this title][/us/usc/t49/s11343/c]) with a carrier.
 
-    (b) __Requirements.—__ 
+    (b)  __Requirements__  __.—__ 
 
     The Secretary may require an air carrier or foreign air carrier—
 
@@ -35,15 +35,15 @@
 
     (c) __Diverted and Cancelled Flights.—__ 
 
-        (1) __Monthly reports.—__ 
+        (1)  __Monthly reports__  __.—__ 
 
         The Secretary shall require an air carrier referred to in paragraph (2) to file with the Secretary a monthly report on each flight of the air carrier that is diverted from its scheduled destination to another airport and each flight of the air carrier that departs the gate at the airport at which the flight originates but is cancelled before wheels-off time.
 
-        (2) __Applicability.—__ 
+        (2)  __Applicability__  __.—__ 
 
         An air carrier that is required to file a monthly airline service quality performance report pursuant to part 234 of title 14, Code of Federal Regulations, shall be subject to the requirement of paragraph (1).
 
-        (3) __Contents.—__ 
+        (3)  __Contents__  __.—__ 
 
         A monthly report filed by an air carrier under paragraph (1) shall include, at a minimum, the following information:
 
@@ -89,7 +89,7 @@
 
                 (v) the time the aircraft returned to the gate.
 
-        (4) __Publication.—__ 
+        (4)  __Publication__  __.—__ 
 
         The Secretary shall compile the information provided in the monthly reports filed pursuant to paragraph (1) in a single monthly report and publish such report on the Internet Web site of the Department of Transportation.
 

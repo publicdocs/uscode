@@ -15,19 +15,19 @@
 
 ## § 41734. Ending, suspending, and reducing basic essential air service
 
-    (a) __Notice Required.—__ 
+    (a)  __Notice Required__  __.—__ 
 
     An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of basic essential air service established for that place under [section 41733 of this title][/us/usc/t49/s41733] only after giving the Secretary of Transportation, the appropriate State authority, and the affected communities at least 90 days’ notice before ending, suspending, or reducing that transportation.
 
-    (b) __Continuation of Service for 30 Days After Notice Period.—__ 
+    (b)  __Continuation of Service for__  __30__  __Days After Notice Period__  __.—__ 
 
     If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
 
-    (c) __Continuation of Service for Additional 30-Day Periods.—__ 
+    (c)  __Continuation of Service for Additional__  __30-__  __Day Periods__  __.—__ 
 
     If at the end of the 30-day period under subsection (b) of this section the Secretary decides another air carrier will not provide basic essential air service to the place on a continuing basis, the Secretary shall require the carrier providing service to continue to provide service for additional 30-day periods until another carrier begins providing service on a continuing basis. At the end of each 30-day period, the Secretary shall decide if another carrier will provide service on a continuing basis.
 
-    (d) __Continuation of Compensation After Notice Period.—__ 
+    (d)  __Continuation of Compensation After Notice Period__  __.—__ 
 
     If an air carrier receiving compensation under [section 41733 of this title][/us/usc/t49/s41733] for providing basic essential air service to an eligible place is required to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section, the Secretary shall provide the carrier with compensation sufficient—
 
@@ -35,7 +35,7 @@
 
         (2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
 
-    (e) __Compensation to Air Carriers Originally Providing Service Without Compensation.—__ 
+    (e)  __Compensation to Air Carriers Originally Providing Service Without Compensation__  __.—__ 
 
     If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under [section 41733 of this title][/us/usc/t49/s41733] to continue providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—
 
@@ -43,11 +43,11 @@
 
         (2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
 
-    (f) __Finding Replacement Carriers.—__ 
+    (f)  __Finding Replacement Carriers__  __.—__ 
 
     When the Secretary requires an air carrier to continue to provide basic essential air service to an eligible place, the Secretary shall continue to make every effort to find another carrier to provide at least that basic essential air service to the place on a continuing basis.
 
-    (g) __Transfer of Authority.—__ 
+    (g)  __Transfer of Authority__  __.—__ 
 
     If an air carrier, providing basic essential air service under [section 41733 of this title][/us/usc/t49/s41733] between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related to the service to the eligible place to the carrier that will provide the service, if—
 
@@ -55,11 +55,11 @@
 
         (2) the authority to be transferred is being used to provide air service to another eligible place.
 
-    (h) __Nonconsideration of Slot Availability.—__ 
+    (h)  __Nonconsideration of Slot Availability__  __.—__ 
 
     In determining what is basic essential air service and in selecting an air carrier to provide such service, the Secretary shall not consider as a factor whether slots at a high density airport are available for providing such service.
 
-    (i) __Exemption From Hold-In Requirements.—__ 
+    (i)  __Exemption From Hold-In Requirements__  __.—__ 
 
     If, after the date of enactment of this subsection, an air carrier commences air transportation to an eligible place that is not receiving scheduled passenger air service as a result of the failure of the eligible place to meet requirements contained in an appropriations Act, the air carrier shall not be subject to the requirements of subsections (b) and (c) with respect to such air transportation.
 
