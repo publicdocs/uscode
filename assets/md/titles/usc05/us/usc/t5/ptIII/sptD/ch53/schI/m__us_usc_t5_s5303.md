@@ -163,6 +163,38 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
  __Federal Employee Pay Adjustments__ 
 
+2014—[Pub. L. 113–76, div. E, title VII, § 741][/us/pl/113/76/s741], Jan. 17, 2014, [128 Stat. 241][/us/stat/128/241], provided that:
+
+>     “(a) The Vice President may not receive a pay raise in calendar year 2014, notwithstanding the rate adjustment made under [section 104 of title 3][/us/usc/t3/s104], United States Code, or any other provision of law.
+
+>     “(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2014, notwithstanding schedule adjustments made under [section 5318 of title 5][/us/usc/t5/s5318], United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment.
+
+>     “(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2014, notwithstanding section 401 of the Foreign Service Act of 1980 ([Public Law 96–465][/us/pl/96/465]) \[[22 U.S.C. 3961][/us/usc/t22/s3961]\] or any other provision of law, except as provided in subsection (g), (h), or (i).
+
+>     “(d)
+
+>      Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2014 (except as provided in subsection (g), (h), or (i)) by—
+
+>         “(1) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above level IV of the Executive Schedule \[[5 U.S.C. 5315][/us/usc/t5/s5315]\]; or
+
+>         “(2) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above level IV of the Executive Schedule.
+
+>     “(e) Any employee paid a rate of basic pay (including any locality-based payments under [section 5304 of title 5][/us/usc/t5/s5304], United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2014, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system \[see [5 U.S.C. 5331][/us/usc/t5/s5331] et seq.\] or the Foreign Service pay system \[see [22 U.S.C. 3961][/us/usc/t22/s3961] et seq.\], or to employees appointed under [section 3161 of title 5][/us/usc/t5/s3161], United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+
+>     “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
+
+>     “(g) A career appointee in the Senior Executive Service who receives a Presidential appointment and who makes an election to retain Senior Executive Service basic pay entitlements under [section 3392 of title 5][/us/usc/t5/s3392], United States Code, is not subject to this section.
+
+>     “(h) A member of the Senior Foreign Service who receives a Presidential appointment to any position in the executive branch and who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 ([Public Law 96–465][/us/pl/96/465]) \[[22 U.S.C. 3942(b)][/us/usc/t22/s3942/b]\] is not subject to this section.
+
+>     “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position with higher-level duties and a pre-established higher level or range of pay, except that any such increase must be based on the rates of pay and applicable pay limitations in effect on December 31, 2013.
+
+>     “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013.
+
+>     “(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2014 but ends in calendar year 2015, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period.
+
+>     “(l) An initial or increased pay rate for an individual in a covered position that takes effect in calendar year 2014 prior to enactment of this Act \[Jan. 17, 2014\] shall be valid only through the end of the pay period during which the enactment took place. Effective on the first day of the next pay period, the individual’s pay rate will be set at the rate that would have applied if this section had been in effect on January 1, 2014.”
+
 2010—[Pub. L. 111–242, § 147][/us/pl/111/242/s147], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3518][/us/stat/124/3518], as amended by [Pub. L. 113–6, div. F, title I, § 1112(a)][/us/pl/113/6/s1112/a], Mar. 26, 2013, [127 Stat. 414][/us/stat/127/414], provided that:
 
 >     “(a)
@@ -669,6 +701,20 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 [/us/stat/106/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1343
 [/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
+[/us/pl/113/76/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs741
+[/us/stat/128/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F241
+[/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
+[/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/usc/t22/s3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3961
+[/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
+[/us/usc/t5/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5331
+[/us/usc/t22/s3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3961
+[/us/usc/t5/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3161
+[/us/usc/t5/s3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3392
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb
 [/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147
 [/us/pl/111/322/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs1%2Fa%2F2
 [/us/stat/124/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3518

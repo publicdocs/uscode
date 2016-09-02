@@ -331,11 +331,13 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
  __FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury__ 
 
-[Pub. L. 113–6, div. B, title II, § 206][/us/pl/113/6/s206], Mar. 26, 2013, [127 Stat. 257][/us/stat/127/257], provided that: 
+[Pub. L. 113–76, div. B, title II, § 206][/us/pl/113/76/s206], Jan. 17, 2014, [128 Stat. 67][/us/stat/128/67], provided that: 
 
 > “The Attorney General is authorized to extend through September 30, 2014, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to \[former\] section 1115 of the Homeland Security Act of 2002 ([Public Law 107–296][/us/pl/107/296]; [28 U.S.C. 599B][/us/usc/t28/s599B]) without limitation on the number of employees or the positions covered.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. B, title II, § 206][/us/pl/113/6/s206], Mar. 26, 2013, [127 Stat. 257][/us/stat/127/257].
 
     [Pub. L. 112–55, div. B, title II, § 206][/us/pl/112/55/s206], Nov. 18, 2011, [125 Stat. 619][/us/stat/125/619].
 
@@ -482,10 +484,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/110/372/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd%2F3
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/113/6/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs206
-[/us/stat/127/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F257
+[/us/pl/113/76/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs206
+[/us/stat/128/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F67
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t28/s599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599B
+[/us/pl/113/6/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs206
+[/us/stat/127/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F257
 [/us/pl/112/55/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs206
 [/us/stat/125/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F619
 [/us/pl/111/117/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs206

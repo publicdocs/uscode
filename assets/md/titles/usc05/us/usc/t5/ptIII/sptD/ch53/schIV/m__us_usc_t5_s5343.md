@@ -195,37 +195,49 @@
 
  __Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels__ 
 
-[Pub. L. 111–117, div. C, title VII, § 710][/us/pl/111/117/s710], Dec. 16, 2009, [123 Stat. 3206][/us/stat/123/3206], provided that:
+[Pub. L. 113–76, div. E, title VII, § 740][/us/pl/113/76/s740], Jan. 17, 2014, [128 Stat. 239][/us/stat/128/239], provided that:
 
 >     “(a)
 
->      Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2010, by this or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5][/us/usc/t5/s5342/a/2/A], United States Code—
+>         (1)
 
->         “(1) during the period from the date of expiration of the limitation imposed by the comparable section for previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2010, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
+>          Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2014, by this \[Act\] \[titles I–III and V–VII of div. E of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5][/us/usc/t5/s5342/a/2/A], United States Code—
 
->         “(2)
+>             “(A) during the period beginning on September 30, 2013 and ending on the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2014, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with section 147 of the Continuing Appropriations and Surface Transportation Extensions Act, 2011 \[probably means [section 147 of Pub. L. 111–242][/us/pl/111/242/s147], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], [5 U.S.C. 5303][/us/usc/t5/s5303] note\], as amended by the Consolidated and Further Continuing Appropriations Act, 2013 \[[Pub. L. 113–6][/us/pl/113/6]\]; and
 
->          during the period consisting of the remainder of fiscal year 2010, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
+>             “(B)
 
->             “(A) the percentage adjustment taking effect in fiscal year 2010 under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, in the rates of pay under the General Schedule; and
+>              during the period consisting of the remainder of fiscal year 2014, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
 
->             “(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2010 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+>                 “(i) the percentage adjustment taking effect in fiscal year 2014 under [section 5303 of title 5][/us/usc/t5/s5303], United States Code, in the rates of pay under the General Schedule; and
 
->     “(b) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of [section 5342(a)(2) of title 5][/us/usc/t5/s5342/a/2], United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which subsection (a) is in effect at a rate that exceeds the rates that would be payable under subsection (a) were subsection (a) applicable to such employee.
+>                 “(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2014 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
->     “(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2009, shall be determined under regulations prescribed by the Office of Personnel Management.
+>         “(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of [section 5342(a)(2) of title 5][/us/usc/t5/s5342/a/2], United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee.
 
->     “(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2009, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
+>         “(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2013, shall be determined under regulations prescribed by the Office of Personnel Management.
 
->     “(e) This section shall apply with respect to pay for service performed after September 30, 2009.
+>         “(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2013, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
 
->     “(f) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
+>         “(5) This subsection shall apply with respect to pay for service performed after September 30, 2013.
 
->     “(g) Nothing in this section shall be considered to permit or require the payment to any employee covered by this section at a rate in excess of the rate that would be payable were this section not in effect.
+>         “(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay.
 
->     “(h) The Office of Personnel Management may provide for exceptions to the limitations imposed by this section if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.”
+>         “(7) Nothing in this subsection shall be considered to permit or require the payment to any employee covered by this subsection at a rate in excess of the rate that would be payable were this subsection not in effect.
+
+>         “(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.
+
+>     “(b)
+
+>      Notwithstanding subsection (a) and section 147 of the Continuing Appropriations and Surface Transportation Extensions Act, 2011 \[probably means [section 147 of Pub. L. 111–242][/us/pl/111/242/s147], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], [5 U.S.C. 5303][/us/usc/t5/s5303] note\], as amended by the Consolidated and Further Continuing Appropriations Act, 2013 \[[Pub. L. 113–6][/us/pl/113/6]\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2014 under sections 5344 and 5348 of title 5, United States Code, shall be—
+
+>         “(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: Provided, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in [section 5343(a)(5) of title 5][/us/usc/t5/s5343/a/5], United States Code, shall be considered to be located in the pay locality designated as ‘Rest of United States’ pursuant to [section 5304 of title 5][/us/usc/t5/s5304], United States Code, for purposes of this subsection; and
+
+>         “(2) effective as of the first day of the first applicable pay period beginning after September 30, 2013.”
 
 Similar provisions were contained in the following prior acts:
+
+    [Pub. L. 111–117, div. C, title VII, § 710][/us/pl/111/117/s710], Dec. 16, 2009, [123 Stat. 3206][/us/stat/123/3206].
 
     [Pub. L. 111–8, div. D, title VII, § 710][/us/pl/111/8/s710], Mar. 11, 2009, [123 Stat. 682][/us/stat/123/682].
 
@@ -445,11 +457,24 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/111/117/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs710
-[/us/stat/123/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3206
+[/us/pl/113/76/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs740
+[/us/stat/128/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F239
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t5/s5342/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2%2FA
+[/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147
+[/us/pl/111/322/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs1%2Fa%2F2
+[/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2
+[/us/pl/111/242/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F242%2Fs147
+[/us/pl/111/322/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F322%2Fs1%2Fa%2F2
+[/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/usc/t5/s5343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343%2Fa%2F5
+[/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
+[/us/pl/111/117/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs710
+[/us/stat/123/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3206
 [/us/pl/111/8/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs710
 [/us/stat/123/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F682
 [/us/pl/110/161/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs712
