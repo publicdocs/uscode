@@ -111,7 +111,7 @@
 
 >     “(d)  __Nonapplicability to Certain Terminations__  __.—__ 
 
->     Section 1104 of the National Security Act of 1947 \[[50 U.S.C. 3234][/us/usc/t50/s3234]\], as added by section 601 of this Act, and section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341][/us/usc/t50/s3341]), as amended by section 602 of this Act, shall not apply if—
+>     Section 1104 of the National Security Act of 1947, as added by section 601 of this Act, and section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341][/us/usc/t50/s3341]), as amended by section 602 of this Act, shall not apply if—
 
 >         “(1)
 
@@ -145,7 +145,6 @@
 [/us/pl/113/126/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs604
 [/us/stat/128/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1421
 [/us/usc/t5/s2302/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FC%2Fii
-[/us/usc/t50/s3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3234
 [/us/usc/t50/s3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3234
 [/us/usc/t50/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3341
 [/us/usc/t10/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1609

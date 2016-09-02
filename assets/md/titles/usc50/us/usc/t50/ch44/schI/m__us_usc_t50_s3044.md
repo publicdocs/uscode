@@ -73,11 +73,9 @@
 
     2014—Subsec. (a)(2). [Pub. L. 113–293, § 304(1)][/us/pl/113/293/s304/1], substituted “usage, including—” for “usage; and” in introductory provisions and added subpars. (A) to (D).
 
-    Subsec. (b)(1). [Pub. L. 113–293, § 304(2)(A)][/us/pl/113/293/s304/2/A], substituted semicolon at end for “; and”.
-
     Subsec. (b)(2). [Pub. L. 113–293, § 304(2)(B)][/us/pl/113/293/s304/2/B], substituted “usage, including—” for “usage.” in introductory provisions and added subpars. (A) to (D).
 
-    Subsec. (b)(3). [Pub. L. 113–293, § 304(2)(C)][/us/pl/113/293/s304/2/C], added par. (3).
+    Subsec. (b)(3). [Pub. L. 113–293, § 304(2)(A)][/us/pl/113/293/s304/2/A], (C), added par. (3).
 
     Subsec. (d). [Pub. L. 113–293, § 304(3)][/us/pl/113/293/s304/3], added subsec. (d).
 
@@ -125,9 +123,8 @@
 [/us/pl/111/259/s347/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs347%2Fa
 [/us/stat/124/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2698
 [/us/pl/113/293/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F1
-[/us/pl/113/293/s304/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F2%2FA
 [/us/pl/113/293/s304/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F2%2FB
-[/us/pl/113/293/s304/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F2%2FC
+[/us/pl/113/293/s304/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F2%2FA
 [/us/pl/113/293/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs304%2F3
 [/us/pl/113/126/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs307%2Fb
 [/us/stat/128/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1397

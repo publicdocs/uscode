@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    The General Schedule, referred to in subsec. (b)(2)(A), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
+    The General Schedule, referred to in subsec. (b)(2), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
     Subsec. (a). [Pub. L. 113–126, § 329(c)(2)(B)][/us/pl/113/126/s329/c/2/B], (C), struck out subsec. (a) designation and heading “Annual report on hiring and retention of minority employees” and redesignated par. (1) as subsec. (a). Former pars. (2) to (5) redesignated subsecs. (b) to (e), respectively.
 
-    Subsec. (b). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (D), redesignated subsec. (a)(2) as (b), redesignated subsec. (a)(2), subpars. (A) to (C) as subsec. (b), pars. (1) to (3), respectively, and in par. (2) substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+    Subsec. (b). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (D), redesignated subsec. (a)(2) as (b), redesignated subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and in par. (2) as redesignated, substituted “subparagraphs (A) and (B)” for “clauses (i) and (ii)” in introductory provisions and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
     [Pub. L. 113–126, § 329(a)(1)][/us/pl/113/126/s329/a/1], struck out subsec. (b) which related to annual report on threat of attack on the United States using weapons of mass destruction.
 
@@ -77,7 +77,7 @@
 
     Subsec. (d). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (E), redesignated subsec. (a)(4) as (d) and substituted “section” for “subsection”.
 
-    Subsec. (e). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (F), redesignated subsec. (a)(5) as (e), substituted “section” for “subsection,” in introductory provisions, and redesignated subsec. (a)(5), subpars. (A) and (B) as subsec. (e), pars. (1) and (2), respectively.
+    Subsec. (e). [Pub. L. 113–126, § 329(c)(2)(C)][/us/pl/113/126/s329/c/2/C], (F), redesignated subsec. (a)(5) as (e), substituted “section” for “subsection,” in introductory provisions, and redesignated subpars. (A) to (C) of former subsec. (a)(5) as pars. (1) to (3), respectively, of subsec. (e).
 
     2013—[Pub. L. 112–277][/us/pl/112/277] redesignated subsecs. (b) and (c) as (a) and (b), respectively, struck out former subsec. (a) which required annual reports on the safety and security of Russian nuclear facilities and nuclear military forces, and struck out subsec. (d) which defined the term “congressional leadership”.
 

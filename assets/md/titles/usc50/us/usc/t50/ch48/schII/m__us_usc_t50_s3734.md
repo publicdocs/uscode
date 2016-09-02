@@ -29,7 +29,7 @@
 
             (B) will reduce the threats posed by weapons of mass destruction and related materials and technology to the United States and countries in the Euro-Atlantic and Eurasian regions.
 
-    (b) __Completion of Cooperation Threat Reduction activities in Russian Federation__ 
+    (b) __Completion of Cooperative Threat Reduction activities in Russian Federation__ 
 
         Cooperative Threat Reduction funds made available for a fiscal year after fiscal year 2015 may not be obligated or expended for activities in the Russian Federation unless such activities in Russia are specifically authorized by law.
 

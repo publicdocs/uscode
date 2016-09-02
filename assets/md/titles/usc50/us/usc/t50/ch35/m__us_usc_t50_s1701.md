@@ -4701,6 +4701,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
 
+    Notice of President of the United States, dated June 10, 2015, 80 F.R. 34021.
+
     Notice of President of the United States, dated June 10, 2014, 79 F.R. 33847.
 
     Notice of President of the United States, dated June 13, 2013, 78 F.R. 36081.
@@ -4722,6 +4724,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13047, May 20, 1997, 62 F.R. 28301, sections 1 to 7 of which were revoked by Ex. Ord. No. 13310, § 12, July 28, 2003, 68 F.R. 44855, to the extent inconsistent with Ex. Ord. No. 13310.
 
     Continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
+
+    Notice of President of the United States, dated May 15, 2015, 80 F.R. 28805.
 
     Notice of President of the United States, dated May 15, 2014, 79 F.R. 28807.
 
@@ -4770,6 +4774,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
  __Central African Republic__ 
 
     Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
+
+    Continuation of national emergency declared by Ex. Ord. No. 13667 was contained in the following:
+
+    Notice of President of the United States, dated May 8, 2015, 80 F.R. 27067.
 
  __Colombia__ 
 
@@ -5024,6 +5032,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 13637, § 5, Mar. 8, 2013, 78 F.R. 16131.
 
     Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
+
+    Notice of President of the United States, dated Aug. 7, 2015, 80 F.R. 48233.
 
     Notice of President of the United States, dated Aug. 7, 2014, 79 F.R. 46959.
 
@@ -5307,6 +5317,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
 
+    Notice of President of the United States, dated May 19, 2015, 80 F.R. 29527.
+
     Notice of President of the United States, dated May 19, 2014, 79 F.R. 29069.
 
     Notice of President of the United States, dated May 17, 2013, 78 F.R. 30195.
@@ -5353,6 +5365,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13441 were contained in the following:
 
+    Notice of President of the United States, dated July 29, 2015, 80 F.R. 45839.
+
     Notice of President of the United States, dated July 29, 2014, 79 F.R. 44259.
 
     Notice of President of the United States, dated July 29, 2013, 78 F.R. 46489.
@@ -5376,6 +5390,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885.
 
     Continuations of national emergency declared by Ex. Ord. No. 13348 were contained in the following:
+
+    Notice of President of the United States, dated July 17, 2015, 80 F.R. 43297.
 
     Notice of President of the United States, dated July 15, 2014, 79 F.R. 41875.
 
@@ -5479,6 +5495,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13466 were contained in the following:
 
+    Notice of President of the United States, dated June 22, 2015, 80 F.R. 36461.
+
     Notice of President of the United States, dated June 20, 2014, 79 F.R. 35909.
 
     Notice of President of the United States, dated June 21, 2013, 78 F.R. 38193.
@@ -5541,13 +5559,15 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Notice of President of the United States, dated June 11, 2001, 66 F.R. 32207.
 
-    Ex. Ord. No. 13617, June 25, 2012, 77 F.R. 38459.
+    Ex. Ord. No. 13617, June 25, 2012, 77 F.R. 38459, revoked by Ex. Ord. No. 13695, May 26, 2015, 80 F.R. 30331.
 
     Continuations of national emergency declared by Ex. Ord. No. 13617 were contained in the following:
 
     Notice of President of the United States, dated June 19, 2014, 79 F.R. 35679.
 
     Notice of President of the United States, dated June 20, 2013, 78 F.R. 37925.
+
+    Ex. Ord. No. 13695, May 26, 2015, 80 F.R. 30331.
 
  __Sierra Leone__ 
 
@@ -5647,6 +5667,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
 
+    Notice of President of the United States, dated May 6, 2015, 80 F.R. 26815.
+
     Notice of President of the United States, dated May 7, 2014, 79 F.R. 26589.
 
     Notice of President of the United States, dated May 7, 2013, 78 F.R. 27301.
@@ -5686,6 +5708,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13581, July 24, 2011, 76 F.R. 44757.
 
     Continuations of national emergency declared by Ex. Ord. No. 13581 were contained in the following:
+
+    Notice of President of the United States, dated July 21, 2015, 80 F.R. 43907.
 
     Notice of President of the United States, dated July 18, 2014, 79 F.R. 42645.
 
@@ -5763,6 +5787,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13219 were contained in the following:
 
+    Notice of President of the United States, dated June 22, 2015, 80 F.R. 36463.
+
     Notice of President of the United States, dated June 23, 2014, 79 F.R. 36181.
 
     Notice of President of the United States, dated June 17, 2013, 78 F.R. 37099.
@@ -5796,6 +5822,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 
     Continuations of national emergency declared by Ex. Ord. No. 13611 were contained in the following:
+
+    Notice of President of the United States, dated May 13, 2015, 80 F.R. 27851.
 
     Notice of President of the United States, dated May 12, 2014, 79 F.R. 27477.
 
