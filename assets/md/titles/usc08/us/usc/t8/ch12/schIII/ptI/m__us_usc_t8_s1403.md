@@ -29,7 +29,7 @@
 
  __Change of Name__ 
 
-    Panama Railroad Company redesignated Panama Canal Company by [act Sept. 26, 1950, ch. 1049, § 2(a)(2)][/us/act/1950-09-26/ch1049/s2/a/2], [64 Stat. 1038][/us/stat/64/1038]. References to Panama Canal Company in laws of the United States are deemed to refer to Panama Canal Commission pursuant to [section 3602(b)(5) of Title 22][/us/usc/t22/s3602/b/5], Foreign Relations and Intercourse.
+    Panama Railroad Company redesignated Panama Canal Company by [act Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(a)(2), [64 Stat. 1038][/us/stat/64/1038]. References to Panama Canal Company in laws of the United States are deemed to refer to Panama Canal Commission pursuant to [section 3602(b)(5) of Title 22][/us/usc/t22/s3602/b/5], Foreign Relations and Intercourse.
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/stat/66/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F236
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/act/1950-09-26/ch1049/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fa%2F2
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
 [/us/usc/t22/s3602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb%2F5
 

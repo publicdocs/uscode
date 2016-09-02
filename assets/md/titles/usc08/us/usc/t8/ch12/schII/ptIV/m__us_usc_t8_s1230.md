@@ -19,11 +19,11 @@
 
     (b) The Attorney General shall cause to be filed such record of the admission into the United States of each immigrant admitted under [section 1181(b) of this title][/us/usc/t8/s1181/b] and of each nonimmigrant as the Attorney General deems necessary for the enforcement of the immigration laws.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240C, formerly § 240, [66 Stat. 204][/us/stat/66/204]; renumbered § 240C and amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 304(a)(2), 308(f)(1)(K), Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587], 3009–621.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240C, formerly § 240, [66 Stat. 204][/us/stat/66/204]; renumbered § 240C and amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 304(a)(2), 308(f)(1)(K), Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587], 3009–621.)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–208, § 308(f)(1)(K)][/us/pl/104/208/s308/f/1/K], substituted “admission” for “entry”.
+    1996—Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 308(f)(1)(K), substituted “admission” for “entry”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -44,9 +44,9 @@
 [/us/usc/t8/s1181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1181%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F204
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-587
-[/us/pl/104/208/s308/f/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F1%2FK
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

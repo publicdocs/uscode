@@ -19,7 +19,7 @@
 
     (b) The function of the Office and its Director is to fund and administer (directly or through arrangements with other Federal agencies), in consultation with the Secretary of State, programs of the Federal Government under this subchapter.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 411, as added [Pub. L. 96–212, title III, § 311(a)(2)][/us/pl/96/212/s311/a/2], Mar. 17, 1980, [94 Stat. 110][/us/stat/94/110]; amended [Pub. L. 103–236, title I, § 162(n)(1)][/us/pl/103/236/s162/n/1], Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 411, as added [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 311(a)(2), Mar. 17, 1980, [94 Stat. 110][/us/stat/94/110]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(n)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
  __References to Secretary of Education or Secretary of Department of Health and Human Services__ 
 
-[Pub. L. 96–212, title II, § 204(e)][/us/pl/96/212/s204/e], Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], provided that: 
+[Pub. L. 96–212, title II][/us/pl/96/212/tII], § 204(e), Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], provided that: 
 
 > “Any reference in this Act \[see Short Title of 1980 Amendment note set out under [section 1101 of this title][/us/usc/t8/s1101]\] or in chapter 2 of title IV of the Immigration and Nationality Act \[this subchapter\] to the Secretary of Education or the Secretary of Health and Human Services or to the Department of Health and Human Services shall be deemed, before the effective date of the Department of Education Organization Act \[see Effective Date note set out under [section 3401 of Title 20][/us/usc/t20/s3401], Education\], to be a reference to the Secretary of Health, Education, and Welfare or to the Department of Health, Education, and Welfare, respectively.”
 
  __Congressional Declaration of Policies and Objectives__ 
 
-[Pub. L. 96–212, title I, § 101][/us/pl/96/212/s101], Mar. 17, 1980, [94 Stat. 102][/us/stat/94/102], provided that:
+[Pub. L. 96–212, title I][/us/pl/96/212/tI], § 101, Mar. 17, 1980, [94 Stat. 102][/us/stat/94/102], provided that:
 
 >     “(a) the Congress declares that it is the historic policy of the United States to respond to the urgent needs of persons subject to persecution in their homelands, including, where appropriate, humanitarian assistance for their care and maintenance in asylum areas, efforts to promote opportunities for resettlement or voluntary repatriation, aid for necessary transportation and processing, admission to this country of refugees of special humanitarian concern to the United States, and transitional assistance to refugees in the United States. The Congress further declares that it is the policy of the United States to encourage all nations to provide assistance and resettlement opportunities to refugees to the fullest extent possible.
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/96/212/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs311%2Fa%2F2
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F110
-[/us/pl/103/236/s162/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fn%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
@@ -71,11 +71,11 @@
 [/us/pl/96/212/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs313
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/96/212/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs204%2Fe
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F109
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401
-[/us/pl/96/212/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs101
+[/us/pl/96/212/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtI
 [/us/stat/94/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F102
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 

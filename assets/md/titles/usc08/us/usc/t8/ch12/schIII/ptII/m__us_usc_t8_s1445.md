@@ -43,7 +43,7 @@
 
         An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General. Nothing in this subsection shall be construed as requiring any such alien to make and file a declaration of intention as a condition precedent to filing an application for naturalization nor shall any such declaration of intention be regarded as conferring or having conferred upon any such alien United States citizenship or nationality or the right to United States citizenship or nationality, nor shall such declaration be regarded as evidence of such alien’s lawful admission for permanent residence in any proceeding, action, or matter arising under this chapter or any other Act.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 334, [66 Stat. 254][/us/stat/66/254]; [Pub. L. 97–116, § 15(b)][/us/pl/97/116/s15/b], Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 101–649, title IV][/us/pl/101/649], §§ 401(b), 407(c)(15), (d)(12), Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038], 5041, 5042; [Pub. L. 102–232, title III, § 305(d)][/us/pl/102/232/s305/d], (e), (m)(7), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 334, [66 Stat. 254][/us/stat/66/254]; [Pub. L. 97–116][/us/pl/97/116], § 15(b), Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], §§ 401(b), 407(c)(15), (d)(12), Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038], 5041, 5042; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(d), (e), (m)(7), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
 
  __References in Text__ 
 
@@ -51,23 +51,23 @@
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–232, § 305(m)(7)][/us/pl/102/232/s305/m/7], struck out “, in duplicate,” after “file with the Attorney General”.
+    1991—Subsec. (a). [Pub. L. 102–232][/us/pl/102/232], § 305(m)(7), struck out “, in duplicate,” after “file with the Attorney General”.
 
-    [Pub. L. 102–232, § 305(e)][/us/pl/102/232/s305/e], made technical correction to directory language of [Pub. L. 101–649, § 407(d)(12)(B)][/us/pl/101/649/s407/d/12/B]. See 1990 Amendment note below.
+    [Pub. L. 102–232][/us/pl/102/232], § 305(e), made technical correction to directory language of [Pub. L. 101–649][/us/pl/101/649], § 407(d)(12)(B). See 1990 Amendment note below.
 
-    Subsecs. (f), (g). [Pub. L. 102–232, § 305(d)][/us/pl/102/232/s305/d], redesignated subsec. (g) as (f).
+    Subsecs. (f), (g). [Pub. L. 102–232][/us/pl/102/232], § 305(d), redesignated subsec. (g) as (f).
 
-    1990—[Pub. L. 101–649, § 407(d)(12)(A)][/us/pl/101/649/s407/d/12/A], substituted “Application for naturalization; declaration of intention” for “Petition for naturalization” in section catchline.
+    1990—[Pub. L. 101–649][/us/pl/101/649], § 407(d)(12)(A), substituted “Application for naturalization; declaration of intention” for “Petition for naturalization” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–649, § 407(c)(15)][/us/pl/101/649/s407/c/15], (d)(12)(B), as amended by [Pub. L. 102–232, § 305(e)][/us/pl/102/232/s305/e], substituted “with the Attorney General” for “in the office of the clerk of a naturalization court”, “under this subchapter” for “upon the hearing of such petition”, and “application” for “petition” wherever appearing.
+    Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(15), (d)(12)(B), as amended by [Pub. L. 102–232][/us/pl/102/232], § 305(e), substituted “with the Attorney General” for “in the office of the clerk of a naturalization court”, “under this subchapter” for “upon the hearing of such petition”, and “application” for “petition” wherever appearing.
 
-    [Pub. L. 101–649, § 401(b)][/us/pl/101/649/s401/b], inserted at end “In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement.”
+    [Pub. L. 101–649][/us/pl/101/649], § 401(b), inserted at end “In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement.”
 
-    Subsec. (b). [Pub. L. 101–649, § 407(c)(15)][/us/pl/101/649/s407/c/15], (d)(12)(C), substituted “application” for “petition” in first sentence, and struck out “(1)” before “he shall have attained”, “and (2) he shall have first filed an application therefor at an office of the Service in the form and manner prescribed by the Attorney General” after “eighteen years”, and “petition for” after “An application for”.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(15), (d)(12)(C), substituted “application” for “petition” in first sentence, and struck out “(1)” before “he shall have attained”, “and (2) he shall have first filed an application therefor at an office of the Service in the form and manner prescribed by the Attorney General” after “eighteen years”, and “petition for” after “An application for”.
 
-    Subsecs. (c) to (e). [Pub. L. 101–649, § 407(d)(12)(F)][/us/pl/101/649/s407/d/12/F], added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related to time to file, substitute filing place, and investigation into reasons for substitute filing place, respectively.
+    Subsecs. (c) to (e). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(12)(F), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related to time to file, substitute filing place, and investigation into reasons for substitute filing place, respectively.
 
-    Subsecs. (f), (g). [Pub. L. 101–649, § 407(c)(15)][/us/pl/101/649/s407/c/15], (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filed with, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien’s place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
+    Subsecs. (f), (g). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filed with, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien’s place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
 
     1981—Subsec. (a). [Pub. L. 97–116][/us/pl/97/116] struck out “and duly verified by two witnesses,” after “able to write,”.
 
@@ -75,7 +75,7 @@
 
     Amendment by section 305(d), (e) of [Pub. L. 102–232][/us/pl/102/232] effective as if included in the enactment of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649], see [section 310(1) of Pub. L. 102–232][/us/pl/102/232/s310/1], set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
-    [Pub. L. 102–232, title III, § 305(m)][/us/pl/102/232/s305/m], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
  __Effective Date of 1981 Amendment__ 
 
@@ -95,32 +95,32 @@
 [/us/usc/t8/s1447/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F254
-[/us/pl/97/116/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs15%2Fb
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1619
-[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5038
-[/us/pl/102/232/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fd
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/102/232/s305/m/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm%2F7
-[/us/pl/102/232/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fe
-[/us/pl/101/649/s407/d/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F12%2FB
-[/us/pl/102/232/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fd
-[/us/pl/101/649/s407/d/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F12%2FA
-[/us/pl/101/649/s407/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F15
-[/us/pl/102/232/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fe
-[/us/pl/101/649/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs401%2Fb
-[/us/pl/101/649/s407/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F15
-[/us/pl/101/649/s407/d/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F12%2FF
-[/us/pl/101/649/s407/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F15
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs310%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/102/232/s305/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116

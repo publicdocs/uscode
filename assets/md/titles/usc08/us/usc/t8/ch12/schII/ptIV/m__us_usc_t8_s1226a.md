@@ -85,7 +85,7 @@
 
         The provisions of this section shall not be applicable to any other provision of this chapter.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 236A, as added [Pub. L. 107–56, title IV, § 412(a)][/us/pl/107/56/s412/a], Oct. 26, 2001, [115 Stat. 350][/us/stat/115/350].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 236A, as added [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 412(a), Oct. 26, 2001, [115 Stat. 350][/us/stat/115/350].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Reports__ 
 
-[Pub. L. 107–56, title IV, § 412(c)][/us/pl/107/56/s412/c], Oct. 26, 2001, [115 Stat. 352][/us/stat/115/352], provided that: 
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 412(c), Oct. 26, 2001, [115 Stat. 352][/us/stat/115/352], provided that: 
 
 > “Not later than 6 months after the date of the enactment of this Act \[Oct. 26, 2001\], and every 6 months thereafter, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, with respect to the reporting period, on—
 
@@ -133,13 +133,13 @@
 [/us/usc/t28/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2241%2Fb
 [/us/usc/t28/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2253
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/107/56/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs412%2Fa
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F350
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/56/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs412%2Fc
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F352
 [/us/usc/t8/s1226a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1226a%2Fa%2F3
 

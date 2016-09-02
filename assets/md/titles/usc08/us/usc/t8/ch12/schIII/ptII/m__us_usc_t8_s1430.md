@@ -35,33 +35,33 @@
 
         (2) Notwithstanding any other provision of law, a spouse described in paragraph (1) shall be eligible for naturalization proceedings overseas pursuant to [section 1443a of this title][/us/usc/t8/s1443a].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 319, [66 Stat. 244][/us/stat/66/244]; [Pub. L. 85–697, § 2][/us/pl/85/697/s2], Aug. 20, 1958, [72 Stat. 687][/us/stat/72/687]; [Pub. L. 90–215, § 1(a)][/us/pl/90/215/s1/a], Dec. 18, 1967, [81 Stat. 661][/us/stat/81/661]; [Pub. L. 90–369][/us/pl/90/369], June 29, 1968, [82 Stat. 279][/us/stat/82/279]; [Pub. L. 101–649, title IV, § 407(b)(1)][/us/pl/101/649/s407/b/1], (c)(5), (d)(4), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5041; [Pub. L. 106–386, div. B, title V, § 1503(e)][/us/pl/106/386/s1503/e], Oct. 28, 2000, [114 Stat. 1522][/us/stat/114/1522]; [Pub. L. 108–136, div. A, title XVII, § 1703(f)(1)][/us/pl/108/136/s1703/f/1], (h), Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], 1696; [Pub. L. 110–181, div. A, title VI, § 674(a)][/us/pl/110/181/s674/a], Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 319, [66 Stat. 244][/us/stat/66/244]; [Pub. L. 85–697][/us/pl/85/697], § 2, Aug. 20, 1958, [72 Stat. 687][/us/stat/72/687]; [Pub. L. 90–215][/us/pl/90/215], § 1(a), Dec. 18, 1967, [81 Stat. 661][/us/stat/81/661]; [Pub. L. 90–369][/us/pl/90/369], June 29, 1968, [82 Stat. 279][/us/stat/82/279]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5041; [Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1503(e), Oct. 28, 2000, [114 Stat. 1522][/us/stat/114/1522]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1703(f)(1), (h), Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], 1696; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 674(a), Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185].)
 
  __Amendments__ 
 
     2008—Subsec. (e). [Pub. L. 110–181][/us/pl/110/181] added subsec. (e).
 
-    2003—Subsec. (d). [Pub. L. 108–136, § 1703(h)][/us/pl/108/136/s1703/h], inserted “, child, or parent” after “surviving spouse” and “, parent, or child” after “whose citizen spouse”, and substituted “who, in the case of a surviving spouse, was living” for “who was living”.
+    2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 1703(h), inserted “, child, or parent” after “surviving spouse” and “, parent, or child” after “whose citizen spouse”, and substituted “who, in the case of a surviving spouse, was living” for “who was living”.
 
-    [Pub. L. 108–136, § 1703(f)(1)][/us/pl/108/136/s1703/f/1], inserted at end “For purposes of this subsection, the terms ‘United States citizen’ and ‘citizen spouse’ include a person granted posthumous citizenship under [section 1440–1 of this title][/us/usc/t8/s1440–1].”
+    [Pub. L. 108–136][/us/pl/108/136], § 1703(f)(1), inserted at end “For purposes of this subsection, the terms ‘United States citizen’ and ‘citizen spouse’ include a person granted posthumous citizenship under [section 1440–1 of this title][/us/usc/t8/s1440–1].”
 
     2000—Subsec. (a). [Pub. L. 106–386][/us/pl/106/386] inserted “, or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty,” after “citizen of the United States” and “(except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent)” after “has been living in marital union with the citizen spouse”.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(c)(5)][/us/pl/101/649/s407/c/5], substituted “application” for “petition” wherever appearing.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(5), substituted “application” for “petition” wherever appearing.
 
-    [Pub. L. 101–649, § 407(b)(1)(A)][/us/pl/101/649/s407/b/1/A], substituted “has resided within the State or the district of the Service in the United States in which the applicant filed his application for at least three months” for “has resided within the State in which he filed his petition for at least six months.”
+    [Pub. L. 101–649][/us/pl/101/649], § 407(b)(1)(A), substituted “has resided within the State or the district of the Service in the United States in which the applicant filed his application for at least three months” for “has resided within the State in which he filed his petition for at least six months.”
 
-    Subsec. (b). [Pub. L. 101–649, § 407(d)(4)(A)][/us/pl/101/649/s407/d/4/A], substituted “before the Attorney General” for “before the naturalization court” in cl. (3).
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(4)(A), substituted “before the Attorney General” for “before the naturalization court” in cl. (3).
 
-    [Pub. L. 101–649, § 407(b)(1)(B)][/us/pl/101/649/s407/b/1/B], substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(b)(1)(B), substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
 
-    Subsec. (c). [Pub. L. 101–649, § 407(d)(4)(B)][/us/pl/101/649/s407/d/4/B], substituted “Attorney General” for “naturalization court” in cl. (5).
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(4)(B), substituted “Attorney General” for “naturalization court” in cl. (5).
 
-    [Pub. L. 101–649, § 407(c)(5)][/us/pl/101/649/s407/c/5], substituted “application” for “petition”.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(c)(5), substituted “application” for “petition”.
 
-    [Pub. L. 101–649, § 407(b)(1)(C)][/us/pl/101/649/s407/b/1/C], substituted “district of the Service in the United States” for “within the jurisdiction of the court”.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(b)(1)(C), substituted “district of the Service in the United States” for “within the jurisdiction of the court”.
 
-    Subsec. (d). [Pub. L. 101–649, § 407(b)(1)(B)][/us/pl/101/649/s407/b/1/B], substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(1)(B), substituted “within a State or a district of the Service in the United States” for “within the jurisdiction of the naturalization court”.
 
     1968—Subsec. (d). [Pub. L. 90–369][/us/pl/90/369] added subsec. (d).
 
@@ -71,13 +71,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VI, § 674(d)][/us/pl/110/181/s674/d], Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 674(d), Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1433 and 1443a of this title\] shall take effect on the date of enactment of this Act \[Jan. 28, 2008\] and apply to any application for naturalization or issuance of a certificate of citizenship pending on or after such date.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title XVII, § 1703(f)(2)][/us/pl/108/136/s1703/f/2], Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], provided that: 
+[Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1703(f)(2), Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to persons granted posthumous citizenship under section 329A of the Immigration and Nationality Act ([8 U.S.C. 1440–1][/us/usc/t8/s1440–1]) due to death on or after September 11, 2001.”
 
@@ -89,7 +89,7 @@
 
  __Requirements for Citizenship for Staff of George C. Marshall European Center for Security Studies__ 
 
-[Pub. L. 101–193, title V, § 506][/us/pl/101/193/s506], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709], as amended by [Pub. L. 104–208, div. C, title VI, § 671(g)(1)][/us/pl/104/208/s671/g/1], Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724]; [Pub. L. 105–85, div. A, title IX, § 923][/us/pl/105/85/s923], Nov. 18, 1997, [111 Stat. 1863][/us/stat/111/1863], provided that:
+[Pub. L. 101–193, title V][/us/pl/101/193/tV], § 506, Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709], as amended by [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 671(g)(1), Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724]; [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 923, Nov. 18, 1997, [111 Stat. 1863][/us/stat/111/1863], provided that:
 
 >     “(a) For purposes of section 319(c) of the Immigration and Nationality Act ([8 U.S.C. 1430(c)][/us/usc/t8/s1430/c]), the George C. Marshall European Center for Security Studies, located in Garmisch, Federal Republic of Germany, shall be considered to be an organization described in clause (1) of such section.
 
@@ -112,50 +112,50 @@
 [/us/usc/t8/s1443a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1443a
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F244
-[/us/pl/85/697/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F697%2Fs2
+[/us/pl/85/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F697
 [/us/stat/72/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F687
-[/us/pl/90/215/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F215%2Fs1%2Fa
+[/us/pl/90/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F215
 [/us/stat/81/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F661
 [/us/pl/90/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F369
 [/us/stat/82/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F279
-[/us/pl/101/649/s407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F1
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5040
-[/us/pl/106/386/s1503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1503%2Fe
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1522
-[/us/pl/108/136/s1703/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Ff%2F1
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1695
-[/us/pl/110/181/s674/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs674%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F185
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/108/136/s1703/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Fh
-[/us/pl/108/136/s1703/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Ff%2F1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t8/s1440–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/101/649/s407/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F5
-[/us/pl/101/649/s407/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F1%2FA
-[/us/pl/101/649/s407/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F4%2FA
-[/us/pl/101/649/s407/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F1%2FB
-[/us/pl/101/649/s407/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F4%2FB
-[/us/pl/101/649/s407/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F5
-[/us/pl/101/649/s407/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F1%2FC
-[/us/pl/101/649/s407/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F1%2FB
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/90/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F369
 [/us/pl/90/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F215
 [/us/pl/85/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F697
-[/us/pl/110/181/s674/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs674%2Fd
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F186
-[/us/pl/108/136/s1703/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Ff%2F2
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1695
 [/us/usc/t8/s1440–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1705%2Fa
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/101/193/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs506
+[/us/pl/101/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtV
 [/us/stat/103/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1709
-[/us/pl/104/208/s671/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fg%2F1
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-724
-[/us/pl/105/85/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs923
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1863
 [/us/usc/t8/s1430/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1430%2Fc
 

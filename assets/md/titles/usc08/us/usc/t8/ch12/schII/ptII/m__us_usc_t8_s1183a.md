@@ -197,7 +197,7 @@
 
             (B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 213A, as added [Pub. L. 104–193, title IV, § 423(a)][/us/pl/104/193/s423/a], Aug. 22, 1996, [110 Stat. 2271][/us/stat/110/2271]; amended [Pub. L. 104–208, div. C, title V, § 551(a)][/us/pl/104/208/s551/a], Sept. 30, 1996, [110 Stat. 3009–675][/us/stat/110/3009-675]; [Pub. L. 107–150, § 2(a)(1)][/us/pl/107/150/s2/a/1], (3), Mar. 13, 2002, [116 Stat. 74][/us/stat/116/74], 75; [Pub. L. 111–83, title V, § 568(e)][/us/pl/111/83/s568/e], Oct. 28, 2009, [123 Stat. 2187][/us/stat/123/2187].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 213A, as added [Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 423(a), Aug. 22, 1996, [110 Stat. 2271][/us/stat/110/2271]; amended [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 551(a), Sept. 30, 1996, [110 Stat. 3009–675][/us/stat/110/3009-675]; [Pub. L. 107–150][/us/pl/107/150], § 2(a)(1), (3), Mar. 13, 2002, [116 Stat. 74][/us/stat/116/74], 75; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 568(e), Oct. 28, 2009, [123 Stat. 2187][/us/stat/123/2187].)
 
  __References in Text__ 
 
@@ -213,9 +213,9 @@
 
     “(ii) the Attorney General has determined for humanitarian reasons that revocation of such petition under [section 1155 of this title][/us/usc/t8/s1155] would be inappropriate.”
 
-    2002—Subsec. (f)(2), (4)(B)(ii). [Pub. L. 107–150, § 2(a)(3)][/us/pl/107/150/s2/a/3], substituted “paragraph (5)(A)” for “paragraph (5)”.
+    2002—Subsec. (f)(2), (4)(B)(ii). [Pub. L. 107–150][/us/pl/107/150], § 2(a)(3), substituted “paragraph (5)(A)” for “paragraph (5)”.
 
-    Subsec. (f)(5). [Pub. L. 107–150, § 2(a)(1)][/us/pl/107/150/s2/a/1], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
+    Subsec. (f)(5). [Pub. L. 107–150][/us/pl/107/150], § 2(a)(1), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
 
     1996—[Pub. L. 104–208][/us/pl/104/208] amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor’s affidavits of support.
 
@@ -225,7 +225,7 @@
 
  __Effective Date of 1996 Amendments; Promulgation of Form__ 
 
-[Pub. L. 104–208, div. C, title V, § 551(c)][/us/pl/104/208/s551/c], Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679], provided that:
+[Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 551(c), Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -235,7 +235,7 @@
 
 >     Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a).”
 
-    [Pub. L. 104–193, title IV, § 423(c)][/us/pl/104/193/s423/c], Aug. 22, 1996, [110 Stat. 2273][/us/stat/110/2273], provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by [Pub. L. 104–208, div. C, title V, § 551(b)(2)][/us/pl/104/208/s551/b/2], Sept. 30, 1996, [104 Stat. 3009–679][/us/stat/104/3009-679].
+    [Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 423(c), Aug. 22, 1996, [110 Stat. 2273][/us/stat/110/2273], provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 551(b)(2), Sept. 30, 1996, [104 Stat. 3009–679][/us/stat/104/3009-679].
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -243,7 +243,7 @@
 
  __Fees Relating to Affidavits of Support__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 232\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–425, as amended by [Pub. L. 107–228, div. A, title II, § 211(b)][/us/pl/107/228/s211/b], Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 232\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–425, as amended by [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 211(b), Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365], provided that:
 
 >     “(a)  __Authority To Charge Fee__  __.—__ 
 
@@ -259,7 +259,7 @@
 
  __Pilot Programs To Require Bonding__ 
 
-[Pub. L. 104–208, div. C, title V, § 564][/us/pl/104/208/s564], Sept. 30, 1996, [110 Stat. 3009–683][/us/stat/110/3009-683], provided that:
+[Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 564, Sept. 30, 1996, [110 Stat. 3009–683][/us/stat/110/3009-683], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -299,7 +299,7 @@
 
  __Benefits Not Subject to Reimbursement__ 
 
-[Pub. L. 104–193, title IV, § 423(d)][/us/pl/104/193/s423/d], Aug. 22, 1996, [110 Stat. 2273][/us/stat/110/2273], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 106–78, title VII, § 752(b)(6)][/us/pl/106/78/s752/b/6], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169], provided that: 
+[Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 423(d), Aug. 22, 1996, [110 Stat. 2273][/us/stat/110/2273], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(6), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169], provided that: 
 
 > “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[[8 U.S.C. 1183a][/us/usc/t8/s1183a]\] shall not apply with respect to the following:
 
@@ -346,13 +346,13 @@
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/193/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs423%2Fa
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2271
-[/us/pl/104/208/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fa
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-675
-[/us/pl/107/150/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150%2Fs2%2Fa%2F1
+[/us/pl/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150
 [/us/stat/116/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F74
-[/us/pl/111/83/s568/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs568%2Fe
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2187
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -360,38 +360,38 @@
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/usc/t8/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154
 [/us/usc/t8/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1155
-[/us/pl/107/150/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150%2Fs2%2Fa%2F3
-[/us/pl/107/150/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150%2Fs2%2Fa%2F1
+[/us/pl/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150
+[/us/pl/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150
 [/us/usc/t8/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154
 [/us/usc/t8/s1182/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F4%2FC%2Fii
 [/us/pl/107/150/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F150%2Fs2%2Fb
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
-[/us/pl/104/208/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fc
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-679
-[/us/pl/104/193/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs423%2Fc
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2273
-[/us/pl/104/208/s551/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fb%2F2
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/104/3009-679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3009-679
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs211%2Fb
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1365
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs564
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-683
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t8/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1631
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t8/s1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183
-[/us/pl/104/193/s423/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs423%2Fd
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2273
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/78/s752/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F6
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t8/s1611/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1611%2Fb%2F1%2FA

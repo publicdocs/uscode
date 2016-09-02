@@ -37,7 +37,7 @@
 
         (8) a summary of the information compiled and evaluation made under [section 1522(a)(8) of this title][/us/usc/t8/s1522/a/8].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 413, as added [Pub. L. 96–212, title III, § 311(a)(2)][/us/pl/96/212/s311/a/2], Mar. 17, 1980, [94 Stat. 115][/us/stat/94/115]; amended [Pub. L. 97–363][/us/pl/97/363], §§ 3(b), 7, Oct. 25, 1982, [96 Stat. 1734][/us/stat/96/1734], 1737; [Pub. L. 99–605, § 11][/us/pl/99/605/s11], Nov. 6, 1986, [100 Stat. 3455][/us/stat/100/3455]; [Pub. L. 100–525, § 9(jj)][/us/pl/100/525/s9/jj], Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622]; [Pub. L. 103–236, title I, § 162(n)(3)][/us/pl/103/236/s162/n/3], Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 413, as added [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 311(a)(2), Mar. 17, 1980, [94 Stat. 115][/us/stat/94/115]; amended [Pub. L. 97–363][/us/pl/97/363], §§ 3(b), 7, Oct. 25, 1982, [96 Stat. 1734][/us/stat/96/1734], 1737; [Pub. L. 99–605][/us/pl/99/605], § 11, Nov. 6, 1986, [100 Stat. 3455][/us/stat/100/3455]; [Pub. L. 100–525][/us/pl/100/525], § 9(jj), Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(n)(3), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 
     1986—Subsec. (a)(2)(A). [Pub. L. 99–605][/us/pl/99/605] substituted “the United States within the five-fiscal-year period immediately preceding the fiscal year within which the report is to be made and for refugees who entered earlier and who have shown themselves to be significantly and disproportionately dependent on welfare” for “under this chapter since May 1975”.
 
-    1982—Subsec. (c). [Pub. L. 97–363, § 3(b)][/us/pl/97/363/s3/b], added subsec. (c).
+    1982—Subsec. (c). [Pub. L. 97–363][/us/pl/97/363], § 3(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 97–363, § 7][/us/pl/97/363/s7], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–363][/us/pl/97/363], § 7, added subsec. (d).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -70,21 +70,21 @@
 [/us/usc/t8/s1522/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522%2Fe%2F5
 [/us/usc/t8/s1522/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522%2Fa%2F8
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/96/212/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs311%2Fa%2F2
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F115
 [/us/pl/97/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363
 [/us/stat/96/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1734
-[/us/pl/99/605/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs11
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
 [/us/stat/100/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3455
-[/us/pl/100/525/s9/jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fjj
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2622
-[/us/pl/103/236/s162/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fn%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
-[/us/pl/97/363/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363%2Fs3%2Fb
-[/us/pl/97/363/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363%2Fs7
+[/us/pl/97/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363
+[/us/pl/97/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb

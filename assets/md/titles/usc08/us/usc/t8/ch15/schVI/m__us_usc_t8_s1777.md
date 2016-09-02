@@ -167,7 +167,7 @@
 
         The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcement agencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
 
-([Pub. L. 108–458, title VII, § 7202][/us/pl/108/458/s7202], Dec. 17, 2004, [118 Stat. 3813][/us/stat/118/3813]; [Pub. L. 110–53, title VII, § 721(a)][/us/pl/110/53/s721/a]–(c), Aug. 3, 2007, [121 Stat. 346–348][/us/stat/121/346-348].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7202, Dec. 17, 2004, [118 Stat. 3813][/us/stat/118/3813]; [Pub. L. 110–53, title VII][/us/pl/110/53/tVII], § 721(a)–(c), Aug. 3, 2007, [121 Stat. 346–348][/us/stat/121/346-348].)
 
  __References in Text__ 
 
@@ -179,17 +179,17 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c)(1). [Pub. L. 110–53, § 721(a)(1)][/us/pl/110/53/s721/a/1], substituted “integrate and disseminate intelligence and information related to” for “address”.
+    2007—Subsec. (c)(1). [Pub. L. 110–53][/us/pl/110/53], § 721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
 
-    Subsecs. (d) to (f). [Pub. L. 110–53, § 721(a)(3)][/us/pl/110/53/s721/a/3], added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
+    Subsecs. (d) to (f). [Pub. L. 110–53][/us/pl/110/53], § 721(a)(3), added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
 
-    Subsec. (g). [Pub. L. 110–53, § 721(b)][/us/pl/110/53/s721/b], reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.”
+    Subsec. (g). [Pub. L. 110–53][/us/pl/110/53], § 721(b), reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.”
 
-    [Pub. L. 110–53, § 721(a)(2)][/us/pl/110/53/s721/a/2], redesignated subsec. (d) as (g).
+    [Pub. L. 110–53][/us/pl/110/53], § 721(a)(2), redesignated subsec. (d) as (g).
 
-    Subsec. (h). [Pub. L. 110–53, § 721(a)(2)][/us/pl/110/53/s721/a/2], redesignated subsec. (e) as (h).
+    Subsec. (h). [Pub. L. 110–53][/us/pl/110/53], § 721(a)(2), redesignated subsec. (e) as (h).
 
-    Subsec. (i). [Pub. L. 110–53, § 721(c)][/us/pl/110/53/s721/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–53][/us/pl/110/53], § 721(c), added subsec. (i).
 
  __Delegation of Functions__ 
 
@@ -204,19 +204,19 @@
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t6/s485/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485%2Fb
-[/us/pl/108/458/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7202
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3813
-[/us/pl/110/53/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fa
+[/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII
 [/us/stat/121/346-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F346-348
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/110/53/s721/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fa%2F1
-[/us/pl/110/53/s721/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fa%2F3
-[/us/pl/110/53/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fb
-[/us/pl/110/53/s721/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fa%2F2
-[/us/pl/110/53/s721/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fa%2F2
-[/us/pl/110/53/s721/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs721%2Fc
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 
 

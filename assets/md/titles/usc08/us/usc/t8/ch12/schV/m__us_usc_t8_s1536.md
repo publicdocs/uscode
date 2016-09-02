@@ -65,7 +65,7 @@
 
             If the judge finds no such condition or combination of conditions, as described in paragraph (1), the alien shall remain in custody until the completion of any appeal authorized by this subchapter.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 506, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1265][/us/stat/110/1265].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 506, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1265][/us/stat/110/1265].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t8/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1533
 [/us/usc/t18/s3142/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142%2Fc%2F1%2FB
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1265
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

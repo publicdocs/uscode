@@ -37,7 +37,7 @@
 
         If any provision of this chapter or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this chapter and the application of the provisions of such to any person or circumstance shall not be affected thereby.
 
-([Pub. L. 104–193, title IV, § 433][/us/pl/104/193/s433], Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275]; [Pub. L. 105–33, title V, § 5574][/us/pl/105/33/s5574], Aug. 5, 1997, [111 Stat. 642][/us/stat/111/642].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 433, Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5574, Aug. 5, 1997, [111 Stat. 642][/us/stat/111/642].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 
 [/us/usc/t8/s1324a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/193/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs433
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2275
-[/us/pl/105/33/s5574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5574
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F642
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260

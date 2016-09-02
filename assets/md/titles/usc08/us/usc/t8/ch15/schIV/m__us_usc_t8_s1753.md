@@ -27,7 +27,7 @@
 
         Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a), except that fees and forms established for such projects shall be published as a notice in the Federal Register.
 
-([Pub. L. 107–173, title IV, § 404][/us/pl/107/173/s404], May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
+([Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 404, May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/173/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs404
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F560
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

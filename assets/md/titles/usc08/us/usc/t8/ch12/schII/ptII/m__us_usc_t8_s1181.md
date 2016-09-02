@@ -27,15 +27,15 @@
 
         The provisions of subsection (a) shall not apply to an alien whom the Attorney General admits to the United States under [section 1157 of this title][/us/usc/t8/s1157].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 211, [66 Stat. 181][/us/stat/66/181]; [Pub. L. 89–236, § 9][/us/pl/89/236/s9], Oct. 3, 1965, [79 Stat. 917][/us/stat/79/917]; [Pub. L. 94–571, § 7(c)][/us/pl/94/571/s7/c], Oct. 20, 1976, [90 Stat. 2706][/us/stat/90/2706]; [Pub. L. 96–212, title II, § 202][/us/pl/96/212/s202], Mar. 17, 1980, [94 Stat. 106][/us/stat/94/106]; [Pub. L. 101–649, title VI, § 603(a)(7)][/us/pl/101/649/s603/a/7], Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 211, [66 Stat. 181][/us/stat/66/181]; [Pub. L. 89–236][/us/pl/89/236], § 9, Oct. 3, 1965, [79 Stat. 917][/us/stat/79/917]; [Pub. L. 94–571][/us/pl/94/571], § 7(c), Oct. 20, 1976, [90 Stat. 2706][/us/stat/90/2706]; [Pub. L. 96–212, title II][/us/pl/96/212/tII], § 202, Mar. 17, 1980, [94 Stat. 106][/us/stat/94/106]; [Pub. L. 101–649, title VI][/us/pl/101/649/tVI], § 603(a)(7), Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083].)
 
  __Amendments__ 
 
     1990—Subsec. (b). [Pub. L. 101–649][/us/pl/101/649] substituted “1182(a)(7)(A)” for “1182(a)(20)”.
 
-    1980—Subsec. (a). [Pub. L. 96–212, § 202(1)][/us/pl/96/212/s202/1], inserted reference to subsection (c) of this section.
+    1980—Subsec. (a). [Pub. L. 96–212][/us/pl/96/212], § 202(1), inserted reference to subsection (c) of this section.
 
-    Subsec. (c). [Pub. L. 96–212, § 202(2)][/us/pl/96/212/s202/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–212][/us/pl/96/212], § 202(2), added subsec. (c).
 
     1976—Subsec. (b). [Pub. L. 94–571][/us/pl/94/571] substituted reference to section 1101 “(a)(27)(A)” of this title for “(a)(27)(B)”.
 
@@ -81,17 +81,17 @@
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F181
-[/us/pl/89/236/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs9
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F917
-[/us/pl/94/571/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571%2Fs7%2Fc
+[/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
 [/us/stat/90/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2706
-[/us/pl/96/212/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs202
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F106
-[/us/pl/101/649/s603/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fa%2F7
+[/us/pl/101/649/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVI
 [/us/stat/104/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5083
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/96/212/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs202%2F1
-[/us/pl/96/212/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs202%2F2
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
 [/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236

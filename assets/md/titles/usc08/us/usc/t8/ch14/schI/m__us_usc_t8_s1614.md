@@ -17,7 +17,7 @@
 
     Each Federal agency that administers a program to which section 1611, 1612, or 1613 of this title applies shall, directly or through the States, post information and provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this subchapter.
 
-([Pub. L. 104–193, title IV, § 404(a)][/us/pl/104/193/s404/a], Aug. 22, 1996, [110 Stat. 2267][/us/stat/110/2267].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 404(a), Aug. 22, 1996, [110 Stat. 2267][/us/stat/110/2267].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs404%2Fa
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2267
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2261

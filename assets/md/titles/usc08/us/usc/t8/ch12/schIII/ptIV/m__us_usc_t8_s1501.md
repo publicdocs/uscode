@@ -17,7 +17,7 @@
 
     Whenever a diplomatic or consular officer of the United States has reason to believe that a person while in a foreign state has lost his United States nationality under any provision of part III of this subchapter, or under any provision of chapter IV of the Nationality Act of 1940, as amended, he shall certify the facts upon which such belief is based to the Department of State, in writing, under regulations prescribed by the Secretary of State. If the report of the diplomatic or consular officer is approved by the Secretary of State, a copy of the certificate shall be forwarded to the Attorney General, for his information, and the diplomatic or consular office in which the report was made shall be directed to forward a copy of the certificate to the person to whom it relates. Approval by the Secretary of State of a certificate under this section shall constitute a final administrative determination of loss of United States nationality under this chapter, subject to such procedures for administrative appeal as the Secretary may prescribe by regulation, and also shall constitute a denial of a right or privilege of United States nationality for purposes of [section 1503 of this title][/us/usc/t8/s1503].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 358, [66 Stat. 272][/us/stat/66/272]; [Pub. L. 103–416, title I, § 106][/us/pl/103/416/s106], Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 358, [66 Stat. 272][/us/stat/66/272]; [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 106, Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t8/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1503
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F272
-[/us/pl/103/416/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs106
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4309
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

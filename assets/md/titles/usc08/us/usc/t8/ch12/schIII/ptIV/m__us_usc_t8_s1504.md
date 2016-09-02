@@ -19,7 +19,7 @@
 
     (b) For purposes of this section, the term “Consular Report of Birth” refers to the report, designated as a “Report of Birth Abroad of a Citizen of the United States”, issued by a consular officer to document a citizen born abroad.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 361, as added [Pub. L. 103–416, title I, § 107(a)][/us/pl/103/416/s107/a], Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 361, as added [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 107(a), Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/103/416/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs107%2Fa
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4309
 
 

@@ -31,17 +31,17 @@
 
     (b) Each district office of the Service in the United States shall maintain, in chronological order, indexed, and consecutively numbered, as part of its permanent records, all declarations of intention and applications for naturalization filed with the office.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 339, [66 Stat. 259][/us/stat/66/259]; [Pub. L. 101–649, title IV, § 407(d)(17)][/us/pl/101/649/s407/d/17], Nov. 29, 1990, [104 Stat. 5045][/us/stat/104/5045]; [Pub. L. 102–232, title I, § 102(b)(1)][/us/pl/102/232/s102/b/1], Dec. 12, 1991, [105 Stat. 1735][/us/stat/105/1735].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 339, [66 Stat. 259][/us/stat/66/259]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(d)(17), Nov. 29, 1990, [104 Stat. 5045][/us/stat/104/5045]; [Pub. L. 102–232, title I][/us/pl/102/232/tI], § 102(b)(1), Dec. 12, 1991, [105 Stat. 1735][/us/stat/105/1735].)
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–232, § 102(b)(1)(F)][/us/pl/102/232/s102/b/1/F], inserted sentence at end relating to return of defaced or injured certificates of naturalization to Attorney General.
+    1991—Subsec. (a). [Pub. L. 102–232][/us/pl/102/232], § 102(b)(1)(F), inserted sentence at end relating to return of defaced or injured certificates of naturalization to Attorney General.
 
-    Subsec. (a)(1). [Pub. L. 102–232, § 102(b)(1)(A)][/us/pl/102/232/s102/b/1/A], added par. (1) and struck out former par. (1) which read as follows: “issue to each person to whom such an oath is administered a document evidencing that such an oath was administered,”.
+    Subsec. (a)(1). [Pub. L. 102–232][/us/pl/102/232], § 102(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “issue to each person to whom such an oath is administered a document evidencing that such an oath was administered,”.
 
-    Subsec. (a)(2). [Pub. L. 102–232, § 102(b)(1)(B)][/us/pl/102/232/s102/b/1/B], inserted “a list of applicants actually taking the oath at each scheduled ceremony and” after “Attorney General”.
+    Subsec. (a)(2). [Pub. L. 102–232][/us/pl/102/232], § 102(b)(1)(B), inserted “a list of applicants actually taking the oath at each scheduled ceremony and” after “Attorney General”.
 
-    Subsec. (a)(3), (4). [Pub. L. 102–232, § 102(b)(1)(C)][/us/pl/102/232/s102/b/1/C]–(E), added par. (4), redesignated former par. (4) as (3) and substituted “, and” for period at end, and struck out former par. (3) which directed clerk to make and keep on file evidence for each document issued.
+    Subsec. (a)(3), (4). [Pub. L. 102–232][/us/pl/102/232], § 102(b)(1)(C)–(E), added par. (4), redesignated former par. (4) as (3) and substituted “, and” for period at end, and struck out former par. (3) which directed clerk to make and keep on file evidence for each document issued.
 
     1990—[Pub. L. 101–649][/us/pl/101/649] amended section generally, substituting provisions relating to functions and duties of clerks and records of declarations of intention and applications for naturalization, for provisions relating to functions and duties of clerks of naturalization courts.
 
@@ -69,14 +69,14 @@
 [/us/usc/t8/s1421/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fb%2F2%2FA%2Fii
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F259
-[/us/pl/101/649/s407/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F17
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5045
-[/us/pl/102/232/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F1
+[/us/pl/102/232/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtI
 [/us/stat/105/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1735
-[/us/pl/102/232/s102/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F1%2FF
-[/us/pl/102/232/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F1%2FA
-[/us/pl/102/232/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F1%2FB
-[/us/pl/102/232/s102/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F1%2FC
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/102/232/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fc

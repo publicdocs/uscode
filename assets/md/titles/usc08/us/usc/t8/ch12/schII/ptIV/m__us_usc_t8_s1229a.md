@@ -261,13 +261,13 @@
 
             (B) in the case of an alien admitted to the United States, that the alien is deportable under [section 1227 of this title][/us/usc/t8/s1227].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)][/us/pl/104/208/s304/a/3], Sept. 30, 1996, [110 Stat. 3009–589][/us/stat/110/3009-589]; amended [Pub. L. 106–386, div. B, title V, § 1506(c)(1)(A)][/us/pl/106/386/s1506/c/1/A], Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528]; [Pub. L. 109–13, div. B, title I, § 101(d)][/us/pl/109/13/s101/d], May 11, 2005, [119 Stat. 304][/us/stat/119/304]; [Pub. L. 109–162, title VIII][/us/pl/109/162], §§ 813(a)(1), 825(a), Jan. 5, 2006, [119 Stat. 3057][/us/stat/119/3057], 3063.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240, as added [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(a)(3), Sept. 30, 1996, [110 Stat. 3009–589][/us/stat/110/3009-589]; amended [Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1506(c)(1)(A), Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528]; [Pub. L. 109–13, div. B, title I][/us/pl/109/13/dB/tI], § 101(d), May 11, 2005, [119 Stat. 304][/us/stat/119/304]; [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], §§ 813(a)(1), 825(a), Jan. 5, 2006, [119 Stat. 3057][/us/stat/119/3057], 3063.)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(3), (b)(1), (4)(B), and (c)(3)(B), (C), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
-    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsec. (c)(7)(C)(iv)(I), was repealed by [Pub. L. 104–208, div. C, title III, § 308(b)(7)][/us/pl/104/208/s308/b/7], Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
+    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsec. (c)(7)(C)(iv)(I), was repealed by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(b)(7), Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
 
  __Prior Provisions__ 
 
@@ -275,15 +275,15 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c)(7)(A). [Pub. L. 109–162, § 825(a)(1)][/us/pl/109/162/s825/a/1], inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
+    2006—Subsec. (c)(7)(A). [Pub. L. 109–162][/us/pl/109/162], § 825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
 
-     Subsec. (c)(7)(C)(iv). [Pub. L. 109–162, § 825(a)(2)(A)][/us/pl/109/162/s825/a/2/A], (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
+     Subsec. (c)(7)(C)(iv). [Pub. L. 109–162][/us/pl/109/162], § 825(a)(2)(A), (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
 
-    Subsec. (c)(7)(C)(iv)(I). [Pub. L. 109–162, § 825(a)(2)(C)][/us/pl/109/162/s825/a/2/C], which directed substitution of “, [section 1229b(b) of this title][/us/usc/t8/s1229b/b], or [section 1254(a)(3) of this title][/us/usc/t8/s1254/a/3] (as in effect on March 31, 1997)” for “or [section 1229b(b) of this title][/us/usc/t8/s1229b/b]”, was executed by making the substitution for “or [section 1229b(b)(2) of this title][/us/usc/t8/s1229b/b/2]”, to reflect the probable intent of Congress.
+    Subsec. (c)(7)(C)(iv)(I). [Pub. L. 109–162][/us/pl/109/162], § 825(a)(2)(C), which directed substitution of “, [section 1229b(b) of this title][/us/usc/t8/s1229b/b], or [section 1254(a)(3) of this title][/us/usc/t8/s1254/a/3] (as in effect on March 31, 1997)” for “or [section 1229b(b) of this title][/us/usc/t8/s1229b/b]”, was executed by making the substitution for “or [section 1229b(b)(2) of this title][/us/usc/t8/s1229b/b/2]”, to reflect the probable intent of Congress.
 
-    Subsec. (c)(7)(C)(iv)(IV). [Pub. L. 109–162, § 825(a)(2)(D)][/us/pl/109/162/s825/a/2/D]–(F), added subcl. (IV).
+    Subsec. (c)(7)(C)(iv)(IV). [Pub. L. 109–162][/us/pl/109/162], § 825(a)(2)(D)–(F), added subcl. (IV).
 
-    Subsec. (e)(1). [Pub. L. 109–162, § 813(a)(1)][/us/pl/109/162/s813/a/1], substituted “battery or extreme cruelty to the alien or any child or parent of the alien, serious illness of the alien,” for “serious illness of the alien”.
+    Subsec. (e)(1). [Pub. L. 109–162][/us/pl/109/162], § 813(a)(1), substituted “battery or extreme cruelty to the alien or any child or parent of the alien, serious illness of the alien,” for “serious illness of the alien”.
 
     2005—Subsec. (c)(4) to (7). [Pub. L. 109–13][/us/pl/109/13] added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
@@ -291,7 +291,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–162, title VIII, § 813(a)(2)][/us/pl/109/162/s813/a/2], Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], provided that: 
+[Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 813(a)(2), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to a failure to appear that occurs before, on, or after the date of the enactment of this Act \[Jan. 5, 2006\].”
 
@@ -301,7 +301,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–386, div. B, title V, § 1506(c)(1)(B)][/us/pl/106/386/s1506/c/1/B], Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528], provided that: 
+[Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1506(c)(1)(B), Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1229–122][/us/usc/t8/s1229–122]9c) \[[Pub. L. 104–208][/us/pl/104/208]\].”
 
@@ -317,7 +317,7 @@
 
  __Elimination of Time Limitations on Motions To Reopen Deportation Proceedings for Victims of Domestic Violence__ 
 
-[Pub. L. 106–386, div. B, title V, § 1506(c)(2)][/us/pl/106/386/s1506/c/2], Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528], as amended by [Pub. L. 109–162, title VIII][/us/pl/109/162], §§ 814(a), 825(b), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], 3064, provided that:
+[Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1506(c)(2), Oct. 28, 2000, [114 Stat. 1528][/us/stat/114/1528], as amended by [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], §§ 814(a), 825(b), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], 3064, provided that:
 
 >     “(A)
 
@@ -387,38 +387,38 @@
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t8/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fa%2F3
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-589
-[/us/pl/106/386/s1506/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1506%2Fc%2F1%2FA
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1528
-[/us/pl/109/13/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fd
+[/us/pl/109/13/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtI
 [/us/stat/119/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F304
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3057
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254
-[/us/pl/104/208/s308/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fb%2F7
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-615
 [/us/usc/t8/s1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1230
-[/us/pl/109/162/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fa%2F1
-[/us/pl/109/162/s825/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fa%2F2%2FA
-[/us/pl/109/162/s825/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fa%2F2%2FC
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t8/s1229b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb
 [/us/usc/t8/s1254/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa%2F3
 [/us/usc/t8/s1229b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb
 [/us/usc/t8/s1229b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb%2F2
-[/us/pl/109/162/s825/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fa%2F2%2FD
-[/us/pl/109/162/s813/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fa%2F1
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/109/162/s813/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fa%2F2
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3058
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/109/13/s101/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fh%2F2
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
-[/us/pl/106/386/s1506/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1506%2Fc%2F1%2FB
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1528
 [/us/usc/t8/s1229–122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229%E2%80%93122
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -427,9 +427,9 @@
 [/us/pl/104/208/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs322%2Fc
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/106/386/s1506/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1506%2Fc%2F2
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1528
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3058
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

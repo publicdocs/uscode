@@ -25,7 +25,7 @@
 
     (d) is not ineligible to citizenship and is not deportable under [section 1227(a)(4)(B) of this title][/us/usc/t8/s1227/a/4/B].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 249, [66 Stat. 219][/us/stat/66/219]; [Pub. L. 85–616][/us/pl/85/616], Aug. 8, 1958, [72 Stat. 546][/us/stat/72/546]; [Pub. L. 89–236, § 19][/us/pl/89/236/s19], Oct. 3, 1965, [79 Stat. 920][/us/stat/79/920]; [Pub. L. 99–603, title II, § 203(a)][/us/pl/99/603/s203/a], Nov. 6, 1986, [100 Stat. 3405][/us/stat/100/3405]; [Pub. L. 100–525, § 2(j)][/us/pl/100/525/s2/j], Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612]; [Pub. L. 101–649, title VI, § 603(a)(14)][/us/pl/101/649/s603/a/14], Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083]; [Pub. L. 104–132, title IV, § 413(e)][/us/pl/104/132/s413/e], Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269]; [Pub. L. 104–208, div. C, title III, § 308(g)(10)(C)][/us/pl/104/208/s308/g/10/C], Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 249, [66 Stat. 219][/us/stat/66/219]; [Pub. L. 85–616][/us/pl/85/616], Aug. 8, 1958, [72 Stat. 546][/us/stat/72/546]; [Pub. L. 89–236][/us/pl/89/236], § 19, Oct. 3, 1965, [79 Stat. 920][/us/stat/79/920]; [Pub. L. 99–603, title II][/us/pl/99/603/tII], § 203(a), Nov. 6, 1986, [100 Stat. 3405][/us/stat/100/3405]; [Pub. L. 100–525][/us/pl/100/525], § 2(j), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612]; [Pub. L. 101–649, title VI][/us/pl/101/649/tVI], § 603(a)(14), Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083]; [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 413(e), Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(10)(C), Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Applicability of Numerical Limitations__ 
 
-[Pub. L. 99–603, title II, § 203(c)][/us/pl/99/603/s203/c], Nov. 6, 1986, [100 Stat. 3405][/us/stat/100/3405], provided that: 
+[Pub. L. 99–603, title II][/us/pl/99/603/tII], § 203(c), Nov. 6, 1986, [100 Stat. 3405][/us/stat/100/3405], provided that: 
 
 > “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151], 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[[8 U.S.C. 1259][/us/usc/t8/s1259]\].”
 
@@ -85,17 +85,17 @@
 [/us/stat/66/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F219
 [/us/pl/85/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F616
 [/us/stat/72/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F546
-[/us/pl/89/236/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs19
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F920
-[/us/pl/99/603/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs203%2Fa
+[/us/pl/99/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtII
 [/us/stat/100/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3405
-[/us/pl/100/525/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2%2Fj
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2612
-[/us/pl/101/649/s603/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fa%2F14
+[/us/pl/101/649/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVI
 [/us/stat/104/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5083
-[/us/pl/104/132/s413/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs413%2Fe
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1269
-[/us/pl/104/208/s308/g/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FC
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-625
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
@@ -126,7 +126,7 @@
 [/us/pl/89/236/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs20
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/99/603/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs203%2Fc
+[/us/pl/99/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtII
 [/us/stat/100/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3405
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
 [/us/usc/t8/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1259

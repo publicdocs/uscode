@@ -65,7 +65,7 @@
 
         A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
-([Pub. L. 104–193, title IV, § 411][/us/pl/104/193/s411], Aug. 22, 1996, [110 Stat. 2268][/us/stat/110/2268]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5565, 5581(b)(1), Aug. 5, 1997, [111 Stat. 639][/us/stat/111/639], 642; [Pub. L. 105–306, § 5(b)][/us/pl/105/306/s5/b], Oct. 28, 1998, [112 Stat. 2927][/us/stat/112/2927].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 411, Aug. 22, 1996, [110 Stat. 2268][/us/stat/110/2268]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5565, 5581(b)(1), Aug. 5, 1997, [111 Stat. 639][/us/stat/111/639], 642; [Pub. L. 105–306][/us/pl/105/306], § 5(b), Oct. 28, 1998, [112 Stat. 2927][/us/stat/112/2927].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
     1998—Subsec. (c)(2)(C). [Pub. L. 105–306][/us/pl/105/306] added subpar. (C).
 
-    1997—Subsec. (c)(2)(A). [Pub. L. 105–33, § 5565][/us/pl/105/33/s5565], inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in [Public Law 99–239][/us/pl/99/239] or 99–658 (or a successor provision) is in effect”.
+    1997—Subsec. (c)(2)(A). [Pub. L. 105–33][/us/pl/105/33], § 5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in [Public Law 99–239][/us/pl/99/239] or 99–658 (or a successor provision) is in effect”.
 
-    Subsec. (c)(3). [Pub. L. 105–33, § 5581(b)(1)][/us/pl/105/33/s5581/b/1], made technical amendment to reference in original act which appears in text as reference to [section 1611(c) of this title][/us/usc/t8/s1611/c].
+    Subsec. (c)(3). [Pub. L. 105–33][/us/pl/105/33], § 5581(b)(1), made technical amendment to reference in original act which appears in text as reference to [section 1611(c) of this title][/us/usc/t8/s1611/c].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -87,7 +87,7 @@
 
  __Pilot Programs on Limiting Issuance of Driver’s License to Illegal Aliens__ 
 
-[Pub. L. 104–208, div. C, title V, § 502][/us/pl/104/208/s502], Sept. 30, 1996, [110 Stat. 3009–671][/us/stat/110/3009-671], provided that:
+[Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 502, Sept. 30, 1996, [110 Stat. 3009–671][/us/stat/110/3009-671], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -111,11 +111,11 @@
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1611%2Fc
-[/us/pl/104/193/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs411
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2268
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F639
-[/us/pl/105/306/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306%2Fs5%2Fb
+[/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
 [/us/stat/112/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2927
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -126,15 +126,15 @@
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 [/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
-[/us/pl/105/33/s5565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5565
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
-[/us/pl/105/33/s5581/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5581%2Fb%2F1
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t8/s1611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1611%2Fc
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5582
 [/us/usc/t8/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1367
-[/us/pl/104/208/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs502
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-671
 
 

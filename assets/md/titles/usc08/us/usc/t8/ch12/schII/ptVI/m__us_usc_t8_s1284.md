@@ -27,7 +27,7 @@
 
         If the Attorney General finds that removal of an alien crewman under this section on the vessel or aircraft on which he arrived is impracticable or impossible, or would cause undue hardship to such alien crewman, he may cause the alien crewman to be removed from the port of arrival or any other port on another vessel or aircraft of the same transportation line, unless the Attorney General finds this to be impracticable. All expenses incurred in connection with such removal, including expenses incurred in transferring an alien crewman from one place in the United States to another under such conditions and safeguards as the Attorney General shall impose, shall be paid by the owner or owners of the vessel or aircraft on which the alien arrived in the United States. The vessel or aircraft on which the alien arrived shall not be granted clearance until such expenses have been paid or their payment guaranteed to the satisfaction of the Attorney General. An alien crewman who is transferred within the United States in accordance with this subsection shall not be regarded as having been landed in the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 254, [66 Stat. 221][/us/stat/66/221]; [Pub. L. 101–649, title V, § 543(a)(4)][/us/pl/101/649/s543/a/4], Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058]; [Pub. L. 102–232, title III, § 306(c)(4)(C)][/us/pl/102/232/s306/c/4/C], Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 104–208, div. C, title III, § 308(e)(1)(I)][/us/pl/104/208/s308/e/1/I], (2)(F), (12), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], 3009–620.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 254, [66 Stat. 221][/us/stat/66/221]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(a)(4), Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 306(c)(4)(C), Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(1)(I), (2)(F), (12), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], 3009–620.)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 [/us/usc/t8/s1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1282
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F221
-[/us/pl/101/649/s543/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fa%2F4
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5058
-[/us/pl/102/232/s306/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs306%2Fc%2F4%2FC
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1752
-[/us/pl/104/208/s308/e/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F1%2FI
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232

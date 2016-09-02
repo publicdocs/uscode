@@ -17,11 +17,11 @@
 
     [Section 1401(g) of this title][/us/usc/t8/s1401/g] shall be considered to have been and to be applicable to a child born outside of the United States and its outlying possessions after January 12, 1941, and before December 24, 1952, of parents one of whom is a citizen of the United States who has served in the Armed Forces of the United States after December 31, 1946, and before December 24, 1952, and whose case does not come within the provisions of section 201(g) or (i) of the Nationality Act of 1940.
 
-([Mar. 16, 1956, ch. 85][/us/act/1956-03-16/ch85], [70 Stat. 50][/us/stat/70/50]; [Pub. L. 97–116, § 18(u)(2)][/us/pl/97/116/s18/u/2], Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621].)
+([Mar. 16, 1956, ch. 85][/us/act/1956-03-16/ch85], [70 Stat. 50][/us/stat/70/50]; [Pub. L. 97–116][/us/pl/97/116], § 18(u)(2), Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621].)
 
  __References in Text__ 
 
-Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(42), [66 Stat. 280][/us/stat/66/280], eff. Dec. 24, 1952, provided as follows:
+Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by [act June 27, 1952, ch. 477, title IV][/us/act/1952-06-27/ch477/tIV], § 403(a)(42), [66 Stat. 280][/us/stat/66/280], eff. Dec. 24, 1952, provided as follows:
 
 >     “The following shall be nationals and citizens of the United States at birth:
 
@@ -57,9 +57,9 @@ Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, whic
 [/us/usc/t8/s1401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401%2Fg
 [/us/act/1956-03-16/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-16%2Fch85
 [/us/stat/70/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F50
-[/us/pl/97/116/s18/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18%2Fu%2F2
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1621
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtIV
 [/us/stat/66/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F280
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116

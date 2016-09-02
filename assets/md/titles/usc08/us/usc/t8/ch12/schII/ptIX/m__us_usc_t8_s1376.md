@@ -23,7 +23,7 @@
 
         Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a).
 
-([Pub. L. 105–173, § 2][/us/pl/105/173/s2], Apr. 27, 1998, [112 Stat. 56][/us/stat/112/56].)
+([Pub. L. 105–173][/us/pl/105/173], § 2, Apr. 27, 1998, [112 Stat. 56][/us/stat/112/56].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/105/173/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F173%2Fs2
+[/us/pl/105/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F173
 [/us/stat/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F56
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

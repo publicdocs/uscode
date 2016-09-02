@@ -75,7 +75,7 @@
 
             There are authorized to be appropriated for the Department of State such sums as may be necessary to carry out paragraph (1).
 
-([Pub. L. 107–173, title I, § 101][/us/pl/107/173/s101], May 14, 2002, [116 Stat. 545][/us/stat/116/545].)
+([Pub. L. 107–173, title I][/us/pl/107/173/tI], § 101, May 14, 2002, [116 Stat. 545][/us/stat/116/545].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t8/s1225a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225a%2Fb
-[/us/pl/107/173/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs101
+[/us/pl/107/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtI
 [/us/stat/116/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F545
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/stat/115/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F272

@@ -17,7 +17,7 @@
 
     The Immigration and Naturalization Service shall staff ports of entry at such levels that would be adequate to meet traffic flow and inspection time objectives efficiently without compromising the safety and security of the United States. Estimated staffing levels under workforce models for the Immigration and Naturalization Service shall be based on the goal of providing immigration services described in [section 1356(g) of this title][/us/usc/t8/s1356/g] within 45 minutes of a passenger’s presentation for inspection.
 
-([Pub. L. 107–173, title IV, § 403(b)][/us/pl/107/173/s403/b], May 14, 2002, [116 Stat. 559][/us/stat/116/559].)
+([Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 403(b), May 14, 2002, [116 Stat. 559][/us/stat/116/559].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t8/s1356/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fg
-[/us/pl/107/173/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs403%2Fb
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F559
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

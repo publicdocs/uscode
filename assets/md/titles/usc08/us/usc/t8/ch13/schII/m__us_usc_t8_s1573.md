@@ -43,7 +43,7 @@
 
             None of the funds appropriated pursuant to paragraph (1) may be expended until the report described in [section 1574(a) of this title][/us/usc/t8/s1574/a] has been submitted to Congress.
 
-([Pub. L. 106–313, title II, § 204][/us/pl/106/313/s204], Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263]; [Pub. L. 107–296, title IV, § 458][/us/pl/107/296/s458], Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
+([Pub. L. 106–313, title II][/us/pl/106/313/tII], § 204, Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263]; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 458, Nov. 25, 2002, [116 Stat. 2201][/us/stat/116/2201].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t8/s1574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1574%2Fa
-[/us/pl/106/313/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs204
+[/us/pl/106/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtII
 [/us/stat/114/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1263
-[/us/pl/107/296/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs458
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2201
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

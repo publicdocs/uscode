@@ -53,7 +53,7 @@
 
         Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 215, [66 Stat. 190][/us/stat/66/190]; [Pub. L. 95–426, title VII, § 707(a)][/us/pl/95/426/s707/a]–(d), Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], 993; [Pub. L. 103–416, title II, § 204(a)][/us/pl/103/416/s204/a], Oct. 25, 1994, [108 Stat. 4311][/us/stat/108/4311].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 215, [66 Stat. 190][/us/stat/66/190]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 707(a)–(d), Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], 993; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 204(a), Oct. 25, 1994, [108 Stat. 4311][/us/stat/108/4311].)
 
  __References in Text__ 
 
@@ -65,21 +65,21 @@
 
     1994—Subsec. (b). [Pub. L. 103–416][/us/pl/103/416] inserted “United States” after “valid”.
 
-    1978—Subsec. (a). [Pub. L. 95–426, § 707(a)][/us/pl/95/426/s707/a], substituted provision that the enumerated acts would, unless otherwise ordered by the President, be deemed unlawful for provisions declaring it unlawful when the United States is at war or during a proclaimed national emergency, or, as to aliens, when there exists a state of war between two or more states and the President finds that the interests of the United States require restrictions to be imposed upon departure of persons from and their entry into the United States.
+    1978—Subsec. (a). [Pub. L. 95–426][/us/pl/95/426], § 707(a), substituted provision that the enumerated acts would, unless otherwise ordered by the President, be deemed unlawful for provisions declaring it unlawful when the United States is at war or during a proclaimed national emergency, or, as to aliens, when there exists a state of war between two or more states and the President finds that the interests of the United States require restrictions to be imposed upon departure of persons from and their entry into the United States.
 
-    Subsec. (b). [Pub. L. 95–426, § 707(b)][/us/pl/95/426/s707/b], substituted provisions prohibiting departure or entry except as otherwise provided by the President and subject to such limitations and exceptions as he may authorize or prescribe, for provisions prohibiting such departure or entry after proclamation of a national emergency has been made, published and in force.
+    Subsec. (b). [Pub. L. 95–426][/us/pl/95/426], § 707(b), substituted provisions prohibiting departure or entry except as otherwise provided by the President and subject to such limitations and exceptions as he may authorize or prescribe, for provisions prohibiting such departure or entry after proclamation of a national emergency has been made, published and in force.
 
-    Subsec. (c). [Pub. L. 95–426, § 707(d)][/us/pl/95/426/s707/d], redesignated subsec. (d) as (c). Former subsec. (c), which provided for penalties for violation of this section, was struck out.
+    Subsec. (c). [Pub. L. 95–426][/us/pl/95/426], § 707(d), redesignated subsec. (d) as (c). Former subsec. (c), which provided for penalties for violation of this section, was struck out.
 
-    Subsec. (d). [Pub. L. 95–426, § 707(d)][/us/pl/95/426/s707/d], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 95–426][/us/pl/95/426], § 707(d), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 95–426, § 707(c)][/us/pl/95/426/s707/c], (d), redesignated subsec. (f) as (e) and struck out “proclamation,” before “rule” in two places. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 95–426][/us/pl/95/426], § 707(c), (d), redesignated subsec. (f) as (e) and struck out “proclamation,” before “rule” in two places. Former subsec. (e) redesignated (d).
 
-    Subsecs. (f), (g). [Pub. L. 95–426, § 707(d)][/us/pl/95/426/s707/d], redesignated subsec. (g) as (f). Former (f) redesignated (e).
+    Subsecs. (f), (g). [Pub. L. 95–426][/us/pl/95/426], § 707(d), redesignated subsec. (g) as (f). Former (f) redesignated (e).
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–416, title II, § 204(b)][/us/pl/103/416/s204/b], Oct. 25, 1994, [108 Stat. 4311][/us/stat/108/4311], provided that: 
+[Pub. L. 103–416, title II][/us/pl/103/416/tII], § 204(b), Oct. 25, 1994, [108 Stat. 4311][/us/stat/108/4311], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\].”
 
@@ -149,7 +149,7 @@
 
  __Western Hemisphere Travel Initiative__ 
 
-[Pub. L. 110–53, title VII, § 724][/us/pl/110/53/s724], Aug. 3, 2007, [121 Stat. 350][/us/stat/121/350], provided that: 
+[Pub. L. 110–53, title VII][/us/pl/110/53/tVII], § 724, Aug. 3, 2007, [121 Stat. 350][/us/stat/121/350], provided that: 
 
 > “Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]; [8 U.S.C. 1185][/us/usc/t8/s1185] note) \[set out below\]—
 
@@ -157,7 +157,7 @@
 
 >     “(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October 17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
 
-[Pub. L. 108–458, title VII, § 7209][/us/pl/108/458/s7209], Dec. 17, 2004, [118 Stat. 3823][/us/stat/118/3823], as amended by [Pub. L. 109–295, title V, § 546][/us/pl/109/295/s546], Oct. 4, 2006, [120 Stat. 1386][/us/stat/120/1386]; [Pub. L. 110–53, title VII, § 723][/us/pl/110/53/s723], Aug. 3, 2007, [121 Stat. 349][/us/stat/121/349]; [Pub. L. 110–161, div. E, title V, § 545][/us/pl/110/161/s545], Dec. 26, 2007, [121 Stat. 2080][/us/stat/121/2080], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7209, Dec. 17, 2004, [118 Stat. 3823][/us/stat/118/3823], as amended by [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 546, Oct. 4, 2006, [120 Stat. 1386][/us/stat/120/1386]; [Pub. L. 110–53, title VII][/us/pl/110/53/tVII], § 723, Aug. 3, 2007, [121 Stat. 349][/us/stat/121/349]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 545, Dec. 26, 2007, [121 Stat. 2080][/us/stat/121/2080], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -233,7 +233,7 @@
 
 >     The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[[8 U.S.C. 1182(d)(4)(C)][/us/usc/t8/s1182/d/4/C]\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
 
-    \[Amendment by [Pub. L. 110–161, § 545][/us/pl/110/161/s545], to [section 7209 of Pub. L. 108–458][/us/pl/108/458/s7209], set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
+    \[Amendment by [Pub. L. 110–161][/us/pl/110/161], § 545, to [section 7209 of Pub. L. 108–458][/us/pl/108/458/s7209], set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
 
  __Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States__ 
 
@@ -270,38 +270,38 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F190
-[/us/pl/95/426/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fa
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F992
-[/us/pl/103/416/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs204%2Fa
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4311
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/95/426/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fa
-[/us/pl/95/426/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fb
-[/us/pl/95/426/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fd
-[/us/pl/95/426/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fd
-[/us/pl/95/426/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fc
-[/us/pl/95/426/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs707%2Fd
-[/us/pl/103/416/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs204%2Fb
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4311
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/pl/112/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F54
 [/us/stat/125/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F550
-[/us/pl/110/53/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs724
+[/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII
 [/us/stat/121/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F350
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t8/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1185
-[/us/pl/108/458/s7209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7209
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3823
-[/us/pl/109/295/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs546
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1386
-[/us/pl/110/53/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs723
+[/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII
 [/us/stat/121/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F349
-[/us/pl/110/161/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs545
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2080
 [/us/usc/t8/s1182/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F4%2FB
 [/us/usc/t8/s1365b/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365b%2Fk
@@ -309,7 +309,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 [/us/usc/t8/s1182/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F4%2FB
 [/us/usc/t8/s1185/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1185%2Fb
 [/us/usc/t8/s1182/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F4%2FC
-[/us/pl/110/161/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs545
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/458/s7209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7209
 [/us/act/1952-06-27/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fs215%2Fa%2F1
 [/us/usc/t8/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1185

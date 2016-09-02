@@ -17,7 +17,7 @@
 
     A consular officer may, subject to the limitations provided in [section 1201 of this title][/us/usc/t8/s1201], issue an immigrant visa to a special immigrant or immediate relative as such upon satisfactory proof, under regulations prescribed under this chapter, that the applicant is entitled to special immigrant or immediate relative status.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 3, § 224, [66 Stat. 195][/us/stat/66/195]; [Pub. L. 89–236, § 11(d)][/us/pl/89/236/s11/d], Oct. 3, 1965, [79 Stat. 918][/us/stat/79/918].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 3, § 224, [66 Stat. 195][/us/stat/66/195]; [Pub. L. 89–236][/us/pl/89/236], § 11(d), Oct. 3, 1965, [79 Stat. 918][/us/stat/79/918].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t8/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F195
-[/us/pl/89/236/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs11%2Fd
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F918
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

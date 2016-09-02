@@ -55,13 +55,13 @@
 
             The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to [section 1379 of this title][/us/usc/t8/s1379].
 
-    (c) __Repealed.__  __[__  __Pub. L. 114–113, div. O, title II, § 202(c)__  __][/us/pl/114/113/s202/c]__  __,__  __Dec. 18, 2015__  __,__  __[__  __129 Stat. 2989__  __][/us/stat/129/2989]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 114–113, div. O, title II__  __][/us/pl/114/113/dO/tII]__  __, § 202(c),__  __Dec. 18, 2015__  __,__  __[__  __129 Stat. 2989__  __][/us/stat/129/2989]__ 
 
     (d) __Authorization of appropriations__ 
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
-([Pub. L. 107–173, title III, § 303][/us/pl/107/173/s303], May 14, 2002, [116 Stat. 553][/us/stat/116/553]; [Pub. L. 108–299, § 1][/us/pl/108/299/s1], Aug. 9, 2004, [118 Stat. 1100][/us/stat/118/1100]; [Pub. L. 114–113, div. O, title II, § 202(c)][/us/pl/114/113/s202/c], Dec. 18, 2015, [129 Stat. 2989][/us/stat/129/2989].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 303, May 14, 2002, [116 Stat. 553][/us/stat/116/553]; [Pub. L. 108–299][/us/pl/108/299], § 1, Aug. 9, 2004, [118 Stat. 1100][/us/stat/118/1100]; [Pub. L. 114–113, div. O, title II][/us/pl/114/113/dO/tII], § 202(c), Dec. 18, 2015, [129 Stat. 2989][/us/stat/129/2989].)
 
  __Amendments__ 
 
@@ -81,13 +81,13 @@
 ----------
 
 [/us/usc/t8/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1379
-[/us/pl/114/113/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fc
+[/us/pl/114/113/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtII
 [/us/stat/129/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2989
-[/us/pl/107/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs303
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F553
-[/us/pl/108/299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F299%2Fs1
+[/us/pl/108/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F299
 [/us/stat/118/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1100
-[/us/pl/114/113/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fc
+[/us/pl/114/113/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtII
 [/us/stat/129/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2989
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/108/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F299

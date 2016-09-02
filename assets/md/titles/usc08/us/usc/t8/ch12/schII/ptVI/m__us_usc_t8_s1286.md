@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person, including the owner, agent, consignee, charterer, master, or commanding officer of any vessel or aircraft, to pay off or discharge any alien crewman, except an alien lawfully admitted for permanent residence, employed on board a vessel or aircraft arriving in the United States without first having obtained the consent of the Attorney General. If it shall appear to the satisfaction of the Attorney General that any alien crewman has been paid off or discharged in the United States in violation of the provisions of this section, such owner, agent, consignee, charterer, master, commanding officer, or other person, shall pay to the Commissioner the sum of $3,000 for each such violation. No vessel or aircraft shall be granted clearance pending the determination of the question of the liability to the payment of such sums, or while such sums remain unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such sums, or of a bond approved by the Commissioner with sufficient surety to secure the payment thereof. Such fine may, in the discretion of the Attorney General, be mitigated to not less than $1,500 for each violation, upon such terms as he shall think proper.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 256, [66 Stat. 223][/us/stat/66/223]; [Pub. L. 101–649, title V, § 543(a)(6)][/us/pl/101/649/s543/a/6], Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 256, [66 Stat. 223][/us/stat/66/223]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(a)(6), Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F223
-[/us/pl/101/649/s543/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fa%2F6
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5058
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

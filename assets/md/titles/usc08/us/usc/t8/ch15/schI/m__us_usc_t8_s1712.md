@@ -39,7 +39,7 @@
 
         There are authorized to be appropriated to the Immigration and Naturalization Service and the Department of State such sums as may be necessary to improve and expand facilities for use by the personnel of those agencies.
 
-([Pub. L. 107–173, title I, § 102][/us/pl/107/173/s102], May 14, 2002, [116 Stat. 546][/us/stat/116/546].)
+([Pub. L. 107–173, title I][/us/pl/107/173/tI], § 102, May 14, 2002, [116 Stat. 546][/us/stat/116/546].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -47,7 +47,7 @@
 
  __Use of Ground Surveillance Technologies for Border Security__ 
 
-[Pub. L. 109–13, div. B, title III, § 302][/us/pl/109/13/s302], May 11, 2005, [119 Stat. 316][/us/stat/119/316], provided that:
+[Pub. L. 109–13, div. B, title III][/us/pl/109/13/dB/tIII], § 302, May 11, 2005, [119 Stat. 316][/us/stat/119/316], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -91,7 +91,7 @@
 
  __Advanced Technology Northern Border Security Pilot Program__ 
 
-[Pub. L. 108–458, title V][/us/pl/108/458], subtitle A, Dec. 17, 2004, [118 Stat. 3732][/us/stat/118/3732], provided that:
+[Pub. L. 108–458, title V][/us/pl/108/458/tV], subtitle A, Dec. 17, 2004, [118 Stat. 3732][/us/stat/118/3732], provided that:
 
 > “SEC. 5101. __ESTABLISHMENT.__ 
 
@@ -164,12 +164,12 @@
 ----------
 ----------
 
-[/us/pl/107/173/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs102
+[/us/pl/107/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtI
 [/us/stat/116/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F546
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/109/13/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs302
+[/us/pl/109/13/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtIII
 [/us/stat/119/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F316
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtV
 [/us/stat/118/3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3732
 
 

@@ -19,13 +19,13 @@
 
     (b) The provisions of [section 1302 of this title][/us/usc/t8/s1302] and of this section shall not be applicable to any alien who is in the United States as a nonimmigrant under section 1101(a)(15)(A) or (a)(15)(G) of this title until the alien ceases to be entitled to such a nonimmigrant status.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 263, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(e)(1)(J), 323, Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], 3009–629.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 263, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(e)(1)(J), 323, Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], 3009–629.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(4). [Pub. L. 104–208, § 308(e)(1)(J)][/us/pl/104/208/s308/e/1/J], substituted “removal” for “deportation”.
+    1996—Subsec. (a)(4). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(1)(J), substituted “removal” for “deportation”.
 
-    Subsec. (a)(5), (6). [Pub. L. 104–208, § 323][/us/pl/104/208/s323], added cl. (5) and redesignated former cl. (5) as (6).
+    Subsec. (a)(5), (6). [Pub. L. 104–208][/us/pl/104/208], § 323, added cl. (5) and redesignated former cl. (5) as (6).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -49,10 +49,10 @@
 [/us/usc/t8/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1302
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F224
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
-[/us/pl/104/208/s308/e/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F1%2FJ
-[/us/pl/104/208/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs323
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s308/e/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F1%2FJ
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

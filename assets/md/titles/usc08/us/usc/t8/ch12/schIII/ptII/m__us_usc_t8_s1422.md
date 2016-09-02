@@ -17,7 +17,7 @@
 
     The right of a person to become a naturalized citizen of the United States shall not be denied or abridged because of race or sex or because such person is married.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 311, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 100–525, § 9(t)][/us/pl/100/525/s9/t], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 311, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 100–525][/us/pl/100/525], § 9(t), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F239
-[/us/pl/100/525/s9/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Ft
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 

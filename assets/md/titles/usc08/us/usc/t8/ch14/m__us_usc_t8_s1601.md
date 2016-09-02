@@ -37,7 +37,7 @@
 
     (7) With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistance shall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
 
-([Pub. L. 104–193, title IV, § 400][/us/pl/104/193/s400], Aug. 22, 1996, [110 Stat. 2260][/us/stat/110/2260].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 400, Aug. 22, 1996, [110 Stat. 2260][/us/stat/110/2260].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–328, § 1][/us/pl/110/328/s1], Sept. 30, 2008, [122 Stat. 3567][/us/stat/122/3567], provided that: 
+[Pub. L. 110–328][/us/pl/110/328], § 1, Sept. 30, 2008, [122 Stat. 3567][/us/stat/122/3567], provided that: 
 
 > “This Act \[amending [section 1612 of this title][/us/usc/t8/s1612] and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under [section 3304 of Title 26][/us/usc/t26/s3304]\] may be cited as the ‘SSI Extension for Elderly and Disabled Refugees Act’.”
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs400
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260
@@ -64,7 +64,7 @@
 [/us/usc/t8/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1383
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/110/328/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328%2Fs1
+[/us/pl/110/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328
 [/us/stat/122/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3567
 [/us/usc/t8/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1612
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304

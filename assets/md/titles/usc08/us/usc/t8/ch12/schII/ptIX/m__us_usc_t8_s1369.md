@@ -41,7 +41,7 @@
 
         Subsection (a) shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997.
 
-([Pub. L. 104–208, div. C, title V, § 562][/us/pl/104/208/s562], Sept. 30, 1996, [110 Stat. 3009–682][/us/stat/110/3009-682].)
+([Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 562, Sept. 30, 1996, [110 Stat. 3009–682][/us/stat/110/3009-682].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
-[/us/pl/104/208/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs562
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-682
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

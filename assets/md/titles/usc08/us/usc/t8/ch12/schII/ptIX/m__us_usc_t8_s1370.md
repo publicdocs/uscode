@@ -21,7 +21,7 @@
 
     (2) is under the custody of the State or subdivision pursuant to a transfer, request, or other action by a Federal authority.
 
-([Pub. L. 104–208, div. C, title V, § 563][/us/pl/104/208/s563], Sept. 30, 1996, [110 Stat. 3009–683][/us/stat/110/3009-683].)
+([Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 563, Sept. 30, 1996, [110 Stat. 3009–683][/us/stat/110/3009-683].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs563
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-683
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

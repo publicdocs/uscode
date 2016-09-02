@@ -111,7 +111,7 @@
 
             In the event that no funds are appropriated subject to [section 1573(b) of this title][/us/usc/t8/s1573/b] in the fiscal year in which this Act is enacted, the Attorney General shall submit a report to Congress not later than 90 days after the end of such fiscal year, and each fiscal year thereafter, containing the elements described in paragraph (2).
 
-([Pub. L. 106–313, title II, § 205][/us/pl/106/313/s205], Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263].)
+([Pub. L. 106–313, title II][/us/pl/106/313/tII], § 205, Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263].)
 
  __References in Text__ 
 
@@ -136,7 +136,7 @@
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
 [/us/usc/t8/s1254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254a
 [/us/usc/t8/s1573/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1573%2Fb
-[/us/pl/106/313/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs205
+[/us/pl/106/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtII
 [/us/stat/114/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1263
 [/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

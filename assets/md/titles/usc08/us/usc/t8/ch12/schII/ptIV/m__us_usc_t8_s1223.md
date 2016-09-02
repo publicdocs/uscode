@@ -31,7 +31,7 @@
 
         As used in this section the terms “transportation line” and “transportation company” include, but are not limited to, the owner, charterer, consignee, or authorized agent operating any vessel or aircraft or railroad train bringing aliens to the United States, to foreign territory, or to adjacent islands.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 233, formerly § 238, [66 Stat. 202][/us/stat/66/202]; [Pub. L. 99–653, § 7(b)][/us/pl/99/653/s7/b], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; renumbered § 233 and amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(b)(4), (f)(4), 362, Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615], 3009–622, 3009–645.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 233, formerly § 238, [66 Stat. 202][/us/stat/66/202]; [Pub. L. 99–653][/us/pl/99/653], § 7(b), Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; renumbered § 233 and amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(b)(4), (f)(4), 362, Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615], 3009–622, 3009–645.)
 
  __References in Text__ 
 
@@ -43,21 +43,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 1223, [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 233, [66 Stat. 197][/us/stat/66/197], related to examinations of aliens upon arrival in the United States, prior to repeal by [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title II, § 206(a), formerly § 206\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–56; renumbered § 206(a) and amended [Pub. L. 100–525, § 4(b)(1)][/us/pl/100/525/s4/b/1], (3), Oct. 24, 1988, [102 Stat. 2615][/us/stat/102/2615].
+    A prior section 1223, [act June 27, 1952, ch. 477, title II][/us/act/1952-06-27/ch477/tII], ch. 4, § 233, [66 Stat. 197][/us/stat/66/197], related to examinations of aliens upon arrival in the United States, prior to repeal by [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title II, § 206(a), formerly § 206\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–56; renumbered § 206(a) and amended [Pub. L. 100–525][/us/pl/100/525], § 4(b)(1), (3), Oct. 24, 1988, [102 Stat. 2615][/us/stat/102/2615].
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–208, § 362(a)(1)][/us/pl/104/208/s362/a/1], amended section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 362(a)(1), amended section catchline.
 
-    Subsec. (a). [Pub. L. 104–208, § 362(a)(2)][/us/pl/104/208/s362/a/2], struck out “contiguous” after “foreign”.
+    Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 362(a)(2), struck out “contiguous” after “foreign”.
 
-    [Pub. L. 104–208, § 308(f)(4)][/us/pl/104/208/s308/f/4], substituted “inspection and admission” for “entry and inspection”.
+    [Pub. L. 104–208][/us/pl/104/208], § 308(f)(4), substituted “inspection and admission” for “entry and inspection”.
 
-    Subsec. (b). [Pub. L. 104–208, § 362(a)(2)][/us/pl/104/208/s362/a/2], struck out “contiguous” after “foreign”.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 362(a)(2), struck out “contiguous” after “foreign”.
 
-    Subsec. (d). [Pub. L. 104–208, § 362(b)][/us/pl/104/208/s362/b], inserted “or railroad train” after “aircraft”.
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 362(b), inserted “or railroad train” after “aircraft”.
 
-    [Pub. L. 104–208, § 362(a)(2)][/us/pl/104/208/s362/a/2], struck out “contiguous” after “foreign”.
+    [Pub. L. 104–208][/us/pl/104/208], § 362(a)(2), struck out “contiguous” after “foreign”.
 
     1986—[Pub. L. 99–653][/us/pl/99/653] struck out subsec. (a) which authorized the Attorney General to enter into contracts with transportation lines for the entry and inspection of aliens and to prescribe regulations, and redesignated subsecs. (b) to (e) as (a) to (d), respectively.
 
@@ -83,27 +83,27 @@
 [/us/usc/t8/s1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1258
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F202
-[/us/pl/99/653/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs7%2Fb
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3657
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-615
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1228
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtII
 [/us/stat/66/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F197
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/100/525/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs4%2Fb%2F1
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2615
-[/us/pl/104/208/s362/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs362%2Fa%2F1
-[/us/pl/104/208/s362/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs362%2Fa%2F2
-[/us/pl/104/208/s308/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F4
-[/us/pl/104/208/s362/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs362%2Fa%2F2
-[/us/pl/104/208/s362/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs362%2Fb
-[/us/pl/104/208/s362/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs362%2Fa%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309

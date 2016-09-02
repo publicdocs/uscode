@@ -21,7 +21,7 @@
 
     (2) the expenditures by the Secretary of Labor described in [section 1356(v)(2)(D) of this title][/us/usc/t8/s1356/v/2/D].
 
-([Pub. L. 108–447, div. J, title IV, § 424(c)][/us/pl/108/447/s424/c], Dec. 8, 2004, [118 Stat. 3356][/us/stat/118/3356].)
+([Pub. L. 108–447, div. J, title IV][/us/pl/108/447/dJ/tIV], § 424(c), Dec. 8, 2004, [118 Stat. 3356][/us/stat/118/3356].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t8/s1182/n/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fn%2F2%2FG
 [/us/usc/t8/s1356/v/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fv%2F2%2FD
-[/us/pl/108/447/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs424%2Fc
+[/us/pl/108/447/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIV
 [/us/stat/118/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3356
 [/us/pl/108/447/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs430
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182

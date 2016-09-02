@@ -17,7 +17,7 @@
 
     Any periods of time during all of which a person who was previously lawfully admitted for permanent residence has served honorably or with good conduct, in any capacity other than as a member of the Armed Forces of the United States, (A) on board a vessel operated by the United States, or an agency thereof, the full legal and equitable title to which is in the United States; or (B) on board a vessel whose home port is in the United States, and (i) which is registered under the laws of the United States, or (ii) the full legal and equitable title to which is in a citizen of the United States, or a corporation organized under the laws of any of the several States of the United States, shall be deemed residence and physical presence within the United States within the meaning of [section 1427(a) of this title][/us/usc/t8/s1427/a], if such service occurred within five years immediately preceding the date such person shall file an application for naturalization. Service on vessels described in clause (A) of this section shall be proved by duly authenticated copies of the records of the executive departments or agency having custody of the records of such service. Service on vessels described in clause (B) of this section may be proved by certificates from the masters of such vessels.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 330, [66 Stat. 251][/us/stat/66/251]; [Pub. L. 100–525, § 9(z)][/us/pl/100/525/s9/z], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(c)(12)][/us/pl/101/649/s407/c/12], Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 102–232, title III, § 305(m)(5)][/us/pl/102/232/s305/m/5], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 330, [66 Stat. 251][/us/stat/66/251]; [Pub. L. 100–525][/us/pl/100/525], § 9(z), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(12), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m)(5), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–232, title III, § 305(m)][/us/pl/102/232/s305/m], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
 ----------
 
@@ -47,11 +47,11 @@
 [/us/usc/t8/s1427/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1427%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F251
-[/us/pl/100/525/s9/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fz
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s407/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F12
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/102/232/s305/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm%2F5
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
@@ -61,7 +61,7 @@
 [/us/usc/t8/s1427/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1427%2Fa
 [/us/usc/t8/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1424
 [/us/usc/t8/s1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1429
-[/us/pl/102/232/s305/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 

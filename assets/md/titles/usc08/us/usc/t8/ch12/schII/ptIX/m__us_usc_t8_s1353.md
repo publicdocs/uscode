@@ -17,7 +17,7 @@
 
     When officers, inspectors, or other employees of the Service are ordered to perform duties in a foreign country, or are transferred from one station to another, in the United States or in a foreign country, or while performing duties in any foreign country become eligible for voluntary retirement and return to the United States, they shall be allowed their traveling expenses in accordance with such regulations as the Attorney General may deem advisable, and they may also be allowed, within the discretion and under written orders of the Attorney General, the expenses incurred for the transfer of their wives and dependent children, their household effects and other personal property, including the expenses for packing, crating, freight, unpacking, temporary storage, and drayage thereof in accordance with subchapter II of chapter 57 of title 5. The expense of transporting the remains of such officers, inspectors, or other employees who die while in, or in transit to, a foreign country in the discharge of their official duties, to their former homes in this country for interment, and the ordinary and necessary expenses of such interment and of preparation for shipment, are authorized to be paid on the written order of the Attorney General.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 283, [66 Stat. 231][/us/stat/66/231]; [Pub. L. 100–525, § 9(p)][/us/pl/100/525/s9/p], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 283, [66 Stat. 231][/us/stat/66/231]; [Pub. L. 100–525][/us/pl/100/525], § 9(p), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F231
-[/us/pl/100/525/s9/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fp
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/60/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F806

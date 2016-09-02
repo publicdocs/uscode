@@ -77,7 +77,7 @@
 
             An alien in the custody of the Attorney General pursuant to this subchapter shall have the right to contact an appropriate diplomatic or consular official of the alien’s country of citizenship or nationality or of any country providing representation services therefore. The Attorney General shall notify the appropriate embassy, mission, or consular office of the alien’s detention.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 507, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1266][/us/stat/110/1266]; amended [Pub. L. 104–208, div. C, title III, § 308(d)(4)(Q)][/us/pl/104/208/s308/d/4/Q], Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 507, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1266][/us/stat/110/1266]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(Q), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619].)
 
  __Amendments__ 
 
@@ -106,9 +106,9 @@
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
 [/us/usc/t8/s1326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1326%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1266
-[/us/pl/104/208/s308/d/4/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FQ
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

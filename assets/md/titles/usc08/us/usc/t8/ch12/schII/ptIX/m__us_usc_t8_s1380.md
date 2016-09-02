@@ -23,7 +23,7 @@
 
         Subsection (a) shall apply to petitions filed on or after the effective date of this subtitle.
 
-([Pub. L. 108–447, div. J, title IV, § 414][/us/pl/108/447/s414], Dec. 8, 2004, [118 Stat. 3352][/us/stat/118/3352].)
+([Pub. L. 108–447, div. J, title IV][/us/pl/108/447/dJ/tIV], § 414, Dec. 8, 2004, [118 Stat. 3352][/us/stat/118/3352].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t8/s1101/a/15/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FL
-[/us/pl/108/447/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs414
+[/us/pl/108/447/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIV
 [/us/stat/118/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3352
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs417

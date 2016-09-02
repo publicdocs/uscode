@@ -113,7 +113,7 @@
 
             There are authorized to be appropriated such sums as are necessary to carry out the provisions of this subsection.
 
-([Pub. L. 107–173, title II, § 202][/us/pl/107/173/s202], May 14, 2002, [116 Stat. 548][/us/stat/116/548].)
+([Pub. L. 107–173, title II][/us/pl/107/173/tII], § 202, May 14, 2002, [116 Stat. 548][/us/stat/116/548].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 [/us/usc/t8/s1721/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1721%2Fc
 [/us/usc/t8/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1379
 [/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
-[/us/pl/107/173/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs202
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F548
 [/us/pl/105/107/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs309
 [/us/stat/111/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2253

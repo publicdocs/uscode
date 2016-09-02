@@ -41,13 +41,13 @@
 
         Each committee established under subsection (a) shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
 
-    (f) __Repealed.__  __[__  __Pub. L. 113–235, div. J, title VII, § 7034(i)__  __][/us/pl/113/235/s7034/i]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2624__  __][/us/stat/128/2624]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 113–235, div. J, title VII__  __][/us/pl/113/235/dJ/tVII]__  __, § 7034(i),__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2624__  __][/us/stat/128/2624]__ 
 
     (g) __Authorization of appropriations__ 
 
         There are authorized to be appropriated such sums as may be necessary to implement this section.
 
-([Pub. L. 107–173, title III, § 304][/us/pl/107/173/s304], May 14, 2002, [116 Stat. 554][/us/stat/116/554]; [Pub. L. 113–235, div. J, title VII, § 7034(i)][/us/pl/113/235/s7034/i], Dec. 16, 2014, [128 Stat. 2624][/us/stat/128/2624].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 304, May 14, 2002, [116 Stat. 554][/us/stat/116/554]; [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(i), Dec. 16, 2014, [128 Stat. 2624][/us/stat/128/2624].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2624
-[/us/pl/107/173/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs304
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F554
-[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2624
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 

@@ -67,7 +67,7 @@
 
         The Attorney General, Secretary of State, and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice, Department of State, or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(u)][/us/usc/t8/s1101/a/15/u]) from harm that could result from the inappropriate disclosure of covered information.
 
-([Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(8)(D), 384, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–652; [Pub. L. 105–33, title V, § 5572(b)][/us/pl/105/33/s5572/b], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641]; [Pub. L. 106–386, div. B, title V, § 1513(d)][/us/pl/106/386/s1513/d], Oct. 28, 2000, [114 Stat. 1536][/us/stat/114/1536]; [Pub. L. 109–162, title VIII, § 817][/us/pl/109/162/s817], Jan. 5, 2006, [119 Stat. 3060][/us/stat/119/3060]; [Pub. L. 109–271, § 6(h)][/us/pl/109/271/s6/h], Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 113–4, title VIII, § 810(a)][/us/pl/113/4/s810/a], (b), (d), Mar. 7, 2013, [127 Stat. 117][/us/stat/127/117], 118.)
+([Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(8)(D), 384, Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624], 3009–652; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5572(b), Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641]; [Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1513(d), Oct. 28, 2000, [114 Stat. 1536][/us/stat/114/1536]; [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 817, Jan. 5, 2006, [119 Stat. 3060][/us/stat/119/3060]; [Pub. L. 109–271][/us/pl/109/271], § 6(h), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 113–4, title VIII][/us/pl/113/4/tVIII], § 810(a), (b), (d), Mar. 7, 2013, [127 Stat. 117][/us/stat/127/117], 118.)
 
  __References in Text__ 
 
@@ -77,45 +77,45 @@
 
     Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
-    Section is comprised of [section 384 of div. C of Pub. L. 104–208][/us/pl/104/208/s384]. Another subsec. (d) of [section 384 of div. C of Pub. L. 104–208][/us/pl/104/208/s384] amended sections 1160 and 1255a of this title and enacted provisions set out as a note under [section 1160 of this title][/us/usc/t8/s1160].
+    Section is comprised of [section 384 of div. C of Pub. L. 104–208][/us/pl/104/208/dC/s384]. Another subsec. (d) of [section 384 of div. C of Pub. L. 104–208][/us/pl/104/208/dC/s384] amended sections 1160 and 1255a of this title and enacted provisions set out as a note under [section 1160 of this title][/us/usc/t8/s1160].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–4, § 810(d)][/us/pl/113/4/s810/d], which directed the substitution of “237(a)(2)” for “241(a)(2)” in concluding provisions of section 384(a)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1986, was executed to this section, which is section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, to reflect the probable intent of Congress.
+    2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 810(d), which directed the substitution of “237(a)(2)” for “241(a)(2)” in concluding provisions of section 384(a)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1986, was executed to this section, which is section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 113–4, § 810(a)(1)][/us/pl/113/4/s810/a/1], inserted “Secretary of Homeland Security or the” before “Attorney General may” and “Secretary’s or the” before “Attorney General’s discretion”.
+    Subsec. (b)(1). [Pub. L. 113–4][/us/pl/113/4], § 810(a)(1), inserted “Secretary of Homeland Security or the” before “Attorney General may” and “Secretary’s or the” before “Attorney General’s discretion”.
 
-    Subsec. (b)(2). [Pub. L. 113–4, § 810(a)(2)][/us/pl/113/4/s810/a/2], inserted “Secretary of Homeland Security or the” before “Attorney General may”, “Secretary or the” before “Attorney General for”, and “in a manner that protects the confidentiality of such information” before period at end.
+    Subsec. (b)(2). [Pub. L. 113–4][/us/pl/113/4], § 810(a)(2), inserted “Secretary of Homeland Security or the” before “Attorney General may”, “Secretary or the” before “Attorney General for”, and “in a manner that protects the confidentiality of such information” before period at end.
 
-    Subsec. (b)(5). [Pub. L. 113–4, § 810(a)(3)][/us/pl/113/4/s810/a/3], substituted “Secretary of Homeland Security and the Attorney General are” for “Attorney General is”.
+    Subsec. (b)(5). [Pub. L. 113–4][/us/pl/113/4], § 810(a)(3), substituted “Secretary of Homeland Security and the Attorney General are” for “Attorney General is”.
 
-    Subsec. (b)(8). [Pub. L. 113–4, § 810(a)(4)][/us/pl/113/4/s810/a/4], added par. (8).
+    Subsec. (b)(8). [Pub. L. 113–4][/us/pl/113/4], § 810(a)(4), added par. (8).
 
-    Subsec. (d). [Pub. L. 113–4, § 810(b)][/us/pl/113/4/s810/b], inserted “, Secretary of State,” after “The Attorney General”, “, Department of State,” after “Department of Justice”, and “and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(u)][/us/usc/t8/s1101/a/15/u])” after “domestic violence”.
+    Subsec. (d). [Pub. L. 113–4][/us/pl/113/4], § 810(b), inserted “, Secretary of State,” after “The Attorney General”, “, Department of State,” after “Department of Justice”, and “and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(u)][/us/usc/t8/s1101/a/15/u])” after “domestic violence”.
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 817(1)(A)][/us/pl/109/162/s817/1/A], substituted “, the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)” for “(including any bureau or agency of such Department)” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 817(1)(A), substituted “, the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)” for “(including any bureau or agency of such Department)” in introductory provisions.
 
-    Subsec. (a)(1)(F). [Pub. L. 109–162, § 817(1)(B)][/us/pl/109/162/s817/1/B], added subpar. (F).
+    Subsec. (a)(1)(F). [Pub. L. 109–162][/us/pl/109/162], § 817(1)(B), added subpar. (F).
 
     Subsec. (a)(2). [Pub. L. 109–271][/us/pl/109/271] substituted “paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act or section 240A(b)(2) of such Act” for “clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) of such Act as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty”.
 
-    Subsec. (b)(6), (7). [Pub. L. 109–162, § 817(2)][/us/pl/109/162/s817/2], added pars. (6) and (7).
+    Subsec. (b)(6), (7). [Pub. L. 109–162][/us/pl/109/162], § 817(2), added pars. (6) and (7).
 
-    Subsec. (c). [Pub. L. 109–162, § 817(3)][/us/pl/109/162/s817/3], inserted “or who knowingly makes a false certification under section 239(e) of the Immigration and Nationality Act” after “in violation of this section”.
+    Subsec. (c). [Pub. L. 109–162][/us/pl/109/162], § 817(3), inserted “or who knowingly makes a false certification under section 239(e) of the Immigration and Nationality Act” after “in violation of this section”.
 
-    Subsec. (d). [Pub. L. 109–162, § 817(4)][/us/pl/109/162/s817/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 817(4), added subsec. (d).
 
-    2000—Subsec. (a)(1)(E). [Pub. L. 106–386, § 1513(d)(1)][/us/pl/106/386/s1513/d/1]–(3), added subpar. (E).
+    2000—Subsec. (a)(1)(E). [Pub. L. 106–386][/us/pl/106/386], § 1513(d)(1)–(3), added subpar. (E).
 
-    Subsec. (a)(2). [Pub. L. 106–386, § 1513(d)(4)][/us/pl/106/386/s1513/d/4], inserted “section 101(a)(15)(U),” after “section 216(c)(4)(C),”.
+    Subsec. (a)(2). [Pub. L. 106–386][/us/pl/106/386], § 1513(d)(4), inserted “section 101(a)(15)(U),” after “section 216(c)(4)(C),”.
 
     1997—Subsec. (b)(5). [Pub. L. 105–33][/us/pl/105/33] added par. (5).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–208, § 308(g)(8)(D)][/us/pl/104/208/s308/g/8/D], which directed amendment of [section 364(a)(2) of div. C of Pub. L. 104–208][/us/pl/104/208/s364/a/2] by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of [Pub. L. 104–208][/us/pl/104/208] does not contain a section 364.
+    1996—Subsec. (a)(2). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(8)(D), which directed amendment of [section 364(a)(2) of div. C of Pub. L. 104–208][/us/pl/104/208/dC/s364/a/2] by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of [Pub. L. 104–208][/us/pl/104/208] does not contain a section 364.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5582][/us/pl/105/33/s5582], Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5582, Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643], provided that: 
 
 > “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§ 5561–5582) of subtitle F of title V of [Pub. L. 105–33][/us/pl/105/33], amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[[Pub. L. 104–193][/us/pl/104/193]\].”
 
@@ -129,7 +129,7 @@
 
  __Implementation__ 
 
-[Pub. L. 113–4, title VIII, § 810(c)][/us/pl/113/4/s810/c], Mar. 7, 2013, [127 Stat. 118][/us/stat/127/118], provided that: 
+[Pub. L. 113–4, title VIII][/us/pl/113/4/tVIII], § 810(c), Mar. 7, 2013, [127 Stat. 118][/us/stat/127/118], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Mar. 7, 2013\], the Attorney General, the Secretary of State, and Secretary of Homeland Security shall provide the guidance required by section 384(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1367(d)][/us/usc/t8/s1367/d]), consistent with the amendments made by subsections (a) and (b) \[amending this section\].”
 
@@ -154,44 +154,44 @@
 [/us/usc/t8/s1101/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fi%2F1
 [/us/usc/t8/s1229/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229%2Fe
 [/us/usc/t8/s1101/a/15/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2Fu
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-624
-[/us/pl/105/33/s5572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5572%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F641
-[/us/pl/106/386/s1513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1513%2Fd
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1536
-[/us/pl/109/162/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3060
-[/us/pl/109/271/s6/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs6%2Fh
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
-[/us/pl/113/4/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fa
+[/us/pl/113/4/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVIII
 [/us/stat/127/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F117
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs384
-[/us/pl/104/208/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs384
+[/us/pl/104/208/dC/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2Fs384
+[/us/pl/104/208/dC/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2Fs384
 [/us/usc/t8/s1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1160
-[/us/pl/113/4/s810/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fd
-[/us/pl/113/4/s810/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fa%2F1
-[/us/pl/113/4/s810/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fa%2F2
-[/us/pl/113/4/s810/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fa%2F3
-[/us/pl/113/4/s810/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fa%2F4
-[/us/pl/113/4/s810/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fb
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t8/s1101/a/15/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2Fu
-[/us/pl/109/162/s817/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817%2F1%2FA
-[/us/pl/109/162/s817/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817%2F1%2FB
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s817/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817%2F2
-[/us/pl/109/162/s817/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817%2F3
-[/us/pl/109/162/s817/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs817%2F4
-[/us/pl/106/386/s1513/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1513%2Fd%2F1
-[/us/pl/106/386/s1513/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1513%2Fd%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/208/s308/g/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F8%2FD
-[/us/pl/104/208/s364/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs364%2Fa%2F2
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/105/33/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5582
+[/us/pl/104/208/dC/s364/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2Fs364%2Fa%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F643
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -199,7 +199,7 @@
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/113/4/s810/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs810%2Fc
+[/us/pl/113/4/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVIII
 [/us/stat/127/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F118
 [/us/usc/t8/s1367/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1367%2Fd
 

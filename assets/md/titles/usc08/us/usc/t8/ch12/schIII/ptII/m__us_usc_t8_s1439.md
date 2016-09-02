@@ -47,31 +47,31 @@
 
         Citizenship granted pursuant to this section may be revoked in accordance with [section 1451 of this title][/us/usc/t8/s1451] if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in [section 1451 of this title][/us/usc/t8/s1451]. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 328, [66 Stat. 249][/us/stat/66/249]; [Pub. L. 90–633, § 5][/us/pl/90/633/s5], Oct. 24, 1968, [82 Stat. 1344][/us/stat/82/1344]; [Pub. L. 97–116, § 15(e)][/us/pl/97/116/s15/e], Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 101–649, title IV, § 407(b)(4)][/us/pl/101/649/s407/b/4], (c)(10), (d)(8), Nov. 29, 1990, [104 Stat. 5040–5042][/us/stat/104/5040-5042]; [Pub. L. 102–232, title III, § 305(c)][/us/pl/102/232/s305/c], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 108–136, div. A, title XVII, § 1701(a)][/us/pl/108/136/s1701/a], (b)(1), (c)(1)(A), (f), Nov. 24, 2003, [117 Stat. 1691][/us/stat/117/1691], 1692; [Pub. L. 110–382, § 3(a)][/us/pl/110/382/s3/a], Oct. 9, 2008, [122 Stat. 4088][/us/stat/122/4088].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 328, [66 Stat. 249][/us/stat/66/249]; [Pub. L. 90–633][/us/pl/90/633], § 5, Oct. 24, 1968, [82 Stat. 1344][/us/stat/82/1344]; [Pub. L. 97–116][/us/pl/97/116], § 15(e), Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, [104 Stat. 5040–5042][/us/stat/104/5040-5042]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(c), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, [117 Stat. 1691][/us/stat/117/1691], 1692; [Pub. L. 110–382][/us/pl/110/382], § 3(a), Oct. 9, 2008, [122 Stat. 4088][/us/stat/122/4088].)
 
  __Amendments__ 
 
     2008—Subsecs. (g), (h). [Pub. L. 110–382][/us/pl/110/382], §§ 3(a), 4, temporarily added subsecs. (g) and (h) which related to processing and adjudication of applications for naturalization and required annual reports to Congress on failures to process and adjudicate certain applications within 1 year of filing due to delays in conducting required background checks. See Termination Date of 2008 Amendment note below.
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 1701(a)][/us/pl/108/136/s1701/a], substituted “one year,” for “three years,”.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1701(a), substituted “one year,” for “three years,”.
 
-    Subsec. (b)(3). [Pub. L. 108–136, § 1701(f)][/us/pl/108/136/s1701/f], substituted “Secretary of Homeland Security” for “Attorney General”.
+    Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 1701(f), substituted “Secretary of Homeland Security” for “Attorney General”.
 
-    [Pub. L. 108–136, § 1701(b)(1)(A)][/us/pl/108/136/s1701/b/1/A], substituted “honorable (the” for “honorable. The” and “discharge); and” for “discharge.”
+    [Pub. L. 108–136][/us/pl/108/136], § 1701(b)(1)(A), substituted “honorable (the” for “honorable. The” and “discharge); and” for “discharge.”
 
-    Subsec. (b)(4). [Pub. L. 108–136, § 1701(b)(1)(B)][/us/pl/108/136/s1701/b/1/B], added par. (4).
+    Subsec. (b)(4). [Pub. L. 108–136][/us/pl/108/136], § 1701(b)(1)(B), added par. (4).
 
-    Subsec. (f). [Pub. L. 108–136, § 1701(c)(1)(A)][/us/pl/108/136/s1701/c/1/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–136][/us/pl/108/136], § 1701(c)(1)(A), added subsec. (f).
 
-    1991—Subsecs. (b), (c). [Pub. L. 102–232][/us/pl/102/232] amended directory language of [Pub. L. 101–649, § 407(d)(8)][/us/pl/101/649/s407/d/8]. See 1990 Amendment notes below.
+    1991—Subsecs. (b), (c). [Pub. L. 102–232][/us/pl/102/232] amended directory language of [Pub. L. 101–649][/us/pl/101/649], § 407(d)(8). See 1990 Amendment notes below.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(b)(4)(A)][/us/pl/101/649/s407/b/4/A], (c)(10), substituted “State or district of the Service in the United States” for “State”, “for at least three months” for “for at least six months”, and references to applicant and application for references to petitioner and petition wherever appearing.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(4)(A), (c)(10), substituted “State or district of the Service in the United States” for “State”, “for at least three months” for “for at least six months”, and references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (b). [Pub. L. 101–649, § 407(b)(4)(B)][/us/pl/101/649/s407/b/4/B], (c)(10), (d)(8), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(4)(B), (c)(10), (d)(8), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (c). [Pub. L. 101–649, § 407(b)(4)(C)][/us/pl/101/649/s407/b/4/C], (c)(10), (d)(8), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “State or district of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant’s and application for references to petitioner’s and petition wherever appearing.
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(4)(C), (c)(10), (d)(8), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “State or district of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant’s and application for references to petitioner’s and petition wherever appearing.
 
-    Subsec. (d). [Pub. L. 101–649, § 407(c)(10)][/us/pl/101/649/s407/c/10], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(10), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
     1981—Subsec. (b)(2). [Pub. L. 97–116][/us/pl/97/116] struck out “and [section 1447(c) of this title][/us/usc/t8/s1447/c]” after “relates to deportability” and “and the witnesses” after “petition, the petitioner”.
 
@@ -87,11 +87,11 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title XVII, § 1701(c)(2)][/us/pl/108/136/s1701/c/2], Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692], provided that: 
+[Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1701(c)(2), Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and [section 1440 of this title][/us/usc/t8/s1440]\] shall apply to citizenship granted on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
-[Pub. L. 108–136, div. A, title XVII, § 1705][/us/pl/108/136/s1705], Nov. 24, 2003, [117 Stat. 1696][/us/stat/117/1696], provided that:
+[Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1705, Nov. 24, 2003, [117 Stat. 1696][/us/stat/117/1696], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -127,32 +127,32 @@
 [/us/usc/t8/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1451
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F249
-[/us/pl/90/633/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633%2Fs5
+[/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
 [/us/stat/82/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1344
-[/us/pl/97/116/s15/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs15%2Fe
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1619
-[/us/pl/101/649/s407/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F4
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5040-5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5040-5042
-[/us/pl/102/232/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fc
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
-[/us/pl/108/136/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fa
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1691
-[/us/pl/110/382/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs3%2Fa
+[/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/stat/122/4088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4088
 [/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
-[/us/pl/108/136/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fa
-[/us/pl/108/136/s1701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Ff
-[/us/pl/108/136/s1701/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fb%2F1%2FA
-[/us/pl/108/136/s1701/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fb%2F1%2FB
-[/us/pl/108/136/s1701/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fc%2F1%2FA
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F8
-[/us/pl/101/649/s407/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F4%2FA
-[/us/pl/101/649/s407/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F4%2FB
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F4%2FC
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F10
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/usc/t8/s1447/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fc
 [/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
@@ -160,10 +160,10 @@
 [/us/pl/110/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382
 [/us/pl/110/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F382%2Fs4
 [/us/usc/t6/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs271
-[/us/pl/108/136/s1701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fc%2F2
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1692
 [/us/usc/t8/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440
-[/us/pl/108/136/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1705
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1696
 [/us/usc/t8/s1443a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1443a
 [/us/usc/t8/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440

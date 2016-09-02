@@ -37,7 +37,7 @@
 
         (3) The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person’s application for naturalization as provided in [section 1445 of this title][/us/usc/t8/s1445], is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 312, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 95–579, § 3][/us/pl/95/579/s3], Nov. 2, 1978, [92 Stat. 2474][/us/stat/92/2474]; [Pub. L. 101–649, title IV, § 403][/us/pl/101/649/s403], Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039]; [Pub. L. 102–232, title III, § 305(m)(2)][/us/pl/102/232/s305/m/2], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 103–416, title I, § 108(a)][/us/pl/103/416/s108/a], Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 312, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 95–579][/us/pl/95/579], § 3, Nov. 2, 1978, [92 Stat. 2474][/us/stat/92/2474]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 403, Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m)(2), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 108(a), Oct. 25, 1994, [108 Stat. 4309][/us/stat/108/4309].)
 
  __Amendments__ 
 
@@ -51,17 +51,17 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–416, title I, § 108(c)][/us/pl/103/416/s108/c], Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], provided that: 
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 108(c), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\] and shall apply to applications for naturalization filed on or after such date and to such applications pending on such date.”
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–232, title III, § 305(m)][/us/pl/102/232/s305/m], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
  __Regulations__ 
 
-[Pub. L. 103–416, title I, § 108(d)][/us/pl/103/416/s108/d], Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], provided that: 
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 108(d), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Oct. 25, 1994\], the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act \[[8 U.S.C. 1423(b)(3)][/us/usc/t8/s1423/b/3]\] (as amended by subsection (a)).”
 
@@ -71,7 +71,7 @@
 
  __Hmong Veterans’ Naturalization__ 
 
-[Pub. L. 106–207][/us/pl/106/207], May 26, 2000, [114 Stat. 316][/us/stat/114/316], as amended by [Pub. L. 106–415][/us/pl/106/415], Nov. 1, 2000, [114 Stat. 1810][/us/stat/114/1810]; [Pub. L. 107–77, title I, § 112][/us/pl/107/77/s112], Nov. 28, 2001, [115 Stat. 765][/us/stat/115/765], provided that:
+[Pub. L. 106–207][/us/pl/106/207], May 26, 2000, [114 Stat. 316][/us/stat/114/316], as amended by [Pub. L. 106–415][/us/pl/106/415], Nov. 1, 2000, [114 Stat. 1810][/us/stat/114/1810]; [Pub. L. 107–77, title I][/us/pl/107/77/tI], § 112, Nov. 28, 2001, [115 Stat. 765][/us/stat/115/765], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -156,13 +156,13 @@
 [/us/usc/t8/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F239
-[/us/pl/95/579/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F579%2Fs3
+[/us/pl/95/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F579
 [/us/stat/92/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2474
-[/us/pl/101/649/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs403
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5039
-[/us/pl/102/232/s305/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm%2F2
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
-[/us/pl/103/416/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs108%2Fa
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4309
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/usc/t8/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445
@@ -170,12 +170,12 @@
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/95/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F579
 [/us/usc/t8/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445
-[/us/pl/103/416/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs108%2Fc
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4310
-[/us/pl/102/232/s305/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/103/416/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs108%2Fd
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4310
 [/us/usc/t8/s1423/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1423%2Fb%2F3
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
@@ -183,7 +183,7 @@
 [/us/stat/114/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F316
 [/us/pl/106/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F415
 [/us/stat/114/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1810
-[/us/pl/107/77/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs112
+[/us/pl/107/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtI
 [/us/stat/115/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F765
 [/us/usc/t8/s1423/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1423%2Fa%2F1
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157

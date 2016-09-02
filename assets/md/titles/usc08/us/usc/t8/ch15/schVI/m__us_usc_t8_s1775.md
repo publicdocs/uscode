@@ -17,7 +17,7 @@
 
     The Department of State shall retain, for a period of seven years from the date of application, every application for a nonimmigrant visa under section 101(a)(15) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]) in a form that will be admissible in the courts of the United States or in administrative proceedings, including removal proceedings under such Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], without regard to whether the application was approved or denied.
 
-([Pub. L. 107–173, title VI, § 606][/us/pl/107/173/s606], May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
+([Pub. L. 107–173, title VI][/us/pl/107/173/tVI], § 606, May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/173/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs606
+[/us/pl/107/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtVI
 [/us/stat/116/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F565
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

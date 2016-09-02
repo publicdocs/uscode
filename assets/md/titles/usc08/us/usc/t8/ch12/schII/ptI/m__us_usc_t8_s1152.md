@@ -101,7 +101,7 @@
 
         Nothing in this subsection shall be construed as limiting the number of visas that may be issued to natives of a foreign state or dependent area under section 1153(a) or 1153(b) of this title if there is insufficient demand for visas for such natives under section 1153(b) or 1153(a) of this title, respectively, or as limiting the number of visas that may be issued under [section 1153(a)(2)(A) of this title][/us/usc/t8/s1153/a/2/A] pursuant to subsection (a)(4)(A).
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 202, [66 Stat. 176][/us/stat/66/176]; [Pub. L. 87–301, § 9][/us/pl/87/301/s9], Sept. 26, 1961, [75 Stat. 654][/us/stat/75/654]; [Pub. L. 89–236, § 2][/us/pl/89/236/s2], Oct. 3, 1965, [79 Stat. 911][/us/stat/79/911]; [Pub. L. 94–571, § 3][/us/pl/94/571/s3], Oct. 20, 1976, [90 Stat. 2703][/us/stat/90/2703]; [Pub. L. 95–412, § 2][/us/pl/95/412/s2], Oct. 5, 1978, [92 Stat. 907][/us/stat/92/907]; [Pub. L. 96–212, title II, § 203(b)][/us/pl/96/212/s203/b], Mar. 17, 1980, [94 Stat. 107][/us/stat/94/107]; [Pub. L. 97–116][/us/pl/97/116], §§ 18(c), 20(b), Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620], 1622; [Pub. L. 99–603, title III, § 311(a)][/us/pl/99/603/s311/a], Nov. 6, 1986, [100 Stat. 3434][/us/stat/100/3434]; [Pub. L. 99–653, § 4][/us/pl/99/653/s4], Nov. 14, 1986, [100 Stat. 3655][/us/stat/100/3655]; [Pub. L. 100–525][/us/pl/100/525], §§ 8(c), 9(f), Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617], 2620; [Pub. L. 101–649, title I, § 102][/us/pl/101/649/s102], Nov. 29, 1990, [104 Stat. 4982][/us/stat/104/4982]; [Pub. L. 102–232, title III, § 302(a)(3)][/us/pl/102/232/s302/a/3], Dec. 12, 1991, [105 Stat. 1742][/us/stat/105/1742]; [Pub. L. 104–208, div. C, title VI, § 633][/us/pl/104/208/s633], Sept. 30, 1996, [110 Stat. 3009–701][/us/stat/110/3009-701]; [Pub. L. 106–313, title I, § 104(a)][/us/pl/106/313/s104/a], (b), Oct. 17, 2000, [114 Stat. 1252][/us/stat/114/1252], 1253.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 202, [66 Stat. 176][/us/stat/66/176]; [Pub. L. 87–301][/us/pl/87/301], § 9, Sept. 26, 1961, [75 Stat. 654][/us/stat/75/654]; [Pub. L. 89–236][/us/pl/89/236], § 2, Oct. 3, 1965, [79 Stat. 911][/us/stat/79/911]; [Pub. L. 94–571][/us/pl/94/571], § 3, Oct. 20, 1976, [90 Stat. 2703][/us/stat/90/2703]; [Pub. L. 95–412][/us/pl/95/412], § 2, Oct. 5, 1978, [92 Stat. 907][/us/stat/92/907]; [Pub. L. 96–212, title II][/us/pl/96/212/tII], § 203(b), Mar. 17, 1980, [94 Stat. 107][/us/stat/94/107]; [Pub. L. 97–116][/us/pl/97/116], §§ 18(c), 20(b), Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620], 1622; [Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 311(a), Nov. 6, 1986, [100 Stat. 3434][/us/stat/100/3434]; [Pub. L. 99–653][/us/pl/99/653], § 4, Nov. 14, 1986, [100 Stat. 3655][/us/stat/100/3655]; [Pub. L. 100–525][/us/pl/100/525], §§ 8(c), 9(f), Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617], 2620; [Pub. L. 101–649, title I][/us/pl/101/649/tI], § 102, Nov. 29, 1990, [104 Stat. 4982][/us/stat/104/4982]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 302(a)(3), Dec. 12, 1991, [105 Stat. 1742][/us/stat/105/1742]; [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 633, Sept. 30, 1996, [110 Stat. 3009–701][/us/stat/110/3009-701]; [Pub. L. 106–313, title I][/us/pl/106/313/tI], § 104(a), (b), Oct. 17, 2000, [114 Stat. 1252][/us/stat/114/1252], 1253.)
 
  __References in Text__ 
 
@@ -109,53 +109,53 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(2). [Pub. L. 106–313, § 104(b)(1)][/us/pl/106/313/s104/b/1], substituted “paragraphs (3), (4), and (5)” for “paragraphs (3) and (4)”.
+    2000—Subsec. (a)(2). [Pub. L. 106–313][/us/pl/106/313], § 104(b)(1), substituted “paragraphs (3), (4), and (5)” for “paragraphs (3) and (4)”.
 
-    Subsec. (a)(5). [Pub. L. 106–313, § 104(a)][/us/pl/106/313/s104/a], added par. (5).
+    Subsec. (a)(5). [Pub. L. 106–313][/us/pl/106/313], § 104(a), added par. (5).
 
-    Subsec. (e)(3). [Pub. L. 106–313, § 104(b)(2)][/us/pl/106/313/s104/b/2], substituted “except as provided in subsection (a)(5), the proportion of the visa numbers” for “the proportion of the visa numbers”.
+    Subsec. (e)(3). [Pub. L. 106–313][/us/pl/106/313], § 104(b)(2), substituted “except as provided in subsection (a)(5), the proportion of the visa numbers” for “the proportion of the visa numbers”.
 
     1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208] designated existing provisions as subpar. (A) and added subpar. (B).
 
     1991—Subsec. (a)(4)(A). [Pub. L. 102–232][/us/pl/102/232] struck out “minimum” before “2nd preference set-aside” in heading.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 102(1)][/us/pl/101/649/s102/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No person shall receive any preference or priority or be discriminated against in the issuance of an immigrant visa because of his race, sex, nationality, place of birth, or place of residence, except as specifically provided in sections 1101(a)(27), 1151(b), and 1153 of this title: Provided, That the total number of immigrant visas made available to natives of any single foreign state under paragraphs (1) through (7) of [section 1153(a) of this title][/us/usc/t8/s1153/a] shall not exceed 20,000 in any fiscal year: And provided further, That to the extent that in a particular fiscal year the number of such natives who are issued immigrant visas or who may otherwise acquire the status of aliens lawfully admitted for permanent residence and who are subject to the numerical limitations of this section, together with the aliens from the same foreign state who adjust their status to aliens lawfully admitted for permanent residence pursuant to subparagraph (H) of [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27] or section 19 of the Immigration and Nationality Amendments Act of 1981, exceed the numerical limitation in effect for such year pursuant to this section, the Secretary of State shall reduce to such extent the numerical limitation in effect for the natives of the same foreign state pursuant to this section for the following fiscal year.”
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 102(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No person shall receive any preference or priority or be discriminated against in the issuance of an immigrant visa because of his race, sex, nationality, place of birth, or place of residence, except as specifically provided in sections 1101(a)(27), 1151(b), and 1153 of this title: Provided, That the total number of immigrant visas made available to natives of any single foreign state under paragraphs (1) through (7) of [section 1153(a) of this title][/us/usc/t8/s1153/a] shall not exceed 20,000 in any fiscal year: And provided further, That to the extent that in a particular fiscal year the number of such natives who are issued immigrant visas or who may otherwise acquire the status of aliens lawfully admitted for permanent residence and who are subject to the numerical limitations of this section, together with the aliens from the same foreign state who adjust their status to aliens lawfully admitted for permanent residence pursuant to subparagraph (H) of [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27] or section 19 of the Immigration and Nationality Amendments Act of 1981, exceed the numerical limitation in effect for such year pursuant to this section, the Secretary of State shall reduce to such extent the numerical limitation in effect for the natives of the same foreign state pursuant to this section for the following fiscal year.”
 
-    Subsec. (b). [Pub. L. 101–649, § 102(2)][/us/pl/101/649/s102/2], inserted heading and substituted reference to numerical level established under subsec. (a)(2) of this section for reference to numerical limitation set forth in proviso to subsec. (a) of this section, wherever appearing.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 102(2), inserted heading and substituted reference to numerical level established under subsec. (a)(2) of this section for reference to numerical limitation set forth in proviso to subsec. (a) of this section, wherever appearing.
 
-    Subsec. (c). [Pub. L. 101–649, § 102(3)][/us/pl/101/649/s102/3], inserted heading and substituted “an alien described in [section 1151(b) of this title][/us/usc/t8/s1151/b]” for “a special immigrant, as defined in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27], or an immediate relative of a United States citizen, as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b]” and struck out “, and the number of immigrant visas available to each such colony or other component or dependent area shall not exceed 5,000 in any one fiscal year” after “to the foreign state”.
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 102(3), inserted heading and substituted “an alien described in [section 1151(b) of this title][/us/usc/t8/s1151/b]” for “a special immigrant, as defined in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27], or an immediate relative of a United States citizen, as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b]” and struck out “, and the number of immigrant visas available to each such colony or other component or dependent area shall not exceed 5,000 in any one fiscal year” after “to the foreign state”.
 
-    Subsec. (d). [Pub. L. 101–649, § 102(4)][/us/pl/101/649/s102/4], inserted heading.
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 102(4), inserted heading.
 
-    Subsec. (e). [Pub. L. 101–649, § 102(5)][/us/pl/101/649/s102/5], amended subsec. (e) generally, substituting provisions relating to special rules for countries at ceiling for provisions relating to availability and allocation of additional visas.
+    Subsec. (e). [Pub. L. 101–649][/us/pl/101/649], § 102(5), amended subsec. (e) generally, substituting provisions relating to special rules for countries at ceiling for provisions relating to availability and allocation of additional visas.
 
-    1988—Subsec. (b). [Pub. L. 100–525, § 8(c)][/us/pl/100/525/s8/c], amended [Pub. L. 99–653, § 4][/us/pl/99/653/s4]. See 1986 Amendment note below.
+    1988—Subsec. (b). [Pub. L. 100–525][/us/pl/100/525], § 8(c), amended [Pub. L. 99–653][/us/pl/99/653], § 4. See 1986 Amendment note below.
 
-    Subsec. (c). [Pub. L. 100–525, § 9(f)(1)][/us/pl/100/525/s9/f/1], substituted “subsection (a)” for “section 202(a)” in original, which for purposes of codification had been translated as “subsection (a)”.
+    Subsec. (c). [Pub. L. 100–525][/us/pl/100/525], § 9(f)(1), substituted “subsection (a)” for “section 202(a)” in original, which for purposes of codification had been translated as “subsection (a)”.
 
-    Subsec. (e). [Pub. L. 100–525, § 9(f)(2)][/us/pl/100/525/s9/f/2], substituted “this section” for “section 202” in original, which for purposes of codification had been translated as “this section”.
+    Subsec. (e). [Pub. L. 100–525][/us/pl/100/525], § 9(f)(2), substituted “this section” for “section 202” in original, which for purposes of codification had been translated as “this section”.
 
-    1986—Subsec. (b). [Pub. L. 99–653][/us/pl/99/653], as amended by [Pub. L. 100–525, § 8(c)][/us/pl/100/525/s8/c], amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
+    1986—Subsec. (b). [Pub. L. 99–653][/us/pl/99/653], as amended by [Pub. L. 100–525][/us/pl/100/525], § 8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
 
-    Subsec. (c). [Pub. L. 99–603, § 311(a)(1)][/us/pl/99/603/s311/a/1], substituted “5,000” for “six hundred”.
+    Subsec. (c). [Pub. L. 99–603][/us/pl/99/603], § 311(a)(1), substituted “5,000” for “six hundred”.
 
-    Subsec. (e). [Pub. L. 99–603, § 311(a)(2)][/us/pl/99/603/s311/a/2], substituted “5,000” for “600” in provisions preceding par. (1).
+    Subsec. (e). [Pub. L. 99–603][/us/pl/99/603], § 311(a)(2), substituted “5,000” for “600” in provisions preceding par. (1).
 
-    1981—Subsec. (a). [Pub. L. 97–116, § 20(b)][/us/pl/97/116/s20/b], inserted proviso authorizing Secretary of State, to the extent that in a particular fiscal year the number of natives who are issued visas or who otherwise acquire the status of aliens lawfully admitted for permanent residence, and who are subject to the numerical limitation of this section, together with the aliens from the same foreign state who adjust their status to aliens lawfully admitted for permanent residence pursuant to [section 1101(a)(27)(H) of this title][/us/usc/t8/s1101/a/27/H] and section 19 of the Immigration and Nationality Amendments of 1981, exceed the annual numerical limitation in effect for such year, to reduce to such extent the numerical limitation in effect for the natives of the same foreign state for the following fiscal year.
+    1981—Subsec. (a). [Pub. L. 97–116][/us/pl/97/116], § 20(b), inserted proviso authorizing Secretary of State, to the extent that in a particular fiscal year the number of natives who are issued visas or who otherwise acquire the status of aliens lawfully admitted for permanent residence, and who are subject to the numerical limitation of this section, together with the aliens from the same foreign state who adjust their status to aliens lawfully admitted for permanent residence pursuant to [section 1101(a)(27)(H) of this title][/us/usc/t8/s1101/a/27/H] and section 19 of the Immigration and Nationality Amendments of 1981, exceed the annual numerical limitation in effect for such year, to reduce to such extent the numerical limitation in effect for the natives of the same foreign state for the following fiscal year.
 
-    Subsec. (b). [Pub. L. 97–116, § 18(c)][/us/pl/97/116/s18/c], inserted “and” before “(4)”.
+    Subsec. (b). [Pub. L. 97–116][/us/pl/97/116], § 18(c), inserted “and” before “(4)”.
 
-    1980—Subsec. (a). [Pub. L. 96–212, § 203(b)(1)][/us/pl/96/212/s203/b/1], (2), substituted “through (7)” for “through (8)”, and struck out “and the number of conditional entries” after “visas”.
+    1980—Subsec. (a). [Pub. L. 96–212][/us/pl/96/212], § 203(b)(1), (2), substituted “through (7)” for “through (8)”, and struck out “and the number of conditional entries” after “visas”.
 
-    Subsec. (e). [Pub. L. 96–212, § 203(b)(3)][/us/pl/96/212/s203/b/3]–(7), in introductory text struck out provisions relating to applicability to conditional entries, in par. (2) substituted “(26)” for “(20)”, struck out par. (7) relating to availability of conditional entries, and redesignated par. (8) as (7) and substituted “through (6)” for “through (7)”.
+    Subsec. (e). [Pub. L. 96–212][/us/pl/96/212], § 203(b)(3)–(7), in introductory text struck out provisions relating to applicability to conditional entries, in par. (2) substituted “(26)” for “(20)”, struck out par. (7) relating to availability of conditional entries, and redesignated par. (8) as (7) and substituted “through (6)” for “through (7)”.
 
     1978—Subsec. (c). [Pub. L. 95–412][/us/pl/95/412] substituted “limitation set forth in subsection (a), to the foreign state,” for “limitations set forth in section 1151(a) and subsection (a), to the hemisphere in which such colony or other component or dependent area is located, and to the foreign state, respectively,” and “six hundred” for “600”.
 
-    1976—Subsec. (a). [Pub. L. 94–571, § 3(1)][/us/pl/94/571/s3/1], struck out last proviso which read: “Provided further, That the foregoing proviso shall not operate to reduce the number of immigrants who may be admitted under the quota of any quota area before June 30, 1968”.
+    1976—Subsec. (a). [Pub. L. 94–571][/us/pl/94/571], § 3(1), struck out last proviso which read: “Provided further, That the foregoing proviso shall not operate to reduce the number of immigrants who may be admitted under the quota of any quota area before June 30, 1968”.
 
-    Subsec. (c). [Pub. L. 94–571, § 3(2)][/us/pl/94/571/s3/2], in revising provisions, substituted “overseas from the foreign state, other than a special immigrant, as defined in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27], or an immediate relative of a United States citizen, as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b], shall be chargeable for the purpose of the limitations set forth in [section 1151(a) of this title][/us/usc/t8/s1151/a] and subsection (a) of this section, to the hemisphere in which such colony or other component or dependent area is located, and to the foreign state, respectively, and the number of immigrant visas available to each such colony or other component or dependent area shall not exceed 600 in any one fiscal year” for “unless a special immigrant as provided in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27] or an immediate relative of a United States citizen as specified in [section 1151(b) of this title][/us/usc/t8/s1151/b], shall be chargeable, for the purpose of limitation set forth in subsection (a) of this section, to the foreign state, except that the number of persons born in any such colony or other component or dependent area overseas from the foreign state chargeable to the foreign state in any one fiscal year shall not exceed 1 per centum of the maximum number of immigrant visas available to such foreign state”.
+    Subsec. (c). [Pub. L. 94–571][/us/pl/94/571], § 3(2), in revising provisions, substituted “overseas from the foreign state, other than a special immigrant, as defined in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27], or an immediate relative of a United States citizen, as defined in [section 1151(b) of this title][/us/usc/t8/s1151/b], shall be chargeable for the purpose of the limitations set forth in [section 1151(a) of this title][/us/usc/t8/s1151/a] and subsection (a) of this section, to the hemisphere in which such colony or other component or dependent area is located, and to the foreign state, respectively, and the number of immigrant visas available to each such colony or other component or dependent area shall not exceed 600 in any one fiscal year” for “unless a special immigrant as provided in [section 1101(a)(27) of this title][/us/usc/t8/s1101/a/27] or an immediate relative of a United States citizen as specified in [section 1151(b) of this title][/us/usc/t8/s1151/b], shall be chargeable, for the purpose of limitation set forth in subsection (a) of this section, to the foreign state, except that the number of persons born in any such colony or other component or dependent area overseas from the foreign state chargeable to the foreign state in any one fiscal year shall not exceed 1 per centum of the maximum number of immigrant visas available to such foreign state”.
 
-    Subsec. (e). [Pub. L. 94–571, § 3(3)][/us/pl/94/571/s3/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 94–571][/us/pl/94/571], § 3(3), added subsec. (e).
 
     1965—Subsec. (a). [Pub. L. 89–236][/us/pl/89/236] substituted provisions prohibiting preferences or priorities or discrimination in the issuance of an immigrant visa because of race, sex, nationality, place of birth, or place of residence, setting a limit of 20,000 per year on the total number of entries available to natives of any single foreign state, and prohibiting the 20,000 limitation from reducing the number of immigrants under the quota of any quota area before June 30, 1968, for provisions calling for the charging of immigrants, with certain exceptions, to the annual quota of the quota area of his birth.
 
@@ -185,7 +185,7 @@
 
     Amendment by [Pub. L. 99–653][/us/pl/99/653] applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see [section 23(a) of Pub. L. 99–653][/us/pl/99/653/s23/a], set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
-[Pub. L. 99–603, title III, § 311(b)][/us/pl/99/603/s311/b], Nov. 6, 1986, [100 Stat. 3434][/us/stat/100/3434], provided that: 
+[Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 311(b), Nov. 6, 1986, [100 Stat. 3434][/us/stat/100/3434], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
 
@@ -207,7 +207,7 @@
 
  __Treatment of Hong Kong Under Per Country Levels__ 
 
-[Pub. L. 101–649, title I, § 103][/us/pl/101/649/s103], Nov. 29, 1990, [104 Stat. 4985][/us/stat/104/4985], provided that: 
+[Pub. L. 101–649, title I][/us/pl/101/649/tI], § 103, Nov. 29, 1990, [104 Stat. 4985][/us/stat/104/4985], provided that: 
 
 > “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[[8 U.S.C. 1152(b)][/us/usc/t8/s1152/b]\] shall be considered to have been granted, effective beginning with fiscal year 1991, with respect to Hong Kong as a separate foreign state, and not as a colony or other component or dependent area of another foreign state, except that the total number of immigrant visas made available to natives of Hong Kong under subsections (a) and (b) of section 203 of such Act \[[8 U.S.C. 1153(a)][/us/usc/t8/s1153/a], (b)\] in each of fiscal years 1991, 1992, and 1993 may not exceed 10,000.”
 
@@ -223,7 +223,7 @@
 
  __Approval by Secretary of State Treating Taiwan (China) as Separate Foreign State for Purposes of Numerical Limitation on Immigrant Visas__ 
 
-[Pub. L. 97–113, title VII, § 714][/us/pl/97/113/s714], Dec. 29, 1981, [95 Stat. 1548][/us/stat/95/1548], provided that: 
+[Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 714, Dec. 29, 1981, [95 Stat. 1548][/us/stat/95/1548], provided that: 
 
 > “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[subsec. (b) of this section\] shall be considered to have been granted with respect to Taiwan (China).”
 
@@ -272,72 +272,72 @@
 [/us/usc/t8/s1153/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa%2F2%2FA
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F176
-[/us/pl/87/301/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs9
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/stat/75/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F654
-[/us/pl/89/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs2
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F911
-[/us/pl/94/571/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571%2Fs3
+[/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
 [/us/stat/90/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2703
-[/us/pl/95/412/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F412%2Fs2
+[/us/pl/95/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F412
 [/us/stat/92/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F907
-[/us/pl/96/212/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs203%2Fb
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F107
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1620
-[/us/pl/99/603/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs311%2Fa
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3434
-[/us/pl/99/653/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs4
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3655
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2617
-[/us/pl/101/649/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102
+[/us/pl/101/649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtI
 [/us/stat/104/4982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4982
-[/us/pl/102/232/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fa%2F3
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1742
-[/us/pl/104/208/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs633
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-701
-[/us/pl/106/313/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs104%2Fa
+[/us/pl/106/313/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtI
 [/us/stat/114/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1252
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/106/313/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs104%2Fb%2F1
-[/us/pl/106/313/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs104%2Fa
-[/us/pl/106/313/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs104%2Fb%2F2
+[/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
+[/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
+[/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102%2F1
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
-[/us/pl/101/649/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102%2F2
-[/us/pl/101/649/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102%2F3
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb
-[/us/pl/101/649/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102%2F4
-[/us/pl/101/649/s102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs102%2F5
-[/us/pl/100/525/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fc
-[/us/pl/99/653/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs4
-[/us/pl/100/525/s9/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Ff%2F1
-[/us/pl/100/525/s9/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Ff%2F2
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
-[/us/pl/100/525/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fc
-[/us/pl/99/603/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs311%2Fa%2F1
-[/us/pl/99/603/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs311%2Fa%2F2
-[/us/pl/97/116/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs20%2Fb
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/usc/t8/s1101/a/27/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27%2FH
-[/us/pl/97/116/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18%2Fc
-[/us/pl/96/212/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs203%2Fb%2F1
-[/us/pl/96/212/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs203%2Fb%2F3
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
 [/us/pl/95/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F412
-[/us/pl/94/571/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571%2Fs3%2F1
-[/us/pl/94/571/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571%2Fs3%2F2
+[/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
+[/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb
 [/us/usc/t8/s1151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fa
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151%2Fb
-[/us/pl/94/571/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571%2Fs3%2F3
+[/us/pl/94/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F571
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
@@ -358,7 +358,7 @@
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/pl/99/653/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs23%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/99/603/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs311%2Fb
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3434
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/97/116/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs21%2Fa
@@ -372,7 +372,7 @@
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/pl/89/236/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs20
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
-[/us/pl/101/649/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs103
+[/us/pl/101/649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtI
 [/us/stat/104/4985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4985
 [/us/usc/t8/s1152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1152%2Fb
 [/us/usc/t8/s1153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa
@@ -383,7 +383,7 @@
 [/us/usc/t8/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255
 [/us/pl/97/116/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs19
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
-[/us/pl/97/113/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs714
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1548
 
 

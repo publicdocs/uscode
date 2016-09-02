@@ -199,7 +199,7 @@
 
         (4) the term “Secretary” means the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 219, as added [Pub. L. 104–132, title III, § 302(a)][/us/pl/104/132/s302/a], Apr. 24, 1996, [110 Stat. 1248][/us/stat/110/1248]; amended [Pub. L. 104–208, div. C, title III, § 356][/us/pl/104/208/s356], title VI, § 671(c)(1), Sept. 30, 1996, [110 Stat. 3009–644][/us/stat/110/3009-644], 3009–722; [Pub. L. 107–56, title IV, § 411(c)][/us/pl/107/56/s411/c], Oct. 26, 2001, [115 Stat. 349][/us/stat/115/349]; [Pub. L. 108–458, title VII, § 7119(a)][/us/pl/108/458/s7119/a]–(c), Dec. 17, 2004, [118 Stat. 3801][/us/stat/118/3801], 3802.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 219, as added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 302(a), Apr. 24, 1996, [110 Stat. 1248][/us/stat/110/1248]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 356, title VI, § 671(c)(1), Sept. 30, 1996, [110 Stat. 3009–644][/us/stat/110/3009-644], 3009–722; [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 411(c), Oct. 26, 2001, [115 Stat. 349][/us/stat/115/349]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7119(a)–(c), Dec. 17, 2004, [118 Stat. 3801][/us/stat/118/3801], 3802.)
 
  __References in Text__ 
 
@@ -211,65 +211,65 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(3)(B). [Pub. L. 108–458, § 7119(c)(1)(A)][/us/pl/108/458/s7119/c/1/A], substituted “subsection (c)” for “subsection (b)”.
+    2004—Subsec. (a)(3)(B). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(1)(A), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (a)(4)(A). [Pub. L. 108–458, § 7119(a)(1)][/us/pl/108/458/s7119/a/1], substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
+    Subsec. (a)(4)(A). [Pub. L. 108–458][/us/pl/108/458], § 7119(a)(1), substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
 
-    Subsec. (a)(4)(B). [Pub. L. 108–458, § 7119(a)(2)][/us/pl/108/458/s7119/a/2], added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
+    Subsec. (a)(4)(B). [Pub. L. 108–458][/us/pl/108/458], § 7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
-    Subsec. (a)(4)(C). [Pub. L. 108–458, § 7119(a)(3)][/us/pl/108/458/s7119/a/3], added subpar. (C).
+    Subsec. (a)(4)(C). [Pub. L. 108–458][/us/pl/108/458], § 7119(a)(3), added subpar. (C).
 
-    Subsec. (a)(6)(A). [Pub. L. 108–458, § 7119(c)(1)(B)(i)][/us/pl/108/458/s7119/c/1/B/i], substituted “at any time, and shall revoke a designation upon completion of a review conducted pursuant to subparagraphs (B) and (C) of paragraph (4)” for “or a redesignation made under paragraph (4)(B)” in introductory provisions.
+    Subsec. (a)(6)(A). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(1)(B)(i), substituted “at any time, and shall revoke a designation upon completion of a review conducted pursuant to subparagraphs (B) and (C) of paragraph (4)” for “or a redesignation made under paragraph (4)(B)” in introductory provisions.
 
-    Subsec. (a)(6)(A)(i). [Pub. L. 108–458, § 7119(c)(1)(B)(ii)][/us/pl/108/458/s7119/c/1/B/ii], struck out “or redesignation” after “the designation”.
+    Subsec. (a)(6)(A)(i). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(1)(B)(ii), struck out “or redesignation” after “the designation”.
 
-    Subsec. (a)(7). [Pub. L. 108–458, § 7119(c)(1)(C)][/us/pl/108/458/s7119/c/1/C], struck out “, or the revocation of a redesignation under paragraph (6),” before “shall not affect”.
+    Subsec. (a)(7). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(1)(C), struck out “, or the revocation of a redesignation under paragraph (6),” before “shall not affect”.
 
-    Subsec. (a)(8). [Pub. L. 108–458, § 7119(c)(1)(D)][/us/pl/108/458/s7119/c/1/D], struck out “, or if a redesignation under this subsection has become effective under paragraph (4)(B),” before “a defendant in a criminal action” and “or redesignation” after “such designation”.
+    Subsec. (a)(8). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(1)(D), struck out “, or if a redesignation under this subsection has become effective under paragraph (4)(B),” before “a defendant in a criminal action” and “or redesignation” after “such designation”.
 
-    Subsec. (b). [Pub. L. 108–458, § 7119(b)(2)][/us/pl/108/458/s7119/b/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 7119(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 108–458, § 7119(b)(1)][/us/pl/108/458/s7119/b/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 108–458][/us/pl/108/458], § 7119(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(1). [Pub. L. 108–458, § 7119(c)(2)(A)][/us/pl/108/458/s7119/c/2/A], substituted “in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
+    Subsec. (c)(1). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(2)(A), substituted “in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review” for “of the designation in the Federal Register, an organization designated as a foreign terrorist organization may seek judicial review of the designation”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 108–458, § 7119(c)(2)(B)][/us/pl/108/458/s7119/c/2/B]–(D), inserted “, amended designation, or determination in response to a petition for revocation” after “designation” wherever appearing.
+    Subsec. (c)(2) to (4). [Pub. L. 108–458][/us/pl/108/458], § 7119(c)(2)(B)–(D), inserted “, amended designation, or determination in response to a petition for revocation” after “designation” wherever appearing.
 
-    Subsec. (d). [Pub. L. 108–458, § 7119(b)(1)][/us/pl/108/458/s7119/b/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 7119(b)(1), redesignated subsec. (c) as (d).
 
-    2001—Subsec. (a)(1)(B). [Pub. L. 107–56, § 411(c)(1)][/us/pl/107/56/s411/c/1], inserted “or terrorism (as defined in [section 2656f(d)(2) of title 22][/us/usc/t22/s2656f/d/2]), or retains the capability and intent to engage in terrorist activity or terrorism” after “[section 1182(a)(3)(B) of this title][/us/usc/t8/s1182/a/3/B]”.
+    2001—Subsec. (a)(1)(B). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(1), inserted “or terrorism (as defined in [section 2656f(d)(2) of title 22][/us/usc/t22/s2656f/d/2]), or retains the capability and intent to engage in terrorist activity or terrorism” after “[section 1182(a)(3)(B) of this title][/us/usc/t8/s1182/a/3/B]”.
 
-    Subsec. (a)(1)(C). [Pub. L. 107–56, § 411(c)(2)][/us/pl/107/56/s411/c/2], inserted “or terrorism” after “the terrorist activity”.
+    Subsec. (a)(1)(C). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(2), inserted “or terrorism” after “the terrorist activity”.
 
-    Subsec. (a)(2)(A). [Pub. L. 107–56, § 411(c)(3)][/us/pl/107/56/s411/c/3], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
+    Subsec. (a)(2)(A). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
 
     “(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
 
     “(ii) seven days after such notification, publish the designation in the Federal Register.”
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 107–56, § 411(c)(4)][/us/pl/107/56/s411/c/4], substituted “subparagraph (A)(ii)” for “subparagraph (A)”.
+    Subsec. (a)(2)(B)(i). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(4), substituted “subparagraph (A)(ii)” for “subparagraph (A)”.
 
-    Subsec. (a)(2)(C). [Pub. L. 107–56, § 411(c)(5)][/us/pl/107/56/s411/c/5], substituted “paragraph (2)(A)(i)” for “paragraph (2)”.
+    Subsec. (a)(2)(C). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(5), substituted “paragraph (2)(A)(i)” for “paragraph (2)”.
 
-    Subsec. (a)(3)(B). [Pub. L. 107–56, § 411(c)(6)][/us/pl/107/56/s411/c/6], substituted “subsection (b)” for “subsection (c)”.
+    Subsec. (a)(3)(B). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(6), substituted “subsection (b)” for “subsection (c)”.
 
-    Subsec. (a)(4)(B). [Pub. L. 107–56, § 411(c)(7)][/us/pl/107/56/s411/c/7], inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
+    Subsec. (a)(4)(B). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
 
-    Subsec. (a)(6)(A). [Pub. L. 107–56, § 411(c)(8)(A)][/us/pl/107/56/s411/c/8/A], inserted “or a redesignation made under paragraph (4)(B)” after “paragraph (1)” in introductory provisions.
+    Subsec. (a)(6)(A). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(8)(A), inserted “or a redesignation made under paragraph (4)(B)” after “paragraph (1)” in introductory provisions.
 
-    Subsec. (a)(6)(A)(i). [Pub. L. 107–56, § 411(c)(8)(B)][/us/pl/107/56/s411/c/8/B], inserted “or redesignation” after “basis for the designation” and struck out “of the designation” before semicolon.
+    Subsec. (a)(6)(A)(i). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(8)(B), inserted “or redesignation” after “basis for the designation” and struck out “of the designation” before semicolon.
 
-    Subsec. (a)(6)(A)(ii). [Pub. L. 107–56, § 411(c)(8)(C)][/us/pl/107/56/s411/c/8/C], struck out “of the designation” before period at end.
+    Subsec. (a)(6)(A)(ii). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(8)(C), struck out “of the designation” before period at end.
 
-    Subsec. (a)(6)(B). [Pub. L. 107–56, § 411(c)(9)][/us/pl/107/56/s411/c/9], substituted “and (3)” for “through (4)” and inserted “Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.” at end.
+    Subsec. (a)(6)(B). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(9), substituted “and (3)” for “through (4)” and inserted “Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.” at end.
 
-    Subsec. (a)(7). [Pub. L. 107–56, § 411(c)(10)][/us/pl/107/56/s411/c/10], inserted “, or the revocation of a redesignation under paragraph (6),” after “paragraph (5) or (6)”.
+    Subsec. (a)(7). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(10), inserted “, or the revocation of a redesignation under paragraph (6),” after “paragraph (5) or (6)”.
 
-    Subsec. (a)(8). [Pub. L. 107–56, § 411(c)(11)][/us/pl/107/56/s411/c/11], substituted “paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B)” for “paragraph (1)(B)” and inserted “or an alien in a removal proceeding” after “criminal action” and “or redesignation” before “as a defense”.
+    Subsec. (a)(8). [Pub. L. 107–56][/us/pl/107/56], § 411(c)(11), substituted “paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B)” for “paragraph (1)(B)” and inserted “or an alien in a removal proceeding” after “criminal action” and “or redesignation” before “as a defense”.
 
-    1996—[Pub. L. 104–208, § 671(c)(1)][/us/pl/104/208/s671/c/1], made technical amendment to section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 671(c)(1), made technical amendment to section catchline.
 
-    Subsec. (b)(3)(D), (E). [Pub. L. 104–208, § 356][/us/pl/104/208/s356], added subpars. (D) and (E).
+    Subsec. (b)(3)(D), (E). [Pub. L. 104–208][/us/pl/104/208], § 356, added subpars. (D) and (E).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -279,7 +279,7 @@
 
     Amendment by [section 356 of Pub. L. 104–208][/us/pl/104/208/s356] effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, [Pub. L. 104–132][/us/pl/104/132], see [section 358 of Pub. L. 104–208][/us/pl/104/208/s358], set out as a note under [section 1182 of this title][/us/usc/t8/s1182].
 
-[Pub. L. 104–208, div. C, title VI, § 671(c)(7)][/us/pl/104/208/s671/c/7], Sept. 30, 1996, [110 Stat. 3009–723][/us/stat/110/3009-723], provided that: 
+[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 671(c)(7), Sept. 30, 1996, [110 Stat. 3009–723][/us/stat/110/3009-723], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 1105a and 1252a of this title\] shall take effect as if included in the enactment of subtitle A of title IV of AEPDA \[AEDPA, [Pub. L. 104–132][/us/pl/104/132]\].”
 
@@ -289,7 +289,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 108–458, title VII, § 7119(d)][/us/pl/108/458/s7119/d], Dec. 17, 2004, [118 Stat. 3803][/us/stat/118/3803], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7119(d), Dec. 17, 2004, [118 Stat. 3803][/us/stat/118/3803], provided that: 
 
 > “For purposes of applying section 219 of the Immigration and Nationality Act \[[8 U.S.C. 1189][/us/usc/t8/s1189]\] on or after the date of enactment of this Act \[Dec. 17, 2004\], the term ‘designation’, as used in that section, includes all redesignations made pursuant to section 219(a)(4)(B) of the Immigration and Nationality Act ([8 U.S.C. 1189(a)(4)(B)][/us/usc/t8/s1189/a/4/B]) prior to the date of enactment of this Act, and such redesignations shall continue to be effective until revoked as provided in paragraph (5) or (6) of section 219(a) of the Immigration and Nationality Act ([8 U.S.C. 1189(a)][/us/usc/t8/s1189/a]).”
 
@@ -305,47 +305,47 @@
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
 [/us/usc/t18/s2339B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339B
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs302%2Fa
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1248
-[/us/pl/104/208/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs356
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-644
-[/us/pl/107/56/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F349
-[/us/pl/108/458/s7119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3801
 [/us/pl/96/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1%2Fa
 [/us/pl/107/56/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
-[/us/pl/108/458/s7119/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F1%2FA
-[/us/pl/108/458/s7119/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fa%2F1
-[/us/pl/108/458/s7119/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fa%2F2
-[/us/pl/108/458/s7119/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fa%2F3
-[/us/pl/108/458/s7119/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F1%2FB%2Fi
-[/us/pl/108/458/s7119/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F1%2FB%2Fii
-[/us/pl/108/458/s7119/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F1%2FC
-[/us/pl/108/458/s7119/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F1%2FD
-[/us/pl/108/458/s7119/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fb%2F2
-[/us/pl/108/458/s7119/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fb%2F1
-[/us/pl/108/458/s7119/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F2%2FA
-[/us/pl/108/458/s7119/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fc%2F2%2FB
-[/us/pl/108/458/s7119/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fb%2F1
-[/us/pl/107/56/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F1
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t22/s2656f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd%2F2
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
-[/us/pl/107/56/s411/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F2
-[/us/pl/107/56/s411/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F3
-[/us/pl/107/56/s411/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F4
-[/us/pl/107/56/s411/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F5
-[/us/pl/107/56/s411/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F6
-[/us/pl/107/56/s411/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F7
-[/us/pl/107/56/s411/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F8%2FA
-[/us/pl/107/56/s411/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F8%2FB
-[/us/pl/107/56/s411/c/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F8%2FC
-[/us/pl/107/56/s411/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F9
-[/us/pl/107/56/s411/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F10
-[/us/pl/107/56/s411/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc%2F11
-[/us/pl/104/208/s671/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fc%2F1
-[/us/pl/104/208/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs356
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
@@ -353,11 +353,11 @@
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/208/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs358
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
-[/us/pl/104/208/s671/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fc%2F7
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-723
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/108/458/s7119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7119%2Fd
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3803
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
 [/us/usc/t8/s1189/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189%2Fa%2F4%2FB

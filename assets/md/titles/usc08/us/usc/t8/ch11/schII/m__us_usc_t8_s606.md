@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch11/schII/m__us_usc_t8_ch11_schII.md) | [Next](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_ch11_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs606)
+[Previous](./../../../../..//us/usc/t8/ch11/schII/m__us_usc_t8_s601...605.md) | [Next](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_ch11_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs606)
 
 ## § 606. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t8/ch11/schII/m__us_usc_t8_ch11_schII.md) | [Next](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_ch11_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs606)
+[Previous](./../../../../..//us/usc/t8/ch11/schII/m__us_usc_t8_s601...605.md) | [Next](./../../../../..//us/usc/t8/ch11/schIII/m__us_usc_t8_ch11_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs606)
 
 ----------
 ----------

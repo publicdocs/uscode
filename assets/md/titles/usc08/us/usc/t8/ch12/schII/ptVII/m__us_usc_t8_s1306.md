@@ -31,7 +31,7 @@
 
         Any person who with unlawful intent photographs, prints, or in any other manner makes, or executes, any engraving, photograph, print, or impression in the likeness of any certificate of alien registration or an alien registration receipt card or any colorable imitation thereof, except when and as authorized under such rules and regulations as may be prescribed by the Attorney General, shall upon conviction be fined not to exceed $5,000 or be imprisoned not more than five years, or both.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 266, [66 Stat. 225][/us/stat/66/225]; [Pub. L. 104–208, div. C, title III, § 308(e)(2)(G)][/us/pl/104/208/s308/e/2/G], (g)(9)(A), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620], 3009–624.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 266, [66 Stat. 225][/us/stat/66/225]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(2)(G), (g)(9)(A), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620], 3009–624.)
 
  __Amendments__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t8/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1305
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F225
-[/us/pl/104/208/s308/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F2%2FG
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-620
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

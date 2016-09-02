@@ -57,13 +57,13 @@
 
             Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in [section 1030(e) of title 18][/us/usc/t18/s1030/e]), and who uses such information in the manner described in any of the paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
 
-([Pub. L. 107–173, title II, § 201][/us/pl/107/173/s201], May 14, 2002, [116 Stat. 547][/us/stat/116/547]; [Pub. L. 108–177, title III, § 377(f)][/us/pl/108/177/s377/f], Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631].)
+([Pub. L. 107–173, title II][/us/pl/107/173/tII], § 201, May 14, 2002, [116 Stat. 547][/us/stat/116/547]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 377(f), Dec. 13, 2003, [117 Stat. 2631][/us/stat/117/2631].)
 
  __References in Text__ 
 
     The Immigration and Nationality Act, referred to in subsec. (b)(1), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
-    [Section 403–3 of title 50][/us/usc/t50/s403–3], referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3655, and subsequently editorially reclassified to [section 3025 of Title 50][/us/usc/t50/s3025], War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See [section 3024 of Title 50][/us/usc/t50/s3024].
+    [Section 403–3 of title 50][/us/usc/t50/s403–3], referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1011(a), Dec. 17, 2004, [118 Stat. 3643][/us/stat/118/3643], 3655, and subsequently editorially reclassified to [section 3025 of Title 50][/us/usc/t50/s3025], War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See [section 3024 of Title 50][/us/usc/t50/s3024].
 
  __Codification__ 
 
@@ -79,7 +79,7 @@
 
  __Enhancement of Communications Integration and Information Sharing on Border Security__ 
 
-[Pub. L. 109–13, div. B, title III, § 303][/us/pl/109/13/s303], May 11, 2005, [119 Stat. 317][/us/stat/119/317], provided that:
+[Pub. L. 109–13, div. B, title III][/us/pl/109/13/dB/tIII], § 303, May 11, 2005, [119 Stat. 317][/us/stat/119/317], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -103,15 +103,15 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t50/s403–3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F7
 [/us/usc/t18/s1030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fe
-[/us/pl/107/173/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs201
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F547
-[/us/pl/108/177/s377/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs377%2Ff
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2631
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t50/s403–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933
-[/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3643
 [/us/usc/t50/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3025
 [/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
@@ -124,7 +124,7 @@
 [/us/usc/t50/s403–3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F7
 [/us/usc/t50/s403–3/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%933%2Fc%2F6
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/109/13/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs303
+[/us/pl/109/13/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtIII
 [/us/stat/119/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F317
 
 

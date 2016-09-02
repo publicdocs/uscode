@@ -35,7 +35,7 @@
 
             (C) [Section 2371(a) of title 22][/us/usc/t22/s2371/a].
 
-([Pub. L. 107–173, title III, § 306][/us/pl/107/173/s306], May 14, 2002, [116 Stat. 555][/us/stat/116/555].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 306, May 14, 2002, [116 Stat. 555][/us/stat/116/555].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
-[/us/pl/107/173/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs306
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F555
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

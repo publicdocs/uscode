@@ -97,15 +97,15 @@
 
         A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 310, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 85–508, § 25][/us/pl/85/508/s25], July 7, 1958, [72 Stat. 351][/us/stat/72/351]; [Pub. L. 86–3, § 20(c)][/us/pl/86/3/s20/c], Mar. 18, 1959, [73 Stat. 13][/us/stat/73/13]; [Pub. L. 87–301, § 17][/us/pl/87/301/s17], Sept. 26, 1961, [75 Stat. 656][/us/stat/75/656]; [Pub. L. 100–525, § 9(s)][/us/pl/100/525/s9/s], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 401(a)][/us/pl/101/649/s401/a], Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038]; [Pub. L. 102–232, title I, § 102(a)][/us/pl/102/232/s102/a], title III, § 305(a), Dec. 12, 1991, [105 Stat. 1734][/us/stat/105/1734], 1749; [Pub. L. 103–416, title II, § 219(u)][/us/pl/103/416/s219/u], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 310, [66 Stat. 239][/us/stat/66/239]; [Pub. L. 85–508][/us/pl/85/508], § 25, July 7, 1958, [72 Stat. 351][/us/stat/72/351]; [Pub. L. 86–3][/us/pl/86/3], § 20(c), Mar. 18, 1959, [73 Stat. 13][/us/stat/73/13]; [Pub. L. 87–301][/us/pl/87/301], § 17, Sept. 26, 1961, [75 Stat. 656][/us/stat/75/656]; [Pub. L. 100–525][/us/pl/100/525], § 9(s), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 401(a), Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038]; [Pub. L. 102–232, title I][/us/pl/102/232/tI], § 102(a), title III, § 305(a), Dec. 12, 1991, [105 Stat. 1734][/us/stat/105/1734], 1749; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(u), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318].)
 
  __Amendments__ 
 
     1994—Subsec. (b)(5)(A). [Pub. L. 103–416][/us/pl/103/416] substituted “district court” for “District Court”.
 
-    1991—Subsec. (b). [Pub. L. 102–232, § 102(a)][/us/pl/102/232/s102/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An applicant for naturalization may choose to have the oath of allegiance under [section 1448(a) of this title][/us/usc/t8/s1448/a] administered by the Attorney General or by any district court of the United States for any State or by any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited. The jurisdiction of all courts in this subsection specified to administer the oath of allegiance shall extend only to persons resident within the respective jurisdiction of such courts.”
+    1991—Subsec. (b). [Pub. L. 102–232][/us/pl/102/232], § 102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An applicant for naturalization may choose to have the oath of allegiance under [section 1448(a) of this title][/us/usc/t8/s1448/a] administered by the Attorney General or by any district court of the United States for any State or by any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited. The jurisdiction of all courts in this subsection specified to administer the oath of allegiance shall extend only to persons resident within the respective jurisdiction of such courts.”
 
-    [Pub. L. 102–232, § 305(a)][/us/pl/102/232/s305/a], substituted “district court” for “District Court”.
+    [Pub. L. 102–232][/us/pl/102/232], § 305(a), substituted “district court” for “District Court”.
 
     1990—[Pub. L. 101–649][/us/pl/101/649] amended section generally, substituting provisions authorizing Attorney General to naturalize persons as citizens, for provisions granting certain courts exclusive jurisdiction to naturalize.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–232, title I, § 102(c)][/us/pl/102/232/s102/c], Dec. 12, 1991, [105 Stat. 1736][/us/stat/105/1736], provided that: 
+[Pub. L. 102–232, title I][/us/pl/102/232/tI], § 102(c), Dec. 12, 1991, [105 Stat. 1736][/us/stat/105/1736], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1990 Amendment; Savings Provision__ 
 
-[Pub. L. 101–649, title IV, § 408][/us/pl/101/649/s408], Nov. 29, 1990, [104 Stat. 5047][/us/stat/104/5047], as amended by [Pub. L. 102–232, title III, § 305(n)][/us/pl/102/232/s305/n], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that:
+[Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 408, Nov. 29, 1990, [104 Stat. 5047][/us/stat/104/5047], as amended by [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(n), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that:
 
 >     “(a) __Effective Date.—__ 
 
@@ -199,24 +199,24 @@
 [/us/usc/t8/s1447/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F239
-[/us/pl/85/508/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs25
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F351
-[/us/pl/86/3/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs20%2Fc
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F13
-[/us/pl/87/301/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs17
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/stat/75/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F656
-[/us/pl/100/525/s9/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fs
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs401%2Fa
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5038
-[/us/pl/102/232/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fa
+[/us/pl/102/232/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtI
 [/us/stat/105/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1734
-[/us/pl/103/416/s219/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fu
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/102/232/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fa
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/usc/t8/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1448%2Fa
-[/us/pl/102/232/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fa
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
@@ -228,15 +228,15 @@
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/103/416/s219/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fdd
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/102/232/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fc
+[/us/pl/102/232/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtI
 [/us/stat/105/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1736
 [/us/pl/102/232/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fa
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs310%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/101/649/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs408
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5047
-[/us/pl/102/232/s305/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fn
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/usc/t8/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fa
 [/us/usc/t18/s1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1429

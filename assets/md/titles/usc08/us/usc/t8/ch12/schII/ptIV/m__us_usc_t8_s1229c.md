@@ -133,11 +133,11 @@
 
         No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b), nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240B, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)][/us/pl/104/208/s304/a/3], Sept. 30, 1996, [110 Stat. 3009–596][/us/stat/110/3009-596]; amended [Pub. L. 106–406, § 2][/us/pl/106/406/s2], Nov. 1, 2000, [114 Stat. 1755][/us/stat/114/1755]; [Pub. L. 109–162, title VIII, § 812][/us/pl/109/162/s812], Jan. 5, 2006, [119 Stat. 3057][/us/stat/119/3057].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240B, as added [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(a)(3), Sept. 30, 1996, [110 Stat. 3009–596][/us/stat/110/3009-596]; amended [Pub. L. 106–406][/us/pl/106/406], § 2, Nov. 1, 2000, [114 Stat. 1755][/us/stat/114/1755]; [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 812, Jan. 5, 2006, [119 Stat. 3057][/us/stat/119/3057].)
 
  __References in Text__ 
 
-    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsec. (d)(2), was repealed by [Pub. L. 104–208, div. C, title III, § 308(b)(7)][/us/pl/104/208/s308/b/7], Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
+    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsec. (d)(2), was repealed by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(b)(7), Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
 
  __Amendments__ 
 
@@ -173,14 +173,14 @@
 [/us/usc/t8/s1229b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb%2F2
 [/us/usc/t8/s1254/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fa%2F3
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-596
-[/us/pl/106/406/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F406%2Fs2
+[/us/pl/106/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F406
 [/us/stat/114/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1755
-[/us/pl/109/162/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs812
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3057
 [/us/usc/t8/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254
-[/us/pl/104/208/s308/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fb%2F7
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-615
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F406

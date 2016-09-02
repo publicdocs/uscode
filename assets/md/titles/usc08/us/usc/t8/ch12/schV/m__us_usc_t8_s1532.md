@@ -57,7 +57,7 @@
 
         (2) has agreed to represent permanent resident aliens with respect to classified information under [section 1534(e)(3) of this title][/us/usc/t8/s1534/e/3] in accordance with (and subject to the penalties under) this subchapter.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 502, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1259][/us/stat/110/1259]; amended [Pub. L. 104–208, div. C, title III, § 354(a)(4)][/us/pl/104/208/s354/a/4], Sept. 30, 1996, [110 Stat. 3009–643][/us/stat/110/3009-643].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 502, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1259][/us/stat/110/1259]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 354(a)(4), Sept. 30, 1996, [110 Stat. 3009–643][/us/stat/110/3009-643].)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t8/s1534/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1534%2Fe%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1259
-[/us/pl/104/208/s354/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F4
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-643
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783

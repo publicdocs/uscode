@@ -205,7 +205,7 @@
 
             For purposes of this subsection, the term “in practice” refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 258, as added [Pub. L. 101–649, title II, § 203(a)(1)][/us/pl/101/649/s203/a/1], Nov. 29, 1990, [104 Stat. 5015][/us/stat/104/5015]; amended [Pub. L. 102–232, title III, § 303(a)(4)][/us/pl/102/232/s303/a/4], Dec. 12, 1991, [105 Stat. 1747][/us/stat/105/1747]; [Pub. L. 103–198, § 8(a)][/us/pl/103/198/s8/a], (b), Dec. 17, 1993, [107 Stat. 2313][/us/stat/107/2313], 2315; [Pub. L. 103–206, title III, § 323(a)][/us/pl/103/206/s323/a], (b), Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428], 2430; [Pub. L. 103–416, title II, § 219(f)][/us/pl/103/416/s219/f], (gg), Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317], 4319; [Pub. L. 104–208, div. C, title VI, § 671(e)(4)(B)][/us/pl/104/208/s671/e/4/B], Sept. 30, 1996, [110 Stat. 3009–723][/us/stat/110/3009-723].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 258, as added [Pub. L. 101–649, title II][/us/pl/101/649/tII], § 203(a)(1), Nov. 29, 1990, [104 Stat. 5015][/us/stat/104/5015]; amended [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 303(a)(4), Dec. 12, 1991, [105 Stat. 1747][/us/stat/105/1747]; [Pub. L. 103–198][/us/pl/103/198], § 8(a), (b), Dec. 17, 1993, [107 Stat. 2313][/us/stat/107/2313], 2315; [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 323(a), (b), Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428], 2430; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(f), (gg), Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317], 4319; [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 671(e)(4)(B), Sept. 30, 1996, [110 Stat. 3009–723][/us/stat/110/3009-723].)
 
  __References in Text__ 
 
@@ -217,21 +217,21 @@
 
     1996—Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208] substituted “section 5103(b), 5104, 5106, 5107, or 5110 of title 49” for “section 105 or 106 of the Hazardous Materials Transportation Act (49 U.S.C. App. 1804, 1805)”.
 
-    1994—Subsecs. (a), (c)(4)(A), (5). [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg], repealed [Pub. L. 103–198, § 8(b)][/us/pl/103/198/s8/b], which had made amendments identical to those made by [Pub. L. 103–206, § 323(b)][/us/pl/103/206/s323/b]. See 1993 Amendment note below.
+    1994—Subsecs. (a), (c)(4)(A), (5). [Pub. L. 103–416][/us/pl/103/416], § 219(gg), repealed [Pub. L. 103–198][/us/pl/103/198], § 8(b), which had made amendments identical to those made by [Pub. L. 103–206][/us/pl/103/206], § 323(b). See 1993 Amendment note below.
 
-    Subsec. (d). [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg], repealed [Pub. L. 103–198, § 8(a)][/us/pl/103/198/s8/a], which had made an amendment substantially identical to that made by [Pub. L. 103–206, § 323(a)][/us/pl/103/206/s323/a]. See 1993 Amendment note below.
+    Subsec. (d). [Pub. L. 103–416][/us/pl/103/416], § 219(gg), repealed [Pub. L. 103–198][/us/pl/103/198], § 8(a), which had made an amendment substantially identical to that made by [Pub. L. 103–206][/us/pl/103/206], § 323(a). See 1993 Amendment note below.
 
-    Subsec. (d)(3)(B). [Pub. L. 103–416, § 219(f)][/us/pl/103/416/s219/f], substituted “subparagraph (A)(iii)” for “subparagraph (A)”.
+    Subsec. (d)(3)(B). [Pub. L. 103–416][/us/pl/103/416], § 219(f), substituted “subparagraph (A)(iii)” for “subparagraph (A)”.
 
-    Subsec. (e). [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg], repealed [Pub. L. 103–198, § 8(a)][/us/pl/103/198/s8/a], which had made an amendment substantially identical to that made by [Pub. L. 103–206, § 323(a)][/us/pl/103/206/s323/a]. See 1993 Amendment note below.
+    Subsec. (e). [Pub. L. 103–416][/us/pl/103/416], § 219(gg), repealed [Pub. L. 103–198][/us/pl/103/198], § 8(a), which had made an amendment substantially identical to that made by [Pub. L. 103–206][/us/pl/103/206], § 323(a). See 1993 Amendment note below.
 
-    1993—Subsec. (a). [Pub. L. 103–206, § 323(b)(1)][/us/pl/103/206/s323/b/1], substituted “subsection (c), (d), or (e)” for “subsection (c) or subsection (d)”. [Pub. L. 103–198, § 8(b)(1)][/us/pl/103/198/s8/b/1], which amended subsec. (a) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206], § 323(b)(1), substituted “subsection (c), (d), or (e)” for “subsection (c) or subsection (d)”. [Pub. L. 103–198][/us/pl/103/198], § 8(b)(1), which amended subsec. (a) identically, was repealed by [Pub. L. 103–416][/us/pl/103/416], § 219(gg).
 
-    Subsec. (c)(4)(A). [Pub. L. 103–206, § 323(b)(2)][/us/pl/103/206/s323/b/2], inserted “or subsection (d)(1)” after “paragraph (1)” in two places. [Pub. L. 103–198, § 8(b)(2)][/us/pl/103/198/s8/b/2], which amended subpar. (A) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    Subsec. (c)(4)(A). [Pub. L. 103–206][/us/pl/103/206], § 323(b)(2), inserted “or subsection (d)(1)” after “paragraph (1)” in two places. [Pub. L. 103–198][/us/pl/103/198], § 8(b)(2), which amended subpar. (A) identically, was repealed by [Pub. L. 103–416][/us/pl/103/416], § 219(gg).
 
-    Subsec. (c)(5). [Pub. L. 103–206, § 323(b)(3)][/us/pl/103/206/s323/b/3], added par. (5). [Pub. L. 103–198, § 8(b)(3)][/us/pl/103/198/s8/b/3], which amended subsec. (c) identically, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    Subsec. (c)(5). [Pub. L. 103–206][/us/pl/103/206], § 323(b)(3), added par. (5). [Pub. L. 103–198][/us/pl/103/198], § 8(b)(3), which amended subsec. (c) identically, was repealed by [Pub. L. 103–416][/us/pl/103/416], § 219(gg).
 
-    Subsecs. (d), (e). [Pub. L. 103–206, § 323(a)][/us/pl/103/206/s323/a], added subsec. (d) and redesignated former subsec. (d) as (e). [Pub. L. 103–198, § 8(a)][/us/pl/103/198/s8/a], which made substantially identical amendments to this section, was repealed by [Pub. L. 103–416, § 219(gg)][/us/pl/103/416/s219/gg].
+    Subsecs. (d), (e). [Pub. L. 103–206][/us/pl/103/206], § 323(a), added subsec. (d) and redesignated former subsec. (d) as (e). [Pub. L. 103–198][/us/pl/103/198], § 8(a), which made substantially identical amendments to this section, was repealed by [Pub. L. 103–416][/us/pl/103/416], § 219(gg).
 
     1991—Subsec. (c)(2)(B). [Pub. L. 102–232][/us/pl/102/232] substituted “each list” for “each such list”.
 
@@ -249,13 +249,13 @@
 
  __Regulations__ 
 
-[Pub. L. 103–206, title III, § 323(c)][/us/pl/103/206/s323/c], Dec. 20, 1993, [107 Stat. 2430][/us/stat/107/2430], provided that:
+[Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 323(c), Dec. 20, 1993, [107 Stat. 2430][/us/stat/107/2430], provided that:
 
 >     “(1) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this section \[amending this section\].
 
 >     “(2) Attestations filed pursuant to section 258(c) ([8 U.S.C. 1288(c)][/us/usc/t8/s1288/c]) with the Secretary of Labor before the date of enactment of this Act \[Dec. 20, 1993\] shall remain valid until 60 days after the date of issuance of final regulations by the Secretary under this section.”
 
-    Similar provisions were contained in [Pub. L. 103–198, § 8(c)][/us/pl/103/198/s8/c], Dec. 17, 1993, [107 Stat. 2315][/us/stat/107/2315], prior to repeal by [Pub. L. 103–416, title II, § 219(gg)][/us/pl/103/416/s219/gg], Oct. 25, 1994, [108 Stat. 4319][/us/stat/108/4319].
+    Similar provisions were contained in [Pub. L. 103–198][/us/pl/103/198], § 8(c), Dec. 17, 1993, [107 Stat. 2315][/us/stat/107/2315], prior to repeal by [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(gg), Oct. 25, 1994, [108 Stat. 4319][/us/stat/108/4319].
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -263,7 +263,7 @@
 
  __Inapplicability of Amendment by__  __[__  __Pub. L. 101–649__  __][/us/pl/101/649]__ 
 
-[Pub. L. 101–649, title II, § 203(a)(2)][/us/pl/101/649/s203/a/2], Nov. 29, 1990, [104 Stat. 5018][/us/stat/104/5018], provided that: 
+[Pub. L. 101–649, title II][/us/pl/101/649/tII], § 203(a)(2), Nov. 29, 1990, [104 Stat. 5018][/us/stat/104/5018], provided that: 
 
 > “This section \[enacting this section, amending [section 1101 of this title][/us/usc/t8/s1101], and enacting provisions set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
 
@@ -284,17 +284,17 @@
 [/us/usc/t33/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs932
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/101/649/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs203%2Fa%2F1
+[/us/pl/101/649/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtII
 [/us/stat/104/5015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5015
-[/us/pl/102/232/s303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs303%2Fa%2F4
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1747
-[/us/pl/103/198/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fa
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2313
-[/us/pl/103/206/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fa
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2428
-[/us/pl/103/416/s219/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Ff
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4317
-[/us/pl/104/208/s671/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fe%2F4%2FB
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-723
 [/us/pl/101/380/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4106
 [/us/stat/104/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F513
@@ -303,28 +303,28 @@
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452
 [/us/usc/t29/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs167
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/198/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fb
-[/us/pl/103/206/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fb
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/198/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fa
-[/us/pl/103/206/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fa
-[/us/pl/103/416/s219/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Ff
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/198/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fa
-[/us/pl/103/206/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fa
-[/us/pl/103/206/s323/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fb%2F1
-[/us/pl/103/198/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fb%2F1
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/206/s323/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fb%2F2
-[/us/pl/103/198/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fb%2F2
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/206/s323/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fb%2F3
-[/us/pl/103/198/s8/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fb%2F3
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
-[/us/pl/103/206/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fa
-[/us/pl/103/198/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fa
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
@@ -336,16 +336,16 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/101/649/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs203%2Fd
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/103/206/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs323%2Fc
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2430
 [/us/usc/t8/s1288/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1288%2Fc
-[/us/pl/103/198/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198%2Fs8%2Fc
+[/us/pl/103/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F198
 [/us/stat/107/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2315
-[/us/pl/103/416/s219/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fgg
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4319
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/101/649/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs203%2Fa%2F2
+[/us/pl/101/649/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtII
 [/us/stat/104/5018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5018
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

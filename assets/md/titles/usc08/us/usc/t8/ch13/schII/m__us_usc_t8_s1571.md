@@ -27,7 +27,7 @@
 
         It is the sense of Congress that the processing of an immigration benefit application should be completed not later than 180 days after the initial filing of the application, except that a petition for a nonimmigrant visa under [section 1184(c) of this title][/us/usc/t8/s1184/c] should be processed not later than 30 days after the filing of the petition.
 
-([Pub. L. 106–313, title II, § 202][/us/pl/106/313/s202], Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262].)
+([Pub. L. 106–313, title II][/us/pl/106/313/tII], § 202, Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262].)
 
  __Short Title__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t8/s1184/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fc
-[/us/pl/106/313/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs202
+[/us/pl/106/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtII
 [/us/stat/114/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1262
 [/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
 [/us/pl/106/313/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs201

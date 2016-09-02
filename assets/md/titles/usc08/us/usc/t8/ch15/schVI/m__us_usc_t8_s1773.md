@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to impose requirements that are inconsistent with the North American Free Trade Agreement or to require additional documents for aliens for whom documentary requirements are waived under [section 1182(d)(4)(B) of this title][/us/usc/t8/s1182/d/4/B].
 
-([Pub. L. 107–173, title VI, § 604][/us/pl/107/173/s604], May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
+([Pub. L. 107–173, title VI][/us/pl/107/173/tVI], § 604, May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t8/s1182/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F4%2FB
-[/us/pl/107/173/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs604
+[/us/pl/107/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtVI
 [/us/stat/116/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F565
 [/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
 [/us/stat/116/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F543

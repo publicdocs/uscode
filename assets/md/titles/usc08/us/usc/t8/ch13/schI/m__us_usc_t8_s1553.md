@@ -21,11 +21,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 342b–1 of Title 5][/us/usc/t5/s342b–1] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 342b–1 of Title 5][/us/usc/t5/s342b–1] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act July 7, 1955, ch. 279][/us/act/1955-07-07/ch279], title II, § 201, [69 Stat. 272][/us/stat/69/272].
+    Provisions similar to those in this section were contained in [act July 7, 1955, ch. 279, title II][/us/act/1955-07-07/ch279/tII], § 201, [69 Stat. 272][/us/stat/69/272].
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -45,9 +45,9 @@
 [/us/act/1956-06-20/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch414
 [/us/stat/70/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F307
 [/us/usc/t5/s342b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs342b%E2%80%931
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/act/1955-07-07/ch279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch279
+[/us/act/1955-07-07/ch279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch279%2FtII
 [/us/stat/69/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F272
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

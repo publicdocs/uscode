@@ -101,19 +101,19 @@
 
             The determinations and actions of the Attorney General pursuant to [section 1537(b)(2)(C) of this title][/us/usc/t8/s1537/b/2/C] shall not be subject to judicial review, including application for a writ of habeas corpus, except for a claim by the alien that continued detention violates the alien’s rights under the Constitution. Jurisdiction over any such challenge shall lie exclusively in the United States Court of Appeals for the District of Columbia Circuit.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 505, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1263][/us/stat/110/1263]; amended [Pub. L. 104–208, div. C, title III, § 354(a)(3)][/us/pl/104/208/s354/a/3], Sept. 30, 1996, [110 Stat. 3009–642][/us/stat/110/3009-642].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 505, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1263][/us/stat/110/1263]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 354(a)(3), Sept. 30, 1996, [110 Stat. 3009–642][/us/stat/110/3009-642].)
 
  __Amendments__ 
 
-    1996—Subsec. (c)(1). [Pub. L. 104–208, § 354(a)(3)(A)][/us/pl/104/208/s354/a/3/A], substituted “Subject to paragraph (2), the decision” for “The decision”.
+    1996—Subsec. (c)(1). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(3)(A), substituted “Subject to paragraph (2), the decision” for “The decision”.
 
-    Subsec. (c)(2). [Pub. L. 104–208, § 354(a)(3)(D)][/us/pl/104/208/s354/a/3/D], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(3)(D), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 104–208, § 354(a)(3)(C)][/us/pl/104/208/s354/a/3/C], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (c)(3). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(3)(C), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (c)(3)(D). [Pub. L. 104–208, § 354(a)(3)(B)][/us/pl/104/208/s354/a/3/B], inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under [section 1534(c)(3) of this title][/us/usc/t8/s1534/c/3], the Court of Appeals shall review questions of fact de novo”.
+    Subsec. (c)(3)(D). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(3)(B), inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under [section 1534(c)(3) of this title][/us/usc/t8/s1534/c/3], the Court of Appeals shall review questions of fact de novo”.
 
-    Subsec. (c)(4). [Pub. L. 104–208, § 354(a)(3)(C)][/us/pl/104/208/s354/a/3/C], redesignated par. (3) as (4).
+    Subsec. (c)(4). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(3)(C), redesignated par. (3) as (4).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -143,16 +143,16 @@
 [/us/usc/t8/s1537/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1537%2Fb%2F1
 [/us/usc/t8/s1537/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1537%2Fb%2F2%2FC
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1263
-[/us/pl/104/208/s354/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-642
-[/us/pl/104/208/s354/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3%2FA
-[/us/pl/104/208/s354/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3%2FD
-[/us/pl/104/208/s354/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3%2FC
-[/us/pl/104/208/s354/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3%2FB
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1534/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1534%2Fc%2F3
-[/us/pl/104/208/s354/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F3%2FC
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/208/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs358

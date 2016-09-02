@@ -19,7 +19,7 @@
 
     (b) The adjustment of status required by subsection (a) shall not be applicable in the case of any alien who requests that he be permitted to retain his status as an immigrant and who, in such form as the Attorney General may require, executes and files with the Attorney General a written waiver of all rights, privileges, exemptions, and immunities under any law or any executive order which would otherwise accrue to him because of the acquisition of an occupational status entitling him to a nonimmigrant status under paragraph (15)(A), (E), or (G) of [section 1101(a) of this title][/us/usc/t8/s1101/a].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 247, [66 Stat. 218][/us/stat/66/218]; [Pub. L. 104–208, div. C, title III, § 308(f)(1)(P)][/us/pl/104/208/s308/f/1/P], Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 247, [66 Stat. 218][/us/stat/66/218]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(f)(1)(P), Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F218
-[/us/pl/104/208/s308/f/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F1%2FP
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-621
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

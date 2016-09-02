@@ -41,11 +41,11 @@
 
         (7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient’s income or resources; and (C) are necessary for the protection of life or safety.
 
-([Pub. L. 104–193, title IV, § 422][/us/pl/104/193/s422], Aug. 22, 1996, [110 Stat. 2271][/us/stat/110/2271]; [Pub. L. 104–208, div. C, title V, § 551(b)(1)][/us/pl/104/208/s551/b/1], Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679]; [Pub. L. 105–33, title V, § 5581(b)(2)][/us/pl/105/33/s5581/b/2], Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643]; [Pub. L. 106–78, title VII, § 752(b)(6)][/us/pl/106/78/s752/b/6], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 422, Aug. 22, 1996, [110 Stat. 2271][/us/stat/110/2271]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 551(b)(1), Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5581(b)(2), Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(6), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
 
  __References in Text__ 
 
-    [Section 1183a of this title][/us/usc/t8/s1183a] (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is [section 1183a of this title][/us/usc/t8/s1183a] as added by [section 423 of Pub. L. 104–193][/us/pl/104/193/s423] and amended by [section 551(a) of div. C of Pub. L. 104–208][/us/pl/104/208/s551/a].
+    [Section 1183a of this title][/us/usc/t8/s1183a] (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is [section 1183a of this title][/us/usc/t8/s1183a] as added by [section 423 of Pub. L. 104–193][/us/pl/104/193/s423] and amended by [section 551(a) of div. C of Pub. L. 104–208][/us/pl/104/208/dC/s551/a].
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
@@ -78,18 +78,18 @@
 [/us/usc/t8/s1621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1621%2Fb%2F1
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/pl/104/193/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs422
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2271
-[/us/pl/104/208/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fb%2F1
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-679
-[/us/pl/105/33/s5581/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5581%2Fb%2F2
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F643
-[/us/pl/106/78/s752/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F6
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/pl/104/193/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs423
-[/us/pl/104/208/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fa
+[/us/pl/104/208/dC/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2Fs551%2Fa
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751

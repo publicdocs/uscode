@@ -401,7 +401,7 @@
 
                 The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
 
-([Pub. L. 109–162, title VIII, § 833][/us/pl/109/162/s833], Jan. 5, 2006, [119 Stat. 3068][/us/stat/119/3068]; [Pub. L. 113–4, title VIII][/us/pl/113/4], §§ 807(b), 808(b)–(d), Mar. 7, 2013, [127 Stat. 113–116][/us/stat/127/113-116].)
+([Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 833, Jan. 5, 2006, [119 Stat. 3068][/us/stat/119/3068]; [Pub. L. 113–4, title VIII][/us/pl/113/4/tVIII], §§ 807(b), 808(b)–(d), Mar. 7, 2013, [127 Stat. 113–116][/us/stat/127/113-116].)
 
  __References in Text__ 
 
@@ -419,37 +419,37 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2)(H). [Pub. L. 113–4, § 808(b)][/us/pl/113/4/s808/b], substituted “the National Sex Offender Public Website” for “Federal and State sex offender public registries”.
+    2013—Subsec. (a)(2)(H). [Pub. L. 113–4][/us/pl/113/4], § 808(b), substituted “the National Sex Offender Public Website” for “Federal and State sex offender public registries”.
 
-    Subsec. (a)(5)(A)(iii). [Pub. L. 113–4, § 807(b)(1)(A)][/us/pl/113/4/s807/b/1/A], substituted “State, for inclusion in the mailing described in clause (i), any” for “State any” in the first sentence and struck out the last sentence which read as follows: “Nothing in this clause shall be construed to authorize the Secretary of Homeland Security to conduct any new or additional criminal background check that is not otherwise conducted in the course of adjudicating such petitions.”
+    Subsec. (a)(5)(A)(iii). [Pub. L. 113–4][/us/pl/113/4], § 807(b)(1)(A), substituted “State, for inclusion in the mailing described in clause (i), any” for “State any” in the first sentence and struck out the last sentence which read as follows: “Nothing in this clause shall be construed to authorize the Secretary of Homeland Security to conduct any new or additional criminal background check that is not otherwise conducted in the course of adjudicating such petitions.”
 
-    Subsec. (a)(5)(A)(iv), (v). [Pub. L. 113–4, § 807(b)(1)(B)][/us/pl/113/4/s807/b/1/B], added cls. (iv) and (v).
+    Subsec. (a)(5)(A)(iv), (v). [Pub. L. 113–4][/us/pl/113/4], § 807(b)(1)(B), added cls. (iv) and (v).
 
-    Subsec. (b)(1)(A). [Pub. L. 113–4, § 807(b)(2)][/us/pl/113/4/s807/b/2], substituted “orders and criminal” for “orders or criminal”.
+    Subsec. (b)(1)(A). [Pub. L. 113–4][/us/pl/113/4], § 807(b)(2), substituted “orders and criminal” for “orders or criminal”.
 
-    Subsec. (d)(1). [Pub. L. 113–4, § 808(c)(1)][/us/pl/113/4/s808/c/1], amended par. (1) generally. Prior to amendment, text read as follows: “An international marriage broker shall not provide any individual or entity with the personal contact information, photograph, or general information about the background or interests of any individual under the age of 18.”
+    Subsec. (d)(1). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(1), amended par. (1) generally. Prior to amendment, text read as follows: “An international marriage broker shall not provide any individual or entity with the personal contact information, photograph, or general information about the background or interests of any individual under the age of 18.”
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 113–4, § 808(c)(2)(A)][/us/pl/113/4/s808/c/2/A], substituted “website” for “registries” in heading and “Website,” for “Registry or State sex offender public registry,” in text.
+    Subsec. (d)(2)(A)(i). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(2)(A), substituted “website” for “registries” in heading and “Website,” for “Registry or State sex offender public registry,” in text.
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 113–4, § 808(c)(2)(B)][/us/pl/113/4/s808/c/2/B], substituted “stalking, or an attempt to commit any such crime.” for “or stalking.”
+    Subsec. (d)(2)(B)(ii). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(2)(B), substituted “stalking, or an attempt to commit any such crime.” for “or stalking.”
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 113–4, § 808(c)(3)(A)(i)][/us/pl/113/4/s808/c/3/A/i], which directed substitution of “Website” for “Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry, in which the United States client has resided during the previous 20 years,”, was executed by making the substitution for “Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years,” to reflect the probable intent of Congress.
+    Subsec. (d)(3)(A)(i). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(3)(A)(i), which directed substitution of “Website” for “Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry, in which the United States client has resided during the previous 20 years,”, was executed by making the substitution for “Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years,” to reflect the probable intent of Congress.
 
-    Subsec. (d)(3)(A)(iii)(II). [Pub. L. 113–4, § 808(c)(3)(A)(ii)][/us/pl/113/4/s808/c/3/A/ii], substituted “signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B);” for “background information collected by the international marriage broker under paragraph (2)(B);”.
+    Subsec. (d)(3)(A)(iii)(II). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(3)(A)(ii), substituted “signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B);” for “background information collected by the international marriage broker under paragraph (2)(B);”.
 
-    Subsec. (d)(3)(C). [Pub. L. 113–4, § 808(c)(3)(B)][/us/pl/113/4/s808/c/3/B], struck out subpar. (C). Text read as follows: “A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which a person may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.”
+    Subsec. (d)(3)(C). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(3)(B), struck out subpar. (C). Text read as follows: “A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which a person may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.”
 
-    Subsec. (d)(5)(A)(ii). [Pub. L. 113–4, § 808(c)(4)(A)][/us/pl/113/4/s808/c/4/A], substituted “At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General” for “A penalty may be imposed under clause (i) by the Attorney General only”.
+    Subsec. (d)(5)(A)(ii). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(4)(A), substituted “At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General” for “A penalty may be imposed under clause (i) by the Attorney General only”.
 
-    Subsec. (d)(5)(B). [Pub. L. 113–4, § 808(c)(4)(B)][/us/pl/113/4/s808/c/4/B], amended subpar. (B) generally. Prior to amendment, text read as follows: “In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.”
+    Subsec. (d)(5)(B). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: “In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.”
 
-    Subsec. (d)(5)(C). [Pub. L. 113–4, § 808(c)(4)(C)][/us/pl/113/4/s808/c/4/C], substituted “including equitable remedies.” for period at end.
+    Subsec. (d)(5)(C). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(4)(C), substituted “including equitable remedies.” for period at end.
 
-    Subsec. (d)(6) to (8). [Pub. L. 113–4, § 808(c)(5)][/us/pl/113/4/s808/c/5], (6), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (d)(6) to (8). [Pub. L. 113–4][/us/pl/113/4], § 808(c)(5), (6), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (f). [Pub. L. 113–4, § 808(d)(1)][/us/pl/113/4/s808/d/1], substituted “studies and reports” for “study and report” in heading.
+    Subsec. (f). [Pub. L. 113–4][/us/pl/113/4], § 808(d)(1), substituted “studies and reports” for “study and report” in heading.
 
-    Subsec. (f)(4). [Pub. L. 113–4, § 808(d)(2)][/us/pl/113/4/s808/d/2], added par. (4).
+    Subsec. (f)(4). [Pub. L. 113–4][/us/pl/113/4], § 808(d)(2), added par. (4).
 
 ----------
 
@@ -470,9 +470,9 @@
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
 [/us/usc/t8/s1184/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fd%2F2
 [/us/usc/t8/s1184/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fr
-[/us/pl/109/162/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs833
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3068
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVIII
 [/us/stat/127/113-116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F113-116
 [/us/pl/109/162/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
@@ -486,21 +486,21 @@
 [/us/pl/109/162/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs833
 [/us/pl/109/162/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs833
 [/us/usc/t8/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1375
-[/us/pl/113/4/s808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fb
-[/us/pl/113/4/s807/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs807%2Fb%2F1%2FA
-[/us/pl/113/4/s807/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs807%2Fb%2F1%2FB
-[/us/pl/113/4/s807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs807%2Fb%2F2
-[/us/pl/113/4/s808/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F1
-[/us/pl/113/4/s808/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F2%2FA
-[/us/pl/113/4/s808/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F2%2FB
-[/us/pl/113/4/s808/c/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F3%2FA%2Fi
-[/us/pl/113/4/s808/c/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F3%2FA%2Fii
-[/us/pl/113/4/s808/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F3%2FB
-[/us/pl/113/4/s808/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F4%2FA
-[/us/pl/113/4/s808/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F4%2FB
-[/us/pl/113/4/s808/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F4%2FC
-[/us/pl/113/4/s808/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fc%2F5
-[/us/pl/113/4/s808/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fd%2F1
-[/us/pl/113/4/s808/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs808%2Fd%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 
 

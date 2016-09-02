@@ -81,19 +81,19 @@
 
         The Attorney General’s discretionary judgment regarding the application of this section shall not be subject to review. No court may set aside any action or decision by the Attorney General under this section regarding the detention or release of any alien or the grant, revocation, or denial of bond or parole.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 236, [66 Stat. 200][/us/stat/66/200]; [Pub. L. 101–649, title V, § 504(b)][/us/pl/101/649/s504/b], title VI, § 603(a)(12), Nov. 29, 1990, [104 Stat. 5050][/us/stat/104/5050], 5083; [Pub. L. 102–232, title III, § 306(a)(5)][/us/pl/102/232/s306/a/5], Dec. 12, 1991, [105 Stat. 1751][/us/stat/105/1751]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 303(a), 371(b)(5), Sept. 30, 1996, [110 Stat. 3009–585][/us/stat/110/3009-585], 3009–645.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 236, [66 Stat. 200][/us/stat/66/200]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 504(b), title VI, § 603(a)(12), Nov. 29, 1990, [104 Stat. 5050][/us/stat/104/5050], 5083; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 306(a)(5), Dec. 12, 1991, [105 Stat. 1751][/us/stat/105/1751]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 303(a), 371(b)(5), Sept. 30, 1996, [110 Stat. 3009–585][/us/stat/110/3009-585], 3009–645.)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–208, § 303(a)][/us/pl/104/208/s303/a], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) related to proceedings to determine whether aliens detained under [section 1225 of this title][/us/usc/t8/s1225] should be allowed to enter or should be excluded and deported.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 303(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) related to proceedings to determine whether aliens detained under [section 1225 of this title][/us/usc/t8/s1225] should be allowed to enter or should be excluded and deported.
 
-    Subsecs. (a) to (d). [Pub. L. 104–208, § 371(b)(5)][/us/pl/104/208/s371/b/5], substituted “An immigration judge” for “A special inquiry officer”, “an immigration judge” for “a special inquiry officer”, and “immigration judge” for “special inquiry officer”, wherever appearing.
+    Subsecs. (a) to (d). [Pub. L. 104–208][/us/pl/104/208], § 371(b)(5), substituted “An immigration judge” for “A special inquiry officer”, “an immigration judge” for “a special inquiry officer”, and “immigration judge” for “special inquiry officer”, wherever appearing.
 
     1991—Subsec. (e)(1). [Pub. L. 102–232][/us/pl/102/232] substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien’s sentence for such conviction”.
 
-    1990—Subsec. (d). [Pub. L. 101–649, § 603(a)(12)][/us/pl/101/649/s603/a/12], substituted “has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of [section 1182(a) of this title][/us/usc/t8/s1182/a]” for “is afflicted with a disease specified in [section 1182(a)(6) of this title][/us/usc/t8/s1182/a/6], or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of [section 1182(a) of this title][/us/usc/t8/s1182/a]” and struck out at end “If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in [section 1182(a)(6) of this title][/us/usc/t8/s1182/a/6], the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of [section 1183 of this title][/us/usc/t8/s1183] may be invoked.”
+    1990—Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 603(a)(12), substituted “has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of [section 1182(a) of this title][/us/usc/t8/s1182/a]” for “is afflicted with a disease specified in [section 1182(a)(6) of this title][/us/usc/t8/s1182/a/6], or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of [section 1182(a) of this title][/us/usc/t8/s1182/a]” and struck out at end “If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in [section 1182(a)(6) of this title][/us/usc/t8/s1182/a/6], the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of [section 1183 of this title][/us/usc/t8/s1183] may be invoked.”
 
-    Subsec. (e). [Pub. L. 101–649, § 504(b)][/us/pl/101/649/s504/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–649][/us/pl/101/649], § 504(b), added subsec. (e).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -227,7 +227,7 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 
  __Criminal Alien Tracking Center__ 
 
-[Pub. L. 103–322, title XIII, § 130002][/us/pl/103/322/s130002], Sept. 13, 1994, [108 Stat. 2023][/us/stat/108/2023], as amended by [Pub. L. 104–132, title IV, § 432][/us/pl/104/132/s432], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(5)(B), 326, 327, Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–630, provided that:
+[Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130002, Sept. 13, 1994, [108 Stat. 2023][/us/stat/108/2023], as amended by [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 432, Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(5)(B), 326, 327, Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–630, provided that:
 
 >     “(a)  __Operation and Purpose__  __.—__ 
 
@@ -255,23 +255,23 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 [/us/usc/t18/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3521
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F200
-[/us/pl/101/649/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs504%2Fb
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5050
-[/us/pl/102/232/s306/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs306%2Fa%2F5
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1751
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-585
-[/us/pl/104/208/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs303%2Fa
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225
-[/us/pl/104/208/s371/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fb%2F5
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s603/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fa%2F12
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/usc/t8/s1182/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F6
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/usc/t8/s1182/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F6
 [/us/usc/t8/s1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183
-[/us/pl/101/649/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs504%2Fb
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
@@ -295,11 +295,11 @@ Section 303(b) of subtitle A of title III of div. C of [Pub. L. 104–208][/us/p
 [/us/pl/105/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F141
 [/us/stat/111/2647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2647
 [/us/usc/t8/s1227/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F2
-[/us/pl/103/322/s130002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130002
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2023
-[/us/pl/104/132/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs432
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1273
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-623
 [/us/usc/t8/s1226/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1226%2Fd
 [/us/usc/t8/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1325

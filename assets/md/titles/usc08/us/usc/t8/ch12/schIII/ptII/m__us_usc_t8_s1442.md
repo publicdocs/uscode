@@ -35,19 +35,19 @@
 
         Nothing contained herein shall be taken or construed to interfere with or prevent the apprehension and removal, consistent with law, of any alien enemy at any time prior to the actual naturalization of such alien.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 331, [66 Stat. 252][/us/stat/66/252]; [Pub. L. 101–649, title IV, § 407(c)(13)][/us/pl/101/649/s407/c/13], (d)(9), (e)(2), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5042, 5046.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 331, [66 Stat. 252][/us/stat/66/252]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(13), (d)(9), (e)(2), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5042, 5046.)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(c)(13)][/us/pl/101/649/s407/c/13], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(13), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (b). [Pub. L. 101–649, § 407(d)(9)][/us/pl/101/649/s407/d/9], substituted “considered or heard except after 90 days’ notice to the Attorney General to be considered at the examination or hearing, and the Attorney General’s objection to such consideration shall cause the application to be continued” for “called for a hearing, or heard, except after ninety days’ notice given by the clerk of the court to the Attorney General to be represented at the hearing, and the Attorney General’s objection to such final hearing shall cause the petition to be continued”.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(9), substituted “considered or heard except after 90 days’ notice to the Attorney General to be considered at the examination or hearing, and the Attorney General’s objection to such consideration shall cause the application to be continued” for “called for a hearing, or heard, except after ninety days’ notice given by the clerk of the court to the Attorney General to be represented at the hearing, and the Attorney General’s objection to such final hearing shall cause the petition to be continued”.
 
-    [Pub. L. 101–649, § 407(c)(13)][/us/pl/101/649/s407/c/13], substituted “application” for “petition” after “have his”.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(c)(13), substituted “application” for “petition” after “have his”.
 
-    Subsec. (c). [Pub. L. 101–649, § 407(c)(13)][/us/pl/101/649/s407/c/13], substituted “an application” for “a petition” wherever appearing.
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(13), substituted “an application” for “a petition” wherever appearing.
 
-    Subsec. (d). [Pub. L. 101–649, § 407(e)(2)][/us/pl/101/649/s407/e/2], struck out at end “Notwithstanding the provisions of section 405(b) of this Act, this subsection shall also apply to the case of any such alien whose petition for naturalization was filed prior to the effective date of this chapter and which is still pending on that date.”
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 407(e)(2), struck out at end “Notwithstanding the provisions of section 405(b) of this Act, this subsection shall also apply to the case of any such alien whose petition for naturalization was filed prior to the effective date of this chapter and which is still pending on that date.”
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -62,13 +62,13 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F252
-[/us/pl/101/649/s407/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F13
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/101/649/s407/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F13
-[/us/pl/101/649/s407/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F9
-[/us/pl/101/649/s407/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F13
-[/us/pl/101/649/s407/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F13
-[/us/pl/101/649/s407/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fe%2F2
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 
 

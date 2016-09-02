@@ -105,7 +105,7 @@
 
         For purposes of this section, the term “falsely make” means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 274C, as added [Pub. L. 101–649, title V, § 544(a)][/us/pl/101/649/s544/a], Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059]; amended [Pub. L. 102–232, title III, § 306(c)(5)(A)][/us/pl/102/232/s306/c/5/A], Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 103–416, title II, § 219(r)][/us/pl/103/416/s219/r], Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317]; [Pub. L. 104–208, div. C, title II][/us/pl/104/208], §§ 212(a)–(d), 213, 220, title III, §§ 308(g)(10)(D), 379(a), Sept. 30, 1996, [110 Stat. 3009–570][/us/stat/110/3009-570], 3009–571, 3009–575, 3009–625, 3009–649.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 274C, as added [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 544(a), Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059]; amended [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 306(c)(5)(A), Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(r), Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317]; [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], §§ 212(a)–(d), 213, 220, title III, §§ 308(g)(10)(D), 379(a), Sept. 30, 1996, [110 Stat. 3009–570][/us/stat/110/3009-570], 3009–571, 3009–575, 3009–625, 3009–649.)
 
  __References in Text__ 
 
@@ -113,31 +113,31 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–208, § 212(a)(1)][/us/pl/104/208/s212/a/1], inserted “or to obtain a benefit under this chapter” before comma at end.
+    1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 212(a)(1), inserted “or to obtain a benefit under this chapter” before comma at end.
 
-    Subsec. (a)(2). [Pub. L. 104–208, § 212(a)(2)][/us/pl/104/208/s212/a/2], inserted “or to obtain a benefit under this chapter” before comma at end.
+    Subsec. (a)(2). [Pub. L. 104–208][/us/pl/104/208], § 212(a)(2), inserted “or to obtain a benefit under this chapter” before comma at end.
 
-    Subsec. (a)(3). [Pub. L. 104–208, § 212(a)(3)][/us/pl/104/208/s212/a/3], inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “of this chapter” and struck out “or” at end.
+    Subsec. (a)(3). [Pub. L. 104–208][/us/pl/104/208], § 212(a)(3), inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “of this chapter” and struck out “or” at end.
 
-    Subsec. (a)(4). [Pub. L. 104–208, § 212(a)(4)][/us/pl/104/208/s212/a/4], inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “[section 1324a(b) of this title][/us/usc/t8/s1324a/b]” and substituted “, or” for the period at end.
+    Subsec. (a)(4). [Pub. L. 104–208][/us/pl/104/208], § 212(a)(4), inserted “or with respect to” after “issued to” and “or obtaining a benefit under this chapter” after “[section 1324a(b) of this title][/us/usc/t8/s1324a/b]” and substituted “, or” for the period at end.
 
-    Subsec. (a)(5), (6). [Pub. L. 104–208, § 212(a)(5)][/us/pl/104/208/s212/a/5], added pars. (5) and (6).
+    Subsec. (a)(5), (6). [Pub. L. 104–208][/us/pl/104/208], § 212(a)(5), added pars. (5) and (6).
 
-    Subsec. (d)(1)(C). [Pub. L. 104–208, § 220][/us/pl/104/208/s220], added subpar. (C).
+    Subsec. (d)(1)(C). [Pub. L. 104–208][/us/pl/104/208], § 220, added subpar. (C).
 
-    Subsec. (d)(3)(A), (B). [Pub. L. 104–208, § 212(c)][/us/pl/104/208/s212/c], substituted “each document that is the subject of a violation under subsection (a)” for “each document used, accepted, or created and each instance of use, acceptance, or creation”.
+    Subsec. (d)(3)(A), (B). [Pub. L. 104–208][/us/pl/104/208], § 212(c), substituted “each document that is the subject of a violation under subsection (a)” for “each document used, accepted, or created and each instance of use, acceptance, or creation”.
 
-    Subsec. (d)(4). [Pub. L. 104–208, § 379(a)(2)][/us/pl/104/208/s379/a/2], substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
+    Subsec. (d)(4). [Pub. L. 104–208][/us/pl/104/208], § 379(a)(2), substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
 
-    [Pub. L. 104–208, § 379(a)(1)][/us/pl/104/208/s379/a/1], substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
+    [Pub. L. 104–208][/us/pl/104/208], § 379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
-    Subsec. (d)(7). [Pub. L. 104–208, § 308(g)(10)(D)][/us/pl/104/208/s308/g/10/D], substituted “withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3]” for “withholding of deportation under [section 1253(h) of this title][/us/usc/t8/s1253/h]”.
+    Subsec. (d)(7). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(10)(D), substituted “withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3]” for “withholding of deportation under [section 1253(h) of this title][/us/usc/t8/s1253/h]”.
 
-    [Pub. L. 104–208, § 212(d)][/us/pl/104/208/s212/d], added par. (7).
+    [Pub. L. 104–208][/us/pl/104/208], § 212(d), added par. (7).
 
-    Subsec. (e). [Pub. L. 104–208, § 213][/us/pl/104/208/s213], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 213, added subsec. (e).
 
-    Subsec. (f). [Pub. L. 104–208, § 212(b)][/us/pl/104/208/s212/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 212(b), added subsec. (f).
 
     1994—Subsec. (b). [Pub. L. 103–416][/us/pl/103/416] substituted “chapter 224 of title 18” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title II, § 212(e)][/us/pl/104/208/s212/e], Sept. 30, 1996, [110 Stat. 3009–571][/us/stat/110/3009-571], provided that: 
+[Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 212(e), Sept. 30, 1996, [110 Stat. 3009–571][/us/stat/110/3009-571], provided that: 
 
 > “Section 274C(f) of the Immigration and Nationality Act \[[8 U.S.C. 1324c(f)][/us/usc/t8/s1324c/f]\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -181,36 +181,36 @@
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
 [/us/usc/t8/s1231/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fb%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/101/649/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs544%2Fa
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5059
-[/us/pl/102/232/s306/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs306%2Fc%2F5%2FA
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1752
-[/us/pl/103/416/s219/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fr
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4317
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-570
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fa%2F1
-[/us/pl/104/208/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fa%2F2
-[/us/pl/104/208/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fa%2F3
-[/us/pl/104/208/s212/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fa%2F4
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1324a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fb
-[/us/pl/104/208/s212/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fa%2F5
-[/us/pl/104/208/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs220
-[/us/pl/104/208/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fc
-[/us/pl/104/208/s379/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs379%2Fa%2F2
-[/us/pl/104/208/s379/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs379%2Fa%2F1
-[/us/pl/104/208/s308/g/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FD
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1231/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fb%2F3
 [/us/usc/t8/s1253/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253%2Fh
-[/us/pl/104/208/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fd
-[/us/pl/104/208/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs213
-[/us/pl/104/208/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/104/208/s212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs212%2Fe
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-571
 [/us/usc/t8/s1324c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324c%2Ff
 [/us/pl/104/208/s308/g/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FD

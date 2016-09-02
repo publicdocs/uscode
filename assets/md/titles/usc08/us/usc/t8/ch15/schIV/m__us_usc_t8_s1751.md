@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 107–173, title IV, § 401][/us/pl/107/173/s401], May 14, 2002, [116 Stat. 557][/us/stat/116/557].)
+([Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 401, May 14, 2002, [116 Stat. 557][/us/stat/116/557].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t8/s1225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225a
 [/us/usc/t8/s1225a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225a%2Fa%2F5
-[/us/pl/107/173/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs401
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F557
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

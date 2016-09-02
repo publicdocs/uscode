@@ -85,23 +85,23 @@
 
         On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 243, [66 Stat. 212][/us/stat/66/212]; [Pub. L. 89–236, § 11(f)][/us/pl/89/236/s11/f], Oct. 3, 1965, [79 Stat. 918][/us/stat/79/918]; [Pub. L. 95–549, title I, § 104][/us/pl/95/549/s104], Oct. 30, 1978, [92 Stat. 2066][/us/stat/92/2066]; [Pub. L. 96–212, title II, § 203(e)][/us/pl/96/212/s203/e], Mar. 17, 1980, [94 Stat. 107][/us/stat/94/107]; [Pub. L. 97–116, § 18(i)][/us/pl/97/116/s18/i], Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 101–649, title V, § 515(a)(2)][/us/pl/101/649/s515/a/2], title VI, § 603(b)(3), Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053], 5085; [Pub. L. 104–132, title IV, § 413(a)][/us/pl/104/132/s413/a], (f), Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269]; [Pub. L. 104–208, div. C, title III, § 307(a)][/us/pl/104/208/s307/a], Sept. 30, 1996, [110 Stat. 3009–612][/us/stat/110/3009-612].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 243, [66 Stat. 212][/us/stat/66/212]; [Pub. L. 89–236][/us/pl/89/236], § 11(f), Oct. 3, 1965, [79 Stat. 918][/us/stat/79/918]; [Pub. L. 95–549, title I][/us/pl/95/549/tI], § 104, Oct. 30, 1978, [92 Stat. 2066][/us/stat/92/2066]; [Pub. L. 96–212, title II][/us/pl/96/212/tII], § 203(e), Mar. 17, 1980, [94 Stat. 107][/us/stat/94/107]; [Pub. L. 97–116][/us/pl/97/116], § 18(i), Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 515(a)(2), title VI, § 603(b)(3), Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053], 5085; [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 413(a), (f), Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 307(a), Sept. 30, 1996, [110 Stat. 3009–612][/us/stat/110/3009-612].)
 
  __Amendments__ 
 
     1996—[Pub. L. 104–208][/us/pl/104/208] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to countries to which aliens were to be deported.
 
-    Subsec. (h)(2). [Pub. L. 104–132, § 413(a)][/us/pl/104/132/s413/a], inserted at end “For purposes of subparagraph (D), an alien who is described in [section 1251(a)(4)(B) of this title][/us/usc/t8/s1251/a/4/B] shall be considered to be an alien for whom there are reasonable grounds for regarding as a danger to the security of the United States.”
+    Subsec. (h)(2). [Pub. L. 104–132][/us/pl/104/132], § 413(a), inserted at end “For purposes of subparagraph (D), an alien who is described in [section 1251(a)(4)(B) of this title][/us/usc/t8/s1251/a/4/B] shall be considered to be an alien for whom there are reasonable grounds for regarding as a danger to the security of the United States.”
 
-    Subsec. (h)(3). [Pub. L. 104–132, § 413(f)][/us/pl/104/132/s413/f], added par. (3) which read as follows: “Notwithstanding any other provision of law, paragraph (1) shall apply to any alien if the Attorney General determines, in the discretion of the Attorney General, that—
+    Subsec. (h)(3). [Pub. L. 104–132][/us/pl/104/132], § 413(f), added par. (3) which read as follows: “Notwithstanding any other provision of law, paragraph (1) shall apply to any alien if the Attorney General determines, in the discretion of the Attorney General, that—
 
     “(A) such alien’s life or freedom would be threatened, in the country to which such alien would be deported or returned, on account of race, religion, nationality, membership in a particular social group, or political opinion; and
 
     “(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967 United Nations Protocol Relating to the Status of Refugees.”
 
-    1990—Subsec. (h)(1). [Pub. L. 101–649, § 603(b)(3)][/us/pl/101/649/s603/b/3], substituted “1251(a)(4)(D)” for “1251(a)(19)”.
+    1990—Subsec. (h)(1). [Pub. L. 101–649][/us/pl/101/649], § 603(b)(3), substituted “1251(a)(4)(D)” for “1251(a)(19)”.
 
-    Subsec. (h)(2). [Pub. L. 101–649, § 515(a)(2)][/us/pl/101/649/s515/a/2], inserted sentence at end relating to aliens who have been convicted of aggravated felonies.
+    Subsec. (h)(2). [Pub. L. 101–649][/us/pl/101/649], § 515(a)(2), inserted sentence at end relating to aliens who have been convicted of aggravated felonies.
 
     1981—Subsec. (a). [Pub. L. 97–116][/us/pl/97/116] inserted a comma after “subject” in fourth sentence.
 
@@ -115,7 +115,7 @@
 
     Amendment by [Pub. L. 104–208][/us/pl/104/208] effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see [section 309 of Pub. L. 104–208][/us/pl/104/208/s309], set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
-[Pub. L. 104–132, title IV, § 413(g)][/us/pl/104/132/s413/g], Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269], provided that: 
+[Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 413(g), Apr. 24, 1996, [110 Stat. 1269][/us/stat/110/1269], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1254, 1255, and 1259 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and shall apply to applications filed before, on, or after such date if final action has not been taken on them before such date.”
 
@@ -147,7 +147,7 @@
 
  __Sense of Congress Respecting Treatment of Cuban Political Prisoners__ 
 
-[Pub. L. 99–603, title III, § 315(c)][/us/pl/99/603/s315/c], Nov. 6, 1986, [100 Stat. 3440][/us/stat/100/3440], as amended by [Pub. L. 104–208, div. C, title III, § 308(g)(7)(C)(i)][/us/pl/104/208/s308/g/7/C/i], Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], provided that: 
+[Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 315(c), Nov. 6, 1986, [100 Stat. 3440][/us/stat/100/3440], as amended by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(7)(C)(i), Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], provided that: 
 
 > “It is the sense of the Congress that the Secretary of State should provide for the issuance of visas to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(d) of the Immigration and Nationality Act ([8 U.S.C. 1253(d)][/us/usc/t8/s1253/d]).”
 
@@ -165,26 +165,26 @@
 [/us/usc/t8/s1231/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fd%2F2
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F212
-[/us/pl/89/236/s11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs11%2Ff
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F918
-[/us/pl/95/549/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F549%2Fs104
+[/us/pl/95/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F549%2FtI
 [/us/stat/92/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2066
-[/us/pl/96/212/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs203%2Fe
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F107
-[/us/pl/97/116/s18/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18%2Fi
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1620
-[/us/pl/101/649/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fa%2F2
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5053
-[/us/pl/104/132/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs413%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1269
-[/us/pl/104/208/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs307%2Fa
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-612
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/132/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs413%2Fa
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1251/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1251%2Fa%2F4%2FB
-[/us/pl/104/132/s413/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs413%2Ff
-[/us/pl/101/649/s603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fb%2F3
-[/us/pl/101/649/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fa%2F2
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
 [/us/pl/95/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F549
@@ -193,7 +193,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/132/s413/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs413%2Fg
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1269
 [/us/pl/101/649/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fa%2F2
 [/us/pl/101/649/s515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fb%2F2
@@ -213,9 +213,9 @@
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/104/208/s309/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309%2Fd%2F2
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/99/603/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs315%2Fc
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3440
-[/us/pl/104/208/s308/g/7/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FC%2Fi
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-623
 [/us/usc/t8/s1253/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253%2Fd
 

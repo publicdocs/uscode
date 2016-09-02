@@ -101,11 +101,11 @@
 
             (B) At a courthouse (or in connection with that appearance of the alien at a courthouse) if the alien is appearing in connection with a protection order case, child custody case, or other civil or criminal case relating to domestic violence, sexual assault, trafficking, or stalking in which the alien has been battered or subject to extreme cruelty or if the alien is described in subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 239, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)][/us/pl/104/208/s304/a/3], Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587]; amended [Pub. L. 109–162, title VIII, § 825(c)(1)][/us/pl/109/162/s825/c/1], Jan. 5, 2006, [119 Stat. 3065][/us/stat/119/3065]; [Pub. L. 109–271, § 6(d)][/us/pl/109/271/s6/d], Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 239, as added [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(a)(3), Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587]; amended [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 825(c)(1), Jan. 5, 2006, [119 Stat. 3065][/us/stat/119/3065]; [Pub. L. 109–271][/us/pl/109/271], § 6(d), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763].)
 
  __Prior Provisions__ 
 
-    A prior section 1229, [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 239, [66 Stat. 203][/us/stat/66/203], as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by [Pub. L. 104–208, div. C, title III, § 304(a)(1)][/us/pl/104/208/s304/a/1], Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587], and was transferred to [section 1224 of this title][/us/usc/t8/s1224].
+    A prior section 1229, [act June 27, 1952, ch. 477, title II][/us/act/1952-06-27/ch477/tII], ch. 4, § 239, [66 Stat. 203][/us/stat/66/203], as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(a)(1), Sept. 30, 1996, [110 Stat. 3009–587][/us/stat/110/3009-587], and was transferred to [section 1224 of this title][/us/usc/t8/s1224].
 
  __Amendments__ 
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–162, title VIII, § 825(c)(2)][/us/pl/109/162/s825/c/2], Jan. 5, 2006, [119 Stat. 3065][/us/stat/119/3065], provided that: 
+[Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 825(c)(2), Jan. 5, 2006, [119 Stat. 3065][/us/stat/119/3065], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date.”
 
@@ -146,20 +146,20 @@
 [/us/usc/t8/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1367
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fa%2F3
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-587
-[/us/pl/109/162/s825/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fc%2F1
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3065
-[/us/pl/109/271/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs6%2Fd
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtII
 [/us/stat/66/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F203
-[/us/pl/104/208/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fa%2F1
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-587
 [/us/usc/t8/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1224
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s825/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs825%2Fc%2F2
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3065
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

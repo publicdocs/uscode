@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1483.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1488)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1484...1487.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1488)
 
 ## § 1488. Nationality lost solely from performance of acts or fulfillment of conditions
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1483.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1488)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1484...1487.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptIII/m__us_usc_t8_s1489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1488)
 
 ----------
 ----------

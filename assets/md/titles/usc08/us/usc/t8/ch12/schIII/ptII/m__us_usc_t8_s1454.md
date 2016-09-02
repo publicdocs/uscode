@@ -23,7 +23,7 @@
 
     (d) The Attorney General is authorized to make and issue certifications of any part of the naturalization records of any court, or of any certificate of naturalization or citizenship, for use in complying with any statute, State or Federal, or in any judicial proceeding. No such certification shall be made by any clerk of court except upon order of the court.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 343, [66 Stat. 263][/us/stat/66/263]; [Pub. L. 100–525, § 9(ee)][/us/pl/100/525/s9/ee], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 343, [66 Stat. 263][/us/stat/66/263]; [Pub. L. 100–525][/us/pl/100/525], § 9(ee), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F263
-[/us/pl/100/525/s9/ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fee
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

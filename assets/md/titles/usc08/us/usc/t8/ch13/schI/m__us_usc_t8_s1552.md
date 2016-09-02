@@ -17,11 +17,11 @@
 
     The office of the Commissioner of Immigration and Naturalization is created and established, and the President, by and with the advice and consent of the Senate, is authorized and directed to appoint such officer. The Attorney General shall provide him with a suitable, furnished office in the city of Washington, and with such books of record and facilities for the discharge of the duties of his office as may be necessary.
 
-([Mar. 3, 1891, ch. 551, § 7][/us/act/1891-03-03/ch551/s7], [26 Stat. 1085][/us/stat/26/1085]; [Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 780][/us/stat/28/780]; Apr. 28, 1904, Pub. R. 33, [33 Stat. 591][/us/stat/33/591]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; [Feb. 5, 1917, ch. 29, § 23][/us/act/1917-02-05/ch29/s23], [39 Stat. 892][/us/stat/39/892]; [Mar. 3, 1917, ch. 163, § 1][/us/act/1917-03-03/ch163/s1], [39 Stat. 1118][/us/stat/39/1118]; [Mar. 28, 1922, ch. 117][/us/act/1922-03-28/ch117], title II, [42 Stat. 486][/us/stat/42/486]; [Jan. 5, 1923, ch. 24][/us/act/1923-01-05/ch24], title II, [42 Stat. 1127][/us/stat/42/1127]; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238]; [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(4), [66 Stat. 279][/us/stat/66/279].)
+([Mar. 3, 1891, ch. 551][/us/act/1891-03-03/ch551], § 7, [26 Stat. 1085][/us/stat/26/1085]; [Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 1, [28 Stat. 780][/us/stat/28/780]; Apr. 28, 1904, Pub. R. 33, [33 Stat. 591][/us/stat/33/591]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; [Feb. 5, 1917, ch. 29][/us/act/1917-02-05/ch29], § 23, [39 Stat. 892][/us/stat/39/892]; [Mar. 3, 1917, ch. 163][/us/act/1917-03-03/ch163], § 1, [39 Stat. 1118][/us/stat/39/1118]; [Mar. 28, 1922, ch. 117][/us/act/1922-03-28/ch117], title II, [42 Stat. 486][/us/stat/42/486]; [Jan. 5, 1923, ch. 24][/us/act/1923-01-05/ch24], title II, [42 Stat. 1127][/us/stat/42/1127]; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238]; [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(4), [66 Stat. 279][/us/stat/66/279].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 342b of Title 5][/us/usc/t5/s342b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 342b of Title 5][/us/usc/t5/s342b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/act/1891-03-03/ch551/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch551%2Fs7
+[/us/act/1891-03-03/ch551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch551
 [/us/stat/26/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1085
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F780
 [/us/stat/33/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F591
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
-[/us/act/1917-02-05/ch29/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-05%2Fch29%2Fs23
+[/us/act/1917-02-05/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-05%2Fch29
 [/us/stat/39/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F892
-[/us/act/1917-03-03/ch163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163%2Fs1
+[/us/act/1917-03-03/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163
 [/us/stat/39/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1118
 [/us/act/1922-03-28/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-03-28%2Fch117
 [/us/stat/42/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F486
@@ -67,7 +67,7 @@
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F279
 [/us/usc/t5/s342b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs342b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091
 [/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253

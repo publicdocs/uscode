@@ -293,7 +293,7 @@
 
         There are authorized to be appropriated to the Secretary, for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 108–458, title VII, § 7208][/us/pl/108/458/s7208], Dec. 17, 2004, [118 Stat. 3817][/us/stat/118/3817]; [Pub. L. 110–161, div. E, title V, § 565][/us/pl/110/161/s565], Dec. 26, 2007, [121 Stat. 2091][/us/stat/121/2091].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7208, Dec. 17, 2004, [118 Stat. 3817][/us/stat/118/3817]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 565, Dec. 26, 2007, [121 Stat. 2091][/us/stat/121/2091].)
 
  __References in Text__ 
 
@@ -305,7 +305,7 @@
 
     The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is [Pub. L. 107–173][/us/pl/107/173], May 14, 2002, [116 Stat. 543][/us/stat/116/543], as amended, which is classified principally to chapter 15 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title][/us/usc/t8/s1701] and Tables.
 
-    The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was [Pub. L. 107–56][/us/pl/107/56], Oct. 26, 2001, [115 Stat. 272][/us/stat/115/272]. [Pub. L. 107–56][/us/pl/107/56] was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by [Pub. L. 109–177, title I, § 101(b)][/us/pl/109/177/s101/b], Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194]. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18][/us/usc/t18/s1], Crimes and Criminal Procedure, and Tables.
+    The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was [Pub. L. 107–56][/us/pl/107/56], Oct. 26, 2001, [115 Stat. 272][/us/stat/115/272]. [Pub. L. 107–56][/us/pl/107/56] was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 101(b), Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194]. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18][/us/usc/t18/s1], Crimes and Criminal Procedure, and Tables.
 
     December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original “the date of enactment of this paragraph” and was translated a meaning the date of enactment of [Pub. L. 110–161][/us/pl/110/161], which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
 
@@ -332,9 +332,9 @@
 [/us/usc/t8/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1701
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t8/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722
-[/us/pl/108/458/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7208
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3817
-[/us/pl/110/161/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs565
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2091
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-546
@@ -352,7 +352,7 @@
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/stat/115/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F272
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/109/177/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs101%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F194
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161

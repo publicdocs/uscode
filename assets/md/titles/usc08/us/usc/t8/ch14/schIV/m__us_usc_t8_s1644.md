@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of Federal, State, or local law, no State or local government entity may be prohibited, or in any way restricted, from sending to or receiving from the Immigration and Naturalization Service information regarding the immigration status, lawful or unlawful, of an alien in the United States.
 
-([Pub. L. 104–193, title IV, § 434][/us/pl/104/193/s434], Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 434, Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/193/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs434
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2275
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

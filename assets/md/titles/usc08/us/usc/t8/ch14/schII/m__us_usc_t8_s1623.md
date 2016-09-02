@@ -23,7 +23,7 @@
 
         This section shall apply to benefits provided on or after July 1, 1998.
 
-([Pub. L. 104–208, div. C, title V, § 505][/us/pl/104/208/s505], Sept. 30, 1996, [110 Stat. 3009–672][/us/stat/110/3009-672].)
+([Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 505, Sept. 30, 1996, [110 Stat. 3009–672][/us/stat/110/3009-672].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs505
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-672
 
 

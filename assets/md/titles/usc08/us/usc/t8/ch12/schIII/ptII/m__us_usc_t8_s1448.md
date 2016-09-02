@@ -31,29 +31,29 @@
 
         The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 337, [66 Stat. 258][/us/stat/66/258]; [Pub. L. 97–116, § 18][/us/pl/97/116/s18](o), Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621]; [Pub. L. 101–649, title IV, § 407(c)(18)][/us/pl/101/649/s407/c/18], (d)(15), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5044; [Pub. L. 102–232, title I, § 102(b)(2)][/us/pl/102/232/s102/b/2], title III, § 305(i), Dec. 12, 1991, [105 Stat. 1736][/us/stat/105/1736], 1750; [Pub. L. 106–448, § 1][/us/pl/106/448/s1], Nov. 6, 2000, [114 Stat. 1939][/us/stat/114/1939].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 337, [66 Stat. 258][/us/stat/66/258]; [Pub. L. 97–116][/us/pl/97/116], § 18(o), Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(18), (d)(15), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5044; [Pub. L. 102–232, title I][/us/pl/102/232/tI], § 102(b)(2), title III, § 305(i), Dec. 12, 1991, [105 Stat. 1736][/us/stat/105/1736], 1750; [Pub. L. 106–448][/us/pl/106/448], § 1, Nov. 6, 2000, [114 Stat. 1939][/us/stat/114/1939].)
 
  __Amendments__ 
 
     2000—Subsec. (a). [Pub. L. 106–448][/us/pl/106/448] inserted at end “The Attorney General may waive the taking of the oath by a person if in the opinion of the Attorney General the person is unable to understand, or to communicate an understanding of, its meaning because of a physical or developmental disability or mental impairment. If the Attorney General waives the taking of the oath by a person under the preceding sentence, the person shall be considered to have met the requirements of [section 1427(a)(3) of this title][/us/usc/t8/s1427/a/3] with respect to attachment to the principles of the Constitution and well disposition to the good order and happiness of the United States.”
 
-    1991—Subsec. (c). [Pub. L. 102–232, § 102(b)(2)][/us/pl/102/232/s102/b/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under [section 1445(e) of this title][/us/usc/t8/s1445/e].”
+    1991—Subsec. (c). [Pub. L. 102–232][/us/pl/102/232], § 102(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the applicant is prevented by sickness or other disability from attending a public ceremony, the oath required to be taken by subsection (a) of this section may be taken at such place as the Attorney General may designate under [section 1445(e) of this title][/us/usc/t8/s1445/e].”
 
-    [Pub. L. 102–232, § 305(i)][/us/pl/102/232/s305/i], struck out “before” after “may be taken”.
+    [Pub. L. 102–232][/us/pl/102/232], § 305(i), struck out “before” after “may be taken”.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(c)(18)][/us/pl/101/649/s407/c/18], (d)(15)(A), substituted “applied” for “petitioned” and “applicant” for “petitioner” in first sentence, “in a public ceremony before the Attorney General or a court with jurisdiction under [section 1421(b) of this title][/us/usc/t8/s1421/b]” for “in open court”, “Attorney General” for “naturalization court” wherever appearing in second and fourth sentences, and “Attorney General” for “court” before “the child” in fourth sentence.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(18), (d)(15)(A), substituted “applied” for “petitioned” and “applicant” for “petitioner” in first sentence, “in a public ceremony before the Attorney General or a court with jurisdiction under [section 1421(b) of this title][/us/usc/t8/s1421/b]” for “in open court”, “Attorney General” for “naturalization court” wherever appearing in second and fourth sentences, and “Attorney General” for “court” before “the child” in fourth sentence.
 
-    Subsec. (b). [Pub. L. 101–649, § 407(c)(18)][/us/pl/101/649/s407/c/18], (d)(15)(B), substituted “applying” for “petitioning”, “applicant” for “petitioner”, and “in the same public ceremony in which the oath of allegiance is administered” for “in open court in the court in which the petition for naturalization is made”, and struck out “in the court” after “shall be recorded”.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(18), (d)(15)(B), substituted “applying” for “petitioning”, “applicant” for “petitioner”, and “in the same public ceremony in which the oath of allegiance is administered” for “in open court in the court in which the petition for naturalization is made”, and struck out “in the court” after “shall be recorded”.
 
-    Subsec. (c). [Pub. L. 101–649, § 407(c)(18)][/us/pl/101/649/s407/c/18], (d)(15)(C), substituted “applicant” for “petitioner”, “attending a public ceremony” for “being in open court”, and “at such place as the Attorney General may designate under [section 1445(e) of this title][/us/usc/t8/s1445/e]” for “a judge of the court at such place as may be designated by the court”.
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(18), (d)(15)(C), substituted “applicant” for “petitioner”, “attending a public ceremony” for “being in open court”, and “at such place as the Attorney General may designate under [section 1445(e) of this title][/us/usc/t8/s1445/e]” for “a judge of the court at such place as may be designated by the court”.
 
-    Subsec. (d). [Pub. L. 101–649, § 407(d)(15)(D)][/us/pl/101/649/s407/d/15/D], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(15)(D), added subsec. (d).
 
     1981—Subsec. (a). [Pub. L. 97–116][/us/pl/97/116] substituted “section 1433” for “section 1433 or 1434”.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–448, § 2][/us/pl/106/448/s2], Nov. 6, 2000, [114 Stat. 1939][/us/stat/114/1939], provided that: 
+[Pub. L. 106–448][/us/pl/106/448], § 2, Nov. 6, 2000, [114 Stat. 1939][/us/stat/114/1939], provided that: 
 
 > “The amendment made by section 1 \[amending this section\] shall apply to persons applying for naturalization before, on, or after the date of the enactment of this Act \[Nov. 6, 2000\].”
 
@@ -73,7 +73,7 @@
 
  __Demonstration Projects To Provide for Administration of Oath of Allegiance__ 
 
-[Pub. L. 104–208, div. C, title VI, § 647][/us/pl/104/208/s647], Sept. 30, 1996, [110 Stat. 3009–710][/us/stat/110/3009-710], provided that:
+[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 647, Sept. 30, 1996, [110 Stat. 3009–710][/us/stat/110/3009-710], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -120,27 +120,27 @@
 [/us/usc/t8/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F258
-[/us/pl/97/116/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1621
-[/us/pl/101/649/s407/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F18
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/102/232/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F2
+[/us/pl/102/232/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtI
 [/us/stat/105/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1736
-[/us/pl/106/448/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F448%2Fs1
+[/us/pl/106/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F448
 [/us/stat/114/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1939
 [/us/pl/106/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F448
 [/us/usc/t8/s1427/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1427%2Fa%2F3
-[/us/pl/102/232/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F2
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/usc/t8/s1445/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445%2Fe
-[/us/pl/102/232/s305/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fi
-[/us/pl/101/649/s407/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F18
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fb
-[/us/pl/101/649/s407/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F18
-[/us/pl/101/649/s407/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F18
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1445/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445%2Fe
-[/us/pl/101/649/s407/d/15/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F15%2FD
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
-[/us/pl/106/448/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F448%2Fs2
+[/us/pl/106/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F448
 [/us/stat/114/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1939
 [/us/pl/102/232/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fb%2F2
 [/us/pl/102/232/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs102%2Fc
@@ -153,7 +153,7 @@
 [/us/pl/97/116/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs21%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/208/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs647
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-710
 [/us/usc/t8/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1448%2Fa
 

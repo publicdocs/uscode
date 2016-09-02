@@ -17,7 +17,7 @@
 
     Prior to the admission of an alien under the visa waiver program established under [section 1187 of this title][/us/usc/t8/s1187], the Immigration and Naturalization Service shall determine that the applicant for admission does not appear in any of the appropriate lookout databases available to immigration inspectors at the time the alien seeks admission to the United States.
 
-([Pub. L. 107–173, title III, § 307(b)][/us/pl/107/173/s307/b], May 14, 2002, [116 Stat. 556][/us/stat/116/556].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 307(b), May 14, 2002, [116 Stat. 556][/us/stat/116/556].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/pl/107/173/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs307%2Fb
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F556
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

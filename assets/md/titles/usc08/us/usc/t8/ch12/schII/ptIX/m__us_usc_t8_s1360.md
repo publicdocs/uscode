@@ -33,7 +33,7 @@
 
         A written certification signed by the Attorney General or by any officer of the Service designated by the Attorney General to make such certification, that after diligent search no record or entry of a specified nature is found to exist in the records of the Service, shall be admissible as evidence in any proceeding as evidence that the records of the Service contain no such record or entry, and shall have the same effect as the testimony of a witness given in open court.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 290, [66 Stat. 234][/us/stat/66/234]; [Pub. L. 100–525, § 9(q)][/us/pl/100/525/s9/q], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(M)][/us/pl/104/208/s308/d/4/M], title IV, § 414(a), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–669.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 290, [66 Stat. 234][/us/stat/66/234]; [Pub. L. 100–525][/us/pl/100/525], § 9(q), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(M), title IV, § 414(a), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–669.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 308(d)(4)(M)][/us/pl/104/208/s308/d/4/M], substituted “admitted or denied admission to the United States” for “admitted to the United States, or excluded therefrom” in two places.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 308(d)(4)(M), substituted “admitted or denied admission to the United States” for “admitted to the United States, or excluded therefrom” in two places.
 
-    Subsec. (c). [Pub. L. 104–208, § 414(a)][/us/pl/104/208/s414/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Health and Human Services shall notify the Attorney General upon request whenever any alien is issued a social security account number and social security card. The Secretary shall also furnish such available information as may be requested by the Attorney General regarding the identity and location of aliens in the United States.”
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 414(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Health and Human Services shall notify the Attorney General upon request whenever any alien is issued a social security account number and social security card. The Secretary shall also furnish such available information as may be requested by the Attorney General regarding the identity and location of aliens in the United States.”
 
     1988—Subsec. (c). [Pub. L. 100–525][/us/pl/100/525] substituted “Secretary of Health and Human Services” for “Federal Security Administrator” and “The Secretary” for “The Administrator”.
 
@@ -57,7 +57,7 @@
 
  __Report on Fraudulent Use of Social Security Account Numbers__ 
 
-    [Pub. L. 104–208, div. C, title IV, § 414(b)][/us/pl/104/208/s414/b], Sept. 30, 1996, [110 Stat. 3009–669][/us/stat/110/3009-669], as amended by [Pub. L. 108–156, § 3(d)][/us/pl/108/156/s3/d], Dec. 3, 2003, [117 Stat. 1945][/us/stat/117/1945], directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
+    [Pub. L. 104–208, div. C, title IV][/us/pl/104/208/dC/tIV], § 414(b), Sept. 30, 1996, [110 Stat. 3009–669][/us/stat/110/3009-669], as amended by [Pub. L. 108–156][/us/pl/108/156], § 3(d), Dec. 3, 2003, [117 Stat. 1945][/us/stat/117/1945], directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
 
 ----------
 
@@ -68,23 +68,23 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F234
-[/us/pl/100/525/s9/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fq
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/104/208/s308/d/4/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FM
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-618
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s308/d/4/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FM
-[/us/pl/104/208/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs414%2Fa
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/104/208/s308/d/4/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FM
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/208/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs414%2Fb
+[/us/pl/104/208/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIV
 [/us/stat/110/3009-669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-669
-[/us/pl/108/156/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F156%2Fs3%2Fd
+[/us/pl/108/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F156
 [/us/stat/117/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1945
 
 

@@ -27,7 +27,7 @@
 
         A person who has been issued a certificate of identity under the provisions of subsection (b), and while in possession thereof, may apply for admission to the United States at any port of entry, and shall be subject to all the provisions of this chapter relating to the conduct of proceedings involving aliens seeking admission to the United States. A final determination by the Attorney General that any such person is not entitled to admission to the United States shall be subject to review by any court of competent jurisdiction in habeas corpus proceedings and not otherwise. Any person described in this section who is finally denied admission to the United States shall be subject to all the provisions of this chapter relating to aliens seeking admission to the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 360, [66 Stat. 273][/us/stat/66/273]; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(P)][/us/pl/104/208/s308/d/4/P], Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 4, § 360, [66 Stat. 273][/us/stat/66/273]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(P), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 308(d)(4)(P)(i)][/us/pl/104/208/s308/d/4/P/i], substituted “removal” for “exclusion” in two places.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 308(d)(4)(P)(i), substituted “removal” for “exclusion” in two places.
 
-    Subsec. (c). [Pub. L. 104–208, § 308(d)(4)(P)(ii)][/us/pl/104/208/s308/d/4/P/ii], substituted “denied admission” for “excluded from admission”.
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 308(d)(4)(P)(ii), substituted “denied admission” for “excluded from admission”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -57,13 +57,13 @@
 [/us/usc/t28/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2201
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F273
-[/us/pl/104/208/s308/d/4/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FP
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s308/d/4/P/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FP%2Fi
-[/us/pl/104/208/s308/d/4/P/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FP%2Fii
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

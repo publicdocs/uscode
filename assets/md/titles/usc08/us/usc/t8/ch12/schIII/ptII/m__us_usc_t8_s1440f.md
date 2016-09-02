@@ -63,7 +63,7 @@
 
             The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
 
-([Pub. L. 110–251, § 2][/us/pl/110/251/s2], June 26, 2008, [122 Stat. 2319][/us/stat/122/2319].)
+([Pub. L. 110–251][/us/pl/110/251], § 2, June 26, 2008, [122 Stat. 2319][/us/stat/122/2319].)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/110/251/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F251%2Fs2
+[/us/pl/110/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F251
 [/us/stat/122/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2319
 
 

@@ -41,7 +41,7 @@
 
         There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 107–56, title IV, § 403(c)][/us/pl/107/56/s403/c], Oct. 26, 2001, [115 Stat. 344][/us/stat/115/344]; [Pub. L. 107–173, title II][/us/pl/107/173], §§ 201(c)(5), 202(a)(4)(B), May 14, 2002, [116 Stat. 548][/us/stat/116/548], 549.)
+([Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 403(c), Oct. 26, 2001, [115 Stat. 344][/us/stat/115/344]; [Pub. L. 107–173, title II][/us/pl/107/173/tII], §§ 201(c)(5), 202(a)(4)(B), May 14, 2002, [116 Stat. 548][/us/stat/116/548], 549.)
 
  __Codification__ 
 
@@ -51,13 +51,13 @@
 
     2002—Par. (1). [Pub. L. 107–173][/us/pl/107/173], §§ 201(c)(5)(A), 202(a)(4)(B)(i), substituted “15 months” for “2 years” and inserted “, including appropriate biometric identifier standards,” after “technology standard”.
 
-    Par. (2). [Pub. L. 107–173, § 202(a)(4)(B)(ii)][/us/pl/107/173/s202/a/4/B/ii], substituted “Interoperable” for “Integrated” in heading and “interoperable” for “integrated” in text.
+    Par. (2). [Pub. L. 107–173][/us/pl/107/173], § 202(a)(4)(B)(ii), substituted “Interoperable” for “Integrated” in heading and “interoperable” for “integrated” in text.
 
-    Par. (4). [Pub. L. 107–173, § 201(c)(5)(B)][/us/pl/107/173/s201/c/5/B], substituted “one year” for “18 months”.
+    Par. (4). [Pub. L. 107–173][/us/pl/107/173], § 201(c)(5)(B), substituted “one year” for “18 months”.
 
  __Report on the Integrated Automated Fingerprint Identification System for Ports of Entry and Overseas Consular Posts__ 
 
-[Pub. L. 107–56, title IV, § 405][/us/pl/107/56/s405], Oct. 26, 2001, [115 Stat. 345][/us/stat/115/345], provided that:
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 405, Oct. 26, 2001, [115 Stat. 345][/us/stat/115/345], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/107/56/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs403%2Fc
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F344
-[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F548
 [/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
-[/us/pl/107/173/s202/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs202%2Fa%2F4%2FB%2Fii
-[/us/pl/107/173/s201/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs201%2Fc%2F5%2FB
-[/us/pl/107/56/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs405
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F345
 
 

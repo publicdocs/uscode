@@ -105,7 +105,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2008.
 
-([Pub. L. 104–208, div. C, title I, § 110][/us/pl/104/208/s110], Sept. 30, 1996, [110 Stat. 3009–558][/us/stat/110/3009-558]; [Pub. L. 105–259, § 1][/us/pl/105/259/s1], Oct. 15, 1998, [112 Stat. 1918][/us/stat/112/1918]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 116\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 106–215, § 2(a)][/us/pl/106/215/s2/a], June 15, 2000, [114 Stat. 337][/us/stat/114/337].)
+([Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 110, Sept. 30, 1996, [110 Stat. 3009–558][/us/stat/110/3009-558]; [Pub. L. 105–259][/us/pl/105/259], § 1, Oct. 15, 1998, [112 Stat. 1918][/us/stat/112/1918]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 116\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–68; [Pub. L. 106–215][/us/pl/106/215], § 2(a), June 15, 2000, [114 Stat. 337][/us/stat/114/337].)
 
  __References in Text__ 
 
@@ -143,11 +143,11 @@
 
     “(c) Use of Information on Overstays.—Information regarding aliens who have remained in the United Staty beyond their authorized period of stay identified through the system shall be integrated into appropriate data bases of the Immigration and Naturalization Service and the Department of State, including those used at ports of entry and at consular offices.”
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 116(1)][/us/pl/105/277/s116/1], in introductory provisions, substituted “later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney” for “later than October 15, 1998, the Attorney”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 116(1), in introductory provisions, substituted “later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney” for “later than October 15, 1998, the Attorney”.
 
     [Pub. L. 105–259][/us/pl/105/259] in introductory provisions, substituted “October 15, 1998” for “2 years after September 30, 1996”.
 
-    Subsec. (a)(3). [Pub. L. 105–277, § 116(2)][/us/pl/105/277/s116/2]–(4), added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–277][/us/pl/105/277], § 116(2)–(4), added par. (3).
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -155,7 +155,7 @@
 
  __Visa Integrity and Security__ 
 
-[Pub. L. 107–56, title IV, § 414][/us/pl/107/56/s414], Oct. 26, 2001, [115 Stat. 353][/us/stat/115/353], as amended by [Pub. L. 107–173, title II, § 201(b)(2)][/us/pl/107/173/s201/b/2], May 14, 2002, [116 Stat. 547][/us/stat/116/547], provided that:
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 414, Oct. 26, 2001, [115 Stat. 353][/us/stat/115/353], as amended by [Pub. L. 107–173, title II][/us/pl/107/173/tII], § 201(b)(2), May 14, 2002, [116 Stat. 547][/us/stat/116/547], provided that:
 
 >     “(a) __Sense of Congress Regarding the Need To Expedite Implementation of Integrated Entry and Exit Data System.—__ 
 
@@ -185,7 +185,7 @@
 
  __Task Force__ 
 
-[Pub. L. 106–215, § 3][/us/pl/106/215/s3], June 15, 2000, [114 Stat. 339][/us/stat/114/339], as amended by [Pub. L. 107–56, title IV, § 415][/us/pl/107/56/s415], Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
+[Pub. L. 106–215][/us/pl/106/215], § 3, June 15, 2000, [114 Stat. 339][/us/stat/114/339], as amended by [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 415, Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -327,32 +327,32 @@
 [/us/usc/t8/s1182/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F7%2FB
 [/us/usc/t8/s1182/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F4%2FB
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/pl/104/208/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs110
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-558
-[/us/pl/105/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F259%2Fs1
+[/us/pl/105/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F259
 [/us/stat/112/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1918
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/106/215/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215%2Fs2%2Fa
+[/us/pl/106/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215
 [/us/stat/114/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F337
 [/us/pl/106/215/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215%2Fs3
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
 [/us/pl/106/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/pl/105/277/s116/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs116%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F259
-[/us/pl/105/277/s116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs116%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/56/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs414
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F353
-[/us/pl/107/173/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs201%2Fb%2F2
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F547
 [/us/usc/t8/s1365a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365a
 [/us/pl/106/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215
 [/us/usc/t8/s1365a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365a
-[/us/pl/106/215/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215%2Fs3
+[/us/pl/106/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215
 [/us/stat/114/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F339
-[/us/pl/107/56/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs415
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F354
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
 [/us/usc/t8/s1365a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365a

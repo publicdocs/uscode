@@ -17,13 +17,13 @@
 
     Special immigrant inspectors, not to exceed three, may be detailed for duty in the service at Washington.
 
-([Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 780][/us/stat/28/780]; Ex. Ord. No. 6166, § 14, June 10, 1933.)
+([Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 1, [28 Stat. 780][/us/stat/28/780]; Ex. Ord. No. 6166, § 14, June 10, 1933.)
 
  __Codification__ 
 
     Ex. Ord. No. 6166, is authority for the substitution of “service” for “bureau.” See note set out under [section 1551 of this title][/us/usc/t8/s1551].
 
-    Section was formerly classified to [section 342g of Title 5][/us/usc/t5/s342g] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]. Thereafter, it was classified to [section 111 of this title][/us/usc/t8/s111] prior to its transfer to this section.
+    Section was formerly classified to [section 342g of Title 5][/us/usc/t5/s342g] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]. Thereafter, it was classified to [section 111 of this title][/us/usc/t8/s111] prior to its transfer to this section.
 
  __Transfer of Functions__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F780
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/usc/t5/s342g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs342g
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t8/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs111
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091

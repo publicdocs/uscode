@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch11/schVI/m__us_usc_t8_ch11_schVI.md) | [Next](./../../../..//us/usc/t8/ch12/schI/m__us_usc_t8_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch12)
+[Previous](./../../../..//us/usc/t8/ch11/schVI/m__us_usc_t8_s1001...1006.md) | [Next](./../../../..//us/usc/t8/ch12/schI/m__us_usc_t8_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch12)
 
 ## CHAPTER 12—IMMIGRATION AND NATIONALITY
 
@@ -1987,7 +1987,7 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch11/schVI/m__us_usc_t8_ch11_schVI.md) | [Next](./../../../..//us/usc/t8/ch12/schI/m__us_usc_t8_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch12)
+[Previous](./../../../..//us/usc/t8/ch11/schVI/m__us_usc_t8_s1001...1006.md) | [Next](./../../../..//us/usc/t8/ch12/schI/m__us_usc_t8_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch12)
 
 ----------
 ----------

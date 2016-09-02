@@ -31,7 +31,7 @@
 
         For purposes of this section, the term “female genital mutilation” means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
 
-([Pub. L. 104–208, div. C, title VI, § 644][/us/pl/104/208/s644], Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708].)
+([Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 644, Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs644
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-708
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

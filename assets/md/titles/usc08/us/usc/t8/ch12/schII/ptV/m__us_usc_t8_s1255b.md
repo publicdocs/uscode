@@ -33,7 +33,7 @@
 
         The number of aliens who may be granted the status of aliens lawfully admitted for permanent residence in any fiscal year, pursuant to this section, shall not exceed fifty.
 
-([Pub. L. 85–316, § 13][/us/pl/85/316/s13], Sept. 11, 1957, [71 Stat. 642][/us/stat/71/642]; [Pub. L. 97–116, § 17][/us/pl/97/116/s17], Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 100–525, § 9(kk)][/us/pl/100/525/s9/kk], Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622]; [Pub. L. 103–416, title II, § 207][/us/pl/103/416/s207], Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312]; [Pub. L. 104–208, div. C, title VI, § 671(b)(4)][/us/pl/104/208/s671/b/4], Sept. 30, 1996, [110 Stat. 3009–721][/us/stat/110/3009-721].)
+([Pub. L. 85–316][/us/pl/85/316], § 13, Sept. 11, 1957, [71 Stat. 642][/us/stat/71/642]; [Pub. L. 97–116][/us/pl/97/116], § 17, Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 100–525][/us/pl/100/525], § 9(kk), Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622]; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 207, Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312]; [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 671(b)(4), Sept. 30, 1996, [110 Stat. 3009–721][/us/stat/110/3009-721].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to directory language of [Pub. L. 103–416, § 207(2)][/us/pl/103/416/s207/2]. See 1994 Amendment note below.
+    1996—Subsec. (c). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to directory language of [Pub. L. 103–416][/us/pl/103/416], § 207(2). See 1994 Amendment note below.
 
-    1994—Subsec. (c). [Pub. L. 103–416, § 207(1)][/us/pl/103/416/s207/1], struck out after second sentence “If, during the session of the Congress at which a case is reported, or prior to the close of the session of Congress next following the session at which a case is reported, either the Senate or the House of Representatives passes a resolution stating in substance that it does not favor the adjustment of status of such alien, the Attorney General shall thereupon require the departure of such alien in the manner provided by law.”
+    1994—Subsec. (c). [Pub. L. 103–416][/us/pl/103/416], § 207(1), struck out after second sentence “If, during the session of the Congress at which a case is reported, or prior to the close of the session of Congress next following the session at which a case is reported, either the Senate or the House of Representatives passes a resolution stating in substance that it does not favor the adjustment of status of such alien, the Attorney General shall thereupon require the departure of such alien in the manner provided by law.”
 
-    [Pub. L. 103–416, § 207(2)][/us/pl/103/416/s207/2], as amended by [Pub. L. 104–208][/us/pl/104/208], substituted “The” for “If neither the Senate nor the House of Representatives passes such a resolution within the time above specified, the”.
+    [Pub. L. 103–416][/us/pl/103/416], § 207(2), as amended by [Pub. L. 104–208][/us/pl/104/208], substituted “The” for “If neither the Senate nor the House of Representatives passes such a resolution within the time above specified, the”.
 
     1988—Subsec. (b). [Pub. L. 100–525][/us/pl/100/525] struck out “of” after “as of the date”.
 
@@ -81,23 +81,23 @@
 [/us/usc/t8/s1101/a/15/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FA%2Fi
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1152
-[/us/pl/85/316/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F316%2Fs13
+[/us/pl/85/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F316
 [/us/stat/71/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F642
-[/us/pl/97/116/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs17
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1619
-[/us/pl/100/525/s9/kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fkk
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2622
-[/us/pl/103/416/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs207
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4312
-[/us/pl/104/208/s671/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fb%2F4
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-721
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/416/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs207%2F2
-[/us/pl/103/416/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs207%2F1
-[/us/pl/103/416/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs207%2F2
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116

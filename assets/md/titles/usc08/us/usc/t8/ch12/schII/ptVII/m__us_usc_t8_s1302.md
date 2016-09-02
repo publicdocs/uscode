@@ -21,7 +21,7 @@
 
     (c) The Attorney General may, in his discretion and on the basis of reciprocity pursuant to such regulations as he may prescribe, waive the requirement of fingerprinting specified in subsections (a) and (b) in the case of any nonimmigrant.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 262, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 99–653, § 9][/us/pl/99/653/s9], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525, § 8(h)][/us/pl/100/525/s8/h], Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617]; [Pub. L. 103–416, title II, § 219(n)][/us/pl/103/416/s219/n], Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 262, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 99–653][/us/pl/99/653], § 9, Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525][/us/pl/100/525], § 8(h), Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617]; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(n), Oct. 25, 1994, [108 Stat. 4317][/us/stat/108/4317].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
     1988—[Pub. L. 100–525][/us/pl/100/525] amended [Pub. L. 99–653][/us/pl/99/653]. See 1986 Amendment note below.
 
-    1986—[Pub. L. 99–653, § 9][/us/pl/99/653/s9], as amended by [Pub. L. 100–525][/us/pl/100/525], added subsec. (c). As originally enacted, [Pub. L. 99–653, § 9][/us/pl/99/653/s9], amended subsec. (a) of this section by striking out “[section 1201(b) of this title][/us/usc/t8/s1201/b] or” after “registered and fingerprinted under”. [Pub. L. 100–525][/us/pl/100/525] revised [Pub. L. 99–653, § 9][/us/pl/99/653/s9], so as to add subsec. (c) and eliminate the original amendment of subsec. (a), thereby restoring the words “[section 1201(b) of this title][/us/usc/t8/s1201/b] or”. See Effective Date of 1988 Amendment note below.
+    1986—[Pub. L. 99–653][/us/pl/99/653], § 9, as amended by [Pub. L. 100–525][/us/pl/100/525], added subsec. (c). As originally enacted, [Pub. L. 99–653][/us/pl/99/653], § 9, amended subsec. (a) of this section by striking out “[section 1201(b) of this title][/us/usc/t8/s1201/b] or” after “registered and fingerprinted under”. [Pub. L. 100–525][/us/pl/100/525] revised [Pub. L. 99–653][/us/pl/99/653], § 9, so as to add subsec. (c) and eliminate the original amendment of subsec. (a), thereby restoring the words “[section 1201(b) of this title][/us/usc/t8/s1201/b] or”. See Effective Date of 1988 Amendment note below.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -66,23 +66,23 @@
 [/us/usc/t8/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F224
-[/us/pl/99/653/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs9
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3657
-[/us/pl/100/525/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fh
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2617
-[/us/pl/103/416/s219/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fn
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4317
 [/us/act/1940-06-28/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch439
 [/us/stat/54/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F670
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
-[/us/pl/99/653/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs9
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
-[/us/pl/99/653/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs9
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/usc/t8/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201%2Fb
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
-[/us/pl/99/653/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs9
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/usc/t8/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201%2Fb
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

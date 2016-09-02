@@ -17,7 +17,7 @@
 
     Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: Provided, That funds collected pursuant to this authority shall be credited to this account, and shall be available until expended for the purposes of such account: Provided further, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
 
-([Pub. L. 108–447, div. B, title IV][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2896][/us/stat/118/2896].)
+([Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], Dec. 8, 2004, [118 Stat. 2896][/us/stat/118/2896].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Authority to Administratively Amend Surcharges__ 
 
-[Pub. L. 109–472, § 6][/us/pl/109/472/s6], Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555], provided that:
+[Pub. L. 109–472][/us/pl/109/472], § 6, Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2896
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/109/472/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs6
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3555
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 

@@ -73,13 +73,13 @@
 
         The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 ([Public Law 107–56][/us/pl/107/56]).
 
-([Pub. L. 107–173, § 2][/us/pl/107/173/s2], May 14, 2002, [116 Stat. 544][/us/stat/116/544]; [Pub. L. 107–296, title XI, § 1112(c)][/us/pl/107/296/s1112/c], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–293, title VI, § 619][/us/pl/108/293/s619], Aug. 9, 2004, [118 Stat. 1062][/us/stat/118/1062].)
+([Pub. L. 107–173][/us/pl/107/173], § 2, May 14, 2002, [116 Stat. 544][/us/stat/116/544]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(c), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 619, Aug. 9, 2004, [118 Stat. 1062][/us/stat/118/1062].)
 
  __References in Text__ 
 
     This chapter, referred to in introductory provisions, was in the original “this Act”, meaning [Pub. L. 107–173][/us/pl/107/173], May 14, 2002, [116 Stat. 543][/us/stat/116/543], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-    The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was [Pub. L. 107–56][/us/pl/107/56], Oct. 26, 2001, [115 Stat. 272][/us/stat/115/272]. [Pub. L. 107–56][/us/pl/107/56] was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by [Pub. L. 109–177, title I, § 101(b)][/us/pl/109/177/s101/b], Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194]. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18][/us/usc/t18/s1], Crimes and Criminal Procedure, and Tables.
+    The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was [Pub. L. 107–56][/us/pl/107/56], Oct. 26, 2001, [115 Stat. 272][/us/stat/115/272]. [Pub. L. 107–56][/us/pl/107/56] was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 101(b), Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194]. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18][/us/usc/t18/s1], Crimes and Criminal Procedure, and Tables.
 
  __Amendments__ 
 
@@ -99,7 +99,7 @@
 
  __Short Title__ 
 
-[Pub. L. 107–173, § 1(a)][/us/pl/107/173/s1/a], May 14, 2002, [116 Stat. 543][/us/stat/116/543], provided that: 
+[Pub. L. 107–173][/us/pl/107/173], § 1(a), May 14, 2002, [116 Stat. 543][/us/stat/116/543], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under [section 1221 of this title][/us/usc/t8/s1221], and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
 
@@ -115,7 +115,7 @@
 
  __Achieving Operational Control on the Border__ 
 
-[Pub. L. 109–367, § 2][/us/pl/109/367/s2], Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638], provided that:
+[Pub. L. 109–367][/us/pl/109/367], § 2, Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Border Surveillance__ 
 
-[Pub. L. 108–458, title V, § 5201][/us/pl/108/458/s5201], Dec. 17, 2004, [118 Stat. 3733][/us/stat/118/3733], provided that:
+[Pub. L. 108–458, title V][/us/pl/108/458/tV], § 5201, Dec. 17, 2004, [118 Stat. 3733][/us/stat/118/3733], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -190,18 +190,18 @@
 [/us/usc/t8/s1722/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722%2Fa%2F2
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/107/173/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs2
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
 [/us/stat/116/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F544
-[/us/pl/107/296/s1112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fc
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
-[/us/pl/108/293/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs619
+[/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1062
 [/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
 [/us/stat/116/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F543
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/stat/115/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F272
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/109/177/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs101%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F194
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
@@ -211,15 +211,15 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/173/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs1%2Fa
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
 [/us/stat/116/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F543
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/109/367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F367%2Fs2
+[/us/pl/109/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F367
 [/us/stat/120/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2638
-[/us/pl/108/458/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs5201
+[/us/pl/108/458/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtV
 [/us/stat/118/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3733
 
 

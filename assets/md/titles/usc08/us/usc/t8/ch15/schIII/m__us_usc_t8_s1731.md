@@ -33,7 +33,7 @@
 
         (2) consider implementing the North American National Security Program described in [section 1751 of this title][/us/usc/t8/s1751].
 
-([Pub. L. 107–173, title III, § 302][/us/pl/107/173/s302], May 14, 2002, [116 Stat. 552][/us/stat/116/552].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 302, May 14, 2002, [116 Stat. 552][/us/stat/116/552].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 [/us/usc/t8/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1379
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t8/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1751
-[/us/pl/107/173/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs302
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F552
 [/us/pl/106/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F215
 [/us/stat/114/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F337

@@ -39,7 +39,7 @@
 
         The authority of this section shall terminate upon the implementation of the Chimera system.
 
-([Pub. L. 107–173, title II, § 204][/us/pl/107/173/s204], May 14, 2002, [116 Stat. 551][/us/stat/116/551].)
+([Pub. L. 107–173, title II][/us/pl/107/173/tII], § 204, May 14, 2002, [116 Stat. 551][/us/stat/116/551].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t8/s1722/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722%2Fa%2F2
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
-[/us/pl/107/173/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs204
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F551
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 

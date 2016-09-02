@@ -183,7 +183,7 @@
 
             The term “other approved educational institution” includes any air flight school, language training school, or vocational school, approved by the Attorney General, in consultation with the Secretary of Education and the Secretary of State, under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
 
-([Pub. L. 104–208, div. C, title VI, § 641][/us/pl/104/208/s641], Sept. 30, 1996, [110 Stat. 3009–704][/us/stat/110/3009-704]; [Pub. L. 106–396, title IV][/us/pl/106/396], §§ 404–406, Oct. 30, 2000, [114 Stat. 1649][/us/stat/114/1649], 1650; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title I, § 110\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–68; [Pub. L. 107–56, title IV, § 416(c)][/us/pl/107/56/s416/c], Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354]; [Pub. L. 107–173, title V, § 501(a)][/us/pl/107/173/s501/a], May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
+([Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 641, Sept. 30, 1996, [110 Stat. 3009–704][/us/stat/110/3009-704]; [Pub. L. 106–396, title IV][/us/pl/106/396/tIV], §§ 404–406, Oct. 30, 2000, [114 Stat. 1649][/us/stat/114/1649], 1650; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title I, § 110\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–68; [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 416(c), Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354]; [Pub. L. 107–173, title V][/us/pl/107/173/tV], § 501(a), May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
 
  __References in Text__ 
 
@@ -195,55 +195,55 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a)(3), (4). [Pub. L. 107–173, § 501(a)(1)][/us/pl/107/173/s501/a/1], added pars. (3) and (4).
+    2002—Subsec. (a)(3), (4). [Pub. L. 107–173][/us/pl/107/173], § 501(a)(1), added pars. (3) and (4).
 
-    Subsec. (c)(1)(E) to (H). [Pub. L. 107–173, § 501(a)(2)][/us/pl/107/173/s501/a/2], added subpars. (E) to (H).
+    Subsec. (c)(1)(E) to (H). [Pub. L. 107–173][/us/pl/107/173], § 501(a)(2), added subpars. (E) to (H).
 
-    Subsec. (c)(5). [Pub. L. 107–173, § 501(a)(3)][/us/pl/107/173/s501/a/3], added par. (5).
+    Subsec. (c)(5). [Pub. L. 107–173][/us/pl/107/173], § 501(a)(3), added par. (5).
 
-    2001—Subsec. (a)(1). [Pub. L. 107–56, § 416(c)(1)][/us/pl/107/56/s416/c/1], inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
+    2001—Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(1), inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 107–56, § 416(c)(2)][/us/pl/107/56/s416/c/2], inserted “, or other approved educational institution,” after “higher education”.
+    Subsec. (c)(1)(C), (D). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(2), inserted “, or other approved educational institution,” after “higher education”.
 
-    Subsec. (c)(4)(A). [Pub. L. 107–56, § 416(c)(1)][/us/pl/107/56/s416/c/1], inserted “, other approved educational institutions,” after “higher education”.
+    Subsec. (c)(4)(A). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(1), inserted “, other approved educational institutions,” after “higher education”.
 
-    Subsec. (d)(1). [Pub. L. 107–56, § 416(c)(1)][/us/pl/107/56/s416/c/1], inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(1), inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 107–56, § 416(c)(2)][/us/pl/107/56/s416/c/2], inserted “, or other approved educational institution,” after “higher education”.
+    Subsec. (d)(1)(A). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(2), inserted “, or other approved educational institution,” after “higher education”.
 
-    Subsec. (d)(2). [Pub. L. 107–56, § 416(c)(3)][/us/pl/107/56/s416/c/3], inserted “, other approved educational institution,” after “higher education”.
+    Subsec. (d)(2). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(3), inserted “, other approved educational institution,” after “higher education”.
 
-    Subsec. (e)(1), (2). [Pub. L. 107–56, § 416(c)(3)][/us/pl/107/56/s416/c/3], which directed insertion of “, other approved educational institution,” after “higher education” in pars. (1) and (2), could not be executed because the words “higher education” did not appear. See 2000 Amendment notes below.
+    Subsec. (e)(1), (2). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(3), which directed insertion of “, other approved educational institution,” after “higher education” in pars. (1) and (2), could not be executed because the words “higher education” did not appear. See 2000 Amendment notes below.
 
-    Subsec. (h)(3). [Pub. L. 107–56, § 416(c)(4)][/us/pl/107/56/s416/c/4], added par. (3).
+    Subsec. (h)(3). [Pub. L. 107–56][/us/pl/107/56], § 416(c)(4), added par. (3).
 
-    2000—Subsec. (d)(1). [Pub. L. 106–396, § 406(2)][/us/pl/106/396/s406/2], inserted “institutions of higher education or exchange visitor programs” after “by” in introductory provisions.
+    2000—Subsec. (d)(1). [Pub. L. 106–396][/us/pl/106/396], § 406(2), inserted “institutions of higher education or exchange visitor programs” after “by” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 106–396, § 404(1)][/us/pl/106/396/s404/1], in introductory provisions, substituted “the Attorney General” for “an approved institution of higher education and a designated exchange visitor program” and “a time prior to the alien being classified under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].” for “the time—
+    Subsec. (e)(1). [Pub. L. 106–396][/us/pl/106/396], § 404(1), in introductory provisions, substituted “the Attorney General” for “an approved institution of higher education and a designated exchange visitor program” and “a time prior to the alien being classified under subparagraph (F), (J), or (M) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].” for “the time—
 
     “(A) when the alien first registers with the institution or program after entering the United States; or
 
     “(B) in a case where a registration under subparagraph (A) does not exist, when the alien first commences activities in the United States with the institution or program.”
 
-    Subsec. (e)(2). [Pub. L. 106–396, § 404(2)][/us/pl/106/396/s404/2], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “An approved institution of higher education and a designated exchange visitor program shall remit the fees collected under paragraph (1) to the Attorney General pursuant to a schedule established by the Attorney General.”
+    Subsec. (e)(2). [Pub. L. 106–396][/us/pl/106/396], § 404(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “An approved institution of higher education and a designated exchange visitor program shall remit the fees collected under paragraph (1) to the Attorney General pursuant to a schedule established by the Attorney General.”
 
-    Subsec. (e)(3). [Pub. L. 106–396, § 404(3)][/us/pl/106/396/s404/3], substituted “alien who seeks” for “alien who has” and “who seeks to come” for “who has come”.
+    Subsec. (e)(3). [Pub. L. 106–396][/us/pl/106/396], § 404(3), substituted “alien who seeks” for “alien who has” and “who seeks to come” for “who has come”.
 
-    Subsec. (e)(4)(A). [Pub. L. 106–553][/us/pl/106/553] inserted before period at end of second sentence “, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35” without reference to amendment made by [Pub. L. 106–396, § 404(4)(A)][/us/pl/106/396/s404/4/A]. See below.
+    Subsec. (e)(4)(A). [Pub. L. 106–553][/us/pl/106/553] inserted before period at end of second sentence “, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35” without reference to amendment made by [Pub. L. 106–396][/us/pl/106/396], § 404(4)(A). See below.
 
-    [Pub. L. 106–396, § 404(4)(A)][/us/pl/106/396/s404/4/A], inserted before period at end of second sentence “, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40”. See amendment note above.
+    [Pub. L. 106–396][/us/pl/106/396], § 404(4)(A), inserted before period at end of second sentence “, except that, in the case of an alien admitted under [section 1101(a)(15)(J) of this title][/us/usc/t8/s1101/a/15/J] as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40”. See amendment note above.
 
-    Subsec. (e)(4)(B). [Pub. L. 106–396, § 404(4)(B)][/us/pl/106/396/s404/4/B], inserted at end “Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a).”
+    Subsec. (e)(4)(B). [Pub. L. 106–396][/us/pl/106/396], § 404(4)(B), inserted at end “Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a).”
 
-    Subsec. (e)(5), (6). [Pub. L. 106–396, § 404(5)][/us/pl/106/396/s404/5], added pars. (5) and (6).
+    Subsec. (e)(5), (6). [Pub. L. 106–396][/us/pl/106/396], § 404(5), added pars. (5) and (6).
 
-    Subsec. (g)(1). [Pub. L. 106–396, § 405][/us/pl/106/396/s405], amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
+    Subsec. (g)(1). [Pub. L. 106–396][/us/pl/106/396], § 405, amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
     “(A) In general.—Not later than 6 months after the submission of the report required by subsection (f) of this section, the Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall commence expansion of the program to cover the nationals of all countries.
 
     “(B) Deadline.—Such expansion shall be completed not later than 1 year after the date of the submission of the report referred to in subsection (f) of this section.”
 
-    Subsec. (h)(2)(A). [Pub. L. 106–396, § 406(1)][/us/pl/106/396/s406/1], substituted “Secretary of State” for “Director of the United States Information Agency”.
+    Subsec. (h)(2)(A). [Pub. L. 106–396][/us/pl/106/396], § 406(1), substituted “Secretary of State” for “Director of the United States Information Agency”.
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -251,7 +251,7 @@
 
  __Foreign Student Monitoring Program__ 
 
-[Pub. L. 107–56, title IV, § 416(a)][/us/pl/107/56/s416/a], (b), Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 416(a), (b), Oct. 26, 2001, [115 Stat. 354][/us/stat/115/354], provided that:
 
 >     “(a)  __Full Implementation and Expansion of Foreign Student Visa Monitoring Program Required__  __.—__ 
 
@@ -286,47 +286,47 @@
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1101/a/15/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FJ
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/104/208/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs641
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-704
-[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2FtIV
 [/us/stat/114/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1649
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/56/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F354
-[/us/pl/107/173/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501%2Fa
+[/us/pl/107/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtV
 [/us/stat/116/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F560
 [/us/pl/93/380/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs513
 [/us/stat/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F571
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
-[/us/pl/107/173/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501%2Fa%2F1
-[/us/pl/107/173/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501%2Fa%2F2
-[/us/pl/107/173/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501%2Fa%2F3
-[/us/pl/107/56/s416/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F1
-[/us/pl/107/56/s416/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F2
-[/us/pl/107/56/s416/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F1
-[/us/pl/107/56/s416/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F1
-[/us/pl/107/56/s416/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F2
-[/us/pl/107/56/s416/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F3
-[/us/pl/107/56/s416/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F3
-[/us/pl/107/56/s416/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fc%2F4
-[/us/pl/106/396/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs406%2F2
-[/us/pl/106/396/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F1
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/106/396/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F2
-[/us/pl/106/396/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F3
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/usc/t8/s1101/a/15/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FJ
-[/us/pl/106/396/s404/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F4%2FA
-[/us/pl/106/396/s404/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F4%2FA
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
 [/us/usc/t8/s1101/a/15/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FJ
-[/us/pl/106/396/s404/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F4%2FB
-[/us/pl/106/396/s404/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs404%2F5
-[/us/pl/106/396/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs405
-[/us/pl/106/396/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs406%2F1
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
+[/us/pl/106/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/56/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs416%2Fa
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F354
 [/us/usc/t8/s1372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1372%2Fa
 [/us/usc/t8/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1372

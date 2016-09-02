@@ -15,7 +15,7 @@
 
 ## § 113. Repealed. [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(13), [66 Stat. 279][/us/stat/66/279], eff. Dec. 24, 1952
 
-    Section, [act Feb. 5, 1917, ch. 29, § 11a][/us/act/1917-02-05/ch29/s11a], [39 Stat. 882][/us/stat/39/882], related to detail of inspectors on vessels.
+    Section, [act Feb. 5, 1917, ch. 29][/us/act/1917-02-05/ch29], § 11a, [39 Stat. 882][/us/stat/39/882], related to detail of inspectors on vessels.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F279
-[/us/act/1917-02-05/ch29/s11a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-05%2Fch29%2Fs11a
+[/us/act/1917-02-05/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-05%2Fch29
 [/us/stat/39/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F882
 
 

@@ -25,7 +25,7 @@
 
         (2) an absence from the United States for purposes of clause (ii) of such section.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 284, [66 Stat. 232][/us/stat/66/232]; [Pub. L. 110–181, div. A, title VI, § 673][/us/pl/110/181/s673], Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 284, [66 Stat. 232][/us/stat/66/232]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 673, Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t8/s1101/a/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F13%2FC
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F232
-[/us/pl/110/181/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs673
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F185
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

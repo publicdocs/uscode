@@ -63,7 +63,7 @@
 
             There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-([Pub. L. 107–173, title V, § 501][/us/pl/107/173/s501], May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
+([Pub. L. 107–173, title V][/us/pl/107/173/tV], § 501, May 14, 2002, [116 Stat. 560][/us/stat/116/560].)
 
  __Codification__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1372
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/107/173/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501
+[/us/pl/107/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtV
 [/us/stat/116/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F560
 [/us/pl/107/173/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501
 [/us/pl/107/173/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs501

@@ -29,7 +29,7 @@
 
         Until such time as the law enforcement and intelligence data system described in [section 1722 of this title][/us/usc/t8/s1722] is fully implemented, the Attorney General shall enter the data described in subsection (a) into an existing data system being used to determine the admissibility or deportability of aliens.
 
-([Pub. L. 107–173, title III, § 308][/us/pl/107/173/s308], May 14, 2002, [116 Stat. 556][/us/stat/116/556].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 308, May 14, 2002, [116 Stat. 556][/us/stat/116/556].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t8/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722
 [/us/usc/t8/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722
-[/us/pl/107/173/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs308
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F556
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

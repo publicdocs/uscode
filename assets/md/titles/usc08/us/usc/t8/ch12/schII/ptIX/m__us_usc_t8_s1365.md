@@ -61,7 +61,7 @@
 
         The term “State” has the meaning given such term in [section 1101(a)(36) of this title][/us/usc/t8/s1101/a/36].
 
-([Pub. L. 99–603, title V, § 501][/us/pl/99/603/s501], Nov. 6, 1986, [100 Stat. 3443][/us/stat/100/3443].)
+([Pub. L. 99–603, title V][/us/pl/99/603/tV], § 501, Nov. 6, 1986, [100 Stat. 3443][/us/stat/100/3443].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Regulations__ 
 
-[Pub. L. 103–317, title VIII][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1778][/us/stat/108/1778], provided in part: 
+[Pub. L. 103–317, title VIII][/us/pl/103/317/tVIII], Aug. 26, 1994, [108 Stat. 1778][/us/stat/108/1778], provided in part: 
 
 > “That the Attorney General shall promulgate regulations to (a) prescribe requirements for program participation eligibility for States, (b) require verification by States of the eligible incarcerated population data with the Immigration and Naturalization Service, (c) prescribe a formula for distributing assistance to eligible States, and (d) award assistance to eligible States”.
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t8/s1101/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F36
-[/us/pl/99/603/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs501
+[/us/pl/99/603/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtV
 [/us/stat/100/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3443
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtVIII
 [/us/stat/108/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1778
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

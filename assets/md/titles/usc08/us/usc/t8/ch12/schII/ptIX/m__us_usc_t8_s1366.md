@@ -25,7 +25,7 @@
 
     (4) methods for identifying and preventing the unlawful reentry of aliens who have been convicted of criminal offenses in the United States and removed from the United States.
 
-([Pub. L. 104–208, div. C, title III, § 332][/us/pl/104/208/s332], Sept. 30, 1996, [110 Stat. 3009–634][/us/stat/110/3009-634].)
+([Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 332, Sept. 30, 1996, [110 Stat. 3009–634][/us/stat/110/3009-634].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs332
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-634
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

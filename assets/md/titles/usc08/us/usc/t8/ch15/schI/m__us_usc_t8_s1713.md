@@ -29,7 +29,7 @@
 
         Notwithstanding any other provision of law, amounts collected as fees described in this section shall be credited as an offsetting collection to any appropriation for the Department of State to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.
 
-([Pub. L. 107–173, title I, § 103][/us/pl/107/173/s103], May 14, 2002, [116 Stat. 547][/us/stat/116/547].)
+([Pub. L. 107–173, title I][/us/pl/107/173/tI], § 103, May 14, 2002, [116 Stat. 547][/us/stat/116/547].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/173/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs103
+[/us/pl/107/173/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtI
 [/us/stat/116/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F547
 [/us/pl/107/173/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs103
 [/us/pl/107/173/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs103

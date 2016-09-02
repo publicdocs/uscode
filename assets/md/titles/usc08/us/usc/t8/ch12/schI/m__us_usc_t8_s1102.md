@@ -23,7 +23,7 @@
 
     (3) within the classes described in paragraphs (15)(A)(ii), (15)(G)(ii), (15)(G)(iii), or (15)(G)(iv) of [section 1101(a) of this title][/us/usc/t8/s1101/a], except those provisions relating to reasonable requirements of passports and visas as a means of identification and documentation necessary to establish their qualifications under such paragraphs, and the provisions of subparagraphs (A) through (C) of [section 1182(a)(3) of this title][/us/usc/t8/s1182/a/3].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 102, [66 Stat. 173][/us/stat/66/173]; [Pub. L. 100–525, § 9(b)][/us/pl/100/525/s9/b], Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619]; [Pub. L. 101–649, title VI, § 603(a)(2)][/us/pl/101/649/s603/a/2], Nov. 29, 1990, [104 Stat. 5082][/us/stat/104/5082]; [Pub. L. 102–232, title III, § 307(i)][/us/pl/102/232/s307/i], Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(B)][/us/pl/104/208/s308/d/4/B], Sept. 30, 1996, [110 Stat. 3009–617][/us/stat/110/3009-617].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 102, [66 Stat. 173][/us/stat/66/173]; [Pub. L. 100–525][/us/pl/100/525], § 9(b), Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619]; [Pub. L. 101–649, title VI][/us/pl/101/649/tVI], § 603(a)(2), Nov. 29, 1990, [104 Stat. 5082][/us/stat/104/5082]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 307(i), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(B), Sept. 30, 1996, [110 Stat. 3009–617][/us/stat/110/3009-617].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Denial of Visas to Certain Representatives to United Nations__ 
 
-[Pub. L. 101–246, title IV, § 407][/us/pl/101/246/s407], Feb. 16, 1990, [104 Stat. 67][/us/stat/104/67], as amended by [Pub. L. 113–100, § 1][/us/pl/113/100/s1], Apr. 18, 2014, [128 Stat. 1145][/us/stat/128/1145], provided that:
+[Pub. L. 101–246, title IV][/us/pl/101/246/tIV], § 407, Feb. 16, 1990, [104 Stat. 67][/us/stat/104/67], as amended by [Pub. L. 113–100][/us/pl/113/100], § 1, Apr. 18, 2014, [128 Stat. 1145][/us/stat/128/1145], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -82,13 +82,13 @@
 [/us/usc/t8/s1182/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F173
-[/us/pl/100/525/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fb
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2619
-[/us/pl/101/649/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fa%2F2
+[/us/pl/101/649/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVI
 [/us/stat/104/5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5082
-[/us/pl/102/232/s307/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs307%2Fi
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1756
-[/us/pl/104/208/s308/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FB
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-617
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -109,9 +109,9 @@
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs601%2Fe%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/101/246/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs407
+[/us/pl/101/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIV
 [/us/stat/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F67
-[/us/pl/113/100/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F100%2Fs1
+[/us/pl/113/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F100
 [/us/stat/128/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1145
 [/us/pl/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F357
 [/us/act/1947-08-04/ch482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch482

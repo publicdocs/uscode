@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be applied in contravention of the provisions of any treaty or convention to which the United States is a party and which has been ratified by the Senate before December 25, 1952: Provided, however, That no woman who was a national of the United States shall be deemed to have lost her nationality solely by reason of her marriage to an alien on or after September 22, 1922, or to an alien racially ineligible to citizenship on or after March 3, 1931, or, in the case of a woman who was a United States citizen at birth, through residence abroad following such marriage, notwithstanding the provisions of any existing treaty or convention.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 3, § 357, [66 Stat. 272][/us/stat/66/272]; [Pub. L. 100–525, § 9(ii)][/us/pl/100/525/s9/ii], Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 3, § 357, [66 Stat. 272][/us/stat/66/272]; [Pub. L. 100–525][/us/pl/100/525], § 9(ii), Oct. 24, 1988, [102 Stat. 2622][/us/stat/102/2622].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F272
-[/us/pl/100/525/s9/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fii
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2622
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 

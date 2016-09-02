@@ -71,7 +71,7 @@
 
         If an order is issued under this section granting an application, the rights of the alien regarding removal and expulsion shall be governed solely by this subchapter, and except as they are specifically referenced in this subchapter, no other provisions of this chapter shall be applicable.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 503, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1259][/us/stat/110/1259].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 503, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1259][/us/stat/110/1259].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1259
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

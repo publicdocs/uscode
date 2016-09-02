@@ -297,7 +297,7 @@
 
         The Secretary of Health and Human Services may award grants to, and enter into contracts with, voluntary agencies to carry out this section and [section 279 of title 6][/us/usc/t6/s279].
 
-([Pub. L. 110–457, title II, § 235][/us/pl/110/457/s235], Dec. 23, 2008, [122 Stat. 5074][/us/stat/122/5074]; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1261–1263, Mar. 7, 2013, [127 Stat. 156–159][/us/stat/127/156-159].)
+([Pub. L. 110–457, title II][/us/pl/110/457/tII], § 235, Dec. 23, 2008, [122 Stat. 5074][/us/stat/122/5074]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], §§ 1261–1263, Mar. 7, 2013, [127 Stat. 156–159][/us/stat/127/156-159].)
 
  __References in Text__ 
 
@@ -313,13 +313,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2). [Pub. L. 113–4, § 1261][/us/pl/113/4/s1261], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    2013—Subsec. (c)(2). [Pub. L. 113–4][/us/pl/113/4], § 1261, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (c)(6). [Pub. L. 113–4, § 1262][/us/pl/113/4/s1262], designated existing provisions as subpar. (A), inserted heading, struck out “and criminal” after “immune from civil”, and added subpars. (B) to (F).
+    Subsec. (c)(6). [Pub. L. 113–4][/us/pl/113/4], § 1262, designated existing provisions as subpar. (A), inserted heading, struck out “and criminal” after “immune from civil”, and added subpars. (B) to (F).
 
-    Subsec. (d)(4)(A). [Pub. L. 113–4, § 1263(1)][/us/pl/113/4/s1263/1], in introductory provisions, struck out “either” before “in the custody”, substituted “such child,” for “such child or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, shall be eligible for placement”.
+    Subsec. (d)(4)(A). [Pub. L. 113–4][/us/pl/113/4], § 1263(1), in introductory provisions, struck out “either” before “in the custody”, substituted “such child,” for “such child or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, shall be eligible for placement”.
 
-    Subsec. (d)(4)(B). [Pub. L. 113–4, § 1263(2)][/us/pl/113/4/s1263/2], inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, the Federal Government”.
+    Subsec. (d)(4)(B). [Pub. L. 113–4][/us/pl/113/4], § 1263(2), inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, the Federal Government”.
 
 ----------
 
@@ -350,9 +350,9 @@
 [/us/usc/t8/s1101/a/27/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27%2FJ
 [/us/usc/t6/s279/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279%2Fg
 [/us/usc/t6/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279
-[/us/pl/110/457/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5074
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/156-159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F156-159
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -362,11 +362,11 @@
 [/us/pl/110/457/s235/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Fd
 [/us/pl/110/457/s235/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff
 [/us/usc/t6/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279
-[/us/pl/113/4/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1261
-[/us/pl/113/4/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1262
-[/us/pl/113/4/s1263/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1263%2F1
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t8/s1101/a/15/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FU
-[/us/pl/113/4/s1263/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1263%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t8/s1101/a/15/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FU
 
 

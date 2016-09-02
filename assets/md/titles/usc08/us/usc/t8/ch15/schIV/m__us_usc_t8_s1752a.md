@@ -37,7 +37,7 @@
 
         Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007.
 
-([Pub. L. 110–53, title VII, § 725][/us/pl/110/53/s725], Aug. 3, 2007, [121 Stat. 350][/us/stat/121/350].)
+([Pub. L. 110–53, title VII][/us/pl/110/53/tVII], § 725, Aug. 3, 2007, [121 Stat. 350][/us/stat/121/350].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs725
+[/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII
 [/us/stat/121/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F350
 
 

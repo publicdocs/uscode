@@ -17,7 +17,7 @@
 
     At the beginning and midpoint of each fiscal year, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, a written report providing a description of internal affairs operations at U.S. Citizenship and Immigration Services, including the general state of such operations and a detailed description of investigations that are being conducted (or that were conducted during the previous six months) and the resources devoted to such investigations. The first such report shall be submitted not later than April 1, 2006.
 
-([Pub. L. 109–177, title I, § 109(c)][/us/pl/109/177/s109/c], Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205].)
+([Pub. L. 109–177, title I][/us/pl/109/177/tI], § 109(c), Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs109%2Fc
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F205
 
 

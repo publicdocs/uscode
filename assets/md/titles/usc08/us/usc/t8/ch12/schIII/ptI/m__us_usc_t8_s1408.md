@@ -33,7 +33,7 @@
 
         The proviso of [section 1401(g) of this title][/us/usc/t8/s1401/g] shall apply to the national parent under this paragraph in the same manner as it applies to the citizen parent under that section.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 1, § 308, [66 Stat. 238][/us/stat/66/238]; [Pub. L. 99–396, § 15(a)][/us/pl/99/396/s15/a], Aug. 27, 1986, [100 Stat. 842][/us/stat/100/842]; [Pub. L. 100–525, § 3(2)][/us/pl/100/525/s3/2], Oct. 24, 1988, [102 Stat. 2614][/us/stat/102/2614].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 1, § 308, [66 Stat. 238][/us/stat/66/238]; [Pub. L. 99–396][/us/pl/99/396], § 15(a), Aug. 27, 1986, [100 Stat. 842][/us/stat/100/842]; [Pub. L. 100–525][/us/pl/100/525], § 3(2), Oct. 24, 1988, [102 Stat. 2614][/us/stat/102/2614].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–525, § 3][/us/pl/100/525/s3], Oct. 24, 1988, [102 Stat. 2614][/us/stat/102/2614], provided that the amendment made by section 3 is effective as if included in the enactment of [Pub. L. 99–396][/us/pl/99/396].
+    [Pub. L. 100–525][/us/pl/100/525], § 3, Oct. 24, 1988, [102 Stat. 2614][/us/stat/102/2614], provided that the amendment made by section 3 is effective as if included in the enactment of [Pub. L. 99–396][/us/pl/99/396].
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–396, § 15(b)][/us/pl/99/396/s15/b], Aug. 27, 1986, [100 Stat. 843][/us/stat/100/843], provided that: 
+[Pub. L. 99–396][/us/pl/99/396], § 15(b), Aug. 27, 1986, [100 Stat. 843][/us/stat/100/843], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to persons born before, on, or after the date of the enactment of this Act \[Aug. 27, 1986\]. In the case of a person born before the date of the enactment of this Act—
 
@@ -66,18 +66,18 @@
 [/us/usc/t8/s1401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401%2Fg
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F238
-[/us/pl/99/396/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs15%2Fa
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F842
-[/us/pl/100/525/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs3%2F2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2614
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
-[/us/pl/100/525/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs3
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2614
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
-[/us/pl/99/396/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs15%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F843
 
 

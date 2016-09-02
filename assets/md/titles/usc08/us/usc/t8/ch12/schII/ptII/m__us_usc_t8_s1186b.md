@@ -153,7 +153,7 @@
 
         (3) The term “commercial enterprise” includes a limited partnership.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 216A, as added [Pub. L. 101–649, title I, § 121(b)(1)][/us/pl/101/649/s121/b/1], Nov. 29, 1990, [104 Stat. 4990][/us/stat/104/4990]; amended [Pub. L. 102–232, title III, § 302(b)(3)][/us/pl/102/232/s302/b/3], Dec. 12, 1991, [105 Stat. 1743][/us/stat/105/1743]; [Pub. L. 104–208, div. C, title III, § 308(e)(8)][/us/pl/104/208/s308/e/8], Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620]; [Pub. L. 107–273, div. C, title I, § 11036(b)][/us/pl/107/273/s11036/b], Nov. 2, 2002, [116 Stat. 1847][/us/stat/116/1847].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 216A, as added [Pub. L. 101–649, title I][/us/pl/101/649/tI], § 121(b)(1), Nov. 29, 1990, [104 Stat. 4990][/us/stat/104/4990]; amended [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 302(b)(3), Dec. 12, 1991, [105 Stat. 1743][/us/stat/105/1743]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(8), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11036(b), Nov. 2, 2002, [116 Stat. 1847][/us/stat/116/1847].)
 
  __References in Text__ 
 
@@ -161,9 +161,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1)(A). [Pub. L. 107–273, § 11036(b)(1)(A)][/us/pl/107/273/s11036/b/1/A], substituted “investment in” for “establishment of”.
+    2002—Subsec. (b)(1)(A). [Pub. L. 107–273][/us/pl/107/273], § 11036(b)(1)(A), substituted “investment in” for “establishment of”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–273, § 11036(b)(1)(B)][/us/pl/107/273/s11036/b/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (b)(1)(B). [Pub. L. 107–273][/us/pl/107/273], § 11036(b)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(B)(i) a commercial enterprise was not established by the alien,
 
@@ -171,7 +171,7 @@
 
     “(iii) the alien was not sustaining the actions described in clause (i) or (ii) throughout the period of the alien’s residence in the United States, or”.
 
-    Subsec. (d)(1). [Pub. L. 107–273, § 11036(b)(2)][/us/pl/107/273/s11036/b/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each petition under subsection (c)(1)(A) of this section shall contain facts and information demonstrating that—
+    Subsec. (d)(1). [Pub. L. 107–273][/us/pl/107/273], § 11036(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each petition under subsection (c)(1)(A) of this section shall contain facts and information demonstrating that—
 
     “(A) a commercial enterprise was established by the alien;
 
@@ -179,7 +179,7 @@
 
     “(C) the alien sustained the actions described in subparagraphs (A) and (B) throughout the period of the alien’s residence in the United States.”
 
-    Subsec. (f)(3). [Pub. L. 107–273, § 11036(b)(3)][/us/pl/107/273/s11036/b/3], added par. (3).
+    Subsec. (f)(3). [Pub. L. 107–273][/us/pl/107/273], § 11036(b)(3), added par. (3).
 
     1996—Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208] substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
 
@@ -189,9 +189,9 @@
 
     Subsec. (d)(2)(C). [Pub. L. 104–208][/us/pl/104/208] substituted “removal” for “deportation” wherever appearing in heading and text.
 
-    1991—Subsec. (c)(2)(A). [Pub. L. 102–232, § 302(b)(3)(A)][/us/pl/102/232/s302/b/3/A], in closing provisions inserted parenthetical provision relating to alien’s spouse and children.
+    1991—Subsec. (c)(2)(A). [Pub. L. 102–232][/us/pl/102/232], § 302(b)(3)(A), in closing provisions inserted parenthetical provision relating to alien’s spouse and children.
 
-    Subsecs. (c)(3)(B), (d)(2)(A). [Pub. L. 102–232, § 302(b)(3)(B)][/us/pl/102/232/s302/b/3/B], struck out “obtaining the status of” before “lawful admission”.
+    Subsecs. (c)(3)(B), (d)(2)(A). [Pub. L. 102–232][/us/pl/102/232], § 302(b)(3)(B), struck out “obtaining the status of” before “lawful admission”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -215,7 +215,7 @@
 
  __Immigration Benefits__ 
 
-[Pub. L. 107–273, div. C, title I][/us/pl/107/273], §§ 11031–11034, Nov. 2, 2002, [116 Stat. 1837–1846][/us/stat/116/1837-1846], provided that:
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], §§ 11031–11034, Nov. 2, 2002, [116 Stat. 1837–1846][/us/stat/116/1837-1846], provided that:
 
 > “SEC. 11031. __REMOVAL OF CONDITIONAL BASIS OF PERMANENT RESIDENT STATUS FOR CERTAIN ALIEN ENTREPRENEURS, SPOUSES, AND CHILDREN.__ 
 
@@ -475,27 +475,27 @@
 [/us/usc/t8/s1153/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F5
 [/us/usc/t8/s1153/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F5
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/101/649/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs121%2Fb%2F1
+[/us/pl/101/649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtI
 [/us/stat/104/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4990
-[/us/pl/102/232/s302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fb%2F3
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1743
-[/us/pl/104/208/s308/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F8
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-620
-[/us/pl/107/273/s11036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1847
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/273/s11036/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fb%2F1%2FA
-[/us/pl/107/273/s11036/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fb%2F1%2FB
-[/us/pl/107/273/s11036/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fb%2F2
-[/us/pl/107/273/s11036/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fb%2F3
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/232/s302/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fb%2F3%2FA
-[/us/pl/102/232/s302/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fb%2F3%2FB
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t8/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154
 [/us/pl/107/273/s11036/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11036%2Fc
@@ -510,7 +510,7 @@
 [/us/pl/101/649/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs161%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1837-1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1837-1846
 [/us/usc/t8/s1186b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1186b%2Fc%2F3
 [/us/usc/t8/s1154/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fa%2F1%2FH

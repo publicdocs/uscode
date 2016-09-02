@@ -23,7 +23,7 @@
 
         The authority provided for under subsection (a) may be exercised only to the extent that any prohibitions, limitations, or restrictions imposed by a State or political subdivision of a State are not more restrictive than the prohibitions, limitations, or restrictions imposed under comparable Federal programs. For purposes of this section, attribution to an alien of a sponsor’s income and resources (as described in [section 1631 of this title][/us/usc/t8/s1631]) for purposes of determining eligibility for, and the amount of, benefits shall be considered less restrictive than a prohibition of eligibility for such benefits.
 
-([Pub. L. 104–208, div. C, title V, § 553][/us/pl/104/208/s553], Sept. 30, 1996, [110 Stat. 3009–681][/us/stat/110/3009-681].)
+([Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 553, Sept. 30, 1996, [110 Stat. 3009–681][/us/stat/110/3009-681].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t8/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1631
-[/us/pl/104/208/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs553
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-681
 
 

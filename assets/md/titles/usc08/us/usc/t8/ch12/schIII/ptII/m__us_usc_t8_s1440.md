@@ -35,7 +35,7 @@
 
         Citizenship granted pursuant to this section may be revoked in accordance with [section 1451 of this title][/us/usc/t8/s1451] if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in [section 1451 of this title][/us/usc/t8/s1451]. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 329, [66 Stat. 250][/us/stat/66/250]; [Pub. L. 87–301, § 8][/us/pl/87/301/s8], Sept. 26, 1961, [75 Stat. 654][/us/stat/75/654]; [Pub. L. 90–633][/us/pl/90/633], §§ 1, 2, 6, Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], 1344; [Pub. L. 97–116, § 15(a)][/us/pl/97/116/s15/a], Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 100–525, § 9(y)][/us/pl/100/525/s9/y], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(b)(5)][/us/pl/101/649/s407/b/5], (c)(11), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5041; [Pub. L. 102–232, title III, § 305(b)][/us/pl/102/232/s305/b], Dec. 12, 1991, [105 Stat. 1749][/us/stat/105/1749]; [Pub. L. 105–85, div. A, title X, § 1080(a)][/us/pl/105/85/s1080/a], Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136], §§ 1701(b)(2), (c)(1)(B), 1702, Nov. 24, 2003, [117 Stat. 1691–1693][/us/stat/117/1691-1693].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 329, [66 Stat. 250][/us/stat/66/250]; [Pub. L. 87–301][/us/pl/87/301], § 8, Sept. 26, 1961, [75 Stat. 654][/us/stat/75/654]; [Pub. L. 90–633][/us/pl/90/633], §§ 1, 2, 6, Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], 1344; [Pub. L. 97–116][/us/pl/97/116], § 15(a), Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 100–525][/us/pl/100/525], § 9(y), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(b)(5), (c)(11), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5041; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(b), Dec. 12, 1991, [105 Stat. 1749][/us/stat/105/1749]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1080(a), Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], §§ 1701(b)(2), (c)(1)(B), 1702, Nov. 24, 2003, [117 Stat. 1691–1693][/us/stat/117/1691-1693].)
 
  __References in Text__ 
 
@@ -43,33 +43,33 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 1702][/us/pl/108/136/s1702], inserted “as a member of the Selected Reserve of the Ready Reserve or” after “has served honorably” in first sentence.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1702, inserted “as a member of the Selected Reserve of the Ready Reserve or” after “has served honorably” in first sentence.
 
-    Subsec. (b). [Pub. L. 108–136, § 1701(b)(2)][/us/pl/108/136/s1701/b/2], added par. (4).
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1701(b)(2), added par. (4).
 
-    Subsec. (c). [Pub. L. 108–136, § 1701(c)(1)(B)][/us/pl/108/136/s1701/c/1/B], amended text generally. Prior to amendment, text read as follows: “Citizenship granted pursuant to this section may be revoked in accordance with [section 1451 of this title][/us/usc/t8/s1451] if at any time subsequent to naturalization the person is separated from the military, air, or naval forces under other than honorable conditions, and such ground for revocation shall be in addition to any other provided by law. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation.”
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1701(c)(1)(B), amended text generally. Prior to amendment, text read as follows: “Citizenship granted pursuant to this section may be revoked in accordance with [section 1451 of this title][/us/usc/t8/s1451] if at any time subsequent to naturalization the person is separated from the military, air, or naval forces under other than honorable conditions, and such ground for revocation shall be in addition to any other provided by law. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation.”
 
     1997—Subsec. (a)(1). [Pub. L. 105–85][/us/pl/105/85] inserted “, reenlistment, extension of enlistment,” after “at the time of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
 
-    1991—Subsecs. (a), (b). [Pub. L. 102–232][/us/pl/102/232] made technical correction to directory language of [Pub. L. 101–649, § 407(c)(11)][/us/pl/101/649/s407/c/11]. See 1990 Amendment note below.
+    1991—Subsecs. (a), (b). [Pub. L. 102–232][/us/pl/102/232] made technical correction to directory language of [Pub. L. 101–649][/us/pl/101/649], § 407(c)(11). See 1990 Amendment note below.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(c)(11)][/us/pl/101/649/s407/c/11], as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “an application” for “a petition”.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(11), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted “an application” for “a petition”.
 
-    Subsec. (b). [Pub. L. 101–649, § 407(c)(11)][/us/pl/101/649/s407/c/11], as amended by [Pub. L. 102–232][/us/pl/102/232], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(11), as amended by [Pub. L. 102–232][/us/pl/102/232], substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (b)(2). [Pub. L. 101–649, § 407(b)(5)(A)][/us/pl/101/649/s407/b/5/A], substituted “State or district of the Service in the United States” for “State” and inserted “and” at end.
+    Subsec. (b)(2). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(5)(A), substituted “State or district of the Service in the United States” for “State” and inserted “and” at end.
 
-    Subsec. (b)(3), (4). [Pub. L. 101–649, § 407(b)(5)(B)][/us/pl/101/649/s407/b/5/B], (C), redesignated par. (4) as (3) and struck out former par. (3) which authorized filing of petition in any court having naturalization jurisdiction.
+    Subsec. (b)(3), (4). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(5)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which authorized filing of petition in any court having naturalization jurisdiction.
 
     1988—Subsec. (d). [Pub. L. 100–525][/us/pl/100/525] struck out subsec. (d) which read as follows: “The eligibility for naturalization of any person who filed a petition for naturalization prior to January 1, 1947, under section 701 of the Nationality Act of 1940, as amended ([56 Stat. 182][/us/stat/56/182], [58 Stat. 886][/us/stat/58/886], [59 Stat. 658][/us/stat/59/658]), and which is still pending on the effective date of this chapter, shall be determined in accordance with the provisions of this section.”
 
     1981—Subsec. (b)(5). [Pub. L. 97–116][/us/pl/97/116] struck out par. (5) which provided that, notwithstanding [section 1447(c) of this title][/us/usc/t8/s1447/c], the petitioner may be naturalized immediately if prior to the filing of the petition the petitioner and the witnesses have appeared before and been examined by a representative of the Service.
 
-    1968—Subsec. (a). [Pub. L. 90–633, § 1][/us/pl/90/633/s1], added the Vietnam hostilities and any subsequent period of military operations involving armed conflict with a hostile foreign force as periods during which a person may be naturalized through service in active duty status.
+    1968—Subsec. (a). [Pub. L. 90–633][/us/pl/90/633], § 1, added the Vietnam hostilities and any subsequent period of military operations involving armed conflict with a hostile foreign force as periods during which a person may be naturalized through service in active duty status.
 
-    Subsec. (b)(1). [Pub. L. 90–633, § 6][/us/pl/90/633/s6], inserted reference to provisions of [section 1429 of this title][/us/usc/t8/s1429] as they relate to deportability.
+    Subsec. (b)(1). [Pub. L. 90–633][/us/pl/90/633], § 6, inserted reference to provisions of [section 1429 of this title][/us/usc/t8/s1429] as they relate to deportability.
 
-    Subsec. (b)(4). [Pub. L. 90–633, § 2][/us/pl/90/633/s2], inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forces of the United States were engaged in military operations involving armed conflict with a hostile foreign force.
+    Subsec. (b)(4). [Pub. L. 90–633][/us/pl/90/633], § 2, inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forces of the United States were engaged in military operations involving armed conflict with a hostile foreign force.
 
     1961—Subsecs. (a), (b)(4). [Pub. L. 87–301][/us/pl/87/301] inserted “or during a period beginning June 25, 1950, and ending July 1, 1955”.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title X, § 1080(b)][/us/pl/105/85/s1080/b], Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1080(b), Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to enlistments, reenlistments, extensions of enlistment, and inductions of persons occurring on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
@@ -99,13 +99,13 @@
 
  __Naturalization of Natives of Philippines Through Certain Active-Duty Service During World War II__ 
 
-    [Pub. L. 102–395, title I, § 113][/us/pl/102/395/s113], Oct. 6, 1992, [106 Stat. 1844][/us/stat/106/1844], which provided that, notwithstanding any other provision of law, effective 120 days after Oct. 6, 1992, and applicable to natives of the Philippines who applied for naturalization under [section 405 of Pub. L. 101–649][/us/pl/101/649/s405], set out below, and who applied within 2 years after such effective date, the naturalization of natives of the Philippines who apply for naturalization under [section 405 of Pub. L. 101–649][/us/pl/101/649/s405] was to be conducted in Philippines as well as in United States by employees of Immigration and Naturalization Service designated pursuant to [section 1446(b) of this title][/us/usc/t8/s1446/b], and required Attorney General to prescribe necessary implementing regulations and maintain permanent records of the oaths of allegiance taken in accordance with these provisions, was repealed by [Pub. L. 105–119, title I, § 112(c)][/us/pl/105/119/s112/c], Nov. 26, 1997, [111 Stat. 2460][/us/stat/111/2460].
+    [Pub. L. 102–395, title I][/us/pl/102/395/tI], § 113, Oct. 6, 1992, [106 Stat. 1844][/us/stat/106/1844], which provided that, notwithstanding any other provision of law, effective 120 days after Oct. 6, 1992, and applicable to natives of the Philippines who applied for naturalization under [section 405 of Pub. L. 101–649][/us/pl/101/649/s405], set out below, and who applied within 2 years after such effective date, the naturalization of natives of the Philippines who apply for naturalization under [section 405 of Pub. L. 101–649][/us/pl/101/649/s405] was to be conducted in Philippines as well as in United States by employees of Immigration and Naturalization Service designated pursuant to [section 1446(b) of this title][/us/usc/t8/s1446/b], and required Attorney General to prescribe necessary implementing regulations and maintain permanent records of the oaths of allegiance taken in accordance with these provisions, was repealed by [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 112(c), Nov. 26, 1997, [111 Stat. 2460][/us/stat/111/2460].
 
-    [Pub. L. 101–649, title IV, § 405][/us/pl/101/649/s405], Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039], as amended by [Pub. L. 103–416, title I, § 104(d)][/us/pl/103/416/s104/d], Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308]; [Pub. L. 105–119, title I, § 112(b)][/us/pl/105/119/s112/b], Nov. 26, 1997, [111 Stat. 2459][/us/stat/111/2459], provided that section 1440(a)(1) and (2) of this title did not apply to the naturalization of certain persons born in the Philippines who served honorably in an active duty status during the World War II occupation and liberation of the Philippines within the Philippine Army or within a recognized guerilla unit or who served within the Philippine Scouts or within any other component of the United States Armed Forces in the Far East at any time during the period beginning September 1, 1939, and ending December 31, 1946, who were otherwise eligible for naturalization under section 1440, and who applied for naturalization during the 2-year period beginning on Nov. 29, 1990.
+    [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 405, Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039], as amended by [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 104(d), Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308]; [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 112(b), Nov. 26, 1997, [111 Stat. 2459][/us/stat/111/2459], provided that section 1440(a)(1) and (2) of this title did not apply to the naturalization of certain persons born in the Philippines who served honorably in an active duty status during the World War II occupation and liberation of the Philippines within the Philippine Army or within a recognized guerilla unit or who served within the Philippine Scouts or within any other component of the United States Armed Forces in the Far East at any time during the period beginning September 1, 1939, and ending December 31, 1946, who were otherwise eligible for naturalization under section 1440, and who applied for naturalization during the 2-year period beginning on Nov. 29, 1990.
 
  __Naturalization of Aliens Enlisted in Regular Army__ 
 
-[Act June 30, 1950, ch. 443, § 4][/us/act/1950-06-30/ch443/s4], [64 Stat. 316][/us/stat/64/316], as amended [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(e), [66 Stat. 276][/us/stat/66/276], provided that: 
+[Act June 30, 1950, ch. 443][/us/act/1950-06-30/ch443], § 4, [64 Stat. 316][/us/stat/64/316], as amended [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(e), [66 Stat. 276][/us/stat/66/276], provided that: 
 
 > “Notwithstanding the dates or periods of service specified and designated in section 329 of the Immigration and Nationality Act \[this section\], the provisions of that section are applicable to aliens enlisted or reenlisted pursuant to the provisions of this Act and who have completed five or more years of military service, if honorably discharged therefrom. Any alien enlisted or reenlisted pursuant to the provisions of this Act who subsequently enters the United States, American Samoa, Swains Island, or the Canal Zone, pursuant to military orders shall, if otherwise qualified for citizenship, and after completion of five or more years of military service, if honorably discharged therefrom, be deemed to have been lawfully admitted to the United States for permanent residence within the meaning of such section 329(a) \[subsection (a) of this section\].”
 
@@ -154,46 +154,46 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t8/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1451
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F250
-[/us/pl/87/301/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs8
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/stat/75/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F654
 [/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
 [/us/stat/82/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1343
-[/us/pl/97/116/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs15%2Fa
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1619
-[/us/pl/100/525/s9/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fy
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s407/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F5
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5040
-[/us/pl/102/232/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fb
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1749
-[/us/pl/105/85/s1080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1080%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1916
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1691-1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1691-1693
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
-[/us/pl/108/136/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1702
-[/us/pl/108/136/s1701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fb%2F2
-[/us/pl/108/136/s1701/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fc%2F1%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t8/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1451
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F11
-[/us/pl/101/649/s407/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F11
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F11
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F5%2FA
-[/us/pl/101/649/s407/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F5%2FB
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/56/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F182
 [/us/stat/58/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F886
 [/us/stat/59/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F658
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/usc/t8/s1447/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fc
-[/us/pl/90/633/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633%2Fs1
-[/us/pl/90/633/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633%2Fs6
+[/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
+[/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
 [/us/usc/t8/s1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1429
-[/us/pl/90/633/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633%2Fs2
+[/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
 [/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/pl/108/136/s1701/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fc%2F1%2FB
 [/us/pl/108/136/s1701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fc%2F2
@@ -202,7 +202,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1705
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
-[/us/pl/105/85/s1080/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1080%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1916
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
@@ -212,20 +212,20 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/97/116/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs21%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/102/395/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs113
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1844
 [/us/pl/101/649/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs405
 [/us/pl/101/649/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs405
 [/us/usc/t8/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1446%2Fb
-[/us/pl/105/119/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs112%2Fc
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2460
-[/us/pl/101/649/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs405
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5039
-[/us/pl/103/416/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs104%2Fd
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4308
-[/us/pl/105/119/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs112%2Fb
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2459
-[/us/act/1950-06-30/ch443/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch443%2Fs4
+[/us/act/1950-06-30/ch443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-30%2Fch443
 [/us/stat/64/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F316
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F276

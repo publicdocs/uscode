@@ -29,17 +29,17 @@
 
     (b) The exceptions specified in paragraphs (1) through (4) of subsection (a) shall not apply to a change of nonimmigrant classification to that of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 248, [66 Stat. 218][/us/stat/66/218]; [Pub. L. 87–256, § 109(d)][/us/pl/87/256/s109/d], Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 97–116, § 10][/us/pl/97/116/s10], Dec. 29, 1981, [95 Stat. 1617][/us/stat/95/1617]; [Pub. L. 99–603, title III, § 313(d)][/us/pl/99/603/s313/d], Nov. 6, 1986, [100 Stat. 3439][/us/stat/100/3439]; [Pub. L. 103–322, title XIII, § 130003(b)(3)][/us/pl/103/322/s130003/b/3], Sept. 13, 1994, [108 Stat. 2025][/us/stat/108/2025]; [Pub. L. 104–208, div. C, title III, § 301(b)(2)][/us/pl/104/208/s301/b/2], title VI, § 671(a)(2), Sept. 30, 1996, [110 Stat. 3009–578][/us/stat/110/3009-578], 3009–721; [Pub. L. 109–162, title VIII, § 821(c)(1)][/us/pl/109/162/s821/c/1], Jan. 5, 2006, [119 Stat. 3062][/us/stat/119/3062].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 248, [66 Stat. 218][/us/stat/66/218]; [Pub. L. 87–256][/us/pl/87/256], § 109(d), Sept. 21, 1961, [75 Stat. 535][/us/stat/75/535]; [Pub. L. 97–116][/us/pl/97/116], § 10, Dec. 29, 1981, [95 Stat. 1617][/us/stat/95/1617]; [Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 313(d), Nov. 6, 1986, [100 Stat. 3439][/us/stat/100/3439]; [Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130003(b)(3), Sept. 13, 1994, [108 Stat. 2025][/us/stat/108/2025]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 301(b)(2), title VI, § 671(a)(2), Sept. 30, 1996, [110 Stat. 3009–578][/us/stat/110/3009-578], 3009–721; [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 821(c)(1), Jan. 5, 2006, [119 Stat. 3062][/us/stat/119/3062].)
 
  __Amendments__ 
 
     2006—[Pub. L. 109–162][/us/pl/109/162] designated existing provisions as subsec. (a), substituted “Secretary of Homeland Security” for “Attorney General”, inserted “(subject to subsection (b))” after “except” in introductory provisions, and added subsec. (b).
 
-    1996—[Pub. L. 104–208, § 301(b)(2)][/us/pl/104/208/s301/b/2], in introductory provisions, inserted “and who is not inadmissible under [section 1182(a)(9)(B)(i) of this title][/us/usc/t8/s1182/a/9/B/i] (or whose inadmissibility under such section is waived under [section 1182(a)(9)(B)(v) of this title][/us/usc/t8/s1182/a/9/B/v])” after “maintain that status”.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 301(b)(2), in introductory provisions, inserted “and who is not inadmissible under [section 1182(a)(9)(B)(i) of this title][/us/usc/t8/s1182/a/9/B/i] (or whose inadmissibility under such section is waived under [section 1182(a)(9)(B)(v) of this title][/us/usc/t8/s1182/a/9/B/v])” after “maintain that status”.
 
-    Par. (1). [Pub. L. 104–208, § 671(a)(2)][/us/pl/104/208/s671/a/2], made technical amendment to directory language of [Pub. L. 103–322, § 130003(b)(3)][/us/pl/103/322/s130003/b/3]. See 1994 Amendment note below.
+    Par. (1). [Pub. L. 104–208][/us/pl/104/208], § 671(a)(2), made technical amendment to directory language of [Pub. L. 103–322][/us/pl/103/322], § 130003(b)(3). See 1994 Amendment note below.
 
-    1994—Par. (1). [Pub. L. 103–322, § 130003(b)(3)][/us/pl/103/322/s130003/b/3], as amended by [Pub. L. 104–208, § 671(a)(2)][/us/pl/104/208/s671/a/2], substituted “(K), or (S)” for “or (K)”.
+    1994—Par. (1). [Pub. L. 103–322][/us/pl/103/322], § 130003(b)(3), as amended by [Pub. L. 104–208][/us/pl/104/208], § 671(a)(2), substituted “(K), or (S)” for “or (K)”.
 
     1986—Par. (4). [Pub. L. 99–603][/us/pl/99/603] added par. (4).
 
@@ -79,26 +79,26 @@
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F218
-[/us/pl/87/256/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs109%2Fd
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F535
-[/us/pl/97/116/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs10
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1617
-[/us/pl/99/603/s313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs313%2Fd
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3439
-[/us/pl/103/322/s130003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130003%2Fb%2F3
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2025
-[/us/pl/104/208/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs301%2Fb%2F2
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-578
-[/us/pl/109/162/s821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs821%2Fc%2F1
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3062
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/104/208/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs301%2Fb%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1182/a/9/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F9%2FB%2Fi
 [/us/usc/t8/s1182/a/9/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F9%2FB%2Fv
-[/us/pl/104/208/s671/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fa%2F2
-[/us/pl/103/322/s130003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130003%2Fb%2F3
-[/us/pl/103/322/s130003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130003%2Fb%2F3
-[/us/pl/104/208/s671/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fa%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256

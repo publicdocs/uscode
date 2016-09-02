@@ -31,7 +31,7 @@
 
     (7) the term “special attorney” means an attorney who is on the panel established under [section 1532(e) of this title][/us/usc/t8/s1532/e].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 501, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(1), 354(a)(5), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–643.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 501, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(1), 354(a)(5), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–643.)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1996—Par. (1). [Pub. L. 104–208, § 308(g)(1)][/us/pl/104/208/s308/g/1], substituted “section 1227(a)(4)(B)” for “section 1251(a)(4)(B)”.
+    1996—Par. (1). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(1), substituted “section 1227(a)(4)(B)” for “section 1251(a)(4)(B)”.
 
-    Par. (7). [Pub. L. 104–208, § 354(a)(5)][/us/pl/104/208/s354/a/5], added par. (7).
+    Par. (7). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(5), added par. (7).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -65,14 +65,14 @@
 [/us/usc/t8/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1534
 [/us/usc/t8/s1532/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1532%2Fe
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1258
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
 [/us/pl/96/456/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
-[/us/pl/104/208/s308/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F1
-[/us/pl/104/208/s354/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F5
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s308/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F1
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

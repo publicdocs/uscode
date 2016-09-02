@@ -35,7 +35,7 @@
 
         Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in [section 1611(c) of this title][/us/usc/t8/s1611/c]) or any State or local public benefit (as defined in [section 1621(c) of this title][/us/usc/t8/s1621/c]), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
-([Pub. L. 104–193, title IV, § 432][/us/pl/104/193/s432], Aug. 22, 1996, [110 Stat. 2274][/us/stat/110/2274]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208], §§ 504, 508, Sept. 30, 1996, [110 Stat. 3009–672][/us/stat/110/3009-672], 3009–673; [Pub. L. 105–33, title V, § 5572(a)][/us/pl/105/33/s5572/a], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 432, Aug. 22, 1996, [110 Stat. 2274][/us/stat/110/2274]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], §§ 504, 508, Sept. 30, 1996, [110 Stat. 3009–672][/us/stat/110/3009-672], 3009–673; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5572(a), Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 5572(a)(1)][/us/pl/105/33/s5572/a/1], inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
 
-    Subsec. (a)(3). [Pub. L. 105–33, § 5572(a)(2)][/us/pl/105/33/s5572/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33], § 5572(a)(2), added par. (3).
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 504][/us/pl/104/208/s504], designated existing provisions as par. (1) and added par. (2).
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 504, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 104–208, § 508][/us/pl/104/208/s508], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 508, added subsec. (d).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -73,11 +73,11 @@
 [/us/usc/t8/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1621
 [/us/usc/t8/s1611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1611%2Fc
 [/us/usc/t8/s1621/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1621%2Fc
-[/us/pl/104/193/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs432
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2274
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-672
-[/us/pl/105/33/s5572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5572%2Fa
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F641
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -88,10 +88,10 @@
 [/us/usc/t8/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1383
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/105/33/s5572/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5572%2Fa%2F1
-[/us/pl/105/33/s5572/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5572%2Fa%2F2
-[/us/pl/104/208/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs504
-[/us/pl/104/208/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs508
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5582

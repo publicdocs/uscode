@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t8/ch12/schIV/m__us_usc_t8_s1524.md) | [Next](./../../../../..//us/usc/t8/ch12/schV/m__us_usc_t8_ch12_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1525)
 
-## § 1525. Repealed. [Pub. L. 103–236, title I, § 162(m)(3)][/us/pl/103/236/s162/m/3], Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409]
+## § 1525. Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(m)(3), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409]
 
-    Section, [Pub. L. 96–212, title III, § 301][/us/pl/96/212/s301], Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], related to appointment and duties of United States Coordinator for Refugee Affairs.
+    Section, [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 301, Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], related to appointment and duties of United States Coordinator for Refugee Affairs.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/236/s162/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fm%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
-[/us/pl/96/212/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs301
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F109
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb

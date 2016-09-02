@@ -29,7 +29,7 @@
 
         The Attorney General shall cooperate with the States to assure that information in the control of the Attorney General, including information in the National Crime Information Center, that would assist State and local law enforcement officials in carrying out duties under subsection (a) is made available to such officials.
 
-([Pub. L. 104–132, title IV, § 439][/us/pl/104/132/s439], Apr. 24, 1996, [110 Stat. 1276][/us/stat/110/1276].)
+([Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 439, Apr. 24, 1996, [110 Stat. 1276][/us/stat/110/1276].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/132/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs439
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1276
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

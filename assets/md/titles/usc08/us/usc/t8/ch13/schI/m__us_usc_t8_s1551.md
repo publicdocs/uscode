@@ -17,15 +17,15 @@
 
     There is created and established in the Department of Justice an Immigration and Naturalization Service.
 
-([Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 826][/us/stat/32/826]; [June 29, 1906, ch. 3592, § 1][/us/act/1906-06-29/ch3592/s1], [34 Stat. 596][/us/stat/34/596]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 826][/us/stat/32/826]; [June 29, 1906, ch. 3592][/us/act/1906-06-29/ch3592], § 1, [34 Stat. 596][/us/stat/34/596]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 342 of Title 5][/us/usc/t5/s342] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 342 of Title 5][/us/usc/t5/s342] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–313, title II, § 201][/us/pl/106/313/s201], Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262], provided that: 
+[Pub. L. 106–313, title II][/us/pl/106/313/tII], § 201, Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Immigration Services and Infrastructure Improvements Act of 2000’.”
 
@@ -53,13 +53,13 @@
 
  __Independent Comprehensive Management Analysis of Service Operations; Arrangements Respecting, Etc.__ 
 
-[Pub. L. 96–132, § 10][/us/pl/96/132/s10], Nov. 30, 1979, [93 Stat. 1047][/us/stat/93/1047], provided that: 
+[Pub. L. 96–132][/us/pl/96/132], § 10, Nov. 30, 1979, [93 Stat. 1047][/us/stat/93/1047], provided that: 
 
 > “The Attorney General shall make arrangements with an appropriate entity for an independent comprehensive management analysis of the operations of the Immigration and Naturalization Service for the purpose of making such operations efficient and cost effective. After the completion of such analysis, the Attorney General shall promptly submit a report to the appropriate committees of Congress on the results of such analysis together with any administrative or legislative recommendations of the Attorney General to improve the operations of the Service.”
 
  __Office of Special Investigator; Functions, Establishment, Powers, Etc.__ 
 
-[Pub. L. 96–132, § 22][/us/pl/96/132/s22], Nov. 30, 1979, [93 Stat. 1050][/us/stat/93/1050], provided that:
+[Pub. L. 96–132][/us/pl/96/132], § 22, Nov. 30, 1979, [93 Stat. 1050][/us/stat/93/1050], provided that:
 
 >     “(a)
 
@@ -127,7 +127,7 @@
 
  __History of Immigration and Naturalization Agencies__ 
 
-    By acts [Aug. 3, 1882, ch. 376][/us/act/1882-08-03/ch376], §§ 2, 3, [22 Stat. 214][/us/stat/22/214]; [Feb. 23, 1887, ch. 220][/us/act/1887-02-23/ch220], [24 Stat. 415][/us/stat/24/415], the administration of the immigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by [act Mar. 3, 1891, ch. 551, § 7][/us/act/1891-03-03/ch551/s7], [26 Stat. 1087][/us/stat/26/1087], the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading “Bureau of Immigration” by [act Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 780][/us/stat/28/780]. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by [act Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 825][/us/stat/32/825], and thereafter were redesignated the Bureau of Immigration and Naturalization by [act June 29, 1906, ch. 3592, § 1][/us/act/1906-06-29/ch3592/s1], [34 Stat. 596][/us/stat/34/596]. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by [act Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], [37 Stat. 736][/us/stat/37/736], and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, § 14, June 10, 1933, set out as note under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a “Commissioner of Immigration and Naturalization”, which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238], set out in the Appendix to Title 5.
+    By acts [Aug. 3, 1882, ch. 376][/us/act/1882-08-03/ch376], §§ 2, 3, [22 Stat. 214][/us/stat/22/214]; [Feb. 23, 1887, ch. 220][/us/act/1887-02-23/ch220], [24 Stat. 415][/us/stat/24/415], the administration of the immigration laws then in force was reposed in the Secretary of the Treasury. Subsequently, by [act Mar. 3, 1891, ch. 551][/us/act/1891-03-03/ch551], § 7, [26 Stat. 1087][/us/stat/26/1087], the office of the Superintendent of Immigration was created as a permanent immigration agency and he in turn was designated Commissioner General of Immigration under the heading “Bureau of Immigration” by [act Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 1, [28 Stat. 780][/us/stat/28/780]. Upon the establishment of the Department of Commerce and Labor, the Commissioner General of Immigration and the Bureau of Immigration were transferred to that Department by [act Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 825][/us/stat/32/825], and thereafter were redesignated the Bureau of Immigration and Naturalization by [act June 29, 1906, ch. 3592][/us/act/1906-06-29/ch3592], § 1, [34 Stat. 596][/us/stat/34/596]. The Bureau of Immigration and Naturalization was transferred to the Department of Labor upon its establishment by [act Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], [37 Stat. 736][/us/stat/37/736], and divided into two bureaus to be known as the Bureau of Immigration and the Bureau of Naturalization, respectively. Ex. Ord. No. 6166, § 14, June 10, 1933, set out as note under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees, again consolidated these bureaus to form the Immigration and Naturalization Service, under a “Commissioner of Immigration and Naturalization”, which was then transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238], set out in the Appendix to Title 5.
 
 ----------
 
@@ -136,17 +136,17 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
-[/us/act/1906-06-29/ch3592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592%2Fs1
+[/us/act/1906-06-29/ch3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592
 [/us/stat/34/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F596
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/stat/54/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1238
 [/us/usc/t5/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs342
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/106/313/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs201
+[/us/pl/106/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtII
 [/us/stat/114/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1262
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091
 [/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253
@@ -161,9 +161,9 @@
 [/us/usc/t6/s275/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs275%2Fb%2F2
 [/us/usc/t6/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279
 [/us/usc/t6/s279/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs279%2Ff%2F3
-[/us/pl/96/132/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs10
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1047
-[/us/pl/96/132/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs22
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1050
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
@@ -172,13 +172,13 @@
 [/us/stat/22/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F214
 [/us/act/1887-02-23/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-23%2Fch220
 [/us/stat/24/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F415
-[/us/act/1891-03-03/ch551/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch551%2Fs7
+[/us/act/1891-03-03/ch551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch551
 [/us/stat/26/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1087
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F780
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F825
-[/us/act/1906-06-29/ch3592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592%2Fs1
+[/us/act/1906-06-29/ch3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592
 [/us/stat/34/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F596
 [/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736

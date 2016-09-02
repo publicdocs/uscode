@@ -19,7 +19,7 @@
 
     (b) The authority to enter into contracts under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 414, as added [Pub. L. 96–212, title III, § 311(a)(2)][/us/pl/96/212/s311/a/2], Mar. 17, 1980, [94 Stat. 116][/us/stat/94/116]; amended [Pub. L. 97–363, § 2][/us/pl/97/363/s2], Oct. 25, 1982, [96 Stat. 1734][/us/stat/96/1734]; [Pub. L. 99–605, § 2][/us/pl/99/605/s2], Nov. 6, 1986, [100 Stat. 3449][/us/stat/100/3449]; [Pub. L. 100–525, § 6(a)][/us/pl/100/525/s6/a], Oct. 24, 1988, [102 Stat. 2616][/us/stat/102/2616]; [Pub. L. 102–110, § 5][/us/pl/102/110/s5], Oct. 1, 1991, [105 Stat. 558][/us/stat/105/558]; [Pub. L. 103–37, § 1][/us/pl/103/37/s1], June 8, 1993, [107 Stat. 107][/us/stat/107/107]; [Pub. L. 103–416, title II, § 208][/us/pl/103/416/s208], Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312]; [Pub. L. 105–78, title VI, § 604(a)][/us/pl/105/78/s604/a], Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521]; [Pub. L. 105–136, § 1(a)][/us/pl/105/136/s1/a], Dec. 2, 1997, [111 Stat. 2639][/us/stat/111/2639]; [Pub. L. 106–104, § 3][/us/pl/106/104/s3], Nov. 13, 1999, [113 Stat. 1483][/us/stat/113/1483].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, ch. 2, § 414, as added [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 311(a)(2), Mar. 17, 1980, [94 Stat. 116][/us/stat/94/116]; amended [Pub. L. 97–363][/us/pl/97/363], § 2, Oct. 25, 1982, [96 Stat. 1734][/us/stat/96/1734]; [Pub. L. 99–605][/us/pl/99/605], § 2, Nov. 6, 1986, [100 Stat. 3449][/us/stat/100/3449]; [Pub. L. 100–525][/us/pl/100/525], § 6(a), Oct. 24, 1988, [102 Stat. 2616][/us/stat/102/2616]; [Pub. L. 102–110][/us/pl/102/110], § 5, Oct. 1, 1991, [105 Stat. 558][/us/stat/105/558]; [Pub. L. 103–37][/us/pl/103/37], § 1, June 8, 1993, [107 Stat. 107][/us/stat/107/107]; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 208, Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312]; [Pub. L. 105–78, title VI][/us/pl/105/78/tVI], § 604(a), Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521]; [Pub. L. 105–136][/us/pl/105/136], § 1(a), Dec. 2, 1997, [111 Stat. 2639][/us/stat/111/2639]; [Pub. L. 106–104][/us/pl/106/104], § 3, Nov. 13, 1999, [113 Stat. 1483][/us/stat/113/1483].)
 
  __Amendments__ 
 
@@ -35,19 +35,19 @@
 
     1988—Subsec. (a)(1). [Pub. L. 100–525][/us/pl/100/525] substituted “through (4)” for “through (5)”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–605, § 2(a)][/us/pl/99/605/s2/a], (b)(1), substituted “for each of fiscal years 1987 and 1988” for “for fiscal year 1983”, and “(2) through (5)” for “(2) and (3)”.
+    1986—Subsec. (a)(1). [Pub. L. 99–605][/us/pl/99/605], § 2(a), (b)(1), substituted “for each of fiscal years 1987 and 1988” for “for fiscal year 1983”, and “(2) through (5)” for “(2) and (3)”.
 
-    Subsec. (a)(2). [Pub. L. 99–605, § 2(b)(2)][/us/pl/99/605/s2/b/2], amended par. (2) generally, substituting “1987 $74,783,000 and for fiscal year 1988 $77,924,000” for “1983 $100,000,000”, and “1522(c)(1)” for “1522(c)”.
+    Subsec. (a)(2). [Pub. L. 99–605][/us/pl/99/605], § 2(b)(2), amended par. (2) generally, substituting “1987 $74,783,000 and for fiscal year 1988 $77,924,000” for “1983 $100,000,000”, and “1522(c)(1)” for “1522(c)”.
 
-    Subsec. (a)(3). [Pub. L. 99–605, § 2(b)(2)][/us/pl/99/605/s2/b/2], amended par. (3) generally, substituting “1987 $8,761,000 and for fiscal year 1988 $9,125,000” for “1983 $14,000,000”.
+    Subsec. (a)(3). [Pub. L. 99–605][/us/pl/99/605], § 2(b)(2), amended par. (3) generally, substituting “1987 $8,761,000 and for fiscal year 1988 $9,125,000” for “1983 $14,000,000”.
 
-    Subsec. (a)(4). [Pub. L. 99–605, § 2(b)(3)][/us/pl/99/605/s2/b/3], added par. (4).
+    Subsec. (a)(4). [Pub. L. 99–605][/us/pl/99/605], § 2(b)(3), added par. (4).
 
-    1982—Subsec. (a). [Pub. L. 97–363, § 2][/us/pl/97/363/s2], substituted provisions with regard to fiscal 1983 authorizing appropriation of sums necessary to carry out provisions of this chapter, authorizing appropriations of $100,000,000 for services to refugees under [section 1522(c) of this title][/us/usc/t8/s1522/c], and authorizing appropriations of $14,000,000 for the purpose of carrying out [section 1522(b)(5) of this title][/us/usc/t8/s1522/b/5], for provisions with regard to fiscal 1980 and each of the two succeeding fiscal years authorizing appropriation of sums necessary for initial resettlement assistance, cash and medical assistance, and child welfare services under subsecs. (b)(1), (3), (4), (d)(2), and (e) of [section 1522 of this title][/us/usc/t8/s1522], and authorizing appropriations of $200,000,000 for other programs.
+    1982—Subsec. (a). [Pub. L. 97–363][/us/pl/97/363], § 2, substituted provisions with regard to fiscal 1983 authorizing appropriation of sums necessary to carry out provisions of this chapter, authorizing appropriations of $100,000,000 for services to refugees under [section 1522(c) of this title][/us/usc/t8/s1522/c], and authorizing appropriations of $14,000,000 for the purpose of carrying out [section 1522(b)(5) of this title][/us/usc/t8/s1522/b/5], for provisions with regard to fiscal 1980 and each of the two succeeding fiscal years authorizing appropriation of sums necessary for initial resettlement assistance, cash and medical assistance, and child welfare services under subsecs. (b)(1), (3), (4), (d)(2), and (e) of [section 1522 of this title][/us/usc/t8/s1522], and authorizing appropriations of $200,000,000 for other programs.
 
  __Effective Date of 1997 Amendments__ 
 
-[Pub. L. 105–78, title VI, § 604(b)][/us/pl/105/78/s604/b], Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521], and [Pub. L. 105–136, § 1(b)][/us/pl/105/136/s1/b], Dec. 2, 1997, [111 Stat. 2639][/us/stat/111/2639], provided that: 
+[Pub. L. 105–78, title VI][/us/pl/105/78/tVI], § 604(b), Nov. 13, 1997, [111 Stat. 1521][/us/stat/111/1521], and [Pub. L. 105–136][/us/pl/105/136], § 1(b), Dec. 2, 1997, [111 Stat. 2639][/us/stat/111/2639], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1997.”
 
@@ -63,25 +63,25 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/96/212/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs311%2Fa%2F2
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F116
-[/us/pl/97/363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363%2Fs2
+[/us/pl/97/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363
 [/us/stat/96/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1734
-[/us/pl/99/605/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs2
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
 [/us/stat/100/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3449
-[/us/pl/100/525/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs6%2Fa
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2616
-[/us/pl/102/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F110%2Fs5
+[/us/pl/102/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F110
 [/us/stat/105/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F558
-[/us/pl/103/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F37%2Fs1
+[/us/pl/103/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F37
 [/us/stat/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F107
-[/us/pl/103/416/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs208
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4312
-[/us/pl/105/78/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs604%2Fa
+[/us/pl/105/78/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVI
 [/us/stat/111/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1521
-[/us/pl/105/136/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F136%2Fs1%2Fa
+[/us/pl/105/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F136
 [/us/stat/111/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2639
-[/us/pl/106/104/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F104%2Fs3
+[/us/pl/106/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F104
 [/us/stat/113/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1483
 [/us/pl/106/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F104
 [/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
@@ -90,17 +90,17 @@
 [/us/pl/103/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F37
 [/us/pl/102/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F110
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
-[/us/pl/99/605/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs2%2Fa
-[/us/pl/99/605/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs2%2Fb%2F2
-[/us/pl/99/605/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs2%2Fb%2F2
-[/us/pl/99/605/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605%2Fs2%2Fb%2F3
-[/us/pl/97/363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363%2Fs2
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
+[/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605
+[/us/pl/97/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F363
 [/us/usc/t8/s1522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522%2Fc
 [/us/usc/t8/s1522/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522%2Fb%2F5
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
-[/us/pl/105/78/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs604%2Fb
+[/us/pl/105/78/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVI
 [/us/stat/111/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1521
-[/us/pl/105/136/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F136%2Fs1%2Fb
+[/us/pl/105/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F136
 [/us/stat/111/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2639
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F605

@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
 
-([Pub. L. 107–173, title II, § 203][/us/pl/107/173/s203], May 14, 2002, [116 Stat. 551][/us/stat/116/551].)
+([Pub. L. 107–173, title II][/us/pl/107/173/tII], § 203, May 14, 2002, [116 Stat. 551][/us/stat/116/551].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t8/s1721/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1721%2Fc%2F3
 [/us/usc/t8/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722
-[/us/pl/107/173/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs203
+[/us/pl/107/173/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtII
 [/us/stat/116/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F551
 
 

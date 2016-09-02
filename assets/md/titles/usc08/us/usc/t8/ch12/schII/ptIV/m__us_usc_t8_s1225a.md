@@ -51,7 +51,7 @@
 
         The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3), served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 235A, as added [Pub. L. 104–208, div. C, title I, § 123(a)][/us/pl/104/208/s123/a], Sept. 30, 1996, [110 Stat. 3009–560][/us/stat/110/3009-560]; amended [Pub. L. 108–458, title VII][/us/pl/108/458], §§ 7206(a), 7210(d)(1), Dec. 17, 2004, [118 Stat. 3817][/us/stat/118/3817], 3825.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 235A, as added [Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 123(a), Sept. 30, 1996, [110 Stat. 3009–560][/us/stat/110/3009-560]; amended [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], §§ 7206(a), 7210(d)(1), Dec. 17, 2004, [118 Stat. 3817][/us/stat/118/3817], 3825.)
 
  __Codification__ 
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(4). [Pub. L. 108–458, § 7210(d)(1)][/us/pl/108/458/s7210/d/1], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(4) Additional stations.—Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry within the United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).”
+    2004—Subsec. (a)(4). [Pub. L. 108–458][/us/pl/108/458], § 7210(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “(4) Additional stations.—Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry within the United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).”
 
-    Subsec. (b). [Pub. L. 108–458, § 7206(a)][/us/pl/108/458/s7206/a], inserted “and immigration security initiative” after “program” in heading, substituted “Secretary of Homeland Security” for “Attorney General” in text, and inserted at end “Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.”
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 7206(a), inserted “and immigration security initiative” after “program” in heading, substituted “Secretary of Homeland Security” for “Attorney General” in text, and inserted at end “Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.”
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -69,7 +69,7 @@
 
  __Exchange of Terrorist Information and Increased Preinspection at Foreign Airports__ 
 
-[Pub. L. 108–458, title VII, § 7210(a)][/us/pl/108/458/s7210/a], (b), Dec. 17, 2004, [118 Stat. 3824][/us/stat/118/3824], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7210(a), (b), Dec. 17, 2004, [118 Stat. 3824][/us/stat/118/3824], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -103,15 +103,15 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs123%2Fa
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-560
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3817
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/108/458/s7210/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7210%2Fd%2F1
-[/us/pl/108/458/s7206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7206%2Fa
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/108/458/s7210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7210%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3824
 
 

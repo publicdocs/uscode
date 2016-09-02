@@ -47,7 +47,7 @@
 
         Nothing contained in this section shall be regarded as limiting, denying, or restricting the power of the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 340, [66 Stat. 260][/us/stat/66/260]; [Sept. 3, 1954, ch. 1263, § 18][/us/act/1954-09-03/ch1263/s18], [68 Stat. 1232][/us/stat/68/1232]; [Pub. L. 87–301, § 18][/us/pl/87/301/s18], Sept. 26, 1961, [75 Stat. 656][/us/stat/75/656]; [Pub. L. 99–653, § 17][/us/pl/99/653/s17], Nov. 14, 1986, [100 Stat. 3658][/us/stat/100/3658]; [Pub. L. 100–525, § 9(dd)][/us/pl/100/525/s9/dd], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(d)(18)][/us/pl/101/649/s407/d/18], Nov. 29, 1990, [104 Stat. 5046][/us/stat/104/5046]; [Pub. L. 102–232, title III, § 305(k)][/us/pl/102/232/s305/k], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 103–416, title I, § 104(b)][/us/pl/103/416/s104/b], (c), Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 340, [66 Stat. 260][/us/stat/66/260]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 18, [68 Stat. 1232][/us/stat/68/1232]; [Pub. L. 87–301][/us/pl/87/301], § 18, Sept. 26, 1961, [75 Stat. 656][/us/stat/75/656]; [Pub. L. 99–653][/us/pl/99/653], § 17, Nov. 14, 1986, [100 Stat. 3658][/us/stat/100/3658]; [Pub. L. 100–525][/us/pl/100/525], § 9(dd), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(d)(18), Nov. 29, 1990, [104 Stat. 5046][/us/stat/104/5046]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(k), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750]; [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 104(b), (c), Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308].)
 
  __References in Text__ 
 
@@ -57,27 +57,27 @@
 
     1994—Subsec. (d). [Pub. L. 103–416][/us/pl/103/416] redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsections (c) or (d)”, and struck out former subsec. (d) which related to revocation of naturalization of persons who, within one year of naturalization, have taken permanent residence in country of their nativity or in any other foreign country.
 
-    Subsecs. (e) to (i). [Pub. L. 103–416, § 104(c)(1)][/us/pl/103/416/s104/c/1], redesignated subsecs. (f) to (i) as (e) to (h), respectively. Former subsec. (e) redesignated (d).
+    Subsecs. (e) to (i). [Pub. L. 103–416][/us/pl/103/416], § 104(c)(1), redesignated subsecs. (f) to (i) as (e) to (h), respectively. Former subsec. (e) redesignated (d).
 
-    1991—Subsec. (a). [Pub. L. 102–232, § 305(k)(1)][/us/pl/102/232/s305/k/1], substituted “district court” for “District Court” in first sentence.
+    1991—Subsec. (a). [Pub. L. 102–232][/us/pl/102/232], § 305(k)(1), substituted “district court” for “District Court” in first sentence.
 
-    Subsec. (g). [Pub. L. 102–232, § 305(k)(2)][/us/pl/102/232/s305/k/2], substituted “clerk of court” for “clerk of the court” in second sentence.
+    Subsec. (g). [Pub. L. 102–232][/us/pl/102/232], § 305(k)(2), substituted “clerk of court” for “clerk of the court” in second sentence.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(d)(18)(A)][/us/pl/101/649/s407/d/18/A], substituted “in any District Court of the United States” for “in any court specified in subsection (a) of [section 1421 of this title][/us/usc/t8/s1421]”.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(18)(A), substituted “in any District Court of the United States” for “in any court specified in subsection (a) of [section 1421 of this title][/us/usc/t8/s1421]”.
 
-    Subsec. (g). [Pub. L. 101–649, § 407(d)(18)(B)][/us/pl/101/649/s407/d/18/B], (C), amended second sentence generally and struck out third sentence. Prior to amendment, second and third sentences read as follows: “In case such certificate was not originally issued by the court making such order, it shall direct the clerk of court in which the order is revoked and set aside to transmit a copy of such order and judgment to the court out of which such certificate of naturalization shall have been originally issued. It shall thereupon be the duty of the clerk of the court receiving such certified copy of the order and judgment of the court to enter the same of record and to cancel such original certificate of naturalization, if there be any, upon the records and to notify the Attorney General of the entry of such order and of such cancellation.”
+    Subsec. (g). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(18)(B), (C), amended second sentence generally and struck out third sentence. Prior to amendment, second and third sentences read as follows: “In case such certificate was not originally issued by the court making such order, it shall direct the clerk of court in which the order is revoked and set aside to transmit a copy of such order and judgment to the court out of which such certificate of naturalization shall have been originally issued. It shall thereupon be the duty of the clerk of the court receiving such certified copy of the order and judgment of the court to enter the same of record and to cancel such original certificate of naturalization, if there be any, upon the records and to notify the Attorney General of the entry of such order and of such cancellation.”
 
-    Subsec. (i). [Pub. L. 101–649, § 407(d)(18)(D)][/us/pl/101/649/s407/d/18/D], substituted “the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person” for “any naturalization court, by or in which a person has been naturalized, to correct, reopen, alter, modify, or vacate its judgment or decree naturalizing such person, during the term of such court or within the time prescribed by the rules of procedure or statutes governing the jurisdiction of the court to take such action”.
+    Subsec. (i). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(18)(D), substituted “the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person” for “any naturalization court, by or in which a person has been naturalized, to correct, reopen, alter, modify, or vacate its judgment or decree naturalizing such person, during the term of such court or within the time prescribed by the rules of procedure or statutes governing the jurisdiction of the court to take such action”.
 
-    1988—Subsec. (c). [Pub. L. 100–525, § 9(dd)(1)][/us/pl/100/525/s9/dd/1], substituted “December 24, 1952” for “the effective date of this chapter”.
+    1988—Subsec. (c). [Pub. L. 100–525][/us/pl/100/525], § 9(dd)(1), substituted “December 24, 1952” for “the effective date of this chapter”.
 
-    Subsecs. (e) to (j). [Pub. L. 100–525, § 9(dd)(2)][/us/pl/100/525/s9/dd/2], (3), redesignated former subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows: “The revocation and setting aside of the order admitting any person to citizenship and canceling his certificate of naturalization under the provisions of subsection (a) of section 338 of the Nationality Act of 1940 shall not, where such action takes place after the effective date of this chapter, result in the loss of citizenship or any right or privilege of citizenship which would have been derived by or been available to a wife or minor child of the naturalized person had such naturalization not been revoked: Provided, That this subsection shall not apply in any case in which the revocation and setting aside of the order was the result of actual fraud.”
+    Subsecs. (e) to (j). [Pub. L. 100–525][/us/pl/100/525], § 9(dd)(2), (3), redesignated former subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows: “The revocation and setting aside of the order admitting any person to citizenship and canceling his certificate of naturalization under the provisions of subsection (a) of section 338 of the Nationality Act of 1940 shall not, where such action takes place after the effective date of this chapter, result in the loss of citizenship or any right or privilege of citizenship which would have been derived by or been available to a wife or minor child of the naturalized person had such naturalization not been revoked: Provided, That this subsection shall not apply in any case in which the revocation and setting aside of the order was the result of actual fraud.”
 
     1986—Subsec. (d). [Pub. L. 99–653][/us/pl/99/653] substituted “one year” for “five years”.
 
-    1961—Subsec. (a). [Pub. L. 87–301, § 18(a)][/us/pl/87/301/s18/a], inserted “were illegally procured or” after “that such order and certificate of naturalization”.
+    1961—Subsec. (a). [Pub. L. 87–301][/us/pl/87/301], § 18(a), inserted “were illegally procured or” after “that such order and certificate of naturalization”.
 
-    Subsec. (b). [Pub. L. 87–301, § 18(b)][/us/pl/87/301/s18/b], inserted “illegally procured or” before “procured by concealment”.
+    Subsec. (b). [Pub. L. 87–301][/us/pl/87/301], § 18(b), inserted “illegally procured or” before “procured by concealment”.
 
     1954—Subsec. (a). Act Sept. 3, 1954, substituted “United States attorneys” for “United States district attorneys”.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–653, § 23(f)][/us/pl/99/653/s23/f], as added by [Pub. L. 100–525, § 8(r)][/us/pl/100/525/s8/r], Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619], provided that: 
+[Pub. L. 99–653][/us/pl/99/653], § 23(f), as added by [Pub. L. 100–525][/us/pl/100/525], § 8(r), Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619], provided that: 
 
 > “The amendment made by section 17 \[amending this section\] shall not apply to individuals who have taken up permanent residence outside the United States before November 14, 1986.”
 
@@ -107,41 +107,41 @@
 [/us/usc/t18/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1425
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F260
-[/us/act/1954-09-03/ch1263/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs18
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1232
-[/us/pl/87/301/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs18
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/stat/75/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F656
-[/us/pl/99/653/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs17
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3658
-[/us/pl/100/525/s9/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fdd
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s407/d/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F18
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5046
-[/us/pl/102/232/s305/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fk
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
-[/us/pl/103/416/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs104%2Fb
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4308
 [/us/usc/t8/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1002
 [/us/usc/t8/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/103/416/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs104%2Fc%2F1
-[/us/pl/102/232/s305/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fk%2F1
-[/us/pl/102/232/s305/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fk%2F2
-[/us/pl/101/649/s407/d/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F18%2FA
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421
-[/us/pl/101/649/s407/d/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F18%2FB
-[/us/pl/101/649/s407/d/18/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F18%2FD
-[/us/pl/100/525/s9/dd/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fdd%2F1
-[/us/pl/100/525/s9/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fdd%2F2
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
-[/us/pl/87/301/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs18%2Fa
-[/us/pl/87/301/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs18%2Fb
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
+[/us/pl/87/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs310%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/99/653/s23/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs23%2Ff
-[/us/pl/100/525/s8/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fr
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2619
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

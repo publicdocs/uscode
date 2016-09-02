@@ -21,7 +21,7 @@
 
     (2) issuing, and validating at the ports of entry of such a country, electronic passports that are fraud-resistant, contain relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfy internationally accepted standards for electronic passports.
 
-([Pub. L. 114–113, div. O, title II, § 208][/us/pl/114/113/s208], Dec. 18, 2015, [129 Stat. 2995][/us/stat/129/2995].)
+([Pub. L. 114–113, div. O, title II][/us/pl/114/113/dO/tII], § 208, Dec. 18, 2015, [129 Stat. 2995][/us/stat/129/2995].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/pl/114/113/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs208
+[/us/pl/114/113/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtII
 [/us/stat/129/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2995
 
 

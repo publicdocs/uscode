@@ -35,7 +35,7 @@
 
         A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 3, § 223, [66 Stat. 194][/us/stat/66/194]; [Pub. L. 97–116, § 6][/us/pl/97/116/s6], Dec. 29, 1981, [95 Stat. 1615][/us/stat/95/1615].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 3, § 223, [66 Stat. 194][/us/stat/66/194]; [Pub. L. 97–116][/us/pl/97/116], § 6, Dec. 29, 1981, [95 Stat. 1615][/us/stat/95/1615].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F194
-[/us/pl/97/116/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs6
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1615
 [/us/usc/t8/s203/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs203%2F6
 [/us/usc/t8/s1101/a/15/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FE

@@ -17,7 +17,7 @@
 
     If an immigrant having an immigrant visa is denied admission to the United States and removed, or does not apply for admission before the expiration of the validity of his visa, or if an alien having an immigrant visa issued to him as a preference immigrant is found not to be a preference immigrant, an immigrant visa or a preference immigrant visa, as the case may be, may be issued in lieu thereof to another qualified alien.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 206, [66 Stat. 181][/us/stat/66/181]; [Pub. L. 89–236, § 6][/us/pl/89/236/s6], Oct. 3, 1965, [79 Stat. 916][/us/stat/79/916]; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(D)][/us/pl/104/208/s308/d/4/D], Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 206, [66 Stat. 181][/us/stat/66/181]; [Pub. L. 89–236][/us/pl/89/236], § 6, Oct. 3, 1965, [79 Stat. 916][/us/stat/79/916]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(D), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F181
-[/us/pl/89/236/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236%2Fs6
+[/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236
 [/us/stat/79/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F916
-[/us/pl/104/208/s308/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FD
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-618
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/89/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F236

@@ -47,7 +47,7 @@
 
         Copies of the data collected under subsection (a) shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
 
-([Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title IX, § 903\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–541.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title IX, § 903\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–541.)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary of Homeland Security, the Secretary of State, and the Secretary of Defense shall ensure that any applications, interviews, filings, oaths, ceremonies, or other proceedings under title III of the Immigration and Nationality Act ([8 U.S.C. 1401][/us/usc/t8/s1401] et seq.) relating to naturalization of members of the Armed Forces, and persons made eligible for naturalization by section 319(e) or 322(d) of such Act \[[8 U.S.C. 1430(e)][/us/usc/t8/s1430/e], 1433(d)\], are available through United States embassies, consulates, and as practicable, United States military installations overseas.
 
-([Pub. L. 108–136, div. A, title XVII, § 1701(d)][/us/pl/108/136/s1701/d], Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692]; [Pub. L. 110–181, div. A, title VI, § 674(c)][/us/pl/110/181/s674/c], Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186].)
+([Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1701(d), Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 674(c), Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Finalization of Naturalization Proceedings for Members of the Armed Forces__ 
 
-[Pub. L. 108–136, div. A, title XVII, § 1701(e)][/us/pl/108/136/s1701/e], Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692], provided that: 
+[Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], § 1701(e), Nov. 24, 2003, [117 Stat. 1692][/us/stat/117/1692], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall prescribe a policy that facilitates the opportunity for a member of the Armed Forces to finalize naturalization for which the member has applied. The policy shall include, for such purpose, the following:
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t8/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401
 [/us/usc/t8/s1430/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1430%2Fe
-[/us/pl/108/136/s1701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fd
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1692
-[/us/pl/110/181/s674/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs674%2Fc
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F186
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -71,7 +71,7 @@
 [/us/usc/t8/s1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1430
 [/us/pl/109/136/s1705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F136%2Fs1705%2Fb
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
-[/us/pl/108/136/s1701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1701%2Fe
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1692
 
 

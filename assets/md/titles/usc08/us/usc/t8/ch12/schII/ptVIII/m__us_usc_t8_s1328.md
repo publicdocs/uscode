@@ -17,7 +17,7 @@
 
     The importation into the United States of any alien for the purpose of prostitution, or for any other immoral purpose, is forbidden. Whoever shall, directly or indirectly, import, or attempt to import into the United States any alien for the purpose of prostitution or for any other immoral purpose, or shall hold or attempt to hold any alien for any such purpose in pursuance of such illegal importation, or shall keep, maintain, control, support, employ, or harbor in any house or other place, for the purpose of prostitution or for any other immoral purpose, any alien, in pursuance of such illegal importation, shall be fined under title 18, or imprisoned not more than 10 years, or both. The trial and punishment of offenses under this section may be in any district to or into which such alien is brought in pursuance of importation by the person or persons accused, or in any district in which a violation of any of the provisions of this section occurs. In all prosecutions under this section, the testimony of a husband or wife shall be admissible and competent evidence against each other.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 278, [66 Stat. 230][/us/stat/66/230]; [Pub. L. 101–649, title V, § 543(b)(5)][/us/pl/101/649/s543/b/5], Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 278, [66 Stat. 230][/us/stat/66/230]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(b)(5), Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F230
-[/us/pl/101/649/s543/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fb%2F5
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5059
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

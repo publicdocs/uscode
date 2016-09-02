@@ -17,7 +17,7 @@
 
     Nothing in [section 209 of title 18][/us/usc/t18/s209] relative to augmenting salaries of Government officials from outside sources shall prevent receiving reimbursements for services of immigration officials incident to the inspection of aliens in foreign contiguous territory and such reimbursement shall be credited to the appropriation, “Immigration and Naturalization Service—Salaries and Expenses.”
 
-([Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1424][/us/stat/41/1424]; [Sept. 3, 1954, ch. 1263, § 6][/us/act/1954-09-03/ch1263/s6], [68 Stat. 1227][/us/stat/68/1227].)
+([Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1424][/us/stat/41/1424]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 6, [68 Stat. 1227][/us/stat/68/1227].)
 
  __Codification__ 
 
@@ -25,9 +25,9 @@
 
     Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
 
-    Section constituted a part of section 1 of [act Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], [41 Stat. 1424][/us/stat/41/1424], which rendered [act Mar. 3, 1917, ch. 163, § 1][/us/act/1917-03-03/ch163/s1], [39 Stat. 1106][/us/stat/39/1106] (section 66 of former Title 5), inapplicable to immigration officials under the circumstances stated.
+    Section constituted a part of section 1 of [act Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], [41 Stat. 1424][/us/stat/41/1424], which rendered [act Mar. 3, 1917, ch. 163][/us/act/1917-03-03/ch163], § 1, [39 Stat. 1106][/us/stat/39/1106] (section 66 of former Title 5), inapplicable to immigration officials under the circumstances stated.
 
-    Section was formerly classified to [section 68 of Title 5][/us/usc/t5/s68] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]. Prior thereto, section was classified to [section 109c of this title][/us/usc/t8/s109c].
+    Section was formerly classified to [section 68 of Title 5][/us/usc/t5/s68] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]. Prior thereto, section was classified to [section 109c of this title][/us/usc/t8/s109c].
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1424
-[/us/act/1954-09-03/ch1263/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs6
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1227
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/usc/t18/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1914
@@ -56,10 +56,10 @@
 [/us/usc/t18/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs203
 [/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1424
-[/us/act/1917-03-03/ch163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163%2Fs1
+[/us/act/1917-03-03/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163
 [/us/stat/39/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1106
 [/us/usc/t5/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs68
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t8/s109c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs109c
 [/us/usc/t18/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1914

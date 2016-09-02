@@ -87,7 +87,7 @@
 
             The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 103, [66 Stat. 173][/us/stat/66/173]; [Pub. L. 100–525, § 9(c)][/us/pl/100/525/s9/c], Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619]; [Pub. L. 101–649, title I, § 142][/us/pl/101/649/s142], Nov. 29, 1990, [104 Stat. 5004][/us/stat/104/5004]; [Pub. L. 104–208, div. C, title I][/us/pl/104/208], §§ 102(d), 125, 134(a), title III, §§ 308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, [110 Stat. 3009–555][/us/stat/110/3009-555], 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; [Pub. L. 107–296, title XI, § 1102][/us/pl/107/296/s1102], Nov. 25, 2002, [116 Stat. 2273][/us/stat/116/2273]; [Pub. L. 108–7, div. L, § 105(a)(1)][/us/pl/108/7/s105/a/1], (2), Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531]; [Pub. L. 108–458, title V, § 5505(a)][/us/pl/108/458/s5505/a], Dec. 17, 2004, [118 Stat. 3741][/us/stat/118/3741]; [Pub. L. 111–122, § 2(a)][/us/pl/111/122/s2/a], Dec. 22, 2009, [123 Stat. 3480][/us/stat/123/3480].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 103, [66 Stat. 173][/us/stat/66/173]; [Pub. L. 100–525][/us/pl/100/525], § 9(c), Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619]; [Pub. L. 101–649, title I][/us/pl/101/649/tI], § 142, Nov. 29, 1990, [104 Stat. 5004][/us/stat/104/5004]; [Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], §§ 102(d), 125, 134(a), title III, §§ 308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, [110 Stat. 3009–555][/us/stat/110/3009-555], 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1102, Nov. 25, 2002, [116 Stat. 2273][/us/stat/116/2273]; [Pub. L. 108–7, div. L][/us/pl/108/7/dL], § 105(a)(1), (2), Feb. 20, 2003, [117 Stat. 531][/us/stat/117/531]; [Pub. L. 108–458, title V][/us/pl/108/458/tV], § 5505(a), Dec. 17, 2004, [118 Stat. 3741][/us/stat/118/3741]; [Pub. L. 111–122][/us/pl/111/122], § 2(a), Dec. 22, 2009, [123 Stat. 3480][/us/stat/123/3480].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Codification__ 
 
-    “[Section 3113 of title 40][/us/usc/t40/s3113]” substituted in subsec. (b)(3) for “the Act of August 1, 1888 (Chapter 728; [25 Stat. 357][/us/stat/25/357])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 3113 of title 40][/us/usc/t40/s3113]” substituted in subsec. (b)(3) for “the Act of August 1, 1888 (Chapter 728; [25 Stat. 357][/us/stat/25/357])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -105,53 +105,53 @@
 
     2004—Subsec. (h). [Pub. L. 108–458][/us/pl/108/458] added subsec. (h).
 
-    2003—Subsec. (a). [Pub. L. 108–7, § 105(a)(1)][/us/pl/108/7/s105/a/1], amended [Pub. L. 107–296, § 1102(2)][/us/pl/107/296/s1102/2]. See 2002 Amendment notes below.
+    2003—Subsec. (a). [Pub. L. 108–7][/us/pl/108/7], § 105(a)(1), amended [Pub. L. 107–296][/us/pl/107/296], § 1102(2). See 2002 Amendment notes below.
 
-    [Pub. L. 108–7, § 105(a)(2)][/us/pl/108/7/s105/a/2], which directed the amendment of [Pub. L. 107–296][/us/pl/107/296], was executed to [section 1102(2) of Pub. L. 107–296][/us/pl/107/296/s1102/2], to reflect the probable intent of Congress. See 2002 Amendment notes below.
+    [Pub. L. 108–7][/us/pl/108/7], § 105(a)(2), which directed the amendment of [Pub. L. 107–296][/us/pl/107/296], was executed to [section 1102(2) of Pub. L. 107–296][/us/pl/107/296/s1102/2], to reflect the probable intent of Congress. See 2002 Amendment notes below.
 
-    2002—[Pub. L. 107–296, § 1102(1)][/us/pl/107/296/s1102/1], amended section catchline generally.
+    2002—[Pub. L. 107–296][/us/pl/107/296], § 1102(1), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 107–296, § 1102(2)(A)][/us/pl/107/296/s1102/2/A], as added by [Pub. L. 108–7, § 105(a)(1)][/us/pl/108/7/s105/a/1], which directed the substitution of “Secretary of Homeland Security” for “Attorney General” in heading, was executed by inserting “Secretary of Homeland Security” as heading, to reflect the probable intent of Congress.
+    Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1102(2)(A), as added by [Pub. L. 108–7][/us/pl/108/7], § 105(a)(1), which directed the substitution of “Secretary of Homeland Security” for “Attorney General” in heading, was executed by inserting “Secretary of Homeland Security” as heading, to reflect the probable intent of Congress.
 
-    Subsec. (a)(1). [Pub. L. 107–296, § 1102(2)(B)][/us/pl/107/296/s1102/2/B], as added by [Pub. L. 108–7, § 105(a)(1)][/us/pl/108/7/s105/a/1], substituted “The Secretary of Homeland Security” for “The Attorney General”.
+    Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1102(2)(B), as added by [Pub. L. 108–7][/us/pl/108/7], § 105(a)(1), substituted “The Secretary of Homeland Security” for “The Attorney General”.
 
-    [Pub. L. 107–296, § 1102(2)(C)][/us/pl/107/296/s1102/2/C], formerly § 1102(2)(A), as redesignated by [Pub. L. 108–7, § 105(a)(2)][/us/pl/108/7/s105/a/2], inserted “Attorney General,” after “President,”. See 2003 Amendment note above.
+    [Pub. L. 107–296][/us/pl/107/296], § 1102(2)(C), formerly § 1102(2)(A), as redesignated by [Pub. L. 108–7][/us/pl/108/7], § 105(a)(2), inserted “Attorney General,” after “President,”. See 2003 Amendment note above.
 
-    Subsec. (a)(8) to (11). [Pub. L. 107–296, § 1102(2)(D)][/us/pl/107/296/s1102/2/D], formerly § 1102(2)(B), as redesignated by [Pub. L. 108–7, § 105(a)(2)][/us/pl/108/7/s105/a/2], redesignated par. (8), relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving, and par. (9), relating to Attorney General authority to support administrative detention of persons in non-Federal institutions, as pars. (10) and (11), respectively. See 2003 Amendment note above.
+    Subsec. (a)(8) to (11). [Pub. L. 107–296][/us/pl/107/296], § 1102(2)(D), formerly § 1102(2)(B), as redesignated by [Pub. L. 108–7][/us/pl/108/7], § 105(a)(2), redesignated par. (8), relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving, and par. (9), relating to Attorney General authority to support administrative detention of persons in non-Federal institutions, as pars. (10) and (11), respectively. See 2003 Amendment note above.
 
-    Subsec. (g). [Pub. L. 107–296, § 1102(3)][/us/pl/107/296/s1102/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–296][/us/pl/107/296], § 1102(3), added subsec. (g).
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 372(1)][/us/pl/104/208/s372/1], (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-    [Pub. L. 104–208, § 125][/us/pl/104/208/s125], inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country’s immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
+    [Pub. L. 104–208][/us/pl/104/208], § 125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country’s immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
 
-    Subsec. (a)(8). [Pub. L. 104–208, § 372(3)][/us/pl/104/208/s372/3], added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
+    Subsec. (a)(8). [Pub. L. 104–208][/us/pl/104/208], § 372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
-    Subsec. (a)(9). [Pub. L. 104–208, § 373(1)][/us/pl/104/208/s373/1], added at end par. (9) relating to Attorney General authority to support administrative detention of persons in non-Federal institutions.
+    Subsec. (a)(9). [Pub. L. 104–208][/us/pl/104/208], § 373(1), added at end par. (9) relating to Attorney General authority to support administrative detention of persons in non-Federal institutions.
 
-    Subsec. (b). [Pub. L. 104–208, § 102(d)(1)(B)][/us/pl/104/208/s102/d/1/B], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(B), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 104–208, § 373(2)][/us/pl/104/208/s373/2], inserted at end “The Commissioner may enter into cooperative agreements with State and local law enforcement agencies for the purpose of assisting in the enforcement of the immigration laws.”
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 373(2), inserted at end “The Commissioner may enter into cooperative agreements with State and local law enforcement agencies for the purpose of assisting in the enforcement of the immigration laws.”
 
-    [Pub. L. 104–208, § 102(d)(1)(A)][/us/pl/104/208/s102/d/1/A], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(A), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 104–208, § 102(d)(1)(A)][/us/pl/104/208/s102/d/1/A], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2). [Pub. L. 104–208, § 308(e)(4)][/us/pl/104/208/s308/e/4], which directed amendment of subsec. (c)(2) by substituting “cancellation of removal” for “suspension of deportation”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by [Pub. L. 104–208, § 102(d)(1)(A)][/us/pl/104/208/s102/d/1/A]. See above.
+    Subsec. (d)(2). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(4), which directed amendment of subsec. (c)(2) by substituting “cancellation of removal” for “suspension of deportation”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(A). See above.
 
-    [Pub. L. 104–208, § 308(d)(4)(C)][/us/pl/104/208/s308/d/4/C], which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by [Pub. L. 104–208, § 102(d)(1)(A)][/us/pl/104/208/s102/d/1/A]. See above.
+    [Pub. L. 104–208][/us/pl/104/208], § 308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(A). See above.
 
-    Subsec. (e). [Pub. L. 104–208, § 102(d)(2)][/us/pl/104/208/s102/d/2], substituted “subsection (d)” for “subsection (c)” in par. (1).
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 102(d)(2), substituted “subsection (d)” for “subsection (c)” in par. (1).
 
-    [Pub. L. 104–208, § 102(d)(1)(A)][/us/pl/104/208/s102/d/1/A], redesignated subsec. (d) as (e).
+    [Pub. L. 104–208][/us/pl/104/208], § 102(d)(1)(A), redesignated subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 104–208, § 134(a)][/us/pl/104/208/s134/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 134(a), added subsec. (f).
 
     1990—Subsecs. (c), (d). [Pub. L. 101–649][/us/pl/101/649] added subsecs. (c) and (d).
 
-    1988—Subsec. (a). [Pub. L. 100–525, § 9(c)(1)][/us/pl/100/525/s9/c/1], substituted “instructions” for “intructions” and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: “He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.”
+    1988—Subsec. (a). [Pub. L. 100–525][/us/pl/100/525], § 9(c)(1), substituted “instructions” for “intructions” and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: “He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.”
 
-    Subsec. (b). [Pub. L. 100–525, § 9(c)(2)][/us/pl/100/525/s9/c/2], struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
+    Subsec. (b). [Pub. L. 100–525][/us/pl/100/525], § 9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title I, § 134(b)][/us/pl/104/208/s134/b], Sept. 30, 1996, [110 Stat. 3009–564][/us/stat/110/3009-564], provided that: 
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 134(b), Sept. 30, 1996, [110 Stat. 3009–564][/us/stat/110/3009-564], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -175,13 +175,13 @@
 
  __Fingerprint Cards__ 
 
-[Pub. L. 105–119, title I][/us/pl/105/119], Nov. 26, 1997, [111 Stat. 2448][/us/stat/111/2448], provided in part: 
+[Pub. L. 105–119, title I][/us/pl/105/119/tI], Nov. 26, 1997, [111 Stat. 2448][/us/stat/111/2448], provided in part: 
 
 > “That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office of the Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits”.
 
  __Improvement of Barriers at Border__ 
 
-[Pub. L. 104–208, div. C, title I, § 102(a)][/us/pl/104/208/s102/a]–(c), Sept. 30, 1996, [110 Stat. 3009–554][/us/stat/110/3009-554], 3009–555, as amended by [Pub. L. 109–13, div. B, title I, § 102][/us/pl/109/13/s102], May 11, 2005, [119 Stat. 306][/us/stat/119/306]; [Pub. L. 109–367, § 3][/us/pl/109/367/s3], Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638]; [Pub. L. 110–161, div. E, title V, § 564(a)][/us/pl/110/161/s564/a], Dec. 26, 2007, [121 Stat. 2090][/us/stat/121/2090], provided that:
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 102(a)–(c), Sept. 30, 1996, [110 Stat. 3009–554][/us/stat/110/3009-554], 3009–555, as amended by [Pub. L. 109–13, div. B, title I][/us/pl/109/13/dB/tI], § 102, May 11, 2005, [119 Stat. 306][/us/stat/119/306]; [Pub. L. 109–367][/us/pl/109/367], § 3, Oct. 26, 2006, [120 Stat. 2638][/us/stat/120/2638]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 564(a), Dec. 26, 2007, [121 Stat. 2090][/us/stat/121/2090], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -255,13 +255,13 @@
 
  __Improved Border Equipment and Technology__ 
 
-[Pub. L. 104–208, div. C, title I, § 103][/us/pl/104/208/s103], Sept. 30, 1996, [110 Stat. 3009–555][/us/stat/110/3009-555], provided that: 
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 103, Sept. 30, 1996, [110 Stat. 3009–555][/us/stat/110/3009-555], provided that: 
 
 > “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
 
  __Hiring and Training Standards__ 
 
-[Pub. L. 104–208, div. C, title I, § 106(a)][/us/pl/104/208/s106/a], (b), Sept. 30, 1996, [110 Stat. 3009–556][/us/stat/110/3009-556], provided that:
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 106(a), (b), Sept. 30, 1996, [110 Stat. 3009–556][/us/stat/110/3009-556], provided that:
 
 >     “(a)  __Review of Hiring Standards__  __.—__ 
 
@@ -273,7 +273,7 @@
 
  __Report on Border Strategy__ 
 
-[Pub. L. 104–208, div. C, title I, § 107][/us/pl/104/208/s107], Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557], provided that:
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 107, Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557], provided that:
 
 >     “(a)  __Evaluation of Strategy__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Compensation for Immigration Judges__ 
 
-[Pub. L. 104–208, div. C, title III, § 371(c)][/us/pl/104/208/s371/c], Sept. 30, 1996, [110 Stat. 3009–645][/us/stat/110/3009-645], provided that:
+[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 371(c), Sept. 30, 1996, [110 Stat. 3009–645][/us/stat/110/3009-645], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -379,7 +379,7 @@
 
 >     Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date.”
 
-\[[Pub. L. 104–208, div. C, title III, § 371(d)(2)][/us/pl/104/208/s371/d/2], Sept. 30, 1996, [110 Stat. 3009–646][/us/stat/110/3009-646], provided that: 
+\[[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 371(d)(2), Sept. 30, 1996, [110 Stat. 3009–646][/us/stat/110/3009-646], provided that: 
 
 > “Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -387,11 +387,11 @@
 
  __Machine-Readable Document Border Security Program__ 
 
-    [Pub. L. 100–690, title IV, § 4604][/us/pl/100/690/s4604], Nov. 18, 1988, [102 Stat. 4289][/us/stat/102/4289], which required Department of State, United States Customs Service, and Immigration and Naturalization Service to develop a comprehensive machine-readable travel and identity document border security program that would improve border entry and departure control through automated data capture of machine-readable travel and identity documents, directed specified agencies and organizations to contribute law enforcement data for the system, authorized appropriations for the program, and required continuing full implementation in fiscal years 1990, 1991, and 1992, by all participating agencies, was repealed by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4604, Nov. 18, 1988, [102 Stat. 4289][/us/stat/102/4289], which required Department of State, United States Customs Service, and Immigration and Naturalization Service to develop a comprehensive machine-readable travel and identity document border security program that would improve border entry and departure control through automated data capture of machine-readable travel and identity documents, directed specified agencies and organizations to contribute law enforcement data for the system, authorized appropriations for the program, and required continuing full implementation in fiscal years 1990, 1991, and 1992, by all participating agencies, was repealed by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Immigration and Naturalization Service Personnel Enhancement__ 
 
-[Pub. L. 100–690, title VII, § 7350][/us/pl/100/690/s7350], Nov. 18, 1988, [102 Stat. 4473][/us/stat/102/4473], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7350, Nov. 18, 1988, [102 Stat. 4473][/us/stat/102/4473], provided that:
 
 >     “(a) __Pilot Program Regarding the Identification of Certain Aliens.—__ 
 
@@ -407,7 +407,7 @@
 
  __Pilot Program To Establish or Improve Computer Capabilities__ 
 
-[Pub. L. 99–570, title I, § 1751(e)][/us/pl/99/570/s1751/e], Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], provided that:
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1751(e), Oct. 27, 1986, [100 Stat. 3207–48][/us/stat/100/3207-48], provided that:
 
 >     “(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The Attorney General shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
 
@@ -589,19 +589,19 @@
 [/us/usc/t40/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3113
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F173
-[/us/pl/100/525/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fc
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2619
-[/us/pl/101/649/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs142
+[/us/pl/101/649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtI
 [/us/stat/104/5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5004
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-555
-[/us/pl/107/296/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2273
-[/us/pl/108/7/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F1
+[/us/pl/108/7/dL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdL
 [/us/stat/117/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F531
-[/us/pl/108/458/s5505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs5505%2Fa
+[/us/pl/108/458/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtV
 [/us/stat/118/3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3741
-[/us/pl/111/122/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs2%2Fa
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 [/us/stat/123/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3480
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -609,48 +609,48 @@
 [/us/usc/t6/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs521
 [/us/usc/t40/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3113
 [/us/stat/25/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F357
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/7/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F1
-[/us/pl/107/296/s1102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2
-[/us/pl/108/7/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F2
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2
-[/us/pl/107/296/s1102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F1
-[/us/pl/107/296/s1102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2%2FA
-[/us/pl/108/7/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F1
-[/us/pl/107/296/s1102/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2%2FB
-[/us/pl/108/7/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F1
-[/us/pl/107/296/s1102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2%2FC
-[/us/pl/108/7/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F2
-[/us/pl/107/296/s1102/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F2%2FD
-[/us/pl/108/7/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105%2Fa%2F2
-[/us/pl/107/296/s1102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1102%2F3
-[/us/pl/104/208/s372/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs372%2F1
-[/us/pl/104/208/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs125
-[/us/pl/104/208/s372/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs372%2F3
-[/us/pl/104/208/s373/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs373%2F1
-[/us/pl/104/208/s102/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FB
-[/us/pl/104/208/s373/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs373%2F2
-[/us/pl/104/208/s102/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FA
-[/us/pl/104/208/s102/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FA
-[/us/pl/104/208/s308/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F4
-[/us/pl/104/208/s102/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FA
-[/us/pl/104/208/s308/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FC
-[/us/pl/104/208/s102/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FA
-[/us/pl/104/208/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F2
-[/us/pl/104/208/s102/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fd%2F1%2FA
-[/us/pl/104/208/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs134%2Fa
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/100/525/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fc%2F1
-[/us/pl/100/525/s9/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fc%2F2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1104
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t6/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs521
-[/us/pl/104/208/s134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs134%2Fb
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-564
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
@@ -659,36 +659,36 @@
 [/us/pl/101/649/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs161%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2448
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102%2Fa
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-554
-[/us/pl/109/13/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs102
+[/us/pl/109/13/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtI
 [/us/stat/119/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F306
-[/us/pl/109/367/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F367%2Fs3
+[/us/pl/109/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F367
 [/us/stat/120/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2638
-[/us/pl/110/161/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs564%2Fa
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2090
 [/us/usc/t8/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1103%2Fb
-[/us/pl/104/208/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs103
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-555
-[/us/pl/104/208/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fa
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-556
-[/us/pl/104/208/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs107
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-557
-[/us/pl/104/208/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fc
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-645
-[/us/pl/104/208/s371/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fd%2F2
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-646
-[/us/pl/100/690/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4604
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4289
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/690/s7350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7350
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4473
 [/us/usc/t8/s1101/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F43
-[/us/pl/99/570/s1751/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1751%2Fe
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-48
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 

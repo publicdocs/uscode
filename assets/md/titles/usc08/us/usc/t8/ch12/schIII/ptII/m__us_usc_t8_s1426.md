@@ -27,17 +27,17 @@
 
         An alien shall not be ineligible for citizenship under this section or otherwise because of an exemption from training or service in the Armed Forces of the United States pursuant to the exercise of rights under a treaty, if before the time of the exercise of such rights the alien served in the Armed Forces of a foreign country of which the alien was a national.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 315, [66 Stat. 242][/us/stat/66/242]; [Pub. L. 100–525, § 9(v)][/us/pl/100/525/s9/v], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 404][/us/pl/101/649/s404], Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 315, [66 Stat. 242][/us/stat/66/242]; [Pub. L. 100–525][/us/pl/100/525], § 9(v), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 404, Nov. 29, 1990, [104 Stat. 5039][/us/stat/104/5039].)
 
  __References in Text__ 
 
-    Section 405(b), referred to in subsec. (a), is section 405(b) of [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, [66 Stat. 280][/us/stat/66/280], which is set out as a Savings Clause note under [section 1101 of this title][/us/usc/t8/s1101].
+    Section 405(b), referred to in subsec. (a), is section 405(b) of [act June 27, 1952, ch. 477, title IV][/us/act/1952-06-27/ch477/tIV], [66 Stat. 280][/us/stat/66/280], which is set out as a Savings Clause note under [section 1101 of this title][/us/usc/t8/s1101].
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 404(1)][/us/pl/101/649/s404/1], inserted “but subject to subsection (c)” after “section 405(b)”.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 404(1), inserted “but subject to subsection (c)” after “section 405(b)”.
 
-    Subsec. (c). [Pub. L. 101–649, § 404(2)][/us/pl/101/649/s404/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 404(2), added subsec. (c).
 
     1988—Subsec. (b). [Pub. L. 100–525][/us/pl/100/525] substituted “Department of Defense” for “National Military Establishment”.
 
@@ -54,15 +54,15 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F242
-[/us/pl/100/525/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fv
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs404
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5039
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtIV
 [/us/stat/66/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F280
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/101/649/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs404%2F1
-[/us/pl/101/649/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs404%2F2
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649/s408/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs408%2Fe

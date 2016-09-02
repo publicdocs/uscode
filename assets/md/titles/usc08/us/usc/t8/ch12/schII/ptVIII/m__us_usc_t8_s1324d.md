@@ -37,7 +37,7 @@
 
         Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed by [section 1253(a) of this title][/us/usc/t8/s1253/a] or any other section of this chapter.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 274D, as added [Pub. L. 104–208, div. C, title III, § 380(a)][/us/pl/104/208/s380/a], Sept. 30, 1996, [110 Stat. 3009–650][/us/stat/110/3009-650].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 274D, as added [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 380(a), Sept. 30, 1996, [110 Stat. 3009–650][/us/stat/110/3009-650].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–208, div. C, title III, § 380(c)][/us/pl/104/208/s380/c], Sept. 30, 1996, [110 Stat. 3009–650][/us/stat/110/3009-650], provided that: 
+[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 380(c), Sept. 30, 1996, [110 Stat. 3009–650][/us/stat/110/3009-650], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\]).”
 
@@ -66,12 +66,12 @@
 
 [/us/usc/t8/s1253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s380/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs380%2Fa
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-650
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s380/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs380%2Fc
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-650
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

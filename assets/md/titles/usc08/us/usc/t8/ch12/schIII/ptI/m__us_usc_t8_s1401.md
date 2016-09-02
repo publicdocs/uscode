@@ -33,7 +33,7 @@
 
     (h) a person born before noon (Eastern Standard Time) May 24, 1934, outside the limits and jurisdiction of the United States of an alien father and a mother who is a citizen of the United States who, prior to the birth of such person, had resided in the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 1, § 301, [66 Stat. 235][/us/stat/66/235]; [Pub. L. 89–770][/us/pl/89/770], Nov. 6, 1966, [80 Stat. 1322][/us/stat/80/1322]; [Pub. L. 92–584][/us/pl/92/584], §§ 1, 3, Oct. 27, 1972, [86 Stat. 1289][/us/stat/86/1289]; [Pub. L. 95–432][/us/pl/95/432], §§ 1, 3, Oct. 10, 1978, [92 Stat. 1046][/us/stat/92/1046]; [Pub. L. 99–653, § 12][/us/pl/99/653/s12], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 103–416, title I, § 101(a)][/us/pl/103/416/s101/a], Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 1, § 301, [66 Stat. 235][/us/stat/66/235]; [Pub. L. 89–770][/us/pl/89/770], Nov. 6, 1966, [80 Stat. 1322][/us/stat/80/1322]; [Pub. L. 92–584][/us/pl/92/584], §§ 1, 3, Oct. 27, 1972, [86 Stat. 1289][/us/stat/86/1289]; [Pub. L. 95–432][/us/pl/95/432], §§ 1, 3, Oct. 10, 1978, [92 Stat. 1046][/us/stat/92/1046]; [Pub. L. 99–653][/us/pl/99/653], § 12, Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 101(a), Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306].)
 
  __Amendments__ 
 
@@ -41,29 +41,29 @@
 
     1986—Subsec. (g). [Pub. L. 99–653][/us/pl/99/653] substituted “five years, at least two” for “ten years, at least five”.
 
-    1978—Subsec. (a). [Pub. L. 95–432, § 3][/us/pl/95/432/s3], struck out “(a)” before “The following” and redesignated pars. (1) to (7) as (a) to (g), respectively.
+    1978—Subsec. (a). [Pub. L. 95–432][/us/pl/95/432], § 3, struck out “(a)” before “The following” and redesignated pars. (1) to (7) as (a) to (g), respectively.
 
-    Subsec. (b). [Pub. L. 95–432, § 1][/us/pl/95/432/s1], struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period of not less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
+    Subsec. (b). [Pub. L. 95–432][/us/pl/95/432], § 1, struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period of not less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
 
-    Subsec. (c). [Pub. L. 95–432, § 1][/us/pl/95/432/s1], struck out subsec. (c) which provided that former subsec. (b) apply to persons born abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
+    Subsec. (c). [Pub. L. 95–432][/us/pl/95/432], § 1, struck out subsec. (c) which provided that former subsec. (b) apply to persons born abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
 
-    Subsec. (d). [Pub. L. 95–432, § 1][/us/pl/95/432/s1], struck out subsec. (d) which provided that nothing in former subsec. (b) be construed to alter the citizenship of any person who came into the United States prior to Oct. 27, 1972, and who, whether before or after Oct. 27, 1972, immediately following such coming complied with the physical presence requirements for retention of citizenship specified in former subsec. (b), prior to amendment of former subsec. (b) by [Pub. L. 92–584][/us/pl/92/584].
+    Subsec. (d). [Pub. L. 95–432][/us/pl/95/432], § 1, struck out subsec. (d) which provided that nothing in former subsec. (b) be construed to alter the citizenship of any person who came into the United States prior to Oct. 27, 1972, and who, whether before or after Oct. 27, 1972, immediately following such coming complied with the physical presence requirements for retention of citizenship specified in former subsec. (b), prior to amendment of former subsec. (b) by [Pub. L. 92–584][/us/pl/92/584].
 
-    1972—Subsec. (b). [Pub. L. 92–584, § 1][/us/pl/92/584/s1], substituted provisions that nationals and citizens of the United States under subsec. (a)(7), lose such status unless they are present continuously in the United States for two years between the ages of fourteen and twenty eight years, or the alien parent is naturalized while the child is under the age of eighteen years and the child begins to reside permanently in the United States while under the age of eighteen years, and that absence from the United States of less than sixty days will not break the continuity of presence, for provisions that such status would be lost unless the nationals and citizens come to the United States prior to attaining twenty three years and be present continuously in the United States for five years, and that such presence should be between the age of fourteen and twenty eight years.
+    1972—Subsec. (b). [Pub. L. 92–584][/us/pl/92/584], § 1, substituted provisions that nationals and citizens of the United States under subsec. (a)(7), lose such status unless they are present continuously in the United States for two years between the ages of fourteen and twenty eight years, or the alien parent is naturalized while the child is under the age of eighteen years and the child begins to reside permanently in the United States while under the age of eighteen years, and that absence from the United States of less than sixty days will not break the continuity of presence, for provisions that such status would be lost unless the nationals and citizens come to the United States prior to attaining twenty three years and be present continuously in the United States for five years, and that such presence should be between the age of fourteen and twenty eight years.
 
-    Subsec. (d). [Pub. L. 92–584, § 3][/us/pl/92/584/s3], added subsec. (d).
+    Subsec. (d). [Pub. L. 92–584][/us/pl/92/584], § 3, added subsec. (d).
 
     1966—Subsec. (a)(7). [Pub. L. 89–770][/us/pl/89/770] authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–653, § 23(d)][/us/pl/99/653/s23/d], as added by [Pub. L. 100–525, § 8(r)][/us/pl/100/525/s8/r], Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619], provided that: 
+[Pub. L. 99–653][/us/pl/99/653], § 23(d), as added by [Pub. L. 100–525][/us/pl/100/525], § 8(r), Oct. 24, 1988, [102 Stat. 2619][/us/stat/102/2619], provided that: 
 
 > “The amendment made by section 12 \[amending this section\] shall apply to persons born on or after November 14, 1986.”
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–432, § 1][/us/pl/95/432/s1], Oct. 10, 1978, [92 Stat. 1046][/us/stat/92/1046], provided that the amendment made by section 1 is effective Oct. 10, 1978.
+    [Pub. L. 95–432][/us/pl/95/432], § 1, Oct. 10, 1978, [92 Stat. 1046][/us/stat/92/1046], provided that the amendment made by section 1 is effective Oct. 10, 1978.
 
  __Effective Date__ 
 
@@ -71,13 +71,13 @@
 
  __Waiver of Retention Requirements__ 
 
-[Pub. L. 103–416, title I, § 101(b)][/us/pl/103/416/s101/b], Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], provided that: 
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 101(b), Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], provided that: 
 
 > “Any provision of law (including section 301(b) of the Immigration and Nationality Act \[[8 U.S.C. 1401(b)][/us/usc/t8/s1401/b]\] (as in effect before October 10, 1978), and the provisos of section 201(g) of the Nationality Act of 1940 \[former [8 U.S.C. 601(g)][/us/usc/t8/s601/g]\]) that provided for a person’s loss of citizenship or nationality if the person failed to come to, or reside or be physically present in, the United States shall not apply in the case of a person claiming United States citizenship based on such person’s descent from an individual described in section 301(h) of the Immigration and Nationality Act (as added by subsection (a)).”
 
  __Retroactive Application of 1994 Amendment__ 
 
-[Pub. L. 103–416, title I, § 101(c)][/us/pl/103/416/s101/c], Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], provided that:
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 101(c), Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], provided that:
 
 >     “(1) Except as provided in paragraph (2), the immigration and nationality laws of the United States shall be applied (to persons born before, on, or after the date of the enactment of this Act \[Oct. 25, 1994\]) as though the amendment made by subsection (a) \[amending this section\], and subsection (b) \[enacting provisions set out above\], had been in effect as of the date of their birth, except that the retroactive application of the amendment and that subsection shall not affect the validity of citizenship of anyone who has obtained citizenship under section 1993 of the Revised Statutes \[former [8 U.S.C. 6][/us/usc/t8/s6]\] (as in effect before the enactment of the Act of May 24, 1934 ([48 Stat. 797][/us/stat/48/797])).
 
@@ -85,7 +85,7 @@
 
  __Applicability of Transmission Requirements__ 
 
-[Pub. L. 103–416, title I, § 101(d)][/us/pl/103/416/s101/d], Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], as amended by [Pub. L. 104–208, div. C, title VI, § 671(b)(1)][/us/pl/104/208/s671/b/1], Sept. 30, 1996, [110 Stat. 3009–721][/us/stat/110/3009-721], provided that: 
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 101(d), Oct. 25, 1994, [108 Stat. 4306][/us/stat/108/4306], as amended by [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 671(b)(1), Sept. 30, 1996, [110 Stat. 3009–721][/us/stat/110/3009-721], provided that: 
 
 > “This section \[amending this section and enacting provisions set out above\], the amendments made by this section, and any retroactive application of such amendments shall not effect the application of any provision of law relating to residence or physical presence in the United States for purposes of transmitting United States citizenship to any person whose claim is based on the amendment made by subsection (a) \[amending this section\] or through whom such a claim is derived.”
 
@@ -110,38 +110,38 @@
 [/us/stat/86/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1289
 [/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
 [/us/stat/92/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1046
-[/us/pl/99/653/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs12
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3657
-[/us/pl/103/416/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs101%2Fa
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4306
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
-[/us/pl/95/432/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432%2Fs3
-[/us/pl/95/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432%2Fs1
-[/us/pl/95/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432%2Fs1
-[/us/pl/95/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432%2Fs1
+[/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
+[/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
+[/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
+[/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
 [/us/pl/92/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F584
-[/us/pl/92/584/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F584%2Fs1
-[/us/pl/92/584/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F584%2Fs3
+[/us/pl/92/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F584
+[/us/pl/92/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F584
 [/us/pl/89/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F770
-[/us/pl/99/653/s23/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs23%2Fd
-[/us/pl/100/525/s8/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fr
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2619
-[/us/pl/95/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432%2Fs1
+[/us/pl/95/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F432
 [/us/stat/92/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1046
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/103/416/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs101%2Fb
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4306
 [/us/usc/t8/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401%2Fb
 [/us/usc/t8/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs601%2Fg
-[/us/pl/103/416/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs101%2Fc
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4306
 [/us/usc/t8/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs6
 [/us/stat/48/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F797
 [/us/usc/t8/s1182/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FE
-[/us/pl/103/416/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs101%2Fd
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4306
-[/us/pl/104/208/s671/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs671%2Fb%2F1
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-721
 [/us/pl/85/508/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs21
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

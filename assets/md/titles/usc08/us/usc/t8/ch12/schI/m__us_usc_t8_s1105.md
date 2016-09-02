@@ -51,7 +51,7 @@
 
             (D) to protect any privacy rights of individuals who are subjects of such information.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 105, [66 Stat. 175][/us/stat/66/175]; [Pub. L. 95–105, title I, § 109(b)(2)][/us/pl/95/105/s109/b/2], Aug. 17, 1977, [91 Stat. 847][/us/stat/91/847]; [Pub. L. 103–236, title I, § 162(h)(3)][/us/pl/103/236/s162/h/3], Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408]; [Pub. L. 107–56, title IV, § 403(a)][/us/pl/107/56/s403/a], Oct. 26, 2001, [115 Stat. 343][/us/stat/115/343].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title I, § 105, [66 Stat. 175][/us/stat/66/175]; [Pub. L. 95–105, title I][/us/pl/95/105/tI], § 109(b)(2), Aug. 17, 1977, [91 Stat. 847][/us/stat/91/847]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(h)(3), Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408]; [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 403(a), Oct. 26, 2001, [115 Stat. 343][/us/stat/115/343].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Statutory Construction__ 
 
-[Pub. L. 107–56, title IV, § 403(d)][/us/pl/107/56/s403/d], Oct. 26, 2001, [115 Stat. 345][/us/stat/115/345], provided that: 
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 403(d), Oct. 26, 2001, [115 Stat. 345][/us/stat/115/345], provided that: 
 
 > “Nothing in this section \[enacting [section 1379 of this title][/us/usc/t8/s1379], amending this section, and enacting provisions set out as a note under this section\], or in any other law, shall be construed to limit the authority of the Attorney General or the Director of the Federal Bureau of Investigation to provide access to the criminal history record information contained in the National Crime Information Center’s (NCIC) Interstate Identification Index (NCIC-III), or to any other information maintained by the NCIC, to any Federal agency or officer authorized to enforce or administer the immigration laws of the United States, for the purpose of such enforcement or administration, upon terms that are consistent with the National Crime Prevention and Privacy Compact Act of 1998 (subtitle A of title II of [Public Law 105–251][/us/pl/105/251]; [42 U.S.C. 14611–16][/us/usc/t42/s14611–16]) and [section 552a of title 5][/us/usc/t5/s552a], United States Code.”
 
@@ -81,7 +81,7 @@
 
  __Reporting Requirement__ 
 
-[Pub. L. 107–56, title IV, § 403(b)][/us/pl/107/56/s403/b], Oct. 26, 2001, [115 Stat. 344][/us/stat/115/344], provided that: 
+[Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 403(b), Oct. 26, 2001, [115 Stat. 344][/us/stat/115/344], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Oct. 26, 2001\], the Attorney General and the Secretary of State jointly shall report to Congress on the implementation of the amendments made by this section \[amending this section\].”
 
@@ -94,11 +94,11 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F175
-[/us/pl/95/105/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs109%2Fb%2F2
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F847
-[/us/pl/103/236/s162/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fh%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F408
-[/us/pl/107/56/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs403%2Fa
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F343
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
@@ -110,14 +110,14 @@
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
-[/us/pl/107/56/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs403%2Fd
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F345
 [/us/usc/t8/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1379
 [/us/pl/105/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F251
 [/us/usc/t42/s14611–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14611%E2%80%9316
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/56/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs403%2Fb
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F344
 
 

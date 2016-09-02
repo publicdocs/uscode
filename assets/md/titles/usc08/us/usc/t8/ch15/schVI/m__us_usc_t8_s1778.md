@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Department of Homeland Security Directorate of Border and Transportation Security such sums as may be necessary for fiscal years 2006 through 2011 to carry out any such recommendations from the first study conducted under subsection (a).
 
-([Pub. L. 109–13, div. B, title III, § 301][/us/pl/109/13/s301], May 11, 2005, [119 Stat. 316][/us/stat/119/316].)
+([Pub. L. 109–13, div. B, title III][/us/pl/109/13/dB/tIII], § 301, May 11, 2005, [119 Stat. 316][/us/stat/119/316].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs301
+[/us/pl/109/13/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtIII
 [/us/stat/119/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F316
 
 

@@ -201,7 +201,7 @@
 
             (B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 235, [66 Stat. 198][/us/stat/66/198]; [Pub. L. 101–649, title VI, § 603(a)(11)][/us/pl/101/649/s603/a/11], Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083]; [Pub. L. 104–132, title IV][/us/pl/104/132], §§ 422(a), 423(b), Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270], 1272; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, [110 Stat. 3009–579][/us/stat/110/3009-579], 3009–619, 3009–645; [Pub. L. 110–229, title VII, § 702(j)(5)][/us/pl/110/229/s702/j/5], May 8, 2008, [122 Stat. 867][/us/stat/122/867].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 235, [66 Stat. 198][/us/stat/66/198]; [Pub. L. 101–649, title VI][/us/pl/101/649/tVI], § 603(a)(11), Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083]; [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], §§ 422(a), 423(b), Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270], 1272; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, [110 Stat. 3009–579][/us/stat/110/3009-579], 3009–619, 3009–645; [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(j)(5), May 8, 2008, [122 Stat. 867][/us/stat/122/867].)
 
  __References in Text__ 
 
@@ -211,13 +211,13 @@
 
     2008—Subsec. (b)(1)(G). [Pub. L. 110–229][/us/pl/110/229] added subpar. (G).
 
-    1996—[Pub. L. 104–208, § 302(a)][/us/pl/104/208/s302/a], amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
-    [Pub. L. 104–208, § 371(b)(4)][/us/pl/104/208/s371/b/4], substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
+    [Pub. L. 104–208][/us/pl/104/208], § 371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
 
-    Subsec. (b). [Pub. L. 104–132, § 422(a)][/us/pl/104/132/s422/a], which directed the general amendment of subsec. (b) by substituting pars. (1) to (3) relating to asylum interviews and hearings, detention for further inquiry, and challenges of favorable decisions, for former subsec. (b) consisting of single par., was repealed by [Pub. L. 104–208, § 308(d)(5)][/us/pl/104/208/s308/d/5]. See Construction of 1996 Amendment note below.
+    Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 422(a), which directed the general amendment of subsec. (b) by substituting pars. (1) to (3) relating to asylum interviews and hearings, detention for further inquiry, and challenges of favorable decisions, for former subsec. (b) consisting of single par., was repealed by [Pub. L. 104–208][/us/pl/104/208], § 308(d)(5). See Construction of 1996 Amendment note below.
 
-    Subsec. (d). [Pub. L. 104–132, § 423(b)][/us/pl/104/132/s423/b], added subsec. (d) which read as follows: “In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or [section 1326 of this title][/us/usc/t8/s1326], no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title.”
+    Subsec. (d). [Pub. L. 104–132][/us/pl/104/132], § 423(b), added subsec. (d) which read as follows: “In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or [section 1326 of this title][/us/usc/t8/s1326], no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title.”
 
     1990—Subsec. (c). [Pub. L. 101–649][/us/pl/101/649] substituted “subparagraph (A) (other than clause (ii)), (B), or (C) of [section 1182(a)(3) of this title][/us/usc/t8/s1182/a/3]” for “paragraph (27), (28), or (29) of [section 1182(a) of this title][/us/usc/t8/s1182/a]”.
 
@@ -229,11 +229,11 @@
 
     Amendment by [section 302(a) of Pub. L. 104–208][/us/pl/104/208/s302/a] effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see [section 309 of Pub. L. 104–208][/us/pl/104/208/s309], set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
-    [Pub. L. 104–208, div. C, title III, § 308(d)(5)][/us/pl/104/208/s308/d/5], Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], provided that the amendment made by section 308(d)(5) is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
+    [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(5), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], provided that the amendment made by section 308(d)(5) is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
 
     Amendment by [section 371(b)(4) of Pub. L. 104–208][/us/pl/104/208/s371/b/4] effective Sept. 30, 1996, see [section 371(d)(1) of Pub. L. 104–208][/us/pl/104/208/s371/d/1], set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
-    [Pub. L. 104–132, title IV, § 422(c)][/us/pl/104/132/s422/c], Apr. 24, 1996, [110 Stat. 1272][/us/stat/110/1272], which provided that the amendments made by [section 422 of Pub. L. 104–132][/us/pl/104/132/s422] \[amending this section and former [section 1227 of this title][/us/usc/t8/s1227]\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by [Pub. L. 104–208, div. C, title III, § 308(d)(5)][/us/pl/104/208/s308/d/5], Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619]. See Construction of 1996 Amendment note below.
+    [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 422(c), Apr. 24, 1996, [110 Stat. 1272][/us/stat/110/1272], which provided that the amendments made by [section 422 of Pub. L. 104–132][/us/pl/104/132/s422] \[amending this section and former [section 1227 of this title][/us/usc/t8/s1227]\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(5), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619]. See Construction of 1996 Amendment note below.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -241,7 +241,7 @@
 
  __Construction of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title III, § 308(d)(5)][/us/pl/104/208/s308/d/5], Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], provided that: 
+[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(5), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], provided that: 
 
 > “Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[[Pub. L. 104–132][/us/pl/104/132], approved Apr. 24, 1996\], section 422 of such Act \[amending this section and [section 1227 of this title][/us/usc/t8/s1227], and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] shall be applied as if such section had not been enacted.”
 
@@ -251,7 +251,7 @@
 
  __GAO Study on Operation of Expedited Removal Procedures__ 
 
-[Pub. L. 104–208, div. C, title III, § 302(b)][/us/pl/104/208/s302/b], Sept. 30, 1996, [110 Stat. 3009–584][/us/stat/110/3009-584], provided that:
+[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 302(b), Sept. 30, 1996, [110 Stat. 3009–584][/us/stat/110/3009-584], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -302,23 +302,23 @@
 [/us/usc/t8/s1182/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F198
-[/us/pl/101/649/s603/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs603%2Fa%2F11
+[/us/pl/101/649/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVI
 [/us/stat/104/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5083
-[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1270
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-579
-[/us/pl/110/229/s702/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fj%2F5
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F867
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
-[/us/pl/104/208/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs302%2Fa
-[/us/pl/104/208/s371/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fb%2F4
-[/us/pl/104/132/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs422%2Fa
-[/us/pl/104/208/s308/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F5
-[/us/pl/104/132/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs423%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1326
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1182/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3
@@ -330,27 +330,27 @@
 [/us/pl/104/208/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs302%2Fa
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s308/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F5
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/pl/104/208/s371/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fb%2F4
 [/us/pl/104/208/s371/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs371%2Fd%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/132/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs422%2Fc
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1272
 [/us/pl/104/132/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs422
 [/us/usc/t8/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227
-[/us/pl/104/208/s308/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F5
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs601%2Fe%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/208/s308/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F5
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-619
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/208/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs302%2Fb
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-584
 [/us/usc/t8/s1225/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225%2Fb%2F1
 [/us/pl/104/208/s309/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309%2Fd%2F2

@@ -17,7 +17,7 @@
 
     A State or political subdivision of a State is authorized to require an applicant for State and local public benefits (as defined in [section 1621(c) of this title][/us/usc/t8/s1621/c]) to provide proof of eligibility.
 
-([Pub. L. 104–193, title IV, § 413][/us/pl/104/193/s413], as added [Pub. L. 105–33, title V, § 5307(a)][/us/pl/105/33/s5307/a], Aug. 5, 1997, [111 Stat. 602][/us/stat/111/602].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 413, as added [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5307(a), Aug. 5, 1997, [111 Stat. 602][/us/stat/111/602].)
 
  __Effective Date__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t8/s1621/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1621%2Fc
-[/us/pl/104/193/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs413
-[/us/pl/105/33/s5307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5307%2Fa
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F602
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5308

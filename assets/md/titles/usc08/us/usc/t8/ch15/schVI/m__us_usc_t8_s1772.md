@@ -29,7 +29,7 @@
 
         Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
-([Pub. L. 107–173, title VI, § 603][/us/pl/107/173/s603], May 14, 2002, [116 Stat. 564][/us/stat/116/564].)
+([Pub. L. 107–173, title VI][/us/pl/107/173/tVI], § 603, May 14, 2002, [116 Stat. 564][/us/stat/116/564].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722
 [/us/usc/t8/s1722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1722%2Fa
-[/us/pl/107/173/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs603
+[/us/pl/107/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtVI
 [/us/stat/116/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F564
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

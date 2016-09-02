@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182a...1182c.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
 
 ## § 1182d. Denial of visas to confiscators of American property
 
@@ -39,7 +39,7 @@
 
         (2) a list of aliens who could have been denied a visa under subsection (a) but were issued a visa and an explanation as to why each such visa was issued.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2225, Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2225, Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
 
  __Codification__ 
 
@@ -47,13 +47,13 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182a...1182c.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1182e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182d)
 
 ----------
 ----------
 
 [/us/usc/t22/s6091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6091
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-819
 
 

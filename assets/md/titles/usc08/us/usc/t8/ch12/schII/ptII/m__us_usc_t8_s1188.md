@@ -163,7 +163,7 @@
 
         (2) The term “H–2A worker” means a nonimmigrant described in [section 1101(a)(15)(H)(ii)(a) of this title][/us/usc/t8/s1101/a/15/H/ii/a].
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 218, formerly § 216, as added [Pub. L. 99–603, title III, § 301(c)][/us/pl/99/603/s301/c], Nov. 6, 1986, [100 Stat. 3411][/us/stat/100/3411]; renumbered § 218 and amended [Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(2), (3), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612]; [Pub. L. 102–232, title III][/us/pl/102/232], §§ 307(l)(4), 309(b)(8), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756], 1759; [Pub. L. 103–416, title II, § 219(z)(8)][/us/pl/103/416/s219/z/8], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318]; [Pub. L. 106–78, title VII, § 748][/us/pl/106/78/s748], Oct. 22, 1999, [113 Stat. 1167][/us/stat/113/1167]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I, § 105\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–11.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 218, formerly § 216, as added [Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 301(c), Nov. 6, 1986, [100 Stat. 3411][/us/stat/100/3411]; renumbered § 218 and amended [Pub. L. 100–525][/us/pl/100/525], § 2(l)(2), (3), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], §§ 307(l)(4), 309(b)(8), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756], 1759; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(z)(8), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 748, Oct. 22, 1999, [113 Stat. 1167][/us/stat/113/1167]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title I, § 105\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–11.)
 
  __References in Text__ 
 
@@ -177,27 +177,27 @@
 
     2000—Subsec. (c)(4). [Pub. L. 106–554][/us/pl/106/554] inserted at end “The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) with respect to a petition for the importation of such worker.”
 
-    1999—Subsec. (c)(1). [Pub. L. 106–78, § 748(1)][/us/pl/106/78/s748/1], substituted “45 days” for “60 days”.
+    1999—Subsec. (c)(1). [Pub. L. 106–78][/us/pl/106/78], § 748(1), substituted “45 days” for “60 days”.
 
-    Subsec. (c)(3)(A). [Pub. L. 106–78, § 748(2)][/us/pl/106/78/s748/2], substituted “30 days” for “20 days” in introductory provisions.
+    Subsec. (c)(3)(A). [Pub. L. 106–78][/us/pl/106/78], § 748(2), substituted “30 days” for “20 days” in introductory provisions.
 
-    1994—Subsec. (i)(1). [Pub. L. 103–416][/us/pl/103/416] made technical correction to directory language of [Pub. L. 102–232, § 309(b)(8)][/us/pl/102/232/s309/b/8]. See 1991 Amendment note below.
+    1994—Subsec. (i)(1). [Pub. L. 103–416][/us/pl/103/416] made technical correction to directory language of [Pub. L. 102–232][/us/pl/102/232], § 309(b)(8). See 1991 Amendment note below.
 
-    1991—Subsec. (g)(3). [Pub. L. 102–232, § 307][/us/pl/102/232/s307](l)(4), substituted “section 1182(a)(5)(A)(i)” for “section 1182(a)(14)”.
+    1991—Subsec. (g)(3). [Pub. L. 102–232][/us/pl/102/232], § 307(l)(4), substituted “section 1182(a)(5)(A)(i)” for “section 1182(a)(14)”.
 
-    Subsec. (i)(1). [Pub. L. 102–232, § 309(b)(8)][/us/pl/102/232/s309/b/8], as amended by [Pub. L. 103–416][/us/pl/103/416], substituted “1324a(h)(3)” for “1324a(h)”.
+    Subsec. (i)(1). [Pub. L. 102–232][/us/pl/102/232], § 309(b)(8), as amended by [Pub. L. 103–416][/us/pl/103/416], substituted “1324a(h)(3)” for “1324a(h)”.
 
-    1988—[Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(2)(A), made technical amendment to directory language of [Pub. L. 99–603, § 301(c)][/us/pl/99/603/s301/c], which enacted this section.
+    1988—[Pub. L. 100–525][/us/pl/100/525], § 2(l)(2)(A), made technical amendment to directory language of [Pub. L. 99–603][/us/pl/99/603], § 301(c), which enacted this section.
 
-    Subsec. (c)(4). [Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(3), substituted “accommodations” for “accomodations” wherever appearing.
+    Subsec. (c)(4). [Pub. L. 100–525][/us/pl/100/525], § 2(l)(3), substituted “accommodations” for “accomodations” wherever appearing.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–416, title II, § 219(z)][/us/pl/103/416/s219/z], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318], provided that the amendment made by subsec. (z)(8) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, [Pub. L. 102–232][/us/pl/102/232].
+    [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(z), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318], provided that the amendment made by subsec. (z)(8) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, [Pub. L. 102–232][/us/pl/102/232].
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756], provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 307(l), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756], provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -205,7 +205,7 @@
 
  __Effective Date; Regulations__ 
 
-[Pub. L. 99–603, title III, § 301(d)][/us/pl/99/603/s301/d], (e), Nov. 6, 1986, [100 Stat. 3416][/us/stat/100/3416], as amended by [Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(4), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612], provided that:
+[Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 301(d), (e), Nov. 6, 1986, [100 Stat. 3416][/us/stat/100/3416], as amended by [Pub. L. 100–525][/us/pl/100/525], § 2(l)(4), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612], provided that:
 
 >     “(d)  __Effective Date__  __.—__ 
 
@@ -221,13 +221,13 @@
 
  __Sense of Congress Respecting Consultation With Mexico__ 
 
-[Pub. L. 99–603, title III, § 301(f)][/us/pl/99/603/s301/f], Nov. 6, 1986, [100 Stat. 3416][/us/stat/100/3416], as amended by [Pub. L. 100–525, § 2][/us/pl/100/525/s2](l)(4), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612], provided that: 
+[Pub. L. 99–603, title III][/us/pl/99/603/tIII], § 301(f), Nov. 6, 1986, [100 Stat. 3416][/us/stat/100/3416], as amended by [Pub. L. 100–525][/us/pl/100/525], § 2(l)(4), Oct. 24, 1988, [102 Stat. 2612][/us/stat/102/2612], provided that: 
 
 > “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[[8 U.S.C. 1188][/us/usc/t8/s1188]\].”
 
  __Reports on H–2A Program__ 
 
-[Pub. L. 99–603, title IV, § 403][/us/pl/99/603/s403], Nov. 6, 1986, [100 Stat. 3441][/us/stat/100/3441], provided that:
+[Pub. L. 99–603, title IV][/us/pl/99/603/tIV], § 403, Nov. 6, 1986, [100 Stat. 3441][/us/stat/100/3441], provided that:
 
 >     “(a)  __Presidential Reports__  __.—__ 
 
@@ -275,55 +275,55 @@
 [/us/usc/t8/s1324a/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fh%2F3
 [/us/usc/t8/s1101/a/15/H/ii/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH%2Fii%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/99/603/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs301%2Fc
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3411
-[/us/pl/100/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2612
-[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1756
-[/us/pl/103/416/s219/z/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fz%2F8
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
-[/us/pl/106/78/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs748
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1167
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/99/603/s403/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs403%2Fa%2F4%2FD
 [/us/usc/t8/s1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1186
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/78/s748/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs748%2F1
-[/us/pl/106/78/s748/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs748%2F2
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
+[/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/102/232/s309/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs309%2Fb%2F8
-[/us/pl/102/232/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs307
-[/us/pl/102/232/s309/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs309%2Fb%2F8
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
+[/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/100/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2
-[/us/pl/99/603/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs301%2Fc
-[/us/pl/100/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2
-[/us/pl/103/416/s219/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fz
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/102/232/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs307
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1756
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/100/525/s2/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2%2Fs
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/99/603/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs301%2Fd
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3416
-[/us/pl/100/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2612
 [/us/usc/t8/s1184/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fc
 [/us/usc/t8/s1101/a/15/H/ii/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH%2Fii%2Fa
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/99/603/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs301%2Ff
+[/us/pl/99/603/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIII
 [/us/stat/100/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3416
-[/us/pl/100/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2612
 [/us/usc/t8/s1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188
-[/us/pl/99/603/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs403
+[/us/pl/99/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIV
 [/us/stat/100/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3441
 [/us/pl/99/603/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs403
 [/us/usc/t8/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1364

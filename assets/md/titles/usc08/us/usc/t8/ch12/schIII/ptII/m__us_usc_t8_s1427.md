@@ -51,11 +51,11 @@
 
         (3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligence shall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 316, [66 Stat. 242][/us/stat/66/242]; [Pub. L. 97–116, § 14][/us/pl/97/116/s14], Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 99–169, title VI, § 601][/us/pl/99/169/s601], Dec. 4, 1985, [99 Stat. 1007][/us/stat/99/1007]; [Pub. L. 101–649, title IV][/us/pl/101/649], §§ 402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038], 5041, 5046; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(F)][/us/pl/104/208/s308/g/7/F], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 109–149, title V, § 518][/us/pl/109/149/s518], Dec. 30, 2005, [119 Stat. 2882][/us/stat/119/2882].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 316, [66 Stat. 242][/us/stat/66/242]; [Pub. L. 97–116][/us/pl/97/116], § 14, Dec. 29, 1981, [95 Stat. 1619][/us/stat/95/1619]; [Pub. L. 99–169, title VI][/us/pl/99/169/tVI], § 601, Dec. 4, 1985, [99 Stat. 1007][/us/stat/99/1007]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], §§ 402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, [104 Stat. 5038][/us/stat/104/5038], 5041, 5046; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(7)(F), Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 109–149, title V][/us/pl/109/149/tV], § 518, Dec. 30, 2005, [119 Stat. 2882][/us/stat/119/2882].)
 
  __Amendments__ 
 
-    2005—Subsec. (g). [Pub. L. 109–149, § 518][/us/pl/109/149/s518], temporarily added subsec. (g) reading as follows:
+    2005—Subsec. (g). [Pub. L. 109–149][/us/pl/109/149], § 518, temporarily added subsec. (g) reading as follows:
 
     “(1) The continuous residency requirement under subsection (a) of this section may be reduced to 3 years for an applicant for naturalization if—
 
@@ -79,31 +79,31 @@
 
     1996—Subsec. (f)(1). [Pub. L. 104–208][/us/pl/104/208] substituted “clauses (i) through (v) of [section 1158(b)(2)(A) of this title][/us/usc/t8/s1158/b/2/A]” for “subparagraphs (A) through (D) of [section 1253(h)(2) of this title][/us/usc/t8/s1253/h/2]”.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-    [Pub. L. 101–649, § 402][/us/pl/101/649/s402], substituted “and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months” for “and who has resided within the State in which the petitioner filed the petition for at least six months” in cl. (1).
+    [Pub. L. 101–649][/us/pl/101/649], § 402, substituted “and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months” for “and who has resided within the State in which the petitioner filed the petition for at least six months” in cl. (1).
 
-    Subsec. (b). [Pub. L. 101–649, § 407(d)(1)(A)][/us/pl/101/649/s407/d/1/A], (B), substituted “the Attorney General” for “the court” in first par. and subpar. (2) of second par., and “date of any hearing under [section 1447(a) of this title][/us/usc/t8/s1447/a]” for “date of final hearing” in first par.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(1)(A), (B), substituted “the Attorney General” for “the court” in first par. and subpar. (2) of second par., and “date of any hearing under [section 1447(a) of this title][/us/usc/t8/s1447/a]” for “date of final hearing” in first par.
 
-    [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (c). [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted references to applicant and application for references to petitioner and petition wherever appearing.
+    Subsec. (c). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-    Subsec. (d). [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted reference to applicant for reference to petitioner.
+    Subsec. (d). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted reference to applicant for reference to petitioner.
 
-    Subsec. (e). [Pub. L. 101–649, § 407(d)(1)(C)][/us/pl/101/649/s407/d/1/C], substituted “the Attorney General” for “the court”.
+    Subsec. (e). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(1)(C), substituted “the Attorney General” for “the court”.
 
-    [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted references to applicant, applicant’s, and application for references to petitioner, petitioner’s, and petition wherever appearing.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted references to applicant, applicant’s, and application for references to petitioner, petitioner’s, and petition wherever appearing.
 
-    Subsec. (f). [Pub. L. 101–649, § 407(e)(1)][/us/pl/101/649/s407/e/1], redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50.”
+    Subsec. (f). [Pub. L. 101–649][/us/pl/101/649], § 407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50.”
 
-    Subsec. (f)(1). [Pub. L. 101–649, § 407(d)(1)(D)][/us/pl/101/649/s407/d/1/D], substituted “within a particular State or district of the Service in the United States” for “within the jurisdiction of the court”.
+    Subsec. (f)(1). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(1)(D), substituted “within a particular State or district of the Service in the United States” for “within the jurisdiction of the court”.
 
-    [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted references to applicant for references to petitioner wherever appearing.
+    [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted references to applicant for references to petitioner wherever appearing.
 
-    Subsec. (f)(2). [Pub. L. 101–649, § 407(d)(1)(E)][/us/pl/101/649/s407/d/1/E], amended first sentence generally. Prior to amendment, first sentence read as follows: “A petition for naturalization may be filed pursuant to this subsection in any district court of the United States, without regard to the residence of the petitioner.”
+    Subsec. (f)(2). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(1)(E), amended first sentence generally. Prior to amendment, first sentence read as follows: “A petition for naturalization may be filed pursuant to this subsection in any district court of the United States, without regard to the residence of the petitioner.”
 
-    Subsec. (f)(3). [Pub. L. 101–649, § 407(c)(2)][/us/pl/101/649/s407/c/2], substituted reference to application for reference to petition.
+    Subsec. (f)(3). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(2), substituted reference to application for reference to petition.
 
     1985—Subsec. (g). [Pub. L. 99–169][/us/pl/99/169] added subsec. (g).
 
@@ -115,7 +115,7 @@
 
  __Termination Date of 2005 Amendment__ 
 
-[Pub. L. 109–149, title V, § 518(b)][/us/pl/109/149/s518/b], Dec. 30, 2005, [119 Stat. 2882][/us/stat/119/2882], provided that: 
+[Pub. L. 109–149, title V][/us/pl/109/149/tV], § 518(b), Dec. 30, 2005, [119 Stat. 2882][/us/stat/119/2882], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] is repealed on January 1, 2006.”
 
@@ -133,7 +133,7 @@
 
  __Expedited Naturalization__ 
 
-[Pub. L. 104–293, title III, § 305][/us/pl/104/293/s305], Oct. 11, 1996, [110 Stat. 3465][/us/stat/110/3465], as amended by [Pub. L. 106–120, title III, § 307][/us/pl/106/120/s307], Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612], provided that:
+[Pub. L. 104–293, title III][/us/pl/104/293/tIII], § 305, Oct. 11, 1996, [110 Stat. 3465][/us/stat/110/3465], as amended by [Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 307, Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -172,41 +172,41 @@
 [/us/usc/t8/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1448%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F242
-[/us/pl/97/116/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs14
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1619
-[/us/pl/99/169/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2Fs601
+[/us/pl/99/169/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169%2FtVI
 [/us/stat/99/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1007
-[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5038
-[/us/pl/104/208/s308/g/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FF
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-624
-[/us/pl/109/149/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2Fs518
+[/us/pl/109/149/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2FtV
 [/us/stat/119/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2882
-[/us/pl/109/149/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2Fs518
+[/us/pl/109/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149
 [/us/usc/t8/s1154/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fa%2F1%2FE
 [/us/usc/t8/s1255/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255%2Fa
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1158/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158%2Fb%2F2%2FA
 [/us/usc/t8/s1253/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253%2Fh%2F2
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs402
-[/us/pl/101/649/s407/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F1%2FA
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1447/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fa
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s407/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F1%2FC
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s407/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fe%2F1
-[/us/pl/101/649/s407/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F1%2FD
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
-[/us/pl/101/649/s407/d/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F1%2FE
-[/us/pl/101/649/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F2
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/99/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F169
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/109/149/s518/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2Fs518%2Fb
+[/us/pl/109/149/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2FtV
 [/us/stat/119/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2882
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
@@ -215,9 +215,9 @@
 [/us/pl/97/116/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs21%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/293/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs305
+[/us/pl/104/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtIII
 [/us/stat/110/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3465
-[/us/pl/106/120/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs307
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1612
 [/us/usc/t8/s1427/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1427%2Fa
 [/us/usc/t8/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1424

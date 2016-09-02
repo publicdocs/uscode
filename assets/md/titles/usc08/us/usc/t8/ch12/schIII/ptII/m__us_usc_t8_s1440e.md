@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440–1.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a...1440d.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
 
 ## § 1440e. Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General
 
     Notwithstanding any other provision of law, no clerk of a United States court shall charge or collect a naturalization fee from an alien who has served in the military, air, or naval forces of the United States during a period beginning February 28, 1961, and ending on the date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and who is applying for naturalization during such periods under section 329 of the Immigration and Nationality Act, as amended by this Act \[[8 U.S.C. 1440][/us/usc/t8/s1440]\], for filing a petition for naturalization or issuing a certificate of naturalization upon his admission to citizenship, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected. A report of all transactions under this section shall be made to the Attorney General as in the case of other reports required of clerks of courts by title III of the Immigration and Nationality Act \[[8 U.S.C. 1401][/us/usc/t8/s1401] et seq.\].
 
-([Pub. L. 90–633, § 3][/us/pl/90/633/s3], Oct. 24, 1968, [82 Stat. 1344][/us/stat/82/1344].)
+([Pub. L. 90–633][/us/pl/90/633], § 3, Oct. 24, 1968, [82 Stat. 1344][/us/stat/82/1344].)
 
  __References in Text__ 
 
@@ -33,14 +33,14 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440–1.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a...1440d.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440e)
 
 ----------
 ----------
 
 [/us/usc/t8/s1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440
 [/us/usc/t8/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401
-[/us/pl/90/633/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633%2Fs3
+[/us/pl/90/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F633
 [/us/stat/82/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1344
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

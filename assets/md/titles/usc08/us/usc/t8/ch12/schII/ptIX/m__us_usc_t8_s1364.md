@@ -41,7 +41,7 @@
 
         The President also may include in such report any appropriate recommendations on changes in numerical limitations or other policies under title II of the Immigration and Nationality Act \[[8 U.S.C. 1151][/us/usc/t8/s1151] et seq.\] bearing on the admission and entry of such aliens to the United States.
 
-([Pub. L. 99–603, title IV, § 401][/us/pl/99/603/s401], Nov. 6, 1986, [100 Stat. 3440][/us/stat/100/3440]; [Pub. L. 104–208, div. C, title III, § 308(g)(1)][/us/pl/104/208/s308/g/1], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
+([Pub. L. 99–603, title IV][/us/pl/99/603/tIV], § 401, Nov. 6, 1986, [100 Stat. 3440][/us/stat/100/3440]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(1), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [/us/usc/t8/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227
 [/us/usc/t8/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1151
-[/us/pl/99/603/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs401
+[/us/pl/99/603/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtIV
 [/us/stat/100/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3440
-[/us/pl/104/208/s308/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F1
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

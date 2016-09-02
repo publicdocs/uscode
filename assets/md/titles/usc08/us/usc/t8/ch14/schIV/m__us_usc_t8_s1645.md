@@ -23,7 +23,7 @@
 
     No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under [section 1613 of this title][/us/usc/t8/s1613]) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding [section 6103 of title 26][/us/usc/t26/s6103], the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
 
-([Pub. L. 104–193, title IV, § 435][/us/pl/104/193/s435], Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275]; [Pub. L. 105–33, title V, § 5573][/us/pl/105/33/s5573], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 435, Aug. 22, 1996, [110 Stat. 2275][/us/stat/110/2275]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5573, Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641].)
 
  __References in Text__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33, § 5573(a)][/us/pl/105/33/s5573/a], inserted at end “Notwithstanding [section 6103 of title 26][/us/usc/t26/s6103], the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.”
+    1997—[Pub. L. 105–33][/us/pl/105/33], § 5573(a), inserted at end “Notwithstanding [section 6103 of title 26][/us/usc/t26/s6103], the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.”
 
-    Par. (1). [Pub. L. 105–33, § 5573(b)][/us/pl/105/33/s5573/b], substituted “before the date on which the alien attains age 18,” for “while the alien was under age 18,”.
+    Par. (1). [Pub. L. 105–33][/us/pl/105/33], § 5573(b), substituted “before the date on which the alien attains age 18,” for “while the alien was under age 18,”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t8/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1613
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/104/193/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs435
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2275
-[/us/pl/105/33/s5573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5573
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F641
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260
@@ -64,9 +64,9 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/33/s5573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5573%2Fa
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/105/33/s5573/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5573%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5582

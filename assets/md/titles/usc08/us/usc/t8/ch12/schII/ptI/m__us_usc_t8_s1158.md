@@ -203,7 +203,7 @@
 
         The provisions of this section and [section 1159(b) of this title][/us/usc/t8/s1159/b] shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 208, as added [Pub. L. 96–212, title II, § 201(b)][/us/pl/96/212/s201/b], Mar. 17, 1980, [94 Stat. 105][/us/stat/94/105]; amended [Pub. L. 101–649, title V, § 515(a)(1)][/us/pl/101/649/s515/a/1], Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053]; [Pub. L. 103–322, title XIII, § 130005(b)][/us/pl/103/322/s130005/b], Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028]; [Pub. L. 104–132, title IV, § 421(a)][/us/pl/104/132/s421/a], Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270]; [Pub. L. 104–208, div. C, title VI, § 604(a)][/us/pl/104/208/s604/a], Sept. 30, 1996, [110 Stat. 3009–690][/us/stat/110/3009-690]; [Pub. L. 107–56, title IV, § 411(b)(2)][/us/pl/107/56/s411/b/2], Oct. 26, 2001, [115 Stat. 348][/us/stat/115/348]; [Pub. L. 107–208, § 4][/us/pl/107/208/s4], Aug. 6, 2002, [116 Stat. 928][/us/stat/116/928]; [Pub. L. 109–13, div. B, title I, § 101(a)][/us/pl/109/13/s101/a], (b), May 11, 2005, [119 Stat. 302][/us/stat/119/302], 303; [Pub. L. 110–229, title VII, § 702(j)(4)][/us/pl/110/229/s702/j/4], May 8, 2008, [122 Stat. 866][/us/stat/122/866]; [Pub. L. 110–457, title II, § 235(d)(7)][/us/pl/110/457/s235/d/7], Dec. 23, 2008, [122 Stat. 5080][/us/stat/122/5080].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 208, as added [Pub. L. 96–212, title II][/us/pl/96/212/tII], § 201(b), Mar. 17, 1980, [94 Stat. 105][/us/stat/94/105]; amended [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 515(a)(1), Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053]; [Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130005(b), Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028]; [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 421(a), Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270]; [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 604(a), Sept. 30, 1996, [110 Stat. 3009–690][/us/stat/110/3009-690]; [Pub. L. 107–56, title IV][/us/pl/107/56/tIV], § 411(b)(2), Oct. 26, 2001, [115 Stat. 348][/us/stat/115/348]; [Pub. L. 107–208][/us/pl/107/208], § 4, Aug. 6, 2002, [116 Stat. 928][/us/stat/116/928]; [Pub. L. 109–13, div. B, title I][/us/pl/109/13/dB/tI], § 101(a), (b), May 11, 2005, [119 Stat. 302][/us/stat/119/302], 303; [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 702(j)(4), May 8, 2008, [122 Stat. 866][/us/stat/122/866]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 235(d)(7), Dec. 23, 2008, [122 Stat. 5080][/us/stat/122/5080].)
 
  __References in Text__ 
 
@@ -211,17 +211,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(E). [Pub. L. 110–457, § 235(d)(7)(A)][/us/pl/110/457/s235/d/7/A], added subpar. (E).
+    2008—Subsec. (a)(2)(E). [Pub. L. 110–457][/us/pl/110/457], § 235(d)(7)(A), added subpar. (E).
 
-    Subsec. (b)(3)(C). [Pub. L. 110–457, § 235(d)(7)(B)][/us/pl/110/457/s235/d/7/B], added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 110–457][/us/pl/110/457], § 235(d)(7)(B), added subpar. (C).
 
     Subsec. (e). [Pub. L. 110–229][/us/pl/110/229] added subsec. (e).
 
-    2005—Subsec. (b)(1). [Pub. L. 109–13, § 101(a)(1)][/us/pl/109/13/s101/a/1], (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The Secretary of Homeland Security or the Attorney General” for “The Attorney General” and “the Secretary of Homeland Security or the Attorney General” for “the Attorney General” in two places.
+    2005—Subsec. (b)(1). [Pub. L. 109–13][/us/pl/109/13], § 101(a)(1), (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The Secretary of Homeland Security or the Attorney General” for “The Attorney General” and “the Secretary of Homeland Security or the Attorney General” for “the Attorney General” in two places.
 
-    Subsec. (b)(1)(B). [Pub. L. 109–13, § 101(a)(3)][/us/pl/109/13/s101/a/3], added subpar. (B)
+    Subsec. (b)(1)(B). [Pub. L. 109–13][/us/pl/109/13], § 101(a)(3), added subpar. (B)
 
-    Subsec. (b)(2)(A)(v). [Pub. L. 109–13, § 101(b)][/us/pl/109/13/s101/b], substituted “described in” for “inadmissible under” in two places and struck out “removable under” before “section 1227(a)(4)(B)”.
+    Subsec. (b)(2)(A)(v). [Pub. L. 109–13][/us/pl/109/13], § 101(b), substituted “described in” for “inadmissible under” in two places and struck out “removable under” before “section 1227(a)(4)(B)”.
 
     2002—Subsec. (b)(3). [Pub. L. 107–208][/us/pl/107/208] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
 
@@ -229,7 +229,7 @@
 
     1996—[Pub. L. 104–208][/us/pl/104/208] substituted “Asylum” for “Asylum procedure” as section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (e).
 
-    Subsec. (a). [Pub. L. 104–132, § 421(a)][/us/pl/104/132/s421/a], inserted at end “The Attorney General may not grant an alien asylum if the Attorney General determines that the alien is excludable under subclause (I), (II), or (III) of [section 1182(a)(3)(B)(i) of this title][/us/usc/t8/s1182/a/3/B/i] or deportable under [section 1251(a)(4)(B) of this title][/us/usc/t8/s1251/a/4/B], unless the Attorney General determines, in the discretion of the Attorney General, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States.”
+    Subsec. (a). [Pub. L. 104–132][/us/pl/104/132], § 421(a), inserted at end “The Attorney General may not grant an alien asylum if the Attorney General determines that the alien is excludable under subclause (I), (II), or (III) of [section 1182(a)(3)(B)(i) of this title][/us/usc/t8/s1182/a/3/B/i] or deportable under [section 1251(a)(4)(B) of this title][/us/usc/t8/s1251/a/4/B], unless the Attorney General determines, in the discretion of the Attorney General, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States.”
 
     1994—Subsec. (e). [Pub. L. 103–322][/us/pl/103/322] added subsec. (e).
 
@@ -241,7 +241,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–13, div. B, title I, § 101(h)(1)][/us/pl/109/13/s101/h/1], (2), May 11, 2005, [119 Stat. 305][/us/stat/119/305], provided that:
+[Pub. L. 109–13, div. B, title I][/us/pl/109/13/dB/tI], § 101(h)(1), (2), May 11, 2005, [119 Stat. 305][/us/stat/119/305], provided that:
 
 >     “(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
 
@@ -257,15 +257,15 @@
 
  __Effective Date of 1996 Amendments__ 
 
-[Pub. L. 104–208, div. C, title VI, § 604(c)][/us/pl/104/208/s604/c], Sept. 30, 1996, [110 Stat. 3009–694][/us/stat/110/3009-694], provided that: 
+[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 604(c), Sept. 30, 1996, [110 Stat. 3009–694][/us/stat/110/3009-694], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to applications for asylum filed on or after the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].
 
->     [Pub. L. 104–132, title IV, § 421(b)][/us/pl/104/132/s421/b], Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270], provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date.”
+>     [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 421(b), Apr. 24, 1996, [110 Stat. 1270][/us/stat/110/1270], provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and apply to asylum determinations made on or after such date.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–649, title V, § 515(b)][/us/pl/101/649/s515/b], Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053], as amended by [Pub. L. 102–232, title III, § 306(a)(13)][/us/pl/102/232/s306/a/13], Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752], provided that:
+[Pub. L. 101–649, title V][/us/pl/101/649/tV], § 515(b), Nov. 29, 1990, [104 Stat. 5053][/us/stat/104/5053], as amended by [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 306(a)(13), Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752], provided that:
 
 >     “(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
 
@@ -277,7 +277,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–340, § 2(d)][/us/pl/110/340/s2/d], Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], provided that:
+[Pub. L. 110–340][/us/pl/110/340], § 2(d), Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], provided that:
 
 >     “(1)  __Issuance of regulations__  __.—__ 
 
@@ -293,7 +293,7 @@
 
  __Expeditious Removal for Denied Asylum Applicants__ 
 
-[Pub. L. 103–322, title XIII, § 130005][/us/pl/103/322/s130005], Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028], as amended by [Pub. L. 104–208, div. C, title III, § 308(e)(1)(P)][/us/pl/104/208/s308/e/1/P], (17), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620], 3009–621, provided:
+[Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130005, Sept. 13, 1994, [108 Stat. 2028][/us/stat/108/2028], as amended by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(1)(P), (17), Sept. 30, 1996, [110 Stat. 3009–620][/us/stat/110/3009-620], 3009–621, provided:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -317,7 +317,7 @@
 
  __Time for Establishment of Asylum Procedure by Attorney General__ 
 
-[Pub. L. 96–212, title II, § 204(d)(2)][/us/pl/96/212/s204/d/2], Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], provided that: 
+[Pub. L. 96–212, title II][/us/pl/96/212/tII], § 204(d)(2), Mar. 17, 1980, [94 Stat. 109][/us/stat/94/109], provided that: 
 
 > “The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by [section 201(b) of this title][/us/usc/t8/s201/b]) \[former subsec. (a) of this section\] not later than June 1, 1980.”
 
@@ -345,39 +345,39 @@
 [/us/usc/t8/s1229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229a
 [/us/usc/t8/s1159/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1159%2Fb
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/96/212/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs201%2Fb
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F105
-[/us/pl/101/649/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fa%2F1
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5053
-[/us/pl/103/322/s130005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130005%2Fb
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2028
-[/us/pl/104/132/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs421%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1270
-[/us/pl/104/208/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs604%2Fa
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-690
-[/us/pl/107/56/s411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fb%2F2
+[/us/pl/107/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIV
 [/us/stat/115/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F348
-[/us/pl/107/208/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208%2Fs4
+[/us/pl/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208
 [/us/stat/116/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F928
-[/us/pl/109/13/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fa
+[/us/pl/109/13/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtI
 [/us/stat/119/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F302
-[/us/pl/110/229/s702/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs702%2Fj%2F4
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F866
-[/us/pl/110/457/s235/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Fd%2F7
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5080
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/110/457/s235/d/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Fd%2F7%2FA
-[/us/pl/110/457/s235/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Fd%2F7%2FB
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
-[/us/pl/109/13/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fa%2F1
-[/us/pl/109/13/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fa%2F3
-[/us/pl/109/13/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fb
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/132/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs421%2Fa
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1182/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fi
 [/us/usc/t8/s1251/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1251%2Fa%2F4%2FB
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
@@ -386,7 +386,7 @@
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806
 [/us/pl/110/229/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs705%2Fb
 [/us/usc/t48/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1806
-[/us/pl/109/13/s101/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs101%2Fh%2F1
+[/us/pl/109/13/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtI
 [/us/stat/119/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F305
 [/us/pl/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208
 [/us/pl/107/208/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208%2Fs8
@@ -394,29 +394,29 @@
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs411%2Fc
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
-[/us/pl/104/208/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs604%2Fc
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-694
-[/us/pl/104/132/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs421%2Fb
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1270
-[/us/pl/101/649/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs515%2Fb
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5053
-[/us/pl/102/232/s306/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs306%2Fa%2F13
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1752
 [/us/usc/t8/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253
 [/us/pl/96/212/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs204
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/110/340/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340%2Fs2%2Fd
+[/us/pl/110/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340
 [/us/stat/122/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3736
 [/us/usc/t8/s1231/b/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fb%2F3%2FB%2Fiii
 [/us/usc/t8/s1158/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158%2Fb%2F2%2FA%2Fiii
 [/us/usc/t8/s1227/a/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F4%2FF
 [/us/usc/t8/s1182/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FG
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/103/322/s130005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130005
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2028
-[/us/pl/104/208/s308/e/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F1%2FP
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-620
-[/us/pl/96/212/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs204%2Fd%2F2
+[/us/pl/96/212/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtII
 [/us/stat/94/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F109
 [/us/usc/t8/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs201%2Fb
 

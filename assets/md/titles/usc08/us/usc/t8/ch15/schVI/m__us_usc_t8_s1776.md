@@ -91,7 +91,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out the provisions of this section.
 
-([Pub. L. 108–458, title VII, § 7201(d)][/us/pl/108/458/s7201/d], Dec. 17, 2004, [118 Stat. 3811][/us/stat/118/3811].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7201(d), Dec. 17, 2004, [118 Stat. 3811][/us/stat/118/3811].)
 
  __Codification__ 
 
@@ -99,7 +99,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–458, title VII, § 7201(a)][/us/pl/108/458/s7201/a], Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7201(a), Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that: 
 
 > “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -126,9 +126,9 @@
 ----------
 ----------
 
-[/us/pl/108/458/s7201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7201%2Fd
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3811
-[/us/pl/108/458/s7201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7201%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3808
 
 

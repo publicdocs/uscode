@@ -33,7 +33,7 @@
 
             (B) Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) (within the meaning of paragraph (1) of this subsection).
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 271, [66 Stat. 226][/us/stat/66/226]; [Pub. L. 99–603, title I, § 114][/us/pl/99/603/s114], Nov. 6, 1986, [100 Stat. 3383][/us/stat/100/3383]; [Pub. L. 101–649, title V, § 543(a)(8)][/us/pl/101/649/s543/a/8], Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058]; [Pub. L. 104–208, div. C, title III, § 308(g)(1)][/us/pl/104/208/s308/g/1], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 8, § 271, [66 Stat. 226][/us/stat/66/226]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 114, Nov. 6, 1986, [100 Stat. 3383][/us/stat/100/3383]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(a)(8), Nov. 29, 1990, [104 Stat. 5058][/us/stat/104/5058]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(1), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622].)
 
  __Amendments__ 
 
@@ -66,11 +66,11 @@
 [/us/usc/t8/s1284/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1284%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F226
-[/us/pl/99/603/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs114
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3383
-[/us/pl/101/649/s543/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fa%2F8
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5058
-[/us/pl/104/208/s308/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F1
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

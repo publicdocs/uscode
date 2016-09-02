@@ -25,7 +25,7 @@
 
         The term “immigration benefit application” means any application or petition to confer, certify, change, adjust, or extend any status granted under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
-([Pub. L. 106–313, title II, § 203][/us/pl/106/313/s203], Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263].)
+([Pub. L. 106–313, title II][/us/pl/106/313/tII], § 203, Oct. 17, 2000, [114 Stat. 1263][/us/stat/114/1263].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/106/313/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs203
+[/us/pl/106/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtII
 [/us/stat/114/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1263
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

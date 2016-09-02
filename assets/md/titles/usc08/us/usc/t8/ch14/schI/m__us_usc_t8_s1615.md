@@ -37,7 +37,7 @@
 
             (D) The food distribution program on Indian reservations established under [section 2013(b) of title 7][/us/usc/t7/s2013/b].
 
-([Pub. L. 104–193, title VII, § 742][/us/pl/104/193/s742], Aug. 22, 1996, [110 Stat. 2307][/us/stat/110/2307]; [Pub. L. 106–78, title VII, § 752(b)(6)][/us/pl/106/78/s752/b/6], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
+([Pub. L. 104–193, title VII][/us/pl/104/193/tVII], § 742, Aug. 22, 1996, [110 Stat. 2307][/us/stat/110/2307]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(6), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 [/us/usc/t7/s2013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2013%2Fb
-[/us/pl/104/193/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs742
+[/us/pl/104/193/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVII
 [/us/stat/110/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2307
-[/us/pl/106/78/s752/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F6
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2105

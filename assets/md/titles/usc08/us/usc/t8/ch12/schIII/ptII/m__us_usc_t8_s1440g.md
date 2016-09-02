@@ -23,7 +23,7 @@
 
         It is the sense of Congress that the Secretary of Homeland Security, not later than 180 days after each effective date described in subsection (a), should make necessary updates to the appropriate application forms of the Department of Homeland Security.
 
-([Pub. L. 110–251, § 3][/us/pl/110/251/s3], June 26, 2008, [122 Stat. 2320][/us/stat/122/2320].)
+([Pub. L. 110–251][/us/pl/110/251], § 3, June 26, 2008, [122 Stat. 2320][/us/stat/122/2320].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F251%2Fs3
+[/us/pl/110/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F251
 [/us/stat/122/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2320
 
 

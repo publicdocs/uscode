@@ -155,7 +155,7 @@
 
             The term “abusing and exploiting” means any conduct which would constitute a violation of section 1466A, 1589, 1591, 1592, 2251, or 2251A of title 18.
 
-([Pub. L. 110–457, title II, § 202][/us/pl/110/457/s202], Dec. 23, 2008, [122 Stat. 5055][/us/stat/122/5055]; [Pub. L. 113–4, title XII, § 1206][/us/pl/113/4/s1206], Mar. 7, 2013, [127 Stat. 140][/us/stat/127/140].)
+([Pub. L. 110–457, title II][/us/pl/110/457/tII], § 202, Dec. 23, 2008, [122 Stat. 5055][/us/stat/122/5055]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1206, Mar. 7, 2013, [127 Stat. 140][/us/stat/127/140].)
 
  __Codification__ 
 
@@ -163,21 +163,21 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–4, § 1206(1)(A)][/us/pl/113/4/s1206/1/A], inserted “and video for consular waiting rooms” after “Information pamphlet” in heading.
+    2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4], § 1206(1)(A), inserted “and video for consular waiting rooms” after “Information pamphlet” in heading.
 
-    Subsec. (a)(1). [Pub. L. 113–4, § 1206(1)(B)][/us/pl/113/4/s1206/1/B], inserted “and video” after “information pamphlet” and inserted at end “The video shall be distributed and shown in consular waiting rooms in embassies and consulates appropriate to the circumstances that are determined to have the greatest concentration of employment or education-based non-immigrant visa applicants, and where sufficient video facilities exist in waiting or other rooms where applicants wait or convene. The Secretary of State is authorized to augment video facilities in such consulates or embassies in order to fulfill the purposes of this section.”
+    Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 1206(1)(B), inserted “and video” after “information pamphlet” and inserted at end “The video shall be distributed and shown in consular waiting rooms in embassies and consulates appropriate to the circumstances that are determined to have the greatest concentration of employment or education-based non-immigrant visa applicants, and where sufficient video facilities exist in waiting or other rooms where applicants wait or convene. The Secretary of State is authorized to augment video facilities in such consulates or embassies in order to fulfill the purposes of this section.”
 
-    Subsec. (b). [Pub. L. 113–4, § 1206(2)][/us/pl/113/4/s1206/2], inserted “and video” after “information pamphlet” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–4][/us/pl/113/4], § 1206(2), inserted “and video” after “information pamphlet” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 113–4, § 1206(3)(A)][/us/pl/113/4/s1206/3/A], inserted “and produce or dub the video” after “information pamphlet”.
+    Subsec. (c)(1). [Pub. L. 113–4][/us/pl/113/4], § 1206(3)(A), inserted “and produce or dub the video” after “information pamphlet”.
 
-    Subsec. (c)(2). [Pub. L. 113–4, § 1206(3)(B)][/us/pl/113/4/s1206/3/B], inserted “and the video produced or dubbed” after “translated”.
+    Subsec. (c)(2). [Pub. L. 113–4][/us/pl/113/4], § 1206(3)(B), inserted “and the video produced or dubbed” after “translated”.
 
-    Subsec. (d)(1). [Pub. L. 113–4, § 1206(4)(A)][/us/pl/113/4/s1206/4/A], inserted “and video” after “information pamphlet”.
+    Subsec. (d)(1). [Pub. L. 113–4][/us/pl/113/4], § 1206(4)(A), inserted “and video” after “information pamphlet”.
 
-    Subsec. (d)(2). [Pub. L. 113–4, § 1206(4)(B)][/us/pl/113/4/s1206/4/B], inserted “and video” after “information pamphlet” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 113–4][/us/pl/113/4], § 1206(4)(B), inserted “and video” after “information pamphlet” in introductory provisions.
 
-    Subsec. (d)(4). [Pub. L. 113–4, § 1206(4)(C)][/us/pl/113/4/s1206/4/C], added par. (4).
+    Subsec. (d)(4). [Pub. L. 113–4][/us/pl/113/4], § 1206(4)(C), added par. (4).
 
 ----------
 
@@ -188,17 +188,17 @@
 
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
-[/us/pl/110/457/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs202
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5055
-[/us/pl/113/4/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F140
-[/us/pl/113/4/s1206/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F1%2FA
-[/us/pl/113/4/s1206/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F1%2FB
-[/us/pl/113/4/s1206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F2
-[/us/pl/113/4/s1206/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F3%2FA
-[/us/pl/113/4/s1206/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F3%2FB
-[/us/pl/113/4/s1206/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F4%2FA
-[/us/pl/113/4/s1206/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F4%2FB
-[/us/pl/113/4/s1206/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1206%2F4%2FC
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 
 

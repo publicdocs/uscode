@@ -69,11 +69,11 @@
 
             The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
-([Pub. L. 104–193, title IV, § 421][/us/pl/104/193/s421], Aug. 22, 1996, [110 Stat. 2270][/us/stat/110/2270]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208], §§ 551(b)(1), 552, Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679], 3009–680; [Pub. L. 105–33, title V, § 5571(d)][/us/pl/105/33/s5571/d], Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641]; [Pub. L. 107–171, title IV, § 4401(b)(2)(B)][/us/pl/107/171/s4401/b/2/B], May 13, 2002, [116 Stat. 333][/us/stat/116/333].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 421, Aug. 22, 1996, [110 Stat. 2270][/us/stat/110/2270]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], §§ 551(b)(1), 552, Sept. 30, 1996, [110 Stat. 3009–679][/us/stat/110/3009-679], 3009–680; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5571(d), Aug. 5, 1997, [111 Stat. 641][/us/stat/111/641]; [Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4401(b)(2)(B), May 13, 2002, [116 Stat. 333][/us/stat/116/333].)
 
  __References in Text__ 
 
-    Section 213A of the Immigration and Nationality Act (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is [section 1183a of this title][/us/usc/t8/s1183a] as added by [section 423 of Pub. L. 104–193][/us/pl/104/193/s423] and amended by [section 551(a) of div. C of Pub. L. 104–208][/us/pl/104/208/s551/a].
+    Section 213A of the Immigration and Nationality Act (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is [section 1183a of this title][/us/usc/t8/s1183a] as added by [section 423 of Pub. L. 104–193][/us/pl/104/193/s423] and amended by [section 551(a) of div. C of Pub. L. 104–208][/us/pl/104/208/dC/s551/a].
 
     The Immigration and Nationality Act, referred to in subsec. (b)(1), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], as amended. Chapter 2 of title III of the Act is classified generally to part II (§ 1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
@@ -87,9 +87,9 @@
 
     1997—Subsec. (f)(1)(A). [Pub. L. 105–33][/us/pl/105/33] struck out “or” before “(ii) the alien’s child” and substituted “or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent’s spouse, or by a member of the spouse’s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–208, § 551(b)(1)][/us/pl/104/208/s551/b/1], inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+    1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
 
-    Subsecs. (e), (f). [Pub. L. 104–208, § 552][/us/pl/104/208/s552], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 104–208][/us/pl/104/208], § 552, added subsecs. (e) and (f).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -123,17 +123,17 @@
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t8/s1612/a/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1612%2Fa%2F2%2FJ
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
-[/us/pl/104/193/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs421
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
 [/us/stat/110/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2270
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-679
-[/us/pl/105/33/s5571/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5571%2Fd
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F641
-[/us/pl/107/171/s4401/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F2%2FB
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F333
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
 [/us/pl/104/193/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs423
-[/us/pl/104/208/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fa
+[/us/pl/104/208/dC/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2Fs551%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
@@ -145,8 +145,8 @@
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/208/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs551%2Fb%2F1
-[/us/pl/104/208/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs552
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/107/171/s4401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F3
 [/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014

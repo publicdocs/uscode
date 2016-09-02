@@ -155,7 +155,7 @@
 
             (B) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate.
 
-([Pub. L. 110–457, title II, § 203][/us/pl/110/457/s203], Dec. 23, 2008, [122 Stat. 5057][/us/stat/122/5057].)
+([Pub. L. 110–457, title II][/us/pl/110/457/tII], § 203, Dec. 23, 2008, [122 Stat. 5057][/us/stat/122/5057].)
 
  __Codification__ 
 
@@ -175,7 +175,7 @@
 [/us/usc/t8/s1227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa
 [/us/usc/t8/s1101/a/15/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FA%2Fiii
 [/us/usc/t8/s1101/a/15/G/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FG%2Fv
-[/us/pl/110/457/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs203
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5057
 
 

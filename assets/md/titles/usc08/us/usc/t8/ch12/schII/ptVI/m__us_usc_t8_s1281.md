@@ -35,7 +35,7 @@
 
         The Attorney General is authorized to prescribe by regulations the circumstances under which a vessel or aircraft shall be deemed to be arriving in, or departing from the United States or any port thereof within the meaning of any provision of this part.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 251, [66 Stat. 219][/us/stat/66/219]; [Pub. L. 101–649, title II, § 203(b)][/us/pl/101/649/s203/b], Nov. 29, 1990, [104 Stat. 5018][/us/stat/104/5018]; [Pub. L. 102–232, title III, § 303(a)(3)][/us/pl/102/232/s303/a/3], Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 6, § 251, [66 Stat. 219][/us/stat/66/219]; [Pub. L. 101–649, title II][/us/pl/101/649/tII], § 203(b), Nov. 29, 1990, [104 Stat. 5018][/us/stat/104/5018]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 303(a)(3), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 [/us/usc/t8/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1288
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F219
-[/us/pl/101/649/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs203%2Fb
+[/us/pl/101/649/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtII
 [/us/stat/104/5018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5018
-[/us/pl/102/232/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs303%2Fa%2F3
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1746
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

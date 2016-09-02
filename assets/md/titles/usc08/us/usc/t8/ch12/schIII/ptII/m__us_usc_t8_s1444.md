@@ -37,7 +37,7 @@
 
         One such photograph shall be affixed to each such certificate issued by the Attorney General and one shall be affixed to the copy of such certificate retained by the Service.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 333, [66 Stat. 253][/us/stat/66/253]; [Pub. L. 101–649, title IV, § 407(c)(14)][/us/pl/101/649/s407/c/14], (d)(11), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5042; [Pub. L. 103–416, title II, § 219(w)][/us/pl/103/416/s219/w], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 333, [66 Stat. 253][/us/stat/66/253]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(14), (d)(11), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041], 5042; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(w), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 [/us/usc/t8/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1259
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F253
-[/us/pl/101/649/s407/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F14
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/103/416/s219/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fw
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

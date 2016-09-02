@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch5/m__us_usc_t8_ch5.md) | [Next](./../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6)
+[Previous](./../../../..//us/usc/t8/ch5/m__us_usc_t8_s83...86.md) | [Next](./../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6)
 
 ## CHAPTER 6—IMMIGRATION
 
 ----------
 
-[Previous](./../../../..//us/usc/t8/ch5/m__us_usc_t8_ch5.md) | [Next](./../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6)
+[Previous](./../../../..//us/usc/t8/ch5/m__us_usc_t8_s83...86.md) | [Next](./../../../..//us/usc/t8/ch6/schI/m__us_usc_t8_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fch6)
 
 ----------
 ----------

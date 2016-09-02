@@ -29,11 +29,11 @@
 
         The number of actions brought, and the amount of each action, for reimbursement under [section 1183a of this title][/us/usc/t8/s1183a] (including private collections) for the costs of providing public benefits.
 
-([Pub. L. 104–208, div. C, title V, § 565][/us/pl/104/208/s565], Sept. 30, 1996, [110 Stat. 3009–684][/us/stat/110/3009-684].)
+([Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 565, Sept. 30, 1996, [110 Stat. 3009–684][/us/stat/110/3009-684].)
 
  __References in Text__ 
 
-    [Section 1227(a)(5) of this title][/us/usc/t8/s1227/a/5], referred to in par. (1), was in the original a reference to “section 241(a)(5) of the Immigration and Nationality Act”, which has been translated as referring to section 237(a)(5) of the Immigration and Nationality Act to reflect the probable intent of Congress and the renumbering of section 241 as 237 by [Pub. L. 104–208, div. C, title III, § 305(a)(2)][/us/pl/104/208/s305/a/2], Sept. 30, 1996, [110 Stat. 3009–598][/us/stat/110/3009-598]. [Pub. L. 104–208, § 305(a)(3)][/us/pl/104/208/s305/a/3], enacted a new section 241 of the Immigration and Nationality Act which is classified to [section 1231 of this title][/us/usc/t8/s1231], but subsec. (a)(5) of that section does not relate to deportation on public charge grounds.
+    [Section 1227(a)(5) of this title][/us/usc/t8/s1227/a/5], referred to in par. (1), was in the original a reference to “section 241(a)(5) of the Immigration and Nationality Act”, which has been translated as referring to section 237(a)(5) of the Immigration and Nationality Act to reflect the probable intent of Congress and the renumbering of section 241 as 237 by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 305(a)(2), Sept. 30, 1996, [110 Stat. 3009–598][/us/stat/110/3009-598]. [Pub. L. 104–208][/us/pl/104/208], § 305(a)(3), enacted a new section 241 of the Immigration and Nationality Act which is classified to [section 1231 of this title][/us/usc/t8/s1231], but subsec. (a)(5) of that section does not relate to deportation on public charge grounds.
 
  __Codification__ 
 
@@ -52,12 +52,12 @@
 
 [/us/usc/t8/s1631/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1631%2Fe
 [/us/usc/t8/s1183a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1183a
-[/us/pl/104/208/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs565
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-684
 [/us/usc/t8/s1227/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F5
-[/us/pl/104/208/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs305%2Fa%2F2
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-598
-[/us/pl/104/208/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs305%2Fa%2F3
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

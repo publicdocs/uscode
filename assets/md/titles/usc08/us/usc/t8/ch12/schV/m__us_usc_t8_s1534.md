@@ -191,7 +191,7 @@
 
         Not later than 3 months from December 28, 2001, the Attorney General shall submit to Congress a report concerning the effect and efficacy of alien terrorist removal proceedings, including the reasons why proceedings pursuant to this section have not been used by the Attorney General in the past and the effect on the use of these proceedings after the enactment of the USA PATRIOT Act of 2001 ([Public Law 107–56][/us/pl/107/56]).
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 504, as added [Pub. L. 104–132, title IV, § 401(a)][/us/pl/104/132/s401/a], Apr. 24, 1996, [110 Stat. 1260][/us/stat/110/1260]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–624, 3009–641 to 3009–644; [Pub. L. 107–108, title III, § 313][/us/pl/107/108/s313], Dec. 28, 2001, [115 Stat. 1401][/us/stat/115/1401].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title V, § 504, as added [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 401(a), Apr. 24, 1996, [110 Stat. 1260][/us/stat/110/1260]; amended [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623], 3009–624, 3009–641 to 3009–644; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 313, Dec. 28, 2001, [115 Stat. 1401][/us/stat/115/1401].)
 
  __References in Text__ 
 
@@ -199,7 +199,7 @@
 
     The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-    [Section 1254a(e) of this title][/us/usc/t8/s1254a/e], referred to in subsec. (k)(4), was in the original a reference to “section 244(e)”, meaning section 244(e) of act June 27, 1952, which was classified to [section 1254(e) of this title][/us/usc/t8/s1254/e]. [Pub. L. 104–208, div. C, title III, § 308(b)(7)][/us/pl/104/208/s308/b/7], Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615], repealed section 244 and renumbered section 244A as section 244, which is classified to [section 1254a of this title][/us/usc/t8/s1254a]. For provisions relating to voluntary departure, see [section 1229c of this title][/us/usc/t8/s1229c].
+    [Section 1254a(e) of this title][/us/usc/t8/s1254a/e], referred to in subsec. (k)(4), was in the original a reference to “section 244(e)”, meaning section 244(e) of act June 27, 1952, which was classified to [section 1254(e) of this title][/us/usc/t8/s1254/e]. [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(b)(7), Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615], repealed section 244 and renumbered section 244A as section 244, which is classified to [section 1254a of this title][/us/usc/t8/s1254a]. For provisions relating to voluntary departure, see [section 1229c of this title][/us/usc/t8/s1229c].
 
     The USA PATRIOT Act of 2001, referred to in subsec. (l), is [Pub. L. 107–56][/us/pl/107/56], Oct. 26, 2001, [115 Stat. 272][/us/stat/115/272], known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under [section 1 of Title 18][/us/usc/t18/s1], Crimes and Criminal Procedure, and Tables.
 
@@ -207,27 +207,27 @@
 
     2001—Subsec. (l). [Pub. L. 107–108][/us/pl/107/108] added subsec. (l).
 
-    1996—Subsec. (e)(1)(A). [Pub. L. 104–208, § 354(b)(1)(A)(ii)][/us/pl/104/208/s354/b/1/A/ii], substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.)”.
+    1996—Subsec. (e)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.)”.
 
-    [Pub. L. 104–208, § 354(b)(1)(A)(i)][/us/pl/104/208/s354/b/1/A/i], inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
+    [Pub. L. 104–208][/us/pl/104/208], § 354(b)(1)(A)(i), inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
 
-    Subsec. (e)(3)(A). [Pub. L. 104–208, § 354(b)(1)(B)][/us/pl/104/208/s354/b/1/B], substituted “and neither the alien nor the public shall be informed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.” for period at end.
+    Subsec. (e)(3)(A). [Pub. L. 104–208][/us/pl/104/208], § 354(b)(1)(B), substituted “and neither the alien nor the public shall be informed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.” for period at end.
 
-    Subsec. (e)(3)(D)(ii). [Pub. L. 104–208, § 354(a)(1)(A)][/us/pl/104/208/s354/a/1/A], inserted “unless the judge makes the findings under clause (iii)” before period at end.
+    Subsec. (e)(3)(D)(ii). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(1)(A), inserted “unless the judge makes the findings under clause (iii)” before period at end.
 
-    Subsec. (e)(3)(D)(iii). [Pub. L. 104–208, § 354(a)(1)(B)][/us/pl/104/208/s354/a/1/B], added cl. (iii).
+    Subsec. (e)(3)(D)(iii). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(1)(B), added cl. (iii).
 
-    Subsec. (e)(3)(E), (F). [Pub. L. 104–208, § 354(a)(2)][/us/pl/104/208/s354/a/2], added subpars. (E) and (F).
+    Subsec. (e)(3)(E), (F). [Pub. L. 104–208][/us/pl/104/208], § 354(a)(2), added subpars. (E) and (F).
 
-    Subsec. (f). [Pub. L. 104–208, § 354(b)(2)][/us/pl/104/208/s354/b/2], inserted at end “The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.”
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 354(b)(2), inserted at end “The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.”
 
-    Subsec. (j). [Pub. L. 104–208, § 354(b)(3)][/us/pl/104/208/s354/b/3], inserted at end “Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.”
+    Subsec. (j). [Pub. L. 104–208][/us/pl/104/208], § 354(b)(3), inserted at end “Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.”
 
-    Subsec. (k)(2). [Pub. L. 104–208, § 308(g)(7)(B)][/us/pl/104/208/s308/g/7/B], substituted “by withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3]” for “withholding of deportation under [section 1253(h) of this title][/us/usc/t8/s1253/h]”.
+    Subsec. (k)(2). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(7)(B), substituted “by withholding of removal under [section 1231(b)(3) of this title][/us/usc/t8/s1231/b/3]” for “withholding of deportation under [section 1253(h) of this title][/us/usc/t8/s1253/h]”.
 
-    Subsec. (k)(3). [Pub. L. 104–208, § 308(g)(8)(B)][/us/pl/104/208/s308/g/8/B], substituted “cancellation of removal under [section 1229b of this title][/us/usc/t8/s1229b]” for “suspension of deportation under subsection (a) or (e) of [section 1254 of this title][/us/usc/t8/s1254]”.
+    Subsec. (k)(3). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(8)(B), substituted “cancellation of removal under [section 1229b of this title][/us/usc/t8/s1229b]” for “suspension of deportation under subsection (a) or (e) of [section 1254 of this title][/us/usc/t8/s1254]”.
 
-    Subsec. (k)(4) to (6). [Pub. L. 104–208, § 357][/us/pl/104/208/s357], added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (k)(4) to (6). [Pub. L. 104–208][/us/pl/104/208], § 357, added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -259,18 +259,18 @@
 [/us/usc/t8/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1259
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/132/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs401%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1260
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-623
-[/us/pl/107/108/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs313
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1401
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t8/s1254a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254a%2Fe
 [/us/usc/t8/s1254/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fe
-[/us/pl/104/208/s308/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fb%2F7
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-615
 [/us/usc/t8/s1254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254a
 [/us/usc/t8/s1229c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229c
@@ -278,23 +278,23 @@
 [/us/stat/115/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F272
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
-[/us/pl/104/208/s354/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fb%2F1%2FA%2Fii
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/104/208/s354/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fb%2F1%2FA%2Fi
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/104/208/s354/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fb%2F1%2FB
-[/us/pl/104/208/s354/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F1%2FA
-[/us/pl/104/208/s354/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F1%2FB
-[/us/pl/104/208/s354/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fa%2F2
-[/us/pl/104/208/s354/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fb%2F2
-[/us/pl/104/208/s354/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs354%2Fb%2F3
-[/us/pl/104/208/s308/g/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F7%2FB
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1231/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fb%2F3
 [/us/usc/t8/s1253/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253%2Fh
-[/us/pl/104/208/s308/g/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F8%2FB
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t8/s1229b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b
 [/us/usc/t8/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254
-[/us/pl/104/208/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs357
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

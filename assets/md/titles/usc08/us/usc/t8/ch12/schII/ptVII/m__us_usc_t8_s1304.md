@@ -39,7 +39,7 @@
 
         Notwithstanding any other provision of law, the Attorney General is authorized to require any alien to provide the alien’s social security account number for purposes of inclusion in any record of the alien maintained by the Attorney General or the Service.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 264, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 99–653, § 10][/us/pl/99/653/s10], Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525, § 8(i)][/us/pl/100/525/s8/i], Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617]; [Pub. L. 101–649, title V, § 503(b)(2)][/us/pl/101/649/s503/b/2], Nov. 29, 1990, [104 Stat. 5049][/us/stat/104/5049]; [Pub. L. 104–208, div. C, title IV, § 415][/us/pl/104/208/s415], Sept. 30, 1996, [110 Stat. 3009–669][/us/stat/110/3009-669].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 7, § 264, [66 Stat. 224][/us/stat/66/224]; [Pub. L. 99–653][/us/pl/99/653], § 10, Nov. 14, 1986, [100 Stat. 3657][/us/stat/100/3657]; [Pub. L. 100–525][/us/pl/100/525], § 8(i), Oct. 24, 1988, [102 Stat. 2617][/us/stat/102/2617]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 503(b)(2), Nov. 29, 1990, [104 Stat. 5049][/us/stat/104/5049]; [Pub. L. 104–208, div. C, title IV][/us/pl/104/208/dC/tIV], § 415, Sept. 30, 1996, [110 Stat. 3009–669][/us/stat/110/3009-669].)
 
  __References in Text__ 
 
@@ -81,13 +81,13 @@
 [/us/usc/t8/s1357/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1357%2Ff%2F2
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F224
-[/us/pl/99/653/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653%2Fs10
+[/us/pl/99/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F653
 [/us/stat/100/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3657
-[/us/pl/100/525/s8/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs8%2Fi
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2617
-[/us/pl/101/649/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs503%2Fb%2F2
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5049
-[/us/pl/104/208/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs415
+[/us/pl/104/208/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIV
 [/us/stat/110/3009-669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-669
 [/us/act/1940-06-28/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch439
 [/us/stat/54/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F670

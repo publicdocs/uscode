@@ -55,7 +55,7 @@
 
                 Each report under paragraph (1) following the first such report shall include the estimates under subparagraphs (A) and (B), made with respect to the 6-month period immediately preceding the date of the submission of the report.
 
-([Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(10)(G), 386, Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625], 3009–653.)
+([Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(10)(G), 386, Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625], 3009–653.)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–208, § 308(g)(10)(G)][/us/pl/104/208/s308/g/10/G], substituted “inadmissible” for “excludable” in pars. (1)(B), (C) and (2)(B).
+    1996—Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 308(g)(10)(G), substituted “inadmissible” for “excludable” in pars. (1)(B), (C) and (2)(B).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t8/s1226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1226%2Fc
 [/us/usc/t8/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fa
 [/us/usc/t8/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1228
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-625
-[/us/pl/104/208/s308/g/10/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FG
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s308/g/10/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FG
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

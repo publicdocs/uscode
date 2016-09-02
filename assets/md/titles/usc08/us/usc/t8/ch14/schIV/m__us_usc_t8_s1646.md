@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, an alien who under the provisions of this chapter is ineligible for benefits under the food stamp program (as defined in [section 1612(a)(3)(B) of this title][/us/usc/t8/s1612/a/3/B]) shall not be eligible for such benefits because the alien receives benefits under the supplemental security income program (as defined in [section 1612(a)(3)(A) of this title][/us/usc/t8/s1612/a/3/A]).
 
-([Pub. L. 104–193, title IV, § 436][/us/pl/104/193/s436], as added [Pub. L. 105–33, title V, § 5305(a)][/us/pl/105/33/s5305/a], Aug. 5, 1997, [111 Stat. 601][/us/stat/111/601].)
+([Pub. L. 104–193, title IV][/us/pl/104/193/tIV], § 436, as added [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5305(a), Aug. 5, 1997, [111 Stat. 601][/us/stat/111/601].)
 
  __References in Text__ 
 
@@ -40,8 +40,8 @@
 
 [/us/usc/t8/s1612/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1612%2Fa%2F3%2FB
 [/us/usc/t8/s1612/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1612%2Fa%2F3%2FA
-[/us/pl/104/193/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs436
-[/us/pl/105/33/s5305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5305%2Fa
+[/us/pl/104/193/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIV
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F601
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2260

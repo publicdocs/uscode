@@ -19,7 +19,7 @@
 
     (b) The interest accruing on cash received by the Attorney General as security on an immigration bond shall be subject to the same disposition as prescribed for the principal cash, except that interest accruing to the date of breach of the immigration bond shall be paid to the obligor on the bond.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 293, as added [Pub. L. 91–313, § 2][/us/pl/91/313/s2], July 10, 1970, [84 Stat. 413][/us/stat/84/413].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 9, § 293, as added [Pub. L. 91–313][/us/pl/91/313], § 2, July 10, 1970, [84 Stat. 413][/us/stat/84/413].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/91/313/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F313%2Fs2
+[/us/pl/91/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F313
 [/us/stat/84/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F413
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

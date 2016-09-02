@@ -39,7 +39,7 @@
 
         This section shall not apply to any person who during World War II served in the armed forces of a country while such country was at war with the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 327, [66 Stat. 248][/us/stat/66/248]; [Pub. L. 101–649, title IV, § 407(d)(7)][/us/pl/101/649/s407/d/7], Nov. 29, 1990, [104 Stat. 5042][/us/stat/104/5042].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 327, [66 Stat. 248][/us/stat/66/248]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(d)(7), Nov. 29, 1990, [104 Stat. 5042][/us/stat/104/5042].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t8/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1448
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F248
-[/us/pl/101/649/s407/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F7
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5042
 [/us/usc/t8/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs723
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649

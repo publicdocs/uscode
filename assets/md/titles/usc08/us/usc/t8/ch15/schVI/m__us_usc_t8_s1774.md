@@ -23,7 +23,7 @@
 
         Notwithstanding the time for submission of the annual report provided in subsection (a), the report for 2001 shall be submitted not later than 6 months after May 14, 2002.
 
-([Pub. L. 107–173, title VI, § 605][/us/pl/107/173/s605], May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
+([Pub. L. 107–173, title VI][/us/pl/107/173/tVI], § 605, May 14, 2002, [116 Stat. 565][/us/stat/116/565].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t8/s1229/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229%2Fa%2F1
-[/us/pl/107/173/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs605
+[/us/pl/107/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtVI
 [/us/stat/116/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F565
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

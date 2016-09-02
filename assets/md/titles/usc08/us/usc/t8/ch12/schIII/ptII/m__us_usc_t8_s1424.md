@@ -49,11 +49,11 @@
 
         (4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense when Department of Defense activities are relevant to the determination, and with the concurrence of the Attorney General and the Secretary of Homeland Security, to have made a contribution to the national security or to the national intelligence mission of the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 313, [66 Stat. 240][/us/stat/66/240]; [Pub. L. 100–525, § 9(u)][/us/pl/100/525/s9/u], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(c)(1)][/us/pl/101/649/s407/c/1], Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 102–232, title III, § 309(b)(13)][/us/pl/102/232/s309/b/13], Dec. 12, 1991, [105 Stat. 1759][/us/stat/105/1759]; [Pub. L. 103–416, title II, § 219(v)][/us/pl/103/416/s219/v], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318]; [Pub. L. 106–120, title III, § 306][/us/pl/106/120/s306], Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612]; [Pub. L. 108–177, title III, § 373][/us/pl/108/177/s373], Dec. 13, 2003, [117 Stat. 2628][/us/stat/117/2628].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 313, [66 Stat. 240][/us/stat/66/240]; [Pub. L. 100–525][/us/pl/100/525], § 9(u), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(1), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 309(b)(13), Dec. 12, 1991, [105 Stat. 1759][/us/stat/105/1759]; [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(v), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318]; [Pub. L. 106–120, title III][/us/pl/106/120/tIII], § 306, Dec. 3, 1999, [113 Stat. 1612][/us/stat/113/1612]; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 373, Dec. 13, 2003, [117 Stat. 2628][/us/stat/117/2628].)
 
  __References in Text__ 
 
-    Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, [66 Stat. 280][/us/stat/66/280], which is set out as a Savings Clause note under [section 1101 of this title][/us/usc/t8/s1101].
+    Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of [act June 27, 1952, ch. 477, title IV][/us/act/1952-06-27/ch477/tIV], [66 Stat. 280][/us/stat/66/280], which is set out as a Savings Clause note under [section 1101 of this title][/us/usc/t8/s1101].
 
     This chapter, referred to in subsec. (b), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–416, title II, § 219(v)][/us/pl/103/416/s219/v], Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318], provided that the amendment made by that section is effective Dec. 12, 1991.
+    [Pub. L. 103–416, title II][/us/pl/103/416/tII], § 219(v), Oct. 25, 1994, [108 Stat. 4318][/us/stat/108/4318], provided that the amendment made by that section is effective Dec. 12, 1991.
 
  __Effective Date__ 
 
@@ -96,19 +96,19 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F240
-[/us/pl/100/525/s9/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fu
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s407/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F1
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/102/232/s309/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs309%2Fb%2F13
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1759
-[/us/pl/103/416/s219/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fv
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
-[/us/pl/106/120/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2Fs306
+[/us/pl/106/120/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtIII
 [/us/stat/113/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1612
-[/us/pl/108/177/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs373
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2628
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/act/1952-06-27/ch477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477%2FtIV
 [/us/stat/66/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F280
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
@@ -124,7 +124,7 @@
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/103/416/s219/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs219%2Fv
+[/us/pl/103/416/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtII
 [/us/stat/108/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4318
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

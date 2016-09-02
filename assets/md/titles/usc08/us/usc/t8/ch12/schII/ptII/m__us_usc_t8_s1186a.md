@@ -209,13 +209,13 @@
 
         (4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 216, as added [Pub. L. 99–639, § 2(a)][/us/pl/99/639/s2/a], Nov. 10, 1986, [100 Stat. 3537][/us/stat/100/3537]; amended [Pub. L. 100–525, § 7(a)][/us/pl/100/525/s7/a], Oct. 24, 1988, [102 Stat. 2616][/us/stat/102/2616]; [Pub. L. 101–649, title VII, § 701(a)][/us/pl/101/649/s701/a], Nov. 29, 1990, [104 Stat. 5085][/us/stat/104/5085]; [Pub. L. 102–232, title III, § 302(e)(8)(B)][/us/pl/102/232/s302/e/8/B], Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746]; [Pub. L. 103–322, title IV, § 40702(a)][/us/pl/103/322/s40702/a], Sept. 13, 1994, [108 Stat. 1955][/us/stat/108/1955]; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(E)][/us/pl/104/208/s308/d/4/E], (e)(7), (f)(1)(I), (J), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–620, 3009–621; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title XI, § 1103(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–145; [Pub. L. 112–58, § 1][/us/pl/112/58/s1], Nov. 23, 2011, [125 Stat. 747][/us/stat/125/747]; [Pub. L. 113–4, title VIII, § 806][/us/pl/113/4/s806], Mar. 7, 2013, [127 Stat. 112][/us/stat/127/112].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 216, as added [Pub. L. 99–639][/us/pl/99/639], § 2(a), Nov. 10, 1986, [100 Stat. 3537][/us/stat/100/3537]; amended [Pub. L. 100–525][/us/pl/100/525], § 7(a), Oct. 24, 1988, [102 Stat. 2616][/us/stat/102/2616]; [Pub. L. 101–649, title VII][/us/pl/101/649/tVII], § 701(a), Nov. 29, 1990, [104 Stat. 5085][/us/stat/104/5085]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 302(e)(8)(B), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40702(a), Sept. 13, 1994, [108 Stat. 1955][/us/stat/108/1955]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–620, 3009–621; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title XI, § 1103(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–145; [Pub. L. 112–58][/us/pl/112/58], § 1, Nov. 23, 2011, [125 Stat. 747][/us/stat/125/747]; [Pub. L. 113–4, title VIII][/us/pl/113/4/tVIII], § 806, Mar. 7, 2013, [127 Stat. 112][/us/stat/127/112].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a)(1), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
-    Subsection (p) of [section 1184 of this title][/us/usc/t8/s1184], referred to in subsec. (d)(1)(A)(ii), was redesignated subsec. (r) of section 1184 by [Pub. L. 108–193, § 8(a)(3)][/us/pl/108/193/s8/a/3], Dec. 19, 2003, [117 Stat. 2886][/us/stat/117/2886].
+    Subsection (p) of [section 1184 of this title][/us/usc/t8/s1184], referred to in subsec. (d)(1)(A)(ii), was redesignated subsec. (r) of section 1184 by [Pub. L. 108–193][/us/pl/108/193], § 8(a)(3), Dec. 19, 2003, [117 Stat. 2886][/us/stat/117/2886].
 
  __Codification__ 
 
@@ -223,39 +223,39 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(4). [Pub. L. 113–4, § 806(b)(2)][/us/pl/113/4/s806/b/2], which, in concluding provisions, directed the substitution of “Secretary of Homeland Security” for “Attorney General” in the first sentence and “Secretary” for “Attorney General” in the second to fourth sentences, could not be executed because of the prior amendment by [Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B]. See 2011 Amendment note below.
+    2013—Subsec. (c)(4). [Pub. L. 113–4][/us/pl/113/4], § 806(b)(2), which, in concluding provisions, directed the substitution of “Secretary of Homeland Security” for “Attorney General” in the first sentence and “Secretary” for “Attorney General” in the second to fourth sentences, could not be executed because of the prior amendment by [Pub. L. 112–58][/us/pl/112/58], § 1(b)(2)(B). See 2011 Amendment note below.
 
-    [Pub. L. 113–4, § 806(b)(1)][/us/pl/113/4/s806/b/1], which directed the substitution of “The Secretary of Homeland Security, in the Secretary’s” for “The Attorney General, in the Attorney General’s” in introductory provisions, was executed by making the substitution for “The Secretary of Homeland Security, in the Attorney General’s”, to reflect the probable intent of Congress and the prior amendment by [Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B]. See 2011 Amendment note below.
+    [Pub. L. 113–4][/us/pl/113/4], § 806(b)(1), which directed the substitution of “The Secretary of Homeland Security, in the Secretary’s” for “The Attorney General, in the Attorney General’s” in introductory provisions, was executed by making the substitution for “The Secretary of Homeland Security, in the Attorney General’s”, to reflect the probable intent of Congress and the prior amendment by [Pub. L. 112–58][/us/pl/112/58], § 1(b)(2)(B). See 2011 Amendment note below.
 
-    Subsec. (c)(4)(D). [Pub. L. 113–4, § 806(a)][/us/pl/113/4/s806/a], added subpar. (D).
+    Subsec. (c)(4)(D). [Pub. L. 113–4][/us/pl/113/4], § 806(a), added subpar. (D).
 
-    2011—[Pub. L. 112–58, § 1(b)(2)(B)][/us/pl/112/58/s1/b/2/B], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing except in subsec. (g)(2).
+    2011—[Pub. L. 112–58][/us/pl/112/58], § 1(b)(2)(B), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing except in subsec. (g)(2).
 
-    Subsec. (a)(1). [Pub. L. 112–58, § 1(b)(1)][/us/pl/112/58/s1/b/1], substituted “(h)(1))” for “(g)(1))” and “(h)(2))” for “(g)(2))”.
+    Subsec. (a)(1). [Pub. L. 112–58][/us/pl/112/58], § 1(b)(1), substituted “(h)(1))” for “(g)(1))” and “(h)(2))” for “(g)(2))”.
 
-    Subsec. (c)(1)(B). [Pub. L. 112–58, § 1(b)(2)(C)][/us/pl/112/58/s1/b/2/C], substituted “Department of Homeland Security” for “Service”.
+    Subsec. (c)(1)(B). [Pub. L. 112–58][/us/pl/112/58], § 1(b)(2)(C), substituted “Department of Homeland Security” for “Service”.
 
-    Subsec. (d)(3). [Pub. L. 112–58, § 1(b)(2)(A)][/us/pl/112/58/s1/b/2/A], (C), substituted “Department of Homeland Security” for “Service” and “Secretary’s” for “Attorney General’s”.
+    Subsec. (d)(3). [Pub. L. 112–58][/us/pl/112/58], § 1(b)(2)(A), (C), substituted “Department of Homeland Security” for “Service” and “Secretary’s” for “Attorney General’s”.
 
-    Subsecs. (g), (h). [Pub. L. 112–58, § 1(a)][/us/pl/112/58/s1/a], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 112–58][/us/pl/112/58], § 1(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
     2000—Subsecs. (b)(1)(B), (d)(1)(A)(ii). [Pub. L. 106–553][/us/pl/106/553] substituted “[section 1154(a) of this title][/us/usc/t8/s1154/a] or subsection (d) or (p) of [section 1184 of this title][/us/usc/t8/s1184]” for “section 1154(a) or 1184(d) of this title”.
 
-    1996—Subsec. (b)(1)(A)(i). [Pub. L. 104–208, § 308(f)(1)(I)][/us/pl/104/208/s308/f/1/I], substituted “admission” for “entry”.
+    1996—Subsec. (b)(1)(A)(i). [Pub. L. 104–208][/us/pl/104/208], § 308(f)(1)(I), substituted “admission” for “entry”.
 
-    Subsec. (b)(2). [Pub. L. 104–208, § 308(e)(7)][/us/pl/104/208/s308/e/7], substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
+    Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(7), substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–208, § 308(e)(7)][/us/pl/104/208/s308/e/7], substituted “removal” for “deportation” in heading and text.
+    Subsec. (c)(2)(B). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(7), substituted “removal” for “deportation” in heading and text.
 
-    Subsec. (c)(3)(D). [Pub. L. 104–208, § 308(e)(7)][/us/pl/104/208/s308/e/7], substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
+    Subsec. (c)(3)(D). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(7), substituted “removal” for “deportation” in heading and “remove” for “deport” in text.
 
-    Subsec. (c)(4)(A). [Pub. L. 104–208, § 308(e)(7)][/us/pl/104/208/s308/e/7], substituted “removed” for “deported”.
+    Subsec. (c)(4)(A). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(7), substituted “removed” for “deported”.
 
-    Subsec. (d)(1)(A)(i)(III). [Pub. L. 104–208, § 308(f)(1)(J)][/us/pl/104/208/s308/f/1/J], substituted “admission” for “entry”.
+    Subsec. (d)(1)(A)(i)(III). [Pub. L. 104–208][/us/pl/104/208], § 308(f)(1)(J), substituted “admission” for “entry”.
 
-    Subsec. (d)(2)(C). [Pub. L. 104–208, § 308(e)(7)][/us/pl/104/208/s308/e/7], substituted “removal” for “deportation” wherever appearing in heading and text.
+    Subsec. (d)(2)(C). [Pub. L. 104–208][/us/pl/104/208], § 308(e)(7), substituted “removal” for “deportation” wherever appearing in heading and text.
 
-    Subsec. (f). [Pub. L. 104–208, § 308(d)(4)(E)][/us/pl/104/208/s308/d/4/E], substituted “inadmissibility” for “exclusion”.
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 308(d)(4)(E), substituted “inadmissibility” for “exclusion”.
 
     1994—Subsec. (c)(4). [Pub. L. 103–322][/us/pl/103/322] inserted after second sentence “In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.”
 
@@ -263,9 +263,9 @@
 
     1990—Subsec. (c)(4). [Pub. L. 101–649][/us/pl/101/649] struck out “or” at end of subpar. (A), struck out “by the alien spouse for good cause” after “death of the spouse)” and substituted “, or” for period at end of subpar. (B), added subpar. (C), and inserted at end “The Attorney General shall, by regulation, establish measures to protect the confidentiality of information concerning any abused alien spouse or child, including information regarding the whereabouts of such spouse or child.”
 
-    1988—[Pub. L. 100–525, § 7(a)(1)][/us/pl/100/525/s7/a/1], made technical amendment to directory language of [Pub. L. 99–639, § 2(a)][/us/pl/99/639/s2/a], which enacted this section.
+    1988—[Pub. L. 100–525][/us/pl/100/525], § 7(a)(1), made technical amendment to directory language of [Pub. L. 99–639][/us/pl/99/639], § 2(a), which enacted this section.
 
-    Subsec. (c)(3)(A). [Pub. L. 100–525, § 7(a)(2)][/us/pl/100/525/s7/a/2], substituted “90 days” for “90-days”.
+    Subsec. (c)(3)(A). [Pub. L. 100–525][/us/pl/100/525], § 7(a)(2), substituted “90 days” for “90-days”.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -277,17 +277,17 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–322, title IV, § 40702(b)][/us/pl/103/322/s40702/b], Sept. 13, 1994, [108 Stat. 1955][/us/stat/108/1955], provided that: 
+[Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40702(b), Sept. 13, 1994, [108 Stat. 1955][/us/stat/108/1955], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\] and shall apply to applications made before, on, or after such date.”
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–232, title III, § 302(e)(8)][/us/pl/102/232/s302/e/8], Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746], provided that the amendment made by section 302(e)(8) is effective as if included in section 162(e) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 302(e)(8), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746], provided that the amendment made by section 302(e)(8) is effective as if included in section 162(e) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–649, title VII, § 701(b)][/us/pl/101/649/s701/b], Nov. 29, 1990, [104 Stat. 5086][/us/stat/104/5086], provided that: 
+[Pub. L. 101–649, title VII][/us/pl/101/649/tVII], § 701(b), Nov. 29, 1990, [104 Stat. 5086][/us/stat/104/5086], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
@@ -317,58 +317,58 @@
 [/us/usc/t8/s1153/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa%2F2
 [/us/usc/t8/s1153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fd
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/99/639/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F639%2Fs2%2Fa
+[/us/pl/99/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F639
 [/us/stat/100/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3537
-[/us/pl/100/525/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs7%2Fa
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2616
-[/us/pl/101/649/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs701%2Fa
+[/us/pl/101/649/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVII
 [/us/stat/104/5085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5085
-[/us/pl/102/232/s302/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fe%2F8%2FB
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1746
-[/us/pl/103/322/s40702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40702%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1955
-[/us/pl/104/208/s308/d/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FE
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-618
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/112/58/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
 [/us/stat/125/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F747
-[/us/pl/113/4/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs806
+[/us/pl/113/4/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVIII
 [/us/stat/127/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F112
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
-[/us/pl/108/193/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs8%2Fa%2F3
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2886
 [/us/usc/t8/s1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188
-[/us/pl/113/4/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs806%2Fb%2F2
-[/us/pl/112/58/s1/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F2%2FB
-[/us/pl/113/4/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs806%2Fb%2F1
-[/us/pl/112/58/s1/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F2%2FB
-[/us/pl/113/4/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs806%2Fa
-[/us/pl/112/58/s1/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F2%2FB
-[/us/pl/112/58/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F1
-[/us/pl/112/58/s1/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F2%2FC
-[/us/pl/112/58/s1/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fb%2F2%2FA
-[/us/pl/112/58/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58%2Fs1%2Fa
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
+[/us/pl/112/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F58
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/usc/t8/s1154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fa
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
-[/us/pl/104/208/s308/f/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F1%2FI
-[/us/pl/104/208/s308/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F7
-[/us/pl/104/208/s308/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F7
-[/us/pl/104/208/s308/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F7
-[/us/pl/104/208/s308/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F7
-[/us/pl/104/208/s308/f/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Ff%2F1%2FJ
-[/us/pl/104/208/s308/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F7
-[/us/pl/104/208/s308/d/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fd%2F4%2FE
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/100/525/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs7%2Fa%2F1
-[/us/pl/99/639/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F639%2Fs2%2Fa
-[/us/pl/100/525/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs7%2Fa%2F2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
+[/us/pl/99/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F639
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/usc/t8/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
@@ -376,12 +376,12 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/103/322/s40702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40702%2Fb
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1955
-[/us/pl/102/232/s302/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs302%2Fe%2F8
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1746
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
-[/us/pl/101/649/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs701%2Fb
+[/us/pl/101/649/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVII
 [/us/stat/104/5086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5086
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/pl/99/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F639

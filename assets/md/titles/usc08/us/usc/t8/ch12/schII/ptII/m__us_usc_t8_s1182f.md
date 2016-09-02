@@ -31,7 +31,7 @@
 
         (2) not later than 30 days after the issuance of a visa, provides written notification to the appropriate congressional committees containing a justification for the waiver.
 
-([Pub. L. 107–228, div. A, title II, § 232][/us/pl/107/228/s232], Sept. 30, 2002, [116 Stat. 1372][/us/stat/116/1372].)
+([Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 232, Sept. 30, 2002, [116 Stat. 1372][/us/stat/116/1372].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs232
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1372
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651

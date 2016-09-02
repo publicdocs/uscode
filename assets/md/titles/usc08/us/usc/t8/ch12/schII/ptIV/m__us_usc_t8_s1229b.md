@@ -197,37 +197,37 @@
 
             (B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under [section 1254(a)(3) of this title][/us/usc/t8/s1254/a/3] (as in effect before September 30, 1996).
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240A, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)][/us/pl/104/208/s304/a/3], Sept. 30, 1996, [110 Stat. 3009–594][/us/stat/110/3009-594]; amended [Pub. L. 105–100, title II, § 204(a)][/us/pl/105/100/s204/a]–(c), Nov. 19, 1997, [111 Stat. 2200][/us/stat/111/2200], 2201; [Pub. L. 106–386, div. B, title V][/us/pl/106/386], §§ 1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, [114 Stat. 1522][/us/stat/114/1522], 1524, 1525, 1527; [Pub. L. 109–162, title VIII][/us/pl/109/162], §§ 813(c)(1), 822(a), (b), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], 3062, 3063; [Pub. L. 109–271, § 6(e)][/us/pl/109/271/s6/e], Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 110–457, title II, § 205(b)][/us/pl/110/457/s205/b], Dec. 23, 2008, [122 Stat. 5062][/us/stat/122/5062].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 240A, as added [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(a)(3), Sept. 30, 1996, [110 Stat. 3009–594][/us/stat/110/3009-594]; amended [Pub. L. 105–100, title II][/us/pl/105/100/tII], § 204(a)–(c), Nov. 19, 1997, [111 Stat. 2200][/us/stat/111/2200], 2201; [Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], §§ 1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, [114 Stat. 1522][/us/stat/114/1522], 1524, 1525, 1527; [Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], §§ 813(c)(1), 822(a), (b), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], 3062, 3063; [Pub. L. 109–271][/us/pl/109/271], § 6(e), Aug. 12, 2006, [120 Stat. 763][/us/stat/120/763]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 205(b), Dec. 23, 2008, [122 Stat. 5062][/us/stat/122/5062].)
 
  __References in Text__ 
 
-    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealed by [Pub. L. 104–208, div. C, title III, § 308(b)(7)][/us/pl/104/208/s308/b/7], Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
+    [Section 1254 of this title][/us/usc/t8/s1254], referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealed by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(b)(7), Sept. 30, 1996, [110 Stat. 3009–615][/us/stat/110/3009-615].
 
-    [Section 1182(c) of this title][/us/usc/t8/s1182/c], referred to in subsec. (c)(6), was repealed by [Pub. L. 104–208, div. C, title III, § 304(b)][/us/pl/104/208/s304/b], Sept. 30, 1996, [110 Stat. 3009–597][/us/stat/110/3009-597].
+    [Section 1182(c) of this title][/us/usc/t8/s1182/c], referred to in subsec. (c)(6), was repealed by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 304(b), Sept. 30, 1996, [110 Stat. 3009–597][/us/stat/110/3009-597].
 
-    Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsecs. (b)(2)(B), (C), (4), and (e)(3)(A), is [section 309 of title III of div. C of Pub. L. 104–208][/us/pl/104/208/s309], as amended, which is set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
+    Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsecs. (b)(2)(B), (C), (4), and (e)(3)(A), is [section 309 of title III of div. C of Pub. L. 104–208][/us/pl/104/208/dC/tIII/s309], as amended, which is set out as a note under [section 1101 of this title][/us/usc/t8/s1101].
 
  __Amendments__ 
 
     2008—Subsec. (b)(6). [Pub. L. 110–457][/us/pl/110/457] added par. (6).
 
-    2006—Subsec. (b)(1)(C). [Pub. L. 109–162, § 813(c)(1)(A)][/us/pl/109/162/s813/c/1/A], substituted “, subject to paragraph (5)” for “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
+    2006—Subsec. (b)(1)(C). [Pub. L. 109–162][/us/pl/109/162], § 813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
 
-    Subsec. (b)(2)(A)(iv). [Pub. L. 109–162, § 813(c)(1)(B)][/us/pl/109/162/s813/c/1/B], substituted “, subject to paragraph (5)” for “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
+    Subsec. (b)(2)(A)(iv). [Pub. L. 109–162][/us/pl/109/162], § 813(c)(1)(B), substituted “, subject to paragraph (5)” for “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 109–162, § 822(a)(2)][/us/pl/109/162/s822/a/2], which directed amendment of fourth sentence by substituting “this subparagraph, subparagraph (A)(ii),” for “subsection (b)(2)(B) of this section”, was executed by making the substitution for language which read in the original “section 240A(b)(2)(B)”, to reflect the probable intent of Congress.
+    Subsec. (b)(2)(B). [Pub. L. 109–162][/us/pl/109/162], § 822(a)(2), which directed amendment of fourth sentence by substituting “this subparagraph, subparagraph (A)(ii),” for “subsection (b)(2)(B) of this section”, was executed by making the substitution for language which read in the original “section 240A(b)(2)(B)”, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–162, § 822(a)(1)][/us/pl/109/162/s822/a/1], substituted “(A)(ii)” for “(A)(i)(II)” in first sentence.
+    [Pub. L. 109–162][/us/pl/109/162], § 822(a)(1), substituted “(A)(ii)” for “(A)(i)(II)” in first sentence.
 
-    Subsec. (b)(2)(C). [Pub. L. 109–162, § 822(b)][/us/pl/109/162/s822/b], substituted “(A)(iii)” for “(A)(i)(III)”.
+    Subsec. (b)(2)(C). [Pub. L. 109–162][/us/pl/109/162], § 822(b), substituted “(A)(iii)” for “(A)(i)(III)”.
 
     Subsec. (b)(4)(B). [Pub. L. 109–271][/us/pl/109/271] substituted “the applicants were VAWA self-petitioners” for “they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and (c) of this title”.
 
-    Subsec. (b)(5). [Pub. L. 109–162, § 813(c)(1)(C)][/us/pl/109/162/s813/c/1/C], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–162][/us/pl/109/162], § 813(c)(1)(C), added par. (5).
 
-    2000—Subsec. (b)(1)(C). [Pub. L. 106–386, § 1505(b)(2)][/us/pl/106/386/s1505/b/2], inserted before semicolon “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
+    2000—Subsec. (b)(1)(C). [Pub. L. 106–386][/us/pl/106/386], § 1505(b)(2), inserted before semicolon “(except in a case described in [section 1227(a)(7) of this title][/us/usc/t8/s1227/a/7] where the Attorney General exercises discretion to grant a waiver)”.
 
-    Subsec. (b)(2). [Pub. L. 106–386, § 1504(a)][/us/pl/106/386/s1504/a], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “(2) The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
+    Subsec. (b)(2). [Pub. L. 106–386][/us/pl/106/386], § 1504(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “(2) The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
 
     “(A) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or parent who is a United States citizen or lawful permanent resident (or is the parent of a child of a United States citizen or lawful permanent resident and the child has been battered or subjected to extreme cruelty in the United States by such citizen or permanent resident parent);
 
@@ -241,29 +241,29 @@
 
     In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.”
 
-    Subsec. (b)(4). [Pub. L. 106–386, § 1504(b)][/us/pl/106/386/s1504/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 106–386][/us/pl/106/386], § 1504(b), added par. (4).
 
-    Subsec. (d)(1). [Pub. L. 106–386, § 1506(b)(1)][/us/pl/106/386/s1506/b/1], substituted “(A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2), when the alien is served a notice to appear under [section 1229(a) of this title][/us/usc/t8/s1229/a], or (B)” for “when the alien is served a notice to appear under [section 1229(a) of this title][/us/usc/t8/s1229/a] or”.
+    Subsec. (d)(1). [Pub. L. 106–386][/us/pl/106/386], § 1506(b)(1), substituted “(A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2), when the alien is served a notice to appear under [section 1229(a) of this title][/us/usc/t8/s1229/a], or (B)” for “when the alien is served a notice to appear under [section 1229(a) of this title][/us/usc/t8/s1229/a] or”.
 
-    1997—Subsec. (b)(1), (2). [Pub. L. 105–100, § 204(b)][/us/pl/105/100/s204/b], in introductory provisions, substituted “may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien” for “may cancel removal in the case of an alien”.
+    1997—Subsec. (b)(1), (2). [Pub. L. 105–100][/us/pl/105/100], § 204(b), in introductory provisions, substituted “may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien” for “may cancel removal in the case of an alien”.
 
-    Subsec. (b)(3). [Pub. L. 105–100, § 204(c)][/us/pl/105/100/s204/c], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien’s lawful admission for permanent residence as of the date the Attorney General’s cancellation of removal under paragraph (1) or (2) or determination under this paragraph.”
+    Subsec. (b)(3). [Pub. L. 105–100][/us/pl/105/100], § 204(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien’s lawful admission for permanent residence as of the date the Attorney General’s cancellation of removal under paragraph (1) or (2) or determination under this paragraph.”
 
-    Subsec. (e). [Pub. L. 105–100, § 204(a)][/us/pl/105/100/s204/a], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under [section 1254(a) of this title][/us/usc/t8/s1254/a] (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such [section 1254(a) of this title][/us/usc/t8/s1254/a].”
+    Subsec. (e). [Pub. L. 105–100][/us/pl/105/100], § 204(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under [section 1254(a) of this title][/us/usc/t8/s1254/a] (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such [section 1254(a) of this title][/us/usc/t8/s1254/a].”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–386, div. B, title V, § 1504(c)][/us/pl/106/386/s1504/c], Oct. 28, 2000, [114 Stat. 1524][/us/stat/114/1524], provided that: 
+[Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1504(c), Oct. 28, 2000, [114 Stat. 1524][/us/stat/114/1524], provided that: 
 
 > “Any individual who becomes eligible for relief by reason of the enactment of the amendments made by subsections (a) and (b) \[amending this section\], shall be eligible to file a motion to reopen pursuant to section 240(c)(6)(C)(iv) \[now [8 U.S.C. 1229a(c)(7)(C)(iv)][/us/usc/t8/s1229a/c/7/C/iv]\]. The amendments made by subsections (a) and (b) shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 587][/us/stat/110/587] \[3009–587\]). Such portions of the amendments made by subsection (b) that relate to section 244(a)(3) \[[8 U.S.C. 1254(a)(3)][/us/usc/t8/s1254/a/3]\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) shall take effect as if included in subtitle G \[§ 40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 ([Public Law 103–322][/us/pl/103/322]; [108 Stat. 1953][/us/stat/108/1953] et seq.) \[see Tables for classification\].”
 
-[Pub. L. 106–386, div. B, title V, § 1506(b)(2)][/us/pl/106/386/s1506/b/2], Oct. 28, 2000, [114 Stat. 1527][/us/stat/114/1527], provided that: 
+[Pub. L. 106–386, div. B, title V][/us/pl/106/386/dB/tV], § 1506(b)(2), Oct. 28, 2000, [114 Stat. 1527][/us/stat/114/1527], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 587][/us/stat/110/587] \[3009–587\]).”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–100, title II, § 204(e)][/us/pl/105/100/s204/e], Nov. 19, 1997, [111 Stat. 2201][/us/stat/111/2201], provided that: 
+[Pub. L. 105–100, title II][/us/pl/105/100/tII], § 204(e), Nov. 19, 1997, [111 Stat. 2201][/us/stat/111/2201], provided that: 
 
 > “The amendments made by this section \[amending this section and provisions set out as a note under [section 1101 of this title][/us/usc/t8/s1101]\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 3009–546][/us/stat/110/3009-546]).”
 
@@ -277,7 +277,7 @@
 
  __Discretion To Consent to an Alien’s Reapplication for Admission__ 
 
-[Pub. L. 109–162, title VIII, § 813(b)][/us/pl/109/162/s813/b], Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], provided that:
+[Pub. L. 109–162, title VIII][/us/pl/109/162/tVIII], § 813(b), Jan. 5, 2006, [119 Stat. 3058][/us/stat/119/3058], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -285,7 +285,7 @@
 
 >     “(2)  __Sense of congress__  __.—__ 
 
->     It is the sense of Congress that the officials described in paragraph (1) should particularly consider exercising this authority in cases under the Violence Against Women Act of 1994 \[[Pub. L. 103–322, title IV][/us/pl/103/322], see Tables for classification\], cases involving nonimmigrants described in subparagraph (T) or (U) of section 101(a)(15) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]), and relief under section 240A(b)(2) \[[8 U.S.C. 1229b(b)(2)][/us/usc/t8/s1229b/b/2]\] or 244(a)(3) \[[8 U.S.C. 1254(a)(3)][/us/usc/t8/s1254/a/3]\] of such Act (as in effect on March 31, 1997) pursuant to regulations under section 212.2 of title 8, Code of Federal Regulations.”
+>     It is the sense of Congress that the officials described in paragraph (1) should particularly consider exercising this authority in cases under the Violence Against Women Act of 1994 \[[Pub. L. 103–322, title IV][/us/pl/103/322/tIV], see Tables for classification\], cases involving nonimmigrants described in subparagraph (T) or (U) of section 101(a)(15) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)][/us/usc/t8/s1101/a/15]), and relief under section 240A(b)(2) \[[8 U.S.C. 1229b(b)(2)][/us/usc/t8/s1229b/b/2]\] or 244(a)(3) \[[8 U.S.C. 1254(a)(3)][/us/usc/t8/s1254/a/3]\] of such Act (as in effect on March 31, 1997) pursuant to regulations under section 212.2 of title 8, Code of Federal Regulations.”
 
  __Definitions__ 
 
@@ -333,51 +333,51 @@
 [/us/usc/t8/s1254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa
 [/us/usc/t8/s1254/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa%2F3
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/104/208/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fa%2F3
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-594
-[/us/pl/105/100/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2Fs204%2Fa
+[/us/pl/105/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2FtII
 [/us/stat/111/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2200
-[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1522
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3058
-[/us/pl/109/271/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs6%2Fe
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F763
-[/us/pl/110/457/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs205%2Fb
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5062
 [/us/usc/t8/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254
-[/us/pl/104/208/s308/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fb%2F7
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-615
 [/us/usc/t8/s1182/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fc
-[/us/pl/104/208/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs304%2Fb
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-597
-[/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
+[/us/pl/104/208/dC/tIII/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
-[/us/pl/109/162/s813/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fc%2F1%2FA
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t8/s1227/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F7
-[/us/pl/109/162/s813/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fc%2F1%2FB
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t8/s1227/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F7
-[/us/pl/109/162/s822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs822%2Fa%2F2
-[/us/pl/109/162/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs822%2Fa%2F1
-[/us/pl/109/162/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs822%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s813/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fc%2F1%2FC
-[/us/pl/106/386/s1505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1505%2Fb%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t8/s1227/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa%2F7
-[/us/pl/106/386/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1504%2Fa
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/usc/t8/s1227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1227%2Fa
-[/us/pl/106/386/s1504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1504%2Fb
-[/us/pl/106/386/s1506/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1506%2Fb%2F1
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t8/s1229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229%2Fa
 [/us/usc/t8/s1229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229%2Fa
-[/us/pl/105/100/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2Fs204%2Fb
-[/us/pl/105/100/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2Fs204%2Fc
-[/us/pl/105/100/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2Fs204%2Fa
+[/us/pl/105/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100
+[/us/pl/105/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100
+[/us/pl/105/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100
 [/us/usc/t8/s1254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa
 [/us/usc/t8/s1254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa
-[/us/pl/106/386/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1504%2Fc
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1524
 [/us/usc/t8/s1229a/c/7/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229a%2Fc%2F7%2FC%2Fiv
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -385,11 +385,11 @@
 [/us/usc/t8/s1254/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa%2F3
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1953
-[/us/pl/106/386/s1506/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1506%2Fb%2F2
+[/us/pl/106/386/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtV
 [/us/stat/114/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1527
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F587
-[/us/pl/105/100/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2Fs204%2Fe
+[/us/pl/105/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F100%2FtII
 [/us/stat/111/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2201
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -397,9 +397,9 @@
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/109/162/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs813%2Fb
+[/us/pl/109/162/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVIII
 [/us/stat/119/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3058
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1229b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229b%2Fb%2F2
 [/us/usc/t8/s1254/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1254%2Fa%2F3

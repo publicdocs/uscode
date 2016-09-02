@@ -75,17 +75,17 @@
 
         The Attorney General may authorize immigration officers to record the following information regarding every resident person leaving the United States by way of the Canadian or Mexican borders for permanent residence in a foreign country: Names, age, and sex; whether married or single; calling or occupation; whether able to read or write; nationality; country of birth; country of which citizen or subject; race; last permanent residence in the United States; intended future permanent residence; and time and port of last arrival in the United States; and if a United States citizen or national, the facts on which claim to that status is based.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 231, [66 Stat. 195][/us/stat/66/195]; [Pub. L. 97–116, § 18(g)][/us/pl/97/116/s18/g], Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 101–649, title V, § 543(a)(1)][/us/pl/101/649/s543/a/1], Nov. 29, 1990, [104 Stat. 5057][/us/stat/104/5057]; [Pub. L. 102–232, title III, § 306(c)(4)(A)][/us/pl/102/232/s306/c/4/A], Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 104–208, div. C, title III, § 308(g)(1)][/us/pl/104/208/s308/g/1], Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622]; [Pub. L. 107–77, title I, § 115][/us/pl/107/77/s115], Nov. 28, 2001, [115 Stat. 768][/us/stat/115/768]; [Pub. L. 107–173, title IV, § 402(a)][/us/pl/107/173/s402/a], May 14, 2002, [116 Stat. 557][/us/stat/116/557].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 4, § 231, [66 Stat. 195][/us/stat/66/195]; [Pub. L. 97–116][/us/pl/97/116], § 18(g), Dec. 29, 1981, [95 Stat. 1620][/us/stat/95/1620]; [Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(a)(1), Nov. 29, 1990, [104 Stat. 5057][/us/stat/104/5057]; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 306(c)(4)(A), Dec. 12, 1991, [105 Stat. 1752][/us/stat/105/1752]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(1), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622]; [Pub. L. 107–77, title I][/us/pl/107/77/tI], § 115, Nov. 28, 2001, [115 Stat. 768][/us/stat/115/768]; [Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 402(a), May 14, 2002, [116 Stat. 557][/us/stat/116/557].)
 
  __Amendments__ 
 
     2002—[Pub. L. 107–173][/us/pl/107/173] added subsecs. (a) to (i), redesignated former subsec. (c) as (j), and struck out former subsecs. (a), (b), (d), and (e), which related to shipment or aircraft manifest, arrival, form and contents, exclusions in subsec. (a), departure, shipment or aircraft manifest, form and contents, and exclusions in subsec. (b), penalties against noncomplying shipments or aircraft in subsec. (d), and waiver of requirements in subsec. (e).
 
-    2001—Subsec. (a). [Pub. L. 107–77, § 115(a)][/us/pl/107/77/s115/a], amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Upon the arrival of any person by water or by air at any port within the United States from any place outside the United States, it shall be the duty of the master or commanding officer, or authorized agent, owner, or consignee of the vessel or aircraft, having any such person on board to deliver to the immigration officers at the port of arrival typewritten or printed lists or manifests of the persons on board such vessel or aircraft. Such lists or manifests shall be prepared at such time, be in such form and shall contain such information as the Attorney General shall prescribe by regulation as being necessary for the identification of the persons transported and for the enforcement of the immigration laws. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person arriving by air on a trip originating in foreign contiguous territory, except (with respect to such arrivals by air) as may be required by regulations issued pursuant to [section 1224 of this title][/us/usc/t8/s1224].”
+    2001—Subsec. (a). [Pub. L. 107–77][/us/pl/107/77], § 115(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Upon the arrival of any person by water or by air at any port within the United States from any place outside the United States, it shall be the duty of the master or commanding officer, or authorized agent, owner, or consignee of the vessel or aircraft, having any such person on board to deliver to the immigration officers at the port of arrival typewritten or printed lists or manifests of the persons on board such vessel or aircraft. Such lists or manifests shall be prepared at such time, be in such form and shall contain such information as the Attorney General shall prescribe by regulation as being necessary for the identification of the persons transported and for the enforcement of the immigration laws. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person arriving by air on a trip originating in foreign contiguous territory, except (with respect to such arrivals by air) as may be required by regulations issued pursuant to [section 1224 of this title][/us/usc/t8/s1224].”
 
-    Subsec. (b). [Pub. L. 107–77, § 115(b)][/us/pl/107/77/s115/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “It shall be the duty of the master or commanding officer or authorized agent of every vessel or aircraft taking passengers on board at any port of the United States, who are destined to any place outside the United States, to file with the immigration officers before departure from such port a list of all such persons taken on board. Such list shall be in such form, contain such information, and be accompanied by such documents, as the Attorney General shall prescribe by regulation as necessary for the identification of the persons so transported and for the enforcement of the immigration laws. No master or commanding officer of any such vessel or aircraft shall be granted clearance papers for his vessel or aircraft until he or the authorized agent has deposited such list or lists and accompanying documents with the immigration officer at such port and made oath that they are full and complete as to the information required to be contained therein, except that in the case of vessels or aircraft which the Attorney General determines are making regular trips to ports of the United States, the Attorney General may, when expedient, arrange for the delivery of lists of outgoing persons at a later date. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person departing by air on a trip originating in the United States who is destined to foreign contiguous territory, except (with respect to such departure by air) as may be required by regulations issued pursuant to [section 1224 of this title][/us/usc/t8/s1224].”
+    Subsec. (b). [Pub. L. 107–77][/us/pl/107/77], § 115(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “It shall be the duty of the master or commanding officer or authorized agent of every vessel or aircraft taking passengers on board at any port of the United States, who are destined to any place outside the United States, to file with the immigration officers before departure from such port a list of all such persons taken on board. Such list shall be in such form, contain such information, and be accompanied by such documents, as the Attorney General shall prescribe by regulation as necessary for the identification of the persons so transported and for the enforcement of the immigration laws. No master or commanding officer of any such vessel or aircraft shall be granted clearance papers for his vessel or aircraft until he or the authorized agent has deposited such list or lists and accompanying documents with the immigration officer at such port and made oath that they are full and complete as to the information required to be contained therein, except that in the case of vessels or aircraft which the Attorney General determines are making regular trips to ports of the United States, the Attorney General may, when expedient, arrange for the delivery of lists of outgoing persons at a later date. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person departing by air on a trip originating in the United States who is destined to foreign contiguous territory, except (with respect to such departure by air) as may be required by regulations issued pursuant to [section 1224 of this title][/us/usc/t8/s1224].”
 
-    Subsec. (d). [Pub. L. 107–77, § 115(c)][/us/pl/107/77/s115/c], directed amendment of heading by substituting “shipments, aircraft or carriers” for “shipments or aircraft” and, in text inserted “, any public or private carrier,” after “or aircraft,” in first sentence and substituted “vessel, aircraft, train or bus” for “vessel or aircraft” in second sentence.
+    Subsec. (d). [Pub. L. 107–77][/us/pl/107/77], § 115(c), directed amendment of heading by substituting “shipments, aircraft or carriers” for “shipments or aircraft” and, in text inserted “, any public or private carrier,” after “or aircraft,” in first sentence and substituted “vessel, aircraft, train or bus” for “vessel or aircraft” in second sentence.
 
     1996—Subsecs. (a), (b). [Pub. L. 104–208][/us/pl/104/208] substituted “section 1224” for “section 1229”.
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–173, title IV, § 402(c)][/us/pl/107/173/s402/c], May 14, 2002, [116 Stat. 559][/us/stat/116/559], provided that: 
+[Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 402(c), May 14, 2002, [116 Stat. 559][/us/stat/116/559], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to persons arriving in, or departing from, the United States on or after the date of enactment of this Act \[May 14, 2002\].”
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–649, title V, § 543(c)][/us/pl/101/649/s543/c], Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059], provided that: 
+[Pub. L. 101–649, title V][/us/pl/101/649/tV], § 543(c), Nov. 29, 1990, [104 Stat. 5059][/us/stat/104/5059], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and sections 1227, 1229, 1282, 1284 to 1287, 1321 to 1323, and 1325 to 1328 of this title\] shall apply to actions taken after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
@@ -125,7 +125,7 @@
 
  __Extension to Land Carriers__ 
 
-[Pub. L. 107–173, title IV, § 402(b)][/us/pl/107/173/s402/b], May 14, 2002, [116 Stat. 559][/us/stat/116/559], provided that:
+[Pub. L. 107–173, title IV][/us/pl/107/173/tIV], § 402(b), May 14, 2002, [116 Stat. 559][/us/stat/116/559], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -144,29 +144,29 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F195
-[/us/pl/97/116/s18/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18%2Fg
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1620
-[/us/pl/101/649/s543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fa%2F1
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5057
-[/us/pl/102/232/s306/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs306%2Fc%2F4%2FA
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1752
-[/us/pl/104/208/s308/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F1
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-622
-[/us/pl/107/77/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs115
+[/us/pl/107/77/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtI
 [/us/stat/115/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F768
-[/us/pl/107/173/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs402%2Fa
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F557
 [/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
-[/us/pl/107/77/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs115%2Fa
+[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/usc/t8/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1224
-[/us/pl/107/77/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs115%2Fb
+[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/usc/t8/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1224
-[/us/pl/107/77/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs115%2Fc
+[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
-[/us/pl/107/173/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs402%2Fc
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F559
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
@@ -175,13 +175,13 @@
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/102/232/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs310%2F1
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/101/649/s543/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs543%2Fc
+[/us/pl/101/649/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtV
 [/us/stat/104/5059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5059
 [/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/pl/97/116/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs21%2Fa
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/107/173/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs402%2Fb
+[/us/pl/107/173/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIV
 [/us/stat/116/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F559
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
 

@@ -47,7 +47,7 @@
 
         In order to promote the opportunities and responsibilities of United States citizenship, the Attorney General shall broadly distribute information concerning the benefits which persons may receive under this subchapter and the requirements to obtain such benefits. In carrying out this subsection, the Attorney General shall seek the assistance of appropriate community groups, private voluntary agencies, and other relevant organizations. There are authorized to be appropriated (for each fiscal year beginning with fiscal year 1991) such sums as may be necessary to carry out this subsection.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 332, [66 Stat. 252][/us/stat/66/252]; [Pub. L. 101–649, title IV][/us/pl/101/649], §§ 406, 407(d)(10), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5042; [Pub. L. 102–232, title III, § 305(m)(6)][/us/pl/102/232/s305/m/6], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 332, [66 Stat. 252][/us/stat/66/252]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], §§ 406, 407(d)(10), Nov. 29, 1990, [104 Stat. 5040][/us/stat/104/5040], 5042; [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m)(6), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
     1991—Subsec. (a). [Pub. L. 102–232][/us/pl/102/232] substituted “applicants” for “petitioners” in first sentence.
 
-    1990—Subsec. (a). [Pub. L. 101–649, § 407(d)(10)][/us/pl/101/649/s407/d/10], struck out “for the purpose of making appropriate recommendations to the naturalization courts” before period at end of first sentence and struck out second sentence which read as follows: “Such examination, in the discretion of the Attorney General, and under such rules and regulations as may be prescribed by him, may be conducted before or after the applicant has filed his petition for naturalization.”
+    1990—Subsec. (a). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(10), struck out “for the purpose of making appropriate recommendations to the naturalization courts” before period at end of first sentence and struck out second sentence which read as follows: “Such examination, in the discretion of the Attorney General, and under such rules and regulations as may be prescribed by him, may be conducted before or after the applicant has filed his petition for naturalization.”
 
-    Subsec. (h). [Pub. L. 101–649, § 406][/us/pl/101/649/s406], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–649][/us/pl/101/649], § 406, added subsec. (h).
 
  __Effective Date of 1991 Amendment__ 
 
-    [Pub. L. 102–232, title III, § 305(m)][/us/pl/102/232/s305/m], Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
+    [Pub. L. 102–232, title III][/us/pl/102/232/tIII], § 305(m), Dec. 12, 1991, [105 Stat. 1750][/us/stat/105/1750], provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, [Pub. L. 101–649][/us/pl/101/649].
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -78,17 +78,17 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F252
-[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5040
-[/us/pl/102/232/s305/m/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm%2F6
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/102/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232
-[/us/pl/101/649/s407/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F10
-[/us/pl/101/649/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs406
-[/us/pl/102/232/s305/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/102/232/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2FtIII
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

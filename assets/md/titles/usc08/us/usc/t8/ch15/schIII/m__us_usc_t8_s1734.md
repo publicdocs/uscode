@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to implement this section.
 
-([Pub. L. 107–173, title III, § 305][/us/pl/107/173/s305], May 14, 2002, [116 Stat. 555][/us/stat/116/555]; [Pub. L. 108–458, title VII, § 7203(c)][/us/pl/108/458/s7203/c], Dec. 17, 2004, [118 Stat. 3814][/us/stat/118/3814].)
+([Pub. L. 107–173, title III][/us/pl/107/173/tIII], § 305, May 14, 2002, [116 Stat. 555][/us/stat/116/555]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7203(c), Dec. 17, 2004, [118 Stat. 3814][/us/stat/118/3814].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t8/s1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1776
-[/us/pl/107/173/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs305
+[/us/pl/107/173/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtIII
 [/us/stat/116/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F555
-[/us/pl/108/458/s7203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7203%2Fc
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3814
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t8/s1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1776

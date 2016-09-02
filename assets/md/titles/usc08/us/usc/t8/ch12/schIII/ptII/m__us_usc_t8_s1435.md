@@ -43,7 +43,7 @@
 
         (2) The provisions of paragraphs (2) and (3) of subsection (c) shall apply to a person regaining citizenship under paragraph (1) in the same manner as they apply under subsection (c)(1).
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 324, [66 Stat. 246][/us/stat/66/246]; [Pub. L. 100–525, § 9(x)][/us/pl/100/525/s9/x], Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV, § 407(b)(3)][/us/pl/101/649/s407/b/3], (c)(7), (d)(6), Nov. 29, 1990, [104 Stat. 5040–5042][/us/stat/104/5040-5042]; [Pub. L. 103–416, title I, § 103(a)][/us/pl/103/416/s103/a], Oct. 25, 1994, [108 Stat. 4307][/us/stat/108/4307].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 324, [66 Stat. 246][/us/stat/66/246]; [Pub. L. 100–525][/us/pl/100/525], § 9(x), Oct. 24, 1988, [102 Stat. 2621][/us/stat/102/2621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(b)(3), (c)(7), (d)(6), Nov. 29, 1990, [104 Stat. 5040–5042][/us/stat/104/5040-5042]; [Pub. L. 103–416, title I][/us/pl/103/416/tI], § 103(a), Oct. 25, 1994, [108 Stat. 4307][/us/stat/108/4307].)
 
  __References in Text__ 
 
@@ -53,25 +53,25 @@
 
     1994—Subsec. (d). [Pub. L. 103–416][/us/pl/103/416] added subsec. (d).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–649, § 407(b)(3)][/us/pl/101/649/s407/b/3], (c)(7), (d)(6)(A)(i), substituted “State or district of the Service in the United States” for “State” and “application” for “petition” and inserted “and” at end.
+    1990—Subsec. (a)(1). [Pub. L. 101–649][/us/pl/101/649], § 407(b)(3), (c)(7), (d)(6)(A)(i), substituted “State or district of the Service in the United States” for “State” and “application” for “petition” and inserted “and” at end.
 
-    Subsec. (a)(2). [Pub. L. 101–649, § 407(c)(7)][/us/pl/101/649/s407/c/7], (d)(6)(A)(ii), substituted references to applicant and application for references to petitioner and petition, and substituted period for semicolon at end.
+    Subsec. (a)(2). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(7), (d)(6)(A)(ii), substituted references to applicant and application for references to petitioner and petition, and substituted period for semicolon at end.
 
-    Subsec. (a)(3), (4). [Pub. L. 101–649, § 407(d)(6)(A)(iii)][/us/pl/101/649/s407/d/6/A/iii], struck out pars. (3) and (4) which related to filing of petition and hearing on petition.
+    Subsec. (a)(3), (4). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(6)(A)(iii), struck out pars. (3) and (4) which related to filing of petition and hearing on petition.
 
-    Subsec. (b). [Pub. L. 101–649, § 407(c)(7)][/us/pl/101/649/s407/c/7], (d)(6)(B), substituted references to application for references to petition wherever appearing, and “Attorney General” for “naturalization court”.
+    Subsec. (b). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(7), (d)(6)(B), substituted references to application for references to petition wherever appearing, and “Attorney General” for “naturalization court”.
 
-    Subsec. (c)(1). [Pub. L. 101–649, § 407(c)(7)][/us/pl/101/649/s407/c/7], substituted “an application” for “a petition”.
+    Subsec. (c)(1). [Pub. L. 101–649][/us/pl/101/649], § 407(c)(7), substituted “an application” for “a petition”.
 
-    Subsec. (c)(2). [Pub. L. 101–649, § 407(d)(6)(C)(i)][/us/pl/101/649/s407/d/6/C/i], substituted “the Attorney General or the judge or clerk of a court described in [section 1421(b) of this title][/us/usc/t8/s1421/b]” for “the judge or clerk of a naturalization court”.
+    Subsec. (c)(2). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(6)(C)(i), substituted “the Attorney General or the judge or clerk of a court described in [section 1421(b) of this title][/us/usc/t8/s1421/b]” for “the judge or clerk of a naturalization court”.
 
-    Subsec. (c)(3). [Pub. L. 101–649, § 407(d)(6)(C)(ii)][/us/pl/101/649/s407/d/6/C/ii], substituted “court, or the Attorney General” for “or naturalization court” in two places.
+    Subsec. (c)(3). [Pub. L. 101–649][/us/pl/101/649], § 407(d)(6)(C)(ii), substituted “court, or the Attorney General” for “or naturalization court” in two places.
 
     1988—Subsec. (a)(4). [Pub. L. 100–525][/us/pl/100/525] substituted “has” for “and the witnesses have”.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–416, title I, § 103(b)][/us/pl/103/416/s103/b], Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308], provided that: 
+[Pub. L. 103–416, title I][/us/pl/103/416/tI], § 103(b), Oct. 25, 1994, [108 Stat. 4308][/us/stat/108/4308], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act \[Oct. 25, 1994\].”
 
@@ -81,7 +81,7 @@
 
  __Italian Elections; Naturalization of Former Citizens Who Voted in Certain Former Elections__ 
 
-[Act Aug. 16, 1951, ch. 321, § 1][/us/act/1951-08-16/ch321/s1], [65 Stat. 191][/us/stat/65/191], as amended by section 402(j) of act June 27, 1952, provided: 
+[Act Aug. 16, 1951, ch. 321][/us/act/1951-08-16/ch321], § 1, [65 Stat. 191][/us/stat/65/191], as amended by section 402(j) of act June 27, 1952, provided: 
 
 > “That a person who, while a citizen of the United States, has lost citizenship of the United States solely by reason of having voted in a political election or plebiscite held in Italy between January 1, 1946, and April 18, 1948, inclusive, and who has not subsequent to such voting committed any act which, had he remained a citizen, would have operated to expatriate him, may be naturalized by taking, prior to two years from the enactment of this Act \[June 27, 1952\], before any naturalization court specified in subsection (a) of section 310 of the Immigration and Nationality Act \[[section 1421(a) of this title][/us/usc/t8/s1421/a]\], or before any diplomatic or consular officer of the United States abroad, the oath required by section 337 of the Immigration and Nationality Act \[[section 1448 of this title][/us/usc/t8/s1448]\]. Certified copies of such oath shall be sent by such diplomatic or consular officer or such court to the Department of State and to the Department of Justice. Such person shall have, from and after naturalization under this section, the same citizenship status as that which existed immediately prior to its loss: Provided, That no such person shall be eligible to take the oath required by section 337 of the Immigration and Nationality Act \[[section 1448 of this title][/us/usc/t8/s1448]\] unless he shall first take an oath before any naturalization court specified in subsection (a) of section 310 of the Immigration and Nationality Act \[[section 1421(a) of this title][/us/usc/t8/s1421/a]\], or before any diplomatic or consular officer of the United States abroad, that he has done nothing to promote the cause of communism. The illegal or fraudulent procurement of naturalization under this amendment shall be subject to cancellation in the same manner as provided in section 340 of the Immigration and Nationality Act \[[section 1451 of this title][/us/usc/t8/s1451]\].”
 
@@ -106,26 +106,26 @@
 [/us/usc/t8/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1424
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F246
-[/us/pl/100/525/s9/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs9%2Fx
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2621
-[/us/pl/101/649/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F3
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5040-5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5040-5042
-[/us/pl/103/416/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs103%2Fa
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4307
 [/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
-[/us/pl/101/649/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fb%2F3
-[/us/pl/101/649/s407/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F7
-[/us/pl/101/649/s407/d/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F6%2FA%2Fiii
-[/us/pl/101/649/s407/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F7
-[/us/pl/101/649/s407/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F7
-[/us/pl/101/649/s407/d/6/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F6%2FC%2Fi
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/usc/t8/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fb
-[/us/pl/101/649/s407/d/6/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fd%2F6%2FC%2Fii
+[/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
-[/us/pl/103/416/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs103%2Fb
+[/us/pl/103/416/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2FtI
 [/us/stat/108/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4308
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/act/1951-08-16/ch321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-16%2Fch321%2Fs1
+[/us/act/1951-08-16/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-16%2Fch321
 [/us/stat/65/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F191
 [/us/usc/t8/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1421%2Fa
 [/us/usc/t8/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1448

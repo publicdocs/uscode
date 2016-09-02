@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a...1440d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
 
 ## § 1440–1. Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities
 
@@ -63,7 +63,7 @@
 
         If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c), the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 329A, as added [Pub. L. 101–249, § 2(a)][/us/pl/101/249/s2/a], Mar. 6, 1990, [104 Stat. 94][/us/stat/104/94]; [Pub. L. 107–273, div. C, title I, § 11030(b)][/us/pl/107/273/s11030/b], Nov. 2, 2002, [116 Stat. 1836][/us/stat/116/1836]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136], §§ 1703(g), 1704, Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], 1696.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title III, ch. 2, § 329A, as added [Pub. L. 101–249][/us/pl/101/249], § 2(a), Mar. 6, 1990, [104 Stat. 94][/us/stat/104/94]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11030(b), Nov. 2, 2002, [116 Stat. 1836][/us/stat/116/1836]; [Pub. L. 108–136, div. A, title XVII][/us/pl/108/136/dA/tXVII], §§ 1703(g), 1704, Nov. 24, 2003, [117 Stat. 1695][/us/stat/117/1695], 1696.)
 
  __Codification__ 
 
@@ -71,13 +71,13 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 1703(g)(2)][/us/pl/108/136/s1703/g/2], substituted “Secretary of Homeland Security” for “Attorney General” in two places.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1703(g)(2), substituted “Secretary of Homeland Security” for “Attorney General” in two places.
 
-    Subsec. (c). [Pub. L. 108–136, § 1704(1)][/us/pl/108/136/s1704/1], added heading and text of subsec. (c) and struck out former subsec. (c) which related to procedures for approval by the Attorney General of a request for the granting of posthumous citizenship.
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1704(1), added heading and text of subsec. (c) and struck out former subsec. (c) which related to procedures for approval by the Attorney General of a request for the granting of posthumous citizenship.
 
-    Subsec. (d). [Pub. L. 108–136, § 1704(2)][/us/pl/108/136/s1704/2], added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.”
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person’s death.”
 
-    Subsec. (e). [Pub. L. 108–136, § 1703(g)(1)][/us/pl/108/136/s1703/g/1], struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section or [section 1430(d) of this title][/us/usc/t8/s1430/d] shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.”
+    Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 1703(g)(1), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section or [section 1430(d) of this title][/us/usc/t8/s1430/d] shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.”
 
     2002—Subsec. (c)(1)(A). [Pub. L. 107–273][/us/pl/107/273] substituted “November 2, 2002,” for “March 6, 1990,”.
 
@@ -85,15 +85,9 @@
 
     Amendment by [Pub. L. 108–136][/us/pl/108/136] effective as if enacted Sept. 11, 2001, see [section 1705 of Pub. L. 108–136][/us/pl/108/136/s1705], set out in a note under [section 1439 of this title][/us/usc/t8/s1439].
 
-§§ 1440a to 1440d. __Omitted__ 
-
- __Codification__ 
-
-    Sections, [act June 30, 1953, ch. 162][/us/act/1953-06-30/ch162], §§ 1–4, [67 Stat. 108–110][/us/stat/67/108-110], which authorized naturalization of persons who served in the Armed Forces after June 29, 1950, and not later than July 1, 1955, were omitted as obsolete, since the provisions of section 1 of act June 30, 1953, required the petition for naturalization to be filed not later than December 31, 1955. See sections 1440 and 1440e of this title.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
+[Previous](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440.md) | [Next](./../../../../../..//us/usc/t8/ch12/schIII/ptII/m__us_usc_t8_s1440a...1440d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%E2%80%931)
 
 ----------
 ----------
@@ -101,23 +95,21 @@
 [/us/usc/t8/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%2Fa
 [/us/usc/t8/s1440/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1440%2Fa
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/pl/101/249/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F249%2Fs2%2Fa
+[/us/pl/101/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F249
 [/us/stat/104/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F94
-[/us/pl/107/273/s11030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11030%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1836
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVII
 [/us/stat/117/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1695
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s1703/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Fg%2F2
-[/us/pl/108/136/s1704/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1704%2F1
-[/us/pl/108/136/s1704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1704%2F2
-[/us/pl/108/136/s1703/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1703%2Fg%2F1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t8/s1430/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1430%2Fd
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1705
 [/us/usc/t8/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439
-[/us/act/1953-06-30/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch162
-[/us/stat/67/108-110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F108-110
 
 

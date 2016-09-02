@@ -33,7 +33,7 @@
 
         The Immigration and Naturalization Service shall respond to an inquiry by a Federal, State, or local government agency, seeking to verify or ascertain the citizenship or immigration status of any individual within the jurisdiction of the agency for any purpose authorized by law, by providing the requested verification or status information.
 
-([Pub. L. 104–208, div. C, title VI, § 642][/us/pl/104/208/s642], Sept. 30, 1996, [110 Stat. 3009–707][/us/stat/110/3009-707].)
+([Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 642, Sept. 30, 1996, [110 Stat. 3009–707][/us/stat/110/3009-707].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs642
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-707
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

@@ -29,7 +29,7 @@
 
         Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a). The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
 
-([Pub. L. 107–173, title VI, § 602][/us/pl/107/173/s602], May 14, 2002, [116 Stat. 564][/us/stat/116/564].)
+([Pub. L. 107–173, title VI][/us/pl/107/173/tVI], § 602, May 14, 2002, [116 Stat. 564][/us/stat/116/564].)
 
  __Change of Name__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/107/173/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs602
+[/us/pl/107/173/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2FtVI
 [/us/stat/116/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F564
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
