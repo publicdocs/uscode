@@ -21,11 +21,11 @@
 
     (b) __Charges for transmission of safety information__ 
 
-        No charge shall be made by any ship or station in the mobile service of the United States for the transmission, receipt, or relay of the information designated in subsection (a) of this section originating on a ship of the United States or of a foreign country.
+        No charge shall be made by any ship or station in the mobile service of the United States for the transmission, receipt, or relay of the information designated in subsection (a) originating on a ship of the United States or of a foreign country.
 
     (c) __Reimbursement by Commission__ 
 
-        The transmission by any ship of the United States, made in compliance with subsection (a) of this section, to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
+        The transmission by any ship of the United States, made in compliance with subsection (a), to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
 
     (d) __Charges for transmission of distress messages__ 
 

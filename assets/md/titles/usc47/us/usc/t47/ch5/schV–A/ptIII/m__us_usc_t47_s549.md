@@ -21,11 +21,11 @@
 
     (b) __Protection of system security__ 
 
-        The Commission shall not prescribe regulations under subsection (a) of this section which would jeopardize security of multichannel video programming and other services offered over multichannel video programming systems, or impede the legal rights of a provider of such services to prevent theft of service.
+        The Commission shall not prescribe regulations under subsection (a) which would jeopardize security of multichannel video programming and other services offered over multichannel video programming systems, or impede the legal rights of a provider of such services to prevent theft of service.
 
     (c) __Waiver__ 
 
-        The Commission shall waive a regulation adopted under subsection (a) of this section for a limited time upon an appropriate showing by a provider of multichannel video programming and other services offered over multichannel video programming systems, or an equipment provider, that such waiver is necessary to assist the development or introduction of a new or improved multichannel video programming or other service offered over multichannel video programming systems, technology, or products. Upon an appropriate showing, the Commission shall grant any such waiver request within 90 days of any application filed under this subsection, and such waiver shall be effective for all service providers and products in that category and for all providers of services and products.
+        The Commission shall waive a regulation adopted under subsection (a) for a limited time upon an appropriate showing by a provider of multichannel video programming and other services offered over multichannel video programming systems, or an equipment provider, that such waiver is necessary to assist the development or introduction of a new or improved multichannel video programming or other service offered over multichannel video programming systems, technology, or products. Upon an appropriate showing, the Commission shall grant any such waiver request within 90 days of any application filed under this subsection, and such waiver shall be effective for all service providers and products in that category and for all providers of services and products.
 
     (d) __Avoidance of redundant regulations__ 
 

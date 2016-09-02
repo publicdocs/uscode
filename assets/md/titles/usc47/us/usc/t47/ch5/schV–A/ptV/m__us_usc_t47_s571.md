@@ -19,11 +19,11 @@
 
         (1) __Radio-based systems__ 
 
-            To the extent that a common carrier (or any other person) is providing video programming to subscribers using radio communication, such carrier (or other person) shall be subject to the requirements of subchapter III of this chapter and [section 572 of this title][/us/usc/t47/s572], but shall not otherwise be subject to the requirements of this subchapter.
+            To the extent that a common carrier (or any other person) is providing video programming to subscribers using radio communication, such carrier (or other person) shall be subject to the requirements of subchapter III and [section 572 of this title][/us/usc/t47/s572], but shall not otherwise be subject to the requirements of this subchapter.
 
         (2) __Common carriage of video traffic__ 
 
-            To the extent that a common carrier is providing transmission of video programming on a common carrier basis, such carrier shall be subject to the requirements of subchapter II of this chapter and [section 572 of this title][/us/usc/t47/s572], but shall not otherwise be subject to the requirements of this subchapter. This paragraph shall not affect the treatment under [section 522(7)(C) of this title][/us/usc/t47/s522/7/C] of a facility of a common carrier as a cable system.
+            To the extent that a common carrier is providing transmission of video programming on a common carrier basis, such carrier shall be subject to the requirements of subchapter II and [section 572 of this title][/us/usc/t47/s572], but shall not otherwise be subject to the requirements of this subchapter. This paragraph shall not affect the treatment under [section 522(7)(C) of this title][/us/usc/t47/s522/7/C] of a facility of a common carrier as a cable system.
 
         (3) __Cable systems and open video systems__ 
 

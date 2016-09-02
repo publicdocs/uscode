@@ -39,7 +39,7 @@
 
     (c) __Penalties__ 
 
-        Whoever violates subsection (a) of this section shall be fined not more than $10,000 or imprisoned not more than one year, or both.
+        Whoever violates subsection (a) shall be fined not more than $10,000 or imprisoned not more than one year, or both.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 508, formerly § 509, as added [Pub. L. 86–752][/us/pl/86/752], § 9, Sept. 13, 1960, [74 Stat. 897][/us/stat/74/897]; renumbered § 508, [Pub. L. 96–507][/us/pl/96/507], § 1, Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
 

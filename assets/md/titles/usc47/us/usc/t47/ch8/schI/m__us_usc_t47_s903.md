@@ -21,7 +21,7 @@
 
     (b) __Requirements for revisions__ 
 
-    The amendments required by subsection (a) of this section shall—
+    The amendments required by subsection (a) shall—
 
         (1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
 
@@ -59,7 +59,7 @@
 
         (1) __Amendment to manual required__ 
 
-        Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) of this section to require that—
+        Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
 
             (A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to [section 902(b)(2)(A) of this title][/us/usc/t47/s902/b/2/A] for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 

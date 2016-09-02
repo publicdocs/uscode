@@ -21,7 +21,7 @@
 
     (b) __Implementation__ 
 
-        Until a multichannel video programming distributor complies with the requirement set forth in subsection (a) of this section, the distributor shall limit the access of children to the programming referred to in that subsection by not providing such programming during the hours of the day (as determined by the Commission) when a significant number of children are likely to view it.
+        Until a multichannel video programming distributor complies with the requirement set forth in subsection (a), the distributor shall limit the access of children to the programming referred to in that subsection by not providing such programming during the hours of the day (as determined by the Commission) when a significant number of children are likely to view it.
 
     (c) __“Scramble” defined__ 
 

@@ -21,11 +21,11 @@
 
     (b) __Discrimination prohibited__ 
 
-        Equal opportunity in employment shall be afforded by each entity specified in subsection (a) of this section, and no person shall be discriminated against in employment by such entity because of race, color, religion, national origin, age, or sex.
+        Equal opportunity in employment shall be afforded by each entity specified in subsection (a), and no person shall be discriminated against in employment by such entity because of race, color, religion, national origin, age, or sex.
 
     (c) __Equal opportunity programs; establishment; maintenance; execution; terms__ 
 
-    Any entity specified in subsection (a) of this section shall establish, maintain, and execute a positive continuing program of specific practices designed to ensure equal opportunity in every aspect of its employment policies and practices. Under the terms of its program, each such entity shall—
+    Any entity specified in subsection (a) shall establish, maintain, and execute a positive continuing program of specific practices designed to ensure equal opportunity in every aspect of its employment policies and practices. Under the terms of its program, each such entity shall—
 
         (1) define the responsibility of each level of management to ensure a positive application and vigorous enforcement of its policy of equal opportunity, and establish a procedure to review and control managerial and supervisory performance;
 
@@ -43,7 +43,7 @@
 
         (2)
 
-         Such rules shall specify the terms under which an entity specified in subsection (a) of this section shall, to the extent possible—
+         Such rules shall specify the terms under which an entity specified in subsection (a) shall, to the extent possible—
 
             (A) disseminate its equal opportunity program to job applicants, employees, and those with whom it regularly does business;
 
@@ -61,7 +61,7 @@
 
             (A)
 
-             Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race, sex, and job title the number of employees in each of the following full-time and part-time job categories:
+             Such rules also shall require an entity specified in subsection (a) with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race, sex, and job title the number of employees in each of the following full-time and part-time job categories:
 
                 (i) Corporate officers.
 
@@ -99,15 +99,15 @@
 
     (e) __Annual certification of compliance; periodic investigation of employment practices__ 
 
-        (1) On an annual basis, the Commission shall certify each entity described in subsection (a) of this section as in compliance with this section if, on the basis of information in the possession of the Commission, including the report filed pursuant to subsection (d)(3) of this section, such entity was in compliance, during the annual period involved, with the requirements of subsections (b), (c), and (d) of this section.
+        (1) On an annual basis, the Commission shall certify each entity described in subsection (a) as in compliance with this section if, on the basis of information in the possession of the Commission, including the report filed pursuant to subsection (d)(3), such entity was in compliance, during the annual period involved, with the requirements of subsections (b), (c), and (d).
 
-        (2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a) of this section, in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d) of this section, including whether such entity’s employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity’s reports filed pursuant to subsection (d)(3) of this section accurately reflect employee responsibilities in the reported job classifications.
+        (2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a), in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d), including whether such entity’s employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity’s reports filed pursuant to subsection (d)(3) accurately reflect employee responsibilities in the reported job classifications.
 
     (f) __Substantial failure to comply; penalties; notice to public and franchising authorities__ 
 
-        (1) If the Commission finds after notice and hearing that the entity involved has willfully or repeatedly without good cause failed to comply with the requirements of this section, such failure shall constitute a substantial failure to comply with this subchapter. The failure to obtain certification under subsection (e) of this section shall not itself constitute the basis for a determination of substantial failure to comply with this title. For purposes of this paragraph, the term “repeatedly”, when used with respect to failures to comply, refers to 3 or more failures during any 7-year period.
+        (1) If the Commission finds after notice and hearing that the entity involved has willfully or repeatedly without good cause failed to comply with the requirements of this section, such failure shall constitute a substantial failure to comply with this subchapter. The failure to obtain certification under subsection (e) shall not itself constitute the basis for a determination of substantial failure to comply with this title. For purposes of this paragraph, the term “repeatedly”, when used with respect to failures to comply, refers to 3 or more failures during any 7-year period.
 
-        (2) Any person who is determined by the Commission, through an investigation pursuant to subsection (e) of this section or otherwise, to have failed to meet or failed to make best efforts to meet the requirements of this section, or rules under this section, shall be liable to the United States for a forfeiture penalty of $500 for each violation. Each day of a continuing violation shall constitute a separate offense. Any entity defined in subsection (a) of this section shall not be liable for more than 180 days of forfeitures which accrued prior to notification by the Commission of a potential violation. Nothing in this paragraph shall limit the forfeiture imposed on any person as a result of any violation that continues subsequent to such notification. In addition, any person liable for such penalty may also have any license under this chapter for cable auxiliary relay service suspended until the Commission determines that the failure involved has been corrected. Whoever knowingly makes any false statement or submits documentation which he knows to be false, pursuant to an application for certification under this section shall be in violation of this section.
+        (2) Any person who is determined by the Commission, through an investigation pursuant to subsection (e) or otherwise, to have failed to meet or failed to make best efforts to meet the requirements of this section, or rules under this section, shall be liable to the United States for a forfeiture penalty of $500 for each violation. Each day of a continuing violation shall constitute a separate offense. Any entity defined in subsection (a) shall not be liable for more than 180 days of forfeitures which accrued prior to notification by the Commission of a potential violation. Nothing in this paragraph shall limit the forfeiture imposed on any person as a result of any violation that continues subsequent to such notification. In addition, any person liable for such penalty may also have any license under this chapter for cable auxiliary relay service suspended until the Commission determines that the failure involved has been corrected. Whoever knowingly makes any false statement or submits documentation which he knows to be false, pursuant to an application for certification under this section shall be in violation of this section.
 
         (3) The provisions of paragraphs (3) and (4), and the last 2 sentences of paragraph (2), of [section 503(b) of this title][/us/usc/t47/s503/b] shall apply to forfeitures under this subsection.
 
@@ -115,7 +115,7 @@
 
     (g) __Discrimination complaints; investigation; enforcement__ 
 
-        Employees or applicants for employment who believe they have been discriminated against in violation of the requirements of this section, or rules under this section, or any other interested person, may file a complaint with the Commission. A complaint by any such person shall be in writing, and shall be signed and sworn to by that person. The regulations under subsection (d)(1) of this section shall specify a program, under authorities otherwise available to the Commission, for the investigation of complaints and violations, and for the enforcement of this section.
+        Employees or applicants for employment who believe they have been discriminated against in violation of the requirements of this section, or rules under this section, or any other interested person, may file a complaint with the Commission. A complaint by any such person shall be in writing, and shall be signed and sworn to by that person. The regulations under subsection (d)(1) shall specify a program, under authorities otherwise available to the Commission, for the investigation of complaints and violations, and for the enforcement of this section.
 
     (h) __“Cable operator” defined; owners of multiple unit dwellings__ 
 

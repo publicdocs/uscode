@@ -25,11 +25,11 @@
 
     (b) __Midterm review__ 
 
-        The Commission shall revise the regulations described in subsection (a) of this section to require a midterm review of television broadcast station licensees’ employment practices and to require the Commission to inform such licensees of necessary improvements in recruitment practices identified as a consequence of such review.
+        The Commission shall revise the regulations described in subsection (a) to require a midterm review of television broadcast station licensees’ employment practices and to require the Commission to inform such licensees of necessary improvements in recruitment practices identified as a consequence of such review.
 
     (c) __Authority to make technical revisions__ 
 
-        The Commission may revise the regulations described in subsection (a) of this section to make nonsubstantive technical or clerical revisions in such regulations as necessary to reflect changes in technology, terminology, or Commission organization.
+        The Commission may revise the regulations described in subsection (a) to make nonsubstantive technical or clerical revisions in such regulations as necessary to reflect changes in technology, terminology, or Commission organization.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 334, as added [Pub. L. 102–385][/us/pl/102/385], § 22(f), Oct. 5, 1992, [106 Stat. 1499][/us/stat/106/1499].)
 

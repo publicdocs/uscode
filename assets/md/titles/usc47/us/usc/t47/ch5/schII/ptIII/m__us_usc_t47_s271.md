@@ -23,19 +23,19 @@
 
         (1) __In-region services__ 
 
-            A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
+            A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i)) if the Commission approves the application of such company for such State under subsection (d)(3).
 
         (2) __Out-of-region services__ 
 
-            A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating outside its in-region States after February 8, 1996, subject to subsection (j) of this section.
+            A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating outside its in-region States after February 8, 1996, subject to subsection (j).
 
         (3) __Incidental interLATA services__ 
 
-            A Bell operating company, or any affiliate of a Bell operating company, may provide incidental interLATA services (as defined in subsection (g) of this section) originating in any State after February 8, 1996.
+            A Bell operating company, or any affiliate of a Bell operating company, may provide incidental interLATA services (as defined in subsection (g)) originating in any State after February 8, 1996.
 
         (4) __Termination__ 
 
-            Nothing in this section prohibits a Bell operating company or any of its affiliates from providing termination for interLATA services, subject to subsection (j) of this section.
+            Nothing in this section prohibits a Bell operating company or any of its affiliates from providing termination for interLATA services, subject to subsection (j).
 
     (c) __Requirements for providing certain in-region interLATA services__ 
 
@@ -49,7 +49,7 @@
 
             (B) __Failure to request access__ 
 
-                A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under [section 252(f) of this title][/us/usc/t47/s252/f]. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by [section 252 of this title][/us/usc/t47/s252], or (ii) violated the terms of an agreement approved under [section 252 of this title][/us/usc/t47/s252] by the provider’s failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
+                A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1), and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under [section 252(f) of this title][/us/usc/t47/s252/f]. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by [section 252 of this title][/us/usc/t47/s252], or (ii) violated the terms of an agreement approved under [section 252 of this title][/us/usc/t47/s252] by the provider’s failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
 
         (2) __Specific interconnection requirements__ 
 
@@ -119,7 +119,7 @@
 
             (B) __Consultation with State commissions__ 
 
-                Before making any determination under this subsection, the Commission shall consult with the State commission of any State that is the subject of the application in order to verify the compliance of the Bell operating company with the requirements of subsection (c) of this section.
+                Before making any determination under this subsection, the Commission shall consult with the State commission of any State that is the subject of the application in order to verify the compliance of the Bell operating company with the requirements of subsection (c).
 
         (3) __Determination__ 
 
@@ -127,11 +127,11 @@
 
             (A)
 
-             the petitioning Bell operating company has met the requirements of subsection (c)(1) of this section and—
+             the petitioning Bell operating company has met the requirements of subsection (c)(1) and—
 
-                (i) with respect to access and interconnection provided pursuant to subsection (c)(1)(A) of this section, has fully implemented the competitive checklist in subsection (c)(2)(B) of this section; or
+                (i) with respect to access and interconnection provided pursuant to subsection (c)(1)(A), has fully implemented the competitive checklist in subsection (c)(2)(B); or
 
-                (ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B) of this section, such statement offers all of the items included in the competitive checklist in subsection (c)(2)(B) of this section;
+                (ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B), such statement offers all of the items included in the competitive checklist in subsection (c)(2)(B);
 
             (B) the requested authorization will be carried out in accordance with the requirements of [section 272 of this title][/us/usc/t47/s272]; and
 
@@ -141,7 +141,7 @@
 
         (4) __Limitation on Commission__ 
 
-            The Commission may not, by rule or otherwise, limit or extend the terms used in the competitive checklist set forth in subsection (c)(2)(B) of this section.
+            The Commission may not, by rule or otherwise, limit or extend the terms used in the competitive checklist set forth in subsection (c)(2)(B).
 
         (5) __Publication__ 
 
@@ -155,7 +155,7 @@
 
                 (i) issue an order to such company to correct the deficiency;
 
-                (ii) impose a penalty on such company pursuant to subchapter V of this chapter; or
+                (ii) impose a penalty on such company pursuant to subchapter V; or
 
                 (iii) suspend or revoke such approval.
 
@@ -167,13 +167,13 @@
 
         (1) __Joint marketing of local and long distance services__ 
 
-            Until a Bell operating company is authorized pursuant to subsection (d) of this section to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation’s presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to [section 251(c)(4) of this title][/us/usc/t47/s251/c/4] with interLATA services offered by that telecommunications carrier.
+            Until a Bell operating company is authorized pursuant to subsection (d) to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation’s presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to [section 251(c)(4) of this title][/us/usc/t47/s251/c/4] with interLATA services offered by that telecommunications carrier.
 
         (2) __IntraLATA toll dialing parity__ 
 
             (A) __Provision required__ 
 
-                A Bell operating company granted authority to provide interLATA services under subsection (d) of this section shall provide intraLATA toll dialing parity throughout that State coincident with its exercise of that authority.
+                A Bell operating company granted authority to provide interLATA services under subsection (d) shall provide intraLATA toll dialing parity throughout that State coincident with its exercise of that authority.
 
             (B) __Limitation__ 
 
@@ -181,7 +181,7 @@
 
     (f) __Exception for previously authorized activities__ 
 
-        Neither subsection (a) of this section nor [section 273 of this title][/us/usc/t47/s273] shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
+        Neither subsection (a) nor [section 273 of this title][/us/usc/t47/s273] shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
 
     (g) __“Incidental interLATA services” defined__ 
 
@@ -209,7 +209,7 @@
 
     (h) __Limitations__ 
 
-        The provisions of subsection (g) of this section are intended to be narrowly construed. The interLATA services provided under subparagraph (A), (B), or (C) of subsection (g)(1) of this section are limited to those interLATA transmissions incidental to the provision by a Bell operating company or its affiliate of video, audio, and other programming services that the company or its affiliate is engaged in providing to the public. The Commission shall ensure that the provision of services authorized under subsection (g) of this section by a Bell operating company or its affiliate will not adversely affect telephone exchange service ratepayers or competition in any telecommunications market.
+        The provisions of subsection (g) are intended to be narrowly construed. The interLATA services provided under subparagraph (A), (B), or (C) of subsection (g)(1) are limited to those interLATA transmissions incidental to the provision by a Bell operating company or its affiliate of video, audio, and other programming services that the company or its affiliate is engaged in providing to the public. The Commission shall ensure that the provision of services authorized under subsection (g) by a Bell operating company or its affiliate will not adversely affect telephone exchange service ratepayers or competition in any telecommunications market.
 
     (i) __Additional definitions__ 
 
@@ -235,7 +235,7 @@
 
         (2) allow the called party to determine the interLATA carrier,
 
-        shall be considered an in-region service subject to the requirements of subsection (b)(1) of this section.
+        shall be considered an in-region service subject to the requirements of subsection (b)(1).
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 271, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [110 Stat. 86][/us/stat/110/86].)
 

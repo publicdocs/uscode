@@ -125,7 +125,7 @@
 
     (b) __Common terminology__ 
 
-        Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in [section 153 of this title][/us/usc/t47/s153] have the meanings provided in such section.
+        Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in [section 153 of this title][/us/usc/t47/s153] have the meanings provided in such section.
 
 ([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 681, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 58][/us/stat/114/58].)
 

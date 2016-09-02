@@ -35,7 +35,7 @@
 
     (c) __Expedited consideration of complaints__ 
 
-        The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) of this section or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in [section 251(h) of this title][/us/usc/t47/s251/h]) and its affiliates to cease engaging in such violation pending such final determination.
+        The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in [section 251(h) of this title][/us/usc/t47/s251/h]) and its affiliates to cease engaging in such violation pending such final determination.
 
     (d) __Use of data__ 
 

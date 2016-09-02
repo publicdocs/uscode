@@ -41,9 +41,9 @@
 
     (d) __Limitations__ 
 
-        (1) The exemption provided in subsection (c) of this section shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
+        (1) The exemption provided in subsection (c) shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
 
-        (2) The exemption provided in subsection (c) of this section shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990.
+        (2) The exemption provided in subsection (c) shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990.
 
 ([Pub. L. 101–650, title V][/us/pl/101/650/tV], § 501, Dec. 1, 1990, [104 Stat. 5127][/us/stat/104/5127].)
 

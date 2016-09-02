@@ -15,7 +15,7 @@
 
 ## § 767. Methods to pursue privatization
 
-    The President shall secure the pro-competitive privatizations required by this subchapter in a manner that meets the criteria in part B of this subchapter.
+    The President shall secure the pro-competitive privatizations required by this subchapter in a manner that meets the criteria in part B.
 
 ([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 661, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 58][/us/stat/114/58].)
 

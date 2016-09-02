@@ -25,7 +25,7 @@
 
     (b) __Contents of regulations__ 
 
-    In prescribing the regulations required by subsection (a) of this section, the Commission shall—
+    In prescribing the regulations required by subsection (a), the Commission shall—
 
         (1) only permit such licensee or permittee to offer ancillary or supplementary services if the use of a designated frequency for such services is consistent with the technology or method designated by the Commission for the provision of advanced television services;
 
@@ -49,7 +49,7 @@
 
         (1) __Services to which fees apply__ 
 
-        If the regulations prescribed pursuant to subsection (a) of this section permit a licensee to offer ancillary or supplementary services on a designated frequency—
+        If the regulations prescribed pursuant to subsection (a) permit a licensee to offer ancillary or supplementary services on a designated frequency—
 
             (A) for which the payment of a subscription fee is required in order to receive such services, or
 

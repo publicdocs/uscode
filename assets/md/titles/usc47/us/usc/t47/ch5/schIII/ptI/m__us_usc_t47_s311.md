@@ -27,7 +27,7 @@
 
     (b) __Place of hearing__ 
 
-        Hearings referred to in subsection (a) of this section may be held at such places as the Commission shall determine to be appropriate, and in making such determination in any case the Commission shall consider whether the public interest, convenience, or necessity will be served by conducting the hearing at a place in, or in the vicinity of, the principal area to be served by the station involved.
+        Hearings referred to in subsection (a) may be held at such places as the Commission shall determine to be appropriate, and in making such determination in any case the Commission shall consider whether the public interest, convenience, or necessity will be served by conducting the hearing at a place in, or in the vicinity of, the principal area to be served by the station involved.
 
     (c) __Agreement between two or more applicants; approval of Commission; pendency of application__ 
 

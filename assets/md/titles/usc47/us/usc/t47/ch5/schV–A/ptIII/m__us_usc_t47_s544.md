@@ -23,7 +23,7 @@
 
     In the case of any franchise granted after the effective date of this subchapter, the franchising authority, to the extent related to the establishment or operation of a cable system—
 
-        (1) in its request for proposals for a franchise (including requests for renewal proposals, subject to [section 546 of this title][/us/usc/t47/s546]), may establish requirements for facilities and equipment, but may not, except as provided in subsection (h) of this section, establish requirements for video programming or other information services; and
+        (1) in its request for proposals for a franchise (including requests for renewal proposals, subject to [section 546 of this title][/us/usc/t47/s546]), may establish requirements for facilities and equipment, but may not, except as provided in subsection (h), establish requirements for video programming or other information services; and
 
         (2)
 
@@ -105,7 +105,7 @@
 
     [Pub. L. 103–414][/us/pl/103/414], § 303(a)(23), inserted “of” after “restrict the viewing” in subpar. (A).
 
-    1992—Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 16(c)(1), inserted “, except as provided in subsection (h) of this section,” after “but may not”.
+    1992—Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 16(c)(1), inserted “, except as provided in subsection (h),” after “but may not”.
 
     Subsec. (d)(3). [Pub. L. 102–385][/us/pl/102/385], § 15, added par. (3).
 

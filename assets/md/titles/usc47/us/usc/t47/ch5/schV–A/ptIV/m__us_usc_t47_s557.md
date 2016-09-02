@@ -25,7 +25,7 @@
 
         shall remain in effect, subject to the express provisions of this subchapter, and for not longer than the then current remaining term of the franchise as such franchise existed on such effective date.
 
-    (b) For purposes of subsection (a) of this section and other provisions of this subchapter, a franchise shall be considered in effect on the effective date of this subchapter if such franchise was granted on or before such effective date.
+    (b) For purposes of subsection (a) and other provisions of this subchapter, a franchise shall be considered in effect on the effective date of this subchapter if such franchise was granted on or before such effective date.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 637, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2800][/us/stat/98/2800]; amended [Pub. L. 104–104][/us/pl/104/104], § 3(d)(3), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61].)
 

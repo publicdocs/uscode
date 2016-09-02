@@ -27,11 +27,11 @@
 
     (b) __Competitive effect to be weighed__ 
 
-        In making the determination under subsection (a)(3) of this section, the Commission shall consider whether forbearance from enforcing the provision or regulation will promote competitive market conditions, including the extent to which such forbearance will enhance competition among providers of telecommunications services. If the Commission determines that such forbearance will promote competition among providers of telecommunications services, that determination may be the basis for a Commission finding that forbearance is in the public interest.
+        In making the determination under subsection (a)(3), the Commission shall consider whether forbearance from enforcing the provision or regulation will promote competitive market conditions, including the extent to which such forbearance will enhance competition among providers of telecommunications services. If the Commission determines that such forbearance will promote competition among providers of telecommunications services, that determination may be the basis for a Commission finding that forbearance is in the public interest.
 
     (c) __Petition for forbearance__ 
 
-        Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by that carrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) of this section within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a) of this section. The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
+        Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by that carrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a). The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
 
     (d) __Limitation__ 
 
@@ -39,7 +39,7 @@
 
     (e) __State enforcement after Commission forbearance__ 
 
-        A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a) of this section.
+        A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a).
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 10, as added [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 401, Feb. 8, 1996, [110 Stat. 128][/us/stat/110/128].)
 

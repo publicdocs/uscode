@@ -23,7 +23,7 @@
 
         (2) __Compliance under accepted standards__ 
 
-            A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under [section 1002 of this title][/us/usc/t47/s1002], and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with [section 1005 of this title][/us/usc/t47/s1005], if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b) of this section, to meet the requirements of [section 1002 of this title][/us/usc/t47/s1002].
+            A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under [section 1002 of this title][/us/usc/t47/s1002], and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with [section 1005 of this title][/us/usc/t47/s1005], if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b), to meet the requirements of [section 1002 of this title][/us/usc/t47/s1002].
 
         (3) __Absence of standards__ 
 

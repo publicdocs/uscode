@@ -35,7 +35,7 @@
 
         (4) identify procedures by which common carriers and providers of pay-per-call services may take affirmative steps to protect against nonpayment of legitimate charges; and
 
-        (5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use of certain telephone number prefixes and area codes.
+        (5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) be offered only through the use of certain telephone number prefixes and area codes.
 
     (c) __Common carrier obligations__ 
 
@@ -43,11 +43,11 @@
 
         (1) __Contractual obligations to comply__ 
 
-            Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
+            Any common carrier assigning to a provider of pay-per-call services a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) shall require by contract or tariff that such provider comply with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\] and the regulations prescribed by the Federal Trade Commission pursuant to those titles.
 
         (2) __Information availability__ 
 
-        A common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service shall make readily available on request to Federal and State agencies and other interested persons—
+        A common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service shall make readily available on request to Federal and State agencies and other interested persons—
 
             (A) a list of the telephone numbers for each of the pay-per-call services it carries;
 
@@ -61,7 +61,7 @@
 
         (3) __Compliance procedures__ 
 
-            A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+            A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
 
         (4) __Subscriber disconnection prohibited__ 
 
@@ -75,7 +75,7 @@
 
              offer telephone subscribers (where technically feasible) the option of blocking access from their telephone number to all, or to certain specific, prefixes or area codes used by pay-per-call services, which option—
 
-                (i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b) of this section, and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
+                (i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b), and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
 
                 (ii) shall otherwise be offered at a reasonable fee; and
 
@@ -85,7 +85,7 @@
 
         (6) __Verification of charitable status__ 
 
-            A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
+            A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
 
         (7) __Billing for 800 calls__ 
 
@@ -191,7 +191,7 @@
 
     (d) __Billing and collection practices__ 
 
-    The regulations required by this section shall require that any common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of a pay-per-call service and that offers billing and collection services to such provider—
+    The regulations required by this section shall require that any common carrier that by tariff or contract assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of a pay-per-call service and that offers billing and collection services to such provider—
 
         (1)
 
@@ -203,7 +203,7 @@
 
         (2) establish a local or a toll-free telephone number to answer questions and provide information on subscribers’ rights and obligations with regard to their use of pay-per-call services and to provide to callers the name and mailing address of any provider of pay-per-call services offered by the common carrier;
 
-        (3) within 60 days after the issuance of final regulations pursuant to subsection (b) of this section, provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier’s telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
+        (3) within 60 days after the issuance of final regulations pursuant to subsection (b), provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier’s telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
 
         (4)
 
@@ -229,7 +229,7 @@
 
         (1) __Consumer refund requirements__ 
 
-            The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
+            The regulations required by subsection (d) shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[[15 U.S.C. 5711][/us/usc/t15/s5711] et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
 
         (2) __Recovery of costs__ 
 
@@ -285,7 +285,7 @@
 
             (B) for which the caller pays a per-call or per-time-interval charge that is greater than, or in addition to, the charge for transmission of the call; and
 
-            (C) which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section.
+            (C) which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5).
 
         (2) Such term does not include directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate, or any service for which users are assessed charges only after entering into a presubscription or comparable arrangement with the provider of such service.
 

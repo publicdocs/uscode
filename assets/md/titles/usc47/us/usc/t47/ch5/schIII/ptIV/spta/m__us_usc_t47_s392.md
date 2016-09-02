@@ -37,7 +37,7 @@
 
     (c) __Information and assurances__ 
 
-        The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) of this section to receive construction assistance.
+        The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
 
     (d) __Studies__ 
 
@@ -49,13 +49,13 @@
 
     (f) __Minorities and women__ 
 
-        In establishing criteria for grants pursuant to [section 393 of this title][/us/usc/t47/s393] and in establishing procedures relating to the order of priority established in subsection (e) of this section in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women’s ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
+        In establishing criteria for grants pursuant to [section 393 of this title][/us/usc/t47/s393] and in establishing procedures relating to the order of priority established in subsection (e) in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women’s ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
 
     (g) __Recovering funds__ 
 
     If, within 10 years after completion of any project for construction of public telecommunications facilities with respect to which a grant has been made under this section—
 
-        (1) the applicant or other owner of such facilities ceases to be an agency, institution, foundation, corporation, association, or other entity described in subsection (a)(1) of this section; or
+        (1) the applicant or other owner of such facilities ceases to be an agency, institution, foundation, corporation, association, or other entity described in subsection (a)(1); or
 
         (2) such facilities cease to be used primarily for the provision of public telecommunications services (or the use of such public telecommunications facilities for purposes other than the provision of public telecommunications services interferes with the provision of such public telecommunications services as required in this part);
 

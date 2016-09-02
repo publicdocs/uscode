@@ -37,7 +37,7 @@
 
     (d) __Compatibility__ 
 
-        Whenever the requirements of subsections (b) and (c) of this section are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
+        Whenever the requirements of subsections (b) and (c) are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
 
     (e) __Guidelines__ 
 

@@ -33,11 +33,11 @@
 
     (c) __Use of funds from offering services, etc.__ 
 
-        Any public broadcast station which engages in any offering specified in subsection (b)(1) of this section may not use any funds distributed by the Corporation under [section 396(k) of this title][/us/usc/t47/s396/k] to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
+        Any public broadcast station which engages in any offering specified in subsection (b)(1) may not use any funds distributed by the Corporation under [section 396(k) of this title][/us/usc/t47/s396/k] to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
 
     (d) __Development of accounting system__ 
 
-        Each public broadcast station which engages in the activity specified in subsection (b)(1) of this section shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
+        Each public broadcast station which engages in the activity specified in subsection (b)(1) shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 399B, as added [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1231, Aug. 13, 1981, [95 Stat. 731][/us/stat/95/731].)
 

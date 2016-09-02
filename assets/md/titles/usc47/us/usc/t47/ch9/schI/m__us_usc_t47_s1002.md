@@ -53,7 +53,7 @@
 
         (2) __Information services; private networks and interconnection services and facilities__ 
 
-        The requirements of subsection (a) of this section do not apply to—
+        The requirements of subsection (a) do not apply to—
 
             (A) information services; or
 
@@ -65,7 +65,7 @@
 
     (c) __Emergency or exigent circumstances__ 
 
-        In emergency or exigent circumstances (including those described in sections 2518(7) or (11)(b) and 3125 of title 18 and [section 1805(e) of title 50][/us/usc/t50/s1805/e]), a carrier at its discretion may comply with subsection (a)(3) of this section by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.
+        In emergency or exigent circumstances (including those described in sections 2518(7) or (11)(b) and 3125 of title 18 and [section 1805(e) of title 50][/us/usc/t50/s1805/e]), a carrier at its discretion may comply with subsection (a)(3) by allowing monitoring at its premises if that is the only means of accomplishing the interception or access.
 
     (d) __Mobile service assistance requirements__ 
 

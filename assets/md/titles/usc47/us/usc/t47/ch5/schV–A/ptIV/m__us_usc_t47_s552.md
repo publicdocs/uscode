@@ -45,7 +45,7 @@
 
         (2) __Customer service requirement agreements__ 
 
-            Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b) of this section. Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
+            Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b). Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 632, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2796][/us/stat/98/2796]; amended [Pub. L. 102–385][/us/pl/102/385], § 8, Oct. 5, 1992, [106 Stat. 1484][/us/stat/106/1484]; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(g), Feb. 8, 1996, [110 Stat. 117][/us/stat/110/117].)
 

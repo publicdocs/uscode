@@ -47,7 +47,7 @@
 
     All moneys deposited into the accounts of the Fund shall be used solely for—
 
-        (1) the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f) of this section;
+        (1) the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f);
 
         (2) the provision of financial advice to eligible small businesses;
 
@@ -71,7 +71,7 @@
 
     (g) __Return of advances__ 
 
-        Any advances appropriated pursuant to subsection (d)(1) of this section shall be disbursed upon such terms and conditions (including conditions relating to the time or times of repayment) as are specified in any appropriations Act providing such advances.
+        Any advances appropriated pursuant to subsection (d)(1) shall be disbursed upon such terms and conditions (including conditions relating to the time or times of repayment) as are specified in any appropriations Act providing such advances.
 
     (h) __General corporate powers__ 
 

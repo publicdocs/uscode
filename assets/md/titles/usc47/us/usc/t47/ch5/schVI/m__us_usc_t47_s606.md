@@ -37,11 +37,11 @@
 
     (f) __Affect on State laws and powers__ 
 
-        Nothing in subsection (c) or (d) of this section shall be construed to amend, repeal, impair, or affect existing laws or powers of the States in relation to taxation or the lawful police regulations of the several States, except wherein such laws, powers, or regulations may affect the transmission of Government communications, or the issue of stocks and bonds by any communication system or systems.
+        Nothing in subsection (c) or (d) shall be construed to amend, repeal, impair, or affect existing laws or powers of the States in relation to taxation or the lawful police regulations of the several States, except wherein such laws, powers, or regulations may affect the transmission of Government communications, or the issue of stocks and bonds by any communication system or systems.
 
     (g) __Limitations upon Presidential power__ 
 
-        Nothing in subsection (c) or (d) of this section shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
+        Nothing in subsection (c) or (d) shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
 
     (h) __Penalties__ 
 

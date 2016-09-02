@@ -21,7 +21,7 @@
 
     (b) __Application approval__ 
 
-    The Secretary may approve an application submitted under subsection (a) of this section if he determines that—
+    The Secretary may approve an application submitted under subsection (a) if he determines that—
 
         (1) the project for which application is made will demonstrate innovative methods or techniques of utilizing nonbroadcast telecommunications equipment or facilities to satisfy the purpose of this subpart;
 

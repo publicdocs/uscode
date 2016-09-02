@@ -21,15 +21,15 @@
 
     (b) __National policy__ 
 
-        In carrying out subsection (a) of this section, the Commission shall seek to promote the policies and purposes of this chapter favoring diversity of media voices, vigorous economic competition, technological advancement, and promotion of the public interest, convenience, and necessity.
+        In carrying out subsection (a), the Commission shall seek to promote the policies and purposes of this chapter favoring diversity of media voices, vigorous economic competition, technological advancement, and promotion of the public interest, convenience, and necessity.
 
     (c) __Periodic review__ 
 
-    Every 3 years following the completion of the proceeding required by subsection (a) of this section, the Commission shall review and report to Congress on—
+    Every 3 years following the completion of the proceeding required by subsection (a), the Commission shall review and report to Congress on—
 
-        (1) any regulations prescribed to eliminate barriers within its jurisdiction that are identified under subsection (a) of this section and that can be prescribed consistent with the public interest, convenience, and necessity; and
+        (1) any regulations prescribed to eliminate barriers within its jurisdiction that are identified under subsection (a) and that can be prescribed consistent with the public interest, convenience, and necessity; and
 
-        (2) the statutory barriers identified under subsection (a) of this section that the Commission recommends be eliminated, consistent with the public interest, convenience, and necessity.
+        (2) the statutory barriers identified under subsection (a) that the Commission recommends be eliminated, consistent with the public interest, convenience, and necessity.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 257, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 77][/us/stat/110/77].)
 

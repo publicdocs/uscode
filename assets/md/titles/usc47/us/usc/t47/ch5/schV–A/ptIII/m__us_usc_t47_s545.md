@@ -29,7 +29,7 @@
 
     (b) __Judicial proceedings; grounds for modification by court__ 
 
-        (1) Any cable operator whose request for modification under subsection (a) of this section has been denied by a final decision of a franchising authority may obtain modification of such franchise requirements pursuant to the provisions of [section 555 of this title][/us/usc/t47/s555].
+        (1) Any cable operator whose request for modification under subsection (a) has been denied by a final decision of a franchising authority may obtain modification of such franchise requirements pursuant to the provisions of [section 555 of this title][/us/usc/t47/s555].
 
         (2)
 
@@ -43,7 +43,7 @@
 
     (c) __Rearrangement, replacement, or removal of service__ 
 
-    Notwithstanding subsections (a) and (b) of this section, a cable operator may, upon 30 days’ advance notice to the franchising authority, rearrange, replace, or remove a particular cable service required by the franchise if—
+    Notwithstanding subsections (a) and (b), a cable operator may, upon 30 days’ advance notice to the franchising authority, rearrange, replace, or remove a particular cable service required by the franchise if—
 
         (1) such service is no longer available to the operator; or
 
@@ -57,7 +57,7 @@
 
     (d) __Rearrangement of particular services from one service tier to another or other offering of service__ 
 
-        Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under [section 543 of this title][/us/usc/t47/s543].
+        Notwithstanding subsections (a) and (b), a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under [section 543 of this title][/us/usc/t47/s543].
 
     (e) __Requirements for services relating to public, educational, or governmental access__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Contents of reports__ 
 
-    The reports submitted pursuant to subsection (a) of this section shall include the following:
+    The reports submitted pursuant to subsection (a) shall include the following:
 
         (1) Progress with respect to each objective since the most recent preceding report.
 

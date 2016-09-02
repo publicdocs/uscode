@@ -21,7 +21,7 @@
 
     (b) __Remission and mitigation__ 
 
-        The forfeitures imposed by subchapter II of this chapter, parts II and III of subchapter III of this chapter, and sections 503(b) and 507 of this title shall be subject to remission or mitigation by the Commission under such regulations and methods of ascertaining the facts as may seem to it advisable, and, if suit has been instituted, the Attorney General, upon request of the Commission, shall direct the discontinuance of any prosecution to recover such forfeitures: Provided, however, That no forfeiture shall be remitted or mitigated after determination by a court of competent jurisdiction.
+        The forfeitures imposed by subchapter II, parts II and III of subchapter III, and sections 503(b) and 507 of this title shall be subject to remission or mitigation by the Commission under such regulations and methods of ascertaining the facts as may seem to it advisable, and, if suit has been instituted, the Attorney General, upon request of the Commission, shall direct the discontinuance of any prosecution to recover such forfeitures: Provided, however, That no forfeiture shall be remitted or mitigated after determination by a court of competent jurisdiction.
 
     (c) __Use of notice of apparent liability__ 
 
@@ -33,7 +33,7 @@
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
-    Parts II and III of subchapter III of this chapter, referred to in subsec. (b), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
+    Parts II and III of subchapter III, referred to in subsec. (b), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
  __Amendments__ 
 

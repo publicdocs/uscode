@@ -51,7 +51,7 @@
 
         (6) __Access to advanced telecommunications services for schools, health care, and libraries__ 
 
-            Elementary and secondary schools and classrooms, health care providers, and libraries should have access to advanced telecommunications services as described in subsection (h) of this section.
+            Elementary and secondary schools and classrooms, health care providers, and libraries should have access to advanced telecommunications services as described in subsection (h).
 
         (7) __Additional principles__ 
 
@@ -77,7 +77,7 @@
 
         (3) __Special services__ 
 
-            In addition to the services included in the definition of universal service under paragraph (1), the Commission may designate additional services for such support mechanisms for schools, libraries, and health care providers for the purposes of subsection (h) of this section.
+            In addition to the services included in the definition of universal service under paragraph (1), the Commission may designate additional services for such support mechanisms for schools, libraries, and health care providers for the purposes of subsection (h).
 
     (d) __Telecommunications carrier contribution__ 
 
@@ -105,7 +105,7 @@
 
             (B) __Educational providers and libraries__ 
 
-            All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
+            All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3), provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
 
                 (i) have an amount equal to the amount of the discount treated as an offset to its obligation to contribute to the mechanisms to preserve and advance universal service, or
 
@@ -137,7 +137,7 @@
 
                     (I) submits to the Commission the certifications described in subparagraphs (B) and (C);
 
-                    (II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection (l) of this section; and
+                    (II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection (l); and
 
                     (III) ensures the use of such computers in accordance with the certifications.
 
@@ -245,7 +245,7 @@
 
                     (I) submits to the Commission the certifications described in subparagraphs (B) and (C); and
 
-                    (II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the library under subsection (l) of this section; and
+                    (II) submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the library under subsection (l); and
 
                     (III) ensures the use of such computers in accordance with the certifications.
 
@@ -363,9 +363,11 @@
 
                 (v) not-for-profit hospitals;
 
-                (vi) rural health clinics; and
+                (vi) rural health clinics;
 
-                (vii) consortia of health care providers consisting of one or more entities described in clauses (i) through (vi).
+                (vii) skilled nursing facilities (as defined in [section 395i–3(a) of title 42][/us/usc/t42/s395i–3/a]); and
+
+                (viii) consortia of health care providers consisting of one or more entities described in clauses (i) through (vii).
 
             (C) __Public institutional telecommunications user__ 
 
@@ -417,7 +419,7 @@
 
         (1) __In general__ 
 
-        In carrying out its responsibilities under subsection (h) of this section, each school or library to which subsection (h) of this section applies shall—
+        In carrying out its responsibilities under subsection (h), each school or library to which subsection (h) applies shall—
 
             (A)
 
@@ -443,7 +445,7 @@
 
             (B) review the determination made by the certifying school, school board, local educational agency, library, or other authority; or
 
-            (C) consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B) of this section.
+            (C) consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B).
 
         (3) __Availability for review__ 
 
@@ -453,7 +455,7 @@
 
             This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 254, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 71][/us/stat/110/71]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 709(a)(8)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–313; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, §§ 1721(a)–(d), 1732\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343 to 2763A–350; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(hh), Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094]; [Pub. L. 110–385, title II][/us/pl/110/385/tII], § 215, Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(s), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 254, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 71][/us/stat/110/71]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 709(a)(8)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–313; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, §§ 1721(a)–(d), 1732\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343 to 2763A–350; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(hh), Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094]; [Pub. L. 110–385, title II][/us/pl/110/385/tII], § 215, Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(s), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171]; [Pub. L. 114–182, title II][/us/pl/114/182/tII], § 202(a), June 22, 2016, [130 Stat. 512][/us/stat/130/512].)
 
  __References in Text__ 
 
@@ -466,6 +468,8 @@
     The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see § 1(a)(4) \[div. B, title VII, § 1721(h)\] of [Pub. L. 106–554][/us/pl/106/554], set out as an Effective Date of 2000 Amendment note below.
 
  __Amendments__ 
+
+    2016—Subsec. (h)(7)(B)(vii), (viii). [Pub. L. 114–182][/us/pl/114/182] added cl. (vii), redesignated former cl. (vii) as cl. (viii), and substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in cl. (viii).
 
     2015—Subsec. (h)(5)(A)(iii). [Pub. L. 114–95][/us/pl/114/95], § 9215(s)(1), substituted “an elementary school or a secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801]” for “an elementary or secondary school as defined in [section 8801 of title 20][/us/usc/t20/s8801]”.
 
@@ -488,6 +492,12 @@
     Subsec. (l). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1732\], added subsec. (l).
 
     1996—Subsec. (h)(4). [Pub. L. 104–208][/us/pl/104/208] substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act ([20 U.S.C. 335c][/us/usc/t20/s335c] et seq.)”.
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–182, title II][/us/pl/114/182/tII], § 202(c), June 22, 2016, [130 Stat. 513][/us/stat/130/513], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply beginning on the date that is 180 days after the date of the enactment of this Act \[June 22, 2016\].”
 
  __Effective Date of 2015 Amendment__ 
 
@@ -518,6 +528,12 @@
 [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1733\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(l) of the Communications Act of 1934 \[[47 U.S.C. 254][/us/usc/t47/s254](l)\], as added by section 1732 of this Act.”
+
+ __Savings Clause__ 
+
+[Pub. L. 114–182, title II][/us/pl/114/182/tII], § 202(b), June 22, 2016, [130 Stat. 512][/us/stat/130/512], provided that: 
+
+> “Nothing in subsection (a) \[amending this section\] shall be construed to affect the aggregate annual cap on Federal universal service support for health care providers under section 54.675 of title 47, Code of Federal Regulations, or any successor regulation.”
 
  __Separability__ 
 
@@ -568,6 +584,7 @@
 [/us/usc/t20/s9121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9121
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t42/s395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs395i%E2%80%933%2Fa
 [/us/usc/t18/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1460
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/usc/t18/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246
@@ -584,6 +601,8 @@
 [/us/stat/122/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4104
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
+[/us/pl/114/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtII
+[/us/stat/130/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F512
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
@@ -593,6 +612,7 @@
 [/us/usc/t20/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9101
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
@@ -608,6 +628,8 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t20/s335c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs335c
+[/us/pl/114/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtII
+[/us/stat/130/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F513
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -623,6 +645,8 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
+[/us/pl/114/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtII
+[/us/stat/130/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F512
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s254/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh

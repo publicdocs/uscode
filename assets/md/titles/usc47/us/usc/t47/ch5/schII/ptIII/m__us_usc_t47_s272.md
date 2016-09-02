@@ -23,7 +23,7 @@
 
             (A) are separate from any operating company entity that is subject to the requirements of [section 251(c) of this title][/us/usc/t47/s251/c]; and
 
-            (B) meet the requirements of subsection (b) of this section.
+            (B) meet the requirements of subsection (b).
 
         (2) __Services for which a separate affiliate is required__ 
 
@@ -59,17 +59,17 @@
 
     (c) __Nondiscrimination safeguards__ 
 
-    In its dealings with its affiliate described in subsection (a) of this section, a Bell operating company—
+    In its dealings with its affiliate described in subsection (a), a Bell operating company—
 
         (1) may not discriminate between that company or affiliate and any other entity in the provision or procurement of goods, services, facilities, and information, or in the establishment of standards; and
 
-        (2) shall account for all transactions with an affiliate described in subsection (a) of this section in accordance with accounting principles designated or approved by the Commission.
+        (2) shall account for all transactions with an affiliate described in subsection (a) in accordance with accounting principles designated or approved by the Commission.
 
     (d) __Biennial audit__ 
 
         (1) __General requirement__ 
 
-            A company required to operate a separate affiliate under this section shall obtain and pay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b) of this section.
+            A company required to operate a separate affiliate under this section shall obtain and pay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b).
 
         (2) __Results submitted to Commission; State commissions__ 
 
@@ -91,9 +91,9 @@
 
         (1) shall fulfill any requests from an unaffiliated entity for telephone exchange service and exchange access within a period no longer than the period in which it provides such telephone exchange service and exchange access to itself or to its affiliates;
 
-        (2) shall not provide any facilities, services, or information concerning its provision of exchange access to the affiliate described in subsection (a) of this section unless such facilities, services, or information are made available to other providers of interLATA services in that market on the same terms and conditions;
+        (2) shall not provide any facilities, services, or information concerning its provision of exchange access to the affiliate described in subsection (a) unless such facilities, services, or information are made available to other providers of interLATA services in that market on the same terms and conditions;
 
-        (3) shall charge the affiliate described in subsection (a) of this section, or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange access that is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
+        (3) shall charge the affiliate described in subsection (a), or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange access that is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
 
         (4) may provide any interLATA or intraLATA facilities or services to its interLATA affiliate if such services or facilities are made available to all carriers at the same rates and on the same terms and conditions, and so long as the costs are appropriately allocated.
 
@@ -101,11 +101,11 @@
 
         (1) __Manufacturing and long distance__ 
 
-            The provisions of this section (other than subsection (e) of this section) shall cease to apply with respect to the manufacturing activities or the interLATA telecommunications services of a Bell operating company 3 years after the date such Bell operating company or any Bell operating company affiliate is authorized to provide interLATA telecommunications services under [section 271(d) of this title][/us/usc/t47/s271/d], unless the Commission extends such 3-year period by rule or order.
+            The provisions of this section (other than subsection (e)) shall cease to apply with respect to the manufacturing activities or the interLATA telecommunications services of a Bell operating company 3 years after the date such Bell operating company or any Bell operating company affiliate is authorized to provide interLATA telecommunications services under [section 271(d) of this title][/us/usc/t47/s271/d], unless the Commission extends such 3-year period by rule or order.
 
         (2) __InterLATA information services__ 
 
-            The provisions of this section (other than subsection (e) of this section) shall cease to apply with respect to the interLATA information services of a Bell operating company 4 years after February 8, 1996, unless the Commission extends such 4-year period by rule or order.
+            The provisions of this section (other than subsection (e)) shall cease to apply with respect to the interLATA information services of a Bell operating company 4 years after February 8, 1996, unless the Commission extends such 4-year period by rule or order.
 
         (3) __Preservation of existing authority__ 
 
@@ -123,7 +123,7 @@
 
         (3) __Rule of construction__ 
 
-            The joint marketing and sale of services permitted under this subsection shall not be considered to violate the nondiscrimination provisions of subsection (c) of this section.
+            The joint marketing and sale of services permitted under this subsection shall not be considered to violate the nondiscrimination provisions of subsection (c).
 
     (h) __Transition__ 
 

@@ -23,7 +23,7 @@
 
         (3) A protest filed pursuant to this subsection shall be subject to the requirements of [section 309 of this title][/us/usc/t47/s309] for petitions to deny.
 
-    (b) In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2) of this section, such burdens shall be as determined by the Commission.
+    (b) In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2), such burdens shall be as determined by the Commission.
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 316, as added [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 12, [66 Stat. 717][/us/stat/66/717]; amended [Pub. L. 98–214][/us/pl/98/214], § 4(a), Dec. 8, 1983, [97 Stat. 1467][/us/stat/97/1467].)
 
@@ -39,7 +39,7 @@
 
     1983—Subsec. (a). [Pub. L. 98–214][/us/pl/98/214], § 4(a)(1), (2), designated existing provisions as par. (1), substituted “and shall be given reasonable opportunity, of at least thirty days, to protest such proposed order of modification; except that, where safety of life or property is involved, the Commission may by order provide, for a shorter period of notice” for “and shall have been given reasonable opportunity, in no event less than thirty days, to show cause by public hearing, if requested, why such order of modification should not issue: Provided, That where safety of life or property is involved, the Commission may by order provide for a shorter period of notice”, and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 98–214][/us/pl/98/214], § 4(a)(3), inserted “; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2) of this section, such burdens shall be as determined by the Commission”.
+    Subsec. (b). [Pub. L. 98–214][/us/pl/98/214], § 4(a)(3), inserted “; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2), such burdens shall be as determined by the Commission”.
 
 ----------
 

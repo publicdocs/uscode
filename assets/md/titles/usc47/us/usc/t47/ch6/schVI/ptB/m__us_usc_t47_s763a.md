@@ -15,7 +15,7 @@
 
 ## § 763a. Specific criteria for INTELSAT
 
-    In securing the privatizations required by [section 763 of this title][/us/usc/t47/s763], the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A of this subchapter:
+    In securing the privatizations required by [section 763 of this title][/us/usc/t47/s763], the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A:
 
     (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __Technical coordination under intelsat agreements__  __.—__ 
 

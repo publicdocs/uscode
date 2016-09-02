@@ -47,11 +47,11 @@
 
     (b) __Cost of administration__ 
 
-        There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a) of this section.
+        There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a).
 
     (c) __Availability__ 
 
-        Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) of this section shall remain available until expended.
+        Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) shall remain available until expended.
 
 ([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1011\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–141; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6404(a), May 13, 2002, [116 Stat. 429][/us/stat/116/429].)
 

@@ -59,19 +59,19 @@
 
     (e) __Subscriber list information__ 
 
-        Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
+        Notwithstanding subsections (b), (c), and (d), a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
 
     (f) __Authority to use location information__ 
 
-    For purposes of subsection (c)(1) of this section, without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
+    For purposes of subsection (c)(1), without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
 
-        (1) call location information concerning the user of a commercial mobile service (as such term is defined in [section 332(d) of this title][/us/usc/t47/s332/d]) or the user of an IP-enabled voice service (as such term is defined in [section 615b of this title][/us/usc/t47/s615b]), other than in accordance with subsection (d)(4) of this section; or
+        (1) call location information concerning the user of a commercial mobile service (as such term is defined in [section 332(d) of this title][/us/usc/t47/s332/d]) or the user of an IP-enabled voice service (as such term is defined in [section 615b of this title][/us/usc/t47/s615b]), other than in accordance with subsection (d)(4); or
 
         (2) automatic crash notification information to any person other than for use in the operation of an automatic crash notification system.
 
     (g) __Subscriber listed and unlisted information for emergency services__ 
 
-        Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service or a provider of IP-enabled voice service (as such term is defined in [section 615b of this title][/us/usc/t47/s615b]) shall provide information described in subsection (i)(3)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(h)(3)(A)”. </sup></sup>  of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+        Notwithstanding subsections (b), (c), and (d), a telecommunications carrier that provides telephone exchange service or a provider of IP-enabled voice service (as such term is defined in [section 615b of this title][/us/usc/t47/s615b]) shall provide information described in subsection (i)(3)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(h)(3)(A)”. </sup></sup>  (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
 
     (h) __Definitions__ 
 

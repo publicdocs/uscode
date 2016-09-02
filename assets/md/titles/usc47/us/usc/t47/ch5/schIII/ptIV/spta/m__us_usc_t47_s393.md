@@ -21,7 +21,7 @@
 
     (b) __Basis for determination__ 
 
-    The Secretary shall base determinations of whether to approve applications for grants under this subpart, and the amount of such grants, on criteria developed pursuant to subsection (a) of this section and designed to achieve—
+    The Secretary shall base determinations of whether to approve applications for grants under this subpart, and the amount of such grants, on criteria developed pursuant to subsection (a) and designed to achieve—
 
         (1) the provision of new telecommunications facilities to extend service to areas currently not receiving public telecommunications services;
 

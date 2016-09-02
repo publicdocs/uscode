@@ -41,7 +41,7 @@
 
         (2) __Service requirements__ 
 
-            The Commission shall provide that, as a condition of an applicant receiving a license pursuant to the covered rural service area licensing proceeding, the applicant shall provide cellular radiotelephone service to subscribers in accordance with sections 22.946 and 22.947 of the Commission’s rules (47 CFR 22.946, 22.947); except that the time period applicable under section 22.947 of the Commission’s rules (or any successor rule) to the applicants identified in subparagraphs (A) and (B) of subsection (d)(1) of this section shall be 3 years rather than 5 years and the waiver authority of the Commission shall apply to such 3-year period.
+            The Commission shall provide that, as a condition of an applicant receiving a license pursuant to the covered rural service area licensing proceeding, the applicant shall provide cellular radiotelephone service to subscribers in accordance with sections 22.946 and 22.947 of the Commission’s rules (47 CFR 22.946, 22.947); except that the time period applicable under section 22.947 of the Commission’s rules (or any successor rule) to the applicants identified in subparagraphs (A) and (B) of subsection (d)(1) shall be 3 years rather than 5 years and the waiver authority of the Commission shall apply to such 3-year period.
 
         (3) __Calculation of license fee__ 
 
@@ -55,7 +55,7 @@
 
             (B) __Notice of fee__ 
 
-                Within 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B) of this section, the Commission shall notify each applicant of the fee established for the license associated with its application.
+                Within 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B), the Commission shall notify each applicant of the fee established for the license associated with its application.
 
         (4) __Payment for licenses__ 
 
@@ -63,11 +63,11 @@
 
         (5) __Auction authority__ 
 
-            If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee (  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No closing parenthesis was enacted. </sup></sup>  pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to [section 309(j) of this title][/us/usc/t47/s309/j].
+            If, after the amendment of an application pursuant to subsection (a)(1)(B), the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee (  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No closing parenthesis was enacted. </sup></sup>  pursuant to subsection (a)(1)(B) by competitive bidding pursuant to [section 309(j) of this title][/us/usc/t47/s309/j].
 
     (c) __Prohibition of transfer__ 
 
-        During the 5-year period that begins on the date that an applicant is granted any license pursuant to subsection (a) of this section, the Commission may not authorize the transfer or assignment of that license under [section 310 of this title][/us/usc/t47/s310]. Nothing in this chapter may be construed to prohibit any applicant granted a license pursuant to subsection (a) of this section from contracting with other licensees to improve cellular telephone service.
+        During the 5-year period that begins on the date that an applicant is granted any license pursuant to subsection (a), the Commission may not authorize the transfer or assignment of that license under [section 310 of this title][/us/usc/t47/s310]. Nothing in this chapter may be construed to prohibit any applicant granted a license pursuant to subsection (a) from contracting with other licensees to improve cellular telephone service.
 
     (d) __Definitions__ 
 

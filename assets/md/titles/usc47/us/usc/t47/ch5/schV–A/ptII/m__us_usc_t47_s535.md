@@ -23,11 +23,11 @@
 
         (1) __General requirement to carry each qualified station__ 
 
-            Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
+            Subject to paragraphs (2) and (3) and subsection (e), each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
 
         (2) __Systems with 12 or fewer channels__ 
 
-            (A) Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewer usable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) of this section and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
+            (A) Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewer usable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
 
             (B)
 
@@ -43,7 +43,7 @@
 
             (A)
 
-             Subject to subsection (c) of this section, a cable operator of a cable system with 13 to 36 usable activated channels—
+             Subject to subsection (c), a cable operator of a cable system with 13 to 36 usable activated channels—
 
                 (i) shall carry the signal of at least one qualified local noncommercial educational television station but shall not be required to carry the signals of more than three such stations, and
 
@@ -53,7 +53,7 @@
 
             (C) The cable operator of a cable system described in this paragraph which carries the signal of a qualified local noncommercial educational station affiliated with a State public television network shall not be required to carry the signal of any additional qualified local noncommercial educational television stations affiliated with the same network if the programming of such additional stations is substantially duplicated by the programming of the qualified local noncommercial educational television station receiving carriage.
 
-            (D) A cable operator of a system described in this paragraph which increases the usable activated channel capacity of the system to more than 36 channels on or after March 29, 1990, shall, in accordance with the other provisions of this section, carry the signal of each qualified local noncommercial educational television station requesting carriage, subject to subsection (e) of this section.
+            (D) A cable operator of a system described in this paragraph which increases the usable activated channel capacity of the system to more than 36 channels on or after March 29, 1990, shall, in accordance with the other provisions of this section, carry the signal of each qualified local noncommercial educational television station requesting carriage, subject to subsection (e).
 
     (c) __Continued carriage of existing stations__ 
 
@@ -105,7 +105,7 @@
 
         (2) __Distant signal exception__ 
 
-            Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not already carried under the provision of subsection (c) of this section, where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
+            Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not already carried under the provision of subsection (c), where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
 
     (j) __Remedies__ 
 

@@ -65,7 +65,7 @@
 
     (d) __Amount of grants__ 
 
-        Upon approving any application for a grant under subsection (b)(1)(B) of this section, the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
+        Upon approving any application for a grant under subsection (b)(1)(B), the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
 
     (e) __Advisory Council on Children’s Educational Television__ 
 

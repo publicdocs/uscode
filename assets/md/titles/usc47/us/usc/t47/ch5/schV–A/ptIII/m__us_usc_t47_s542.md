@@ -17,7 +17,7 @@
 
     (a) __Payment under terms of franchise__ 
 
-        Subject to the limitation of subsection (b) of this section, any cable operator may be required under the terms of any franchise to pay a franchise fee.
+        Subject to the limitation of subsection (b), any cable operator may be required under the terms of any franchise to pay a franchise fee.
 
     (b) __Amount of fees per annum__ 
 
@@ -35,7 +35,7 @@
 
     (d) __Court actions; reflection of costs in rate structures__ 
 
-        In any court action under subsection (c) of this section, the franchising authority shall demonstrate that the rate structure reflects all costs of the franchise fees.
+        In any court action under subsection (c), the franchising authority shall demonstrate that the rate structure reflects all costs of the franchise fees.
 
     (e) __Decreases passed through to subscribers__ 
 

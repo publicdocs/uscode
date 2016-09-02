@@ -45,11 +45,11 @@
 
         (2) __Joint use__ 
 
-            Notwithstanding subsection (c) of this section, a local exchange carrier may obtain, with the concurrence of the cable operator on the rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
+            Notwithstanding subsection (c), a local exchange carrier may obtain, with the concurrence of the cable operator on the rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
 
         (3) __Acquisitions in competitive markets__ 
 
-        Notwithstanding subsections (a) and (c) of this section, a local exchange carrier may obtain a controlling interest in, or form a joint venture or other partnership with, or provide financing to, a cable system (hereinafter in this paragraph referred to as “the subject cable system”), if—
+        Notwithstanding subsections (a) and (c), a local exchange carrier may obtain a controlling interest in, or form a joint venture or other partnership with, or provide financing to, a cable system (hereinafter in this paragraph referred to as “the subject cable system”), if—
 
             (A) the subject cable system operates in a television market that is not in the top 25 markets, and such market has more than 1 cable system operator, and the subject cable system is not the cable system with the most subscribers in such television market;
 
@@ -61,7 +61,7 @@
 
         (4) __Exempt cable systems__ 
 
-        Subsection (a) of this section does not apply to any cable system if—
+        Subsection (a) does not apply to any cable system if—
 
             (A) the cable system serves no more than 17,000 cable subscribers, of which no less than 8,000 live within an urban area, and no less than 6,000 live within a nonurbanized area as of June 1, 1995;
 
@@ -71,11 +71,11 @@
 
         (5) __Small cable systems in nonurban areas__ 
 
-            Notwithstanding subsections (a) and (c) of this section, a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, or enter into a joint venture or partnership with, any cable system within the local exchange carrier’s telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
+            Notwithstanding subsections (a) and (c), a local exchange carrier with less than $100,000,000 in annual operating revenues (or any affiliate of such carrier owned by, operated by, controlled by, or under common control with such carrier) may purchase or otherwise acquire more than a 10 percent financial interest in, or any management interest in, or enter into a joint venture or partnership with, any cable system within the local exchange carrier’s telephone service area that serves no more than 20,000 cable subscribers, if no more than 12,000 of those subscribers live within an urbanized area, as defined by the Bureau of the Census.
 
         (6) __Waivers__ 
 
-        The Commission may waive the restrictions of subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a), (b), or (c) of this section only if—
+        The Commission may waive the restrictions of subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a), (b), or (c) only if—
 
             (A)
 

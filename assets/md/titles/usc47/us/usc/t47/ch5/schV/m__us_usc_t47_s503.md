@@ -33,7 +33,7 @@
 
             (D) violated any provision of section 1304, 1343, 1464, or 2252 of title 18;
 
-            shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by this chapter; except that this subsection shall not apply to any conduct which is subject to forfeiture under subchapter II of this chapter, part II or III of subchapter III of this chapter, or [section 507 of this title][/us/usc/t47/s507].
+            shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by this chapter; except that this subsection shall not apply to any conduct which is subject to forfeiture under subchapter II, part II or III of subchapter III, or [section 507 of this title][/us/usc/t47/s507].
 
         (2)
 
@@ -103,7 +103,7 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
-    Parts II and III of subchapter III of this chapter, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
+    Parts II and III of subchapter III, referred to in subsec. (b)(1), are classified to sections 351 et seq. and 381 et seq., respectively, of this title.
 
  __Amendments__ 
 

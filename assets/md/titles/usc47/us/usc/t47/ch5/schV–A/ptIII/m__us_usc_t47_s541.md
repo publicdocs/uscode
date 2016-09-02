@@ -43,7 +43,7 @@
 
     (b) __No cable service without franchise; exception under prior law__ 
 
-        (1) Except to the extent provided in paragraph (2) and subsection (f) of this section, a cable operator may not provide cable service without a franchise.
+        (1) Except to the extent provided in paragraph (2) and subsection (f), a cable operator may not provide cable service without a franchise.
 
         (2) Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984, to obtain a franchise unless the franchising authority so requires.
 
@@ -109,7 +109,7 @@
 
     Subsec. (a)(4). [Pub. L. 102–385][/us/pl/102/385], § 7(b), added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 7(c)(1), inserted “and subsection (f) of this section” after “paragraph (2)”.
+    Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 7(c)(1), inserted “and subsection (f)” after “paragraph (2)”.
 
     Subsec. (f). [Pub. L. 102–385][/us/pl/102/385], § 7(c)(2), added subsec. (f).
 

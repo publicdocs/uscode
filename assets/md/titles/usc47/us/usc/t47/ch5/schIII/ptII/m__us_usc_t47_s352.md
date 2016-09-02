@@ -49,7 +49,7 @@
 
     (c) __Unforeseeable equipment failures__ 
 
-        If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) of this section shall not apply: Provided, That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) of this section to permit the ship to proceed to a port where the equipment deficiency may be remedied.
+        If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) shall not apply: Provided, That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) to permit the ship to proceed to a port where the equipment deficiency may be remedied.
 
     (d) __Radio direction finding apparatus unreasonable or unnecessary__ 
 
@@ -65,7 +65,7 @@
 
     1981—Subsec. (a)(2). [Pub. L. 97–31][/us/pl/97/31] substituted “Maritime Administration of the Department of Transportation” for “United States Maritime Commission”. For prior transfers of functions, see Transfer of Functions note set out below.
 
-    1965—[Pub. L. 89–121][/us/pl/89/121], § 3(a), added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
+    1965—Subsec. (a). [Pub. L. 89–121][/us/pl/89/121], § 3(a), added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
 
     Subsec. (b). [Pub. L. 89–121][/us/pl/89/121], § 3(b), excepted nuclear ships and substituted “or, alternatively, do not go more than two hundred nautical miles” for “or more than two hundred nautical miles”.
 

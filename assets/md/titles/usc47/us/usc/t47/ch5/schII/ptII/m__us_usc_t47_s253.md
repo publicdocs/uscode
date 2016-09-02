@@ -29,7 +29,7 @@
 
     (d) __Preemption__ 
 
-        If, after notice and an opportunity for public comment, the Commission determines that a State or local government has permitted or imposed any statute, regulation, or legal requirement that violates subsection (a) or (b) of this section, the Commission shall preempt the enforcement of such statute, regulation, or legal requirement to the extent necessary to correct such violation or inconsistency.
+        If, after notice and an opportunity for public comment, the Commission determines that a State or local government has permitted or imposed any statute, regulation, or legal requirement that violates subsection (a) or (b), the Commission shall preempt the enforcement of such statute, regulation, or legal requirement to the extent necessary to correct such violation or inconsistency.
 
     (e) __Commercial mobile service providers__ 
 

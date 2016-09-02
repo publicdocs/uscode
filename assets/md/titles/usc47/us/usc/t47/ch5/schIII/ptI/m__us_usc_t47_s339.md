@@ -237,7 +237,7 @@
 
         (5) __Definition__ 
 
-            Notwithstanding subsection (d)(4) of this section, for purposes of paragraphs (2) and (4) of this subsection, the term “satellite carrier” includes a distributor (as defined in [section 119(d)(1) of title 17][/us/usc/t17/s119/d/1]), but only if the satellite distributor’s relationship with the subscriber includes billing, collection, service activation, and service deactivation.
+            Notwithstanding subsection (d)(4), for purposes of paragraphs (2) and (4) of this subsection, the term “satellite carrier” includes a distributor (as defined in [section 119(d)(1) of title 17][/us/usc/t17/s119/d/1]), but only if the satellite distributor’s relationship with the subscriber includes billing, collection, service activation, and service deactivation.
 
     (d) __Definitions__ 
 

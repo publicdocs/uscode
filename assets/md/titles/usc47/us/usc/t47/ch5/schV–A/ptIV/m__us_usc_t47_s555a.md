@@ -21,7 +21,7 @@
 
     (b) __Exception for completed cases__ 
 
-        The limitation contained in subsection (a) of this section shall not apply to actions that, prior to such violation, have been determined by a final order of a court of binding jurisdiction, no longer subject to appeal, to be in violation of a cable operator’s rights.
+        The limitation contained in subsection (a) shall not apply to actions that, prior to such violation, have been determined by a final order of a court of binding jurisdiction, no longer subject to appeal, to be in violation of a cable operator’s rights.
 
     (c) __Discrimination claims permitted__ 
 

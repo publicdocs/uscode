@@ -59,7 +59,7 @@
 
     (c) __Additional considerations in determinations__ 
 
-        In making its determinations and licensing decisions under subsections (a) and (b) of this section, the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
+        In making its determinations and licensing decisions under subsections (a) and (b), the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
 
     (d) __Independent facilities competition__ 
 

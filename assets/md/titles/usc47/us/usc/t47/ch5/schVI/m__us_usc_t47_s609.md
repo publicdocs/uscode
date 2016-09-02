@@ -23,6 +23,12 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title][/us/usc/t47/s35], [section 21 of Title 15][/us/usc/t15/s21], Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–182, title II][/us/pl/114/182/tII], § 201, June 22, 2016, [130 Stat. 512][/us/stat/130/512], provided that: 
+
+> “This title \[amending [section 254 of this title][/us/usc/t47/s254] and enacting provisions set out as notes under [section 254 of this title][/us/usc/t47/s254]\] may be cited as the ‘Rural Healthcare Connectivity Act of 2016’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–200][/us/pl/113/200], § 1(a), Dec. 4, 2014, [128 Stat. 2059][/us/stat/128/2059], provided that: 
@@ -292,6 +298,10 @@
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs35
 [/us/usc/t15/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs21
+[/us/pl/114/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtII
+[/us/stat/130/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F512
+[/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
+[/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
 [/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
 [/us/stat/128/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2059
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111

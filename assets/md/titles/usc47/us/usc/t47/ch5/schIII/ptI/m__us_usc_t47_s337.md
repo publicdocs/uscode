@@ -25,7 +25,7 @@
 
     (b) __Assignment__ 
 
-        The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.
+        The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998.
 
     (c) __Licensing of unused frequencies for public safety services__ 
 
@@ -63,7 +63,7 @@
 
             (B) to disaggregate or partition licenses to create smaller spectrum blocks or service areas; and
 
-        (4) shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) of this section shall not be subject to harmful interference from television broadcast licensees.
+        (4) shall establish rules insuring that public safety services licensees using spectrum reallocated pursuant to subsection (a)(1) shall not be subject to harmful interference from television broadcast licensees.
 
     (e) __Removal and relocation of incumbent broadcast licensees__ 
 
@@ -123,11 +123,11 @@
 
     Subsec. (e)(2). [Pub. L. 109–171][/us/pl/109/171], § 3002(c)(1)(B), substituted “698 megahertz” for “746 megahertz”.
 
-    1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
+    1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998.” for “The Commission shall—
 
-    “(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and”.
+    “(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998; and”.
 
-    Subsec. (b)(2). [Pub. L. 106–79][/us/pl/106/79], which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.”, was repealed by [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(d)\].
+    Subsec. (b)(2). [Pub. L. 106–79][/us/pl/106/79], which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) after January 1, 2001.”, was repealed by [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(d)\].
 
  __Interference Protection__ 
 

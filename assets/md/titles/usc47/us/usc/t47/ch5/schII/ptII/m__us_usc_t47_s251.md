@@ -49,11 +49,11 @@
 
     (c) __Additional obligations of incumbent local exchange carriers__ 
 
-    In addition to the duties contained in subsection (b) of this section, each incumbent local exchange carrier has the following duties:
+    In addition to the duties contained in subsection (b), each incumbent local exchange carrier has the following duties:
 
         (1) __Duty to negotiate__ 
 
-            The duty to negotiate in good faith in accordance with [section 252 of this title][/us/usc/t47/s252] the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) of this section and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
+            The duty to negotiate in good faith in accordance with [section 252 of this title][/us/usc/t47/s252] the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
 
         (2) __Interconnection__ 
 
@@ -95,7 +95,7 @@
 
         (2) __Access standards__ 
 
-        In determining what network elements should be made available for purposes of subsection (c)(3) of this section, the Commission shall consider, at a minimum, whether—
+        In determining what network elements should be made available for purposes of subsection (c)(3), the Commission shall consider, at a minimum, whether—
 
             (A) access to such network elements as are proprietary in nature is necessary; and
 
@@ -139,11 +139,11 @@
 
             (C) __Limitation on exemption__ 
 
-                The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) of this section from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
+                The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
 
         (2) __Suspensions and modifications for rural carriers__ 
 
-        A local exchange carrier with fewer than 2 percent of the Nation’s subscriber lines installed in the aggregate nationwide may petition a State commission for a suspension or modification of the application of a requirement or requirements of subsection (b) or (c) of this section to telephone exchange service facilities specified in such petition. The State commission shall grant such petition to the extent that, and for such duration as, the State commission determines that such suspension or modification—
+        A local exchange carrier with fewer than 2 percent of the Nation’s subscriber lines installed in the aggregate nationwide may petition a State commission for a suspension or modification of the application of a requirement or requirements of subsection (b) or (c) to telephone exchange service facilities specified in such petition. The State commission shall grant such petition to the extent that, and for such duration as, the State commission determines that such suspension or modification—
 
             (A)
 

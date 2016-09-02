@@ -23,11 +23,11 @@
 
         (1) __Collaboration__ 
 
-            Subsection (a) of this section shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
+            Subsection (a) shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
 
         (2) __Certain research arrangements; royalty agreements__ 
 
-        Subsection (a) of this section shall not prohibit a Bell operating company from—
+        Subsection (a) shall not prohibit a Bell operating company from—
 
             (A) engaging in research activities related to manufacturing, and
 

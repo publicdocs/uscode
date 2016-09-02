@@ -27,7 +27,7 @@
 
         (1) __Proceeding required__ 
 
-            Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
+            Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b).
 
         (2) __Minimum contents of regulations__ 
 
@@ -81,7 +81,7 @@
 
     (d) __Adjudicatory proceeding__ 
 
-        Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
+        Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b), or the regulations of the Commission under subsection (c), may commence an adjudicatory proceeding at the Commission.
 
     (e) __Remedies for violations__ 
 
@@ -91,7 +91,7 @@
 
         (2) __Additional remedies__ 
 
-            The remedies provided in paragraph (1) are in addition to and not in lieu of the remedies available under subchapter V of this chapter or any other provision of this chapter.
+            The remedies provided in paragraph (1) are in addition to and not in lieu of the remedies available under subchapter V or any other provision of this chapter.
 
     (f) __Procedures__ 
 
@@ -105,13 +105,13 @@
 
     (g) __Reports__ 
 
-        The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c) of this section, annually report to Congress on the status of competition in the market for the delivery of video programming.
+        The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c), annually report to Congress on the status of competition in the market for the delivery of video programming.
 
     (h) __Exemptions for prior contracts__ 
 
         (1) __In general__ 
 
-            Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
+            Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) shall apply for distribution to persons in areas not served by a cable operator.
 
         (2) __Limitation on renewals__ 
 

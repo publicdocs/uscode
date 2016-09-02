@@ -17,17 +17,17 @@
 
     (a) __Establishment__ 
 
-        The Commission shall, within 30 days after October 18, 1990, initiate a rulemaking proceeding to prescribe standards applicable to commercial television broadcast licensees with respect to the time devoted to commercial matter in conjunction with children’s television programming. The Commission shall, within 180 days after October 18, 1990, complete the rulemaking proceeding and prescribe final standards that meet the requirements of subsection (b) of this section.
+        The Commission shall, within 30 days after October 18, 1990, initiate a rulemaking proceeding to prescribe standards applicable to commercial television broadcast licensees with respect to the time devoted to commercial matter in conjunction with children’s television programming. The Commission shall, within 180 days after October 18, 1990, complete the rulemaking proceeding and prescribe final standards that meet the requirements of subsection (b).
 
     (b) __Advertising duration limitations__ 
 
-        Except as provided in subsection (c) of this section, the standards prescribed under subsection (a) of this section shall include the requirement that each commercial television broadcast licensee shall limit the duration of advertising in children’s television programming to not more than 10.5 minutes per hour on weekends and not more than 12 minutes per hour on weekdays.
+        Except as provided in subsection (c), the standards prescribed under subsection (a) shall include the requirement that each commercial television broadcast licensee shall limit the duration of advertising in children’s television programming to not more than 10.5 minutes per hour on weekends and not more than 12 minutes per hour on weekdays.
 
     (c) __Review of advertising duration limitations; modification__ 
 
     After January 1, 1993, the Commission—
 
-        (1) may review and evaluate the advertising duration limitations required by subsection (b) of this section; and
+        (1) may review and evaluate the advertising duration limitations required by subsection (b); and
 
         (2) may, after notice and public comment and a demonstration of the need for modification of such limitations, modify such limitations in accordance with the public interest.
 

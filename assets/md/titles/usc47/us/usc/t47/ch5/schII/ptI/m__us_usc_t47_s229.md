@@ -21,7 +21,7 @@
 
     (b) __Systems security and integrity__ 
 
-    The rules prescribed pursuant to subsection (a) of this section shall include rules to implement section 105 of the Communications Assistance for Law Enforcement Act \[[47 U.S.C. 1004][/us/usc/t47/s1004]\] that require common carriers—
+    The rules prescribed pursuant to subsection (a) shall include rules to implement section 105 of the Communications Assistance for Law Enforcement Act \[[47 U.S.C. 1004][/us/usc/t47/s1004]\] that require common carriers—
 
         (1)
 
@@ -37,11 +37,11 @@
 
     (c) __Commission review of compliance__ 
 
-        The Commission shall review the policies and procedures submitted under subsection (b)(3) of this section and shall order a common carrier to modify any such policy or procedure that the Commission determines does not comply with Commission regulations. The Commission shall conduct such investigations as may be necessary to insure compliance by common carriers with the requirements of the regulations prescribed under this section.
+        The Commission shall review the policies and procedures submitted under subsection (b)(3) and shall order a common carrier to modify any such policy or procedure that the Commission determines does not comply with Commission regulations. The Commission shall conduct such investigations as may be necessary to insure compliance by common carriers with the requirements of the regulations prescribed under this section.
 
     (d) __Penalties__ 
 
-        For purposes of this chapter, a violation by an officer or employee of any policy or procedure adopted by a common carrier pursuant to subsection (b) of this section, or of a rule prescribed by the Commission pursuant to subsection (a) of this section, shall be considered to be a violation by the carrier of a rule prescribed by the Commission pursuant to this chapter.
+        For purposes of this chapter, a violation by an officer or employee of any policy or procedure adopted by a common carrier pursuant to subsection (b), or of a rule prescribed by the Commission pursuant to subsection (a), shall be considered to be a violation by the carrier of a rule prescribed by the Commission pursuant to this chapter.
 
     (e) __Cost recovery for Communications Assistance for Law Enforcement Act compliance__ 
 

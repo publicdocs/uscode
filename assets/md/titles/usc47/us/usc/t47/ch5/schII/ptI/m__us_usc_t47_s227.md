@@ -29,7 +29,7 @@
 
         (2)
 
-         The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
+         The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
             (A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
@@ -123,7 +123,7 @@
 
                 (v) the telephone and facsimile machine numbers and the cost-free mechanism set forth pursuant to clause (iv) permit an individual or business to make such a request at any time on any day of the week; and
 
-                (vi) the notice complies with the requirements of subsection (d) of this section;
+                (vi) the notice complies with the requirements of subsection (d);
 
             (E)
 
@@ -253,7 +253,7 @@
 
         (6) __Relation to subsection (b)__ 
 
-            The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b) of this section.
+            The provisions of this subsection shall not be construed to permit a communication prohibited by subsection (b).
 
     (d) __Technical and procedural standards__ 
 
@@ -401,7 +401,7 @@
 
         (1) __State law not preempted__ 
 
-        Except for the standards prescribed under subsection (d) of this section and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
+        Except for the standards prescribed under subsection (d) and subject to paragraph (2) of this subsection, nothing in this section or in the regulations prescribed under this section shall preempt any State law that imposes more restrictive intrastate requirements or regulations on, or which prohibits—
 
             (A) the use of telephone facsimile machines or other electronic devices to send unsolicited advertisements;
 
@@ -413,7 +413,7 @@
 
         (2) __State use of databases__ 
 
-            If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+            If, pursuant to subsection (c)(3), the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
     (g) __Actions by States__ 
 

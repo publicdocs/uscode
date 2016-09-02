@@ -25,7 +25,7 @@
 
     (b) __Available relief__ 
 
-        The court may award any appropriate relief consistent with the provisions of the relevant section described in subsection (a) of this section and with the provisions of subsection (a) of this section.
+        The court may award any appropriate relief consistent with the provisions of the relevant section described in subsection (a) and with the provisions of subsection (a).
 
     (c) __Review of constitutionality of sections 534 and 535__ 
 
@@ -39,7 +39,7 @@
 
     1992—Subsec. (a). [Pub. L. 102–385][/us/pl/102/385], § 7(a)(2), inserted “541(a)(1),” after “section”.
 
-    Subsec. (b). [Pub. L. 102–385][/us/pl/102/385], § 24(b), inserted “and with the provisions of subsection (a) of this section” after “subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 102–385][/us/pl/102/385], § 24(b), inserted “and with the provisions of subsection (a)” after “subsection (a)”.
 
     Subsec. (c). [Pub. L. 102–385][/us/pl/102/385], § 23, added subsec. (c).
 

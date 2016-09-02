@@ -25,7 +25,7 @@
 
     (b) __Report__ 
 
-        The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives a report on each audit conducted under subsection (a) of this section.
+        The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives a report on each audit conducted under subsection (a).
 
 ([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1006\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–138.)
 

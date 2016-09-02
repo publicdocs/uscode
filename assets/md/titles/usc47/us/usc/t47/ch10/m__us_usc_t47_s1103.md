@@ -55,7 +55,7 @@
 
         (1) __In general__ 
 
-            The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under [section 1102 of this title][/us/usc/t47/s1102], to determine which loans may be eligible for a loan guarantee under this chapter.
+            The Board shall utilize the underwriting criteria developed under subsection (g), and any relevant information provided by the departments and agencies with which the Board consults under [section 1102 of this title][/us/usc/t47/s1102], to determine which loans may be eligible for a loan guarantee under this chapter.
 
         (2) __Prerequisites__ 
 
@@ -99,7 +99,7 @@
 
                 (ii) the economically useful life, as determined by the Board or in consultation with persons or entities deemed appropriate by the Board, of the primary assets to be used in the delivery of the signals concerned; and
 
-            (F) the loan meets any additional criteria developed under subsection (g) of this section.
+            (F) the loan meets any additional criteria developed under subsection (g).
 
         (3) __Protection of United States financial interests__ 
 
@@ -171,11 +171,11 @@
 
         (2) __Guarantee level__ 
 
-            A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+            A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A). If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
 
     (g) __Underwriting criteria__ 
 
-        Within the period provided for under subsection (b)(1) of this section, the Board shall, in consultation with the Director of the Office of Management and Budget and an independent public accounting firm, develop underwriting criteria relating to the guarantee of loans that are consistent with the purpose of this chapter, including appropriate collateral and cash flow levels for loans guaranteed under this chapter, and such other matters as the Board considers appropriate.
+        Within the period provided for under subsection (b)(1), the Board shall, in consultation with the Director of the Office of Management and Budget and an independent public accounting firm, develop underwriting criteria relating to the guarantee of loans that are consistent with the purpose of this chapter, including appropriate collateral and cash flow levels for loans guaranteed under this chapter, and such other matters as the Board considers appropriate.
 
     (h) __Credit risk premiums__ 
 
@@ -227,7 +227,7 @@
 
     (k) __Applicability of APA__ 
 
-        Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
+        Except as otherwise provided in subsection (j), the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
 
 ([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1004\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–129; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6404(b)(1), May 13, 2002, [116 Stat. 430][/us/stat/116/430]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(f), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792].)
 

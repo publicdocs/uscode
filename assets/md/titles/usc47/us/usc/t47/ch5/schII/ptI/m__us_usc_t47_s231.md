@@ -31,7 +31,7 @@
 
     (b) __Inapplicability of carriers and other service providers__ 
 
-    For purposes of subsection (a) of this section, a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
+    For purposes of subsection (a), a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
 
         (1) a telecommunications carrier engaged in the provision of a telecommunications service;
 
@@ -39,7 +39,7 @@
 
         (3) a person engaged in the business of providing an Internet information location tool; or
 
-        (4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person’s deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or [section 230 of this title][/us/usc/t47/s230] shall not constitute such selection or alteration of the content of the communication.
+        (4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person’s deletion of a particular communication or material made by another person in a manner consistent with subsection (c) or [section 230 of this title][/us/usc/t47/s230] shall not constitute such selection or alteration of the content of the communication.
 
     (c) __Affirmative defense__ 
 
@@ -61,7 +61,7 @@
 
         (1) __Disclosure of information limited__ 
 
-        A person making a communication described in subsection (a) of this section—
+        A person making a communication described in subsection (a)—
 
             (A)
 
@@ -75,7 +75,7 @@
 
         (2) __Exceptions__ 
 
-        A person making a communication described in subsection (a) of this section may disclose such information if the disclosure is—
+        A person making a communication described in subsection (a) may disclose such information if the disclosure is—
 
             (A) necessary to make the communication or conduct a legitimate business activity related to making the communication; or
 

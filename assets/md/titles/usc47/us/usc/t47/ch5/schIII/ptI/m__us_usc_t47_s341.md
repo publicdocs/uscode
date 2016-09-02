@@ -27,7 +27,7 @@
 
         (2)  __Deemed Significantly Viewed__  __.—__ 
 
-        A station described in subsection (a) of this section is deemed to be significantly viewed in the eligible county within the meaning of section 76.54 of the Commission’s regulations (47 CFR 76.54).
+        A station described in subsection (a) is deemed to be significantly viewed in the eligible county within the meaning of section 76.54 of the Commission’s regulations (47 CFR 76.54).
 
         (3)  __Definition of Eligible County__  __.—__ 
 
