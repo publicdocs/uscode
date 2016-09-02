@@ -157,11 +157,11 @@
 
         (4) __Power line grants for insular areas.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of the Interior is authorized to make grants to governments of insular areas of the United States to carry out eligible projects to protect electric power transmission and distribution lines in such insular areas from damage caused by hurricanes and typhoons.
 
-            (B) __Eligible projects.—__ 
+            (B)  __Eligible projects__  __.—__ 
 
             The Secretary of the Interior may award grants under subparagraph (A) only to governments of insular areas of the United States that submit written project plans to the Secretary for projects that meet the following criteria:
 
@@ -179,7 +179,7 @@
 
                 (vii) The applicant has demonstrated to the Secretary that the matching funds required by subparagraph (D) are available.
 
-            (C) __Priority.—__ 
+            (C)  __Priority__  __.—__ 
 
             When making grants under this paragraph, the Secretary of the Interior shall give priority to grants for projects which are likely to—
 
@@ -187,15 +187,15 @@
 
                 (ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where the project is to be carried out for development or hazard mitigation for that insular area.
 
-            (D) __Matching requirement.—__ 
+            (D)  __Matching requirement__  __.—__ 
 
             The Federal share of the cost for a project for which a grant is provided under this paragraph shall not exceed 75 percent of the total cost of that project. The non-Federal share of the cost may be provided in the form of cash or services.
 
-            (E) __Treatment of funds for certain purposes.—__ 
+            (E)  __Treatment of funds for certain purposes__  __.—__ 
 
             Grants provided under this paragraph shall not be considered as income, a resource, or a duplicative program when determining eligibility or benefit levels for Federal major disaster and emergency assistance.
 
-            (F) __Authorization of appropriations.—__ 
+            (F)  __Authorization of appropriations__  __.—__ 
 
             There are authorized to be appropriated to carry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
 

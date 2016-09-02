@@ -257,7 +257,7 @@ DISTRICT COURT  </td>
 
 > “As used in this title:
 
->     “(1) __Agency.—__ 
+>     “(1)  __Agency__  __.—__ 
 
 >     The term ‘agency’ includes—
 
@@ -267,31 +267,31 @@ DISTRICT COURT  </td>
 
 >         “(C) any wholly owned or mixed-owned corporation of the United States Government.
 
->     “(2) __Beneficiary.—__ 
+>     “(2)  __Beneficiary__  __.—__ 
 
 >     The term ‘beneficiary’ has the same meaning as is given the term ‘native Hawaiian’ under section 201(7) of the Hawaiian Homes Commission Act \[former [48 U.S.C. 692(7)][/us/usc/t48/s692/7]\].
 
->     “(3) __Chairman.—__ 
+>     “(3)  __Chairman__  __.—__ 
 
 >     The term ‘Chairman’ means the Chairman of the Hawaiian Homes Commission of the State of Hawaii.
 
->     “(4) __Commission.—__ 
+>     “(4)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Hawaiian Homes Commission established by section 202 of the Hawaiian Homes Commission Act \[former [48 U.S.C. 693][/us/usc/t48/s693]\].
 
->     “(5) __Hawaiian homes commission act.—__ 
+>     “(5)  __Hawaiian homes commission act__  __.—__ 
 
 >     The term ‘Hawaiian Homes Commission Act’ means the Hawaiian Homes Commission Act, 1920 ([42 Stat. 108][/us/stat/42/108] et. seq., chapter 42) \[[Act July 9, 1921, ch. 42][/us/act/1921-07-09/ch42], former [48 U.S.C. 691][/us/usc/t48/s691] et seq.\].
 
->     “(6) __Hawaii state admission act.—__ 
+>     “(6)  __Hawaii state admission act__  __.—__ 
 
 >     The term ‘Hawaii State Admission Act’ means the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 \[[Pub. L. 86–3][/us/pl/86/3]\] ([73 Stat. 4][/us/stat/73/4], chapter 339; 48 U.S.C. note prec. 491).
 
->     “(7) __Lost use.—__ 
+>     “(7)  __Lost use__  __.—__ 
 
 >     The term ‘lost use’ means the value of the use of the land during the period when beneficiaries or the Hawaiian Homes Commission have been unable to use lands as authorized by the Hawaiian Homes Commission Act because of the use of such lands by the Federal Government after August 21, 1959.
 
->     “(8) __Secretary.—__ 
+>     “(8)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
@@ -353,27 +353,27 @@ DISTRICT COURT  </td>
 
 >     “(b) __Authorization.—__ 
 
->         “(1) __Exchange.—__ 
+>         “(1)  __Exchange__  __.—__ 
 
 >         Subject to paragraphs (2) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands in exchange for the continued retention by the Federal Government of lands described in subsection (a)(1)(A).
 
->         “(2) __Value of lands.—__ 
+>         “(2)  __Value of lands__  __.—__ 
 
 >             (A) The value of any lands conveyed to the Department of Hawaiian Home Lands by the Federal Government in accordance with an exchange made under paragraph (1) may not be less than the value of the lands retained by the Federal Government pursuant to such exchange.
 
 >             “(B) For the purposes of this subsection, the value of any lands exchanged pursuant to paragraph (1) shall be determined as of the date the exchange is carried out, or any other date determined by the Secretary, with the concurrence of the Chairman.
 
->         “(3) __Lost use.—__ 
+>         “(3)  __Lost use__  __.—__ 
 
 >         Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
 
->         “(4) __Value of lost use.—__ 
+>         “(4)  __Value of lost use__  __.—__ 
 
 >             (A) the value of any lands conveyed to the Department of Hawaiian Home Lands by the Federal Government as compensation under paragraph (3) may not be less than the value of the lost use of lands determined under subsection (a)(1)(B).
 
 >             “(B) For the purposes of this subparagraph, the value of any lands conveyed pursuant to paragraph (3) shall be determined as of the date that the conveyance occurs, or any other date determined by the Secretary, with the concurrence of the Chairman.
 
->         “(5) __Federal lands for exchange.—__ 
+>         “(5)  __Federal lands for exchange__  __.—__ 
 
 >             (A) Subject to subparagraphs (B) and (C), Federal lands located in Hawaii that are under the control of an agency (other than lands within the National Park System or the National Wildlife Refuge System) may be conveyed to the Department of Hawaiian Home Lands under paragraphs (1) and (3). To assist the Secretary in carrying out this Act \[title\], the head of an agency may transfer to the Department of the Interior, without reimbursement, jurisdiction and control over any lands and any structures that the Secretary determines to be suitable for conveyance to the Department of Hawaiian Home Lands pursuant to an exchange conducted under this section.
 
@@ -383,19 +383,19 @@ DISTRICT COURT  </td>
 
 >     “(c) __Available Lands.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraphs (2) and (3), the Secretary shall require that lands conveyed to the Department of Hawaiian Home Lands under this Act \[title\] shall have the status of available lands under the Hawaiian Homes Commission Act.
 
->         “(2) __Subsequent exchange of lands.—__ 
+>         “(2)  __Subsequent exchange of lands__  __.—__ 
 
 >         Notwithstanding any other provision of law, lands conveyed to the Department of Hawaiian Home Lands under this paragraph may subsequently be exchanged pursuant to section 204(3) of the Hawaiian Home Commission Act \[former [48 U.S.C. 698(3)][/us/usc/t48/s698/3]\].
 
->         “(3) __Sale of certain lands.—__ 
+>         “(3)  __Sale of certain lands__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Chairman may, at the time that lands are conveyed to the Department of Hawaiian Home Lands as compensation for lost use under this Act \[title\], designate lands to be sold. The Chairman is authorized to sell such land under terms and conditions that are in the best interest of the beneficiaries. The proceeds of such a sale may only be used for the purposes described in section 207(a) of the Hawaiian Homes Commission Act \[former [48 U.S.C. 701(a)][/us/usc/t48/s701/a]\].
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In carrying out their respective responsibilities under this section, the Secretary and the Chairman shall—
 
@@ -403,29 +403,29 @@ DISTRICT COURT  </td>
 
 >         “(2) report to such organizations on a regular basis concerning the progress made to meet the requirements of this section.
 
->     “(e) __Hold Harmless.—__ 
+>     “(e)  __Hold Harmless__  __.—__ 
 
 >     Notwithstanding any other provision of law, the United States shall defend and hold harmless the Department of Hawaiian Home Lands, the employees of the Department, and the beneficiaries with respect to any claim arising from the ownership of any land or structure that is conveyed to the Department pursuant to an exchange made under this section prior to the conveyance to the Department of such land or structure.
 
 >     “(f) __Screening.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary of Defense and the Administrator of General Services shall, at the same time as notice is provided to Federal agencies that excess real property is being screened pursuant to applicable Federal laws (including regulations) for possible transfer to such agencies, notify the Chairman of any such screening of real property that is located within the State of Hawaii.
 
->         “(2) __Response to notification.—__ 
+>         “(2)  __Response to notification__  __.—__ 
 
 >         Notwithstanding any other provision of law, not later than 90 days after receiving a notice under paragraph (1), the Chairman may select for appraisal real property, or at the election of the Chairman, portions of real property, that is the subject of a screening.
 
->         “(3) __Selection.—__ 
+>         “(3)  __Selection__  __.—__ 
 
 >         Notwithstanding any other provision of law, with respect to any real property located in the State of Hawaii that, as of the date of enactment of this Act \[Nov. 2, 1995\], is being screened pursuant to applicable Federal laws for possible transfer (as described in paragraph (1)) or has been screened for such purpose, but has not been transferred or declared to be surplus real property, the Chairman may select all, or any portion of, such real property to be appraised pursuant to paragraph (4).
 
->         “(4) __Appraisal.—__ 
+>         “(4)  __Appraisal__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary of Defense or the Administrator of General Services shall appriase \[sic\] the real property or portions of real property selected by the Chairman using the Uniform Standards for Federal Land Acquisition developed by the Interagency Land Acquisition Conference, or such other standard as the Chairman agrees to.
 
->         “(5) __Request for conveyance.—__ 
+>         “(5)  __Request for conveyance__  __.—__ 
 
 >         Notwithstanding any other provision of law, not later than 30 days after the date of completion of such appraisal, the Chairman may request the conveyance to the Department of Hawaiian Home Lands of—
 
@@ -433,25 +433,25 @@ DISTRICT COURT  </td>
 
 >             “(B) a portion of the appraised property, to the Department of Hawaiian Home Lands.
 
->         “(6) __Conveyance.—__ 
+>         “(6)  __Conveyance__  __.—__ 
 
 >         Notwithstanding any other provision of law, upon receipt of a request from the Chairman, the Secretary of Defense or the Administrator of the General Services Administration shall convey, without reimbursement, the real property that is the subject of the request to the Department of Hawaiian Home Lands as compensation for lands identified under subsection (a)(1)(A) or lost use identified under subsection (a)(1)(B).
 
->         “(7) __Real property not subject to recoupment.—__ 
+>         “(7)  __Real property not subject to recoupment__  __.—__ 
 
 >         Notwithstanding any other provision of law, any real property conveyed pursuant to paragraph (6) shall not be subject to recoupment based upon the sale or lease of the land by the Chairman.
 
->         “(8) __Valuation.—__ 
+>         “(8)  __Valuation__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary shall reduce the value identified under subparagraph (A) or (B) of subsection (a)(1), as determined pursuant to such subsection, by an amount equal to the appraised value of any excess lands conveyed pursuant to paragraph (6).
 
->         “(9) __Limitation.—__ 
+>         “(9)  __Limitation__  __.—__ 
 
 >         No Federal lands that generate income (or would be expected to generate income) for the Federal Government may be conveyed pursuant to this subsection to the Department of Hawaiian Home Lands.
 
 > “SEC. 204. __PROCEDURE FOR APPROVAL OF AMENDMENTS TO HAWAIIAN HOMES COMMISSION ACT.__ 
 
->     “(a) __Notice to the Secretary.—__ 
+>     “(a)  __Notice to the Secretary__  __.—__ 
 
 >     Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act \[[section 4 of Pub. L. 86–3][/us/pl/86/3/s4], set out above\], the Chairman shall submit to the Secretary—
 
@@ -461,11 +461,11 @@ DISTRICT COURT  </td>
 
 >         “(3) an opinion regarding whether the proposed amendment requires the approval of Congress under section 4 of the Hawaii State Admission Act.
 
->     “(b) __Determination by Secretary.—__ 
+>     “(b)  __Determination by Secretary__  __.—__ 
 
 >     Not later than 60 days after receiving the materials required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall determine whether the proposed amendment requires the approval of Congress under section 4 of the Hawaii State Admission Act, and shall notify the Chairman and Congress of the determination of the Secretary.
 
->     “(c) __Congressional Approval Required.—__ 
+>     “(c)  __Congressional Approval Required__  __.—__ 
 
 >     If, pursuant to subsection (b), the Secretary determines that the proposed amendment requires the approval of Congress, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives—
 
@@ -481,7 +481,7 @@ DISTRICT COURT  </td>
 
 > “SEC. 205. __LAND EXCHANGES.__ 
 
->     “(a) __Notice to the Secretary.—__ 
+>     “(a)  __Notice to the Secretary__  __.—__ 
 
 >     If the Chairman recommends for approval an exchange of Hawaiian Home Lands, the Chairman shall submit a report to the Secretary on the proposed exchange. The report shall contain—
 
@@ -493,31 +493,31 @@ DISTRICT COURT  </td>
 
 >     “(b) __Approval or Disapproval.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after receiving the information required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
 
->         “(2) __Notification.—__ 
+>         “(2)  __Notification__  __.—__ 
 
 >         The Secretary shall notify the Chairman, the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives of the reasons for the approval or disapproval of the proposed exchange.
 
 >     “(c) __Exchanges Initiated by Secretary.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may recommend to the Chairman an exchange of Hawaiian Home Lands for Federal lands described in section 203(b)(5), other than lands described in subparagraphs (B) and (C) of such section. If the Secretary initiates a recommendation for such an exchange, the Secretary shall submit a report to the Chairman on the proposed exchange that meets the requirements of a report described in subsection (a).
 
->         “(2) __Approval by chairman.—__ 
+>         “(2)  __Approval by chairman__  __.—__ 
 
 >         Not later than 120 days after receiving a recommendation for an exchange from the Secretary under paragraph (1), the Chairman shall provide written notification to the Secretary of the approval or disapproval of a proposed exchange. If the Chairman approves the proposed exchange, upon receipt of the written notification, the Secretary shall notify the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives of the approval of the Chairman of the proposed exchange.
 
->         “(3) __Exchange.—__ 
+>         “(3)  __Exchange__  __.—__ 
 
 >         Upon providing notification pursuant to paragraph (2) of a proposed exchange that has been approved by the Chairman pursuant to this section, the Secretary may carry out the exchange.
 
 >     “(d) __Selection and Exchange.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary may—
 
@@ -525,7 +525,7 @@ DISTRICT COURT  </td>
 
 >             “(B) make recommendations to the Chairman concerning making an exchange under subsection (c) that includes such real property.
 
->         “(2) __Transfer.—__ 
+>         “(2)  __Transfer__  __.—__ 
 
 >         Notwithstanding any other provision of law, if the Chairman approves an exchange proposed by the Secretary under paragraph (1)—
 
@@ -533,17 +533,17 @@ DISTRICT COURT  </td>
 
 >             “(B) the Secretary shall carry out the exchange.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         No Federal lands that generate income (or would be expected to generate income) for the Federal Government may be conveyed pursuant to this subsection to the Department of Hawaiian Home Lands.
 
 >     “(e) __Surveys and Appraisals.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary shall conduct a survey of all Hawaiian Home Lands based on the report entitled ‘Survey Needs for the Hawaiian Home Lands’, issued by the Bureau of Land Management of the Department of the Interior, and dated July 1991.
 
->         “(2) __Other surveys.—__ 
+>         “(2)  __Other surveys__  __.—__ 
 
 >         The Secretary is authorized to conduct such other surveys and appraisals as may be necessary to make an informed decision regarding approval or disapproval of a proposed exchange.
 
@@ -551,15 +551,15 @@ DISTRICT COURT  </td>
 
 >     “(a) __Designation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act \[Nov. 2, 1995\], the Secretary shall designate an individual from within the Department of the Interior to administer the responsibilities of the United States under this title and the Hawaiian Homes Commission Act.
 
->         “(2) __Default.—__ 
+>         “(2)  __Default__  __.—__ 
 
 >         If the Secretary fails to make an appointment by the date specified in paragraph (1), or if the position is vacant at any time thereafter, the Assistant Secretary for Policy, Budget, and Administration of the Department of the Interior shall exercise the responsibilities for the Department in accordance with subsection (b).
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The individual designated pursuant to subsection (a) shall, in administering the laws referred to in such subsection—
 
@@ -573,7 +573,7 @@ DISTRICT COURT  </td>
 
 > “SEC. 208. __REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 2, 1995\], the Chairman shall report to the Secretary concerning any claims that—
 
@@ -581,11 +581,11 @@ DISTRICT COURT  </td>
 
 >         “(2) are not otherwise covered under this title.
 
->     “(b) __Review.—__ 
+>     “(b)  __Review__  __.—__ 
 
 >     Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to each claim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
 
->     “(c) __Compensation.—__ 
+>     “(c)  __Compensation__  __.—__ 
 
 >     If the Secretary makes a determination under subsection (b) that compensation should be granted to the Department of Hawaiian Home Lands, the Secretary shall determine the value of the lands and lost use in accordance with the process established under section 203(a), and increase the determination of value made under subparagraphs (A) and (B) of section 203(a)(1) by the value determined under this subsection.
 
